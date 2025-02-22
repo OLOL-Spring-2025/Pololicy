@@ -1,0 +1,357 @@
+ 
+Emergency Management Plan  
+POLICIES AND PROCEDURES MANUAL Manual:  Environment of Care 
+Our Lady of the Lake Regional Medical Center Chapter:  Emergency Management 
+Subject:  Emergency Management Program Plan Section:   
+Date of Origination:  January 1, 1997 Supersedes:       
+Date Last Revised:  07/12/2021 Serial Code:  ECEP000 
+Date Last Reviewed: 05/02/2024 
+ 
+OBJECTIVE and SCOPE 
+The organization engages in planning activities prior to developing its Emergency Operations Plan. The hospital’s leaders including 
+those of the medical staff actively participate in emergency management planning; the hospital conducts a hazard vulnerability 
+analysis (HVA) to identify events that could affect demand for its services or its ability to provide those services, the likelihood of 
+those events occurring and the consequences of those events; Together with its community partners prioritizes those hazards, threats 
+and events identified in the HVA; Communicates its needs and vulnerabilities to community emergency response agencies and 
+identifies the capabilities of its community in meeting their need . The hospital uses its HVA as a basis for defining mitigation and 
+preparedness activities.  
+ 
+The objective of the Emergency Management program is to identify processes for managing the effect of emergency events to hospital 
+operations. HVAs are completed annually to identify and prioritize potential natural, technological and/or human emergency events 
+that may affect demand for or the hospital’s ability to respond to demand for services. The HVA process includes an evaluatio n of 
+mitigation and preparedness activities, as well as response and recovery strategies. Results of the HVA s are shared with other 
+hospitals within the Franciscan Missionaries of Our Lady Health System (FMOLHS) and with other hospitals and agencies within 
+East Baton Rouge Parish and Public Health Region 2. The hospital maintains emergency response plans for priority vulnerabilities 
+identified through the HVA process. OLOL RMC is an active participant in community planning activities within the City of Baton 
+Rouge, East Baton Rouge Parish, Public Health Region 2 and the State of Louisiana.  
+ 
+The hospital’s incident command structure is integrated into and consistent with its community’s command structure.  
+ 
+The hospital uses an incident command structure that is compliant with the National Incident Management System (NIMS) structu re 
+and is consistent with the command structure in place at other healthcare facilities in East Baton Rouge Parish, Public Healt h Region 
+2, and the State of Louisiana. Use of the incident command and the NIMS structure enables a common, consistent language between 
+facilities which supports an effective community-wide response. 
+ 
+Training for team members about incident command begins in general orientation and is included in annual education. Hospital 
+leaders, including managers, directors, division directors and senior leaders are assigned incident command training , including, but not 
+limited to online courses through the FEMA Emergency Management Institute Independent Study Program 
+(https://training.fema.gov). Hospital leaders complete ICS 100, Introduction to Incident Command for Healthcare/Hospitals and ICS 
+200, Applying ICS to Healthcare Organizations. Leaders with assigned roles in the command structure also complete ICS 700, 
+National Incident Management System, An Introduction and ICS 800, National Response Framework, An Introduction . 
+The Emergency Operations Plan may be activated or discontinued by the Administrator on Call (Incident Commander) or by joint 
+decision by the Emergency Care Unit Physician on Duty, the Vice President of Patient Care Services (or designee) and the 
+Administrator on Call. Whenever an emergency event is identified, the Chief Executive Officer (CEO) and Chief Operating Offic er 
+(COO) will be notified as soon as possible. (See ECEP001; Region 2 Hospital Plan) 
+ 
+The hospital keeps a documented inventory of the assets and resources it has on site that would be needed in an emergency .) 
+ 
+An inventory of hospital assets and resources needed during an emergency is available and is reviewed at least annually and updated 
+as appropriate. During an activation of any of the hospital’s emergency response plans, responsibility for monitoring quantities of key 
+resources is assigned to leadership as follows: 
+• Materials Management: Patient care supplies 
+• Surgical Materials: Surgical supplies 
+• Pharmacy: Pharmaceutical supplies  
+Emergency Management Plan  
+• Laboratory/Blood Bank: Testing and Blood supplies 
+• Nutritional Services: Food supplies 
+• Linen Services: Linen supplies 
+• Plant Services: Utility-related supplies (fuel, etc.) and Waste management 
+ 
+PROCESSES 
+The hospital has a written Emergency Operations Plan (EOP) that describes the response procedures to follow when emergencies 
+occur; recovery strategies and actions designed to help restore the systems critical to providing care, treatment and service s after an 
+emergency; and activation and demobilization procedures for response and recovery phases.) The EOP identifies the hospital’s 
+capabilities, establishes response procedures for when the hospital cannot be supported by the local community , and identifies 
+alternative sites for care.  
+ 
+The hospital’s Emergency Operations Plan is organized using an “all hazards” approach and is used to guide the hospital’s response to 
+internal and external emergencies. The hospital will implement the Emergency Operations Plan when an internal or external event or 
+condition produces a threat to the welfare of patients, guests and/or staff, and/or when an emergency situation confronting the hospital 
+creates an influx of patients or a large increase in acuity of casualty victims. (See ECEP001) 
+ 
+Response plans for key identified vulnerabilities are in place. See also Code Gray – Tornado Plan (ECEP004); Code Gray – Hurricane 
+Plan (ECEP005); Code Black – Bomb Threat Plan (ECEP006); Code Red – Fire Plan (ECEP007); Mass Influx of Infectious Patients / 
+Bioterrorism Plan (ECEP008); Code Purple – IS/Telecommunications Failure (ECEP009); Code Orange – Chemical Contamination 
+Plan (ECEP010); Code Green – Radiation Plan (ECEP013); Code Yellow – Mass Casualty Incident Plan (ECEP016); and Code Silver 
+– Active Shooter/Hostage (ECSE019). 
+ 
+Resource relationships are established to support hospital operations during emergencies where the community is unable to provide 
+support. Capacity is evaluated at least annually and following each exercise or plan implementation  where supplies or facility 
+resources are tested.  
+ 
+Alternative care sites are coordinated within the FMOLHS structure as well as through the Louisiana Hospitals Emergency Respo nse 
+Plan. Whenever possible, patients will be transported to hospitals within the community or to other FMOLHS facilities. If alt ernate 
+care sites are not available within the FMOLHS group, sites outside of Louisiana will be activated.  
+ 
+A. Critical Area - Communication 
+ 
+The hospital prepares for how it will communicate during emergencies including plans for notifying staff when emergency response 
+measures are initiated; plans for ongoing communication of information and instructions to its staff; processes for notifying external 
+authorities; plans for communicating with patients and their families. The hospital defines the circumstances and plans for 
+communicating with the community and/or the media during emergencies and plans for communicating with purveyors of essential 
+supplies, services and equipment once emergency measures are initiated. The hospital plans for communicating with other health care 
+organizations that together provide services to a contiguous geographic area regarding: Essential elements of their command 
+structure; Names and roles of individuals in their command structure; Resources and assets that could potentially be shared; Names 
+of patients and deceased individuals (in accordance with applicable law and regulation) ; Circumstances for communicating 
+information about patients to third parties; Communicating with alternative care sites; and establishes back-up communication 
+systems and technologies for the above. -2, 8) 
+ 
+The Emergency Department is often the initial point of contact for a community -wide disaster. Upon notification of a community-
+wide disaster, the Emergency Department will contact the Administrator on Call (AOC) who is responsible for evaluating the po tential 
+impact of the event and initiating the incident command structure. Should a disaster occur during evening or weekend hours, t he 
+Emergency Department Charge Nurse and the House Manager/Supervisor will assume the administrator’s duties until he/she arrives. 
+The AOC will approve and direct departments to activate their disaster call rosters and will approve emergency call -out when 
+necessary. Personnel within the hospital are notified by overhead paging of an emergency code indicating the hospital is resp onding to 
+a disaster situation, and by a mass alert issued electronically to computer workstations, pagers and/or telephones. The hospital has 
+adopted standardized codes for communicating emergency situations used in hospitals across Louisiana. See ECEP012 for a list of  
+Emergency Management Plan  
+codes. Use of standardized codes and common terminology supports community coordination for an effective response. Ongoing 
+communication to staff is provided electronically with the Team Member Alert template and regularly scheduled briefings for 
+department leaders. Alerts and updates are also communicated to Team Members via the Lake Alert Text System.  Information is also 
+posted as a recorded message on the Disaster Information Line (765 -6651) and using web communication tools such as Lake MD.  
+ 
+The Liaison Officer is responsible for communicating with the East Baton Rouge Parish Office of Emergency Preparedness and 
+Homeland Security (EBROHSEP) and other community agencies regarding an emergency event with community -wide implications. 
+Infection Control information is relayed to the Office of Public Health (OPH) to convey suspected cases of infectious disease , 
+including cases where a biological agent is suspected. (See ECEP008, IC4004). Telephone or radio contact is maintained with other 
+area hospitals and with local ambulance services. The Hospital Designated Regional Coordinator as defined in the Region 2 Hospitals 
+Plan will be included when EBROHSEP is contacted in order to facilitate communication and information sharing with other hospitals 
+in the Region. (See Region 2 Hospital Plan)  
+ 
+A Public Information Office (PIO) is assigned to coordinate communication to the community and/or media during a disaster eve nt. 
+Contact information for media and other community partners is maintained by the Corporate Communications department. The PIO is 
+responsible for ensuring contact with any Joint Information System established by the community during the disaster. OLOL has  
+implemented an all-hazards incident command system that is consistent with other hospitals within Region 2. In addition, OLOL is 
+identified as a Designated Regional Hospital in the Health and Human Services Region 2 Hospitals Plan. This role includes 
+responsibilities for communicating with other health care organizations within Region 2 and the State during disasters.  
+ 
+The Hospital Designated Regional Coordinator serves as a liaison with other hospitals and OLOLRMC and is responsible for initiating 
+and coordinating information sharing including key positions within hospital command structures, resources for sharing and pa tient 
+information (when appropriate).  
+ 
+The hospital uses a web-based resource tracking tool provided by the State of Louisiana, to communicate bed availability and other 
+key resources during disaster events. The hospital Beds Coordinator /House Supervisor is responsible for updating information 
+submitted at established intervals (usually every 8-12 hours) or as often as necessary to communicate an accurate picture of hospital 
+resources.  
+ 
+When necessary, information about patients will be shared through the Louisiana Hospitals Association to facilitate prompt 
+communication with family members who may be searching for an evacuated patient or patient cared for at OLOL  Facilities in 
+response to the disaster. Information about the deceased will be provided to the appropriate Parish Coroner’s Office. 
+ 
+Communication with patients and family members is the responsibility of the Public Information Officer (PIO). The PIO will 
+coordinate with department leaders to provide information about the event and protective measures or other action needed on an 
+ongoing basis during a disaster event. 
+ 
+Key vendors are alerted as early as possible when a threat is known (for example a hurricane) to prepare additional supplies to be 
+delivered to the hospital when needed. Contact information for vendors is maintained in Materials Management, Surgical Materials, 
+Linen Services, Nutritional Services and Plant Services and reviewed at least annually.  
+ 
+Redundancies to internal communication systems are available in the form of access to internet, cellular telephones, pagers, and 700 
+MHz radio for external communication. Internal communication is supported with Voalte phones. Hand-held radios (walkie-talkies) 
+are available for use by mobile staff (i.e., Security). An 800 MHz radio is available for contacting the Hospital Designated Regional 
+Coordinator at the East Baton Rouge Parish Office of Homeland Security and Emergency Preparedness (EBROHSEP). Government 
+Emergency Telecommunication Systems (GETS) telephones and satellite telephones are available and may be activated by the 
+Incident Commander when necessary to facilitate critical communication.  
+ 
+B. Critical Planning Area - Resources 
+ 
+The hospital prepares for how it will manage resources and assets during emergencies  including obtaining medication, medical and 
+non-medical supplies required throughout response and recovery phases, sharing of resources and assets with other healthcare  
+Emergency Management Plan  
+organizations within or outside the community and how quantities of resources and assets will be monitored.  
+ 
+Materials Management, Surgical Materials, Linen Services, Pharmacy and Nutritional Services are responsible for maintaining 
+adequate patient care, surgical, pharmaceutical, and nutritional supplies to maintain hospital operations during a disaster response. 
+Relationships with vendors and suppliers are in place to ensure adequate supplies are available. A cache of patient care supp lies is 
+secured by the hospital’s primary distributor for delivery on request during a disaster event. In addition, an on -site cache of personal 
+protective equipment (PPE) and pharmaceuticals is maintained. Pre-event orders are obtained to supplement on-site resources for care, 
+pharmaceutical and nutritional supplies through identified vendors and distributors. A Logistics Chief is assigned to support  
+monitoring of existing resources and to communicate expected needs through the command structure. When necessary, the hospita l 
+will use the Region 2 Hospital Plan to request support from Parish, State or Federal agencies.  
+ 
+Resource sharing within the local and state community will be accomplished using the Region 2 Hospital Plan. Region 2 hospitals 
+have worked together in purchasing critical equipment and supplies and in providing training for staff to enhance community -wide 
+sharing during disaster events. The Hospital Designated Regional Coordinator is the access point for this plan and will facilitate 
+resource sharing between Region 2 hospitals and outside the area when needed. The Hospital Designated Regional Coordinator is also 
+the avenue through which Parish, State and Federal assets may be requested by the hospital. (See Region 2 Hospitals Plan) 
+ 
+The EOP describes the hospital’s arrangements for transporting patients, supplies, equipment, staff and information when the 
+environment cannot support care, treatment and services.  
+ 
+The hospital’s primary strategy is to shelter in place however a plan for evacuating individual departments to safe areas within the 
+hospital as well as for evacuating to safe areas outside the hospital is in place  in situations where the hospital environment is no longer 
+safe. The Incident Commander has the authority to activate the hospital evacuation plan. Staff is trained in evacuation technique s for 
+safe patient movement when equipment is not available for their transfer and tested at least annually. The decision to evacuate will be 
+made when it is determined the facility environment cannot adequately support patient care.  (See ECEP003) Patients will be evacuated 
+to other hospitals within the community using the Region 2 Hospitals Plan or to other Franciscan Missionaries of Our Lady Health 
+System facilities. If alternate care sites are not available within the FMOLHS group, alternate care sites outside Louisiana will be 
+activated.  
+Local transportation will be accomplished using emergency medical transportation (ambulances) made available by Acadian 
+Ambulance and the City of Baton Rouge Emergency Medical Service. FMOLHS will coordinate transportation to other FMOLHS 
+facilities or outside Louisiana. If transportation resources are not available when needed, the hospital will request support  through the 
+Parish and/or State Emergency Operations Center. Patients will be transferred with medications and care equipment when necessary. 
+Items will be labeled using a patient label and recorded on the patient transport log. A copy of the patient’s medical record will be 
+collected and transferred to the alternative care site with the patient. If the patient is transferred to an alternate care site that is not 
+within the FMOL Health System, the electronic medical record may not be available therefore a paper copy of the record will be 
+prepared and sent with the patient.   
+ 
+C. Critical Planning Area - Security and Safety 
+ 
+The hospital prepares for how it will manage security and safety during an emergency  including internal security and safety; defining 
+the roles of community security agencies and how the hospital will coordinate with them; Identifying a process for managing 
+hazardous materials and waste and a means for radioactive, biological and chemical isolation and decontamination. The hospital 
+establishes processes for controlling: Entrance into and out of the facility ; Movement of individuals within the facility and vehicles 
+accessing the facility.  
+ 
+Security is responsible for controlling access to the hospital during emergencies. A card -access system has been installed to limit 
+access to the main hospital building and to critical (high risk) areas within the hospital. Employees and members of the medi cal staff 
+are required to wear an identification badge that is programmed with access appropriate to their job role. Coordination with 
+community security agencies such as the police or constable’s office is the responsibility of the Safety and Security Officer  in the 
+command structure. Security will implement procedures to secure the hospital’s perimeter including vehicle access to the property. 
+When necessary, access to the Emergency Care Unit parking area will be closed and traffic redirected as appropriate.  
+  
+Emergency Management Plan  
+Hazardous Materials and Wastes are kept in a locked storage area until collected by the hospital’s waste contractor. Security  cameras 
+are in place to record activity in the storage area.  
+ 
+A team of staff are trained to decontaminate victims who have been contaminated with radiation, biological or chemical agents . 
+Decontamination supplies including protective equipment and decontamination showers are available. Should additional resources for 
+decontamination be needed, the hospital will request assistance through the Region 2 Hospital Plan and/or from the EBROHSEP. The 
+hospital also maintains a relationship with the River Bend Nuclear Power Plant to provide staff training and equipment used w hen 
+responding to a patient contaminated with radiation. Companies within the Region provide Safety Plans specific to their organ ization 
+about the types of chemicals utilized and proper decontamination processes.  
+ 
+D. Critical Planning Area - Staff  
+ 
+The hospital prepares for how it will manage staff during an emergency and defines the following: the process for communications, 
+resources and assets, safety and security, utilities and patient management; the process for assigning staff to essential sta ff functions; 
+to whom staff report in the command structure; how the hospital will manage staff and family support needs . Staff is trained for their 
+assigned roles and the hospital communicates in writing to LIPs their roles and to whom they report in an emergency EOP describes 
+how the hospital will identify care providers and other personnel assigned to areas during an emergency.  
+ 
+All employees are considered essential during a disaster response. The Incident Commander will determine if special staffing is 
+required and will direct reassignment of available personnel to ensure critical functions are supported. Staff roles and responsibilities 
+are detailed in specific emergency event plans, disaster checklists and job action sheets. Staff is oriented to disaster resp onsibilities 
+during general orientation, departmental orientation and reinforced with annual education.  
+ 
+All hospital employees and members of the Medical Staff are issued a photo identification badge to be used as positive identi fication 
+daily and during emergencies. Leaders who are assigned roles within the Incident Command structure are identified with red vests th at 
+are labeled with the leaders’ command role.  
+ 
+The Incident Command Team is responsible for evaluating the need for staff support during an emergency. When appropriate and 
+available, staff will be provided transportation to the hospital and housing within the hospital during a disaster. The decis ion to offer 
+shelter / housing during disasters will be made by the Incident Command team based on an event -to-event basis. Cots and air 
+mattresses are available for rest / sleep areas when needed. A Critical Incident Stress Management Team is available to provide 
+emotional support to staff involved in responding to an emergency event 
+ 
+Processes are in place for the hospital to grant disaster privileges to volunteer licensed independent practitioners (LIPs) and for 
+assigning responsibilities to volunteer practitioners who are not LIPs during disasters.  
+Volunteer licensed practitioners (such as Registered Nurses, Respiratory Therapists, Pharmacists, etc.) may be requested by the 
+Incident Commander when needed to sustain the hospital’s response during a disaster. Volunteer practitioners will be required to 
+provide photo identification prior to assignment during disaster events and to wear a photo ID during assignment. Primary source 
+verification of licensure will be completed as soon as possible following activation. Physicians who respond to the hospital during a 
+disaster will be coordinated by the Medical Staff Office. Emergency privileging will follow procedures enunciated in the Medi cal 
+Staff Bylaws. (See ECEP001, ECEP015, Medical Staff Bylaws). 
+ 
+E. Critical Planning Area - Utilities 
+ 
+The hospital prepares for how it will manage utilities during an emergency  and identifies an alternative means of providing for: 
+Electricity; Water needed for consumption and essential care activities; Water needed for equipment and sanitary purposes; Fuel for 
+building operations and essential transport activities; medical gas/vacuum systems; and other essential utility needs.  
+ 
+In the event of failure of an essential utility, Plant Services will implement the Utility Failure Plan appropriate to the affected utility 
+system. A Logistics Chief will be assigned to coordinate communication of utility status during disaster and need to activate 
+emergency response procedures if a utility is affected by the disaster.  
+  
+Emergency Management Plan  
+Emergency electricity is available through back-up generators that are tested monthly to verify function and capacity. (See ECUS003) 
+Emergency generator (diesel) support is prioritized for critical areas through a uniquely identifiable (red) receptacle. ( See ECUS004) 
+In addition, a bank of stand-by generators (natural gas) is available to supplement the emergency generators in supporting facility 
+systems. A process is in place for responding to partial or total loss of electricity. ( See ECUS023) Fuel reserves at The Regional 
+Medical Center are maintained in an on-site underground 10,000-gallon diesel tank; at Children's Hospital in an on-site aboveground 
+40,000-gallon diesel tank, and at OLOL Ascension a 5,000-gallon diesel tank.  Agreements are in place with the fuel vendor to 
+provide additional fuel when requested during a disaster event. (See ECUS007)  
+ 
+If the hospital’s supply of potable water is disrupted, Nutritional Services will obtain additional supplies through existing ag reements 
+and “disaster orders” with primary distributors. Disruption of water for equipment and sanitary purposes triggers conservation plans.   
+ 
+Medical gas and vacuum systems are supported using additional tanks of portable gasses through agreement with the hospital’s 
+medical gas vendor and portable suction units are available through central supply.  
+ 
+Downtime procedures are in place for supporting the hospital information systems structure during short -term interruptions. A disaster 
+recovery plan is in place to support information systems that includes offsite, out of state back -up locations. (See FMOLHS IS 
+Disaster Recovery Plan) 
+ 
+F. Critical Planning Area - Patient Clinical and Support Activities 
+ 
+The hospital prepares for how it will manage patients during emergencies including activities as a part of patient scheduling, triage, 
+assessment, treatment, admission, transfer, discharge; Evacuation; Surge for services for vulnerable populations served by the 
+hospital; Personal hygiene and sanitation needs of patients; Mental health service needs of patient; Mortuary services; and p lans for 
+documenting and tracking patients’ clinical information.  
+ 
+The Incident Commander is responsible for ensuring hospital operations are maintained during a disaster event. An Operations Chief 
+position is assigned to coordinate clinical activities including patient scheduling, triage, assessment, treatment, admission , transfer, 
+and discharge. (See ECEP016 – Code Yellow / Mass Casualty Events) Decisions to modify or discontinue patient care activities 
+during a disaster will be made jointly by the Incident Commander and Operations Chief.  
+ 
+The decision to evacuate is the responsibility of the Incident Commander with input from Command Staff and outside experts wh en 
+needed. Evacuation will be considered when the hospital environment is no longer safe for patient care. When the decision to evacuate  
+is made, patients will be evaluated to determine the order in which they will be transported and to what alternate care locat ion. Effort 
+will be made to evacuate patients to other hospitals within the community whenever possible in order to reduce the travel tim e and risk 
+of injury to the patient. When the community is unable to receive patients, other hospitals within Louisiana including FMOLHS  
+facilities will serve as care destinations. Agreements are in place to transport patients to hospitals outside of Louisiana i f necessary. 
+(See also Section B. Critical Planning Area – Resources). 
+ 
+Trained staff are available for assuring that vulnerable populations (pediatrics, elderly, mental health) a re cared for during a disaster. A 
+Pediatric Emergency Care Unit is in place to address the unique needs of pediatric patients who require emergency care. Staff  from the 
+Children’s Hospital will support the Pediatric Emergency Care Unit when needed during a disaster. A mental health evaluation team 
+(COPE Team) is in place to provide assessment services for patients with mental health needs. Inpatient acute and geriatric a s well as 
+outpatient mental health services is offered by the hospital. The COPE Team is available for assessment of mental health service needs 
+of patients during disaster events. In addition, a Critical Incident Stress Management team is in place to support immediate crisis 
+intervention needs. Pastoral Care is available for spiritual support to patients and staff during a disaster response.  
+ 
+Personal Care Kits are available to provide for patient hygiene needs through materials management. Waterless products are available 
+for patient and staff hygiene if water systems are not available.  
+ 
+The morgue will be used to store deceased patients until they can be delivere d to an appropriate disposition. Morgue capacity is 
+limited; therefore, the hospital will coordinate with Parish and Regional resources to facilitate timely collection and/or expand storage 
+capacity when necessary. Requests for additional mortuary resources are coordinated by the Hospital Liaison with the Region 2  
+Emergency Management Plan  
+Hospital Designated Regional Coordinator.  
+ 
+Documenting and tracking patients’ clinical information is the responsibility of the Patient Tracking position within the com mand 
+structure. This position will be staffed with leaders from the Access Services or Health Information Management departments. 
+Patients admitted as part of a disaster response are identified using disaster registration numbers or other unique identifie rs to 
+effectively track the patient within the hospital system. Clinical information is documented using existing methods. If computer -based 
+documentation systems are not available, downtime procedures will be used. If in the course of the response patients are tran sferred to 
+an alternate care site(s), patient information will be provided to the alternate care site at the time of transfer in order t o ensure 
+continuity of care for the patient.  
+ 
+G. Emergency Operations Plan Evaluation 
+ 
+The hospital evaluates the effectiveness of its emergency planning activities through an annual review of risks, hazards and potential 
+emergencies as defined in its hazard vulnerability analysis (HVA) and annual review of its Emergency Operations Plan (EOP) an d 
+inventory process.  
+The hospital tests its emergency operations plan twice a year either in response to an actual emergency or in a planned exercise and 
+at least once a year includes an influx of actual or simulated patients. At least one exercise a year is escalated to evaluate how 
+effectively the organization performs when it cannot be supported by the local community . Hospitals that have a defined role in the 
+communitywide emergency management program participate in at least one communitywide exercise a year . Planned exercises are 
+realistic and related to the priority emergencies identified in the hospital’s HVA and are evaluated by a designated individu al who is 
+knowledgeable in the goals and expectations of the exercise and documents opportunities for improvemen t. During planned exercises, 
+the hospital monitors: Communication; Resource mobilization; Safety and security; Staff roles and responsibilities; Utility systems; 
+Patient clinical and support care activities. All exercises are critiqued to identify deficiencies and opportunities for impr ovement 
+through a multidisciplinary process and modifications are made to the EOP in response to critiques . Planned exercises evaluate the 
+effectiveness of improvements made in response to critiques and this evaluation communicated to a multidisciplinary improvement 
+team responsible for monitoring environment of care issues.) 
+ 
+Emergency planning activities are evaluated within the annual evaluation of the Environment of Care program. An HVA is completed 
+annually to identify and prioritize potential natural, technological and/or human emergency events that may affect demand for  or the 
+hospital’s ability to respond to demand for services. Disaster drills /exercises are performed to test the hospital’s emergency 
+management plan. Tests include at least one test involving an influx of simulated victims. Exercises are planned to test the hospital’s 
+response in priority emergencies identified in the HVA. OLOL has a key role in the community -wide response and therefore 
+participates in at least one community-wide exercise each year.  
+ 
+Evaluation of disaster drills is the responsibility of the Manager, Environmental Safety, and members of the Emergency Management 
+Committee. Evaluators monitor exercise activities and collect performance information during the exercise. This is documented  
+through After-Action Reports and is used to identify opportunities for improvement and to develop action plans. A summary report of 
+exercise performance and resultant action steps is reported at least quarterly to the Environment of Care Committee.  

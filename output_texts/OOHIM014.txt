@@ -1,0 +1,195 @@
+OO-HIM-014 
+Page 1 of 6 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: HIM 
+Title: Accounting of Disclosures Policy Reference #: OrgOps/HIM/014 
+Supersedes #:  
+Date of Origination: September 24, 2009 Last Review Date: March 2021 
+Last Revision Date: March 5, 2021 
+ 
+PURPOSE:  
+To assure that patients can receive an accounting of disclosures of Protected Health Information (PHI) 
+when required by the Health Insurance Portability and Accountability Act (HIPAA). 
+ 
+POLICY:  
+A. Upon request, an individual will be given an accounting of disclosures of PHI in the six years 
+prior to the date of the request. 
+ 
+B. Exception: Accounting is not required for disclosures made― 
+1. To carry out treatment, payment or health care operations 
+2. To the individual of his or her own information 
+3. For the facility director directory or to persons involved in the individual’s care or other 
+notification purposes permitted under law 
+4. Incidental to otherwise permissible disclosures 
+5. For national security or intelligence purposes 
+6. To correctional institutions or law enforcement officials as permitted under law  
+7. As part of a limited data set 
+8. Prior to April 14, 2003 
+ 
+C. The right to an accounting of disclosures may be temporarily suspended upon request of a health 
+oversight agency or law enforcement official, as provided by HIPAA 
+ 
+PROCEDURES 
+A. Providing the accounting: 
+1. Requests for accounting shall be made to the Privacy Officer during regular business hours 
+and shall be replied to within 60 days unless an extension of time is permitted under the 
+regulations.   
+2. Individuals will be asked to complete the Request for Disclosure Accounting Form 
+(Attachment A). No employee shall refuse a request for accounting without the approval of 
+the Privacy Officer. 
+2. Except for those disclosures for which accounting is suspended, the accounting will include 
+all Accountable Disclosures that occurred during the period for which the accounting is 
+requested, up to six years prior to the request.   
+3. Standard accounting items will include the date of the disclosure; the name and address (if 
+known) of the entity or person who received the PHI; a brief description of the PHI 
+disclosed; and a brief statement of the purpose of the disclosure. 
+4. In the case of multiple disclosures to the same person or in the case of disclosures research 
+purposes, consult the Privacy Officer for special rules that may apply.  OO-HIM-014 
+Page 2 of 6 
+5. The Privacy Officer shall establish a reasonable fee for the accounting, as permitted by 
+HIPAA regulations. 
+6. The accounting shall be reviewed by the Privacy Officer before delivery.  The Privacy 
+Officer shall delete any disclosure for which a suspension is in force.   
+7. The accounting shall be delivered to the individual according to the delivery method 
+contained in the request.  
+8. A copy shall be placed in the patient’s chart. 
+ 
+B. Suspending the accounting: When a health oversight agency or law enforcement official requests 
+in writing that the individual’s right to accounting of disclosures made to it for health oversight 
+or law enforcement purposes as allowed by the Privacy Rule be temporarily suspended, we will 
+suspend the individual’s right to receive an accounting of that disclosures for the period 
+requested.  That request shall be noted in the Accounting Disclosure system and must comply 
+with HIPAA regulations. Consult the Privacy Officer for guidance.  
+ 
+C. Documentation: The information required to be included in an accounting and the written 
+accounting that is provided to the individual shall be retained for six years as required by 45 CFR 
+164.5300. 
+REFERENCES 
+A. Health Information Portability and Accountability Act, 42 U.S.C. §1320d-1329d-8. 
+B. HIPAA regulations, 45 C.F.R. § 164.528 
+ 
+ATTACHMENTS 
+A. Request for Accounting of Disclosures (form) 
+B. Response 
+C. Accountings Log 
+D. Accountings Checklist 
+ 
+ 
+ OO-HIM-014 
+Page 3 of 6 
+ 
+Request for Accounting of Disclosures of PHI 
+Please complete the following information: 
+ 
+Today’s date:______________________________ 
+ 
+Patient’s full legal name:_________________________________________________________ 
+ 
+Birthdate:____________________  Patient SS#_______________________________________ 
+ 
+Address:______________________________________________________________________ 
+ 
+City:______________________________________State:_________ZipCode:______________ 
+ 
+For what period do you want an accounting? 
+Start date: Must be April 14 2003 or later date (please specify):__________________________ 
+ 
+Ending date (may not be more than 6 years after start date):_____________________________ 
+ 
+How do you want disclosure of accounting delivered: 
+_____ Mail to above address                      
+_____ Mail to the following address: 
+ 
+Street Address:________________________________________________________________ 
+ 
+City:___________________________________State:__________Zip Code:_______________ 
+ 
+Fax Number:__________________________E-mail address:___________________________ 
+ 
+ 
+              
+              
+            
+ 
+ 
+ 
+Signature:__________________________________________________ Date:______________ 
+ Patient or Patient Representative 
+ 
+FACILITY USE ONLY 
+Date of last accounting, if any:_________________ 
+__ No charge if more than 12 months  
+__ Since you have requested an accounting within the last twelve months, there will be a charge 
+of $____________ for this accounting.  You have the right to withdraw your request if you do 
+not want to pay this amount. 
+ 
+_______I agree to pay the above amount.     _______ I withdraw my request for an accounting.   
+ 
+Signature of Facility 
+designee:_____________________________________Date:____________________                                                                                  
+              
+          OO-HIM-014 
+Page 4 of 6 
+If signed by Patient representative, list relationship to patient:____________________________ 
+   OO-HIM-014 
+Page 5 of 6 
+Disclosure Accounting Form  
+Contact Person:  
+ 
+Patient Name Med Rec 
+# or 
+Acct. # 
+Disclosur
+e Date 
+Recipient 
+Name 
+Recipient Address Description of PHI 
+disclosed 
+Purpose of the 
+disclosure (note if 
+written request is 
+contained in pt’s 
+file) 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+      OO-HIM-014 
+Page 6 of 6 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+      
+ 
+ 

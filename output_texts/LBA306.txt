@@ -1,0 +1,75 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 2 
+LBA306 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA306 
+AUTOVERIFICATION OF TEST RESULTS  
+        Date Issue  Date Effective Date 
+ Prepared/Revised By D Leger 12/5/17 12/12/2017 12/12/2017 
+Blood Donor Service Director Review D Gremillion 12/11/2017 Origination Date 
+Core Lab Director Review J Teague 12/11/2017 10/2009 
+Outreach Director Review E Landry 12/11/2017  
+Medical Director Review A Harton 12/12/2017  
+ 
+PURPOSE 
+To describe the autoverification process using the EPIC System at OLOL. 
+ 
+ 
+POLICY  
+Autoverification of laboratory instrument test results refers to computer processing and 
+evaluation of test results for a given analyte from a given instrument when the result of 
+said analyte falls within approved parameters.  When autoverification is first established, 
+analytes are evaluated for autoverification processing.  All programming and testing is 
+done in the testing environment before being moved to the production environment.  
+Results are then monitored continuously in production to ensure proper performance. 
+ 
+The criteria for autoverification are programmed according to the standards determined 
+for each analyte by the appropriate laboratory sections.  Samples passing the following 
+checks qualify for autoverification:  Delta, Linearity, Critical, Integrity, and logic (ie 
+Male vs Female).  Results are also checked against reportable range and critical value 
+criteria before each test is accepted and reported by the computer. 
+ 
+Ongoing validation of testing processes is performed quarterly within the departments.  
+Documentation is located within each respective department.  Validation will confirm 
+that decision rules are functioning properly and will include results that challenge the 
+algorithm. In addition, each time there is a change to the system that could affect 
+autoverification logic, the parameters set up for each affected test must be re-evaluated to 
+ensure that the system is releasing results appropriately. 
+ 
+Tests set up for autoverification are approved of by the laboratory director as well as the 
+supervisor of each department.  The supervisors and their designees ensure that 
+applicable quality control samples are run within appropriate time periods, with 
+appropriate results for all tests subject to autoverification. 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 2 
+LBA306 
+The computer system allows for an audit trail that provides the identification of test 
+results that autoverified, including the time and date of autoverification.  Should a 
+problem arise with a test that autoverifies due to quality control issues, instrument 
+malfunction, or other unforeseen issue, rapid suspension of autoverification may be 
+initiated by contacting the IS Help Desk at (5-4357) and should be alerted that the 
+situation is emergent.  The affected test should be suspended for the affected analyzers 
+until the issue can be resolved.  Results that autoverified before the problem was 
+identified may need to be recalled and corrected according to departmental protocols, 
+depending on the circumstances. 
+ 
+REVISIONS 
+10/2009 (CREATED), 3/15/15, 10/4/17, 12/5/17 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,170 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA  70808 
+Page 1 of 4 
+LBA407 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA407 
+OUTREACH REGISTRATION PROCEDURE 
+        Date Issue  Date Effective Date 
+ Prepared/Revised By A Dufrechou 08/10/17 4/9/2018 4/9/2018 
+Blood Donor Service Director Review D Gremillion 3/7/2018 Origination Date 
+Core Lab Director Review J Teague 3/2/2018 7/2010 
+Outreach Director Review E Landry 3/1/2018  
+Medical Director Review A Harton 3/18/2018  
+ 
+ 
+PURPOSE 
+The Lake Lab Services (LLS) Outreach Registration procedure is vital to ensuring correct 
+and efficient lab orders for all patients.  All team members must fully understand all steps 
+of Patient Registration and follow accordingly.  There may be slight differences per 
+clinic.  Contact supervisory staff if there are any discrepancies.   
+ 
+PROCEDURE 
+All specimens received into LLS Outreach Department at OLOL Laboratory are 
+accompanied by a doctor’s order, either on paper or through an EMR, with the following 
+information listed but not limited to:  Name, DOB, SSN, ordering doctor, facility, 
+diagnosis code, insurance information, and tests to be ordered.  Outreach registration is 
+performed in Requisition Entry.   
+ 
+I. Specimen and Requisition Check 
+A. Write specimen count on bottom right hand corner of requisition, if applicable 
+B. Write bag number on top of requisition, if applicable 
+C. Check name on requisition and specimen to ensure that they match 
+D. Initial requisition 
+E. For specimens that are ordered through EMR without a paper order; receive 
+into the lab and add collector’s initials if applicable. 
+ 
+II. Registration Procedure 
+A. In Requisition Entry, enter the Client number with LALK in front or name 
+located at the top right hand corner of the requisition into the “Submitter” box.  
+If submitter is available, move on to step E. 
+B. If order sent on a non-OLOL requisition, enter client name.  If client is 
+available move on to step E. 
+C. If client name is not valid, try using the physician’s name as the client.  If 
+available, move to step E. 
+D. If neither B nor C are available, enter under 1407 (LLS general account) OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA  70808 
+Page 2 of 4 
+LBA407 
+1. SMT name, Fax and phone will need to be entered. 
+2. This will trigger a follow-up task to be created and the reports will 
+automatically fax to the number provided.     
+E. If there is more than one Location for the submitter, select proper location. 
+F. Place cursor on Patient box.  Select the magnifying glass to access the patient 
+search box. 
+G. STOP. Place all patient information in the search box.  A 2ID must be 
+performed at this point.  At least 2 demographics (Name, DOB, SSN) must 
+match in order to select the patient.   
+1. If 2-3 demographics match, select patient and move on to step I. 
+2. If 2 demographics match, but 1 is off, select patient and create a 
+follow-up task, selecting “Patient demographic discrepancy”. Add all 
+information to communicate the discrepancy. 
+3. If only 1 matches completely but looks suspicious, call client or 
+provider’s office to confirm patient identification. 
+4. If no match can be determined, select “New” and create New Patient.  
+a.  Enter all information that is required on search screen 
+b. Add all other information given including the address if 
+available in the Req Entry screen. 
+H. Authorizing/Ordering Provider 
+1. See requisition for ordering provider.  Search in ordering provider 
+field and select.  Move to step I. 
+a. If none given, check to see if the provider is listed as the client 
+on the requisition.   
+b. If not given, call client or if after hours enter “Lab Unidentified 
+Provider”.  This will create a follow-up task for call center to 
+identify. 
+2. If provider name is given but is not in the system, Select “Lab 
+Unidentified Provider”.  This will create a follow-up task for call 
+center to identify. 
+a. Add “CC Result” to ensure that the provider receives a copy of 
+the report. 
+I. Bill type  
+1. For Lake requisitions 
+a. Bill account: Yes = Client bill 
+b. Bill account: No = Patient bill 
+2. If neither is checked or sent on requisition other than Lake requisition 
+a. If  insurance information and dx code is supplied = patient bill 
+i. call for dx code if not given or invalid 
+b. If no other information is given = client bill 
+J. Diagnosis Code 
+1. Enter dx code.  System will determine if code is valid. 
+a. If invalid and patient bill account, call client and obtain valid 
+code.  If afterhours, leave blank.  This will create a follow-up 
+task for call center to complete.    
+2. If Client bill, leave blank if a dx code is not provided. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA  70808 
+Page 3 of 4 
+LBA407 
+III. Procedure/lab orders 
+A. Procedure 
+1. Enter all tests listed on requisition or doctor’s order.  Use test catalog 
+if having trouble finding test or test code.     
+2.  Ask department or charge tech if clarification of test is needed.   
+3. Call client if clarification is still needed.  Do not guess as to what the 
+order may or may not be. 
+4. Complete any missing required information (site, source, etc.) 
+5. Comment:  Add any comments to lab req comments to be seen by lab 
+staff only.  Any comments to be added to the report need to be on reg 
+comments.  
+6. Once all procedures are entered, select “create specimen”.   
+7. Enter CORRECT date and time given on the provider orders.  If none 
+is given, call client to confirm.  If unable to reach client, add (T) &(N) 
+and create a follow-up task for call center to confirm. 
+8. After Hours – Between the hours of 4:30pm and 7:00am Monday-
+Friday, after 10:30am on Saturday, and all day Sunday create a Call-
+back after-hours follow-up task per department for each technical 
+section requiring a call or fax back.  Call center personnel will not be 
+available at this time. 
+ 
+IV. Complete 
+A. Scanning – all paper orders must be scanned into the patient’s chart.  Place 
+orders face down in desktop and hit scan.  Select “ADF” if there are multiple 
+pages to be scanned.  Add a short description (new, restick, refusal) and Save 
+doc.  Orders can then be placed in the storage box to be stored. 
+B. Saving order 
+1. When all tests and comments have been accounted for, click the 
+Accept&New.  
+2. Labels will print when you create specimen.  
+3. STOP  
+a. Check to make sure all tests are accounted for 
+b. Label specimens according to specimen requirement listed on 
+bottom left hand corner of label. 
+c. BEFORE labeling, AGAIN make sure that the name matches 
+what is on the specimen. 
+4. Once specimen is labeled and before sending to CP for processing, 
+receive specimens in receiving.   Notify CP employee of any Stats.  
+ 
+V. Atlas specimens 
+A. Atlas specimens received into the laboratory should be checked thoroughly by 
+registration staff and in the same manner as routine specimens. 
+1. Check to make sure the Atlas requisition demographics matches the 
+Specimen Demographics 
+2. Mark specimen type and count on Atlas requisition 
+3. Receive specimen into lab OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA  70808 
+Page 4 of 4 
+LBA407 
+4. Cancel any orders per request 
+5. Scan all orders into Req Entry as stated in (IV A).  
+ 
+Revisions 
+7/2010 (created), 3/2015, 8/10/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

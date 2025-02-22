@@ -1,0 +1,198 @@
+AA-OR-016 
+Page 1 of 5 
+POLICY   
+The Office of Research is committed to establish effective processes to ensure that all services for a study 
+are billed properly. It is the responsibility of the investigators and the Office of Research staff to ensure 
+that billing for all clinical research studies occurs only as appropriate and in compliance with relevant 
+laws, regulations and contractual obligations. .  
+PURPOSE 
+The purpose of the policy is to ensure that any research-related billing is coded and charged based on 
+actual services rendered; allowable by regulations governing medical billing practices; and consistent with 
+the informed consent signed by the research subject.  
+DEFINITIONS 
+Category A Device: Experimental device where the underlying questions of safety and effectiveness of 
+the device have not been resolved. 
+(https://www.cms.gov/Medicare/Coverage/IDE/Downloads/MM8921.pdf) 
+Category B Device: Non-experimental/investigational device where the underlying questions of safety 
+and effectiveness of the device have been resolved. 
+(https://www.cms.gov/Medicare/Coverage/IDE/Downloads/MM8921.pdf)  
+Clinical Research: Research that either directly involves a particular person or group of people or uses 
+materials from humans, such as blood, tissues or other samples   that can be linked to a particular living 
+person (https://www.nichd.nih.gov/health/clinicalresearch/Pages/index.aspx) 
+Clinical Trial: A research study in which one or more human subjects are prospectively assigned to one 
+or more interventions (which may include placebo or other control) to evaluate the effects of those 
+interventions on health-related biomedical or behavioral outcomes (https://grants.nih.gov/policy/clinical-
+trials/definition.htm) 
+Human Subject: Is defined 45 CFR 46.102 as a living individual about whom an investigator (whether 
+professional or student) conducting research obtains (https://www.hhs.gov/ohrp/regulations-and-
+policy/regulations/45-cfr-46/index.html) 
+1) Data through intervention with the individual or 
+2) Identifiable private information.  
+Investigational Device Exemption (IDE): An IDE allows the investigational device to be used in a 
+clinical study in order to collect safety and effectiveness data required to support a Pre-market Approval 
+(PMA) application or a Pre-market Notification [510(k)] submission to FDA. Clinical studies are most 
+often conducted to support a PMA. All clinical evaluations of investigational devices, unless exempt, 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Academic Affairs Section: Office of Research 
+Title: Research Billing Compliance  
+Policy Reference #: AA/OR/016 
+Supersedes #:  
+Date of Origination: January 12, 2012 Last Review Date: April 21, 2018 
+Last Revision Date: April 21, 2018 AA-OR-016 
+Page 2 of 5 
+must have an approved IDE before the study is initiated. 
+Investigational New Drugs (IND)/ Investigational Biologics: A new drug or biologic that is used in a 
+clinical investigation. The term investigational biologic also includes a biological product that is used in 
+vitro for diagnostic purposes. 
+Local Coverage Determination (LCD): Specific payment decisions made by a regional Medicare 
+Administrative Contractor (MAC) for their assigned states or a region of the country. Approval from the 
+local MAC is required to bill for services related to the use of Category B devices.  
+Medicare Advantage: A program in which individuals who are eligible for Medicare elect to receive 
+Medicare benefits through a plan issued by a private insurance company rather than through Medicare 
+Part A and Medicare Part B. It is also known as Medicare Part C and Medicare + Choice. 
+Medicare Administrative Contractor (MAC): A private company that has a contract with Medicare to 
+process claims submitted for services under Medicare Parts A and B (for example, bills from hospitals). 
+Formerly these functions were performed by Medicare Fiscal Intermediaries and Medicare Carriers. 
+Medicare Costs Analysis (MCA): A process of determining and documenting what procedures, items 
+and tests in a protocol are standard of care or strictly related to research. Such an analysis, when 
+completed prior to the study start and formally documented, can provide a more accurate assessment of 
+study costs for budgeting purposes; avoid submission of incorrect claims (protecting an institution from 
+violations of the False Claims Act); identify non-covered study costs; and assist in the accurate coding of 
+covered charges on billing claims.  
+National Clinical Trial (NCT) Number: A unique identification code given to each clinical study 
+registered on Clinicaltrials.gov.  
+National Coverage Determination (NCD): A decision issued by the Centers for Medicare and Medicaid 
+Services to allow Medicare to cover the routine costs of qualifying clinical trials, as well as reasonable 
+and necessary items and services used to diagnose and treat complications arising from participation in 
+the clinical trial. The National Coverage Determination related to clinical trials can be found in Section 
+310 of the Medicare National Coverage Determination Manual 
+(http://www.cms.gov/manuals/downloads/ncd103c1_Part4.pdf). 
+Protocol: A study plan on which a particular clinical trial is based. The plan is carefully designed to 
+safeguard the health of the participants as well as to answer specific research questions. A protocol 
+describes what types of people may participate in the trial; the schedule of tests, procedures, medications, 
+and dosages; and the length of the study. 
+ 
+Standard of Care: Treatment regimen or medical management based on generally accepted principles of 
+medical care. 
+ 
+Determination of Party Responsible for Payment of Procedures, Items or Tests 
+A. General Rules AA-OR-016 
+Page 3 of 5 
+Medicare covers routine costs of qualifying clinical trials as well as the reasonable and necessary 
+items and services used to diagnose and treat complications arising from participation in all 
+clinical trials. The NCD related to clinical trials and found in Section 310 of the Medicare 
+National Coverage Determination Manual outlines the requirements for Medicare coverage of 
+routine costs and the qualification process for clinical trials (https://www.cms.gov/Regulations-
+and-Guidance/Guidance/Manuals/downloads/ncd103c1_Part4.pdf) 
+ 
+A Medicare Costs Analysis (MCA) is required for all clinical research trials unless it is determined 
+that the trial is exempt. The purpose of the MCA is to determine which procedures, items or tests 
+in a protocol are standard of care or strictly research related.  
+ 
+Clinical procedures, items or tests that are purely experimental (i.e., not considered medically 
+necessary, safe or effective) cannot be billed to insurance or to the patient; rather, they are to be 
+paid by the sponsor of the clinical trial.  
+ 
+Clinical trial agreements should identify or describe the procedures, items or tests of the Study 
+which are to be reimbursed by the sponsor.  
+ 
+Neither the patient nor the third party payer may be billed for procedures, items or tests  
+a) that are not standard of care,  
+b) that the sponsor has indicated it will pay for,  
+c) that are promised as free of charge in the patient’s informed consent document, or 
+d) that are drugs/devices provided free of charge by the sponsor.  
+ 
+Procedures, items or tests furnished to participants in a clinical trial that represent standard of care 
+treatment are generally billable to third party insurers if the sponsor does not agree to reimburse 
+Our Lady of the Lake for those procedures, items or tests. 
+ 
+The clinical trial agreement should address payment for research-related injuries.  
+ 
+B. Medicare (Other than Device Trials) 
+Medicare may only be billed for costs permitted under the National Coverage Determination 
+(NCD).  
+ 
+When a research subject is enrolled in a Medicare Advantage plan such as MVP Gold or Medicare 
+Blue Choice, the outpatient services that are related to the clinical trial should be submitted to the 
+Medicare Part A/Part B Medicare Administrative Contractor (“MAC”), National Government 
+Services (NGS). Outpatient services that are unrelated to the clinical trial should be submitted to 
+the Medicare Advantage plan.  
+ 
+Claims submitted to Medicare pursuant to the NCD should contain the appropriate coding 
+modifiers, diagnosis code and NCT# related to clinical trial claims. The determination that an item 
+or service is reasonable and necessary is a medical decision that must be made by the Principal 
+Investigator and must be documented in the patient’s medical chart.  
+ AA-OR-016 
+Page 4 of 5 
+C. Medicare (Device Trials) 
+Regarding investigational devices, Medicare may be billed for certain costs associated with non-
+experimental/non-investigational device trials if the device is used in an FDA-approved clinical 
+trial and its application is reasonable and medically necessary. Claims submitted to Medicare for 
+covered devices must include information about the device under study, as well as applicable 
+coding modifiers, diagnosis code and NCT#. Participants cannot be enrolled in a device trial until 
+a MAC provides a price coverage determination. 
+ 
+FDA Investigational Device Exemption (IDE) approvals classify devices as either Category A or 
+Category B devices. The classification of the device affects the ability to bill Medicare. Services 
+related to the use of a non-covered device may not be billed to Medicare.  
+ 
+i. Category A devices may not be billed to Medicare, though routine costs associated with 
+the device may be billable if the MAC determines the device is used in the trial for the 
+diagnosis, monitoring and treatment of an immediately life-threatening disease or 
+condition.  
+ 
+ii. Category B devices may be billed to Medicare if those devices are considered reasonable 
+and necessary and if all other applicable Medicare coverage requirements are met, 
+including approval of the MAC. The process for obtaining approval from the MAC is to 
+submit the following information: study name, general device information (e.g. IDE 
+number), protocol information (e.g. description of the device), practitioner name and 
+facilities where the service will be provided.   
+ 
+ 
+ 
+PROCEDURE 
+1. The Office of Research will review research projects in terms of reimbursement by the sponsor and by 
+third parties (Medicare, etc.).  Evaluation will be done by conducting a Medicare Cost Analysis 
+(MCA) either by the Office of Research or by a contracted third party vendor. The MCA will 
+determine the following: 
+a. Whether the trial is considered a qualifying or non-qualifying trial under the Medicare NCD. 
+b. For device trials, the category of device and the IDE number 
+c. Separation of allowable costs 
+ 
+2. To plan for correct billing for clinical trials, the Office of Research will work with Revenue 
+Management, Health Information Management, Patient Financial Services and Our Lady of the Lake 
+Physician Group Staff to do the following: 
+ 
+a. Request the addition of necessary items to the charge master to facilitate billing and provide 
+transparency.  
+b. Request a research study cost center for the management of research-related revenue and 
+expenses. 
+c. Utilize a study specific research guarantor account to manage research-related charges. AA-OR-016 
+Page 5 of 5 
+d. Identification of specific items to be billed to third party payers and to be invoiced to the sponsor. 
+e. Provide the appropriate coding modifiers, diagnosis code and NCT# to be included on the claims 
+of research subjects as it relates to their participation in a clinical trial.   
+ 
+ 
+REFERENCES 
+ 
+Department of Health and Human Services, Centers for Medicare & Medicaid Services (2015).  
+ Medicare coverage related to investigational device exemption (IDE) studies. Available from: 
+ https://www.cms.gov/Medicare/Coverage/IDE/ 
+Department of Health and Human Services, Centers for Medicare and Medicaid Services (2014). 
+Mandatory reporting of an eight digit clinical trial number on claims: CR8401. Available from: 
+http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-
+MLN/MLNMattersArticles/downloads/MM8401.pdf 
+US Department of Health and Human Services. (2014). Medical devices:  Guidance on IDE policies and 
+procedures.  Available from: 
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm080
+202.htm 
+US Department of Health and Human Services. (n.d.).  Welcome to the Medicare coverage database. 
+Available from: http://www.cms.gov/medicare-coverage-database/overview-and-quick-
+search.aspx?ncd_id=310.1&ncd_version=2&basket=ncd:310.1:2:Routine+Costs+in+Clinical+Tria
+ls.  
+National Coverage Determination (NCD) for Routine Costs in Clinical Trials (310.1). (2007) Available 
+from: https://www.cms.gov/medicare-coverage-database/details/ncd-
+details.aspx?NCDId=1&ncdver=2&bc=BAABAAAAAAAA&. 
+ 
+ 

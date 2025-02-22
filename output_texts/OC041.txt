@@ -1,0 +1,38 @@
+   OC-041 
+ Page 1 of 1 
+ OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: Clinical 
+Title: Clinical Practice Guidelines/Protocols Policy Reference #: OrgClin/041 
+Supersedes #:  
+Date of Origination: July 24, 2003 Last Review Date: September 14, 2023 
+Last Revision Date:  October 10, 2024 
+ 
+PURPOSE 
+To outline the process and oversight responsibility for the development, approval, deployment, measurement, and 
+revisions to clinical practice guidelines. Clinical practice guidelines are defined as tools used to guide the delivery 
+of safe, efficient, and effective health care for a specified diagnosis, procedure, or care process through the use of 
+evidence-based guidelines when and where applicable. 
+ 
+POLICY 
+1. Development: 
+Clinical practice guidelines will be developed by appropriate medical staff members in collaboration with 
+the Chief Medical Information Officer, Clinical Information Services representatives and other key staff, 
+including performance improvement department representatives.  Participants in the development may 
+include all areas referenced in the clinical practice guideline.  Development of organization -wide 
+diagnosis or process -driven guidelines is preferred.  Criteria used to develop clinical practice guidelines 
+include, but are not limited to, current published practice guidelines, patient outcomes data, and high 
+frequency/problem prone diagnoses or procedures. 
+2.  Approval: 
+The clinical practice guidelines/protocols will be reviewed by the Medical Executive Committee for final 
+endorsement. 
+3. Deployment: 
+Upon endorsement from the Medical Executive Committee, clinical practice guidelines /protocols will be 
+available for use through the electronic medical record (EMR) in the patient’s chart, menu/order/search of 
+the Clinical Practice guideline/protocol to initiate.   Clinical practice guidelines will also be available for 
+use via structured implementation of computerized physician order entry (CPOE).  When a Clinical 
+Practice Guideline/Protocol is implemented, a MD order will be entered into EMR. 
+4. Review/Revisions: 
+All clinical practice guidelines will be reviewed and approved by the MEC every two (2) years and/or as 
+practice changes occur. 
+ 
+ 

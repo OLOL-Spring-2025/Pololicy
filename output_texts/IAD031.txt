@@ -1,0 +1,54 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  Imaging Interpretation/Reporting Section:  Administration 
+Date of Origination:  02/06/1987 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+5/19 
+08/15,1/17, 12/17, 5/19, 6/19, 1/21, 
+3/23, 2/24 
+Serial Code:  IAD 031 
+  
+Purpose: 
+ To establish guidelines for interpretation and reporting results of Imaging 
+Services procedures performed.  
+Policy: 
+A. In-patients 
+1. Following completion of in-patient Imaging Service procedures, the results are 
+dictated and transcribed by Radiologist. 
+ 
+2. Reports are reviewed and signed by a radiologist, and distributed 
+ via electronic record. 
+ 3. A copy of the report is distributed to the attending/requesting physician. 
+B. Out-patients 
+1. Outpatient reports are handled in the same manner as in-patient   reports. 
+   2. Copy of results are maintained in patients electronic medical record 
+C. Call Results 
+1. Exam is ordered indicating "Call Report". 
+ 
+2. Following completion of the procedures, the technologist will document 
+“Call Report” in tech comments and inform the Radiologist of the call 
+report. 
+ 
+3. The Radiologist interprets the exam, then calls the report using the 2ID or 3ID 
+process.(If patient is waiting the radiologist will direct the Technologist as to 
+when patient can be released). 
+ 
+4. If images / films are to be released, the patient will be directed to wait in 
+   the out patient waiting room and the disc  will be brought to them.  2 
+ 
+D.  ER Patients 
+ 1.  Emergency Room Physicians perform initial (wet) reads of all ECU 
+diagnostic radiographic exams (X-rays) and document their findings in 
+Epic. 
+           2.  The Radiologist will dictate ECU diagnostic radiographic exams as part 
+of normal workflow, in which they will overread the ER Physicians findings.  
+ 3.  The Radiologist will use the designated workflow in Epic for any 
+discrepancies between final read and ER wet read.  If an ER wet read was 
+not provided, the final report will suffice as appropriate communication to 
+the ER physician, with the exception of critical results which will be called 
+per protocol. 
+ 

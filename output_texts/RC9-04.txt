@@ -1,0 +1,289 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Arterial Sampling Section: Blood Gas Lab 
+Date of Origination: October 1980 Supersedes:  
+Date of Last Revision: April 25, 2024 Serial Code: RC9-04 
+Date of Last Review:   April 25, 2024 Signature: 
+          
+ 
+PURPOSE: 
+This policy is to define the procedure to safely and accurately obtain an anaerobic arterial 
+blood sample from a peripheral artery (radial, brachial, femoral, or dorsalis pedis).   
+ 
+Equipment (all supplies/equipment will be used within expiration date and stored per 
+manufacture recommendations) 
+A. Arterial Blood Gas kit 
+ 1. Plastic syringe with needles 
+ 2. Appropriate anticoagulant, preferably dry lithium heparin and pre -loaded in 
+syringe. 
+ 3. Patient label 
+ 4. Isopropyl alcohol pads or other suitable antiseptic solution 
+ 5. Gauze squares or similar material 
+ 6. Syringe cap 
+ 7. Acceptable device to embed/protect needle following puncture 
+ 8. Patient bandage 
+B. Bio-Hazard bag  
+C. Unsterile gloves 
+ 
+Indications 
+A. The need to evaluate the adequacy of ventilation, oxygenation, metabolic balance, 
+electrolyte balance and co-oximetery.   
+B. The need to quantify the patient’s response to therapeutic intervention and/or 
+diagnostic evaluation (e.g., oxygen therapy, exercise testing). 
+C. The need to monitor severity and progression of a documented disease process. 
+D. To establish base line values or as ordered by a physician. 
+ 
+Contraindications/Precautions 
+A. Negative results of a modified Allen test (collateral c irculation test) are indicative 
+of inadequate alternate blood supply to the hand and suggest the need to select 
+another site for the puncture, provided another site with lower relative risk is 
+available.  Therapists perform a modified Allen’s test in lieu of Allen’s test.  This 
+is charted in Epic under Accession result entry for patient samples prior to 
+verification. 
+B. Arterial puncture should not be performed through a lesion or distal to a surgical 
+shunt (e.g., as in a dialysis patient). 
+C. If there is evidence of infection or peripheral vascular disease involving the selected 
+limb, an alternate site should be selected. D. Arterial puncture should not be performed on extremities with indwelling catheters 
+if avoidable. 
+E. Alternate sample sites when repeating sample whenever possible. 
+F. Exercise caution to draw the minimum sample volume required. 
+G. Avoid arterial puncture on sites where hematoma or skin discoloration is present. 
+H. A coagulopathy or medium -to-high-dose anticoagulation therapy is a relative 
+contraindication. 
+I. Arterial puncture should not be performed on the same side of the body as a 
+mastectomy.  In the case of bilateral mastectomy, the physician must be consulted 
+for further instructions.  
+J. For pediatric patients, the respiratory therapist must receive permission from the 
+ordering physician to draw a brachial sample.  
+ 
+Procedure 
+A. Essential elements 
+1. Verify order from authorized person. Authorized persons include physicians and 
+mid-level providers with prescriptive rights. This may be through a written, verbal, 
+telephone, electronic or p rotocol orders. All telephone orders must be written by 
+the therapist and read back to the provider.  Any unclear or ambiguous order will 
+be clarified by the ordering physician prior to testing. 
+2. Personnel will perform hand hygiene practice in compliance with the organizational 
+policy IC 3000. PPE will be applied according to hospital policy. 
+3. Verify the identity of the patient from whom the sample is to be drawn by utilizing 
+the two ID process for adults and the three ID process for pediatrics.  The therapist 
+will identify the patient in accordance to hospital policy titled  Patient 
+Identification/Alert Bands, policy reference number OrgClin/018. 
+4. Verify that the patient is on the correct oxygen or ventilatory support settings, and 
+that the patient has been on these settings for sufficient time to allow valid results.  
+See B. Validation of Results/Factor Affecting Sample Values elsewhere in this 
+document. 
+5. Explain procedure to patient. 
+6. Place the patient in a comfortable position and one that enhances the ease of your 
+obtaining the sample. 
+7. Palpate the right and left radial pulses to determine which is more prominent. 
+8. Perform the modified Allen’s test on the hand with the best radial pulse to ensure 
+adequate collateral circulation. 
+  a. Compress both the ulnar and radial arteries at the wrist to obliterate the 
+pulses. 
+  b. Have the patient clench and release a fist until blanching of the hand 
+occurs. 
+  c. With the radial artery still compressed, release pressure on the ulnar 
+artery. 
+  d. Watch for the return of pinkness to the hand. 
+i. If pinkness fails to appear within twenty (20) seconds, this site 
+should be rejected as site of first choice.  The modified Allen’s 
+Test should then be performed on the other radial artery. 
+9. Choose site of puncture   NOTE: In case of bilateral negative Allen tests or bilateral mastectomy, the 
+therapist may defer to the ordering  physician regarding alternate sites or 
+cancellation of test.  The radial or brachial artery should  not be stuck on the 
+same arm as a mastectomy or A-V shunt.  
+  a. The first site of choice will be the radial artery of the wrist on which the 
+modified Allen test was positive.  
+  b. At the discretion of the therapist, the second choice of site will be either 
+the other radial or the brachial artery at the antecubital fossa. For pediatric 
+patients, ordering physician will decide consent for brachial stick. 
+  c. At the discre tion of the therapist , the third choice of site will be the 
+dorsalis pedis artery of the foot. 
+  d. The fourth and least desirable site is the femoral artery, which requires a  
+   physician’s order.  
+10. Ensure that you have an appropriate means of transporting the sample available. 
+11. Disinfect the anticipated puncture site, using alcohol preps. 
+12. Attach appropriate sized needle to the heparinized syringe. Preset the plunger to an 
+appropriate level to allow pulsation of the blood into the syringe.  
+13. Remove the needle cap, with the bevel of the needle up, reassess the puncture site 
+and pierce the skin at the puncture site and advance the needle in one plane.  When 
+the artery is properly entered, blood will rise into the syringe by force of the arterial 
+pressure. 
+14. With your free hand prepare the gauze pad for application over the puncture site. 
+15. After enough blood (minimum 0 .2cc- 1.5cc dependent on type of patient and 
+sample) has filled the syringe, withdraw the needle and immediately apply pressure 
+directly on the puncture site with the gauze until no visible signs of bleeding are 
+present. 
+16. After collection, immediately place the needle in the needle protection device. Do 
+not recap the needle.  Once the needle is protected, it  should be remo ved and 
+replaced with the air vent cap for the syringe. 
+17. Make sure that any air bubbles have been removed  to prevent ambient air 
+contamination. 
+18. Thoroughly mix heparinized sample by rolling the syringe back and forth.  
+19. Attach patient label to syringe  with a minimum of two patient identifiers  in the 
+presence of the patient. Then place the sample in a bio-hazard bag and transport to 
+blood gas lab.   In the event a specimen is suspected to be mislabeled the  sample 
+should be discarded, redrawn and labeled appropriately.   
+20. After applying the pressure pad at the puncture site for a minimum of three minutes 
+time to stop the bleeding, remove the pad and again check for a pulse distal to the 
+puncture site. All personnel removes  gloves and cleans hands using an effective 
+antimicrobial method after obtaining and manipulating patient specimens.  The 
+hand hygiene practice will be in compliance with the organizational policy. 
+21. Take the blood to the blood gas laboratory . Proper PPE should be applied. Ensure 
+that the analyzer is ready to analyze the ordered analyte s. Select the appropriate 
+analytes ordered by the physician. Lift the inlet handle to the syringe position. Place 
+and hold the tip of the syringe in the center of the inlet gasket. Push the syringe into 
+the analyzer as far as it will go and hold it there until the analyzer prompts you to 
+remove it. Close the inlet.  When analyzing samples from a green top tube, the 
+sample will be transferred to a syringe prior to analysis. Assure that you have documented the appropriate clinical data necessary for validation and interpretation 
+of the results, including such things as oxygen support, ventilator settings, etc.   
+a. Use the EMR computer system to store and send the results to the patient 
+floor for the patient’s chart.  These records can easily be access ed by the 
+staff and medical staff at any time. Only in periods of downtime with the 
+computer systems is it necessary to manually record data and take results to 
+the patient unit.  In such case, please refer to Policy RC9 -14, which details 
+the downtime procedures.  
+  
+Sample-Handling Considerations 
+A. Analyze the sample as soon as possible to minimize oxygen consumption. 
+B. Position the label on the syringe barrel  so that patient and sample information is 
+legible. 
+C. Cap the sample device immediately after you collect the sample to avoid room air 
+contamination. 
+D. Plastic syringes should not be iced but kept at room temperature as long as the blood 
+is analyzed within 30 minutes of collection  for the Radiometer ABL90flex 
+analyzer. Specimens will be discarded if the collected time is greater than 30 
+minutes of the received time. The interval between specimen receipt by laboratory 
+personnel and results reporting will be less than 60 minutes. If this time is exceeded, 
+the lab personnel will notify the ordering provider. The EPOC syringe and capillary 
+samples must be analyzed in 5 minutes.  
+E. Before you analyze the sample, roll the syringe or the capillary tube between your 
+palms and gently invert it several times to mix the sample thoroughly. Mix all 
+samples using a consistent technique. 
+ 
+ 
+Hazards/Complications 
+  A. Infection – The needle passing through the skin can carry potential pathogens with 
+it. Correct skin preparation reduces this potential. 
+B. Hematoma - Blood may extravagate from the punctured artery and into the tissue 
+or layers beneath the skin, causing discoloration if more than one puncture is made 
+into an artery, too much time is spent in drawing, or inadequate pressure is applied 
+after the puncture. Proper application o f digital pressure to the puncture site after 
+the puncture allows the wound to heal and prevent hematoma.  More time may be 
+required if the patient is on anticoagulant therapy. 
+C. Peripheral nerve damage (depending on site) - One of the advantages of choosing 
+the radial artery is that the radial nerve does not lie immediately adjacent to the 
+radial artery in the area of wrist where the puncture will be performed, whereas 
+there is a nerve adjacent to the puncture site at the brachial and femoral locations. 
+D. Thrombus - The possibility of an intra-arterial thrombus occurring must always be 
+kept in mind.  If a good pulse cannot be palpated downstream of the puncture site 
+after the puncture is performed, notify the attending physician immediately. 
+E. Air emboli 
+F. Arteriospasm 
+G. Hemorrhage 
+H. Trauma to the vessel 
+I. Arterial occlusion J. Vasovagal response 
+K. Pain 
+L.   Any significant complication will be reported as a safety event and sent to the 
+Quality Department . In the event of an adverse reaction, administer immediate 
+patient care, notify nursing staff, and call MET team if patient condition warrants.    
+       
+Limitations of Method/Validation of Results/Factors Affecting Sample Values 
+A. Limitations 
+ 1. Artery may be inaccessible because of periarterial tissues (overlying muscle, 
+connective tissue, or fat). 
+ 2. Pulse may not be palpable 
+ 3. Arteriospasm may prevent collection despite successful introduction of the 
+needle into the artery. 
+ 4. Arterial blood specimens only reflect the physiologic condition at the moment 
+of sampling. 
+B. Validation of Results/Factors Affecting Sample Values 
+1. Clotting - Blood must not clot in vitro because even the slightest clot will 
+prevent proper aspiration of the blood sample into the sample chamber of the 
+blood gas analyzer. The Blood sample should be mixed well as soon after 
+collection as possible to prevent clotting. 
+2. Air contact - Generally, air contact will change the blood gas values by moving 
+the PO2 toward room air PO2 (approx. 150mmHg) and decreasing the PC O2.  
+Any bubbles inadvertently introduced to sample must be immediately 
+expelled. 
+3. Temperature - Recent studies have shown that the impact of red cell 
+metabolism in vitro is minimal if the sample is analyzed within 30 minutes. 
+4. Steady State - The arterial blood sample should be drawn when the patient is 
+equilibrated - when at least ten (10) minutes have elapsed since any change 
+has occurred or been made that might affect the blood gases.  The following 
+would be significant changes: respiratory rate, tidal volume, FI O2 mode of 
+ventilation, PEEP/CPAP level, pressure support, exertion of the patient, and 
+suctioning. Specimens from mechanically ventilated patients with minimal 
+pulmonary pathology adequately reflect the effects of oxygen concentration 
+changes 10 minutes after the change.  In spontaneously breathing patients, at 
+least 20 -30 minutes should elapse followi ng oxygen concentration change 
+(patients with obstructive defects and increased residual volumes may require 
+the full 30 minutes or longer). 
+5.    Interfering Substances – refer to Radiometer operators manual page 238-268 
+ for information on potential interfering substances for each analyte. 
+ 
+Unacceptable Specimens 
+Sampling of arterial blood is useful for patient management only if carried out in 
+accordance with an established, proven protocol.  The validity of test results may be voided 
+if any of the following occur: 
+A. Samples contaminated with excessive bubbles or air contact. 
+B. Sample sizes which are inadequate for proper analysis (<0.5 ml). 
+C. Samples clotted because of improper anticoagulation of the collection device, 
+improper mixing, exposure to air, or samples with excessive clots. D. Samples that have been exposed to room temperature for longer than 30 minutes . 
+If sample is unacceptable  or sub-optimal, it will be discarded, and a new sample 
+will be obtained.  If unable to obtain a new specimen, therapist must notify the 
+ordering physician and document in the patient chart. 
+ 
+ In the event the collector is not the therapist analyzing and resulting the test, the 
+respiratory therapist will call the collector of the specimen for any questionable 
+issues related to specimen quality and labeling. 
+ 
+ 
+Normal Reference Ranges and Critical Values 
+All patient results are recorded and reported in the EMR and will have normal reference 
+ranges in the report: 
+Normal, Age specific values. (REF: Malley, pg 4, Barnhart, Czervinske pg 122) 
+ For reference ranges, see Appendix: Reference/Panic Ranges. 
+ 
+Panic Ranges – Age specific values for panic ranges, see Appendix: Reference/Panic  
+Ranges. Panic ranges are critical values to be reported by the therapist to the ordering  
+physician or patient’s nurse within 60 minutes. When values are given over the phone, 
+the person receiving the values will read the values back to the therapist to assure 
+appropriate transmission of data. Documentation of read back (RB) as well as the name 
+of the individual receiving the values will be done in EMR. In the Operating room 
+setting, the perfusionist will report critical alert values to the ordering physician in the 
+operating room immediately. 
+ 
+Back-up 
+At O LOL main campus there are twelve analyzers available for use in the event one 
+analyzer is not operational. At OLOL Children’s Hospital there are five blood gas analyzers 
+available in the event one analyzer is not operational, however if all analyzers are 
+inoperable, an analyzer from main campus will be utilized until service can be restored. At 
+Lake Livingston campus, if the blood gas analyzer is not operational, an analyzer from 
+main campus will be utilized until service can be restored. At Lake North Baton Rouge 
+campus, if the blood gas analyzer is not operational, an analyzer from main campus will be 
+utilized until service can be restored. At OLOL-Ascension there are two analyzers available 
+for use in the event o ne analyzer is not operational.  If both analyzers are inoperable, an 
+analyzer from main campus will be utilized until service can be restored. 
+       
+Infection Control 
+A. Universal Precautions/Standard Precautions and directives from the Department of 
+Labor concerning occupational exposure to blood -borne pathogens must be 
+followed in all circumstances involving blood or blood contaminated collection 
+devices. 
+B. The site should be cleaned prior to puncture. 
+C. All blood specimens, contaminated syringes, needles, capillary tubes used in 
+sampling blood will be disposed of in the contaminated materials sharps boxes. 
+D. All tissues and gloves grossly contaminated with body fluid will be disposed of in 
+biohazard bags. E. Needles used for blood sampling should be by careful insertion into a needle 
+protection device to prevent the sharp point from being accessible. 
+F. When sharps boxes or biohazard bags are  filled, they are to be sealed and made 
+available for disposal by the housekeeping department.  Housekeeping is 
+responsible for the disposal of the material. 
+  
+ 
+ 
+ 
+ 

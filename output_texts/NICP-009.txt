@@ -1,0 +1,133 @@
+NICP-009 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Neonatal Intensive Care 
+Subject:  Neonatal Opiate Withdrawal Syndrome 
+(NOWS) 
+Section:  Patient Care 
+Date of Origination:  October 23, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+ 
+October 6, 2023 
+Serial Code:  NICP-009 
+  
+PURPOSE: 
+This policy is to provide guidelines for care of a neonate born to a woman who has suspected, or documented 
+drug (illicit substance) use or abuse during pregnancy. 
+ 
+POLICY: 
+I. Mandatory Reporting 
+The Louisiana Children’s Code Article 603 states: 
+a) “Caretaker” as any person legally obligated to provide or secure adequate care for a child, including 
+parent, tutor, guardian, legal custodian, foster home parent, an employee of a public or private day care, 
+an operator or employee of a registered family child day care home, or other person providing residence 
+for the child. 
+b) “Mandatory reporter” is a “health practitioner” which includes physicians, surgeons, physical therapists, 
+intern and hospital staff members.   
+c) “Prenatal neglect means the unlawful use by a mother during pregnancy of a controlled dangerous 
+substance, as defined by R.S. 40:961 et seq., which results in symptoms of withdrawal in the infant or 
+the presence of a controlled substance in the infant’s body.” 
+ 
+II. Drug Abuse Screening in Newborns 
+According to the Louisiana Children’s Code Article 610: 
+a) “If a physician has cause to believe that a newborn was exposed in utero to an unlawfully used 
+controlled dangerous substance, as defined by R.S. 40:961 et seq., the physician shall order a toxicology 
+test upon the newborn, without the consent of the newborn's parents or guardian, to determine whether 
+there is evidence of prenatal neglect. 
+b) If the test results are positive, the physician shall issue a report, as soon as possible, in accordance with 
+this Article. 
+c) If the test results are negative, all identifying information shall be obliterated if the record is retained, 
+unless the parent approves the inclusion of identifying information. 
+d) Positive test results shall not be admissible in a criminal prosecution.” 
+ 
+Other Considerations: 
+1. Mandatory reporting is made to the Department of Child and Family Services (DCFS). 
+2. For neonates transferred to the Children’s Hospital from another facility with NOWS, the social worker 
+will verify that reporting to DCFS has occurred at the transferring institution and document in a note in 
+Electronic Medical Record (EMR). 
+3. Parents should be notified of the need for mandated reporting to the state agency. 
+4. Drug withdrawal scoring should be conducted for one or more of the following criteria: NICP-009 
+Page 2 of 3 
+ 
+a. Infants born to drug dependent mothers or, 
+b. Mothers with a history of drug use, 
+c. Infants whose mothers have positive drug screens,  
+d. Infants exhibiting behaviors consistent with drug withdrawal or, 
+e. Infants who are being weaned from medications that cause physiological dependence, such as 
+morphine or fentanyl. 
+5. Physician or NNP many initiate an order to begin scoring or nurses may begin scoring infants who meet 
+these criteria and then notify physician or NNP to place an order. 
+ 
+PROCEDURE: 
+1. The nurse will use an approved neonatal scoring tool (Finnegan) to assess the severity of withdrawal 
+with each feeding as needed. 
+2. The infant’s score should represent all behavior during the selected interval, not a single point in time. 
+3. RN will score infant 30-minutes to 1-hour after feeding. 
+4. Crying infants should be quieted before assessing muscle tone, respiratory rate, and Moro reflex. 
+5. Respirations should be observed for an entire minute. 
+6. If sweating occurs during nursing intervention, a point should not be given. 
+7. Discuss with NNP/physician the length of time the neonate should be scored (i.e., this will depend on 
+the half-life of the substance) and frequency of assessments. 
+8. RN will notify the provider of two consecutive score greater than or equal to 12, or three (3) consecutive 
+scores greater than or equal to 8. 
+9. Follow pharmacologic order for treatment of NOWS. 
+10. Non-pharmacologic and supportive interventions (see below) should be used in conjunction with 
+pharmacologic therapy. 
+11. Breastfeeding should be encouraged.  Breastfeeding is contraindicated if the mother is: 
+a. Taking illicit drugs, 
+b. Has polydrug abuse, 
+c. Infected with HIV 
+12. Provide parent education regarding scoring, medication treatment, weaning, and discharge planning. 
+13. Social worker will follow infant throughout hospital stay and will serve as primary contact with DCFS. 
+14. Confirmation will be obtained from DCFS that the neonate is approved to be discharged home. 
+15. Prior to discharge, ensure all follow up appointments have been made and any health maintenance 
+activities have been completed (i.e., hearing screen, Hepatitis B vaccine) and documented in electronic 
+medical record. 
+ 
+ See Ebsco Health Online Resource for Neonatal Abstinence Syndrome Care 
+ 
+REFERENCES: 
+Louisiana State Legislature.  (2017).  Louisiana Children’s Code Article 603 Definitions.  
+http://www.legis.la.gov/legis/Law.aspx?d=73195 
+Louisiana State Legislature.  (2017).  Louisiana Children’s Code Article 610 Reporting procedure; reports to the 
+legislature and the United States Department of Defense Family Advocate Program.  
+https://www.legis.la.gov/legis/Law.aspx?d=73202 
+McQueen, K. & Murphy-Oikonen, J.  (2016).  Neonatal Abstinence Syndrome.  New England Journal of 
+Medicine, 375, 2468-2479.  doi: 10.1056/NEJMra1600879 
+Beauman, S.S & Bowles, S. (2019).  Policies, Procedures, and Competencies for Neonatal Nursing Care (6th 
+Ed).  National Association of Neonatal Nurses. NICP-009 
+Page 3 of 3 
+ 
+Non-pharmacologic Interventions: 
+• Reduce environmental stimulation 
+• Quiet room, dim lighting, low activity 
+• Move infant away from high traffic areas 
+• Minimal disturbance: time exams/procedures when infant is awake and fed 
+• Present one stimulus at a time and slowly 
+ 
+ 
+Supportive Interventions: 
+• Consult physical therapy 
+• Utilize staff to hold, comfort when parents not in unit 
+• Structure infant’s day 
+• Provide containment: swaddle with arms near body, hands near mouth flexed position, bundling  
+• Avoid bright colors, utilize black and white colors 
+• Rub infants back instead of patting 
+• Monitor temperature and avoid overheating 
+• Provide opportunities for non-nutritive sucking 
+• Encourage breastfeeding and skin-to-skin contact 
+• Respond to infant cues: respond quickly, feed on demand 
+• Apply mittens to hands if needed 
+• Encourage parents to provide care  
+• Limit visitors 
+• Provide comfort measures for painful procedures 
+• Place item with mother’s scent in crib 
+• Utilize soft music 
+• Create an individualized multidisciplinary care plan for neonate 
+ 
+ 
+ 

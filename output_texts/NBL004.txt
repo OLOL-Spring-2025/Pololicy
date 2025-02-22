@@ -1,0 +1,71 @@
+ NBL-004 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Specimen Collection 
+Title: Properly Labeling Lab Specimens 
+Policy 
+Reference #: NBL-004 
+Supersedes #:  
+Date of Origination: June 16, 2011 Last Review 
+Date:  April 24, 2024 
+Last Revision Date: April 23, 2018 
+ 
+POLICY: 
+All specimens submitted for testing must be appropriately labeled at the time of collection to assure 
+positive identification and optimum integrity of patient specimens.  
+Required information (Refer to Organizational policy: OrgClin018- Patient Identification) must be 
+present and match. If there is any discrepancy between the two, the specimen must not be collected.  
+ 
+ 
+EQUIPMENT/SUPPLIES: 
+ -  Patient identification armband (inpatients) or Identification to verify the Name and date of 
+birth (DOB) (outpatients) 
+ -  Appropriate sample (blood, urine, sputum, tissue, fluid, etc…)  
+ -  EMR barcode label printer (generic demographic labels for downtime or special orders, only) 
+ -  Small plastic biohazard bag or approved container for delivery of specimen to laboratory  
+ 
+PROCEDURES: 
+A. Specimen Collection 
+ 
+1.  The specimen must only be collected after successfully identifying the patient using 2  
+     identifiers. (Pediatric patients have 3 step ID process including parent/caregiver) 
+ *Refer to organizational policy: OrgClin018- Patient Identification 
+ 
+2.  Allow the patient to participate in the identification process, if able, by asking the patient to  
+     say their name while checking the armband and orders. 
+ 
+3.  If the required armband is absent, not attached to the patient’s wrist or ankle or does not     
+     match the orders: 
+• DO NOT perform the specimen collection 
+• Correct the identity discrepancy before proceeding with the collection 
+  *Refer to organizational policy: OrgClin018- Patient Identification 
+ 
+4.  Scan the patient’s armband with the appropriate scanner. 
+ 
+5.  Select the orders to be collected, print the barcode labels. 
+ 
+  NBL-004 
+Page 2 of 2 
+7.  Apply the barcode specimen labels to the corresponding containers. 
+ 
+8.  Re-scan the barcode specimen labels to confirm collection. 
+ 
+ 
+B.  Before Leaving the Patient 
+ 
+ 1.  Label the specimens in the presence of the patient. 
+ 
+ 2.  If a lab label is not available, use the computer-generated chart label to label the specimen or  
+Handwrite patient name and medical record number or date of birth on the specimen label 
+affixed to the container. 
+ 
+3.  Record date and time collected and collector’s initials on all specimen containers, if the 
+electronic device and/or bedside generated labels are unavailable.   
+ 
+4. Place patient specimens in biohazard lab bag. Do not place samples from multiple patients in 
+same biohazard lab bag. 
+ 
+C.  Exception 
+ For Blood Bank Sample collection refer to nursing policy NBL-002 for proper labeling with  
+ Blood Bank Patient Identification System. 
+ 

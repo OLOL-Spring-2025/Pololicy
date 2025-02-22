@@ -1,0 +1,393 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 1 of 8 
+LBA203 
+LABORATORY ADMINISTRATION MANUAL 
+LBA203 
+ 
+ 
+GUIDANCE FOR SPECIMEN COLLECTION, TRANSPORT, TESTING AND 
+SUBMISSION FOR PATIENTS WITH SUSPECTED INFECTION WITH 
+EBOLA VIRUS DISEASE or other Special Communicable Diseases 
+ 
+ 
+PURPOSE 
+To define the proper handling of specimens from patients suspected of being infected 
+with Ebola Virus or other Special Communicable Disease. 
+ 
+Please refer to the Infection Control Departmental Page on TeamLink and the IC policy 
+IC2013 for specific guidance on patient handling and CDC information.   
+ 
+As things rapidly change in regards to emerging infectious diseases the CDC website 
+offers the most current and up to date information available.   
+http://www.cdc.gov/vhf/ebola/healthcare-us/laboratories/safe-specimen-
+management.html 
+ 
+ 
+PRINICIPLE 
+Ebola Virus Disease (EVD) is one of numerous viral hemorrhagic fevers (VHF). It is a 
+severe, often fatal disease in human and nonhuman primates. Ebola virus is spread by 
+direct contact with the blood or body fluids (such as urine, saliva, feces, vomit and 
+semen) of an infected person or by being exposed to objects that have been contaminated 
+with infected blood or body fluids. The incubation period is usually 8–10 days (rarely 
+ranging from 2 to 21 days). Patients can transmit the virus once symptoms appear and 
+through the later stages of disease, as well as postmortem. 
+ 
+The hospital can safely manage a patient with EVD by using all recommended isolation 
+and infection control procedures. Standard, contact, and droplet precautions are 
+recommended for management of hospitalized patients with known or suspected EVD. 
+Similarly, the clinical laboratory can safely handle specimens from these patients by strict 
+adherence to precautions and practices specifically designed for bloodborne pathogens in 
+the laboratory environment. However, Ebola has an apparent low infectious dose, the 
+potential of high virus titers in the blood of ill patients, and can result in severe disease.  
+ 
+Following these guidelines hospitals and clinical laboratories have safely managed a 
+number of VHF patients including cases of Lassa fever and Marburg virus (a closely 
+related virus to Ebola). Potentially infectious diagnostic specimens are routinely handled 
+and tested in laboratories in a safe manner, by closely following the standard safety 
+precautions defined below. 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 2 of 8 
+LBA203 
+PROCEDURE 
+A.  All laboratorians and other healthcare personnel collecting or handling specimens  
+      must follow established standards compliant with the OSHA bloodborne pathogens  
+      standard, which includes blood and other potentially infectious materials. These  
+      standards include wearing appropriate personal protective equipment (PPE) and  
+      following all safety rules for all specimens regardless of whether they are identified  
+      as being infectious.  
+ 
+• Specimen Transport:  
+o NEVER use a pneumatic tube system to transport suspected VHF 
+specimens. 
+o Specimens should only be packed and transported by those trained 
+to handle Category A substances. 
+ 
+B.  Recommendations for risk assessment to staff:  
+ Risk assessments are conducted by each laboratory director, safety officer, or  
+ other responsible personnel to determine the potential for sprays, splashes, or  
+ aerosols generated from laboratory procedures. They should adjust, as needed,  
+ PPE requirements, practices, and safety equipment controls to protect the  
+ laboratorian’s skin, eyes, and mucous membranes.  
+ 
+C.  Recommendations for specimen collection by staff:  
+ Any person collecting specimens from a patient with a case of suspected Ebola  
+ virus disease should wear gloves, water-resistant gowns, full face shield or  
+ goggles, and masks to cover all of nose and mouth. Additional PPE may be  
+ required in certain situations.  
+ 
+D.  Recommendations for laboratory testing by staff:  
+ Any person testing specimens from a patient with a suspected case of Ebola virus  
+ disease should wear gloves, water-resistant gowns, full face shield or goggles, and  
+ masks to cover all of nose and mouth, and as an added precaution use a certified  
+ class II Biosafety cabinet or Plexiglass splash guard with PPE to protect skin and  
+ mucous membranes. All manufacturer-installed safety features for laboratory  
+ instruments should be used.  
+ 
+E.  Specimen Handling for Routine Laboratory Testing (not for Ebola Diagnosis)  
+ Routine laboratory testing includes traditional chemistry, hematology, and other  
+ laboratory testing used to support and treat patients. Precautions as described  
+ above offer appropriate protection for healthcare personnel performing laboratory  
+ testing on specimens from patients with suspected infection with Ebola virus.  
+ These precautions include both manufacturer installed safety features for  
+ instruments and the laboratory environment as well as PPE specified above.  
+ 
+o Keep lab testing to a minimum and include only those tests critical 
+for patient care that cannot be obtained from Point-of-Care (POC) 
+testing systems. OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 3 of 8 
+LBA203 
+► OLOL Transfusion Services will forgo pretransfusion 
+testing (type, antibody screen and crossmatch) and use 
+group O RBCs (and presumably “universal” platelets and 
+plasma) for the transfusion needs of patients suspected or 
+known to have EVD. Emergency Release procedure will be 
+used.  Including contacting Pathologist if the designated 
+number of units have been released.   
+o Wear appropriate PPE and don it correctly (lab PPE will likely not 
+be the same as PPE used for direct patient care). 
+o All lab procedures should be performed in such a way as to prevent 
+the creation of aerosols. Centrifugation, cap removal, cap piercing, 
+and vortexing are actions that create an aerosol. 
+o If centrifugation is necessary use rotor covers as for AFB 
+processing. 
+o Carry out all specimen manipulations within a Biological Safety 
+Cabinet in the laboratory. 
+o Cover specimen with gauze wipe or equivalent pad to uncap. 
+o Run a “clean cycle” and decontaminate racks as able when 
+specimens are tested on analyzers. 
+o Make blood smears inside BSC, fix in methanol and air dry before 
+removing slide for staining. 
+o Doff PPE in the correct order to prevent contamination. 
+ 
+ 
+ 
+ 
+ 
+RECOMMENDATION 
+• All transport containers should be wiped down with a hospital approved bleach wipe 
+prior to leaving the patient’s room. 
+• Specimens are walked to the lab by a designated caregiver.  The carrier is opened and 
+the double-bagged specimen is handed off to the Support personnel who is wearing 
+appropriate PPE (gloves and lab coat).   Verbal confirmation of “Suspected Ebola’ is 
+relayed to the lab support personnel. 
+• The lab support personnel will NOT open the bags, but will log in the specimen, carry it 
+to the Microbiology Dept, and place it under the AFB hood.  
+TEST   RECOMMENDATION 
+Chemistry, Coagulation, 
+Hematology 
+ 
+• Testing is performed only if required and with minimal blood 
+draws. 
+• Lab staff performing testing will wear disposable PPE and 
+practicing Universal Precautions.   
+• Decontamination of equipment is performed as detailed by 
+instrument manufacturer. 
+Malaria Testing 1. Collect at least one ml in a lavender (EDTA) tube. 
+2. Wipe the outside of the blood tube with bleach prior to 
+removing from the patient room, being careful to not 
+remove the patient ID information.  Double bag and send 
+to lab as described above. 
+3. For malaria, lab will prepare slides and send for referral 
+testing: OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 4 of 8 
+LBA203 
+a. Slides are made under hood.  Use a gauze 
+soaked in bleach to prevent aerosol formation. 
+b. Prepare thin blood films, fix in methanol for 30 
+minutes, then place in dry heat at 95 degrees C. 
+for 1 hour or 65 degrees C. for 2 hours to 
+inactivate the specimen. 
+c. Refer for malaria testing. 
+Blood cultures 
+ 
+Perform only if required 
+and minimize blood draws 
+for blood cultures. 
+Wipe the outside and check for breakage or positivity before 
+loading in instrument.  If positive, unload and double bag then a 
+rigid container and process as described above. 
+1. Prepare slides, allow to dry. 
+2. See above for fixation. 
+Do not perform any direct tests on positive blood 
+cultures. 
+3. Smears can be stained and read as usual. 
+4. Innoculate…see WHO guidelines. With shrinkwrap. 
+5. Examine 2 times per day. 
+6. Perform spot testing per WHO guidelines. 
+Other specimens for 
+culture: 
+Unless critically needed, 
+do not perform. 
+See WHO guidelines 
+ 
+Referral to CDC 
+The Ebola virus is a classified as a Category A infectious 
+substance.  Lab staff must have a current DOT certificate to be 
+able to pkg these for shipping.  This will be done under the 
+designated hood. 
+ 
+Suspected Ebola specimens must be sent by World Carriers.  
+FedEx will not transport these.   
+ 
+Specimen Storage 
+All specimen containers should be wiped with bleach, placed in a 
+double bag and a rigid container and isolated under the hood until 
+they can be disposed of in an appropriate manner.  See below.  
+Long term storage is not permitted for any known HFV patient. 
+Specimen 
+decontamination and 
+disposal 
+Disinfectant:   Use a U.S. Environmental Protection Agency 
+(EPA)-registered hospital disinfectant with a label claim for a non-
+enveloped virus (e.g., norovirus, rotavirus, adenovirus, poliovirus) 
+to disinfect environmental surfaces in rooms of patients with 
+suspected or confirmed Ebola virus infection. 
+ 
+Spills:   CDC guidelines recommend removal of bulk spill matter, 
+cleaning the site, and then disinfecting the site.  For large spills, a 
+chemical disinfectant with sufficient potency is needed.  An EPA-
+registered hospital disinfectant with label claims for non-
+enveloped viruses (e.g., norovirus, rotavirus, adenovirus, 
+poliovirus) and instructions for cleaning and decontaminating 
+surfaces or objects soiled with blood or body fluids should be 
+used according to those instructions. 
+Disposal:   All specimens, gauze, should be autoclaved prior to 
+disposal and discarded per hospital protocol.    
+ 
+ 
+F.  Environmental Cleaning and Disinfection  
+ See the attached Interim Guidance for Environmental Infection Control in  
+ Hospitals for Ebola Virus for recommendations regarding the cleaning and  OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 5 of 8 
+LBA203 
+ disinfection of patient care area surfaces including the management of blood and  
+ body fluid spills.  
+ 
+ These recommendations also apply to cleaning and disinfecting in a laboratory  
+ where specimens are being processed from persons under investigation, or with  
+ probable or confirmed Ebola virus infections.  
+ 
+ In the case of a spill in the laboratory, the basic principles for blood or body  
+   substance spill management are outlined in the OSHA Blood Borne Pathogens  
+ Standards.  
+ 
+ There are no disinfection products with specific label claims against the Ebola  
+ virus. Enveloped viruses such as Ebola are susceptible to a broad range of hospital  
+ disinfectants used to disinfect hard, non-porous surfaces. In contrast, non- 
+ enveloped viruses are more resistant to disinfectants. As an added precaution,  
+ use a disinfectant with a higher potency than what is normally required for an  
+ enveloped virus to disinfect potentially Ebola-contaminated surfaces. EPA- 
+ registered hospital disinfectants with label claims against non-enveloped viruses  
+ (e.g., norovirus, rotavirus, adenovirus, poliovirus) are broadly antiviral and  
+ capable of inactivating both enveloped and non-enveloped viruses.  
+ 
+G.  Management of Laboratory Waste  
+ Waste generated during laboratory testing should be placed in leak-proof 
+ containment and discarded as regulated medical waste. To minimize 
+ contamination of the exterior of the waste bag, place this bag in a rigid waste 
+ container designed for this use. If available, steam sterilization (autoclave) or 
+ incineration as a waste treatment process can inactivate the virus and reduces 
+ waste volume.  
+ 
+ For equipment that drains directly into the sewer system, the United States 
+ sanitary sewer system handling processes (e.g., anaerobic digestion, composting, 
+ disinfection) are designed to safely inactivate infectious agents.  
+ 
+ CDC Division of Select Agents and Toxins (DSAT) Considerations: 
+ If these guidelines for the collection, transport, and testing of specimens from 
+ suspected or confirmed Ebola patients are followed, waste generated during the 
+ handling and testing of such specimens and which is properly disposed would not 
+ be subject to Federal select agent regulations (See the exclusion provision 42 CFR 
+ § 73.3(d)(1)). However, this exclusion would not apply to any facility or 
+ laboratory that intentionally collected or otherwise extracted the Ebola virus from 
+ waste generated during the delivery of patient care.  
+ 
+H.  Transporting Specimens within the Hospital / Institution  
+ In compliance with 29 CFR 1910.1030, specimens should be placed in a durable, 
+ leak-proof secondary container for transport within a facility. To reduce the risk OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 6 of 8 
+LBA203 
+ of breakage or leaks, do not use any pneumatic tube system for transporting 
+ suspected EVD specimens.  
+ 
+I.  Hospitals are REQUIRED to contact the Office of Public Health Infectious  
+ Disease Epidemiology Section On-Call number at 1-800-256-2748 if EVD is  
+ suspected.  
+J.  Packaging and Shipping Clinical Specimens to CDC  
+ Specimens collected for EVD testing should be packaged and shipped without 
+ attempting to open collection tubes or aliquot specimens.  
+ 
+ If it is determined in consult with ID Epi that the specimen meets the  
+ requirements for Ebola testing, CDC must be contacted for consultation before a  
+ specimen can be submitted. After OPH ID Epi’s consultation with CDC, if testing  
+ is still warranted, the following steps should be used by your facility in submitting  
+ samples to CDC:  
+  1.  Email tracking number to EOCEVENT246@CDC.GOV.  
+  2.  Do not ship for weekend delivery unless instructed by CDC.  
+  3.  Ship to:  
+   Centers for Disease Control and Prevention  
+   ATTN STAT LAB: VSPB UNIT #70  
+   1600 Clifton Road NE  
+   Atlanta, GA 30333  
+    
+  4.  Include the following information: your name, the patient's name,  
+       test(s) requested, date of collection, laboratory or accession number,  
+       and the type of specimen being shipped.  
+  5.  Include the CDC Infectious Disease (CDC Form 50.34) and Viral  
+       Special Pathogens Branch specimen submission forms.  
+  6.  On the outside of the box, specify how the specimen should be stored:  
+       Refrigerated.  
+  7.  Specimens for shipment should be packaged following the basic triple  
+       packaging system which consists of a primary container (a sealable  
+       specimen bag) wrapped with absorbent material, secondary container  
+       (watertight, leak-proof), and an outer shipping package. All applicable  
+       requirements of the U.S. Hazardous Materials Regulations (HMR)  
+       issued by the U.S. Department of Transportation (U.S. DOT) can be  
+       found on the DOT website. For questions on (packaging) transportation  
+       regulations, contact the U.S. DOT HazMat Information Center at 1- 
+       800-467-4922.  
+ADDITIONAL INFORMATION 
+A.  Potential exposures to blood, body fluids and other infectious materials must be  
+      reported immediately according to your institution’s policies and procedures.  
+ 
+B.  All specimens that are sent to CDC for Ebola testing are considered Category A. Our  
+      routine carrier, FedEx, has determined they will not transport a specimen suspected of  
+      containing Ebola.  Use the alternate carrier company: OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 7 of 8 
+LBA203 
+ World Courier (http://www.worldcourier.com/) or 1-800-221-6600)  
+ (An account has been set up for shipments.  See supervisor for details.) 
+ 
+C.  OPH Contacts 
+ 
+• OPH Infectious Disease Epidemiology:  
+On-Call phone at 1-800-256-2748 
+ 
+• OPH Laboratory: 
+1209 Leesville Avenue 
+ Baton Rouge, LA 70802 
+(225) 219-5200 / (504) 458-9537 
+http://www.dhh.louisiana.gov/index.cfm/page/483 
+ 
+• CDC is available for consultation 24/7 at 770-488-7100. Hospitals should 
+contact their state and/or local health department before contacting CDC.  
+ 
+ 
+REFERENCE 
+ DHH Memo to Sentinel Laboratories 
+ 
+ 
+ATTACHMENTS 
+A.  DHH Memo to Sentinel Laboratories-  
+ Re: Guidance for Clinical Laboratories for Specimen Collection, Transport,   
+        Testing and submission for patients with suspected infection with Ebola  
+        Virus Disease. 
+ 
+B.  CDC Interim Guidance for Environmental Infection Control in Hospitals for Ebola  
+      Virus. 
+ 
+C.  Infection Prevention and Control Recommendations for Hospitalized Patients with  
+      Known or Suspected Ebola Virus Disease in U.S. Hospitals. 
+ 
+D.  CDC Test Order Information 
+ 
+E.  CDC Specimen Submission Form (CDC 50.34) 
+ 
+F.  Viral Special Pathogens Branch Diagnostic Specimen Submission Form  
+ 
+REVISIONS 
+10/2014 (created), 3/2015, 8/2017 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 8 of 8 
+LBA203 
+    By    Date 
+ Prepared/Revised D. Leger 8/23/17 
+Blood Donor Service Director Review D Gremillion 10/3/2017 
+Core Lab Director Review J Teague 10/2/2017 
+Outreach Director Review E Landry 10/4/2017 
+Medical Director Review A Harton 10/1/2017 
+ Effective Date 10/6/2017 
+ Origination Date 10/6/14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

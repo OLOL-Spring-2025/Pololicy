@@ -1,0 +1,72 @@
+IC-3001- Table 5 
+Components of a Protective Environment (CDC page last reviewed: July 11, 2023) 
+   Page 1 of 5 
+                                                                                                                           Revised April 21, 2021/ Reviewed September 15, 2024 
+TABLE 5 
+COMPONENTS OF A PROTECTIVE ENVIRONMENT 
+(Adapted from MMWR 2003; 52 [RR-10]) 
+ 
+I. Patients: allogeneic hematopoietic stem cell transplant (HSCT) only  
+• Maintain in PE room except for required diagnostic or therapeutic procedures that cannot be performed 
+in the room, e.g., radiology, operating room  
+• Respiratory protection e.g., N95 respirator, for the patient when leaving PE during periods of 
+construction  
+II. Standard and Expanded Precautions  
+• Hand hygiene observed before and after patient contact  
+• Gown, gloves, mask NOT required for Health Care Workers (HCWs) or visitors for routine entry into the 
+room  
+• Use of gown, gloves, mask by HCWs and visitors according to Standard Precautions and as indicated for 
+suspected or proven infections for which Transmission-Based Precautions are recommended  
+III. Engineering  
+• Central or point-of-use HEPA (99.97% efficiency) filters capable of removing particles 0.3 μm in diameter 
+for supply (incoming) air  
+• Well-sealed rooms  
+o Proper construction of windows, doors, and intake and exhaust ports  
+o Ceilings: smooth, free of fissures, open joints, crevices  
+o Walls sealed above and below the ceiling  
+o If leakage detected, locate source and make necessary repairs  
+• Ventilation to maintain >12 ACH  
+• Directed air flow: air supply and exhaust grills located so that clean, filtered air enters from one side of 
+the room, flows across the patient’s bed, exits on opposite side of the room  
+• Positive room air pressure in relation to the corridor  
+o Pressure differential of >2.5 Pa [0.01” water gauge]  
+• Monitor and document results of air flow patterns daily using visual methods (e.g., flutter strips, smoke 
+tubes) or a hand-held pressure gauge  
+• Self-closing door on all room exits  
+• Maintain back-up ventilation equipment (e.g., portable units for fans or filters) for emergency provision 
+of ventilation requirements for PE areas and take immediate steps to restore the fixed ventilation system  
+• For patients who require both a PE and Airborne Infection Isolation, use an anteroom to ensure proper 
+air balance relationships and provide independent exhaust of contaminated air to the outside or place a 
+HEPA filter in the exhaust duct. If an anteroom is not available, place patient in an AIIR and use portable 
+ventilation units, industrial-grade HEPA filters to enhance filtration of spores. 
+IV. Surfaces 
+• Daily wet-dusting of horizontal surfaces using cloths moistened with EPA-registered hospital 
+disinfectant/detergent  
+• Avoid dusting methods that disperse dust  
+• No carpeting in patient rooms or hallways  
+• No upholstered furniture and furnishings 
+ 
+V. Other  
+• No flowers (fresh or dried) or potted plants in PE rooms or areas  
+• Use vacuum cleaner equipped with HEPA filters when vacuum cleaning is necessary  IC-3001- Table 5 
+Components of a Protective Environment (CDC page last reviewed: July 11, 2023) 
+   Page 2 of 5 
+                                                                                                                           Revised April 21, 2021/ Reviewed September 15, 2024 
+ IC-3001- Table 5 
+Components of a Protective Environment (CDC page last reviewed: July 11, 2023) 
+   Page 3 of 5 
+                                                                                                                           Revised April 21, 2021/ Reviewed September 15, 2024 
+ IC-3001- Table 5 
+Components of a Protective Environment (CDC page last reviewed: July 11, 2023) 
+   Page 4 of 5 
+                                                                                                                           Revised April 21, 2021/ Reviewed September 15, 2024 
+ IC-3001- Table 5 
+Components of a Protective Environment (CDC page last reviewed: July 11, 2023) 
+   Page 5 of 5 
+                                                                                                                           Revised April 21, 2021/ Reviewed September 15, 2024 
+Reference: 
+Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings (2007), Table 5. Components of a 
+Protective Environment, Appendix A: Table 5. Components of a Protective Environment | Infection Control | CDC 
+ 
+Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings, Figure. Example of Safe Donning 
+and Removal of Personal Protective Equipment (PPE), ppe-sequence-p.pdf (cdc.gov) 

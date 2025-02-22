@@ -1,0 +1,130 @@
+ 
+RGA 02.001 Clinical Trial Participant Screening - Oncology 
+1 
+ 
+RESPONSIBLE DEPARTMENT: 
+Office of Research & Grant Administration 
+SUBJECT:  
+Clinical Trial Participant Screening - Oncology 
+PAGES: 
+1-3 
+REPLACES POLICY (NUMBER/DATE): 
+ 
+ORIGINAL EFFECTIVE 
+DATE:  
+3/11/2022 
+REVISIONS EFFECTIVE: 
+ 
+3/4/2024 
+POLICY NUMBER:  
+AAORG025 
+ 
+SCOPE: 
+Applies to Our Lady of the Lake Hospital, Inc. (“OLOLH”) and its wholly owned sponsored organizations (collectively 
+referred to herein as “Entity”) that propose and adopt Facility wide policies. 
+PURPOSE: 
+To describe the standard procedure for the steps in fulfilling the requirements involved in clinical trial participant 
+screening. 
+POLICY: 
+1. This policy explains the process and procedure for screening patients seen at Our Lady of the Lake Cancer 
+Institute for clinical trials. 
+2.  All clinical research staff will review these instructions at least annually 
+DEFINITIONS: 
+Clinical Trials Management System (CTMS) means a software system used to manage clinical trials in clinical 
+research.  The system maintains and manages planning, performing and reporting functions along with participant 
+contact information, tracking deadlines and milestones. 
+Screening means the process of assessing potential subjects’ eligibility for enrollment into a clinical trial. 
+Screen Failure means a potential subject who did not meet one or more criteria required for participation in a clinical 
+trial. 
+ 
+ 
+PROCEDURE: 
+A. The clinic schedules of providers who are credentialed to participate in open trials with OLOL Cancer 
+Institute Programs shall be reviewed daily to identify potential clinical trial participants.  Provider 
+schedules shall be reviewed at least one (1) day in advance. 
+ 
+B. Research nurses/clinical research coordinators shall review patients for eligible clinical trials listed in 
+the clinical trial brochure/menu.  If a patient is eligible or potentially eligible for a clinical trial, the 
+research nurse or coordinator should communicate the patient eligibility to the treating physician for 
+consideration. 
+ 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+RGA 02.001 Clinical Trial Participant Screening - Oncology 
+2 
+C. The following patients with a diagnosis for which we have a study will be reviewed and added to the 
+CTMS if not already present: 
+ 
+1. Any new patient with a cancer diagnosis. 
+ 
+2. Any patient who is getting “test results”.  
+ 
+3. Any patient who is scheduled for a teaching visit. 
+ 
+4. Any existing patient with a diagnosis for which we have recently opened a trial that they may 
+now be eligible for. 
+ 
+D. New patients with a hematological diagnosis do not necessarily have to be entered into the CTMS.  
+Diagnoses which can be related to cancer need to be investigated further for clinical trial eligibility (i.e., 
+thrombocytopenia, MGUS, monoclonal paraproteinemia, leukocytosis, etc.).  If the patient is being seen 
+for coagulation defects, anemia, polycythemia vera, they do not need to be entered into the CTMS 
+unless an applicable trial is open for accrual.   
+ 
+E. If a patient is having a bone marrow biopsy and does not have an existing diagnosis, the patient should 
+be entered into the CTMS with the following note: BONE MARROW BIOPSY. 
+ 
+F. To enter a patient in the CTMS: 
+ 
+1.          Sign into the application with username and password.  
+ 
+2. Use the search feature in the menu bar to search for the patient in the Last Name, First Name 
+format, then press Enter. If the patient’s name appears, verify with the birthdate and MRN. If no 
+patient is found, then use the green “Add Patient’s” button in the menu bar to add the new 
+patient in the same Last Name, First Name format. If available, add the middle initial. Do not 
+add Sr, Jr, III, etc. as this makes it difficult to locate a patient in future searches. If you know the 
+exact trial to be screened for, this can be added at this step or later in the process. 
+ 
+3. Enter the following demographic information into the Patient Profile. 
+ 
+a. Patient Tags: RN name and site. It is possible to have multiple nurses and sites tagged. 
+b. Date of Birth 
+c. Sex 
+d. Primary Ethnicity 
+e. Primary Race 
+f. Medical Record Number  
+ 
+4. If no specific trial was selected, during the Add Patient’s process, a study can be added by 
+selecting the “+” tab located next to the Patient Summary. If there are no trials that the patient 
+will be screened for, notes can be made in the Patient Timeline under the Patient Summary tab.  
+ 
+Under each respective study being screened for, in the Patient Timeline, enter notes pertaining to 
+eligibility. Update the Status, Patient Source and Subject ID as needed. If the patient is not 
+Eligible, also update the Patient Log tab. This screen will require different information based on 
+if the sponsor is linked with Study Teams. If the sponsor is not linked there will be a Pre-Screen 
+Fail Comments and Patient Log Comments sections, please indicate in both why the patient was 
+not eligible.  
+RGA 02.001 Clinical Trial Participant Screening - Oncology 
+3 
+Complete any other relevant sections. 
+ 
+  
+G. Weekly, research nurses and clinical research coordinators shall review their incomplete screenings 
+to identify patients remaining with open workups. Patients Tab, add Patient Tags Filter, select your 
+name and enter. Trials listed with a blue square next to the study name are considered In Progress. 
+Patients should continue to be followed and updated until resolution: Pre-Screening (after ICF), 
+Actively Enrolled, Pre-Screen Failure or Screen Failure  
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+STATUTORY/REGULATORY AUTHORITY: 
+• N/A 
+ATTACHMENTS:  
+• N/A 
+ 
+Policy Oversight by:  Chief Operating Officer  
+ 
+TITLE:  Clinical Trial Participant Screening - Oncology 
+ 

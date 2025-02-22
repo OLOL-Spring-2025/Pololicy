@@ -1,0 +1,290 @@
+ 
+Date Completed:  ______08/26/2024_____________  
+ 
+Locations Assessed:  
+Name Address 
+Ascension Hospital 1125 W. Hwy 30, Gonzales, LA 
+Lake Ascension Plaza II 1014 West St. Claire Blvd, Gonzales, LA 
+Main Hospital 5000 Hennessy Blvd, Baton Rouge, LA 
+Livingston Hospital 5000 O’Donovan, Walker, LA 
+North Baton Rouge  5439 Airline Hwy, Baton Rouge, LA 
+MOB III  7301 Hennessy Blvd, Baton Rouge, LA 
+Children’s Hospital 8200 Constantin, Baton Rouge, LA 
+Perkins Surgical Clinic 9032 Perkins, Baton Rouge, LA 
+ 
+ 
+Completed by: 
+Name Title 
+Shamekia Holliday Director, Facilities Management 
+Nicholas Gros Senior Director, Nursing 
+Trenton Allen Manager OR Regulatory and Perioperative Support 
+Rebecca AlMarhoun Senior Director, Nursing 
+Lauren Carter Regulatory Outcomes Analyst 
+Jeff Mire Manager, Facilities Management 
+Sarah Russell Regulatory Program Manager 
+  
+ 
+PART A – Facility Information 
+Does your facility accept patients with suspected or confirmed airborne transmitted diseases?    Yes 
+Does your facility accept patients with extremely low/no immune system?  Yes 
+ 
+ 
+ 
+Ventilation Risk Assessment 
+Based on ASHRAE 170-2013 2 
+ 
+ 
+In the tables below, rate the risk settings for your health system: 
+Space Function 
+At 1 or 
+More 
+Location 
+Level 
+of 
+Risk 
+To be Monitored 
+Pressure Temp. Humidity Yes / No 
+Surgery 
+and Critical 
+Care 
+Operating room  Yes High Positive 68-75 20-60 Yes 
+Surgery 
+and CC Operating/surgical cystoscopic rooms  Yes High Positive 68-75 20-60 Yes 
+Surgery 
+and CC Delivery room (caesarean) No  Positive 68-75 20-60  
+Surgery 
+and CC Substerile service area No  NR NR NR  
+Surgery 
+and CC Recovery room Yes Med NR 70-75 20-60 No 
+Surgery 
+and CC Critical and intensive care Yes Med NR 70-75 30-60 No 
+Surgery 
+and CC Intermediate care  Yes Med NR 70-75 Max 60 No 
+Surgery 
+and CC Wound intensive care (burn unit) No  NR 70-75 40-60  
+Surgery 
+and CC Newborn intensive care Ch Med Positive 72-78 30-60 No 
+Surgery 
+and CC Treatment room  No  NR 70-75 20-60  
+Surgery 
+and CC Trauma room (crisis or shock)  Yes High Positive 70-75 20-60 Yes 
+Surgery 
+and CC Medical / anesthesia gas storage Yes Low Negative NR NR No 
+Surgery 
+and CC Laser eye room No  Positive 70-75 20-60  
+Surgery 
+and CC ER waiting rooms Yes Low Negative 70-75 Max 65 No 
+Surgery 
+and CC Triage Yes Med Negative 70-75 Max 60 Yes 
+Surgery 
+and CC ER decontamination Yes High Negative NR NR Yes 
+Surgery 
+and CC Radiology waiting rooms Yes Low Negative 70-75 Max 60 No 
+Surgery 
+and CC Procedure room (Class A surgery)  
+Cath, Endo, 
+Specials High Positive 70-75 20-60 Yes 
+Surgery 
+and CC 
+Emergency department exam / 
+treatment room  
+Yes Low NR 70-75 Max 60 No 
+        
+Inpatient 
+Nursing Patient room Yes Low NR 70-75 Max 60 No 
+Inpatient 
+Nursing Nourishment area or room Yes Low NR NR NR No 
+Inpatient  Toilet room Yes Low Negative NR NR No 
+ 3 
+ 
+ 
+Space Function 
+At 1 or 
+More 
+Location 
+Level 
+of 
+Risk 
+To be Monitored 
+Pressure Temp. Humidity Yes / No 
+Inpatient  Newborn nursery suite No  NR 72-78 30-60  
+Inpatient  Protective Environment (PE) room Yes High Positive 70-75 Max 60 Yes 
+Inpatient  
+Airborne Infectious Isolation (AII) 
+room  
+Yes High Negative 70-75 Max 60 Yes 
+Inpatient  Combination AII /PE room Ch High Positive 70-75 Max 60 Yes 
+Inpatient  AII anteroom Yes Med Negative NR NR Yes 
+Inpatient  PE anteroom Yes Med Positive NR NR Yes 
+Inpatient  Combination AII /PE anteroom Ch Med N or P NR NR Yes 
+Inpatient  Labor/delivery/recovery/postpartum  No  NR 70-75 Max 60  
+Inpatient  Labor/delivery/recovery No  NR 70-75 Max 60  
+Inpatient  Patient corridor Yes Low NR NR NR No 
+        
+Nursing Facility Resident Room Yes Low NR 70-75 NR No 
+NF Resident gathering / activity / dining Yes Low NR 70-75 NR No 
+NF Resident unit corridor Yes Low NR NR NR No 
+NF Physical therapy Yes Low Negative 70-75 NR No 
+NF Occupational therapy Yes Low NR 70-75 NR No 
+NF Bathing room Yes Low Negative 70-75 NR No 
+        
+Radiology X-ray (diagnostic and treatment) Yes Low NR 72-78 Max 60 No 
+Radiology 
+X-ray (surgery/critical care and 
+catheterization) 
+Yes High Positive 70-75 Max 60 Yes 
+Radiology Darkroom  Yes Low Negative NR NR No 
+        
+Diagnostic & 
+Treatment 
+Bronchoscopy, sputum collection, 
+and pentamidine administration 
+Yes High Negative 68-73 NR Yes 
+D & T Laboratory work area, general Yes Low Negative 70-75 NR No 
+D & T Laboratory work area, bacteriology  Yes Low Negative 70-75 NR No 
+D & T Laboratory work area, biochemistry Yes Low Negative 70-75 NR No 
+D & T Laboratory work area, cytology  Yes Low Negative 70-75 NR No 
+D & T Laboratory work area, glasswashing   Low Negative NR NR No 
+D & T Laboratory work area, histology  Yes Low Negative 70-75 NR Yes 
+D & T Laboratory work area, microbiology  Yes Med Negative 70-75 NR No 
+D & T 
+Laboratory work area, nuclear 
+medicine  
+No  Negative 70-75 NR  
+D & T Laboratory work area, pathology Yes Low Negative 70-75 NR No 
+D & T Laboratory work area, serology  Yes Low Negative 70-75 NR No 
+D & T Laboratory work area, sterilizing  No  Negative 70-75 NR  
+D & T Laboratory work area, media transfer Yes Low Positive 70-75 NR No 
+D & T Nonrefrigerated body-holding room  NBR Low Negative 70-75 NR No 
+D & T Autopsy room 
+Main, Ch, 
+ASC High Negative 68-75 NR Yes 4 
+ 
+ 
+Space Function 
+At 1 or 
+More 
+Location 
+Level 
+of 
+Risk 
+To be Monitored 
+Pressure Temp. Humidity Yes / No 
+D & T Pharmacy Yes High Positive NR NR Yes 
+D & T Examination room Yes Low NR 70-75 Max 60 No 
+D & T Medication room Yes Medium NR 70-75 Max 60 No 
+D & T 
+Gastrointestinal endoscopy 
+procedure room 
+Yes High NR 68-73 20-60 Yes 
+D & T Endoscope cleaning Yes High Negative NR NR Yes 
+D & T Treatment room Yes Low NR 70-75 Max 60 No 
+D & T Hydrotherapy No  Negative 72-80 NR  
+D & T Physical therapy Yes Low Negative 72-80 Max 65 No 
+D & T Dialysis treatment area Yes Low NR 72-78 NR No 
+D & T Dialyzer reprocessing room Yes Low Negative NR NR No 
+D & T Nuclear medicine hot lab Yes High Negative 70-75 NR Yes 
+D & T Nuclear medicine treatment room Yes High Negative 70-75 NR Yes 
+        
+Sterilizing Sterilizer equipment room Yes Med Negative NR NR No 
+        
+Clean Medical 
+& Surgical 
+Supply 
+Soiled or decontamination room Yes High Negative 72-78 NR Yes 
+Clean 
+Supply Clean workroom Yes High Positive 72-78 Max 60 Yes 
+Clean 
+Supply Sterile storage  Yes High Positive 72-78 Max 60 Yes 
+        
+Service Food preparation center  Yes Low NR 72-78 NR No 
+Service Warewashing Yes Low Negative NR NR No 
+Service Dietary storage Yes Low NR 72-78 NR No 
+Service Laundry, general No  Negative NR NR  
+Service Soiled linen sorting and storage Yes Low Negative NR NR No 
+Service Clean linen storage Yes Low Positive 72-78 NR No 
+Service Linen and trash chute room Yes Med Negative NR NR No 
+Service Bedpan room Yes Low Negative NR NR No 
+Service Bathroom Yes Low Negative 72-78 NR No 
+Service Janitor's closet Yes Low Negative NR NR No 
+Support 
+Space Soiled workroom or soiled holding  Yes Medium Negative NR NR Yes 
+Support  Clean workroom or clean holding Yes Medium Positive NR NR  
+Yes 
+Support  Hazardous material storage Yes Medium Negative NR NR Yes 
+ 
+ 
+ 
+ 5 
+ 
+ 
+ 
+Which environmental controls does your facility have 
+in place? Relevant at these locations: 
+_X___ local exhaust ventilation  
+(enclosing devises, exterior devices) 
+Ascension & Plaza I & Plaza 2; Main Campus; 
+Livingston; MOB III; Children’s; Perkins Surgical 
+_X___ general ventilation  
+(e.g. single-pass system, recirculation system) 
+Ascension & Plaza I & Plaza 2; Main Campus; 
+Livingston; MOB III; Children’s; Perkins Surgical 
+_X___ air-cleaning methods  
+(e.g. HEPA filtration, UVGI) 
+Ascension & Plaza I & Plaza 2; Main Campus; 
+Livingston; MOB III; Children’s; Perkins Surgical 
+_X___ airborne infection isolation rooms (AII)  
+(e.g. negative pressure rooms) 
+Ascension; Main Campus; Livingston; MOB III; 
+Children’s; Perkins Surgical 
+    
+What general ventilation systems are used in your 
+facility? Relevant at these locations: 
+_X___ single pass system Ascension & Plaza I & Plaza 2 
+_X___ recirculation system Ascension & Plaza I & Plaza 2 
+_X___ variable air volume (VAV) Ascension & Plaza 2; Main Campus; Livingston; 
+MOB III; Children’s; Perkins Surgical 
+_X___ constant air volume (CAV) Ascension & Plaza I & Plaza 2 
+    
+What air cleaning methods are used in your facility? Relevant at these locations: 
+ HEPA filtration   
+_X___ fixed room-air recirculation systems Ascension & Plaza 2; Main Campus; Livingston; 
+North Baton Rouge; MOB III; Children’s; Perkins 
+Surgical 
+_____ portable room-air recirculation systems _____________________________________ 
+    
+ UVGI   
+_X___ duct irradiation Main Campus & Children’s Campus 
+_____ upper-air irradiation _____________________________________ 
+_____ portable room-air cleaners _____________________________________ 
+    
+What ventilation methods are used for Airborne 
+Infectious Isolation rooms? Relevant at these locations: 
+_X___ single-pass heating, ventilating and air conditioning 
+(HVAC) Main Campus; Livingston; North Baton Rouge; 
+MOB III; Children’s; Perkins Surgical 
+_X___ recirculating HVAC systems Ascension Campus 
+_X___ fixed room-recirculating units Ascension Campus 
+_X___ HEPA filtration Ascension Campus 
+   
+ENVIRONMENTAL CONTROLS 6 
+ 
+ 
+What methods are used to maintain correct air pressurization?   
+  
+Location Methods used to maintain correct air pressurization 
+OLOL Ascension Daily report verification; BAS; Semi-Annual TAB 
+Lake Ascension Plaza II Daily report verification; BAS; Semi-Annual TAB 
+OLOL Main Campus Daily report verification; BAS; Ball-in-Wall device; Monitors; Semi-
+Annual TAB 
+OLOL Livingston Daily report verification; BAS; Ball-in-Wall device; Monitors; Semi-
+Annual TAB 
+North Baton Rouge Daily report verification; BAS; Ball-in-Wall device; Monitors; Semi-
+Annual TAB 
+MOB III Daily report verification; BAS; Ball-in-Wall device; Monitors; Semi-
+Annual TAB 
+Children’s Hospital Daily report verification; BAS; Ball-in-Wall device; Monitors; Semi-
+Annual TAB 
+Perkins Surgical Clinic Daily report verification; BAS; Ball-in-Wall device; Monitors; Semi-
+Annual TAB 
+ 

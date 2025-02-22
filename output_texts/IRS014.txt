@@ -1,0 +1,197 @@
+ IRS 014 
+Page 1 of 4 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Imaging Services Section: Radiation Safety 
+Title: Radiation Safety - ALARA 
+Policy 
+Reference #: IRS 014 
+Supersedes #: IRS 003 
+Date of Origination: 5/11 Last Date 
+Reviewed: 
+1/17, 12/17,12/18, 5/19, 
+1/21, 2/24 
+Last Date Revised: 01/15, 7/21, 10/21, 3/23,  
+ 
+ 
+PURPOSE: 
+The purpose of this policy is to establish a safe working environment by minimizing radiation 
+exposure to patients, physicians, and staff to levels as low as reasonably achievable (ALARA). 
+ 
+DEFINITIONS: 
+ 
+ARRT - The American Registry of Radiologic Technologist - A credentialing organization that 
+seeks to ensure high quality patient care in radiologic technology.   
+ 
+License - a certificate issued by the LSRTBE  authorizing the licensee to use radioactive 
+materials or equipment emitting or detecting ionizing radiation on humans for diagnostic 
+purposes. 
+ 
+Licensed practitioner - a person licensed to practice medicine, dentistry, podiatry, chiropractic, 
+or osteopathy in this state, or an advanced registered nurse licensed to practice in this state. 
+ 
+LSRTBE- The Louisiana State Radiologic Technology Board of Examiners. 
+ 
+Radiologist - a physician certified by the American Board of Radiology or the American 
+Osteopathic Board of Radiology, the British Royal College of Radiology, or certified as a 
+radiologist by the Canadian College of Physicians and Surgeons. 
+ 
+Radiologic technologist - a person who is a radiographer, a radiation therapy technologist or a 
+nuclear medicine technologist licensed under Louisiana Statue 37:3200 - 3219 who under the 
+direction and supervision of a licensed practitioner applies radiation to humans upon prescription 
+of a licensed practitioner. 
+ 
+Nuclear medicine technologist - a person, other than a licensed practitioner, who under the 
+direction and supervision of a licensed practitioner uses radioactive materials on humans for 
+diagnostic or therapeutic purposes upon prescription of a licensed practitioner. 
+ 
+ 
+ 
+ 
+ 
+  IRS 014 
+Page 2 of 4 
+POLICY: 
+All medical imaging personnel should follow these principals to ensure the safety of their 
+patients and to minimize their occupational exposure.  Radiation safety should include: 
+A. Adhering to the as low as reasonably achievable, or ALARA, principle; the goal of 
+this concept is to minimize radiation exposure while obtaining the best quality 
+diagnostic image possible. 
+B. Minimizing the length of time the patient or others are in the path of the x-ray beam. 
+C. Maximizing the distance between the source of ionizing radiation and the person 
+exposed to it. 
+D. Maximizing shielding of the patient and others from radiation exposure. 
+ 
+PERSONNEL 
+A. A qualified full-time, part-time or consulting radiologist must supervise the ionizing 
+radiology services and must interpret only those radiologic tests that are determined by 
+the medical staff to require a radiologist’s specialized knowledge.  The Radiologist shall 
+have clinical privileges delineated by the medical staff.  
+B. Only personnel who are registered (ARRT) and/or licensed in the appropriate radiologic 
+technology modality or category by the Louisiana State Radiologic Technology Board of 
+Examiners and designated as qualified by the medical staff may use the radiologic 
+equipment and administer procedures under the direction of a physician. 
+C. A student enrolled in and attending a board approved educational program (in training for 
+ARRT  certification) or college of radiologic technology who applies ionizing radiation 
+to humans while under the supervision of a licensed practitioner or a licensed radiologic 
+technologist. 
+D.  Fluoroscopic procedures shall be conducted by a physician licensed in the state or by a 
+radiology technologist licensed in the state and who is under the direct supervision of a 
+radiologist or other physician.  
+ 
+SAFETY 
+ 
+A. All personnel working in areas where radiation monitoring is deemed necessary by the 
+Radiation Safety Officer and Radiation Safety Committee must wear their radiation-
+monitoring badge at the collar level and outside the apron at all times while on duty. 
+ 
+B. All radiation monitoring badges will be distributed on the last working day of each 
+month.  The exposure reports will be accessible for personnel view by contacting a 
+radiology manager.   
+ 
+C. Individuals who will be operating the X-ray systems shall be adequately instructed in the 
+safe operating procedures and be competent in the safe use of the equipment.  New 
+personnel must be oriented to radiation safety practices. 
+ 
+D. Personnel shall follow safe work practices when initiating an exposure whenever 
+possible. 
+a. When possible stand inside the shielded control booth when initiating an 
+exposure. 
+b. The radiations field should be no larger than clinically necessary and in no 
+situation be larger than the film size or detector size.    IRS 014 
+Page 3 of 4 
+c. Gonadal shielding of the patient is required in cases where it does not interfere 
+with the acquisition of the desired diagnostic information. 
+d. Gonadal shielding is not to be used during abdominal and pelvic radiography. 
+e. Gonadal shielding is not to be used on NICU patients.   
+f. X-ray room doors must be closed when x-rays are being produced.  
+g. Never expose any person for demonstration purposes only.   
+h. Portable or mobile X-ray equipment should be used only for examinations where 
+it is impractical to transfer the patient to a stationary X-ray installation. 
+ 
+E. Never x-ray a pregnant patient or anyone who suspects she is pregnant unless directed to 
+do so by a radiologist or attending physician.  A registrant shall report any dose to an 
+embryo/fetus in excess of 50 mSv (5 rem) dose equivalent that is a result of a diagnostic 
+X-ray procedure. 
+a. The medical center will provide additional monitoring for declared pregnant 
+women.  The Declaration of Pregnancy form will be kept in the employees 
+personnel file. 
+ 
+F. Whenever possible, mechanical devices only (e.g., tape, Velcro straps) shall be utilized to 
+immobilize patients during radiology procedures.  In those circumstances when 
+mechanical immobilizers are impractical and human intervention is necessary, the 
+individual restraining the patient shall do the following: 
+a. Wear a 0.5mm lead equivalency protective apron during the x-ray exposure.  If 
+the restrainer’s hands might be in the primary x-ray beam, leaded gloves (0.25mm 
+thick) shall also be worn. 
+b. Wear a personnel radiation monitoring device (e.g., film badge) outside the lead 
+apron at collar level. 
+c. Maximize the distance separating him / her and the x-ray beam  
+ 
+G. Personnel shall follow safe work practices in fluoroscopy rooms when initiating an 
+exposure. 
+a. Only persons whose presence is needed should be in the fluoroscopy room during 
+exposure. 
+b. Utilize lead drapes whenever possible for fluoroscopic exams. 
+c. Protective equipment must be worn by all personnel present during a fluoroscopic 
+examination 
+i. Lead Aprons.  A 0.5mm lead equivalent apron with full front coverage 
+shall be worn by all physicians and personnel working in all flouro areas. 
+ii. Thyroid Shield.  Thyroid shields shall be worn by all physicians and 
+personnel working in extended flouro areas.  Physicians and personnel in 
+other flouro areas are not required to wear thyroid shields. 
+iii. Eye Protection – Lead goggles or lead glass shields shall be worn by 
+physicians and    other personnel working in close proximity to the patient 
+during high-output flouro procedures when no lead glass shield is in place 
+between the radiation source and the fluoroscopist’s eyes.  Physicians and 
+personnel in other flouro areas are not required to wear lead goggles or 
+lead glass shields. 
+d. Fluoroscopy room door should be closed during fluoroscopic examination 
+e. Never expose any person for demonstration purposes only.  IRS 014 
+Page 4 of 4 
+ 
+H. Personnel shall report any medical event, except for an event that results from patient 
+intervention, in which the administration of radiation involves the wrong patient, a 
+procedure different than that which was authorized by the licensed practitioner, or a body 
+site different from that which was authorized and intended to be exposed by the 
+authorized X-ray procedure.  This shall be reported immediately to your departmental 
+manager and through the OLOLRMC safety event reporting system.  For reporting refer 
+to the organization Safety Event Reporting Policy Org/Ops/GN/019. 
+ 
+I. Equipment Maintenance – Radiation-producing units and protective equipment shall be 
+checked regularly to ensure proper operation. 
+a. Radiation-Producing Units.  Each radiation-producing unit shall be surveyed at 
+least annually by a radiation physicist and all corrective actions documented.   
+b. Lead Aprons.  Fluoroscopic lead aprons shall be inspected annually for integrity 
+of lead protection.  Defective aprons are taken out of service. 
+J. Documentation.  Proper documentation shall be maintained for each fluoroscopic 
+procedure. 
+a. Patient Records – The total cumulated flouro time shall be included in the 
+patient’s medical record. 
+b. Personnel Records – A record of each person’s radiation exposure status is 
+available from an imaging manager. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCES: 
+ 
+The Louisiana Medical Radiation Health and Safety Act R.S. 37:3200 through R.S. 37:3219 
+ 
+The Louisiana Medical Radiation Health and Safety Act R.S. 40:2100 through R.S. 40:2118 
+ 
+Environmental Regulatory Code LAC 33:XV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

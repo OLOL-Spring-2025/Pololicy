@@ -1,0 +1,63 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Operating Room 
+Title: Disinfection, High Level Policy Reference #: SOS008 
+Supersedes #:  
+Date of Origination: 05/30/1988 Review Date: 02/18/2024 
+Revision Date: 2/18/2022 
+ 
+PURPOSE: 
+To provide a policy for readying instruments and equipment for patient use by high level 
+disinfection. 
+ 
+POLICY: 
+High level disinfectant solutions should be used according to manufacturer's instructions for 
+instruments and equipment which cannot be steam autoclaved.  Only solutions approved by the 
+EPA Environmental Protection Agency, (the Federal Agency responsible for registration of 
+disinfectants) should be used. 
+ 
+PROCEDURE: 
+ 
+A. General  
+1. Record the date the solution was opened and/or activated on a container label or in a log 
+book.  Also, record the expiration date for the opened solution. 
+2. Test concentration of solution with the appropriate test strip for the product and according 
+to manufacturer’s directions (prior to each use). Record temperature and ensure temp meets 
+parameters according to manufacturer’s directions (prior to each use).Date opened and 
+expiration dates must be written on the bottle of test stripes. 
+3. Prior to use of the solution, the expiration date should be checked. 
+4. Thoroughly pre-clean all items to be immersed with a mild detergent or enzymatic solution 
+to remove all debris, and rinse with tap water. 
+5. Place pre-cleaned and dried items in the solution and completely immerse.  (Try not to 
+introduce additional water droplets to solution since this will dilute the solution).  Any 
+cannulated items or tubings should have solution inside them through the use of a syringe, 
+ear syringe, or asepto. 
+6. Keep container closed as much as possible to prevent evaporation and minimize odor. 
+7. Immersion time and temperature parameters should be according to manufacturer’s 
+directions. 
+8. Remove items from disinfectant solution and rinse thoroughly according to manufacturer’s 
+directions. 
+9. All items are to be cleaned, soaked, and dried after patient use before returning to storage. 
+10. The solution may be used up to the maximum number of days specified by the manufacturer 
+unless the test strip indicates the solution is no longer effective.  2 
+11. If the high level disinfection agent requires environmental monitoring, then it is performed 
+according to the manufacturer recommendations. 
+12. Perform quality control on test strips according to manufacturer’s directions. 
+13. For Latex sensitive patients the soaking solution must be prepared using non Latex gloves 
+and the solution must be labeled for Latex sensitive patients only. 
+ 
+B. Trophon  
+1. Ensure item ahs been cleaned per manufacturers specifications  
+2. Ensure Trophon unit is functional and HLD solution is within number of uses  
+3. Load clean, dry probe into the disinfection chamber 
+4. Ensure a chemical indicator is placed at the base of the chamber door, red side up. 
+5. Run cycle  
+6. Validate cycle, apply gloves, open chamber door, and validate chemical indicator. 
+7. Ensure probe is clean and dry, use lint free cloth.  
+8. If not immediately used, place in a cover, and label clean with expiration date. 
+9. Record cycle and log information in the Trophon logbook.   
+10. Maintenance machine as required and report any errors. 

@@ -1,0 +1,145 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Labeling, Packaging and Transport of 
+Hazardous Drugs 
+Policy Reference #: PH0553 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for labeling, packaging and transport activities where 
+Hazardous Drugs (HDs) are prepared and/or handled within FMOLHS Baton Rouge Market 
+Pharmacies.  
+1.2. Proper labeling of HDs conveys and alerts personnel handling HD products to the specific 
+handling, storage, and transport requirements and the need to don appropriate PPE designed to 
+protect personnel, patients, and the environment.  
+1.3. This SOP refers to all HD API, antineoplastic HDs requiring manipulation (beyond counting or 
+repackaging), and other non-antineoplastic and reproductive risk only HD dosage forms for which 
+an assessment of risk (AoR) has not been performed. 
+2. Policy  
+2.1 Access to areas where HDs are received, stored, and prepared is limited to authorized staff only. 
+2.2 HD storage locations have proper signage indicating that HDs are stored inside. 
+2.3 HDs are labeled, packaged, and transported using methods outlined in USP <800> that protect 
+employees, the surrounding environment, and others who may encounter them inside and 
+outside the healthcare facility. 
+2.4 Any employee who may be expected to label, package, and/or transport any form of HDs during 
+normal job duties wear appropriate personal protective equipment (PPE) as defined in the HD 
+PPE Policy. 
+2.5 Any employee who may be expected to  label, package, and/or transport any form of HD during 
+normal job duties is trained and has documented competency on proper handling of HDs per HD 
+Training Policy. 
+2.5. HD medications are packaged in containers and materials that maintain physical integrity, 
+stability, and sterile (if appropriate) during transport. 
+2.6. Transported HDs are labeled, stored and handled in accordance with applicable federal, state, 
+and local regulations.  2.7. Pneumatic tube systems are not used to transport liquid HDs or any antineoplastic HDs to reduce 
+the risk for container or packaging damage or contamination. 
+2.8. When repackaging oral dosage forms of HD medications (unless specified differently in AoR), 
+automated counting or automated packaging machines are not utilized.   
+3. Roles & Responsibilities 
+3.1 The Designated Person (DP): 
+• Ensures all HDs are identified per the National Institute for Occupational Safety and Health 
+(NIOSH) list and maintains the list of organizational HDs specifically handled at this facility. 
+• Ensures all personnel have education and training in the foundational knowledge and skills 
+needed to handle HDs and perform labeling, packaging, and transport job duties successfully 
+and safely; per this policy and in order to minimize HD exposure in the facility. 
+• Provides immediate access to the SOPs, USP <800> and supporting Chapters and supporting 
+regulations, and other expert documentation to perform job duties successfully and safely.   
+3.2 Personnel involved in HD handling: 
+• Remain current and in good standing on all required education, trainings, evaluations, and 
+assessments pertaining to handling HDs.  
+• Ensure all HDs are labeled, packaged, and transported appropriately per this SOP 
+• Follow all procedures for wearing appropriate PPE for the handling of HDs. 
+• Follow all procedures for handling HDs in order to limit the potential for harm to healthcare 
+personnel from occupational exposure to HDs 
+4.  Procedures 
+ 
+Labeling of Hazardous Drugs: 
+4.1 All HD Compounded Sterile Preparations (CSPs) are labeled with the required label elements per 
+applicable state and local regulations and per USP <797> and per CSP labeling policy. 
+4.2 All HD Compounded Nonsterile Preparations (CNSPs) are labeled with the required label 
+elements per applicable state and local regulations and per USP <795> and per CNSP labeling 
+policy. 
+4.3 FMOLHS Baton Rouge Market Pharmacies have specific labeling elements to differentiate and 
+designate HDs from non-hazardous drugs throughout the life cycle of the drug in the facility.  
+4.4 Apply HD labels to both the final HD dosage form and to the transport packaging, if needed, in 
+which the final dose is placed. 
+4.5 Apply labels, whenever possible, to the final dosage form of CSP and CNSP outside of the C -PEC 
+once the final CSP and CNSP has been decontaminated.  
+4.6 When the final dosage form is delivered outside of the primary facility, labeling on the transport 
+container includes instructions on storage, disposal, and identification of the HD category in a 
+format that is compatible with the third-party carrier’s requirements.  
+ 
+Packaging of Hazardous Drugs: 
+4.7 Use clean equipment and supplies when packaging HDs. 4.8 Maintain HD only dedicated equipment and supplies and segregate these supplies within 
+FMOLHS Baton Rouge Market Pharmacies. Always utilize HD dedicated supplies and equipment 
+when packaging HDs.   
+4.9 Depending on the final dosage form, FMOLHS Baton Rouge Market Pharmacies may employ all 
+potential exposure-reducing strategies to reduce the risk of exposure to HDs during transport 
+and administration. These strategies include: 
+• Unit-dose products are purchased when available 
+• Luer-lock connectors 
+• Packaging final dosage forms of CSPs with Closed System Transfer Devices (CSTDs) 
+• HD Labeling 
+• Removing HD residue from the final dosage form of CSPs and CNSPs 
+• Placing final decontaminated dosage forms of CSPs and CNSPs into amber bags, which are 
+then placed into preprinted zippered hazardous or chemotherapy bags for transport  
+4.10 Select containers to package final doses of CSPs that have been verified to maintain the physical 
+integrity, stability, and sterility of the HD CSP.  
+4.11 Place final dosage forms of CSPs and CSNPs in HD labeled transport packaging (zippered plastic 
+bags).  
+ 
+Transport of Hazardous Drugs: 
+4.12 Personnel transporting HDs in HD labeled transport packaging (zippered plastic bags) wear one 
+pair of chemotherapy gloves during transport.  
+4.13 Final dosage forms of CSPs and CNSPs (already in transport bags) that are transported outside of 
+FMOLHS Baton Rouge Market Pharmacies’ physical location are transported in a manner that 
+minimizes risk of damage during delivery and will contain leaks if damage does occur to the final 
+dosage form. 
+4.14 For HDs being delivered outside the healthcare facility; follow all applicable labeling, storage, 
+and handling requirements per federal, state, and local regulations. 
+4.15 Ensure packaging of the final HD dosage form for transport maintains the required storage 
+temperature associated with the assigned Beyond -Use Date (BUD). Proper storage conditions 
+are met the entire time the HD is in transport to the final location or patient.  
+4.16 Personnel involved in the transport of HDs are trained in all steps required to identify and clean 
+an HD spill per HD Spill Policy.  
+ 
+5. Definitions 
+5.1 Active Pharmaceutical Ingredients (API): Any substance or mixture of substances intended to be 
+used in the compounding of a drug preparation, thereby becoming the active ingredient in that 
+preparation and furnishing pharmacological activity or other direct effect in the diagnoses, cure, 
+mitigation, treatment, or prevention of disease in humans and animals or affecting the structure 
+and function of the body. 
+5.2 Assessment of Risk (AoR) : Evaluation of risk to determine alternative containment strategies 
+and/or work practices. 5.3 Automated Dispensing Cabinet (ADC): A computerized cabinet that allows for medications to be 
+stored and dispensed near patient care areas while controlling and tracking medication 
+distribution. 
+5.4 Chemotherapy glove: A powder -free medical glove that meets the ASTM Standard Practice for 
+Assessment of Resistance of Medical Gloves to Permeation by Chemotherapy Drugs (D6978) or 
+its successor. Gloves are either sterile or non-sterile depending on use.   
+5.5 Containment segregated compounding area (C-SCA): A type of C-SEC with nominal requirements 
+for airflow and room pressurization as they pertain to HD compounding 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.3 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22.  
+6.4 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 
+6.5 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22.  
+7. Approval and Review Summary 
+ 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 

@@ -1,0 +1,61 @@
+Page 1 of 2 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Patient Care 
+Subject:  Maximum Blood Draw Volume for 
+Neonatal and Pediatric Patients 
+Section:  Patient Care 
+Date of Origination:  November 2023 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+ 
+February 28, 2025 
+Serial Code:  NPP-049 
+  
+PURPOSE: 
+ 
+To provide guidance as to the maximum safe amount of blood that can be drawn in a 24-hour period from a 
+neonate and pediatric inpatient, in the acute care setting and/or in a clinical research trial. 
+ 
+POLICY: 
+ 
+1. The maximum amount of blood to be drawn per day is three percent (3%) of the total blood volume in a 
+24-period.    
+2. If the labs are to be drawn require more than three percent (3%), an order from a provider must be 
+obtained to draw a maximum of five percent (5%) in a 24-hour period.     
+3. If more than five percent (5%) is required in a 24-hour period, the provider must prioritize which labs 
+are to be obtained and reschedule remaining for subsequent day(s). 
+4. Total blood volume for patients:  
+a. Greater than 3 kg = 80 mL x patient weight in kg 
+b. Less than 3 kg = 100 mL x patient weight in kg  
+5. To calculate 3% = multiply total blood volume x 0.03 
+For example: 80 mL x 5 kg (pt weight) = 400 ml (blood volume) 
+400 x .03 = 12 mL (3% maximum amount to be drawn in 24-hour period) 
+6.  To figure out calculate 5% = multiply total blood volume x 0.05 
+For example: 80 mL x 5 kg (pt weight) = 400 ml (blood volume)  
+400 x 0.05 = 20 mL (5% maximum amount to be drawn in 24-hour period) 
+ 
+PROCEDURE: 
+ 
+1. Nursing and Lab will document Volume of Lab Draw (mL) on Pediatric Intake/Output flowsheet row.  
+2. Epic will provide the total amount of blood drawn in the last 24 hours.  This is visible on the patient list 
+by adding the column. (See EPIC tip sheet.) 
+3. The 24-hour calculated maximum blood draw volume utilizing the 3% calculation will appear on the 
+Peds Intake/Output flowsheet row and states 24- hr Calculated Max Blood Draw Volume per Weight.  
+This row utilizes the last documented weight for the calculation.  
+4. Any blood removed as waste for lab specimens should be accounted for in the Volume of Lab Draw 
+(mL) row.  
+5. In the event that the provider orders to extend the allowable volume to 5%, this calculation must be done 
+manually and should be verified by charge nurse, supervisor, and/or leader. 
+ NPP-049 
+Page 2 of 2 
+REFERENCE: 
+ 
+St. Jude Infant Standards of Care  
+Children’s and Women’s Health Centre of British Columbia Pediatric Blood Volume Draw Guidance 
+Seattle Children’s Recommended maximum allowable blood draw volumes 
+ 
+ 
+ 

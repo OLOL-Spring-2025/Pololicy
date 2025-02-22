@@ -1,0 +1,192 @@
+ 
+PH.2410_Product Procurement, Supply, Storage & Inventory 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Product Procurement, Supply, Storage & Inventory 
+PAGES: 
+4 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2410 (04/20/2022) 
+ORIGINAL EFFECTIVE 
+DATE: 11/11/2013   
+REVISIONS EFFECTIVE: 
+03/29/2023 
+POLICY NUMBER:  
+PH.2410 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy is intended to provide a process for ordering and maintaining pharmacy inventory. 
+POLICY: 
+The pharmacy will maintain a primary inventory of drugs in the pharmacy software inventory system.  The Pharmacy 
+has operating procedures to ensure the accurate and safe storage and dispensing of medications.  
+DEFINITIONS: 
+Inventory- any drug stored in the pharmacy for dispensing. 
+340B drugs – medications ordered through wholesaler 340B account 
+WAC drugs – medications ordered through wholesaler WAC account.   
+U&C (Usual and Customary) pricing – the usual and customary non-discounted prescription price.  
+PAP (Patient Assistant Program) drugs – drugs obtained through Patient Assistance Programs for use on patients that 
+have been approved for participation in the program by manufacturers of the drugs. 
+ADAP (AIDS Drug Assistant Program) drugs – drugs obtained directly from a bill-to ship-to arrangement with Ryan 
+White 340B Entity. 
+NIST – National Institute of Standards and Technology. 
+PROCEDURE: 
+Procurement and Supply:  
+A. The primary inventory will be maintained perpetually through pharmacy software system with max/min inventory 
+levels based on dispensing history. 
+B. The pharmacy software system will calculate and generate a daily medication order based on daily usage.  The order 
+will be transmitted via the pharmacy software system to the wholesaler and quantities received will be updated in the 
+pharmacy software system automatically.  Pricing information will also be updated through the pharmacy software 
+system. 
+C. Drug manufacturers PAP drugs will be obtained directly from manufacturers for approved patients.  This inventory 
+will be maintained perpetually in the pharmacy software system but will not be reordered from the wholesaler, rather, 
+will be ordered for approved patients directly from the manufacturer.  Approved patients will be required to sign a 
+document stating that if they do not pick up their medication, it will be used for other eligible patients. 
+D. PAP drugs will be dispensed at a price of $0.00 cost + administration fee. 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/29/2023 1:42 PM 
+ 
+ 
+PH.2410_Product Procurement, Supply, Storage & Inventory 
+2 
+ 
+340B drugs will be dispensed at U&C price unless patient is qualified for additional discount based on income or if 
+there is a contractual pricing agreement with a 3rd party. 
+ 
+Product Storage: 
+A. The pharmacy employees will store (identify and monitor inventory), dispense, package, label and ship 
+medications in such a way as to comply with DEA and State Board of Pharmacy laws and regulations as well as 
+other applicable laws and regulations. 
+B. Proper medication storage protocols will ensure the maintenance of product potency and sterility. Pharmacists 
+and pharmacy technicians will ensure that medications are stored within the temperature ranges specified by 
+their respective manufacturers.  Sterile products will not be opened and will be dispensed in their original sealed 
+containers, vials or syringes so that their sterility is not compromised as the pharmacy does not offer sterile 
+product compounding.  
+Medications in inventory will be rotated based on expiration date to ensure products that expire or are 
+damaged do not get dispensed/shipped to patients. All expired or damaged items will be placed in a 
+designated quarantined area away from active inventory clearly labeled “DO NOT USE”. All 
+inventory will be reviewed at least every month. Items with expiration dates prior to the next 60 days 
+will be removed from inventory.  
+C. T he pharmacy uses an employee badge access system which control access throughout the facility including 
+the pharmacy area. This system allows the pharmacy to control access levels to specific areas within the 
+pharmacy. Access to the pharmacy area is restricted to authorized pharmacy personnel. Only the Director of 
+Retail Pharmacy has the authority to grant pharmacy badge access. Upon termination, the IS department 
+deactivates the badge to ensure employee has no access to any secure areas.  All pharmacy equipment is kept in 
+the secured pharmacy area allowing only authorized personnel to have access to and the ability to lock, unlock, 
+and seal pharmacy equipment.    
+D. The manufacturer’s product storage guidelines will be followed. These guidelines include shelf life, 
+refrigeration, prevention of cross-contamination, storage location for clean, dry products and proper segregation 
+of products.  
+E. All compounded medication will be stored in accordance with the American Compounding Pharmacist Society 
+guidelines, commercial sources such as Paddock Laboratories’ web site or other reputable source  
+F. Medications will be stored in the refrigerator or freezer, when required by their manufacturer, FDA, USP 659 
+Guidelines or other recognized authority. R efrigerator and freezer temperature logs will be maintained 
+continuously via electronic monitoring system . [URAC P-OPS 5-1 (a-i, a-ii)] 
+G. The pharmacy will make sure that all medications are stored in conditions that ensure that their integrity is not 
+compromised.  
+1. Refrigerator and freezer temperature will be monitored via NIST compliant electronic monitoring system 
+and logs will be maintained. The pharmacy monitors refrigerator and freezer temperatures with Wi-Fi 
+devices placed in each refrigerator or freezer within the pharmacy. This provides a continuous electronic 
+log of the temperature of each refrigerator or freezer throughout the day and alerts selected employees 
+when the temperature falls out of the range allowed by the manufacturer and USP guidelines to ensure 
+stability of the inventory.  
+a. Devices are calibrated according to NIST standards. 
+2. If/when storage areas fall above or below manufacturer temperature or humidity guidelines, package 
+inserts and/or direct contact with manufacturers will be used to determine if the excursion falls within an 
+acceptable range for the stability of the medication(s). The below storage guidelines are followed. 
+[URAC P-OPS 5-1 (b)] 
+a. USP 659 defined controlled room temperature at 20°–25° (68°–77° F). The following conditions 
+also apply. Mean kinetic temperature not to exceed 25°. Excursions between 15° and 30° (59° and 
+86° F) that are experienced in pharmacies, hospitals, and warehouses, and during shipping are 
+allowed. Provided the mean kinetic temperature does not exceed 25°, transient spikes up to 40° are 
+permitted as long as they do not exceed 24 h. Spikes above 40° may be permitted only if the 
+manufacturer so instructs. 
+b. USP 659 defines dry storage conditions as "place that does not exceed 40% average relative 
+humidity at 20° (68° F) or the equivalent water vapor pressure at other temperatures.” The 
+determination may be made by direct measurement at the place. Determination is based on no less  
+PH.2410_Product Procurement, Supply, Storage & Inventory 
+3 
+than 12 equally spaced measurements that encompass either a season, a year, or, where recorded 
+data demonstrate, the storage period of the article. There may be values up to 45% relative 
+humidity provided that the average value does not exceed 40% relative humidity. Storage in a 
+Container validated to protect the article from moisture vapor, including storage in bulk, is 
+considered a Dry place.  
+c. USP 659 defines freezer as a place in which the temperature is controlled between −25° and −10° 
+(−13° and 14° F). It is noted that in some instances, articles may have a recommended storage 
+condition below −20° (−4° F). In such cases, the temperature of the storage location should be 
+controlled to ±10°. 
+d. USP 659 defines a refrigerator as a cold place in which the temperature is controlled between 2° 
+and 8° (36° and 46° F). 
+3. In the event that power is lost and the refrigerator, freezer, room temperatures or humidity fall outside of 
+the required range for greater than 2 hours, pharmacy staff will be notified by the monitoring system via 
+e-mail and/or text.   
+a. If refrigerator temperatures continue to exceed those established by the manufacturers and/or USP, 
+transfer of medication to another monitored refrigerator will be done until repairs can be made. 
+[URAC P-OPS 5-1 (c)] 
+b. F acilities management will be called to resolve any iss ues with room temperature or humidity. In 
+the event that products have been compromised, all refrigerated items will be removed from 
+refrigerator, returned for destruction, and new product ordered. Transfer of medications to another 
+monitored storage area will be done if necessary. [URAC P-OPS 5-1 (c)] [URAC P-OPS 5-1 (a-
+iii, a-iv)] 
+4. The pharmacist or their designees will contact a refrigerator or freezer repair vendor the next business day 
+and not move medications to their original storage refrigerator until temperatures have returned to the 
+accepted range.  
+5. The Ambient room air temperature and room humidity in the pharmacy will be regulated and maintained 
+within USP Guidelines. Room temperature and room humidity logs will be maintained and logged 
+continuously via NIST compliant electronic monitoring system on each day of business. [URAC P-OPS 
+5-1 (a-iii, a-iv)] 
+a. The Pharmacy follows USP guidelines for appropriate ambient room temperature and room 
+humidity. 
+b. Devices are calibrated according to NIST standards. 
+6. The Pharmacy ensures medication storage areas are clean. The Pharmacy cleans shelves, refrigerators, 
+freezer, counters with 70% Isopropyl Alcohol. Medication storage areas are cleaned at least quarterly, 
+and countertops are cleaned at least daily. Documentation of cleaning of each of the above areas as well 
+as the cleaning agent used is documented in the cleaning log.  
+ 
+Inventory Process:  
+A. Staff will monitor the inventory levels and report discrepancies to the pharmacists on duty.  Pharmacists may 
+make minor adjustments at their discretion. If significant discrepancies are discovered, the pharmacist on duty 
+will notify the pharmacist in charge, pharmacy manager or director of pharmacy.   
+B. Pharmacists may increase/decrease max/min levels as needed to ensure adequate supply of medication is 
+available to meet the needs of the pharmacy patients. 
+C. Inventory will be taken annually. All 340B and WAC drugs will be included in the inventory.  
+D. Inventory will be checked on a monthly rotating schedule for expiration date.  
+a. Medications expiring within 60 days will be pulled from stock. 
+b. Items pulled will be removed from perpetual inventory and placed in a container labeled “Expired 
+medications” Those medications will be returned for credit/destruction through a contracted reverse 
+distributor in accordance with Louisiana State Board of Pharmacy regulations.  
+E. Medications will not be transferred/loaned/sold or otherwise shared with other pharmacies outside of those 
+directly owned and operated by FMOLHS.  
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+  
+PH.2410_Product Procurement, Supply, Storage & Inventory 
+4 
+STATUTORY/REGULATORY AUTHORITY: 
+• PH.2417_Central Fill Pharmacy 
+• URAC Standards: P-OPS 5-1 
+• ACHC: DRX7-9A, DRX7-9C 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  

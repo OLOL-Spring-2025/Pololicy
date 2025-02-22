@@ -1,0 +1,166 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Certification and Recertification of Sterile 
+Compounding Areas 
+Policy Reference #: PH0535 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 05/30/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+• Overview and Scope 
+1.2. This policy describes the procedures for certification and recertification of Primary Engineering 
+Controls (PECs) and Secondary Engineering Controls (SECs) within FMOHLS Baton Rouge Market 
+Pharmacies. Certification indicates that the equipment and compound ing area is meeting its 
+design and air quality specifications.  
+Refer to the Facility and Engineering Controls policy  for design specifications and acceptance 
+criteria for Primary Engineering Controls (PECs), Secondary Engineering Controls (SEC) and 
+compounding areas.  
+ 
+2. Policy  
+ 
+2.1 Before a compounding area is used to compound either Category 1, Category 2, or Category 3 
+Compounded Sterile Preparations (CSPs), it must be independently certified following the 
+requirements in this policy and when applicable, manufacturer specifications.  
+2.2 Certification of the classified areas including the PEC must be performed initially, and 
+recertification must be performed at least every 6 months, and must include:  
+• Airflow testing: to determine acceptability of the air velocity, room air exchange rate, and 
+room pressure differential in doorways between adjacent rooms to ensure consistent 
+airflow; and that the appropriate quality of air is maintained under dynamic operating 
+conditions.  
+• Air changes per hour (ACPH)  and their sources e.g., HVAC, PEC and total, must be 
+documented on the certification report. 
+• HEPA filter integrity testing : HEPA filters must be leak tested at the factory, after 
+installation, and as part of recertification. 
+• Total particle count testing : performed under dynamic operating conditions using 
+calibrated electronic equipment.  
+• Dynamic airflow smoke pattern testing : performed for each PEC during dynamic 
+operating conditions to demonstrate unidirectional airflow and sweeping action over and 
+away from the preparation(s).  
+2.3 The Designated Person (DP) immediately addresses any out of specification results determined 
+by the certification professional or vendor at the time of recertification per Out of Specifications 
+policy and QA/QC policy. 2.4  Classified areas additionally must be recertified if there are changes to the area such as redesign, 
+construction, replacement or relocation of any PEC, or alteration in the configuration of the room 
+that could affect airflow or air quality.  
+• Before any of the above activities, the DP(s) consults with the certification professional to 
+confirm need for recertification and schedule availability.    
+2.5 All certification and recertification records are reviewed by the DP(s) to ensure the classified 
+environments meet USP <797> and USP <800> requirements and documents are readily 
+retrievable.  
+2.6 All certification activities are completed or supervised by vendors and professionals that are 
+credentialed by the Controlled Environment Testing Association (CETA) National Board of Testing 
+(CNBT).  Credentials are readily available from the vendor and/or Designated Person. 
+2.7 All equipment for testing and certification is calibrated per In stitute of Environmental Sciences 
+and Technology (IEST) standards or manufacturer’s recommendations and calibration dates are 
+included in the certification report.  
+ 
+3. Roles & Responsibilities 
+ 
+3.1 Designated Person(s) (DP): 
+• Review all certification and recertification records) to ensure the classified environments 
+meet USP <797> and USP <800> requirements and documents are readily retrievable.  
+• Initiate a corrective action for any out -of-specification results and ensures the actions 
+taken have been effective.   
+• Determine dynamic operating conditions for each PEC and SEC in use.  
+3.2 Certification professional or vendor: 
+• Coordinates schedule for certification with DP or designee to ensure completion within 
+due time and for minimal disruption of pharmacy workflow. 
+• Follows facility hand hygiene and garbing and material handling and cleaning procedures. 
+• Reviews facility sampling diagram with DP or designee prior to each certification activity 
+to ensure consistent sampling plan. 
+• Notifies DP of any out -of-specification criteria and any immediate corrective actions 
+completed before leaving the facility.  
+ 
+4. Procedures 
+ 
+4.1 Initial Certification of Compounding Areas  
+• Prior to certification, all construction areas are thoroughly cleaned and approved by the 
+DP and Infection Control. 
+• At completion of construction, compounding areas are certified under static or as -built 
+conditions.  The goal of this certification is to ensure airflow and air exchanges are 
+functioning as designed and that PECs and SECs meet ISO classification.  
+4.2 Recertification of Compounding Areas 
+• Routine recertification of PECs and SECs occurs at a minimum of every 6 months. 
+Recertification is considered on time if completed by the last day of the month when 
+certification is due.  
+• Recertification occurs under dynamic operating conditions.  • DP determines the maximum number of personnel normally working in the classified 
+area. Recertification is performed with that determined number of personnel.  
+• Ensure the number of personnel in the space at the time of recertification is recorded on 
+the recertification report. 
+• Recertify PECs whenever the equipment requires a signficant move such that the air 
+quality or function may be disturbed.  Consult with a certification professional if uncertain 
+of the impact.   
+• Recertify SECs following construction, redesign, or alteration of the configuration of the 
+room that could affect airflow or quality.  
+4.3 Review of Certification Report 
+• The DP reviews preliminary and final certification reports for every PEC and SEC under the 
+scope of FMOLHS Baton Rouge Market Pharmacies’ sterile compounding program within 
+3 business days of receipt.  
+• The DP begins a corrective action plan for all certification criteria items that are found to 
+be out of specification on the certification report. 
+o See Out of Specifications policy and QA/QC policy for procedures when review 
+of certification report features sterile compounding areas out of compliance with 
+USP <797> and USP <800> design specifications and acceptance criteria. 
+• Once corrective action plan remediations are complete, schedule recertification testing 
+to determine effectiveness of remediation efforts.  
+• Review certification report after remediation to determine if all areas found out of 
+specification are now within acceptable design specifications and acceptance criteria. 
+Record successful remediation on corrective action. 
+• Document the review by initialing and dating each page of the report and file for 
+regulatory review.  
+4.4 PEC Certification Criteria 
+• Airflow velocity testing, including verifying unidirectional airflow utilizing smoke pattern 
+testing under static and dynamic conditions 
+• Nonviable particle counts meeting ISO class 5 or better air quality  
+• HEPA filter integrity test 
+• Induction/back streaming test  
+• Down-flow velocity profile test 
+• Inflow velocity profile test 
+• Site assessment test, BSC exhaust alarms 
+4.5 SEC Certification Criteria 
+• Airflow testing and directional indication such as via smoke pattern testing 
+• Air changes per hour (ACPH) including ACPH from PECs, HVAC (room supply) and total ACPH  
+• Pressure differential 
+• HEPA filter integrity testing 
+• Non-viable particle counts meeting intended ISO classification 
+4.6 Segregated Compounding Area (SCA) Certification Criteria: 
+• Non-Hazardous SCA: no minimum air requirements 
+• Hazardous Containment SCA: 
+o Air changes per hour 
+o Pressure differential  5. Definitions 
+5.1 Biologic safety cabinet (BSC): A ventilated cabinet that may be used or compounding. These 
+cabinets are divided into three general classes (Class I, Class II, and Class III). Class II BSCs are 
+further divided into types (Type A1, Type A2, Type B1, Type B2, and Type C1). 
+5.1 Dynamic operating conditions: Conditions in the compounding area in which operating personnel 
+are present and simulating or performing compounding. The conditions should reflect the largest 
+number of personnel and highest complexity of compounding expected during routine 
+operations.  
+5.2 High-efficiency particulate air (HEPA) filtration (HEPA Filter): Being, using, or containing a filter 
+designed to remove 99.97% of airborne particles measuring 0.3 -micron or greater in diameter 
+passing through it. 
+5.3 Primary Engineering Control (PEC): A device or zone that provides an ISO Class 5 air quality 
+environment for sterile compounding. 
+5.4 Secondary Engineering Control (SEC): The area where the PEC is placed (e.g. a cleanroom suite or 
+SCA). It incorporates specific design and operational parameters required to minimize the risk of 
+contamination within the compounding area. 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.3 Controlled Environment Testing Association (CETA) Application Guide CAG -003:2022. 
+Certification of Sterile Compounding Facilities for USP Compliance.  
+7. Approval and Review Summary 
+ 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 05/2025 
+ 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 05/2024 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+ 
+ 
+ 

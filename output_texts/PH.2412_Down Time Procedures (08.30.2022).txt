@@ -1,0 +1,94 @@
+ 
+1 
+PH.2412_Down Time Procedures 
+ 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Down Time Procedures 
+PAGES: 
+ 2 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2412 (03/12/2020) 
+ORIGINAL EFFECTIVE 
+DATE:  03/28/2014   
+REVISION DATE: 
+08/30/2022 
+POLICY NUMBER:  
+PH.2412 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+To provide patient medication during emergency situations or pharmacy system failure. 
+ 
+POLICY: 
+The pharmacy will make every effort to ensure continuity of care for all patients served including transferring 
+prescription services to, OLOLH affiliated pharmacies, and/or local specialty pharmacies of choice.  The process will 
+be tested minimally every 2 years. [URAC Pharm Core 14 (d)] 
+ 
+DEFINITIONS: 
+N/A 
+PROCEDURE: 
+[URAC Pharm Core 14 (a, b, d)] 
+Emergency Situations with loss of power: 
+1. If the pharmacy is unable to process prescriptions due to loss of power for greater than 1 business day, patients 
+requesting prescriptions will be notified and those prescriptions will be transferred by the pharmacist to the 
+patient’s pharmacy of choice.   
+2. In preparation of impending loss of power due to hurricane or other expected natural disaster, the pharmacy 
+will identify those patients with potential to require refills during the expected down time and fill the 
+medications in advance of the expected disaster.  Patients will be notified as the prescriptions are filled and 
+given advance notice of possible closure to allow the patient time to pick up medications. 
+3. If prescriptions cannot be filled due to unavailability of medication, patients will be notified and prescriptions 
+transferred to the pharmacy of the patient’s choice. 
+4. All pharmacies are equipped with generator backup that have sufficient fuel to last 4 to 5 days, however, in the 
+event that power is lost and refrigerator or freezer temperatures fall outside of the required range for over 2 
+hours, pharmacy staff will be notified by the refrigerator monitoring system via e-mail and/or text and 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+8/30/2022 9:30 AM 
+ 
+ 
+2 
+PH.2412_Down Time Procedures 
+ 
+manually remove all product, place in coolers, and transport to the alternate OLOL owned pharmacy location. 
+[URAC Pharm Core 14 (b)] 
+ 
+Pharmacy System Failure without loss of power  
+1. The pharmacy will make every attempt to limit downtime due to system failure through use of a virtual server 
+housed at OLOLH. 
+2. During occasions when the server is down, the pharmacy will continue to fill all prescriptions in Quality 
+Check and store them until the pharmacist can check them when the system is functional. 
+3. Patients requesting medication pick up will be notified of delay and asked to return at a later time. 
+4. No prescriptions will be processed during this down time.  If patients require immediate assistance, 
+prescriptions will be transferred by the pharmacist to a patient’s pharmacy of choice. 
+5. If down time exceeds 2 hours, medication dispensing will be allowed for medications awaiting quality check 
+on a case by case basis at the pharmacist’s discretion after a manual check of the filled medication has been 
+performed and label signed by the licensed pharmacist. The pharmacist that checked the dispensed medication 
+must complete quality check through the pharmacy software system when the system is again functional.   
+6. Patients may pay cash for the medications dispensed above and must sign the receipt as proof the medication 
+was received.  All receipts will be filed and maintained in the pharmacy for no less than 3 years and be readily 
+retrievable in the event of an audit. . 
+7. No refills will be manually processed during down time unless they met criteria #5 and #6 above. 
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: PHARM Core 14 
+• ACHC Standards: DRX7-4A 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by:  
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  

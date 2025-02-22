@@ -1,0 +1,96 @@
+ NNA-099 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services Section: Nursing 
+Administration 
+Title: Guidelines for Use of Voalte One 
+Communication Devices 
+Policy Reference #: NNA-099 
+Supersedes #:  
+Date of Origination: December 4, 2013 Last Date Reviewed:   September 26, 2024  
+Last Date Revised: September 26, 2024 
+ 
+ 
+PURPOSE: 
+ 
+Use of the Voalte One Communication Device is limited to professional communication in the 
+coordination of clinical care and services between staff users, healthcare providers, and 
+vendors. 
+ 
+POLICY: 
+ 
+1. It is the user’s responsibility to adhere to all hospital policies and procedures related to 
+Privacy and Confidentiality, HIPAA, and Professional Conduct and Behavior. 
+ 
+2. Voalte One Communication Devices operate on Wi-Fi and the Voalte servers.  They have 
+no Internet connection and will not function outside of the hospital infrastructure. 
+ 
+3. Voalte One Communication Devices can receive voice calls from other Voalte phones, non-
+Voalte extensions in the hospital, and external numbers. They are not intended for personal 
+use and users should not make personal calls or text messages using the Voalte phones. 
+ 
+4. Voalte One Communication Devices text messaging will only function between Voalte 
+phones. Texts can be chosen from the Quick Messages library or created by the user. 
+Texts cannot be sent to or received by non-Voalte numbers.   
+• It is not acceptable for physicians or licensed independent practitioners to text orders 
+for patients to the hospital or other healthcare setting. This method provides no 
+ability to verify the identity of the person sending the text and there is no way to keep 
+the original message as validation of what is entered into the medical record. 
+ 
+5. Patient room number should be used discretely if identification of the patient is necessary.  
+ 
+6. The users assigned to the communication device during the shift is the only individual 
+allowed to use that communication device and is responsible for the device; no patients, 
+patients’ families, or other employees are allowed to use the communication device. 
+  NNA-099 
+Page 2 of 3 
+7. If the communication device is taken from the facility, staff must be return to the facility to 
+deliver the device immediately.  
+ 
+ 
+PROCEDURES: 
+ 
+A. Logging In and Out: 
+1. All users are required to complete the hospital log in and out process at the beginning 
+and end of each shift. 
+2. Voalte One Communication Devices are not to be taken outside of the facility at any 
+time. 
+3. Any Voalte One Communication Devices identified as missing from the docking station 
+must be located and returned immediately. 
+ 
+ 
+B. Cleaning the Equipment: 
+1. Users must wipe down Voalte One Communication Device and battery packs at the 
+beginning and end of each shift. 
+2. Users must only use approved wipes and solutions to clean equipment. The Voalte One 
+Communication Devices have a protective military grade screen shield that will be 
+damaged by non-approved solutions. Foaming hand sanitizer should be rubbed into the 
+skin thoroughly before handling communication devices. 
+3. The screen shields protect the communication devices against droplet damage; they do 
+not waterproof the communication devices. Soap and water should never be used to 
+clean equipment. 
+ 
+C. Paging and Leaving Callback Instructions 
+1. Identify yourself and your Voalte communication device number or extension. 
+2. State your message. 
+3. Repeat your Voalte communication device number and extension. 
+ 
+D. Handoff Process (Checking Out a Device from the Docking Station)  
+1. Tap the badge reader on the charging dock to check out a phone.    
+2. The phone will have a green background with the user’s name on the home screen.    
+3. Press the Home Button and the user will be prompted to create a passcode. Use 6565.  
+4. At the end of the shift, return the device to an empty bay on the docking station. 
+ 
+ 
+ 
+  NNA-099 
+Page 3 of 3 
+E. Damage to Communication Device: 
+If a communication device is damaged due to normal wear and tear, in the event of a 
+device failure or unavoidable damage occurs (i.e., during a code), employees will not be 
+expected to pay for repair/replacement. However, disciplinary action will be taken if the 
+phone is abused, lost or damaged due to neglect.    
+ 
+F. Routing of Alerts – 
+All alerts will be escalated in this order:  
+Nurse → Backup Nurse → Charge Nurse 

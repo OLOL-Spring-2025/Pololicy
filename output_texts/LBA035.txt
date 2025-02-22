@@ -1,0 +1,335 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 1 of 5 
+LBA035 
+ 
+ 
+ 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA035 
+GENERAL SPECIMEN COLLECTION, TRANSPORT, AND PROCESSING  
+        Date Issue Date Effective Date 
+ Prepared/Revised By D. Leger 4/29/2020 7/14/2020 7/14/2020 
+Lab Administration Review J Teague 4/30/2020 Origination Date 
+Lab Medical Director Review A Harton 5/30/2020 4/8/2020 
+ 
+ 
+I. PURPOSE 
+To provide guidelines for the general collection, transport, receiving, and processing 
+of patient specimens. 
+ 
+II. POLICY 
+In order to ensure quality results, patient testing specimens will be collected 
+appropriately.  Collected specimens will be received, processed, and distributed to the 
+technical sections of the laboratory in an efficient manner. 
+ 
+III. PROCEDURE 
+A. General Blood Collection 
+1.Most laboratory tests are performed on anti-coagulated whole blood, 
+plasma, or serum.  
+2.Specimens should be transported to the laboratory as soon as possible after 
+collection.  
+3.Some tests have specific instructions which vary from these general ones. 
+Please refer to the online test catalog for specific requirements.  
+4.Draw a sufficient amount of blood in order to yield the necessary testing 
+volume.  
+ 
+B. Specimen Integrity  
+Laboratory test results are dependent on the quality of the specimen submitted.  
+1.It is important that all specimens, orders, and requisitions be properly 
+labeled. 
+2.If there is any doubt, question or concern regarding the type of specimen 
+that should be collected, it is imperative that you clarify the order and 
+specimen requirements prior to collection.  
+3.For specimens with specific temperature requirements, please ensure the 
+specimen maintains that temperature after collection and during specimen 
+transport (when applicable). Please see the table below for temperature 
+reference ranges. 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 2 of 5 
+LBA035 
+ 
+ 
+ 
+ 
+Room Temperature  18-25C  
+Refrigerated  2-8C  
+Frozen  <10C  
+ 
+4.Each vacutainer tube has an ideal fill volume in milliliters (ml) noted on 
+the label of the tube.  Our tube manufacture places a visual marker (◄ 
+black arrow) on the tubes label that indicates when a tube has been 
+adequately filled.  Hold the tube vertically (top up) and compare the level 
+of the sample to the black indicator mark.  The tube is properly filled 
+when the level of the sample falls between the top and bottom of the black 
+arrow on the tube label. 
+5.Under filled tubes may not be acceptable for laboratory testing.  
+Acceptability of under filled vacutainer tubes must be verified with the 
+laboratory section performing the test.   
+6.Difficult to recollect and sample containers subject to breakage during 
+transit of the tube system should not be sent to the laboratory via the tube 
+system. These samples are to be hand carried to the laboratory.   Difficult 
+to recollect sample would include: 
+a. Cerebrospinal fluid (CSF) 
+b. Fluid aspirates from surgery 
+c. Tissues 
+d. Biopsies 
+e. Slides 
+ 
+C. Centrifugation  
+1.Always balance the centrifuge by placing tubes of equal volume in 
+opposite wells.  
+2.Refer to section E for centrifugation specifics depending on collection 
+container.  
+3.Outpatient specimens may be spun at outreach collection sites prior to 
+being transported. 
+4.Aliquot serum from plain, red-top tube by removing serum with a pipette 
+and placing into a properly labeled plastic vial.  
+5.Aliquot may then be frozen as required.  
+6.Note: Do not freeze plain, red-top tube or serum gel tube.  
+ 
+D. Specimen Labeling 
+Please label each specimen/tube with the following information:  
+1.Patient’s full name  
+2.Patient’s date of birth  
+3.Date and time of draw of specimen 
+4.Identity of collector 
+5.Source and time of draw (as applicable)  
+6.Unlabeled and Mislabeled tubes and other specimens will be rejected. 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 3 of 5 
+LBA035 
+ 
+ 
+ 
+ 
+ 
+E. VACUETTE® TUBE COLLECTION GUIDE 
+The following table includes general instructions for Vacuette® tube collection. 
+Since some tests may have specific instructions that vary from this table, please 
+use the online test catalog for specific collection requirements for each test. 
+ 
+ Cap Color  Tube Contents  Purpose  Recommended 
+Centrifugation  
+g-force  
+(relative centrifugal 
+force or rcf) & time  
+Recommended  
+Inversions  
+Special Instructions  
+COLLECT BLOOD CULTURES FIRST, THEN THE REQUIRED TESTS IN THE ORDER BELOW  
+Red  No Additive  
+Clot Activator  
+Serum for chemistry,  
+immunohematology, and 
+other lab tests  
+Minimum 1500 g for 10 
+min  
+5-10  **Centrifuge 30 minutes 
+after blood collection to 
+minimize fibrin buildup.  
+Royal Blue  
+No 
+Additive  
+No Additive  
+Clot Activator  
+Serum for trace element 
+testing  
+Minimum 1500 g for 10 
+min  
+5-10  **Centrifuge 30 minutes 
+after blood collection to 
+minimize fibrin buildup.  
+Light Blue  Sodium Citrate  Plasma for coagulation  Platelet Poor Plasma 
+Preparation:  
+2000 g for 10 min  
+4  ** Fill completely for proper 
+ratio of anticoagulant to 
+blood  
+** If using butterfly 
+collection device, see Note 
+below.  
+Red (SST)  Yellow ring  
+Clot activator  
+Gel Separator  
+Serum for chemistry,  
+immunohematology, and 
+other lab tests  
+1800-2200 g for 10-15 
+min  
+5-10  ** 9 mL available for 
+Hepatitis testing  
+**Centrifuge 30 minutes 
+after blood collection to 
+minimize fibrin buildup.  
+**If frozen serum is 
+required, aliquot before 
+freezing. DO NOT FREEZE 
+SERUM GEL TUBES.  
+Green  Sodium Heparin 
+or  
+Lithium Heparin 
+with  
+Glycolytic 
+Inhibitor  
+Heparinized plasma for 
+chemistry, AFB Blood 
+Cultures, T-Spot.TB and other 
+tests  
+2000-3000 g for 15 min  5-10  **If plasma is separated 
+from cells, label aliquot as 
+plasma.  
+Green with 
+Gel 
+Separator  
+Lithium Heparin 
+with  
+Glycolytic 
+Inhibitor  
+Gel Separator  
+Heparinized plasma for 
+chemistry studies  
+1800-2200 g for 10-15 
+min  
+5-10   
+Royal Blue  
+With EDTA  
+EDTA  Whole blood or plasma for 
+trace element testing  
+For Plasma Preparation:  
+2000-3000 g for 15 min  
+8-10  ** Do NOT use iodine-
+containing products to 
+disinfect the collection site.  
+Lavender  K2EDTA  Whole blood or plasma for 
+Hematology, Blood Bank, and 
+other lab testing  
+For Plasma Preparation:  
+1800-2200 g for 10 -15 
+min  
+8-10  ** 9 mL available for Blood 
+Bank testing  
+Grey  Potassium 
+Oxalate  
+Sodium Fluoride  
+Whole blood or poured off 
+plasma for glucose and 
+special chemistry tests  
+2000-3000 g for 15 min  5-10   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 4 of 5 
+LBA035 
+ 
+ 
+ 
+Yellow  ACD (Acid Citrate 
+Dextrose) 
+Solution  
+Whole blood for special 
+chemistry, flow cytometry, 
+and other lab tests 
+ 8-10   
+Note: When using a winged blood collection set (butterfly needle) for venipuncture and a 
+coagulation tube is the first tube needed, first draw a discard tube. The discard tube must be used 
+to prime the tubing of the collection set, which will assure maintenance of the proper 
+anticoagulant/blood ratio in the first tube filled. The discard tube should be a non-additive tube 
+(plain red) or coagulation tube (light blue) and need not be completely filled. 
+ 
+F. Specimen Processing  
+1.If all the criteria are met, receive the specimen into the laboratory in the 
+receiving activity in Epic.  
+2.If all the criteria are not met, do not receive the specimen, mark for redraw 
+in Epic. 
+3.All specimens are received into the Laboratory before being taken to the 
+testing location. 
+4.Patient samples are processed by test priority: 
+a. 1st priority:  Codes, Trauma, and Open-Heart samples 
+b. 2nd priority: Surgery 
+c. 3rd priority: Emergency care unit 
+d. 4th priority: STAT inpatient biohazard bags (STAT or ASAP 
+priority) 
+e. 5th priority: STAT outpatient orders and inpatient Timed 
+specimens 
+f. 6th priority: Routine (completed within 4 hours of draw time.)    
+g. All specimens should be processed no later than one hour from 
+their original received lab time except under extenuating 
+circumstances. 
+5.Blood Bank 
+a. Type and Screen (ABO/Rh, Antibody screen) and Draw and Hold 
+specimens: A purple top specimen container must have the 
+patient’s first and last name, medical record number, DOB for 
+outpatients, time and date of draw (may be documented 
+electronically), collector identification (may be documented 
+electronically), and blood bank ID. 
+b. ABO/Rh, ABO/Rh (NOCHG), and DAT COMP, DAT IgG 
+specimens: A purple top specimen container must have the 
+patient’s first and last name, medical record number, DOB for 
+outpatients, date and time of draw (may be documented 
+electronically), and collector identification (may be documented 
+electronically). 
+6. Chemistry 
+a. Performance Indicator (PI) for ECU troponin testing measures the 
+time the sample is received to result reporting.  It is expected that 
+an ECU troponin be processed and resulted in 30 minutes or less 
+from sample arrival in the laboratory.  Do not place other tests in 
+the same instrument carrier as ECU troponins.   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 5 of 5 
+LBA035 
+ 
+ 
+ 
+b. Samples with hemolysis can be placed directly on the Architect 
+analyzers as hemolysis is run during the testing process. 
+c. Sample tubes received centrifuged but containing serum that 
+appears cloudy or a gel barrier that is slanted are to be re-
+centrifuged.  When re-centrifuging, pour over the sample in 
+question to a new labeled container and then re-centrifuge the 
+recovered serum.  Do not re-centrifuge the original container. 
+Always place the questionable serum sample in a new labeled 
+container and centrifuge. 
+d. Deliver instrument test racks that have been set up with patient 
+samples for testing to the departments in a timely manner.  Do not 
+hold a test rack to fill it completely with sample tubes before 
+taking the test tray to the proper analyzer. 
+e. Do not stack carriers on top of each other when carrying them to 
+the analyzer. Carry a maximum of two big carriers at a time when 
+delivering samples. 
+f. Process and centrifuge all SST tubes, plain red top tubes, and 
+“extras” promptly unless specifically instructed to not to 
+centrifuge.  Extra tubes are centrifuged and set aside for possible 
+future use.   
+g. Ammonia and homocysteine testing requires that the sample 
+container be received on ice and centrifuged in the cold centrifuge.   
+h. Gray top tubes collected for lactic acid testing must be received on 
+ice and centrifuged as soon as possible. 
+i. When a purple top tube is received for multiple tests including a 
+BNP, the BNP is typically run last.  Examples include CBC’s and 
+sedimentation rates which are performed on un-centrifuged 
+samples. Give the BNP label to Hematology when delivering the 
+sample.     
+7.Hematology 
+a. Performance Indicator (PI) standard for ECU CBCs is resulting 
+within 30 minutes or less from the time the specimen is received.   
+b. Deliver instrument racks to the department for testing in a timely 
+manner.  Do not wait for racks to be completely filled before 
+loading on the instruments. 
+c. Do NOT spin Platelet Function samples. 
+d.  Serum acetones and pregnancy screens should be delivered in a 
+timely manner and the tech alerted when they are dropped off. 
+8.Urinalysis 
+a. For shared urine specimens (UA and DOA SCRN U), if both labels 
+are on the urine container, reprint the DOA SCRN U label and give 
+it to Hematology with the urine sample. Hematology will deliver 
+any additionally requested tests to the appropriate department. 
+ 
+IV. REVISIONS 
+4/8/2020 (created), 4/29/2020 

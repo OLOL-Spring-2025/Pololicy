@@ -1,0 +1,173 @@
+1 
+ 
+ 
+ 
+ 
+MEDICARE 
+AB REBILL 
+PROCEDURE 
+ 
+ 
+ 
+Lisa Kerst – Revenue Management 
+Doreen Miller – Patient Financial Services  
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Introduction - 
+FMOL performs “Self – Auditing” of Medicare Short Stay Inpatient admissions to determine if 
+Inpatient level of care was medically necessary.   
+ 
+Process/Procedures –  
+A. Upon import to the billing system, Medicare Short Stay Inpatients claims are routed to 
+the Revenue Management Self Audit queue for review and determination. 
+B. If deemed inappropriate for Inpatient level of care by Revenue Management, the 
+account is documented in Rumba, and assigned to Collector ID – AB by the Biller, for AB 
+Rebill. 
+C. The following is placed in the billers note on the electronic claim: 
+“Not appropriate for inpatient. per Dr. Lieux (Remove reference of Physician).  Please bill 
+Part B” 
+D. The claim will be reassigned to the billers queue.  The note is clearly seen by the biller in 
+the billing queue.  Also, when the claim is validated the following warning is given to the 
+biller: “270210 CUSTOM WARNING: Short stay visit needs review.  Route to appropriate 
+Denials Analyst”. 
+E. The biller will review the note and change insurance verification screens making 
+Medicare Part A not effective, and order rebill.  
+F. Once the “no pay” claim is final, submit all A/B rebilling claims. When the remittance 
+advice comes back with a $0 payment, post a concurrent review denial write-off for the 
+amount of the Room & Board charges.  Concurrent review write-off code = 00124022, 
+transaction type A1. 
+G. Submit a rebill for Part B charges.  Details are listed on the following pages. 
+ 
+  3 
+ 
+     
+BILL TYPE 110 
+After Inpatient level of care was found to be inappropriate, and in order to receive payment 
+under Medicare Part B (AB Rebill), a no-pay claim (TOB 110) must be submitted to Medicare 
+Part A.  Medicare will process claim for a zero payment.  Once this is finalized, then AB Rebilling 
+can begin. 
+ 
+Requirements for AB Rebilling Process, Bill Type 110 – effective 1/16/2016: 
+• Submit bill type 110 for total charges 
+• Occurrence span code M1 (Provider Liability)  
+• Use the date span admit date through discharge date (date prior to the discharge date if 
+stay is over 1 day) 
+• Non-covered days 
+• Non-covered charges for all billed services 
+• All diagnosis codes 
+• All procedure codes 
+• Remarks – Claim has been self-audited by facility 
+• All previously paid 11X TOBs must be adjusted as a “no pay” claim following the steps 
+above.  Once the “no pay” claim is final, submit all A/B rebilling claims. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 
+BILL TYPE 121 
+Requirements for AB Rebilling Process, bill type 121: 
+• Report all charges beginning with the actual date of Inpatient admission until discharge. 
+• Condition code “W2”  
+• Treatment Authorization: A/B Rebilling 
+• Remarks field: ABRebill and DCN of bill type 110.  In the remarks field, the last 
+adjudication date is no longer a requirement. 
+• Submit all Revenue codes that qualify as billable under Medicare Inpatient Part B 
+• The following Revenue Codes are not covered/billable under Inpatient Part B – Bill 
+type 121 and should be removed from the 121 bill: 
+o Outpatient visits (rev codes 45X & 51X; CPT/HCPCS codes G0378 &G0379, 99201-
+99215, 99281-99285, G0380-G0384, & G0463) 
+o Observation services (rev code 0762) 
+o Services not covered under Part B (ex: room & board rev codes 0100-0239) 
+o Diabetes Self Management Training 
+o Rev codes as follows: 
+10X, 11X, 12X, 13X, 14X, 15X, 16X, 17X, 18X, 19X, 
+20X, 21X, 22X, 23X, 24X, 29X, 390, 391, 399, 45X, 
+50X, 51X, 52X, 54X, 55X, 56X, 57X, 58X, 59X, 60X, 
+630, 631, 632, 633, 637, 64X, 65X, 66X, 67X, 68X, 
+72X, 762X, 82X, 83X, 84X, 85X, 88X, 89X, 905, 906, 
+907, 912, 913, 93X, 941, 943, 944, 945, 946, 947, 
+948, 95X, 960, 961, 962, 963, 964, 969, 97X, 98X, 99X, 100X , 
+210X, 310X 
+ 
+  5 
+ 
+ 
+BILL TYPE 131 
+Requirements for AB Rebilling Process, bill type 131: 
+TOB 131 must be submitted for outpatient services prior to the date of admission. 
+(Example:  Emergency Room, Observation) 
+ 
+• If the date of service for TOB 131 “IS NOT” the same as TOB 121, then TOB 131 can be 
+submitted. 
+• If the date of service for TOB 131 “IS” the same as TOB 121, then TOB 131 must be held 
+from billing until TOB 121 has paid. 
+• No condition or occurrence codes are required 
+• No remarks are required 
+• Note – Check for any duplicate ER charges. If duplicate ER charges are found, hold 
+billing. The patient may have been transferred from Lake Livingston and additional 
+duplicate charging may have been entered.  Send claim for charge audit (Revenue 
+Integrity Charge Auditors (Andree Guillory/Claudia Ortego) for review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+SELF ADMINISTERED DRUGS 
+AB Rebill Process Only 
+Self-Administered drugs include, but are not limited to ophthalmic ointments, anti-biotic 
+ointments, topical solutions, any oral pills, tablets, or medications given to a patient for 
+continued use at home after he leaves the hospital. 
+For AB Rebills only, self- administered drugs charges will not be billed to the patient. 
+Rationale:  The patient was not notified in advance that he was not going to be an Inpatient, 
+therefore was not anticipating these additional charges. 
+ 
+Self-administered drug charges should be written off to regular Medicare contractual. 
+Medicare Part B outpatient contractual = 00112201 
+Medicare Part B manual contractual = 00112018 
+ 
+*Self-Administered drugs will be billed on all other outpatient claim types other than AB Rebills. 
+ 
+ 
+ 
+ 
+  7 
+ 
+ 
+NO MEDICARE PART B COVERAGE 
+ 
+Situation:  The admission is deemed inappropriate for inpatient admission.  The patient has no 
+Medicare Part B coverage to proceed with regular AB Rebill process. 
+ 
+Process: 
+• Medicare Part A should be billed for a zero payment (TOB 110) 
+• If the patient has a supplemental insurance, or Medicaid: 
+o Submit claim to the supplemental insurance or Medicaid for total charges, with 
+proof of Medicare Part A denial.  In “remarks field” indicate no Medicare Part B 
+coverage.  This claim may need to be faxed directly to Medicare via secure fax.  If 
+supplemental insurance denies payment, this will become a patient 
+responsibility. 
+• If the patient has no supplemental insurance, or Medicaid: 
+o Medicare guidelines state that the patient will become responsible when there is 
+no Medicare Part B coverage.  FMOL will bill the patient for all charging that 
+would have been eligible for billing under Medicare Part B.   
+o Patient responsibility – Patient inquiries regarding this type of patient balance, 
+can be discussed with management on a case by case basis for the possibility of 
+asettlement offer or charitable guideline assistance. 
+o The patient will be screened for financial assistance. 

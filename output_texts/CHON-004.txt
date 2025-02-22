@@ -1,0 +1,179 @@
+CHON-004 
+Page 1 of 4 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:   
+Subject:  High and Low Risk Hazardous Drug 
+(Chemotherapy) Spill Procedure 
+Section:  Oncology 
+Date of Origination:  June 22, 2009 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+April 5, 2013 
+April 12, 2024 
+Serial Code:  CHON-004 
+  
+PURPOSE: 
+The purpose of this policy is to define the activities necessary to properly decontaminate areas where high risk 
+hazardous drug (HD) administration occurs as well as provide instructions on proper spill management and 
+disposal of HDs. 
+ 
+This policy will review high risk hazardous drug Group 1 related spills in outpatient infusion, clinic and/or the 
+inpatient setting.   
+ 
+DEFINITIONS: 
+A. USP800: United States Pharmacopeia (USP) General Chapter <800> Hazardous Drugs – Handling in 
+the Healthcare Setting is a guidance document comprised of best practices handling hazardous drugs in 
+healthcare settings.  Standards written USP800 are now federally enforceable as of December 1. 2019. 
+B. Hazardous Drug (HD): NIOSH defines any drug having any of the following six characteristics in 
+humans or animals: 
+o Carcinogenicity 
+o Teratogenicity or other developmental toxicity 
+o Reproductive toxicity 
+o Organ toxicity at low doses 
+o Genotoxicity 
+ 
+Structure and toxicity profiles of new drugs that mimic existing drugs determined hazardous by any of the 
+above criteria: 
+o High Risk HD: following OLOL policy of HDs, High Risk HDs are considered to be NIOSH 
+Group 1 drugs: Antineoplastic HDs 
+o Low Risk HD: following OLOL policy of HDs, Low Risk HDs are considered to be NIOSH 
+Group 2 and 3 drugs: Non-Antineoplastic and Reproductive Risk HDs. 
+o Deactivation: Deactivation renders a compound inert or inactive. 
+o Decontaminate: Decontamination occurs by inactivating, neutralizing, or physical removing HD 
+residue from non-disposable surfaces and transferring the HD residue to disposable materials for 
+proper removal from an area. 
+o Spill Response Team (SRT): The SRT will consist of the following personnel: 
+• The person who created and/or found the spill 
+• The unit or clinic supervisor (or designee) where the spill occurred 
+• A team member from Pharmacy 
+• A team member from Environmental Services 
+ CHON-004 
+Page 2 of 4 
+o Personal Protective Equipment (PPE) 
+Gloves: Per USP800 gloves used as PPE when handling HDs shall meet American Society for 
+Testing and Materials (ASTM) standard D6978 (or its successor). 
+Gown: Per USP800 gowns used as PPE when handling HDs shall meet the following criteria: 
+• Be disposable 
+• Shown to resist permeability by HDs 
+• Close in the back and have no openings to the front 
+• Be long sleeved with closed, elastic or nit, cuffs 
+• Must not have any seams or closures HDs could pass through 
+o Respirator: a full-face piece, chemical cartridge-type respirator, or powered air purifying type 
+mask.  This type of mask should only be worn when attending to HD spills larger than what can be 
+contained with a spill kit. 
+o HD Spill: An HD spill is the unintentional leakage or spill of a hazardous drug from otherwise 
+closed container.  For purposes of this policy, HD Spills and spill management will be referred to for 
+High-Risk HDs. 
+o Large High-Risk HD Spill:  A large HD spill is any high-risk HD spill that cannot be contained 
+by a single chemo spill kit, requiring the use of multiple spill kits. 
+o Small High-Risk HD Spill: A small HD spill is any high-risk HD spill that can be contained by a 
+single chemo spill kit or decontaminant wipes. 
+o Hazardous Bodily Fluid Spill: Hazardous bodily fluid spill refers to any patient currently 
+receiving or has received a High-Risk HD within the last 48 hours during this current hospital 
+admission, where any bodily fluids have spilled or soiled any locations or surfaces in the patient care 
+area.  
+       
+POLICY:  
+I.  High Risk Hazardous Drug (HD) Spill (Group 1 drugs): Only High-Risk HDs, also known as antineoplastic 
+drugs, will follow the outline in this policy.   
+ 
+A. Wherever chemotherapy, or a high-risk HD, is being administered, a spill kit must be readily available.  
+If a chemo spill kit is not readily available in supply room of unit, obtain one from pharmacy or central 
+supply.  The following items should be available to manage a high-risk HD spill: 
+• Goggles 
+• Two pairs of ASTM D6978 rated chemo gloves 
+• One N95 mask (not surgical mask) 
+• Gown shown to resist hazardous drug permeation with back closure 
+• Shoe covers 
+• Sheets of absorbent materials 
+• Spill control pillows 
+• A sharps container 
+• A small scoop to collect glass fragments 
+• HD waste-disposal bag 
+ 
+B. Personal Contamination Guidelines 
+1. Immediately remove contaminated gown, gloves, and personal clothing and dispose items in a 
+chemotherapy disposal bag/bin.  
+•  
+• Personal contaminated clothing must not be taken home under any circumstances. 
+ CHON-004 
+Page 3 of 4 
+2. Wash affected skin immediately with soap (not germicidal cleaner) and water. 
+• For eye exposure, immediately flood the affected eye with water or isotonic eyewash 
+for at least 15 minutes. 
+3. Obtain medical attention.  Contact your supervisor and report to ECU.  Employees Health should be 
+contacted during office hours. 
+4. Safety event should be entered in safety event reporting system. 
+ 
+C. Containment, identification, and high-risk HD spill area 
+1. It is the responsibility of the person creating or finding the high-risk HD spill is responsible for 
+containing the spill.  If the spill is not able to be managed by a single spill kit, the SRT should be 
+activated for help cleaning the high-risk HD spill. 
+2. The RN will identify the spill area, post a warning sign, and wall off the area to prevent unauthorized 
+personnel from becoming exposed to cytotoxic agents. 
+3. Isolate the area of the spill to reduce the risk of exposure to additional personnel if not already done 
+by persons calling the HD SRT. 
+4. Prior to entering the spill area, don a coated chemotherapy, back closing gown, double shoe covers, 
+thick gloves (over double chemo gloves if broken glass) or double chemo gloves tested to ASTM 
+standard D6978, and personal full-faced dual chamber respirator (or half respirator and goggles) 
+where warranted. 
+5. Gather spill kit supplies and enter area of spill. 
+6. If the spill is liquid, place absorbent towels on top of spill gently to prevent splashing of HD if not 
+already in place. 
+7. If the spill is solid, place absorbent towels wetted with water on top of the spill. 
+8. Use the absorbent towels to contain the spill and carefully place the contaminated towels in the HD 
+waste bag provided in the spill kit. 
+9. Clean up any broken glass fragments using utility gloves (thick rubber gloves) placed over double 
+chemotherapy gloves and place into pierce proof container along with any contaminated sharps. 
+Place in yellow RCRA waste container (Black Bin) along with any soft supplies that are heavily 
+contaminated with HD.  If a yellow waste container is not immediately available, please in RCRA 
+Black Bin. 
+10. Once the visible spill has been removed, use absorbent towels wetted with the designated 
+decontamination agent to decontaminate the area.  Theses wipes will be placed in RCRA waste 
+(Black Bin) regardless of the drug spilled. 
+11. Allow the agent to dry. 
+12. Clean the area with the designated germicidal detergent/sporicidal solution.  Solution will be brought 
+from pharmacy when the HD SRT is called.  Bleach wipes may be used otherwise. 
+13. Place all wipes used in the cleaning process into the trace yellow waste. 
+14. Once the spill has been cleaned, remove PPE and discard in  yellow bin. Wash hands.  
+15. Patient area can be reopened at the completion of spill procedure cleaning. 
+ 
+D. Documentation of Spills 
+1. Spills and spill cleanup must be documented as a safety event in the safety event reporting system by 
+person who had the spill or those who notified the HD SRT.  Further investigation should occur by 
+the unit manager or supervisor to avoid similar high-risk HD spills in the future. 
+ 
+E. Linen 
+1. Laundry Personnel:  Contaminated linen will be double bagged in yellow bag and placed in hospital 
+laundry chute.   CHON-004 
+Page 4 of 4 
+ 
+ 
+F. Low Risk hazardous Drug (HD) Spill (Group 2 and 3 drugs: Non-Antineoplastic and Reproductive Risk 
+HDs) 
+1. Obtain a spill kit 
+2. Wear double chemo gloves and gown 
+3. Wear a face shield if splashing is possible, if available 
+4. Discard linen in a hazardous drug labeled linen bag 
+5. Discard trash and disposable items in a chemotherapy labeled bag and place in 
+chemotherapy plastic container 
+6. For non-employees exposed to HD-spill, enter a safety event into the electronic reporting 
+system and report to emergency room for evaluation.  
+ 
+G. Training  
+1. All personnel who may be required to clean up a spill of HD must receive proper training in 
+spill management and the use of PPE. 
+  
+REFERENCES: 
+ 
+Chemotherapy and Biotherapy: Guidelines and Recommendations for Practice (4th Edition 2015) 
+ 
+Herring, R.A, (ED.). (2019) The Pediatric Chemotherapy and Biotherapy Curriculum. (4th ed.).     Glenview, 
+IL: Association of Pediatric Hematology/Oncology Nurses. 
+ 
+ 
+USP General Chapter <800> Hazardous Drugs – Handling in Healthcare Settings USP42-NF37 Published on 
+June 1st, 2019 

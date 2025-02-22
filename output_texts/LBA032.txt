@@ -1,0 +1,212 @@
+OLOLRMC AND AFFILIATE LABS 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 5 
+LBA032 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA032 
+INDIVIDUALIZED QUALITY CONTROL PLAN (IQCP) 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 2/23/2021 5/13/2021 5/13/2021 
+Lab Administration Review J Teague 4/8/2021 Origination Date 
+Laboratory Medical Director Review A Harton 4/15/2021 4/2015 
+Laboratory Medical Director Review A Nunez 4/19/2021  
+ 
+ 
+PURPOSE 
+To define the process for developing an Individualized Quality Control Plan (IQCP) for 
+applicable test systems used at OLOLRMC Main and Affiliate Laboratories. 
+ 
+BACKGROUND FOR CMS REGULATION (Transition from EQC to IQCP) 
+• The Clinical Laboratory Improvement Amendments of 1988 (CLIA) are the 
+federal regulations that govern all U.S. laboratory testing used for the “diagnosis, 
+prevention, or treatment of any disease or impairment of the health of human 
+beings. “When CLIA became effective in 1992, the minimum requirement for QC 
+was established as testing two levels of control materials each day of patient 
+testing. 
+• When the final CLIA regulations became effective in early 2004, they included 
+Appendix C, the Interpretive Guidelines for Laboratories.  These guidelines allow 
+the Centers for Medicare and Medicaid Services (CMS) to modify the 
+interpretation of the CLIA regulations without having to change the actual law. 
+This allows new methodologies, new technologies, and new ideas to be 
+considered as needed.  The Interpretive Guidelines allow an alternative to daily 
+external Quality Control as long as “equivalent quality testing” is assured. Since 
+2004, this alternative has been Equivalent Quality Control (EQC). 
+• When implemented, EQC allowed laboratories to decrease the frequency of 
+running external controls for eligible tests, after they performed a successful 
+standardized qualifying study. For a test to be eligible for EQC, one requirement 
+was that it had internal controls.  Due to the many errors that went undetected 
+with this process, CMS challenged the laboratory community to develop a new 
+QC guideline.  An alternative to EQC.   
+• A laboratory Quality Control guideline based on Risk Management was 
+developed from the ideas exchanged and published in October 2011.  The CLIA  
+Interpretive Guidelines incorporated key concepts from the guideline to develop a  
+new alternative QC policy. CMS named this policy “Individualized Quality  
+Control Plan” (IQCP), which replaces EQC.  OLOLRMC AND AFFILIATE LABS 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 5 
+LBA032 
+• Although EQC is no longer an acceptable QC option after January 2016, it is 
+expected that laboratories that formerly used EQC will implement IQCP for those 
+same tests, and possibly for additional test methods. 
+DEFINITION 
+IQCP is comprised of three parts, a Risk Assessment, a Quality Control Plan, and a 
+Quality Assessment.  
+• The Risk Assessment is the identification and evaluation of potential failures and 
+errors in a testing process.  
+• The Quality Control Plan is a laboratory’s standard operating procedure that 
+describes the practices, resources, and procedures to control the quality of a 
+particular test process.   
+• The Quality Assessment is the laboratory’s policy for the ongoing monitoring of 
+the effectiveness of the IQCP. 
+IQCP also broadens the definition of Quality Control from just running controls to 
+encompass all activities laboratories do to control errors throughout the testing process. 
+POLICY 
+In response to the Centers for Medicare & Medicaid Services (CMS) approved Quality 
+Control option, Individualized Quality Control Plan (IQCP) will be used in the laboratory 
+to develop and customize Quality Control procedures specific to OLOLRMC 
+Laboratories.   
+The task of developing the IQCP may be performed by the Laboratory Director or 
+delegated to other qualified personnel. If delegated, the Laboratory Director remains 
+ultimately responsible for the proper development and implementation of each IQCP. The 
+Laboratory Director must approve and sign each IQCP before it is implemented.  
+APPLICABLE TEST SYSTEMS 
+Like the other CLIA QC requirements, IQCP is intended for non-waived testing; 
+however, you may choose to perform a Risk Assessment and develop an individualized 
+plan for ANY test, including waived testing. 
+All specialties (except Pathology, and its associated subspecialties of Histopathology, 
+Oral Pathology, and Cytology) are eligible for IQCP.  IQCP may be used for all, some, or 
+none of the tests performed in your laboratory.  
+• For non-waived tests, laboratories can continue to run the CLIA “default” QC – 
+two levels of external control each day of patient testing – instead of 
+implementing Individualized QC Plans. 
+• The manufacturer’s QC recommendation will remain the minimum acceptable 
+QC protocol, but it may be necessary to develop an IQCP if you choose to follow 
+this protocol. If the manufacturer’s QC recommendations for the test are less than 
+the default CLIA requirement of two levels per day (for instance, the 
+manufacturer’s instructions say to run controls with each lot number change), 
+your laboratory may: OLOLRMC AND AFFILIATE LABS 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 3 of 5 
+LBA032 
+o Perform the default requirement of two levels per day AND run controls 
+with each lot number change (to satisfy the manufacturer’s requirement); 
+OR 
+o Develop an IQCP for the test to confirm that all relevant errors will be 
+detected if the manufacturer’s protocol is followed.  
+ Note: The manufacturer’s less stringent QC requirements may not be an 
+option without first performing a Risk Assessment to determine if this QC 
+protocol will be effective for your laboratory. 
+• An IQCP is not necessary if the manufacturer’s stated number, type, and 
+frequency of control procedures meet or exceed the CLIA default requirement of 
+two levels of external controls each day.  
+• If the manufacturer’s instructions specify more than two levels per day, you may 
+NOT use an IQCP to reduce the number of daily controls to less than the 
+manufacturer’s recommendation. The manufacturer’s QC recommendations 
+remain the minimum acceptable QC requirement.  
+• For test systems without internal monitoring systems, the frequency of external 
+controls may not be reduced, and traditional external quality control is required 
+each day of patient testing. 
+PROCEDURE 
+OLOLRMC Lab Administration has purchased the CRI® IQCP Program to assist in 
+customizing the QC Plans for the appropriate tests in each Lab/Department.   
+The QC plans will optimize the current QC/QA processing in each department and make 
+certain all federal, state and accrediting agency regulations are adhered to.  This program 
+helps to perform a meaningful Risk Assessment unique to our laboratory by utilizing 
+such tools as: Process Mapping, Fishbone Diagram, risk identification table and risk 
+manageability matrix.   
+I. List of Individualized Quality Control Plans – IQCP plans will be listed and 
+maintained on a summary form for each OLOLRMC lab.  CAP accredited labs will 
+use the CAP-specific “List of Individualized Quality Control Plan” form.  
+II. Risk Assessment 
+A. Before beginning, gather the following information and documents for the test 
+being reviewed.   
+1. Current manufacturer’s package insert 
+2. Owner’s manual for the test 
+3. Graded results from the last three PT events* for this test. 
+4. Incident reports related to this test. 
+5. QA activities (and their conclusions) related to this test. 
+6. Customer or physician complaints related to this test. 
+7. Minimally, the last three months* of storage temperature records, for 
+the storage location (refrigerator, freezer, or room temperature) of the 
+reagents and supplies for this test. OLOLRMC AND AFFILIATE LABS 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 4 of 5 
+LBA032 
+8. Minimally, the last three months* of QC records for this test. 
+9. Data from any EQC qualifying study previously done for this test. 
+10. Written competency assessment procedures, for testing personnel as 
+well as specimen collection personnel, for this test. 
+*New Tests/Methods being implemented may not have historical data  
+B. Perform consecutive days of external QC to support the intended reduction.  
+QC performance must incorporate Operator Variance.  
+1. Perform 31 days if intention is to run external QC once per month. 
+2. If an EQC plan was previously in place, and a 21-day QC study was 
+performed, external QC must be performed at least every 21 days 
+until further studies are performed.  
+3. Perform IQCP Risk Assessment based on the performance of this 
+external QC data. 
+C. Using the package insert, owner’s manual, and any other relevant documents, 
+such as the lab’s relevant QA conclusions or PT investigations, answer all 
+applicable questions.  This will identify the potential sources of error that may 
+occur during the three phases of testing, pre-analytic, analytic and post 
+analytic as they relate to the specimen.   
+D. The Risk Assessment used by OLOLRMC labs includes all elements of the 
+Quality Control Plan such as: 
+1. The number, type (external and internal quality control systems), and 
+frequency of quality control  
+2. The criteria for acceptable performance  
+3. The process for monitoring of the testing environment and reagents  
+4. Specimen quality 
+5. Instrument calibration, maintenance, and function checks 
+6. Training and competency of testing personnel 
+7. Provisions for multiple identical devices and variation for uses 
+covered under one IQCP (if applicable) 
+E. Review this assessment and determine if the level of risk identified is 
+acceptable for your laboratory.  If acceptable proceed to section III. 
+III. Quality Control Plan (Form LBA032-A) 
+A. The Quality Control Plan summarizes all the information captured by the Risk 
+Assessment by listing: 
+1. Manufacturer’s QC recommendation 
+2. Lab/Department’s QC Plan: 
+a. Internal QC 
+b. External QC 
+c. Acceptability Criteria OLOLRMC AND AFFILIATE LABS 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 5 of 5 
+LBA032 
+d. Plan for Multiple identical devices (if applicable) 
+3. Risk Assessment Score 
+B. Submit completed Quality Control Plan (Form LBA032-A) along with all 
+documentation to Laboratory Medical Director for review and approval. 
+C. File approved QC plans in lab’s IQCP binder. 
+IV. Quality Assessment (Form LBA032-B) 
+A. Once an IQCP is developed and implemented, it must continue to be 
+monitored and revised as changes occur in the laboratory. 
+B. IQCP plans must be re-evaluated and reviewed for continued effectiveness at 
+least biennially or sooner if modifications to the IQCP are needed. 
+C. Using the Ongoing Quality Assessment Form (LBA032-B), review the 
+performance of the IQCP plan and respond to one of the three following 
+statements: 
+1. The IQCP for this test continues to be sufficient to mitigate risk in my 
+laboratory 
+2. The IQCP for this test will be modified, as described below, based 
+upon test performance since the IQCP was first developed 
+3. The Lab Director recommends the following modification to the 
+IQCP, even though there have been no performance failures 
+D. Submit to Compliance Officer for initial review of information. 
+E. Submit to Laboratory Medical Director for Review and Approval. 
+F. File re-approved QC plans in lab’s IQCP binder. 
+REFERENCES 
+CRI® IQCP Program- E-Optimizer and Implementation Guide 
+CLIA Brochures 
+CAP Standards – COM.50200, COM.50300, COM.50400, COM.50500, COM.50600 
+REVISIONS 
+4/1/15 (created), 1/10/18, 2/23/2021 
+ 
+ 

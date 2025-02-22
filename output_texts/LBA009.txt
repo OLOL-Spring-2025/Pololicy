@@ -1,0 +1,263 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 6 
+LBA009 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA009 
+PROFICIENCY TESTING   
+        Date Issue  Date Effective Date 
+ Prepared/Revised By D Leger 10/25/17 12/12/2017 12/12/2017 
+Blood Donor Service Director Review D Gremillion 12/11/2017 Origination Date 
+Core Lab Director Review J Teague 12/11/2017 3/15/15 
+Outreach Director Review E Landry 12/11/2017  
+Medical Director Review A Harton 12/12/2017  
+ 
+ 
+POLICY 
+The Laboratory is dedicated to providing quality patient care through active participation in 
+accreditation activities, CMS approved proficiency testing, quality control, performance 
+improvement, alternative proficiency testing and ongoing monitoring of the overall quality 
+management plan.   
+ 
+ 
+ 
+PROFICIENCY TESTING 
+ 
+Ordering  
+• Proficiency testing is ordered to meet the scope of testing performed in the Laboratory. 
+ 
+• Each laboratory subscribes to surveys from CMS approved proficiency testing providers.   
+  
+• Annual orders:  
+CAP- In the last quarter of each year, the Compliance Officer and the department 
+supervisors/managers review the CAP Surveys book and place the order for the following 
+year’s surveys.   
+ 
+COLA- In the last quarter of each year, the supervisor/manager reviews the testing 
+performed in the lab and places the order to the appropriate CMS approved PT provider 
+for the following year’s surveys.     
+ 
+• New tests: 
+When adding a new test, the lab must be enrolled in a PT program for the new test (if PT 
+enrollment is required) before the laboratory begins reporting patient results for the 
+analyte. 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 6 
+LBA009 
+• For test procedures with no commercial proficiency testing available, the laboratory 
+performs an alternative assessment at a minimum of twice a year.    
+ 
+Handling and Performance 
+• Upon receipt of proficiency test material/kits, the kits are inspected for any damaged, 
+broken, or missing material.  The kits are immediately stored according to storage 
+instructions until use of the kit.   
+• In order to ensure that the designated employee is aware of PT assignment, due date, and 
+rules that surround Proficiency Testing, Lab Testing Personnel will sign Employee 
+Proficiency Testing Acknowledgement Form (LBA009-A) and return to supervisor upon 
+receiving the proficiency test materials/kit.  Signed form will be kept by Supervisory 
+Staff and will be attached to the survey once complete.  This requirement is not 
+applicable to Non-Laboratory Personnel performing Point of Care PT. 
+ 
+• Analysis of the proficiency test specimens/material must be performed by personnel who 
+routinely perform the testing in the laboratory and in the same manner as regular patient 
+specimens. The laboratory integrates all proficiency testing samples within the routine 
+laboratory workload, and those samples are analyzed by personnel who routinely test 
+patient/client samples, using the same primary method systems as for patient/client/donor 
+samples. 
+ 
+o NOTE: Duplicate analysis of any proficiency sample is acceptable only if 
+patient/client specimens are routinely analyzed in the same manner. With respect to 
+morphologic examinations (identification of cell types and microorganisms; review of 
+electrophoretic patterns, etc.), group review and consensus identifications are 
+permitted only for unknown samples that would ordinarily be reviewed by more than 
+one person in an actual patient sample.  If the laboratory uses multiple methods for 
+an analyte, proficiency samples should be analyzed by the primary method.  
+ 
+• The educational purposes of proficiency testing are best served by a rotation that allows 
+all testing personnel to be involved in the proficiency testing program.  
+ 
+• Proficiency testing records must be retained and can be an important part of the 
+competency and continuing education documentation in the personnel files of the 
+individuals.  
+ 
+• When commercial proficiency testing materials are not available, the semi-annual 
+alternative performance assessment process should also be integrated within the routine 
+workload.  
+ 
+• Testing personnel must follow all instructions carefully, and the results must be reported 
+within the allocated time period specified by the proficiency testing provider.   
+ 
+• Inter-laboratory communication regarding proficiency testing samples before the deadline 
+of submission to the provider is strictly prohibited.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 3 of 6 
+LBA009 
+o NOTE: PT specimens tested on interfaced instruments are run using aliased 
+downtime labels.  Specimen ID named by the PT provider will not be entered into 
+the computer system in order to ensure that results are not available between 
+testing labs using the shared LIS. 
+ 
+• The laboratory also prohibits referral of proficiency testing specimens to an outside 
+laboratory as well as receiving proficiency testing specimens from another laboratory.   
+o NOTE: This prohibition takes precedence over the requirement that proficiency 
+testing specimens be handled in the same manner as patient specimens. For example, 
+a laboratory's routine procedure for review of abnormal blood smears might be 
+referral of the smear to a pathologist located at another site. For proficiency testing 
+specimens, the referring laboratory must NOT follow its routine procedure in this 
+situation. Rather, the laboratory must submit a PT result of "test not performed 
+“since the review does not occur within the referring laboratory.  For laboratories 
+subject to US regulations, this applies even if the second laboratory is in the same 
+health care system. It is the responsibility of the laboratory director to ensure that 
+this prohibition is enforced. 
+ 
+Completing and Submitting the Results 
+• Method codes, instrument codes and/or reporting units are reviewed on the survey results 
+form prior to submission.  Corrections are made to the form when changes occur.  
+• Raw result data is to be printed or documented on manual downtime forms and attached 
+to the survey.   
+• The performing Technical Personnel must sign the attestation form. 
+• Attestation statement is signed by Laboratory Medical Director or designee (Department 
+Supervisor). 
+• Prior to submitting data to the PT provider, Lab Medical Director or designee 
+(Department Supervisor) will ensure that the above criteria has been met. 
+• The departmental supervisor or designee will submit all data to the PT provider.  
+o If submitted on-line, data is entered, saved, then reviewed and approved.  The 
+result pages are printed.   
+o If faxed, a fax confirmation receipt is saved.  Faxing is not recommended.  
+Designee should attempt to send data online until the due date.  If the website is 
+unavailable on the due date, then faxing is advised. 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 4 of 6 
+LBA009 
+ 
+PT Result Review 
+• PT results may be printed from the PT provider’s website or for CAP surveys paper 
+copies will also be received by mail.  Results are initially reviewed by the Laboratory 
+Compliance Officer.  
+• The survey results are then forwarded to the department supervisor for review and 
+investigation, if indicated.  
+• Unacceptable results, unacceptable coded results (ie. educational challenges, etc.), and 
+results showing bias and trending results are marked/circled.  Any missing acceptable 
+limits may be written on the form. 
+• For every unsatisfactory or unsuccessful result, there is detailed and documented analysis 
+and evaluation.  Findings are documented on the PT Exception Report form and 
+submitted for review and approval by the department’s medical director. 
+o CAP PT Survey Exception Report Forms: 
+▪ CAP PT Survey Exception Report – OLOL (LBA009-B)  
+▪ CAP PT Survey Exception Report – Livingston (LBA009-C)  
+▪ CAP PT Survey Exception Report – NBR Lab (LBA009-D) 
+▪  CAP PT Survey Exception Report – Assumption Lab (ACH-Accreditation-A)  
+• All Proficiency testing challenges that were intended to be graded but were not MUST be 
+evaluated by the laboratory supervisor/designee.  Results should be compared to reported 
+results in the Participant Summary and documentation of this comparison must be 
+included with the survey results.  For those labs that are CAP accredited, refer to the CAP 
+Laboratory Accreditation Manual, for guidance on the approach to these situations.   
+ 
+▪ If results are acceptable, no investigation is required.  Acceptable limits may 
+be handwritten by the test results using the Participant Summary.   
+▪ If coded results are unacceptable, investigate and complete PT Exception 
+Report (LBA009-B).   
+• The laboratory recognizes and corrects problems identified through proficiency testing 
+and alternative performance assessment. Each department is responsible for the 
+investigation of results that, although acceptable, show bias or trends suggesting a 
+problem. Documentation of corrective action is filed in the individual sections of the lab.   
+o Bias or trending of results.  Even if numeric results are acceptable, the lab will 
+monitor for bias and trending that may suggest a problem.   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 5 of 6 
+LBA009 
+ 
+▪ Bias:  If numeric results for a test are acceptable, but are all graphed on 
+one side of the mean AND at least one SDI is >2.0, bias is present:   
+ If bias is present on this kit AND the previous PT kit, an investigation 
+is performed and documented.   
+ Bias is present on this kit BUT not present on the previous PT kit, an 
+investigation is NOT required.   
+▪ Trending: If numeric results are acceptable, but graphed with 3 of 5 on 
+one side of the graph and one or more results exceed 2SDI for this and the 
+prior test kit results, trending is present: 
+ If trending is present on this kit AND the previous PT kit, an 
+investigation is performed and documented.   
+ If trending is present on this kit BUT not present on the previous PT 
+kit, an investigation is NOT required.   
+• All PT reports are reviewed with the performing personnel to provide performance 
+feedback. 
+ 
+• All reports and exception documents will be submitted to the departmental medical 
+director for review and approval and shall filed in the department along with the survey 
+results.    
+• Results of these surveys are retained for at least two (2) years. 
+ 
+• In the event that the laboratory is notified by CAP to cease patient testing due to repeat 
+unsuccessful proficiency testing: 
+o The laboratory will immediately cease patient testing for the analyte or 
+subspecialty as indicated by CAP. 
+o Patient Testing for the affected analyte(s) will be referred to one of OLOL lab’s 
+approved referral testing labs. 
+▪ Records will be kept for each test forwarded for testing during the affected 
+period. 
+o The laboratory will meet all conditions as outlined in the CAP cease patient 
+testing notification. 
+o No patient results will be released until the laboratory receives approval from 
+CAP to resume patient testing. 
+ 
+Alternative Assessment (PT not available) 
+• Testing is accomplished in one of three ways: 
+ 
+1.  Split Sample Testing with reference lab or other accredited laboratory: 
+▪ Preferred method for quantitative results. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 6 of 6 
+LBA009 
+▪ A single biological sample (e.g. tube of blood) is divided into aliquots.  
+Testing is performed by this laboratory and a reciprocating laboratory on the 
+sample aliquots. 
+▪ Lab determines number of samples to compare. For many analytes, two 
+samples is adequate. 
+▪ Test results are recorded and compared  
+▪ This evaluates interlaboratory agreement and testing errors, but not trueness 
+(bias) unless the outside lab uses a method that is calibrated to a reference 
+method or reference material. 
+ 
+2.  Internal Split-Sample Testing: 
+▪ Preferred method for operator-dependent testing such as morphological 
+analysis. 
+▪ In-house testing by two technologists 
+▪ Two technologists test the same sample or aliquots of that sample. 
+▪ Test results are compared and recorded  
+• Interpreting results: 
+o For quantitative testing, results should fall within test limits indicated in the 
+Participant Summary.   
+▪ The CMS limits are also found at the Westgard.com website. 
+▪ CMS limits for several tests are not available; the same website has the 
+Australian limits that may be used for these tests.  
+ 
+o For qualitative testing or operator-dependent testing (e.g. morphological analysis), 
+if results do not agree, rerun test using a different operator and/or increase number 
+of samples.  Ex. 5 of 6 must match for agreement within 20%.  If competency of 
+personnel is questionable, retrain.  
+ 
+o If the test still does not meet the previously stated criteria, testing will be halted.  
+Information will be forwarded to the Compliance Officer who will research and 
+refer the matter to the appropriate Laboratory Medical Director for further action. 
+ 
+ 
+REVISIONS 
+3/15/15 (created), 7/6/16, 6/23/17, 10/25/17 
+ 
+ 
+ 
+ 
+ 

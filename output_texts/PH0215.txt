@@ -1,0 +1,228 @@
+ Policy Reference Number 
+Page 1 of 5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Patient Care 
+Services 
+Title: Pharmacist-Managed Warfarin Dosing Policy Reference #: PH-02-15 
+Supersedes #:  
+Date of Origination: 12/2011 Last Date Reviewed: 069/02/20241 
+Last Date Revised: 11/13/2020 
+ 
+PURPOSE: To provide guidelines to members of the pharmacy team for independently dosing warfarin 
+when consulted to do so by physicians at Our Lady of the Lake main campus. 
+ 
+For the purposes of this policy – Our Lady of the Lake Acension Pharmacists are not consulted for 
+Warfarin dosing.  Acension Pharmacists may order daily INR levels upon initiation of Warfarin therapy.   
+ 
+ 
+POLICY: 
+ 
+I. Pharmacists will monitor all patients receiving warfarin daily. 
+II. Pharmacists will automatically adjust warfarin doses and order follow-up testing per protocol 
+once a physician has consulted pharmacy to manage therapy. 
+III. Pharmacists will follow patients initiated on the argatroban order set that have a consult for 
+warfarin dosing. Once the physician specifies, pharmacists will initiate and adjust warfarin.  
+IV.  A member of the pharmacy team will assume the responsibility for assuring the patient’s 
+warfarin is dosed on a daily basis. 
+V. Pharmacists will order baseline and follow-up INR levels as follows: 
+a. Daily INR levels will be ordered until two consecutive therapeutic levels are achieved.  
+Once two consecutive therapeutic levels are attained, INR levels will be ordered twice a 
+week. 
+b. For the treatment of HIT, INR will be ordered per the ‘Algorithm for the Transition of 
+Argatroban to Warfarin’. Once argatroban is stopped, INR will be ordered daily until two 
+consecutive therapeutic levels are attained. Thereafter, INR levels will be ordered twice a 
+week.  
+VI. Pharmacists will utilize the Pharmacy and Therapeutics Committee-approved warfarin dosing 
+guidelines for this service.   
+VII. Pharmacists will notify the consulting physician when: 
+a. INR levels are > 4 (Exception: when patient is concomitantly on argatroban and warfarin)  
+b. Any time clinically significant signs of thrombosis or bleeding are reported 
+c. Any time they need further clarification of the clinical status of the patient 
+VIII. Pharmacists will communicate their assessment and plan to providers via a progress note written 
+within 24 hours of the consult and within 24 hours of any dose change, change in clinical 
+condition, or addition of an interacting medication. 
+IX. Medical record documentation will include an initial consult note and progress notes.  
+Pharmacists should communicate any major issues to the consulting physician verbally before 
+leaving a note.  Policy Reference Number 
+Page 2 of 5 
+X. If a physician writes an order for warfarin on a pharmacist-managed patient without writing an 
+order to resume dosing responsibility, the pharmacist will contact the physician to clarify who is 
+managing the therapy. 
+XI. Physicians will maintain all ability to order warfarin if desired.  However, they should write an 
+order such as “Physician to manage/dose warfarin therapy” to indicate to the pharmacist that they 
+are assuming dosing responsibility if previously delegated to a pharmacist 
+XII. All patients receiving warfarin therapy will be counseled prior to discharge.  The anticoagulation 
+education will address the following: 
+a. Compliance with medication administration and INR monitoring 
+b. Drug and nutrient interactions 
+c. Potential adverse reactions 
+XIII. Verbal and written information will be disseminated to the patient.  
+XIV. Pharmacists will review INR levels of all patients receiving warfarin therapy, including those 
+whom pharmacy is not consulted, with the ability to order INR levels when indicated.  The 
+prescribing physician will be contacted when: 
+a. INR is above 4 (Exception: when patient is concomitantly on argatroban and warfarin) 
+b. Anytime clinically significant signs of thrombosis or bleeding are reported 
+c. Dose adjustment is recommended 
+ 
+PROCEDURES/PROTOCOLS: 
+ 
+INR Targets by indication1 
+Indication INR 
+Target 
+Recommended 
+Duration 
+Prophylaxis of venous thromboembolism (VTE) in patients undergoing elective hip or 
+knee arthroplasty or hip fracture surgery 
+2-3 10-35 days 
+Treatment of first VTE with transient risk factors 2-3 3 months 
+Unprovoked first VTE 2-3 3 months 
+(minimum) 
+Recurrent VTE 2-3 Indefinite 
+Prevention of cardioembolic stroke from atrial fibrillation/atrial flutter 2-3 Indefinite 
+Acute myocardial infarction to prevent systemic embolism 2-3 Indefinite 
+Mechanical aortic valve replacement with additional risk factors for VTE, Afib, LV 
+dysfunction  
+2.5-3.5 Indefinite 
+Cardioembolic stroke or TIA 2-3 chronic 
+Bioprosthetic heart valve with atrial fibrillation 2-3 Indefinite 
+Aortic bileaflet mechanical valve with normal sinus rhythm and normal-sized left 
+atrium 
+2-3 Indefinite 
+Mechanical mitral valve replacement 2.5-3.5 Indefinite 
+Bioprosthetic heart valves after insertion 2-3 3 months 
+On-X Valve, 3 months after insertion 1.5-2 Indefinite 
+Antiphospholipid syndrome with no additional risk factors, and response to therapy  2-3 Indefinite 
+Antiphospholipid syndrome with recurrent thromboembolic disease while INR was 2-3 
+or other additional risk factors for thromboembolic disease 
+     3-4 Indefinite 
+Treatment of heparin-induced thrombocytopenia (HIT) with thrombosis 2-3 3 months 
+Treatment of heparin-induced thrombocytopenia (HIT) without thrombosis 2-3 4 weeks 
+1 Note: if indication is not stated in the medication orders in the patient’s medical record, the physician will be contacted to determine the 
+indication and confirm the therapeutic range 
+ 
+  Policy Reference Number 
+Page 3 of 5 
+Warfarin Dosing Algorithm1 (Target INR 2-3) 
+ 
+Day INR Warfarin 
+Dose (mg) 
+1  5 
+2  5 
+3 <1.5 5 – 7.5 
+ 1.5-1.9 5 
+ 2-3 2.5 - 5 
+ >3 (if goal is 2 -3) 0 
+ 3 – 3.4 (if goal is 2.5 -3.5) 2.5 - 5 
+ >3.5 (if goal is 2.5 -3.5) 0 
+4 <1.5 10 
+ 1.5-1.9 7.5 
+ 2-3 5 
+ >3(if goal is 2 -3) 0 
+ 3 – 3.4 (if goal is 2.5 -3.5) 2.5 – 5  
+ >3.5 (if goal is 2.5 -3.5) 0 
+5 <2 10 
+ 2-3 5 
+ >3(if goal is 2 -3) 0 
+ 3 – 3.4 (if goal is 2.5 -3.5) 2.5 -5 
+ >3.5 (if goal is 2.5 -3.5) 0 
+6 <1.5 12.5 
+ 1.5-1.9 10 
+ 2-3 7.5 
+ >3(if goal is 2 -3) 0 
+ 3 – 3.4 (if goal is 2.5 -3.5) 2.5-5 
+ >3.5 (if goal is 2.5 -3.5) 0 
+1 Note: patients who have been receiving warfarin during their hospitalization prior to pharmacy being consulted will be managed based 
+on the nomogram whenever possible.  However, clinical judgment will be used to determine the most effective regimen for these patients. 
+ 
+Refer to the anticoagulation stewardship education document on t-drive for more details. 
+ 
+Algorithm for the Transition of Argatroban to Warfarin  Policy Reference Number 
+Page 4 of 5 
+ 
+Co-administration of argatroban and warfarin produces a combined effect on the INR 
+*Minimum of 5 days overlap with argatroban and warfarin 
+ 
+ 
+REFERENCES: 
+ 
+Crowther MA, Ginsberg JB, Kearon C, et al.  A randomized trial comparing 5mg and 10mg warfarin loading 
+doses.  Arch Intern Med 1999; 159(1): 46-8. 
+ 
+Ansell J, Hirsch J, Hylek E, et al.  Pharmacology and Management of the Vitamin K Antagonists:  American 
+College of Chest Physicians Evidence-Based Clinical Practice Guidelines (8th ed)  Chest 2008; 133: 6 suppl 160S-
+198S 
+ 
+Eikelboom JW, Hirsh J, Spencer FA, et al.  Oral Anticoagulant Therapy:  Antithrombotic Therapy and Prevention 
+of Thrombosis, 9th ed:  American College of Chest Physicians Evidence-Based Clinical Practice Guidelines.  
+Chest 2012; 141(2_ suppl): e44S-e88S. 
+ 
+Kearon C, Kahn SR, Akl A, Comerota AJ, et al.  Antithrombotic Therapy for VTE Disease:  Antithrombotic 
+therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical 
+Practice Guidelines. Chest 2012; 141(2_ suppl): e419S-e494S. 
+ 
+When provider specified, 
+initiate warfarin at usual 
+daily dose (max: 5 mg) 
+after platelet count has 
+recovered (> 100)
+If argatroban rate < 2 
+mcg/kg/min, stop infusion, 
+obtain INR 4-6 hours after 
+INR > 4, stop argatroban*
+INR 2-3 (therapeutic), 
+continue with warfarin 
+monotherapy
+INR < 2 (sub-therapeutic) 
+resume argatroban at 
+previous rate & repeat 
+procedure the following 
+day
+If argatroban rate > 2 
+mcg/kg/min, reduce to 2 
+mcg/kg/min, obtain INR 4-
+6 hours after
+INR > 4, stop argatroban*
+Obtain INR 4-6 hours after 
+stopping argatroban 
+infusion
+If INR < 4, argatroban 
+infusion can be restarted
+INR 2-3 (therapeutic), 
+continue with warfarin 
+monotherapy
+INR < 2 (sub-therapeutic) 
+resume argatroban at 
+previous rate & repeat 
+procedure the following 
+day Policy Reference Number 
+Page 5 of 5 
+You JJ, Singer DE, Howard PA, et al.  Antithrombotic Therapy for Atrial Fibrillation:  Antithrombotic Therapy 
+and Prevention of Thrombosis, 9th ed. American College of Chest Physicians Evidence-Based Clinical Practice 
+Guidelines. Chest 2012; 141(2_ suppl): e531S-e575S. 
+ 
+Whitlock RP, Sun JC, Fremes SE, et al.  Antithrombotic and Thrombolytic Therapy for Valvular Disease:  
+Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-
+Based Clinical Practice Guidelines. Chest 2012; 141(2_ suppl): e576S-e600S. 
+ 
+Lansverg MG, O’Donnell MJ, Khatri P, et al.  Antithrombotic and Thrombolytic Therapy for Ischemic Stroke:  
+Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-
+Based Clinical Practice Guidelines. Chest 2012; 141(2_ suppl): e601S-e636S. 
+ 
+Bates SM, Greer IA, Middeldorp S, et al.  VTE, Thrombophilia, Antithrombotic Therapy, and Pregnancy:  
+Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-
+Based Clinical Practice Guidelines.  Chest 2012; 141(2_ suppl): e601S-e636S. 
+ 
+Linkins LA, Dans AL, Moores LK, et al. Treatment and prevention of heparin-induced thrombocytopenia: 
+Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-
+Based Clinical Practice Guidelines. Chest. 2012;141(2 Suppl):e495S-530S. 
+ 
+Rose, Anne PharmD. UWHC Guidelines for Inpatient Warfarin Management in Adults. 
+AnticoagulationManagement Stewardship Program. Available at 
+http://www.uwhealth.org/files/uwhealth/docs/pdf3/Inpatient_Warfarin_Guideline.pdf (cited January 27, 2012) 
+ 
+Nishimura RA, Otto CM, Bonow RO, et al. 2014 AHA/ACC Guideline for the Management of Patients With 
+Valvular Heart Disease. JACC. 2014;63(22):e57-185. 
+ 
+Nishimura RA, Otto CM, Bonow RO, et al. 2017 AHA/ACC Focused Update of the 2014 AHA/ACC Guideline 
+for the Management of Patients With Valvular Heart Disease. Circulation. 2017;135:e1159-e1195. 
+ 

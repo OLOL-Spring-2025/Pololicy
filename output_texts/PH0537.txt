@@ -1,0 +1,423 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Cleaning and Disinfecting Compounding 
+Areas 
+Policy Reference #: PH0537 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for cleaning and disinfecting compounding areas where 
+Compounded Preparations (CSP) are prepared within FMOLHS Baton Rouge Market Pharmacies.  
+1.2. Surfaces in classified areas and segregated compounding areas are potential sources of microbial 
+contamination. In order to reduce the risk of contact contamination, surfaces within classified 
+areas used to prepare Category 1 and Category 2 CSPs are cleane d, disinfected, and have 
+sporicidal disinfectants applied according to the processes and frequencies described in this 
+procedure. 
+• Cleaning involves removing organic and inorganic materials (e.g., dirt, debris, microbes, and 
+residual drugs or chemicals) form surfaces with the use of a cleaning agent and manual or 
+mechanical action. 
+• Disinfecting involves using a chemical or physical agent on surfaces to destroy 
+microorganisms including fungi, viruses, and bacteria. 
+• Sporicidal disinfectants  are a chemical or physical agents that destroys all vegetative 
+microorganisms including bacterial and fungal spores while applied at a sufficient 
+concentration and for a specified “wet” contact time. 
+1.3. Sterile 70% isopropyl alcohol (sIPA) is a staple in day-to-day compounding activities and plays a 
+critical role in sanitizing and reducing the bioburden on gloved hands, surfaces, and materials 
+through both chemical application and physical wiping. sIPA, however, is not a cleaning or 
+disinfecting agent. While it does have some disinfectant properties, it does not possess the 
+broad-spectrum coverage of cleaning, disinfecting, or sporicidal agents and requires a lengthy 
+(and impractical) contact time to truly convey bactericidal or fungicidal activity.  
+2. Policy 
+2.1. Cleaning and disinfecting of all surfaces inside compounding areas, including sinks, as well as the 
+application of a sporicidal disinfectant occur on a regular basis and at a minimum frequency as 
+specified in USP <797> Pharmacecutical Compounding – Sterile Preparations 2022 and according 
+to this policy (see Section 4.1). 2.2. Surfaces in compounding areas are cleaned prior to being disinfected with an EPA-registered (or 
+equivalent outside of the US) agent.  An EPA -registered (or equivalent) one -step disinfectant 
+cleaner is an appropriate alternative that allows for both processes to occur in one step. 
+2.3. Sporicidal disinfecting agents are EPA-registered (or equivalent outside of the US) and allow for 
+cleaning, disinfecting, and sporicidal activity concurrently in a single step.  
+2.4. Manufacturer’s directions or published data for the minimum wet contact time is followed for 
+each of the cleaning, disinfecting, and sporicidal agents used to ensure the agents have full 
+microbial destroying action. 
+2.5. If compounding (and cleaning) is not performed each day, cleaning and disinfecting is completed 
+before reinitiating compounding. 
+2.6. Cleaning and sanitizing is repeated when spills occur and when surfaces are visibly soiled. 
+2.7. All personnel involved in cleaning and disinfecting of classified compounding and segregated 
+compounding areas receive training and demonstrate competency in Hand Hygiene and Garbing 
+initially and at least annually. Refresher training is provided as needed and when changes in 
+procedures or agents occur. 
+• Primary engineering controls (PECs) are cleaned by trained and qualified compounding 
+personnel only. 
+• Secondary engineering controls (SECs) or classified compounding areas can be cleaned by 
+trained and qualified compounding personnel and/or internal or external contracted cleaning 
+service who comply with all aspects of this policy. 
+2.8. All cleaning and disinfecting activities are performed by appropriately garbed personnel using 
+facility-approved agents and procedures including frequency, method, and location of cleaning 
+activity.  
+2.9. Sterile cleaning agents are used to clean the interior of, and all equipment housed inside of 
+PECs.  
+2.10.  Cleaning agents and supplies used in PECs and SECs are assigned an expiration (or “in-use”) date 
+once opened or prepared; expiration dates are clearly and permanently written on the bottle, 
+container, or wrapping of the supply and do not exceed manufacture r expiration dates or 
+recommended “in-use” dates.  
+Cleaning Agent or Supply Location Used Expiration Date 
+(from initial puncture, use, or 
+preparation) 
+Ready-to-Use (RTU) STERILE Cleaning, 
+Disinfecting, and Sporicidal Agents 
+Inside PECs 15 Days 
+Diluted & Aseptically Prepared STERILE 
+Cleaning, Disinfecting, and Sporicidal Agents 
+Inside PECs 15 Days 
+RTU Nonsterile Cleaning, Disinfecting, and 
+Sporicidal Agents 
+All surfaces in SECs; 
+Exterior of PECs 
+15 Days 
+Diluted Nonsterile Cleaning, Disinfecting, and 
+Sporicidal Agents 
+All surfaces in SECs; 
+Exterior of PECs 
+15 Days 
+STERILE Premoistened or Low-Lint Dry Wipes Inside PECs 15 Days 
+Nonsterile Premoistened or Low-Lint Dry Wipes All surfaces in SECs; 
+Exterior of PECs 
+30 Days 2.11.  Safety Data Sheets (SDSs) are retained for all cleaning supplies , included in training of cleaning 
+personnel, and are readily retrievable by all compounding staff members. 
+3. Roles & Responsibilities 
+3.1. The Designated Person(s) (DP):   
+• Ensures cleaning staff receives appropriate training and maintains current cleaning and 
+related competencies.  
+• Oversees selection of appropriate EPA -registered cleaning, disinfecting, and sporic idal 
+agents and ensures staff understands and adheres to appropriate dwell times for each 
+agent. 
+• Ensures the organization or facility maintains a current SDS for each cleaning agent in a 
+readily retrievable format and location and ensures cleaning personnel understand how to 
+access and use the SDS in case of a spill or accident. 
+• Determines appropriate remedial cleaning requirements for ad hoc and out-of-specification 
+occurrences up to and including a triple clean of effected compounding areas including the 
+following circumstances: 
+• Actionable environmental findings from total particle counts, viable air sampling, or surface 
+sampling results and/or trends. 
+• Scheduled and unscheduled power and/or airflow disruptions directly impacting sterile 
+compounding area(s). 
+• Certification of sterile compounding area(s). 
+• New or major construction or maintenance work performed within or adjacent to the sterile 
+compounding area(s). 
+3.2. Compounding personnel:  
+• Undergo training and demonstrate competency initially and at least once annually in skills 
+and competencies related to cleaning and disinfecting. 
+• Adhere to all cleaning procedures including cleaning agent selection, frequency, method, 
+and sequence of cleaning activities (i.e., cleanest to dirtiest). 
+• Ensure appropriate use of sterile 70% IPA before, during, and after the compounding 
+process. 
+• Complete timely documentation of all cleaning activities performed. 
+4. Procedures 
+4.1. Frequency of Cleaning, Disinfection, and Application of Sporicidal Disinfectants – Adapted from 
+USP <797> 2022 Table 8.  
+ Cleaning and Disinfecting Applying Sporicidal Disinfectant 
+ Frequency Who Frequency Who 
+Inside PECs – 
+including all 
+surfaces, direct 
+compounding area 
+and work tray, and 
+Daily on days when 
+compounding 
+occurs and when 
+surface 
+contamination is 
+known or suspected 
+Compounding 
+Personnel 
+Daily on days when 
+compounding occurs  
+Compounding 
+Personnel  Cleaning and Disinfecting Applying Sporicidal Disinfectant 
+ Frequency Who Frequency Who 
+equipment used 
+inside the PEC 
+Surfaces Underneath 
+Removable PEC 
+Work Tray (if 
+applicable) 
+Monthly - surfaces 
+under the tray  
+Compounding 
+Personnel  
+Monthly Compounding 
+Personnel  
+Pass Through(s) –  
+all interior surfaces 
+and external handles 
+Daily on days when 
+compounding 
+occurs  
+Compounding 
+Personnel  
+Daily on days when 
+compounding occurs  
+Compounding 
+Personnel} 
+Work Surfaces 
+Outside of PEC 
+Daily on days when 
+compounding 
+occurs - all “high 
+touch” surfaces 
+daily 
+Compounding 
+Personnel  
+Monthly – all 
+surfaces including 
+high touch and 
+underneath of 
+tables, chairs, and 
+carts plus wheels. 
+ 
+Compounding 
+Personnel  
+Floors Daily on days when 
+compounding 
+occurs 
+Compounding 
+Personnel  
+Monthly 
+ 
+Compounding 
+Personnel  
+Sinks Daily on days when 
+compounding 
+occurs 
+Compounding 
+Personnel  
+Monthly 
+ 
+Compounding 
+Personnel  
+Walls, Door(s), and 
+Door Frame(s) 
+Monthly Compounding 
+Personnel  
+Monthly Compounding 
+Personnel  
+Ceilings of Sterile 
+Suite 
+Monthly Compounding 
+Personnel  
+Monthly Compounding 
+Personnel  
+Ceilings of 
+Segregated 
+Compounding Area 
+(SCA) 
+When visibly soiled 
+or if surface 
+contamination is 
+known or suspected 
+Compounding 
+Personnel  
+When visibly soiled 
+or if surface 
+contamination is 
+known or suspected 
+Compounding 
+Personnel  
+Storage Shelves and 
+Bins 
+Monthly Compounding 
+Personnel  
+Monthly Compounding 
+Personnel  
+Equipment Outside 
+of the PEC(s) 
+Monthly Compounding 
+Personnel  
+Monthly Compounding 
+Personnel  
+• Cleaning activities occur from cleanest to dirtiest areas. 
+• If cleaning and disinfecting are performed as separate steps, cleaning is performed prior to 
+disinfecting. 
+• After the application of a disinfectant, cleaning agent, or sporicidal disinfectant, the agent 
+is allowed to dwell, or maintain a wet contact time, for the minimum duration specified by 
+the manufacturer or published data to ensure full bactericidal, fungicidal, virucidal, and/or 
+sporicidal action.  • Daily cleaning and disinfecting occurs on days when compounding occurs. If compounding 
+does not occur for more than 24 hours (e.g., over a weekend or holiday): 
+o clean and disinfect the sink(s) before initiating hand hygiene and garbing  
+o complete daily cleaning and disinfecting prior to the start of compounding on the day 
+compounding resumes 
+• Monthly cleaning and application of sporicidal disinfectants occurs approximately every 30 
+days, whenever possible, to ensure a regular and consistent cleaning schedule and is 
+completed as one continuous process or, at a minimum, is completed with 72 hours to 
+minimize the risk of cross-contaminating already cleaned areas. 
+• Cleaning and disinfection of the inside of a PEC and any equipment housed and used inside 
+a PEC occurs prior to and at the conclusion of daily and/or shift compounding.   
+4.2. Cleaning, Disinfecting, and Applying Sporicidal Disinfectants in the PEC 
+• If needed, remove visible particles, debris, or residue with an appropriate solution (e.g., 
+Sterile Water for Injection or Sterile Water for Irrigation) using sterile, low-lint wipers. 
+• For cleaning and disinfecting: Use a sterile low-lint wiper and apply a sterile cleaning agent 
+followed by a sterile disinfecting agent or apply an EPA-registered (or equivalent) one-step 
+disinfectant cleaner to equipment and all interior surfaces of the PEC.  
+• For application of a sporicidal disinfectant : After cleaning and disinfecting, apply a sterile 
+sporicidal disinfectant using a sterile low-lint wiper to all equipment, interior surfaces, and 
+the area underneath the work tray; if the sporicidal disinfectant is an EPA -registered (or 
+equivalent) one-step disinfectant sporicidal cleaner, separate cleaning and disinfecting steps 
+are not required. 
+• Ensure the wet contact time specified by the manufacturer is achieved. 
+• After the application of cleaning, disinfecting, and/or sporicidal agent inside PEC, apply sIPA 
+to equipment and all interior surfaces to remove residue. 
+• Allow the surface to dry completely before beginning compounding. 
+4.3. Use of Sterile 70% IPA inside of a PEC 
+• Do not spray cleaning solutions, including sIPA, inside of a PEC to avoid deteriorating the 
+integrity of the HEPA filter. Wet a sterile low -lint wiper with the cleaning solution or sIPA 
+and apply directly with mechanical/manual action to the interior hood surfaces and 
+equipment. 
+• Apply sIPA to the horizontal work surface of each PEC and allow to dry before compounding:  
+o Immediately before initiating compounding or a new compounding process  
+o At least every 30 minutes if the compounding process takes 30 minutes or less  
+o After completing a compounding process if the process takes more than 30 minutes  
+4.4. Other Cleaning Considerations 
+• Clean high touch surfaces outside of PECs on a daily basis and all other surfaces plus the high 
+touch surfaces on a monthly frequency, including but not limited to: 
+High Touch Surfaces* Other Surfaces 
+o Horizontal work surfaces, tables, 
+counters, or carts 
+o Chair seats, arms, and backs 
+o Exterior of PECs 
+o Legs, underside of horizontal surfaces, 
+and feet/wheels of work surfaces, o Keyboards/keypads, mouse, RF 
+scanner, touch screen monitors or 
+tablets 
+o Telephones and other communication 
+devices 
+o Light switches, door handles or hands - 
+free activator 
+o Sink surfaces, drain, and faucet 
+o Gowning bench and garb storage 
+handles 
+o Pass through handles 
+o DoseEdge® Workstations 
+tables, counters, carts, chairs, or 
+benches 
+o Trash bins and hazardous waste 
+disposal containers 
+o Doorframes, window ledges, and other 
+irregular surfaces 
+ 
+*For Segregated Compounding Areas, this includes all high touch surfaces within the 
+perimeter line.  
+• Cleaning, disinfecting, and the application of a sporicidal agent does not take place while 
+active compounding is occurring.  
+• Perform cleaning from cleaner to dirtier areas (e.g. ISO 5, ISO 7, and then ISO 8 areas).  
+• For all sites, clean and disinfect as needed after spills and when surface contamination (e.g., 
+splashes) is known or suspected. 
+• Replace all garb that has become visibly soiled or when the integrity is compromised (e.g., 
+becomes moist or wet due to splashing of cleaning agents and/or perspiration) after cleaning 
+and prior to resuming compounding duties; at a minimum, repeat hand hygiene and replace 
+sterile gloves before returning to compounding. 
+• Use appropriate respiratory support (user-specific reusable half-mask respirators with 60923 
+Particulate (P100)/Organic Vapor/Acid Gas cartridge filters) and eye protection when applying 
+a sporicidal agent to surfaces within the compounding area, including the following cleaning 
+tasks:  
+o Inside PECs including under the work tray of a Biological Safety Cabinet (BSC) 
+o Walls, ceilings, floors, and pass throughs 
+o Surfaces outside of PECs 
+4.5. Refer to USP <800> and related policies for decontamination steps if hazardous drugs are used. 
+4.6. Remedial Cleaning for Out of Specification Conditions 
+• As directed by the Designated Person or designee, perform and document remedial cleaning 
+on an as needed basis.  Remedial cleaning ranges from cleaning and disinfection to 
+application of a sporicidal disinfectant to triple cleaning effected compounding areas. 
+o A triple clean consists of two separate and distinct applications of an approved one -
+step disinfectant cleaner (allowing for full wet contact time between applications) 
+followed by a separate application of an approved sporicidal disinfectant; remove 
+cleaning agent residue with sIPA. 
+• At a minimum, d ocument purpose, date, and cleaning agent(s) used when conducting 
+remedial cleaning. Ensure remedial cleaning documentation is retained and  readily 
+retrievable. 4.7. Selection and Use of Cleaning Agents 
+• Select and use cleaning and disinfecting agents with careful consideration of compatibilities, 
+effectiveness, and user safety including, but not limited to, antimicrobial activity, 
+inactivation by organic matter, residue, shelf life, preparation requiremen ts of the agent, 
+and suitability for surfaces being disinfected.  
+• Use of ready -to-use and one -step disinfectant cleaner solutions is preferred over those 
+requiring dilution or separate cleaning and disinfection steps. 
+• Clean and disinfect sterile c leaning agent containers prior to introduction into the ISO 5 
+environment. 
+• Sterile cleaning and disinfecting supplies (e.g., closed containers of sterile wipers, bottles of 
+70% sterile IPA) can be used for up to 15 days once opened.  Permanently and legibly write 
+or label the expiration date on all cleaning supplies. 
+• Store opened packages of sterile wipes inside of the PEC; if removed from a PEC once 
+opened, they are no longer considered sterile and can only be used in ISO Class 7 and 8 
+areas.  Disinfect sterile cleaning solution bottles stored outside of a PEC prior to introduction 
+and use inside of the PEC with sIPA.  
+4.8. Selection and Use of Cleaning Supplies and Tools 
+• Use sterile cleaning supplies and tools inside a PEC whenever possible; clean and disinfect 
+prior to use (e.g., tool handles and holders).   
+• Dedicate and do not remove reusable cleaning tools (e.g. mop frames and handles) to 
+specific classified areas or segregated compounding areas.  
+o Use either dedicated mop frames in buffer and ante rooms or use the mop in the buffer 
+room before use in the ante-area. 
+o Dedicated mops and cleaning tools are used in hazardous areas. 
+o Dispose of cleaning tools in a method that minimizes the chance of dispersing 
+contaminants in the air. 
+• Cleaning and disinfecting supplies such as wipers, sponges, pads, and mop heads are made 
+of low lint materials and, whenever possible are disposable.  
+o Disposable cleaning supplies are discarded after use.   
+o Reusable cleaning tools are made of cleanable materials that are nonporous (excluding 
+wood) are cleaned and disinfected before and after each use. 
+4.9. Documentation of Cleaning 
+• Document all cleaning, disinfecting, and application of sporicidal disinfectants in 
+SoleSource® Simplifi 797® after completion of the task by the personnel performing  the 
+work.  Detailed cleaning records are retained and readily accessible. 
+5. Definitions 
+5.1 Classified area: An area that maintains an air quality classification based on the ISO standards (see 
+also the definition for ISO class).  
+5.2 Cleaning agent: An agent for the removal of residues (e.g., dirt, debris, microbes, and residual 
+drugs or chemicals) from surfaces.   
+5.3 Compounding area: The area where compounding is occurring (i.e., a cleanroom suite or inside 
+the perimeter of the SCA). 5.4 Garb: Items such as gloves, garments (e.g., gowns), shoe covers, head and facial hair covers, 
+masks, and other items designed to reduce particle -shedding from personnel and minimize the 
+risk of contamination of CSP(s).  
+5.5 IPA: Isopropyl alcohol. 
+5.6 Low-lint wiper : A wiper exhibiting few, if any, fibers or other contamination, visible without 
+magnification, which is separate from, or easily removed from, the wiper material in a dry 
+condition. 
+5.7 One-step disinfectant cleaner: A product with an EPA-registered (or equivalent) claim that it can 
+clean and disinfect a nonporous surface in the presence of light to moderate organic soiling 
+without a separate cleaning step.  
+5.8 Pass-through: An enclosure with sealed doors on both sides that should be interlocked. The pass-
+through is positioned between two spaces for the purpose of minimizing particulate transfer while 
+moving materials from one space to another. 
+5.9 Primary engineering control (PEC):  A device or zone that provides an ISO Class 5 air quality 
+environment for sterile compounding. 
+5.10 Secondary engineering control (SEC): The area where the PEC is placed (e.g., a cleanroom suite 
+or an SCA). It incorporates specific design and operational parameters required to minimize the 
+risk of contamination within the compounding area. 
+5.11 Segregated compounding area (SCA):  A designated, unclassified space, area, or room with a 
+defined perimeter that contains a PEC and is suitable for preparation of Category 1 CSPs only. 
+5.12 Sporicidal disinfectant: A chemical or physical agent that destroys bacterial and fungal spores 
+when used in sufficient concentration for a specified contact time. It is expected to kill all 
+vegetative microorganisms 
+5.13 Triple clean : consists of two separate and distinct applications of an approved one -step 
+disinfectant cleaner (allowing for full wet contact time between applications) followed by a 
+separate application of an approved sporicidal disinfectant; remove cleaning agent residue with 
+sIPA. 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2024 
+7.1 Initial version published by Wolters Kluwer 2022.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 

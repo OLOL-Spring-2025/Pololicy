@@ -1,0 +1,94 @@
+POLICIES AND PROCEDURES MANUAL Manual:  Patient Care 
+Services/ 
+Nursing 
+Our Lady of the Lake Regional Medical Center Chapter:  Patient Care 
+Subject:  
+ 
+Clinical Alarm Management Section:   
+Date of Origination:  June 1, 2015 Supersedes:  
+Date Last Revised:             March 7, 2018 Serial Code:  NPC150 
+Date Last Reviewed:          August 12, 2024 
+ 
+PURPOSE:   
+To identify and provide guidelines for managing clinical alarm systems that may cause alarm fatigue 
+and impact patient safety. 
+ 
+Applies To: 
+All clinical team members on patient care areas. 
+ 
+POLICY: 
+Clinical alarms and medical equipment alarm systems utilized for patient care will be properly 
+operational and alarms will be activated when the appropriate settings are in use.   For monitoring 
+devices with alarm limit parameters, it is appropriate to set the clinical alarm limits based on an 
+individual patient’s baseline.  Alarm systems on clinical patient care equipment will never be turned 
+off while in use on a patient or during patient care.  Alarms may be suspended during clinical 
+beside reassessments and titrations when the clinical team is at the bedside. 
+ 
+Equipment with alarms covered under this policy includes (but not limited to): 
+ 
+Cardiac/telemetry monitors 
+Continuous pulse oximetry monitors/Capnography/Ventilators (Invasive and Non-Invasive) 
+Bed/chair alarms 
+Infusion Pumps 
+Apnea Monitors 
+ 
+PROCEDURE: 
+ 
+1. Patient care staff verify the equipment is functional prior to use.  If alarms are not audible the 
+equipment will be taken out of use and BioMed notified according to TriMedx Equipment 
+Repairs policy. 
+ 
+2. Alarm systems on clinical patient care equipment should not be turned off while in use on a 
+patient.  Staff may suspend alarms that can be suspended or turn off alarms that could cause a 
+false alarm when providing care at the bedside.   Prior to leaving the bedside alarms should be 
+returned to the original or active alarm state. 
+ 
+3. Clinical team members will be educated on safe alarm management and response in high-risk 
+areas, and on the safe use of alarmed medical devices on which they rely.  
+ 4. At no time should a team member enter the password protected levels of programming within 
+the medical device.  Alarm parameters are not to be altered without consent and direction of 
+the Clinical Engineering representative or management. 
+ 
+5. Medical Equipment Alarm Signals and Parameters  
+a. Default alarm settings for patient care areas are determined by the nursing, ancillary unit 
+leaders, and Physician partners. 
+b. Equipment, default signal settings, default alarm settings, risk index, and alarm notification 
+method(s) covered by this procedure is designated in the Alarm-equipped medical device 
+inventory. 
+ 
+6. Clinically appropriate alarm settings 
+a. Physicians, Licensed Independent Practitioners (LIP), Registered Nurses (RN), Respiratory 
+Therapists and/or monitor technicians are responsible for setting applicable alarm 
+parameters. 
+b. Bedside RNs are responsible for checking alarm parameters and signals for appropriate 
+settings during shift-to-shift hand-off. 
+c. A physician or LIP may write an order to change alarm parameters. 
+d. A physician or LIP may write an order to suspend or temporarily disable monitoring. 
+ 
+7. A Root Cause Analysis will be conducted by an interdisciplinary team (staff from the specific 
+patient care unit, Engineering/Biomedical staff, and Patient Safety representative) upon 
+identification of any environmental noise, staffing, or other issues that prevents staff from 
+hearing and responding to the alarm if the issue cannot be corrected timely.   
+ 
+REFERENCES: 
+ 
+AACN.org & http://www.aami.org/htsi/alarms/ 
+ 
+The Joint Commission (2023). National patient safety goals: Hospital. (Effective July 2023). 
+https://www.jointcommission.org 
+    
+ 
+Jacques, S. Williams, E. (2016). Reducing the safety hazards of monitor alert and alarm fatigue. 
+Agency for Healthcare Research and Quality-Patient Safety Network (PSNet). 
+https://psnet.ahrq.gov/perspective/reducing-safety-hazards-monitor-alert-and-alarm-fatigue.  
+ 
+SUPPORTING DOCUMENTS/ATTACHMENTS 
+ 
+Related policies: 
+Falls Prevention, Adult (NPC-067) 
+Monitoring Responsibilities for Patients Requiring Cardiac Monitoring (NNA-098) 
+Patient Controlled Analgesia (PCA) (NMA 016)         
+TriMedx Equipment Repairs policy  
+Mechanical Ventilation (RC8-01) 
+Non-Invasive Ventilation (RC8-03) 
+ 

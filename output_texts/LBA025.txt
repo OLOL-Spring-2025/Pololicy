@@ -1,0 +1,126 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 1 of 3 
+LBA025 
+LABORATORY ADMINISTRATION MANUAL 
+LBA025 
+ 
+MAINTENANCE AND FUNCTION CHECKS 
+ 
+ 
+PRINCIPLE 
+Due to extensive usage and age, instrumentation and other systems must be maintained to 
+continue their reliability and function.  Careful attention must be given to the 
+manufacturer guidelines for calibration and validation to ensure that all systems are 
+operating satisfactorily to be used clinically for reagents and patient samples.  Lack of, or 
+insufficient maintenance can jeopardize the functioning of the system, and potentially 
+risk patient care. 
+ 
+Function checks are designed to check the critical operating characteristics to detect 
+drifts, instability or malfunction prior to affecting patient testing results; therefore, 
+maintenance and function checks are performed for all instruments and equipment prior 
+to testing patient samples.  All maintenance and function checks are performed on a 
+regular schedule and documented on their respective log sheet which includes the specific 
+tolerance limits for each system.   
+ 
+Service history records of maintenance, recalibration, repair, and component replacement 
+must be kept near the system to be referenced by the operating Technical Personnel.  
+Service records should include dates, observations, problems discovered, and the 
+service/troubleshooting performed by the Service Representative. 
+ 
+Service on Lab Equipment is performed routinely as part of preventative maintenance 
+and as needed by the OLOL Biomedical Department.  The Biomedical Department is in 
+contract with and managed by Trimedx Healthcare Services. 
+  
+PROCEDURE 
+1. Temperature Checks:  All thermometers are certified and NBS (NIST) 
+Traceable. 
+A. Departmental staff observe and document the temperatures of all refrigerators, 
+freezers, and room temperatures on the respective log sheet in their department.   
+1. If the temperature of the refrigerator or freezer is out of the specified tolerance 
+limits: 
+a. recheck in two (2) hours for the correct temperature 
+b. if the temperature is still out of range, remove all contents from the 
+refrigerator/freezer and place in a stable environment 
+c. call Plant Management (enter work order) to investigate 
+d. upon completion of repair, recheck the temperature 
+e. the temperature must be stable for 24 hours prior to placing back in 
+service 
+2. Document all corrective action taken on the log sheet. OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 2 of 3 
+LBA025 
+B. On each day of use, the temperature of the dry bath (heat block) is observed and 
+documented on the respective log sheet 
+C. On a scheduled basis a defrost and clean on all freezers is performed and 
+documented on the respective log sheet  
+ 
+2. Centrifuges and Timers: 
+A. Daily, personnel perform interior and, if necessary, exterior cleaning of the 
+laboratory centrifuges and document on the respective log sheet. 
+B. Annually or as required by departmental standards (Blood Bank= quarterly), the 
+RPM and Timer Verification checks are performed by Trimedx at the appropriate 
+operating speeds/time and documented in the Trimedx operating system.  Copies 
+can be obtained from Biomedical Department upon request. 
+C. As required by standards, laboratory timers are verified using Coordinated 
+Universal Time and documented on the respective log sheet in the department 
+where located.   
+3. Microscopes: 
+A. Daily, personnel perform an external surface cleaning of all microscopes and 
+document on the respective log sheet. 
+B. As needed, the lamp source is replaced. 
+C. Bi-annually microscopes are serviced by Trimedx 
+4.  Balances/Scales: 
+     A.  Calibrated annually by Trimedx.   
+5.  Laboratory Instrumentation: 
+A. Daily, weekly, and monthly maintenance protocols are performed by the assigned 
+Technical Personnel that have been properly trained.  “As needed” maintenance is 
+performed by any Technical Personnel operating the instrument.  
+B. Each instrument maintenance log book is located at or near the instrument and is 
+reviewed monthly to ensure that policy/procedure has been followed. 
+1. Once performed, all daily, weekly and monthly preventative maintenance 
+must be documented and initialed by the performing Technical Personnel. 
+2. The date reviewed and the signature of the reviewer must be documented on 
+the log sheet where indicated. 
+3. Any discrepancies discovered must be documented.   
+ 
+PROCEDURE NOTES 
+1. All laboratory equipment is maintained as indicated by the instrument manufacturer.  
+To ensure compliance of all maintenance protocols, the following must be used to 
+define maintenance requirements: 
+A. DAILY MAINTENANCE must be performed within a 24 hour period. 
+B. WEEKLY MAINTENANCE must be performed within a 7 calendar day 
+period. 
+C. MONTHLY MAINTENANCE must be performed within a calendar month 
+which cannot exceed 30 days.  
+2. All maintenance and function checks are reviewed for performance and compliance 
+by the departmental supervisor or their designee.   
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 3 of 3 
+LBA025 
+REFERENCES 
+College of American Pathologists (C.A.P.), Laboratory Accreditation Program checklists 
+ 
+Revision 
+3/24/15 (created), 9/26/17 
+ 
+    By    Date 
+ Prepared/Revised D.  Leger 9/26/17 
+Blood Donor Service Director Review D Gremillion 10/3/2017 
+Core Lab Director Review J Teague 10/2/2017 
+Outreach Director Review E Landry 10/4/2017 
+Medical Director Review A Harton 10/1/2017 
+ Effective Date 10/6/2017 
+ Origination Date 3/2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

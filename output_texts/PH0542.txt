@@ -1,0 +1,160 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Labeling of Compounded Sterile 
+Preparations 
+Policy Reference #: PH0542 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 5/8/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the labeling requirements for Compounded Sterile Preparations (CSP) 
+prepared within FMOLHS Baton Rouge Market Pharmacies.  
+1.2. Label and labelling represent distinct but important and legally required documentation affixed 
+to (or surrounding) each CSP. 
+• The label designates the part of labeling that is on the immediate CSP container.  
+• Labeling refers to all of the labels (including auxiliary labels) - written, printed, or in graphical 
+presentation - on the immediate container  or on the inside of any package or wrapper 
+(excluding shipping containers) in which the CSP in enclosed.     
+2. Policy  
+2.1. All Category 1, and  2  CSPs dispensed are labeled with appropriate and legible identifying and 
+administration information to prevent errors or CSP mix ups during storage, dispensing, and use.  
+ISMP and FDA labeling recommendations (including tall man lettering, sound -alike look -alike 
+distinctions, and abbreviations) are incorporated into labeling conventions. 
+2.2. All labeling complies with the laws and regulations of the applicable regulatory jurisdiction. 
+2.3. The label on each immediate CSP container prominently and legibly displays, at a minimum: 
+• Assigned internal identification number (e.g., barcode, prescription, order, or lot number) 
+• Active ingredients(s) and their amount(s), activity(ies), or concentration(s) 
+• Storage conditions if other than controlled room temperature 
+• Beyond-use date (BUD) or date and time 
+• Dosage form 
+• Total amount or volume of the CSP unless it is obvious from the container 
+• If space allows, a statement indicating if the CSP is a single-dose or multi-dose container 
+2.4. The CSP labeling, at a minimum, displays: 
+• Route(s) of administration • Special handling instructions 
+• Warning statements 
+• Compounding facility name and contact information if the CSP is to be sent outside of the 
+facility or healthcare system in which it was compounded 
+2.5. Prior to final release and dispensing, the label of each CSP is verified to ensure it conforms with 
+the prescription or medication order, Master Formulation Record (MFR), and Compounding 
+Record (CR) if required.  
+3. Roles & Responsibilities 
+3.1 Designated Person(s) (DP): 
+• Ensure label and labeling requirements for CSPs are met in IV workflow systems, electronic 
+documentation systems or manual label templates. 
+• Ensure MFRs and CRs reflect additional label and labeling requirements per CSP, when 
+applicable. 
+• Educate compounding personnel on labeling requirements. 
+3.2. Compounding Personnel: 
+• Comply with all of the labeling requirements for each CSP and notify the DP if suspected 
+labeling elements are missing from the instructions (e.g. storage conditions or other 
+important auxiliary labeling) 
+• Affix appropriate labeling in a neat and professional manner that does not obstruct required 
+manufacturer, product, or measurement annotations on the dispensing devise or container 
+closure system 
+3.3. Verifying Pharmacist: 
+• During final verification and before release or dispensing, ensure each CSP label and labeling 
+meets all of the regulatory, legal, and organizational requirements per this policy. 
+4. Procedures 
+7.1. Labeling of Single Dose and Multi-dose CSPs 
+• For patient-specific preparations, the compounder affixes the label to the final container for 
+dispensing once the volume or quantity has been prepared to ensure no mix up occurs. If 
+labeling cannot occur immediately, place label(s) and CSP(s) in an individual basket or bin to 
+reduce the risk of mixing up products and labels. 
+• Prior to placing label, verify the label, prescription or medication order, and CSP to be 
+labeled match.   
+• Position label in a neat and well positioned manner so it has a professional appearance and 
+does not cover critical dispensing container information such as manufacturer, product 
+name, and/or product ID (e.g., NDC, manufacturer’s product id code), and/or measurement 
+indicators. 
+• If space permits, label as single-dose or multi-dose with appropriate BUD.  
+7.2. Labeling of Multiple Single Doses of a CSP or Batched Preparations • During the compounding process, segregate all compounded dosage units, labels and 
+components needed for final verification (e.g., vials, diluents, etc.) in a separate basket, bin, 
+or container. 
+• Immediately following the visual inspection of each dosage unit (e.g., syringes, bags, vials, 
+cassettes, etc.), label the CSP.  
+• Ensure labels affixed to smaller dispensing devices or container closure systems do not cover 
+volume or dose markings. 
+• If multiple single doses are prepared for a single patient, ensure all labels are consistent and 
+labeling indicates total number of ordered doses.  
+7.3. Labeling of Compounded Stock Solutions:  
+• Label the stock solution bag with the following:  
+o Active ingredients(s) and their amount(s), activity(ies), or concentration(s)  
+o Storage conditions if other than controlled room temperature 
+o BUD 
+o Total amount or volume of the CSP unless it is obvious from the container  
+o Name or initials of the compounder and the verifying Pharmacist 
+7.4. Labeling for Multi-dose, Nonpreserved, Aqueous Topical and Topical Ophthalmic CSPs 
+• Ensure label or labeling clearly states that once the CSP is opened, it must be discarded after 
+24 hours when stored at controlled room temperature and /or 72 hours when stored 
+refrigerated. 
+7.5. Immediate use CSPs are labeled with the following information unless directly administered by 
+or the preparation remains in possession of, and administration is witnessed by the preparer of 
+the CSP: 
+• Names and amounts of all active ingredients 
+• Name or initials of the person who compounded the preparation 
+• The specific 4-hour timeframe during which the drug administration must begin (from the 
+time the compounding process was initiated) 
+7.6. Special Labeling Considerations:  
+• All CSPs for outpatient dispensing are labeled with the following caution statement:  
+o CAUTION: Federal Law prohibits the transfer of this drug to any person other than the 
+patient for whom it was prescribed. 
+• CSPs intended for use in dialysis, hemofiltration, or irrigation are labeled to indicated 
+contents are not to be administered intravenously or intra-arterially. 
+• Concentrations of electrolytes given for replacement therapy are stated on the label in 
+milliequivalents per volume (mEq/volume); phosphorus containing CSPs are expressed in 
+milliMoles per volume (mM/volume).   
+• Abbreviations for common salts of drugs are allowed when abbreviating names of the salts 
+of organic acids, but are not allowed at the beginning of an official title (e.g., Phenobarbital 
+NA is acceptable, but NA Salicylate is not).  The abbreviations for the following c ommonly 
+known salts are allowed: 
+o HCl for hydrochloride 
+o HBr for hydrobromide 
+o Na for sodium 
+o K for potassium • The use of “white-out”, paper correction fluid or crossovers is not permitted at any time on 
+prescription labels.  
+7.7. Labeling of CSPs during storage, transport, and shipping 
+• When shipping outside of the facility, shipping cartons are clearly labeled with: 
+o Name, address, and phone number of specific FMOLHS Baton Rouge Market 
+Pharmacy 
+o Instructions for proper storage conditions upon receipt (i.e. Refrigerate upon arrival, 
+Store in Freezer upon arrival). 
+7.8. Refer to Hazardous Drug Handling policy(ies) for additional labeling requirements for hazardous 
+drug products.    
+5. Definitions 
+5.1. Active Pharmaceutical Ingredient is any substance or mixture of substances intended to be used 
+in the compounding of a preparation, thereby becoming the active ingredient in that preparation 
+and furnishing pharmacological activity or other direct effect in the diagnosis, cure, mitigation, 
+treatment, or prevention of disease in humans and animals or affecting the structure and 
+function of the body. Also referred to as Bulk drug subs tance. A conventionally manufactured 
+drug product is not an API but is typically manufactured from an API(s).   
+5.2. Beyond Use Date (BUD) is the date, or hour and the date, after which a CSP must not be used, 
+stored, or transported. The date is determined from the date and time the preparation is 
+compounded.  
+5.3. Compounded stock solutions are a sterile mixture of components that is used to compound 
+additional CSPs.  
+5.4. Label is the part of the labeling on the immediate container 
+5.5. Labeling is all labels and other written, printed, or graphic matter on the immediate container or 
+on or inside any packaging system or wrapper in which the article is enclosed, except any outer 
+shipping container. 
+6. Related Policies, Documents, References 
+6.1. United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2. United States Pharmacopeial Convention, Inc. <7> Labeling. Current version.  
+6.3. United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.4. Institute for Safe Medication Practice (ISMP). List of Error Prone Abbreviations, Symbols, and 
+Dose Designations. 2012 
+6.5. ISMP. Draft Guidelines for Safe Electronic Communication of Medication Orders. Medication 
+Safety Alert. 2003. 
+6.6. Food and Drug Administration (FDA). Center for Drug Evaluation and Research (CDER). Name 
+Differentiation Project. 2009. 7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 05/2025 
+7.1 Initial version published by Wolters Kluwer 2022.  
+Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies 

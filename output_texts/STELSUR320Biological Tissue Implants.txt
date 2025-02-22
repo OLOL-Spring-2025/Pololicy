@@ -1,0 +1,237 @@
+ 1 
+OUR LADY OF THE LAKE ASCENSION 
+ 
+POLICIES AND PROCEDURES: 
+ 
+Surgical Services 
+ 
+EFFECTIVE DATE: 
+2/2013 
+ 
+NUMBER: 
+STELSUR320 
+ 
+SUBJECT:   
+Biological Tissue Implants 
+ 
+PAGE 1 OF 5 
+ 
+ 
+        
+ 
+ 
+I. PURPOSE: 
+To provide guidelines and to define the process of acquisition, receipt, storage, issuance, 
+implanting, tracking, and investigation of adverse reactions to transplanted biological 
+tissue.  Transplanted tissue includes, but is not limited to: bone, bone putty, muscle, 
+tendon, ligaments, fascia, connective tissue, veins, cornea and skin.  Applies to allograft 
+and xenograft implantables.   
+  
+ 
+II. POLICY 
+Biological tissue implants will comply with regulatory standards for receipt, validation of 
+package and transport method, storage, issuance to point of use, implantation, and 
+tracking. Tissue implants from this facility may not be transported to another facility for 
+use with out an FDA licensure for tissue banking. St. Elizabeth Hospital utilizes the UDI 
+Champion Tracking System to document tissue tracking and utilization.   
+ 
+Definitions: 
+Allograft: An allograft is a bone, ligament, cartilage, tendon, tissue or section of 
+skin that is transplanted from one person (donor) to another (recipient). 
+Xenograft: A surgical graft of tissue from one species to an unlike species (or genus or 
+family). Such as bovine or porcine 
+ 
+III. PROCEDURE 
+ 
+A. Acquisition     
+                                                                                                              
+1. Before any purchase order for tissue implants are placed, the Surgical 
+Services Department will confirm that the tissue supplier is registered 
+with the U.S. Food and Drug Administration (FDA) as a tissue bank 
+establishment and maintain a state license. 
+(www.fda.gov/cber/tissue/tissregdata.htm) 
+2. The tissue manufacturer must supply written directions/ information 
+on company letter head stating the shipping and handling process of 
+the biological product.  
+a. How it will be shipped 
+b. The temperature maintained during shipping,  
+c. Storage and handling of the product upon receipt  2 
+3. All products will be shipped directly from the vendor to the materials 
+department for receipt.  No biological tissue will be accepted from a 
+sales representative.                  
+ 
+ 
+B. Receipt of Implants 
+ 
+1. All FDA traceable biological implants will be tracked and logged 
+upon receipt into the facility by the Material Management Department 
+utilizing the UDI Champion Tracking System. Tracking information 
+is to include: 
+ a. tissue type 
+ b. serial or tracking number 
+            c. PO order number 
+d. manufacturer 
+ e. date/time received in materials department 
+            f. packaging mode:  freeze dried, dry ice, cool pack, ambient room 
+temp 
+            g. integrity of the package is intact,  
+                                    h. materials signature for delivery 
+ i. delivery time and by whom to the surgery dept. 
+ j. surgery personnel receiving tissue 
+            k. expiration date 
+2.    If requirements for receipt are not met for shipping and package 
+integrity, the item will be refused and returned to the vendor.  
+3.    Material Management Department will immediately notify Surgical 
+Services Department of the receipt of any frozen tissue products.  Surgical 
+Services designee will sign for the tissue and retrieve it from Materials 
+Management for storage.  
+ 
+C. Storage    
+ 
+1. Our Lady of the Lake Ascension Surgical Services will maintain a 
+freezer for frozen allograft tissue storage of musculoskeletal tissue in 
+the surgery department. Guidelines will follow the American 
+Association of Tissue Banks (AATB) standards and the source facility 
+for tissue storage. 
+ 
+a. Frozen Allograft musculoskeletal, osteoarticular or skin tissue: 
+should be stored at - 40 F (- 40 C) or colder for long term 
+storage.  (Expiration of 5 years.) When stored at -20 to -39F it 
+is considered short term storage, (not more than six months on 
+LifeNetHealth © frozen tissues.  Check each source facility’s 
+recommendations on temperatures and expirations and   modify 
+the expiration dates accordingly.   This requires daily 
+monitoring  3 
+ 
+2.  Freezer specifications include: 
+a. Emergency power source 
+b. Alarms for set limits out of acceptable temperature range; 
+(alarms are active in the Emergency Care Unit and will sound 
+in an area where an individual is present / staffed at all times to 
+initiate corrective action). Surgery Administration is to be 
+immediately notified when temperature is outside of range and 
+alarms are set off. 
+c. Temperature is checked daily for temperature range and 
+documented 
+d. Annual Calibration checks                                              
+ 
+2. Surgical Services is responsible for logging the tissue receipt and 
+placement into the freezer.    
+3. Tracking forms, thawing instructions and tissue identification shall 
+remain with the tissue. 
+4. Expiration dates are monitored by the Tracking System 
+ 
+5. . Other biological tissues that may be implanted are:  
+a. Lyophilized or dehydrated musculoskeletal tissue:  should be 
+stored at ambient/room temperatures or cooler (not frozen). 
+b. Refrigerated musculoskeletal, osteoarticular tissue and skin 
+should be aseptically stored in an isotonic solution containing 
+antibiotics and stored at 33.8° F to 50 °F (1° C to 10 C) 
+expiration according to manufacturer’s IFU 
+ 
+D. Issuance 
+ 
+1.  Physician informed consent must be obtained from the patient before 
+using frozen Allograft tissue implants. 
+ 
+2.    Frozen allograft tissue will remain in frozen storage until an order   
+to thaw the implant for use is given by the surgeon.  
+ 
+3. Frozen allograft is obtained from frozen storage  and opened  upon 
+surgeon request only. Surgery personnel will  transport the tissue to the 
+Operating Room for immediate use. 
+ 
+4. Read package insert for dispensing and thawing instructions for each 
+tissue graft.    
+ 
+ 
+ 
+ 
+E. Implantation and Tracking Documentation  4 
+ 
+ 
+1.  Upon surgeon order, the circulator RN shall  verify with the 
+surgeon the type of implant, the size and location of implant before 
+dispensing the tissue onto the surgical field . Manufacturer 
+instructions for thawing or reconstituting and handling tissue will 
+be attached to and documented in the operative record.  Record the 
+lot numbers for all solutions used in preparing implants for use.   
+2. The circulator RN will record all implant information in the patient 
+record, along with serial numbers, sizes, implant location, 
+expiration dates and any other identifying information.  Any 
+registration papers, package inserts, or  tracking forms that 
+accompany the implant shall be completed by the circulating nurse 
+or physician and retur ned to the source facility  as requested and 
+placed in the tracking records. 
+3. Unused opened tissue will be disposed of as per biohazard waste 
+protocol, tissue tracking will be completed.   
+4. All Tissue Tracking records will be maintained for 10 years after 
+the tissue is dispensed or the expiration date is reached.   
+5. The UDI Champion Tracking System interfaces with EPIC 
+patient documentation for surgical implants 
+   
+ 
+ 
+ 
+IV. CONTRAINDICATIONS/PRECAUTIONS 
+1.   Tissue may contain traces of the processing reagents such as Bacitracin, 
+Gentamicin, Polyumyxin B Sulfate, alcohol and/or surfactants.  Caution 
+should be exercised if the patient has known sensitivity or is allergic to any of 
+these antibiotics or reagents.  Read the package insert before use for the list 
+of reagents and storage solutions. 
+. 
+V. Adverse Outcomes 
+1. Adverse outcomes to tissue transplants include infections and rejections.  
+Adverse outcomes are monitored by: 
+ a.    return to surgery report 
+ b.    Monitored and reported by the practitioner 
+ c.     Tissue recalls via Director of Surgery 
+ e.    Infection Control Nurse 
+ 
+2.    Adverse occurrences, infections or rejections must be reported promptly to 
+the source facility/vendor of the tissue. 
+ 
+3.    In the case of a recall, the Director of Surgery upon receiving vendor 
+notification will notify the implanting Surgeon and the Infection Control Nurse   
+of the adverse event. The Surgeon will contact the patient with the respect to the  5 
+adverse event and further treatment.  Any re-called inventory in stock will be 
+sequestered.  
+   
+4.  In the event of freezer malfunction, the temperature range will be monitored 
+and if reading warmer than -40 F the expiration dates will be reset to follow 
+AATB guidelines.  In the event of complete freezer failure, the lab freezer will act 
+as back up for frozen musculoskeletal tissue for short term expiration storage.  
+See parameters in section C. of this policy  
+ 
+   
+ 
+VI. REFERENCE 
+ 
+Reference:  
+AORN Perioperative Standards and Recommended Practices, 2013 edition. Pages 205-215 
+ 
+Life Net Health frozen allograft package insert and IFU 
+ 
+The Joint Comission Standards for Transplant Safety  CAMH, January 2016: TS.03.01.01, 
+TS.03.02.01, TS.03.03.01  
+ 
+ 
+  
+VI. REVIEW:    1/2014; 1/2015; 1/2016; 3/2016; 1/2017, 7/2017; 7/2018; 7/2019; 
+9/2022; 9/2022; 9/2023; 9/2024; 1/2025 
+  
+ 
+ 
+ 
+ 
+VII. REVISIONS: Revised:  11/2013 removed from lab freezer to freezer storage in the 
+surgery department with procedure and parameter guidelines.   1/2014 Revised Tissue 
+Freezer protocol and quality monitoring, 3/2016 added definitions, and xenografts.  Revision 
+10/04/2017 removed tissue log reference in the F drive for switch to the UDI Champion 
+Tracking System.  7/2018 added #6 to section E.    
+                  
+ 
+ 
+ 
+ 
+ 

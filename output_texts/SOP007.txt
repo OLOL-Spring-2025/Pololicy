@@ -1,0 +1,233 @@
+ 1 
+ 
+ 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Operating Room 
+Title: Prevention of Retained Surgical Items Policy Reference #: SOP007 
+Supersedes #: 09/20/91; 09/96 
+Date of Origination: 10/19/1987 Review Date: 09/01/2024 
+Revision Date: 8/9/2024 
+ 
+PURPOSE: 
+To provide a consistent multidisciplinary team approach for preventing retained surgical items 
+(RSI) during operative and invasive procedures. 
+ 
+POLICY: 
+1. Distractions, noise and interruptions should be minimized during the surgical count. 
+2. Sponges, sharps and miscellaneous items should be counted on all procedures and recorded 
+on the count board. 
+3. Instruments should be counted on all procedures where the depth and location of the 
+procedural site poses a risk that an instrument may be concealed within a wound or major 
+body cavity. 
+4. Counts are performed during the following: 
+a. Before the procedure to establish a baseline for the surgical team (i.e. initial count) 
+b. When new items are added to the field 
+c. Before closure of a cavity within a cavity 
+d. When wound closure begins 
+e. At skin closure or at the end of the procedure when counted items are no longer in 
+use (i.e. final count) 
+f. At the time of permanent relief of either the RN circulator or scrub person. 
+i. The oncoming permanent relief count will be done concurrently by the relief 
+RN circulator and relief scrub person, visualized and done audibly. 
+g. When the RN circulator or scrub person is relieved and they anticipate the case may 
+end before they return. 
+h. Any time a discrepancy is suspected.  
+5. Counts and events that would require counts (relief of RN or scrub person) should not occur 
+during critical phases of the procedure, including:     
+a. Time outs 
+b. Critical times during the procedure 
+c. Confirming and opening of implants 
+d. Induction of and the patient’s emergence from anesthesia 
+e. Care and handling of specimens 
+6. Surgeon will be notified and will acknowledge final count results.  2 
+7. All counts and its documentation in the intraoperative nursing record is the responsibility of 
+the RN circulator. 
+8. Count Discrepancies 
+a. The RN circulator should inform the surgeon immediately. 
+b. The RN circulator should visually inspect the area surrounding the surgical field. 
+c. The scrub person should visually inspect the area surrounding the sterile field 
+d. The surgeon should suspend closure of the wound if the patient’s condition permits 
+e. The surgeon should perform a wound examination 
+9. Non-recovered Item/Incorrect Count 
+a. Notify the department manager or designee immediately 
+b. Call x-ray and notify that a stat x-ray is needed for an incorrect count.  
+i. Radiology technician to enter the stat order 
+c. Clear the wound by one of the following methods: 
+i. obtain an intraoperative flat plate x-ray before final closure of the wound (if 
+a flat plate is not possible, c-arm may be utilized) 
+ii. Only if item missing is a suture smaller than 10mm (as indicated on 
+packaging) then the surgeon can opt to explore the wound with the aide of a 
+“high magnification device” instead of an x ray. High magnification devices 
+are items that enhance normal vision such as: loops, microscope, or 
+endoscope.  
+d. Notify the radiologist for the suspected item in question 
+e. X-ray results shall be read by a radiologist and disclosed directly to the surgeon 
+before the final closure and patient leaving the operating room. 
+f. Document the x-ray results or surgeons clearing of the small suture in the 
+intraoperative record 
+g. If item(s) other than retained packing are intentionally left in the wound, note in 
+chart about physician disclosure (See Section B) 
+h. Complete a patient safety event 
+ 
+10. If the patient’s condition does not permit a count to be performed (i.e. trauma), the surgeon 
+should be notified and an intraoperative x-ray should be done at the end of the procedure if 
+possible.  A patient safety event should be completed and documented in the intraoperative 
+record. 
+ 
+B. Patient Disclosure 
+a. Surgeon is responsible for determining the risks and benefits of leaving an item in 
+the wound. 
+b. The surgeon should provide the following information to the patient or responsible 
+person as soon as possible after the procedure.  
+i. risks and benefits of leaving the device fragment in the wound; 
+ii. material composition of the fragment (if known); 
+iii. size of the fragment (if known); 
+iv. location of the fragment; 
+v.  potential mechanisms for injury (eg, migration, infection); and 
+vi.  procedures or treatments that should be avoided, such as MRI examinations 
+in the case of metallic fragments  3 
+ 
+ 
+C. Soft Count 
+a. To be counted before the procedure concurrently by the RN circulator and scrub 
+person, visualized and done audibly. 
+b. Raytec sponges will be counted initially before tapes are broken and a second time 
+after the tapes are removed so that each is visualized individually.  Each pack will 
+be opened individually to ensure there are only 10 sponges per package and that 
+each sponge has a radiopaque indicator.  If more or less than 10, remove the entire 
+pack from the room. 
+c. Lap sponges will be counted initially before tapes are broken and a second time after 
+the tapes are removed so that each is visualized individually.  Each pack will be 
+opened individually to ensure there are only 5 laps per package and that each lap 
+string is intact.  If more or less than 5, remove the entire pack from the room. 
+d. If radiopaque towels are used, they should be counted in the same manner as 
+sponges. 
+e. If the surgeon announces to the OR Team that a radiopaque sponge has been placed 
+in a cavity, the item will be notated on the count board and resolved before or during 
+the closing count if not intended to be used for therapeutic packing.   
+f. Raytec sponges, lap sponges and radiopaque towels must be left in the original 
+configuration and should not be cut or altered in any way.      
+g. Used sponges will be contained or confined. Soiled sponges removed from the 
+sterile field will be handled utilizing standard precautions. 
+h. Soiled items removed from the field will be placed in the kick bucket.  They may be 
+placed in clear plastic bags if grouped per packaging (i.e 10 raytec/bag, 5 laps/bag).   
+i. Before placing sponges or laps in a bag, the items should be visualized by the 
+anesthesia provider and counted by the RN circulator and scrub person.   
+j. Linen and waste containers are not to be removed from the operating room until all 
+counts are complete, resolved, and the patient has left the room. 
+k. The dressing sponge is placed on the field after the final count is done and correct.   
+ 
+D. Sharps Count 
+a. To be counted before a procedure concurrently by the RN circulator and scrub 
+person, visualized and done audibly.  
+b. All suture needles, regardless of size, will be counted for all surgical procedures.  
+c. Internal suture packaging should be retained on the field to assist with verification. 
+d. Used sharps on the sterile field should be kept in a puncture-resistant container. 
+ 
+E. Instrument Count 
+a. To be counted before a procedure concurrently by the RN circulator and scrub 
+person, visualized and done audibly. 
+b.  All instrument sets should have an instrument count sheet.  Instrument count sheets 
+will be used to record instruments during the initial count.  
+c. Instrument sets opened onto the sterile field will be counted in their entirety. 
+d. Single instruments should be accounted for as they are added to the field and 
+documented on the tally sheet  4 
+e. Instruments with multiple parts that can be disassembled will be counted as separate 
+pieces and not as a total of parts (i.e. balfour, including wing nut, tailpiece, 4 blades) 
+f. For Thoracic & CAB case, small items, bulldogs, mark needles, etc., will be counted 
+when the body cavity is being closed and again when the skin is closed. 
+g. Instruments that must be removed from the room during the procedure will be 
+accounted for on the count sheet or count board by the RN circulator. 
+h. Instruments broken during a procedure will be accounted for in their entirety. 
+i. In the following procedures a c-arm sweep over the body cavity will be done in 
+place of an instrument count.  The surgeon will verify from the x-ray that there are 
+no retained objects.  This will be documented in the count section of the nurses 
+notes.spon 
+i. anterior lumbar interbody fusion 
+ii. posterior lumbar interbody fusion 
+ 
+F. Miscellaneous Items 
+a. Other items opened on the sterile field which require counting include: 
+i. Bovie tips and cleaners 
+ii. Ligaclip, hemoclip racks 
+iii. Cottonoids, dissectors, suture reels 
+iv. Vessel loops, suture boots, bulldogs, microclips 
+v. Umbilical tape, cotton balls, rubber bands 
+vi. Tonsil sponges, nu-gauze strips or cotton strips 
+vii. Throat packs, mouth guard, weck spears 
+ 
+G. Retained Packing 
+a. Only radiopaque items such as sponges and laps provided in the procedural packs or 
+sterile core may be utilized for therapeutic packing. 
+b. The number and type of sponges retained as packing will be documented in the 
+intraoperative nursing record. 
+c. The number and type of packing used must be confirmed by the surgeon and 
+documented in the intraoperative nursing record as a correct count. 
+i. If the number and type of packing is not known with certainty, the count 
+should be recorded in the intraoperative nursing record as incorrect. 
+d. A green label will be placed on the patients chart indicating the type and number of 
+sponges, laps and /or towels used, along with the first initial and last name of the 
+surgical team.  If the quantity is unknown, the circulator will list “Qty-Unknown” on 
+the green label.   
+e. A Patient Safety Event Report will be completed indicating that packing remained in 
+the wound. 
+i. The MD may choose other types of packing (ie., iodoform, kerlix) for small 
+or extremity wounds.  Generally, this type of packing does not require safety 
+event reporting. Documentation of the location and the type of packing must 
+be entered into the intra-op count text area.   
+f. The chart will be flagged with a “Retained Packing” surglabel when a surgeon elects 
+to pack with radiopaque sponges, laps or towels.  The label will be removed when 
+the packing is removed.  5 
+g. In the event the patient returns to the OR and all the retained items are not removed 
+the initial green sticker will be replaced with a new green sticker indicating the 
+number and type of items remaining.  
+h. If additional packing is placed in patient and no items are removed, an additional 
+green sticker will be placed on the chart indicating the new retained items.  Another 
+Patient Safety Event Report will be completed. 
+ 
+H. Retained Packing Removal 
+a. Upon return to surgery for removal of packed sponges, laps or towels the circulator 
+will document the type and number of sponges removed from the patient. 
+b. The removed sponges will be isolated and not included in the procedure count.  The 
+packed sponges will be considered foreign bodies and counted separate from the 
+initial count of the case.  The circulator will document the number and items 
+removed in the procedure text area of the clinical record. 
+c. Documentation of retained items will be included under the final count verification 
+d. Documentation of removed items will be included in the specimen section as foreign 
+body.  Documentation should include the quantity and type removed. 
+e. The procedure count will be documented as correct after the routine sponge count 
+has been accounted for. 
+f. An x-ray will be performed before closing begins to confirm that all retained items 
+were removed.  Upon confirmation by the Radiologist that all retained items have 
+been removed, wound closure can proceed. 
+g. The retained packing label will be removed from the chart back and a Patient Safety 
+Event Report will be completed identifying the packing items removed, and the 
+results of the x-ray from the radiologist. 
+ 
+ATTENTION 
+RETAINED PACKING 
+Date____/ ____/ _____ 
+ 
+Surgical Team _____________________________ 
+ 
+  
+____________________________________________________________
+_ 
+ 
+ 
+  6 
+ 
+References: 
+AORN Perioperative Standards and Recommended Practices, 2024 Edition. 
+ 
+Approved 2024 by: Dr. Phillip Allen Associate Chief Medical Officer, Dr Conners Department 
+Chairperson Surgical Chiefs Committee, and Rebecca Al-Marhoun Senior Director Surgical 
+Services 
+ 
+ 
+ 

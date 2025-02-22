@@ -1,0 +1,238 @@
+Approved
+Standard Operating Procedure
+Document #: TMX-SOP-0058 Revision: 7
+Document Type: TMX Effective Date: Jun 1, 2015
+Department: CE Service Origination 
+Date:
+Jun 1, 2015
+Title: Alternative Equipment Management (AEM) and Default Maintenance Program 
+Assignment
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 6
+1.PURPOSE -- SCOPE
+To ensure TRIMEDX medical equipment is evaluated for any/ all associated 
+risks.
+To ensure the maximum function of medical equipment with minimum patient 
+risk.
+To determine and document the appropriate Equipment Management (EM) 
+Score, Alternative Equipment Maintenance (AEM) Schedule, Manufacturer 
+(MFG) Schedule, and Default Maintenance Program for all 
+models/descriptions in RSQ Database.
+It is TRIMEDX's policy that an AEM Equipment Review will be conducted on 
+TRIMEDX managed medical equipment by Quality & Regulatory and the AEM 
+Equipment Review Committee. The Purpose is to determine risk factors 
+associated with the items listed below and determine a corporate approved AEM 
+Schedule and Default Maintenance Program.
+AEquipment Risk Rating
+AConsequence of Failure
+AQuality & Regulatory Requirements (if applicable)
+AManufacturer's Requirements/ Recommendations
+AIncident and Alert/Recall History
+ARepair History
+Based on determination by the AEM Equipment Review Committee, each 
+model/description will be assigned a Default Maintenance Program of either a 
+MFG Schedule or an AEM Schedule.
+Site Managers & Technicians will evaluate assigned devices and review if 
+allocated Equipment Schedules address potential risk factors. (Refer to PM 
+Schedule Assignment at Device Level and Request for PM Schedule Change 
+Policies and Procedures).
+ * Patient owned equipment is not evaluated under this process or tracked 
+through the TRIMEDX RSQ Database. Refer to hospital-       specific 
+patient owned equipment policy. 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0058 Revision: 7
+Document Type: TMX Effective Date: Jun 1, 2015
+Department: CE Service Origination 
+Date:
+Jun 1, 2015
+Title: Alternative Equipment Management (AEM) and Default Maintenance Program 
+Assignment
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 6
+2.REFERENCE DOCUMENTS
+3.DEFINITIONS
+4.ABBREVIATIONS
+4.1.OEM – Original Equipment Manufacture
+4.2.RSQ – TRIMEDX Computerized Maintenance Management System
+4.3.AEM – Alternative Equipment Maintenance
+4.4.EM – Equipment Management Score
+4.5.MFG – Manufacturer
+4.6.PM – Preventive Maintenance
+5.RESPONSIBILITIES
+5.1.TRIMEDX AEM Equipment Review Committee:
+5.1.1. Perform an Equipment Review for models/ descriptions in RSQ 
+Database.
+5.1.2. Review Federal & State Regulations and Accreditation agency 
+standards to ensure compliance is maintained when assigning the 
+AEM Schedule/ Default Maintenance Program.
+5.1.3. Use the established criteria to determine the AEM Schedule/ 
+Default Maintenance Program (Refer to AEM Assignment Criteria)
+5.1.4. During equipment review assessment provide any missing 
+manufacturer's procedures for review.
+5.1.5. If OEM procedures are not available: 
+5.1.5.1. Evaluate equipment based on like and kind models
+5.1.5.2. Use best industry practice procedures
+5.1.5.3. Use generic procedures established by qualified service 
+technicians
+5.1.6. Classify medical equipment for the purposes of risk assessment as 
+life support, high risk, or non-high risk.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0058 Revision: 7
+Document Type: TMX Effective Date: Jun 1, 2015
+Department: CE Service Origination 
+Date:
+Jun 1, 2015
+Title: Alternative Equipment Management (AEM) and Default Maintenance Program 
+Assignment
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 3 of 6
+5.2.Quality & Regulatory: 
+5.2.1. AEM Equipment Review is received, reviewed and approved
+5.2.2. Gather and prepare all qualifying documentation
+5.2.3. Facilitate AEM Equipment Review Committee
+5.2.4. Select qualified personnel to attend
+5.2.5. Disseminate pertinent information/documentation to selected 
+qualified parties
+5.2.6. Hold AEM Equipment Review Committee Meeting
+5.2.7. Review, resolve, and answer any questions regarding the AEM 
+Equipment Review process
+5.2.8. AEM Equipment Review Committee Approves/Rejects request
+5.2.9. Upon approval, Quality & Regulatory will review any approval 
+decision to decide what steps are necessary, potential impact of 
+request, and best course of action for all TRIMEDX Sites.
+5.2.10. Information will be communicated via Quality & Regulatory 
+Compliance Connection email and on Quality & Regulatory Snap 
+Site.
+5.2.11. Set schedule to facilitate approval process
+5.2.12. Information will be updated in RSQ to any/all applicable devices
+5.3.Site Managers & Technicians:
+5.3.1. Participate in AEM Equipment Committee Review as one of the 
+AEM Equipment Review Committee members when requested
+5.3.2. Request re-evaluation of model/ description as necessary
+5.3.3. If selected as qualified personnel for AEM Review: 
+5.3.3.1. Complete Equipment Review Worksheet
+5.3.3.2. Submit to Quality & Regulatory no later than three weeks 
+after date received
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0058 Revision: 7
+Document Type: TMX Effective Date: Jun 1, 2015
+Department: CE Service Origination 
+Date:
+Jun 1, 2015
+Title: Alternative Equipment Management (AEM) and Default Maintenance Program 
+Assignment
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 4 of 6
+5.3.3.3. Attend AEM Equipment Review Committee Meeting
+6.PROCEDURE
+6.1. Site Manager/ Technician, or anyone noticing a discrepancy, notifies 
+Quality & Regulatory of model/ description where the AEM Schedule, 
+EM Score, or Default Maintenance Program needs to be evaluated or 
+Quality/ Regulatory determines model(s)/ description(s) that need 
+evaluated. 
+6.1.1. If submitted by a Site Manager/Technician, Quality & Regulatory 
+accepts or declines request for evaluation based on the Equipment 
+Management Criteria.
+6.2. If the model/ description has been accepted for review, Quality & 
+Regulatory determines appropriate personnel to appoint to the AEM 
+Review committee based on relevant experience for specific model/ 
+description. 
+6.2.1.Quality & Regulatory will distribute the Equipment Review 
+Worksheet to selected qualified personnel.
+6.2.2.Technicians will complete the form based on relevant experience 
+and knowledge regarding equipment. This can include other qualified 
+staff's input and expertise.
+6.2.3.Technicians will submit to Quality & Regulatory when complete 
+and no later than three weeks after Equipment Review Worksheet 
+has been received.
+6.3. Quality & Regulatory gathers all pertinent documentation and sets 
+meeting agenda and timeline for AEM Equipment Review process.
+6.4. Quality & Regulatory facilitates the AEM Equipment Review meeting. 
+AEM Review committee analyzes models/ descriptions on the agenda. 
+Based on criteria in the TRIMEDX Corporate Equipment Evaluation 
+Form (Attachment 3), the committee will determine the following: 
+6.4.1. EM Score & AEM Schedule (Attachment 2)
+6.4.2. Model Class: Life Support, High Risk, or Non-High Risk
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0058 Revision: 7
+Document Type: TMX Effective Date: Jun 1, 2015
+Department: CE Service Origination 
+Date:
+Jun 1, 2015
+Title: Alternative Equipment Management (AEM) and Default Maintenance Program 
+Assignment
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 5 of 6
+6.4.3. Quality & Regulatory will document all discussion and decisions on 
+the TRIMEDX Corporate Equipment Evaluation Form (Attachment 3)
+6.5. If Quality & Regulatory determines PM Schedules need updated, Site 
+Managers and Technicians will be notified via the monthly Quality & 
+Regulatory Compliance Connection. 
+6.5.1.Site Manager must: 
+6.5.1.1. Review committee decision and compare with PM 
+Schedules of current inventory
+6.5.1.2. Prepare for change by load balancing/ updating PM Months 
+as appropriate 
+6.5.1.2.1. If the Site Manager does not agree with changes, 
+Request for PM Schedule Change Policy and Procedure 
+must be followed for device-level PM Schedule changes.
+6.5.1.3. Discuss changes with EOC/ Safety committee and affected 
+hospital department(s)
+6.5.1.4. Ensure all PM Stickers are updated appropriately to ensure 
+stickers are consistent with the RSQ Database
+6.5.1.5. Contact Quality & Regulatory with questions or concerns
+6.5.2.Quality & Regulatory will update PM Schedules in RSQ database
+6.6. AEM Equipment Review Committee Outcomes and completed 
+TRIMEDX Corporate Equipment Evaluation Forms will be accessible 
+through the Quality & Regulatory Compliance intranet site under AEM 
+Request Review folder.
+7.QUALITY RECORDS
+8.PROCESS FLOWCHART
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0058 Revision: 7
+Document Type: TMX Effective Date: Jun 1, 2015
+Department: CE Service Origination 
+Date:
+Jun 1, 2015
+Title: Alternative Equipment Management (AEM) and Default Maintenance Program 
+Assignment
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 6 of 6
+Appendix A: Additional Resources
+END OF DOCUMENT
+COPY

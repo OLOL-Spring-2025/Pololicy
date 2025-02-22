@@ -1,0 +1,256 @@
+ 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  Magnetic Resonance Imaging Safety Policies and 
+Procedures 
+Section:  MRI 
+Date of Origination:  1/16/89 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+4/16 , 8/20 
+04/16,  5/19, 8/20, 1/21, 3/23, 2/24 
+Serial Code:  IMR 003 
+  
+PURPOSE: 
+ The purpose of this policy is to assure a safe environment for patients, visitors, medical staff, and 
+hospital personnel in the Magnetic Resonance Imaging Center. 
+POLICY: 
+ The operation of the Magnetic Resonance Imaging (MRI) equipment is restricted to qualified 
+personnel only. Safety procedures apply to all persons entering the Magnetic Resonance Imaging 
+facility. 
+PROCEDURE: 
+I. Operation of the MRI equipment will be limited to qualified personnel, including: 
+A.  Service Engineers. 
+B.  Registered Radiologic Technologists or other qualified trained individuals who 
+possess a degree in the biological services and who have received in-service 
+instruction and/or applications training and have read the operators manuals and 
+training material, as well as reviewed the procedures in safety precautions. 
+C. Radiologists who have been credentialed by the Medical Staff. 
+II. Patient Safety: 
+Possible Contra-indications 
+An MRI System is contra-indicated for persons with the following: 
+1. Non-compatible Pacemakers or other electrically, magnetically or mechanically activated 
+implants as the magnetic and electromagnetic fields produced by the MRI system may 
+interfere with the operation of these devices and greatly endanger the individual.  
+2. Patients with specific intracranial aneurysm clips. This restriction is not limited to patients, but 
+also apply to hospital employees, visitors, or any individual who might be endangered by entering 
+the magnetic field. The only exception would require precise documentation confirming that MR 
+imaging on unit at same or higher field strength was accomplished with the clip in place with no 
+harm to the patient ensued. 
+ 
+Warnings 
+The following conditions could present hazard and require extra caution and careful screening 
+and monitoring of individuals entering the scan room: 
+1. Implants and prosthesis (the magnetic force exerted on ferromagnetic objects with in the field 
+could result in implants, such as aneurysm clips, surgical clips, cochlear implants or prosthesis to 
+move or be displaced resulting in injury or death to the individual). 
+2. Electrically conductive objects (limb braces, traction mechanisms or stereo tactic devices for 
+example) should not be placed into the scanner as the radio frequency field may cause electrical 
+discharge or sparks between these conductive objects in the patient or the radio frequencies (RF) 
+coils. 
+3. Metal fragments or slivers: Patients who have worked in a machine shop or similar environment 
+may have small metal slivers or fragments of steel imbedded in their eyes. The force of the 
+magnetic field could cause the fragments to move or be displaced and cause injury to the eye or 
+surrounding tissue. The patient should be screened for work history and if suspected to be a 
+hazard, precautionary measures including orbital x-rays and/or computerized tomography should 
+be obtained. 
+Pregnancy and Infants 
+The safety of MRI at field strengths higher than 1.5 T during pregnancy has not been thoroughly 
+assessed. However, the majority of research studies have failed to discover any reproducible 
+harmful effects of exposure of the mother or developing fetus to the 3 T or weaker magnetic 
+fields used in the routine clinical MRI Process (ACR Manual on MR Safety (2020) – Version 
+1.0).  
+ All female patients of child-bearing age will be questioned as to their last menses prior to having 
+an MRI scan. 
+ Orders for MRI imaging patient with known pregnancy should only proceed after ordering 
+physician and radiologist have been notified and directs technologist to proceed. Ordering 
+physician and radiologist decision to proceed with MRI should be documented by the 
+technologist in the medical record prior to proceeding with procedure. 
+ 
+ Pediatric Patients 
+  Parent/Caregiver will be allowed to stay with patient during duration of scan after appropriately  
+  screened.  
+ 
+ Visitors to MRI Scan Room 
+  Any visitor to the MRI scan room will be screened using the same screening form that is used for  
+  screening patients. 
+Collision Hazard The magnetic field near the MRI system is strong enough to attract ferromagnetic objects with 
+great force. The force can be great enough to pull objects and cause them to fly into the magnet, 
+becoming a projectile capable of causing severe injury or death. 
+  
+ FDA Medwatch reporting 
+  Any event that results in serious patient injury will be reported to the FDA Medwatch Program.   
+  
+Radio Frequency and Magnetic Field Interference 
+Electronic implants such as pacemakers may be susceptible to interference from the magnetic 
+and radio frequency fields produced by the system. Persons with cardiac pacemakers or other 
+electronic devices should be carefully screened before entering a zone where the magnetic field 
+exceeds 5 gauss. The zone is indicated by warning / zone signs. 
+Quench Hazard Asphyxiation Risks 
+In the event of a ventilation system failure and rapid boil-off of cryogens, the room can fill with 
+extremely cold dense gaseous helium and cause asphyxiation. In the event of a ventilation 
+failure, the site should be evacuated immediately, and service personnel notified. 
+ 
+Radio Frequency Antenna Effects 
+If metal wires or electrodes (such as electrocardiograph leads) are attached to a patient being 
+imaged, the RF energy radiated by the coils of the system may induce sufficient electrical 
+currents in the leads to cause burns where the electrodes or wires contact the skin. Patient should 
+be screened to ensure that such devices are not introduced into the system. 
+Bio-magnetic Hazards 
+It is possible that subtle genetic or molecular changes could be caused by the magnetic fields 
+produced by the system, however, to date; no harmful biological effects have been demonstrated 
+at the magnetic field strength and exposure times used by the system. The likelihood of any 
+significant bio-magnetic effects is considered low. 
+Clinical Hazards 
+The confining conditions of the system can precipitate claustrophobia in some patients. 
+Thorough screening and explanation of the procedure can help to eliminate these fears. 
+Warning Signs 
+Two Security zones are established around the magnet including: 
+1. Zone 4 defined as an area within the walls of the scan room where the magnet is located. Patients 
+with pacemakers, metallic implants should be carefully assessed before entering and loose metal 
+objects must not be taken into this area as serious injury or property damage may result.  
+2. Zone 3 is defined as area where the magnetic field is greater than 5 gauss outside of the magnet 
+room. People with cardiac pacemakers, neuro-stimulators and other bio-stimulation devices must 
+be carefully assessed before entering the area. The security and exclusion zones are identified by 
+Zone signs conspicuously posted in the MRI facility. 
+Patient Management 
+Each patient must be thoroughly screened for pertinent medical history and conditions that may 
+contra-indicate scanning prior to performing any MRI examination. 
+Screening Procedure MRI facility personnel will complete a Magnetic Resonance Imaging patient history form. The 
+form should be completed in full and dated and signed as required. The patient screening form 
+should be scanned into EPIC and remain part of the patient's chart. 
+ Medical History: 
+Each patient should be evaluated for conditions, which may affect safety, and to assist in 
+determining study protocol. 
+Pacemaker /Implantable Cardiac Defibrillator Precautions: 
+Certain patients may suffer from dementia, etc. and may not be aware of having pacemakers or 
+other implants. These patients should be physically examined, and the upper torso palpated to 
+insure that these devices are not present. 
+ 
+ Dress: 
+To insure a metal free environment, the patient should change into examination clothing prior to 
+the MR exam. If a patient remains in street clothes the following guidelines should be adhered 
+to: 
+1. Remove all jewelry, watches, dentures, glasses, hearing aids, hair accessories, including hairpins 
+and barrettes, and shoes. 
+2. Check pockets for loose metal objects such as keys, pocketknives, pens, etc. 
+3. Check small children for safety pins and snaps on diapers, under shirts, etc. 
+ 
+Keeping Metal Objects Out 
+Always keep in mind that the magnetic field will attract any ferrous object. These objects can 
+become a flying projectile at tremendous speed, or even pin an adult to the equipment. An object 
+pulled by the magnet could possibly carry a person along with it. The potential danger of an 
+object varies according to several factors including the size, mobility and distance from the 
+magnet. A small movement closer to the magnet may make an otherwise harmless item 
+extremely hazardous.   
+     
+Precautions 
+To help avoid metal hazards in the magnetic field: 
+1. Warning signs will be placed at all entrances to zone 3. 
+2. Remove all metal or magnetic objects, including watches, keys, pens, hearing aids, purses, 
+magnetic credit cards, beepers, magnetic clipboards, electronic pagers, briefcases, hairpins, and 
+jewelry, etc. 
+3. Insure people with steel pins, artificial limbs, surgical clips or other metallic objects in their 
+bodies; do not enter the exam room. Use hand magnet to determine parts that are ferromagnetic 
+on objects that are primarily non-ferromagnetic such as stainless steel, aluminum, etc. before 
+allowing these items to enter the scan room. 
+4. Whenever there is doubt about the ferromagnetic properties of an item, keep the object away 
+from the magnet. Wheelchairs, and other mobile equipment should not be used in the corridor 
+near the magnet unless they are the non-ferrous equipment approved for the designated as MRI 
+equipment. Plant services, linen services, security and all other personnel who have need to enter 
+the MRI facility should receive adequate safety instruction prior to entering the area.  
+5. In the event an individual enters the magnetic field with a ferromagnetic item there are multiple ways to avoid injury including: 
+A. If the item is in the pocket, place hand over item and leave room. 
+B. If holding a large ferromagnetic object that is being pulled toward the magnet; let go of it 
+immediately, it is virtually impossible to stop the attraction of large objects to the magnet. 
+C. If object flies into the magnet opening, do not reach for it until the item stops moving, 
+such an object can fly through the magnet and hit someone on the other side. Always 
+avoid standing in the direct line from the scan room door to the magnet. 
+6. In the event that information as to whether or not an object is safe for high field magnets, The 
+Reference Manual for Magnetic Resonance safety, Frank G Shellock, Ph.D. should be 
+referenced. 
+   
+  
+     
+A. Transferring Patients 
+1. Since the magnetic field is always on, transferring patients, especially non-
+ambulatory patients, is more complicated with MR than other modalities. 
+2. Non-ambulatory patients should be transferred to an MRI compatible stretcher, 
+dockable MRI table, or MRI compatible wheelchair in Zone 2. The patient may 
+be transported into zones 3 and 4 once they have been properly screened, and 
+transferred to an MRI compatible stretcher, table, or wheelchair. 
+3. Conventional ferrous life support equipment cannot be taken into the scan room. 
+4. Ensure the transport locks are engaged before transferring the patients. Use 
+security straps and move side rails to vertical positions before unlocking 
+transport or moving patients on stretchers. For wheelchair or ambulatory 
+patients, the transport should be lowered completely and locked before the 
+patient is transferred to the transport. 
+A. Emergency Buttons 
+MRI personnel should become familiar with the location and function of the following 
+emergency buttons: 
+1. Emergency run-down: 
+This button is located on the wall near the magnet and should be used only in a 
+magnetic field emergency. Example: If someone is pinned against the magnet by 
+a heavy object. Pressing this button causes a quench of the static magnetic field 
+within two minutes basically. A quench is a reaction to heat which causes the 
+systems cryogen to boil-off rapidly. When this occurs, you will hear a loud 
+hissing sound. A magnetic quench results in several days of down time, so do not 
+try to test this button. Service personnel will perform this function. 
+2. Emergency Stop: 
+Press this button only if there is a patient emergency, magnetic field related 
+emergency or serious problem with the MRI system. Pressing this button 
+disables all electrical power forces near the patient.  
+B. Cryogen Emergencies: 
+For the magnet to operate correctly it must be filled with liquid helium and liquid nitrogen refrigerant called cryogen. The cryogens are kept at several 
+hundred degrees below zero and can cause frostbite. If they become too 
+hot, they can boil off, a dangerous situation that could lead to 
+asphyxiation. The cryogens are supplied in large vacuum containers called 
+dewars. For optimum safety, the cryogens should remain in the dewars at 
+all times. They should never be heated or tipped as handling can damage 
+the vacuum seal. For the same reason, never tamper with any of the 
+dewars valves.  
+If clouds of gas escape from a dewar, evacuate the area immediately. The 
+gas quickly displaces oxygen and people in the room may lose 
+consciousness in as little as 5 to 10 seconds. Also evacuate the area if 
+liquid seeps out of the containers. Never attempt to clean up the spill and 
+do not step in it.  
+If you see clouds near the magnet, an indication of a magnet quench 
+without venting, or if the oxygen monitor alarm sounds, evacuate the room 
+immediately. It is recommended that Medical Center personnel avoid the 
+exam room when a Service Engineer is refilling cryogens in the magnet. If 
+you are present, ensure that you have proper gloves, face shields and even 
+ear protectors. The Service Engineer should be notified immediately 
+whenever a problem is encountered with cryogens or the area is evacuated.  
+When a condition occurs that the magnet is quenched, re-booting of the 
+system can only be done by a qualified service engineer dispatched by the 
+manufacturer to the site. 
+S. First Aid: 
+Move anyone suffering from asphyxiation to an area with normal 
+atmosphere immediately. Have supplemental oxygen available in case a 
+patient is not breathing. Beware that exposure to cryogens or cryogen 
+vapors could cause extensive tissue damage or burns. For effective burn 
+treatment, flush affected area with large volumes of tepid (105-115 
+degrees Fahrenheit, 41-46 degrees Celsius) water to reduce the risk of 
+freezing. Cover the area with sterile protective dressing or clean sheets, if 
+a large area, protect the burn from further injury. Notify physician 
+immediately. A copy of the following emergency procedure review will be 
+posted near the cryogen room for quick reference in the event of an 
+emergency. 
+Additional safety information may be found in the operator manuals that 
+accompany each MRI system. 
+Patient Emergencies 
+In the event of a patient emergency a staff member will initiate the patient emergency response 
+team. Designated MRI personnel will use the MRI compatible stretcher, or dockable table to 
+transfer the patient from the MRI suite to a safe area where the emergency response team can 
+respond to the patient emergency. Non MRI personnel will not be allowed to enter the MRI suite 
+during a patient emergency. Once the patient has been removed from the MRI suite the door will 
+be closed and secured.  
+  
+Acoustic Noise 
+  Hearing protection is available and will be offered to anyone entering the MRI suite during   image acquisition.   
+ 
+MRI Medical Director: 
+  The designated medical director for Imaging Services will serve as the MRI Medical Director.  
+ 

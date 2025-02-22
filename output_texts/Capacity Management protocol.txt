@@ -1,0 +1,499 @@
+St. Elizabeth Hospital Capacity Management Protocol  
+Effective Date 8/1/2016 
+  
+Purpose:  To establish a hospital-wide approach to maximize capabilities in response to patient 
+influx /surge, or hospital at full capacity with admission holds as defined in box 
+below. 
+Protocol: The protocol will utilize an objective measure that will automatically activate a 
+response. This policy is designed for rapid notification and implementation of 
+guidelines to be referenced by all departments to decrease times patients are waiting 
+for inpatient placement.   
+ 
+DEFINITIONS: 
+ Overcrowding/Capacity Management 
+Overcrowding:      Patient volume / acuity that surpasses the available resources requiring short-term 
+assistance within the Department. 
+Capacity management:  An organized response to volume demand. 
+ 
+NEDOC score 141 or above:      
+I. PROTOCOL FOR ED Capacity Management ACTIVATION: 
+1. The E.D. Manager or designee identifies the criteria has been met and is necessary to activate 
+capacity management protocol.  
+2. The E.D.Manager or designee will consult with the E.D. Physician and the House Supervisor to 
+evaluate the need for activation of the Capacity Management protocol.  
+3. The E.D. Manager or designee in partnership with Medical Director, will determine need for 
+implementing alternate staging areas to maximize throughput and patient safety. (refer to ED 
+staging section) 
+4. Upon activation the House Supervisor or designee will notify the CNO or designee and activate 
+the Capacity Management Protocol  
+5. If after hours, the House Supervisor will notify as appropriate to affected areas: 
+i. CNO/VP Nursing 
+ii. Assistant VP of Patient Care Services 
+iii. Nursing Managers / Directors 
+iv. Divisional Director of Ancillary Services 
+This is a guide for the House Supervisor in collaboration with charge nurses to determine a units 
+ability to manage overcrowding. Utilize NEDOC = National Emergency Department Overcrowding 
+Score.  Calculate ED score when ED is holding patients. http://providers.otddi.com/h3/index.php/2012-11-
+06-16-50-56/nedocs-calculator 
+ 
+00 to 20 Not busy  21 to 60 Busy 61 to 100 
+Extremely busy but 
+not overcrowded 
+101 to 140 Over-
+crowded 
+141 to 180 
+Severely over-
+crowded 
+181 to 200-
+Dangerously over-
+crowded 
+ 
+▪ Any unusual event defined as multiple codes, trauma, massive influx of patients  
+▪ In the event of massive surge/influx of patients due to an outside event Emergency Plan will 
+be activated. 
+▪ PACU unable to place patients and holding 4 patients.  Unable to move patients from surgical 
+suite to PACU. 
+▪ Inpatient critically high census refer to census action plan (Appendix A). 6. Departmental Leaders and/or designees will report to a pre-determined command center CNO 
+office or individually affected unit as indicated by the House Supervisor. 
+7. Briefing will be conducted by the House Supervisor/ Manager/Director or Charge RN and/or 
+designee.   
+8. Briefing communication will include the following: 
+i. Number of patients holding for a bed 
+ii. Diagnosis, type of bed needed, and any special needs. 
+iii. Volume and Acuity of E.D. 
+iv. Potential future admissions / incoming arrival of patients 
+v. Staffing needs 
+vi. Status of PEC’s 
+vii. Other identified needs 
+9. Capacity Management will be reviewed and updated every 2 hours.  
+ 
+II. Departmental Role Responsibilities:  
+1. House Supervisor and/or designee: 
+a. Serve as Command Center (CC) maintaining all incoming communication during 
+Capacity Management activation. 
+b. Update leadership team on status of hospital to include the following: 
+i. Current hospital census 
+ii. Overcrowding status of ED/ICU/PACU 
+iii. Status of closed beds 
+iv. Status of placement 
+v. Status of monitored beds 
+vi. Status of pending discharges/incoming transfers 
+vii. Current status of staffing  
+c. Monitor throughput of inpatient discharges / transfers. 
+i. Discharge or Transfer to occur within 1 hour of written order. 
+ii. If greater than one hour, house supervisor contacts unit charge nurse to inquire 
+iii. Directs additional resources as needed i.e. staffing, transportation, discharge 
+hold unit. 
+iv. Facilitates problem-solving as needed  
+2. CNO/Designee : 
+a. Coordinate communication with attending physicians/hospitalist regarding need for 
+bed availability. 
+b. Determine needs for opening closed inpatient beds or discharge unit facilitating 
+throughput. 
+c. Coordinate with Staffing Coordinator/House Supervisor on staffing needs for opening 
+closed beds. 
+d. Determine need for inpatient float nurse to manage admissions. 
+e. Assist with problem-solving issues or obstacles interfering with throughput and or 
+delivery of patient care. 
+f. Cancel all non-mandatory meetings. 
+3. Staffing Coordinator/House Supervisor:  
+a. Evaluates immediate staffing for all patient care areas and communicates to the 
+appropriate nurse leader. 
+b. Initiates appropriate measures to ensure that all units are staffed accordingly, identifies 
+staffing needs, and seeks out additional resources as needed.  
+c. Utilizes the Emergency Operations Plan STELEC 400 for staffing guidelines. d. Anticipates staffing needs for the next 48 hours and works to flex staffing to 
+accommodate surge in census. 
+e. Determine other clinical resources i.e. education, infection control, quality that may be 
+redirected to the bedside. 
+f. House supervisor will be responsible for patient throughput taking into consideration 
+the needs of the patient.  i.e. ICU patients holding in ED with ICU at capacity, triage 
+will be done to determine best unit to manage the critical patients. 
+4. Inpatient Units: 
+a. Bed ahead communicated with house supervisor. 
+b. Nursing units will complete discharge within 1 hour of written order.  
+c. Customer Service Representatives (CSR) /Monitor Techs will communicate 
+pending/actual discharges to the Command Center. 
+d. Nursing Units will take “hand-off” report immediately upon patient assignment to 
+available inpatient bed. 
+e. Nursing Units may be asked to transport patients to assigned unit.   
+5. Hospital Team Members: 
+a. All staff (i.e. Administrative, Nursing, and Ancillary, Non-Clinical) maybe requested 
+to assist beyond scheduled hours to assist in meeting patient care needs. 
+b. Non-mandatory meetings and classes may be cancelled to allow team members to 
+assist with patient needs. 
+6. Hospitalist and Consultants: 
+a. Case Manager/designee communicates needs with physicians. 
+b. Physician will prioritize discharges. 
+c. Hospitalist and Case Management collaborate regarding status of pending discharges 
+and reasons for delay. 
+d.  Re-evaluate every hour. 
+7. Case Management:   
+a. Identify patients meeting criteria for discharge or transfer. 
+b. Facilitate potential discharges and resolve discharge delays. 
+c. Contact physicians as needed to expedite pending discharges. 
+d. Communicate status of discharges hourly to the House Supervisor/designee. 
+e. Facilitate “Discharge Holding Area” for stable discharges needing minimal to no 
+assistance. 
+8. Surgical Services: 
+a. If volume permits contact ED to determine need for additional stretchers. 
+b. Assess availability of staff to float high capacity areas or assist with patient 
+throughput. Advise House supervisor of available staff. 
+c. House supervisor will advise staff report to the appropriate unit for assignments. 
+i. Team member will not be assigned patients unless team member has 
+completed cross training and competency in the unit assigned. 
+ii. Administration of medications 
+iii. Initiation of intravenous starts (IV) 
+iv. Transport patients to the Admission Hold Area, inpatient bed 
+v. Transport patients upon discharge to the front lobby 
+vi. Assist with other procedures and/or patient care as deemed appropriate. 
+9. Environmental Services:  
+a. Prioritizes room cleaning for admitting patients. 
+b. Utilizes electronic bed system to communicate beds cleaned. 
+c. Prioritize rooms to be cleaned with the house supervisor. d. Expedite cleaning of any available inpatient bed. 
+e. Re-assign EVS team members to areas of high priority.   
+f. EVS team members assigned to the ED should report to the unit clerk with name / 
+contact information, and assist with turnover of ED rooms upon discharge.  
+10. Laboratory Services: 
+a. Responsible for ensuring all ED lab tests are given priority for completion.   
+b. Additional staffing will be assessed and implemented by the divisional director of 
+ancillary services. 
+c. Assign phlebotomist to the ED to assist with managing venipuncture and blood 
+culture’s. 
+11. Radiology Services: 
+a. Notifies Radiologist of Capacity Management.  
+b. Additional staffing will be assessed and re-allocated by the divisional director of 
+ancillary services. 
+12. Respiratory Service: 
+a. Staffing will be assessed and re-allocated by the divisional director of ancillary 
+services. 
+13. Security representative: 
+a. Maintains stationed at entrance into ED, maintaining a controlled environment. 
+b. Provides assistance to incoming visitors as needed. 
+c. Coordinates visiting privileges with the charge nurse. 
+d. Responsible for the managing crowd control limiting visitors of 2 per patient room 
+with direction of the ED charge nurse. 
+14. Food and Nutrition: 
+a. Coordinating with CSR to meet nutritional needs for patients. 
+b. Assures delivery of food is provided in a timely manner. 
+15. Materials Management: 
+a. Assess the need for additional equipment needed to accommodate high volume in 
+patients.  i.e. IV pumps, stretchers 
+b. Provide additional supplies and/or re-stock as needed. 
+16. Pharmacy: 
+a. Assess the need for additional supplies/medications/IVF needed to accommodate high 
+volume in patients.  
+b. Provide additional supplies and/or re-stock as needed. 
+17. Team Members Reporting for assistance: 
+a. Report to the CSR or charge nurse for check-in and assignment. 
+b. Receive assigned resource person for partnering in delivery of patient care activities 
+(see appendix b) 
+c. Report off to resource person upon completion of assignment and/or returning to home 
+unit. 
+18. Emergency Department Staging Schematic: 
+a. Rapid Treatment area open. 
+b. Staging areas for triage will take place to facilitate the separation of the worried-well 
+and those will minor illnesses/injuries to accommodate incoming patients with higher 
+acuity needs. 
+c. “Initial Quick Triage” (IQT) will take place at the entrance of the Emergency 
+Department where an ED RN will complete a brief visual assessment, chief c/o to 
+determine if any critical / emergent needs in completing the Triage Screening Tool. 
+(See attached document). d. Triage a (color coded yellow) will be the Triage Room where all incoming higher 
+acuity level patients are directed by the IQT. 
+e. Triage B (color coded green) will be the Outpatient Surgery/ICU Waiting room area 
+where all non-acute patients will be directed 
+f. Patients are assigned to the appropriate treatment area based upon their presenting 
+acuity level and availability of beds.  
+g. Triage B (color coded green) RN will reassign patient to main ED based upon acuity 
+as needed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References: 
+ACEP Crowding Resources Task Force. Responding to Emergency Department Crowding: A 
+Guidebook for Chapters. American College of Emergency Physicians 2002 
+JCAHO:  Comprehensive Accreditation Manual for Hospitals 2006. Standard LD.3.15. 
+JCAHO:  Comprehensive Accreditation Manual for Hospitals 2006. Standard LD.3.20. 
+Vicellio, P. Emergency Department Full Capacity Protocol. Stony Brook University Hospital and 
+Medial Center, State University of New York.  Available at 
+www.hospitlovercrowding.com/policyFCPword.doc.  
+ 
+NEDOC calculator example: http://providers.otddi.com/edwin/nedocs_calc.html 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reviewed/Revised 8/26/2016 added relieve 1:1 sitter for RN/LPN and C N A 
+12/2017 no change 
+07/21 no change 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+                      Appendix A 
+Census Action Plan 
+CENSUS LEVEL INDICATORS  ACTIONS:  Note when at Critically High Census all plans in force. 
+Critically High @ Capacity  
+54-57+ patients 
+• No Available Critical 
+Care Beds  
+• ED Holds, PACU 
+Holds 
+• Local Mass 
+Casualty/Disaster 
+Event  
+• Jan-Mar 
+ 
+• Reassign all clinical staff not working in direct patient care to support 
+patient care staff.   
+• Managers/Directors providing patient care, completing discharges and 
+admissions. 
+• Personnel lists actively managed by staffing coordinator. 
+• Implement premium pay policy. 
+• Ops (RT, EVS, FANS, Mat Man, Lab, Radiology, Pharmacy) included in 
+Huddle 
+• Consider admission of patient in holding location within 8 hours of hold 
+time (could be completed by house supervisor, manager, director, 
+nonclinical RN staff, RN) 
+• Consider implementing discharge hold area. 
+• Determine staffing to assist in opening any closed beds. 
+• Discourage scheduled PTO   
+•  If PACU or ED is holding ICU patients determine appropriate staffing and 
+appropriate holding unit. (see page 3)                                                                
+• Over 57 all RN/LPN in nonclinical roles are expected to contribute at least 
+one hour of time in a clinical area. 
+• Recognize team members for going above and beyond with walking 
+rounds. 
+High Census, Near Capacity 
+51-53 patients 
+• Limited Available 
+Critical Care Beds 
+• ED Bed Holds, PACU 
+holds  
+  
+  
+  
+  
+  
+ 
+• 9:30 a Daily Rounds (includes staffing review)  
+• Communicate needs to NLC after daily rounds. 
+• 1 pm Huddle 
+• Consider admit nurse or discharge holding unit. 
+• Consider reassignment of clinical staff not working in direct patient care to 
+support patient care staff.  
+• Mid-day rounds 
+• Engage Director of Hospital Medicine, ICU, and ED manager 
+• Maximize case management  
+• Review/cancel non-essential events (meetings, IT maintenance)  
+• Review scheduled PTO 
+• Active Supply Management 
+• Notify FANS and EVS 
+• Contact OLOL bed placement to advise 
+Optimum 41-50  
+• 9:30 a Daily Rounds 
+• 1 pm Huddle 
+• House  Supervisor Round Every 2 hours (minimum) 
+Moderate 31-40 
+• April - December   •  Normal Operations as above 
+• Determine staffing per target HPPD 
+Critically Low below 30   • Normal Operations • Manage flexing off staff, consider cross training 
+• Manage supplies to volume   
+ 
+           Appendix B 
+Assignments for Capacity Management 
+ 
+ 
+Clinical: RN/LPN Clinical:  
+Nursing Assistants 
+Non-Clinical 
+ 
+➢ Initiate IV starts with drawing 
+rainbow lab tubes 
+➢ Assist with vital signs ➢ Assist with answering 
+phones 
+➢ Assist with admission 
+assessment (RN) or profile 
+(LPN) 
+➢ Consider staffing holding 
+area 
+➢ Pass water and ice 
+➢ Place patients on cardiac 
+monitors, NIBP cycle every 
+30min-1hr, asst with vital 
+signs 
+➢ Asst Accu-checks ➢ Assist answering patient call 
+lights 
+➢ Place patients on Pulse 
+Oximetry 
+➢ Assist with Cleaning / 
+turnover of rooms, general 
+tidiness and trash 
+➢ Assist with cleaning / 
+turnover of rooms, general 
+tidiness and trash 
+➢ Administer medications as 
+ordered 
+➢ Assist with bedside 
+procedures  
+➢ Assist family and visitors as 
+needed 
+➢ Assist with transporting 
+admission 
+➢ Transport admissions ➢ Provide comfort needs such 
+as warm blankets, ice bags 
+➢ Assist with discharges ➢ Transport discharges ➢ Provide TLC-sit with a 
+patient, offer prayer 
+➢ Educate Patients and families ➢ Assist patients to bathroom ➢ Pass linen 
+➢ Assist with cleaning / turnover 
+of rooms 
+➢ Rounding on patients 
+(4P’s) 
+ 
+➢ Assist with placing patients 
+from triage to assigned ED 
+rooms 
+➢ Provide TLC-sit with a 
+patient, offer prayer 
+ 
+➢ Rounding on patients (4P’s) ➢ Pass water and ice  
+➢ Ambulate patients ➢ Ambulate patients  
+➢ Pass water and ice ➢ Offer spirometry  
+➢ Assist with Accu-checks ➢ Assist passing trays and 
+feeding patients 
+ 
+➢ Offer spirometry ➢ Assist with baths, pass 
+linen 
+ 
+➢ Assist passing trays and 
+feeding patients 
+➢ Relieve 1:1 sitter  
+➢ Assist with baths, pass linen   
+➢ Nurse leader conduct leader 
+rounding (Appendix C) 
+  
+➢ Relieve 1:1 sitter   
+Name: ___________________________ Resource: ___________________________ 
+Clinical / Non-Clinical (circle one)                 From: Dept.: _____________  
+ 
+ 
+ 
+           Appendix C 
+ 
+Rounding Script 
+ 
+Leader Round questions: 
+Ask nurses station if there are already any known concerns and let the team know you will be rounding.  
+1. When entering patient room: Introduce yourself and explain why you are there.  
+2. Let the patient know that their satisfaction is important to us and that we want to make sure that they are 
+having a great stay. 
+3. Ask if there are any issues/concerns with the stay or if they have any questions about their care.  
+4. Ask if they are being rounded (leaders, nurses, MDs) on regularly. 
+5. Ask if there is anyone who has done a great job you can recognize.  
+6. Ask if there is anything you can do for them right now to make their stay more comfortable.  
+7. Address visitors: Ask if they are finding their way around and if their needs are met (blankets, pillows, 
+etc. are common requests) 
+8. Wish the patient well and exit room. 
+9. Notify nursing team of any concerns or outstanding requests. 
+While in patient room:  
+*Observe-white boards, cleanliness, take trays out, see if they need water etc… (for equipment concerns, submit 
+work orders; for concerns about insurance/facility changes, inform case management)  
+*Also look for missing crucifixes and clocks and replace. 
+Finally advise the team of any recognition (good and bad) 
+*If there was anything outstanding get a Daisy nomination for RN and SPOT for others.  
+ 
+ 
+  
+Emergency Department 
+Patient Surge/Admit Hold 
+ Tracking Form 
+ 
+Patient List 
+MRN # 
+Age & 
+Gender 
+ER 
+ Acuity 
+Admit Diagnosis Unit 
+Requested 
+Special Needs Assigned 
+Unit/RM # 
+ 
+ 
+      
+ 
+ 
+      
+ 
+ 
+      
+ 
+ 
+      Emergency Department 
+Patient Surge/Admit Hold 
+ Tracking Form 
+ 
+  
+ 
+ER Census 
+q30mins 
+# Vents 
+Longest admit 
+time (in hrs) 
+Total pts with 
+admit orders 
+Wait time for 
+last patient 
+called 
+NEDOC 
+SCORE 
+Additional 
+Staff 
+Assigned 
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+ER PEC Pt List 
+MRN # 
+Age & 
+Gender 
+Monitor 
+Risk level 
+ER  
+Room # 
+ 
+Placement/ 
+Transfer 
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     

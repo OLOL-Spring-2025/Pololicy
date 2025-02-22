@@ -1,0 +1,233 @@
+NNA-089 
+Page 1 of 5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Nursing Administration 
+Title: Sedation for Procedures 
+Policy 
+Reference #: NNA-089 
+Supersedes #: 2000 
+Date of Origination: May 2000 Review Date:  December 27, 2023 
+Revision Date:  January 22, 2024 
+ 
+PURPOSE: 
+To provide parameters for the administration of medication and monitoring of patients receiving 
+sedation in accordance with the Louisiana State Board of Nursing Declaratory Statement on the Role 
+and Scope of practice of the Registered Nurse during procedural sedation and to assure a uniform quality 
+of care for these patients occurs throughout the hospital. 
+    
+POLICY: 
+Only a Registered Nurse with Advanced Cardiac Life Support (ACLS), moderate/deep sedation training 
+and competency may administer medications for the purpose of moderate sedation and monitoring deep 
+sedation for adult patients.  Only a Registered Nurse with Pediatric Advanced Life Support (PALS), 
+Emergency Nurse Pediatric Course (ENPC), or Neonatal Resuscitation Program (NRP) and 
+moderate/deep sedation training and competency may administer medications for the purpose of 
+moderate sedation and monitoring deep sedation for pediatric patients.  The adult patient shall meet the 
+American Society of Anesthesiologists (ASA) criteria for ASA Class III or below, and a pediatric 
+patient shall be ASA Class II or below. ASA Class is assigned by the physician performing the 
+procedure.  It is within the scope of practice for a registered nurse to administer non-anesthetic 
+medications as ordered by the physician.  It is not within the scope of practice for the registered nurse to 
+administer an anesthetic agent for any level of sedation. 
+ 
+This policy is not intended to prohibit registered nurses from administering propofol (Diprivan) to 
+intubated, ventilated patients in a critical care setting.  A registered nurse may administer anesthetic 
+agents to intubated patients in a critical care setting and may titrate and continue infusion of local 
+anesthetic agents through the use of epidural catheters for pain management, in accordance with the 
+Administrative Procedure Act. 
+ 
+Initial competency and annual competency are required for the registered nurse administering and 
+monitoring of patients during levels of sedation.  
+ NNA-089 
+Page 2 of 5 
+The below table is a quick reference guide for monitoring and administering medications per ASA 
+classifications. 
+ 
+ASA classification 1 2 3 4 5 
+Pediatric moderate 
+sedation           
+RN may monitor Y Y Y Y Y 
+RN may administer meds Y Y N N N 
+            
+Pediatric Deep Sedation           
+RN may monitor Y Y N N N 
+RN may administer meds N N N N N 
+            
+Adult moderate 
+sedation           
+RN may monitor Y Y Y Y Y 
+RN may administer meds Y Y Y N N 
+            
+Adult Deep Sedation           
+RN may monitor Y Y Y N N 
+RN may administer meds N N N N N 
+ 
+ 
+The Joint Commission (TJC) revised its standards for sedation and anesthesia care, effective 
+January 1, 2001. “The standards for sedation and anesthesia care apply when patients receive, in 
+any setting, for any purpose, by any route moderate or deep sedation as well as general, spinal, or 
+other major regional anesthesia. Definitions of four levels of sedation and anesthesia include the 
+following: 
+ 
+ 
+1. Minimal Sedation (Anxiolysis) - A drug induced state during which patients respond normally to 
+verbal commands.  Although cognitive function and coordination may be impaired, ventilatory and 
+cardiovascular functions are unaffected. 
+ 
+2. Moderate Sedation (Conscious Sedation): A drug-induced depression of consciousness during which 
+patients respond purposefully to verbal commands, either alone or accompanied by light tactile 
+stimulation.  No interventions are required to maintain a patent airway, and spontaneous ventilation 
+and cardiovascular function is adequate. The patient maintains his or her protective reflexes and it 
+able to communicate verbally. There are minimal variations in the vital signs. 
+ 
+3. Deep Sedation/Analgesia: A drug-induced depression of consciousness during which patients cannot 
+be easily aroused but respond purposefully following repeated or painful stimulation. The ability to 
+maintain an airway and spontaneous respiration may be inadequate.  Cardiovascular function is 
+usually maintained. 
+ 
+4. Anesthesia-A drug induced loss of consciousness during which patients are not arousable, even by 
+painful stimulation.  The ability to independently maintain ventilatory function is often impaired.  NNA-089 
+Page 3 of 5 
+Patients require assistance in maintaining a patent airway.  Cardiovascular function may be 
+impaired. 
+ 
+SPECIAL INSTRUCTIONS: (prior to sedation being administered) 
+1. The Physician is responsible for the completion of pre-procedure History and Physical and 
+obtaining informed consent for the planned procedure prior to the administration of sedation and 
+initiation of the procedure. 
+2. Physician evaluates and documents in electronic medical record or the Moderate/Deep Sedation 
+Progress Record form # NS-305 the appropriateness for the level of sedation and anesthesia planned 
+and discusses and documents the risks, benefits and alternatives with patient. 
+ 
+PROCEDURE GUIDELINES: 
+1. A pre-procedure checklist is completed and documented in the electronic medical record.  During 
+computer down time the form Pre-op/Procedure Checklist & Final Pause Verification (NS-27A&B) 
+must be used.  The pre-procedure verification occurs with the patient involved, awake and aware, if 
+possible.  Ensure the physician marks the surgical site, when applicable.  
+2.  Time-Out by the entire team participating in the procedure must be performed utilizing active 
+communication techniques and documenting in accordance with Universal Protocol Policy 
+(OrgClin/040). 
+3. The registered nurse assigned to sedate and/or monitor the patient shall have no other 
+responsibilities that would leave the patient unattended or compromise continuous monitoring. 
+4. Intravenous access is required prior to the administration of moderate sedation or as deemed 
+appropriate by the authorized prescriber. 
+5. Oxygen should be administered if a patient's O2 saturation drops lower than 92%. 
+6. Capnography shall be utilized to monitor end tidal carbon dioxide level. 
+7. Drapes should be arranged to minimize oxygen build-up beneath the drapes if open supplemental 
+oxygen is given and any ignition sources are being used, (i.e., electrosurgery devices, lasers, light 
+sources, etc.), as a fire prevention measure. 
+8. If electrosurgery may be utilized, the patient shall be assessed for contraindications and grounding 
+requirements. 
+9. Evaluate and omit open supplemental oxygen for head and neck procedure whenever possible as a 
+fire prevention measure. 
+ 
+ 
+ 
+Nothing By Mouth Status – Adult and Pediatric  
+The following Nothing By Mouth (NPO) restrictions will apply unless documented by the physician that 
+the procedure must be done on an emergency basis and NPO status is specifically waived. The final 
+decision is at the provider’s discretion who has sedation privileges to overrule the ASA guidelines for 
+moderate sedation only, not for general anesthesia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ NNA-089 
+Page 4 of 5 
+ 
+NPO Guidelines for General Anesthesia/MAC/Moderate Sedation 
+ 
+ 
+Ingested Material 
+ 
+Minimum Fasting Period 
+Clear liquids 2 hours 
+Human milk (Neonates and 
+Infants) 4 hours 
+Solids/ Light Meal/Infant Formula 6 hours 
+More than a Light Meal (Fried, 
+Fatty, or Meat)  8 hours 
+ 
+1. These recommendations apply to healthy patients who are undergoing elective procedures.  They 
+are not intended for women in labor.  Following the guidelines does not guarantee a complete 
+gastric emptying has occurred. 
+2. The fasting periods noted above apply to all ages 
+ 
+PATIENT ASSESSMENT: 
+1. Each patient receiving sedation will be assessed by the physician and registered nurse before the 
+procedure and findings documented in the medical record.   
+2. Pre-procedure assessment and documentation includes but is not limited to: 
+▪ Cardiac rate and rhythm 
+▪ Blood pressure 
+▪ Respiratory rate 
+▪ End-tidal carbon dioxide by capnography 
+▪ Oxygen saturation 
+▪ Level of Consciousness 
+▪ Nothing By Mouth Status. 
+▪ Pain assessment 
+▪ Allergies 
+▪ Chronic use of opioids/cannabis 
+▪ Sleep apnea 
+▪ Aldrete Score 
+ 
+EQUIPMENT: 
+The following equipment must be available and functional with all alarms on and audible: 
+▪ Oxygen flow meter and size-appropriate oxygen mask or nasal cannula 
+▪ Suction set-up and yanker 
+▪ Capnography 
+▪ Pulse oximeter for continuous monitoring 
+▪ Blood pressure equipment 
+▪ Appropriate crash cart with defibrillator 
+▪ EKG monitor 
+▪ Appropriately sized ET tubes, laryngoscope and blades 
+▪ Oral and nasal airways 
+▪ Mask and Ambu bag 
+▪ Reversal agents NNA-089 
+Page 5 of 5 
+ 
+MONITORING AND DOCUMENTATION: 
+1. Each of the following should be assessed as a baseline, monitored during the procedure, and 
+documented every 5 minutes or more frequently as required  
+by patient condition or administration of medication during the procedure. 
+▪ B/P (as indicated for pediatric patient) 
+▪ Cardiac rate and rhythm 
+▪ Respiratory rate 
+▪ Oxygen saturation 
+▪ End-tidal carbon dioxide by capnography 
+▪ Level of Consciousness 
+▪ Cap refill for pediatric patient 
+▪ Pain level 
+▪ Aldrete Score 
+2. Documentation will include but is not limited to the above.  
+ 
+POST – PROCEDURE:     
+1. The RN will monitor vital signs and other parameters (capnography not required) at a minimum 
+every 15 minutes until vital signs and status return to safe physiological and psychological levels 
+according to the Aldrete scoring system, (a score ≥ 8), pre procedure Aldrete score, or until directed 
+by physician to discontinue monitoring.  
+2. There will be a minimum of 30 minutes of observation by a qualified/competent RN following the 
+last dose of sedative and/or narcotic.  The patient may be transferred to a unit with the same level of 
+care or a unit with comparable monitoring capabilities during this 30-minute window of time.  
+3. If an antagonist (reversal agent) was given, the patient must remain in the hospital for at least 2 
+hours after the reversal is given and once the discharge criteria is met.  If a reversal agent is given 
+the nurse must submit a safety event utilizing the hospital’s safety event reporting software. 
+4. Post-procedure instructions must be given to a responsible designated adult. Criteria for discharge 
+home will be determined by unit specific discharge criteria and in accordance with the policy 
+Discharge Criteria: Patient Receiving Anesthetic Agents (NPC-123) 
+ 
+ 
+ 
+REFERENCES: 
+Association of Nurse Anesthesiology. 2023. Non-anesthesia provider procedural sedation and 
+analgesia: Position statement and policy considerations. 1-13.  
+ 
+Williams, K., 2022. Guidelines in Practice: Moderate sedation and analgesia. AORN Journal. 115.6. 
+554-564.   
+ 
+Louisiana State Board of Nursing, Declaratory statement on the role and scope of practice of the 
+Registered Nurse in the administration of medications and monitoring of patients during levels of 
+sedation. Revised 4/09/2015. 
+ 
+AORN Guidelines for Perioperative Practice, 2021. 
+ 
+The Joint Commission Standards Universal Protocol, 2021.  

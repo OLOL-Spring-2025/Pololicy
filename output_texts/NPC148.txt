@@ -1,0 +1,290 @@
+ 
+ 
+ 
+ NPC148 
+Page 1 of 6 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: PATIENT CARE SERVICES  Section: Patient Care 
+Title: 
+Ordering a Wearable Cardioverter-
+Defibrillator/ Care of the Patient with a 
+Wearable Cardioverter-Defibrillator 
+Policy Reference #: NPC148 
+Supersedes #:  
+Date of Origination: September 16, 2014 Last Date Reviewed:  September 26, 
+2024 
+Last Date Revised: September 7, 2022 
+ 
+PURPOSE:   
+This policy outlines the process of care for the patient prescribed a wearable cardioverter-
+defibrillator (WCD), which is used as a treatment option for patients evaluated for risk of sudden 
+cardiac arrest (SCA).  
+ 
+DEFINITIONS: 
+As a cardioverter, the WCD uses low-energy electrical shocks to return a heart, exhibiting 
+ventricular tachycardia (abnormally rapid heart rhythm), to a normal rhythm.  As a defibrillator, 
+it uses high-energy shocks to a heart, in a state of ventricular fibrillation, to return it to a normal 
+rhythm.  The WCD comprises wearable and nonwearable parts.  The wearable parts are the 
+monitor, battery pack, alarm module, electrode belt, vest, and holster. The vest, worn under 
+clothing, detects arrhythmias and delivers treatment shocks when detecting life-threatening 
+arrhythmias, such as Ventricular Tachycardia. The non-wearable parts are the battery charger, 
+modem, modem cable, computer cable, a secure internet website that maintains patient 
+information, and a diagnostic tester.  The monitor is worn around the waist or from a shoulder 
+strap and continuously monitors the patient’s heart. 
+ 
+POLICY: 
+It is the policy of Our Lady of the Lake Regional Medical Center that the WCD device is 
+provided, per physician order , for the individual patient as deemed necessary to avoid  risk of 
+sudden cardiac death ( post cardiac arrest, CABG or stent placement, cardiomyopathies, and 
+CHF) 
+ 
+PROCEDURE: 
+ 
+1. Typical criteria for use is the patient who has indications for an ICD implant, but who’s 
+condition delays or prohibits immediate implantation pending evaluation. 
+ 
+Once the need has been established a medical management consult order must be secured with 
+the following information:  reason for the consult (WCD), length of service (usually in months), 
+and the physicians NPI number.  The medical management team will then contact the WCD 
+company and provide them with the correct documentation. 
+  
+ 
+ 
+ NPC148 
+Page 2 of 6 
+ 
+1. The WCD is ordered for the individual patient as per physician’s orders and applied 
+according to manufacturer instructions.  The vest is applied to the patient with the 
+attachment of the battery after vest is in place by the clinical representative. (See 
+attached). Patient education and agreement for use of the WCD is then signed and a 
+copy left in the chart. 
+ 
+2. Once obtained, the WCD is always worn by the patient, except during a brief shower 
+or bath.  
+  
+The patient and family must be informed and demonstrate understanding of the 
+method of applying the vest, cleaning the vest, communicating information regarding 
+arrhythmias while the vest is worn, and all alarms.  The WCD clinician will ascertain 
+understanding post teaching, and the patient will sign an acknowledgement of 
+education and understanding received. 
+ 
+ 
+3. How to proceed should a patient with a WCD detect a life-threatening arrhythmia: 
+ 
+Before delivering a shock, the WCD will test to see if patient is alert/conscious by 
+providing the patient the opportunity to PRESS AND HOLD the response buttons to 
+prevent a shock. ONLY THE PATIENT is to press. The patient may feel a vibration, 
+along with alerts and voice prompts, to avoid a shock.  
+ 
+The time to treatment will vary between 25-60 seconds, depending on the type and 
+rate of the arrhythmia, and whether the patient has responded to the prompts.  
+ 
+The vest will warn bystanders with both a siren alert and a voice command stating, 
+“Electrical shock possible, do not touch patient” or “Bystander do not interfere” 
+before a shock is delivered. 
+ 
+To avoid incidental shock, emergency personnel should not touch the patient while a 
+shock is being delivered.  
+ 
+The WCD will release a Blue Gel, prior to shock treatment, to improve conduction 
+and mitigate burning. The gel should remain on the patient if an additional shock is 
+required.  
+ 
+Should the patient: 
+a) Not have a successful arrhythmia conversion, emergency personnel may start 
+ACLS. Disconnect the monitor from the electrode belt, wash off the gel with 
+water, apply factory cardioversion/defibrillation pads and resume CPR. You do 
+not need to remove the vest. 
+ 
+b) Have a successful cardioversion/defibrillation of his initial rhythm, leave vest on, 
+and have patient seen by his physician.  
+ 
+ 
+ NPC148 
+Page 3 of 6 
+ 
+ 
+4. Alarm types and responses indicated: 
+ 
+Silent or Gong Alarm (Single 
+tone) 
+Siren Alarm (Two Tone) Siren Alarm (Two Tone) 
+(device testing for patient 
+consciousness) 
+Voice:   
+• None device silent 
+• “Contact physician” 
+• “Treatment has been given, call 
+your doctor” 
+Voice: 
+• “If patient is not 
+responsive, call for help, 
+perform CPR” 
+• “Device disabled, call 
+Code 0” 
+Voice: 
+• “Press response button to 
+delay treatment” 
+• “Electrical shock possible 
+– DO NOT TOUCH 
+PATIENT” 
+• “Bystanders do not 
+interfere” 
+Status: 
+• Device is monitoring the patient 
+• Device may be alerting the 
+patient to follow instructions on 
+the screen 
+Status: 
+• Device cannot detect 
+EKG or the device has 
+delivered the maximum 
+number of treatments 
+Status: 
+• Device has detected a 
+ventricular arrhythmia 
+• Device is preparing to 
+treat the patient 
+• Shock likely 
+• Stop CPR 
+• Only the patient should 
+press the response buttons 
+(patient consciousness 
+test) 
+• Do not touch patient 
+• Allow device to treat the 
+patient 
+Shen siren alarm stops or “if 
+patient is not responsive, call for 
+help, perform CPR” is broadcasted 
+Note:  During CPR battery must be disconnected to avoid any chance of unintentional shock to patient or 
+healthcare provider. 
+Proceed to monitor mode instructions below 
+Monitor Mode Instructions: 
+• Proceed with standard evaluation and treatment measures. 
+• CPR can be performed if the device is not broadcasting “press the response buttons”, 
+“electrical shock possible, do not touch patient”, or “bystanders do not interfere”. 
+• If external defibrillation is available, a decision can be made to remove the WCD and 
+monitor/treat the patient with the external equipment. 
+• To remove the WCD, first pull out the battery, then remove the garment from the 
+patient. 
+ 
+  
+ 
+ 
+ NPC148 
+Page 4 of 6 
+ 
+ 
+ 
+SUPPORTING DOCUMENTS/ATTACHMENTS 
+ 
+1. Submitting a medical order for the WCD 
+2. Patient consent form (will be brought by the Company representative) 
+3. To place an order or get technical support:  call 1-800-543-3267                                                
+Fax supporting documents to: 1-866-567-7615 
+       
+REFERENCES: 
+Zoll. (2018). Lifevest wearable defibrillator emergency patient management.  Retrieved from 
+https://lifevest.zoll.com/-/media/lifevest-zoll-com/medical-professional/first-responder-
+resources/lifevest_ems_pocketcard.ashxZoll LifeVest Patient Education Video. Get Well Network 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+  
+ 
+ 
+ NPC148 
+Page 5 of 6 
+ 
+ 
+    
+ 
+ 
+ 
+Wearable Cardioverter-Defibrillator MEDICAL ORDER FORM 
+ 
+ 
+ PLEASE COMPLETE ALL FIELDS 
+ 
+1. Patient Information and Condition 
+a) Date of Birth         -----/-----/--------     
+b) Estimated start Date (MM/DD/YYYY) ----/-----/--------- 
+c) Estimated Length Need         6 months         5 months         4 months        3 month          Other 
+_______ 
+ 
+Note: If left blank, the minimum length of time of 1 month will be applied, and a new order will be 
+required to extend use 
+ 
+d) Reason for LifeVest (check one): 
+       Cardiac Arrest due to VF or sustained VT 
+       Familial or inherited condition with SCA risk 
+       MI with an EF of < 35% 
+       DCM (including NICM) with an EF of < 35% 
+      ICD explanation  
+       Other condition with high risk of VT/VF (describe) ____________________  
+ 
+       Note: Documentation supporting Reason for LifeVest is required. 
+ 
+2. LifeVest Settings; (Enter value for each setting. Default value will be applied if left blank)  
+ 
+ 
+VT Heart rate threshold      VF Heart rate threshold  Treatment Energy 
+     Default : 150 BPM                  Default: 200 BPM   Default: 150 Joules, all five shocks 
+                                                                                                  1st ____2nd____3rd ____4th ____5th __ 
+ 
+       (increment of 10)                                (increment of 10)                           (increment of 25 between 75J- 150J) 
+ 
+ 
+3. Prescriber Information 
+a) Prescriber’s Designated Contact Person ______________________________________  
+b) Contact Person’s phone number             ______________________________________  
+c) Prescriber’s Name (Print first and last name)___________________________________  
+d) Prescriber’s signature –DO NOT STAMP  _____________________________________ 
+e) Signature Date (MM/DD/YYYY)                 _____________________________________  
+f) Prescriber’s National Provider Number ID _____________________________________  
+ 
+Phone: 800-543-3267                 Fax:  866-567-7615            
+MEDICARE WEARABLE AED COVERAGE POLICY  
+ 
+Physician Order sheet Patient label 
+     
+ 
+   
+ 
+ 
+ NPC148 
+Page 6 of 6 
+  
+Wearable AED (K0606) are covered as an alternative to implanted defibrillators when criteria’s specified 
+in the automated External Defibrillator Local Coverage Determination (LCD) are met. Wearable AEDs are 
+covered for patients if they meet one of the following criteria: 
+ 
+ 
+1. A documented episode of ventricular fibrillation or a sustained ventricular tachyarrhythmia, lasting 
+30 seconds or longer.  These dysrhythmias may be either spontaneous or induced during an 
+electrophysiology (EP) study, but may not be due to a transient or reversible cause , and not occur 
+during the first 48 hours of an acute myocardial infarction (ICD-9 427.1, 427.42, 427.5)    
+ 
+2. Familial or inherited conditions with a high risk of life-threatening ventricular tachyarrhythmia, 
+such as long QT syndrome (ICD-9 426.82) or hypertrophic cardiomyopathy (ICD-9 425.1); or 
+ 
+ 
+3. Either documented prior to myocardial infarction (ICD-9 410.0, 410.92, 412) or dilated 
+cardiomyopathy (ICD-9 425.0-, 425.9) and a measured left ventricular ejection fraction less than 
+or equal to 0.35; or 
+ 
+4. A previously implanted defibrillator now requires explanation (ICD-9 996.04, 996.61) 

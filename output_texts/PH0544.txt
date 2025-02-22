@@ -1,0 +1,292 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: CSP Handling, Storage, Packaging, 
+Transport & Shipping 
+Policy Reference #: PH0544 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 5/8/2024 
+Last Date Revised: 5/8/2024 
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the handling, storage, packaging, shipping, and transportation requirements 
+and procedures for Compounded Sterile Preparations (CSPs) prepared at FMOLHS Baton Rouge 
+Market Pharmacies. 
+1.2. CSP quality and integrity can be adversely affected by inappropriate handling, storage, packaging, 
+shipping, & transport methods. Care and consideration are given to the determination and 
+selection of these methods and personnel and/or vendors to carry out  these duties.  Proper 
+training, processes, and quality assurance and control measures are integral to maintaining the 
+quality of CSP during these processes. 
+1.3. Refer to Label, Packaging, and Transport of Hazardous Drugs policy for procedures to hazardous 
+medication handling, storage, packaging, transporting, and shipping. 
+2. Policy  
+2.1. Personnel handling, storing, packaging, and transporting CSPs are trained in the knowledge and 
+skills needed to perform job -related responsibilities. Refer to Sterile Compounding Personnel  
+Training & Evaluation policy for further information. 
+2.2. CSPs are handled in a manner that maintains CSP quality and packaging integrity and are stored 
+in temperature controlled designated storage areas to ensure storage temperatures remain 
+within the appropriate range.  
+2.3. Designated CSP storage area temperatures are monitored and logged daily on days of operation 
+in SoleSource® Simplifi 797®.  
+2.4. Temperature monitoring systems are verified for accuracy at least every 12 months  or as 
+required by the manufacturer.  
+2.5. Temperature excursions  above or below the required limits are investigated and CSPs are 
+discarded if available literature or analytical testing does not verify the affected CSP(s) are 
+expected to retain integrity or quality. 2.6. CSP packaging materials protect CSPs from damage, leakage, contamination, degradation, and 
+adsorption as well as prevent accidental exposure to transport personnel. 
+2.7. Tamper evident closures are used for all controlled substance CSPs and all other CSPs shipped 
+outside of FMOLHS Baton Rouge Market Pharmacies. 
+2.8. Light-resistant packaging materials are used for light-sensitive CSPs. 
+2.9. Shipping and transportation methods and vendors are selected that reasonably and reliably 
+deliver properly packaged CSPs in an undamaged, sterile, and stable condition. 
+2.10. CSPs delivered or shipped outside of FMOLHS Baton Rouge Market Pharmacies bear the 
+appropriate visible and legible labeling on the outer packaging or container conveying in-transit 
+storage requirements, special handling instructions (if applicable), and immediate storage 
+requirements (if appropriate) upon receipt.  Refer to the Labeling of CSPs  policy for further 
+information. 
+3. Roles & Responsibilities 
+3.1 The Designated Person(s) (DP): 
+• Provide appropriate training and competency evaluations for personnel performing CSP 
+handling, storage, packaging, and transport 
+• Ensure CSP storage locations are appropriately monitored, and temperature is recorded 
+daily or readily accessible 
+• Research CSP stability and integrity when drug storage temperature excursions occur and 
+determine if CSPs have retained quality and can be dispensed or must be destroyed due to 
+a lack of uncertainty in the available stability and sterility data in the event of an excursion 
+• Ensure packaging procedures and materials are appropriate to help retain the quality of the 
+CSP 
+3.2. Internal Personnel Handling, Storing, Packaging, & Transporting CSPs: 
+• Personnel successfully complete and remain current on training and competency 
+assessments required to perform job functions.  Refer to Sterile Compounding Personnel 
+Training & Evaluation policy for further information. 
+3.3. Third Party Delivery and Shipping Vendors: 
+• Maintain appropriate CSP storage conditions during transit per labeling and delivery or 
+shipping instructions.  
+4. Procedures 
+4.1. CSP Handling and Storage 
+• After CSPs have been compounded and transferred to final dispensing containers, minimize 
+jostling, shaking, or inverting CSPs unless labeling or literature promotes these actions to 
+maintain or reestablish homogeneity of mixture. 
+• Transport CSPs to drug storage locations on carts or in sanitized bins to minimize the risk of 
+jostling, dropping, or damaging packaging and container closure systems and , as result,  
+potentially impacting CSP integrity. • Move CSPs to the designated storage areas within controlled compounding areas 
+corresponding with the labeled storage conditions upon pharmacist final verification, or 
+when delays in final verification exceed 30 minutes from completion of compounding for 
+CSPs requiring refrigerated or frozen storage or pending release testing results.   
+• Move CSPs to designated storage areas within or outside of controlled areas when CSPs 
+have been released for dispensing or administration, packaging, transport, or shipping. 
+• Store CSPs in the following storage locations:  
+Storage Condition Within Controlled Area(s) Outside of Controlled Area(s) 
+Prior to Final Verification (including CSPs that have not undergone final verification or pending 
+release testing results) 
+Controlled Room 
+Temperature: 
+20°C - 25°C  
+On carts in the buffer room or 
+within perimeter line of SCA N/A 
+Refrigerated:   
+2°C - 8°C  
+On carts in the buffer room or 
+within perimeter line of SCA  N/A 
+Frozen:   
+-25°C to -10°C  
+On carts in the buffer room or 
+within perimeter line of SCA  N/A 
+After Final Verification (CSPs released for dispensing, delivery, or shipping) 
+Controlled Room 
+Temperature: 
+20°C - 25°C  
+N/A Pharmacy IV batch delivery bins, 
+patient medication carts 
+Refrigerated:   
+2°C - 8°C  Sterile compounding suite 
+refrigerators 
+IV workroom refrigerators, Pharmacy 
+IV batch refrigerator, Pyxis 
+refrigerators 
+Frozen:   
+-25°C to -10°C  N/A Pharmacy freezers 
+4.2. CSP Packaging 
+• Select CSP container closure systems and packaging that do not interact physically or 
+chemically (e.g., adsorption)  with the CS P and that protect the CSP’s  sterility, identity, 
+potency, purity, and similar quality criteria (e.g., light sensitivity).  
+o Refer to the USP -NF drug monograph, manufacturer’s packaging data, or similar 
+literature to determine appropriate container closure systems and packaging.  
+o Record container closure system and packaging requirements and references on the 
+Master Formulation Record (MFR), if applicable, for future reference.  
+• Use tamper evident CSP containers or closure systems for the following: 
+o Controlled substance CSPs 
+o Ophthalmic and Otic CSPs 
+o CSPs for use via high-risk routes of administration (e.g., intrathecal, epidural) 
+o CSPs transported or shipped to an offsite administration site or directly to the patient  
+o CSPs delivered, transported, or shipped by a third party vendor 
+• Prior to transport out side of the pharmacy, package CSPs in packaging materials that 
+minimize the risk of damage, leakage, or contamination and are designed to maintain the 
+integrity of the requisite storage conditions for each CSP. Acceptable packaging includes, 
+but is not limited to: 
+o Containers: Hard -sided coolers, insulated containers, and/or refrigerated or frozen 
+storage units o Cooling Source: Ice packs, refrigerant cooling blocks, or dry ice  
+4.3. CSP Transport, Delivery, & Shipment 
+• Transport CSPs to drug storage locations within the immediate facility on well -organized 
+carts to minimize the risk of jostling, dropping, or damaging packaging and container closure 
+systems and potentially impacting CSP integrity. 
+o If multiple CSP deliveries occur simultaneously, sort CSPs into sanitized and labeled 
+bins or totes to reduce the risk of mix up or missed delivery of time -sensitive 
+medications. 
+o Transport medications in appropriate packaging and storage conditions (see table 
+below). 
+• Pneumatic tube systems can be used for the transport of CSPs that are not sensitive to 
+physical shaking, exposure to temporary temperature fluctuations, or are packaged in easily 
+damaged containers (e.g., glass vials). CSPs or containers cannot be transpor ted via 
+pneumatic tube system include, but are not limited to: 
+o Antineoplastic Hazardous Drug medications 
+o Refer to site-specific DO NOT TUBE list, if applicable 
+• For transport and delivery outside of the immediate facility, package CSPs individually in 
+clear zippered bags if possible to minimize the risk of contamination or spill exposure to 
+transport personnel and use appropriate packaging and devices (e.g., insul ated cooler) to 
+maintain storage conditions during transport.  
+ 
+Transport 
+Scenario / 
+Storage 
+Conditions 
+Required Packaging Materials 
+Controlled Room 
+Temp 
+(20°C - 25°C) 
+Refrigerated: 
+2°C - 8°C 
+Frozen: 
+-25°C to - 10 
+Transport within 
+immediate facility 
+via cart 
+• N/A • N/A  
+ 
+• CSP(s) placed in clear 
+zippered bag  
+• Transported in cooler 
+with ice packs 
+Transport within 
+immediate facility 
+via pneumatic 
+tube system 
+• N/A  • N/A 
+ 
+• N/A 
+Transport or 
+delivery to 
+locations outside 
+of immediate 
+facility 
+• CSP(s) placed in clear 
+zippered bag  
+• Transported in tote or 
+cooler with ice packs  
+• CSP(s) placed in clear 
+zippered bag 
+• Transported in tote or 
+cooler with ice packs  
+• CSP(s) placed in clear 
+zippered bag 
+• Transported in cooler 
+with ice packs or dry ice  
+Shipping via 
+Common Courier 
+• CSP(s) placed in clear 
+zippered bag  
+• Packaged in tote or 
+insulated container with 
+ice packs  
+ 
+• CSP(s) placed in clear 
+zippered bag  
+• Packaged in tote or 
+insulated container with 
+ice packs or dry ice  
+ 
+• CSP(s) placed in clear 
+zippered bag  
+• Packaged in insulated 
+container with ice packs 
+or dry ice  
+ 
+• When transporting or shipping CSPs outside of the immediate facility, package CSPs in 
+shipping containers designed to protect and maintain the quality of the contents and secured in a manner that allows for immediate detect of tampering or unauthorized entry 
+into the shipping container. 
+• For temperature sensitive CSPs, package the CSP in a moisture resistant clear, zippered bag 
+placed inside of an appropriate insulated shipping container. Transport or ship CSP with the 
+necessary quantity of ice packs or dry ice to reasonably ensure controlled storage conditions 
+for 48 hours from packaging of shipping container until delivery to final recipient.   
+• Select transportation and shipping modes that reasonably and reliably allow for delivery of 
+temperature sensitive CSPs within the timeframe that corresponds to the useable life of ice 
+packages or dry ice inserted into insulated storage containers for temperature control.  
+• Label external shipping containers special handling instructions, in -transit storage 
+requirements and, immediate storage requirements upon receipt if appropriate . Refer to 
+common courier policies and instructions on proper containing labeling. 
+4.4. Monitoring & Logging Storage Temperatures  
+• Monitor and log temperatures of all drug storage locations and devices daily on days of 
+operation or via continuous monitoring device.  
+• Temperatures are recorded in SoleSource® Simplifi 797®. 
+• Temperature monitoring devices are maintained, and accuracy validated at least once every 
+12 months or per manufacturer instructions. 
+• Retain readily retrievable records of temperature logs and accuracy validations. 
+4.5. CSP Storage Location Temperature Excursions 
+• Report out of range temperatures or continuous temperature monitoring system alarms 
+immediately to the Designated Person or Charge Pharmacist. Temperature deviations in 
+drug storage locations are considered urgent maintenance events and are remediated as 
+quickly as possible.  
+• When deviations exceed +5°C of the required storage conditions for longer than 60 minutes, 
+quarantine CSPs located in the affected drug storage areas(s) in appropriate comparable 
+storage conditions. Refer to the Release Inspections & Testing policy  for CSP quarantine 
+procedures. 
+•  As soon as possible, the DP or responsible party conducts necessary research to determine 
+if the affected CSP quality and integrity has been compromised. 
+o If CSPs are determined to have retained quality and integrity, move CSPs back to the 
+appropriate storage location. 
+o If CSP quality or integrity cannot be determined or has been compromised, log or 
+remove CSPs from dispensable inventory and destroy and/or dispose of per facility 
+drug disposal policy.  
+• Investigate the temperature excursion to determine root cause(s) and implement corrective 
+actions if appropriate. Consider historical trends in the investigation. Refer to the Quality 
+Assurance and Quality Control policy  for procedures related to conducting investigations 
+and corrective actions. 
+4.6. CSPs Exposed to Temperature Deviation during Transport or Shipping • Provide delivery personnel and vendors transporting CSPs within and outside of the 
+immediate facility with instructions regarding: 
+o Monitoring CSP temperatures, packaging, and storage conditions before, during, and 
+immediately after transit  
+o Managing and reporting temperature deviations and excursions  
+• Insert instructions in shipping containers or in labeling materials for the evaluation of CSP 
+temperature upon receipt, if appropriate. Instructions should also include pharmacy contact 
+information for further information.   
+• When temperature excursions are reported to the Pharmacy, log the issue per the 
+Complaint, Adverse Drug Reaction, & Recall Handling policy.  
+5. Definitions 
+5.1. Closure: A material that seals an otherwise open space of a  Container and provides protection 
+for the contents. It also provides access to the contents of the  Container (e.g., screw caps and 
+stoppers). 
+5.2. Container: A receptacle that holds an intermediate compound, API, excipient, or dosage form, 
+and is in direct contact with the article (e.g., ampules, vials, bottles, syringes, and pen injectors). 
+5.3. Controlled room temperature: The temperature maintained thermostatically that encompasses 
+the usual and customary working environment of 20°–25° (68°–77° F). 
+5.4. Freezer: A place in which the temperature is controlled between −25° and −10° (−13° and 14° F) 
+5.5. Room temperature (also referred to as Ambient temperature): The temperature prevailing in a 
+working environment. 
+5.6. Tamper-evident packaging:  A Packaging system  that may not be accessed without obvious 
+destruction of the seal or some portion of the Packaging system 
+6. Related Policies, Documents, References 
+6.1. United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2. United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.3. United States Pharmacopeial Convention, Inc.  <659> Packaging and Storage Requirements. 
+Current version. 
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 5/2025 
+7.1. Initial version published by Wolters Kluwer 2023.  
+7.2. Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 7.3. Revised 5/2025 (formatting). 

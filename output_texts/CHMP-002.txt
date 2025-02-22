@@ -1,0 +1,44 @@
+CHMP-002 
+Page 1 of 1 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Medications/Pharmacy 
+Subject:  Medication Ordering for Pediatric Patients Section:  Medications/Pharmacy 
+Date of Origination:  November 11, 2010 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+ 
+June 7, 2024 
+Serial Code:  CHMP-002 
+  
+PURPOSE: 
+ 
+Standardize the procedure for medication ordering for patients admitted to the Children’s Hospital. 
+ 
+POLICY: 
+ 
+1. Computerized physician order entry (CPOE) medication orders for patients <50kg, should be entered using 
+the dosage equation (mg/kg or mg/m2).  Rounding calculator can be used to round dose as appropriate. 
+2. Weight must be recorded in the electronic medical record prior to medication ordering. 
+3. Children’s Hospital order sets should be used when available. 
+4. All medications should have an indication noted.  This can be in the physician’s notes or as a comment on 
+the medication order. 
+5. For multi-drug combinations the medication order format must be applied to at least one component. 
+6. Standard dosing exceptions: heparin line flushes, ophthalmic preparations, otic drops, nasal sprays, topical 
+preparations, aerosol treatments, metered dose inhalers, glycerin suppositories, thrombolytics for declotting 
+central lines or chest tubes, pancreatic enzymes, vitamins, immunizations. 
+7. Home medications that are being continued without changes do not require a dose equation but should have 
+a notation of the indication. 
+8. If all elements of medication order are not complete, the pharmacist will contact the physician to obtain the 
+missing information. 
+  
+9. In the event that medication orders are written for the pediatric patients <50kg the following format must be 
+used: 
+a. Drug 
+b. Total dose 
+c. Dose equation (mg/kg/day or mg/kg/dose or mg/m2/dose) 
+d. Route 
+e. Frequency 
+ 

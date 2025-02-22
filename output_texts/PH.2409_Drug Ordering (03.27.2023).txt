@@ -1,0 +1,105 @@
+ 
+PH.2409_Drug Ordering 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Drug Ordering 
+PAGES: 
+2 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2409 (10/28/2021) 
+ORIGINAL EFFECTIVE 
+DATE: 11/13/2013   
+REVISIONS EFFECTIVE: 
+03/27/2023 
+POLICY NUMBER:  
+PH.2409 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+To establish a process for ordering medications and maintaining inventory to ensure patients’ needs are met in a timely 
+manner. 
+POLICY: 
+The pharmacy will maintain sufficient inventory to meet the needs of the patients served and ensure the integrity and 
+legitimacy of all medications purchased. 
+DEFINITIONS: 
+Wholesaler purchases – items purchased directly from primary wholesaler. 
+Inventory par levels – level at which the pharmacy wishes to maintain inventory at all times.  Inventory levels that fall 
+below the par level will be ordered through the wholesaler.  
+PAP (Patient Assistance Program) drugs received for patients registered with specific manufacturer assistance programs. 
+ADAP (AIDS Drugs Assistance Program) drugs – drugs owned by Louisiana AADAP, received via alternate wholesaler 
+for use on patients of Louisiana Aids Drug Assistance Program and managed by the State’s mandated pharmacy benefits 
+administrator. 
+PROCEDURE: 
+A. The pharmacy will maintain a perpetual inventory on all drugs in stock. 
+B. The pharmacy limits its medication purchases to the following types of entities to ensure drug authenticity: 
+a. Licensed wholesalers who, by contract or attestation, agree to purchase medications from licensed 
+wholesalers or drug manufacturers. All purchased drugs will be ordered through the primary wholesaler using 
+a 340B account or GPO account.  
+b. Licensed distribution channels  
+c. Drug manufacturers  
+C. The Pharmacy is compliant with the Drug Supply Chain Security Act (DSCSA) when verifying and monitoring 
+wholesalers/vendors.   
+a. The Pharmacy will provide the Pharmacy Benefit Manager with all reasonably requested information and 
+documentation regarding the Pharmacy’s distribution relationships and documentation for specific purchases. 
+If requested, the Pharmacy will promptly audit any entity from which the Pharmacy has purchased 
+prescription drugs and shall provide the results of such audit.  
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+3/27/2023 12:49 PM 
+ 
+ 
+PH.2409_Drug Ordering 
+2 
+D. Drugs orders will be transmitted daily through the pharmacy software to the wholesaler and inventory levels 
+updated in the system. 
+E. Prescriptions are filled and ready for pick up on the business day received pending availability of the medication. 
+a. In the event the pharmacy cannot fill a prescription for any reason, the patient will be notified of the delay 
+within 2 business days.   
+b. If the delay is anticipated to exceed 3 days, the patient and prescriber will be notified and alternative options 
+will be made to obtain the drug or device 
+F. Inventory adjustments to drugs shorted by the wholesaler will be made upon receipt of the drug and alternative 
+drugs will be ordered at the discretion of the pharmacists on duty. 
+G. Drugs received for PAP patients will be maintained in perpetual inventory under “P” group and will not be ordered 
+from a wholesaler. 
+H. PAP patients will be dispensed PAP drugs after they have been received from the manufacturer.  Prior to that time, 
+any prescriptions for PAP patients will be filled with 340B inventory and charged the usual and customary price. 
+I. PAP orders received will be manually added to the perpetual inventory by a technician or pharmacist at the time 
+they are received. 
+J. WAC drugs will be maintained in group W. 
+K. Inventory PAR levels may be adjusted by pharmacists in order to meet the demands of the patients. 
+L. ADAP drugs will be ordered directly from the State’s mandated pharmacy benefits administrator and delivered to 
+the pharmacy.  These drugs will be entered into inventory under group “A” and be used only for 340B eligible 
+patients presenting with the State’s mandated pharmacy benefits administrator insurance card as their primary 
+insurer. 
+M. Drugs will not be borrowed/loaned between OLOLH 340B inventory/LA-ADAP inventory. 
+N. The employees will add products in order of expiration dates, otherwise known as rotating stock.  
+O. On occasions when we are “out of stock” or short of an ordered item, employees will notify the patient if this 
+situation delays their order, causing the patient to miss a dose of medication. If the patient will miss a dose, 
+employees will work with prescriber, patient, and if necessary, alternate pharmacies to obtain medication or assist 
+in that act so as not to disrupt drug therapy. [URAC P-OPS 1-1 (b)] [URAC P-OPS 2-3 (a-iii)] 
+P. When the pharmacy receives prescriptions for Limited Distribution Drugs (LDD) to which the pharmacy does not 
+have access, the patient is notified that the prescription cannot be filled at the pharmacy as well as the name and 
+phone number of the pharmacy where the prescription has been transferred. A pharmacist will transfer the 
+prescription to ensure there is no delay in therapy. [URAC P-OPS 1-1 (b)] 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: P-OPS 1-1, 2-3 
+• ACHC Standards: DRX7-9A, DRX7-7C 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

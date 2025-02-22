@@ -1,0 +1,71 @@
+ 
+Policies and Procedures Manual  
+Our Lady of the Lake Regional Medical Center Chapter: Neurophysiology 
+Subject: Services and Operation 
+Date of Origination: May 9, 2007 Supersedes: EEG/CL/001-019  
+Date of Last Revision: February 28, 2024   EEG/OP/001-014 
+Date of Last Review:  February 28, 2024 Serial Code: EEG-01 
+         
+PURPOSE:  
+The purpose of this policy is to outline the services provided by the Neurophysiology department 
+and the operation of this department. 
+ 
+POLICY: 
+I. Neurophysiology provides both inpatient and outpatient services for patients of any age.  
+All outpatients must be registered by outpatient registration/admissions prior to service 
+being provided. Prior to all testing, the order must be verified by the technician. 
+II. The neurophysiology department will be open Monday through Friday 0730-1600, and 
+from 0800-1200 on the weekend and holidays.  There will be a technologist on-call 
+during all off-duty hours.  For after hours, the technologist will come out to complete 
+STAT EEG only.  All routine studies ordered before noon on Saturday and Sunday and 
+on holidays will be completed the same day, unless specified otherwise by the neurologist 
+III. All EEGs ordered after regular hours as stated in I and II will be completed the following 
+normal business day unless it is ordered STAT.  All STAT EEGs will follow the 
+guidelines as established in policy EEG/CL/018.  
+IV. To initiate a call back of a technologist the order for the test must be written as STAT, at 
+which time would follow policy EEG/CL/018. 
+V. For inpatient, all routine tests ordered prior to 1600 on normal business days will be 
+completed the same day.  Other tests that are ordered after 1600 that are not STAT will 
+be completed by the following business day. EEGs may also be interpreted by the 
+consulting neurologist if different than the selected neurologist to interpret. All pediatric 
+EEGs will be interpreted by the pediatric neurology group.  
+VI. Carotid Studies are to be read by the EEG Lab director.  
+VII. VER and other EP studies are routine and will be done during the week of normal 
+business hours unless special arrangements are made.   
+VIII. ECI (“brain death”) studies will be communicated by the EEG technologist to the 
+appropriate neurologist on duty for the week. These studies are considered time sensitive 
+and will be given priority to other routine studies.  
+IX. Pediatric EEG will include hyperventilation and photic stimulation unless 
+contraindications exist.  The process for this procedure will be as follows: 
+a. The EEG electrodes will be set up, and the EEG will run for a minimum of 2 minutes 
+to determine a baseline.  b. If the patient is greater than 2 years old, the technologist will instruct the patient to 
+hyperventilate by breathing fast and deep for three minutes.  Contraindications for 
+hyperventilation includes patients diagnosed with sickle cell anemia and cardiac 
+conditions. The technologist will also hold the HV test for an outpatient asthmatic 
+child that carries inhaler with him. Hyperventilation will not be performed if 
+contraindications exist.  
+c. The normal EEG, without hyperventilation, will then be ran for a minimum of 90 
+seconds.  
+d. The technologist will then turn the photic stimulator on for patients greater than 6 
+months old. If the child is inconsolable and the artifact cannot be reduced, then  
+photic stimulation will not be completed.  
+e. The technologist will make notes of the patient’s status on the EEG for reasons that 
+any part of the study (hyperventilation or photic) cannot be completed as normal. 
+ 
+ 
+ 
+PROCEDURE: 
+I. The neurophysiology department will perform all testing in accordance with OLOL 
+policies, manufacturer recommendations and in accordance with the American Society 
+for Electro-Neuro-Diagnostic Technologists while under the direction of the Medical 
+Director for EEG.  
+II. The following studies are services provided by the neurophysiology department: 
+a. EEG 
+b. Long Term Epilepsy Monitoring 
+c. Intra-operative monitoring 
+d. Visual Evoked Response (VER) 
+e. Median Nerve Somatosensory Evoked Potential (Upper SSEP) 
+f. Electrical Cerebral Inactivity 
+g. Hyperventilation Provocation 
+h. Photic Stimulation 
+ 

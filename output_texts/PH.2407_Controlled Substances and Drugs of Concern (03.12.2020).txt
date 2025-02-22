@@ -1,0 +1,377 @@
+ 
+PH.2407_Controlled Substances and Drugs of Concern 
+1
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Retail Pharmacy Controlled Substances and Drugs of 
+Concern 
+PAGES: 
+8 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2407 (02/04/2019) 
+ORIGINAL EFFECTIVE 
+DATE: 10/21/2013 
+REVISIONS EFFECTIVE: 
+03/12/2020 
+POLICY NUMBER:  
+PH.2407 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+ 
+PURPOSE: 
+To establish controls related to ordering, receiving, prescribing, and dispensing controlled substances and drug of concern 
+and documenting such activities. The pharmacies will continue t o follow federal and state-controlled substance laws and 
+regulations. 
+ 
+POLICY: 
+In order to detect an intentional or unintentional breach of procedure in controlled substance handling, the pharmacies 
+must establish a process for monitoring compliance with its pol icies and procedures that relate to ordering, receiving, 
+prescribing, dispensing and administering controlled substances and drugs of concern and documenting such activities. 
+ 
+DEFINITIONS: 
+Controlled Substance or Controlled Dangerous Substance – any drug determined by the Louisiana State Board of 
+Pharmacy and/or Federal Drug Enforcement Administration to have a potential for abuse and classified in drug schedule 
+CI, CII, CIII, CIV, CV 
+ 
+Drugs of Concern – any drug determined by the Louisiana State Board of Pharmacy and/or Federal Drug Enforcement 
+Administration to be of concern due to potential to pose risks for those who abuse them. 
+ 
+LIP – Licensed Independent Practitioners (physician, dentist, podiatrist, with a valid DEA registration specific to the 
+State of which the facility is located and a State controlled substance registration is applicable). 
+ 
+APP – Advance Practice Professional (physician assistant [PA] or advanced practice registered nurse. [APRN, CRNA, 
+CNM]) 
+ 
+ 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+3/12/2020 2:33 PM 
+ 
+PH.2407_Controlled Substances and Drugs of Concern 
+2
+PROCEDURE: 
+Orders, Generally. Pharmacy acquiring controlled substances in Schedules I and II shall maintain a file of the duplicate 
+copies of all order forms used to obtain controlled substances within these schedules. Each duplicate copy of any order 
+form used to order controlled substances shall be kept in this file a minimum of two years from the date the order form 
+was completed. This file shall be kept separate from the licensee's other business or professional records. These records 
+shall contain the full name, address and license number of the supplier, the common or established name of the 
+controlled substance, its dosage form and strength, the amount, and the date of receipt. The pharmacy does not purchase 
+or dispense drugs in controlled substance class CI. 
+ 
+Either a DEA Form 222 or its electronic equivalent is required for each distribution of a Schedule I or II controlled 
+substance (except in certain circumstances), as outlined below: 
+ 
+A. Ordering and Receiving Controlled Substances, Schedule II  
+Ordering and receiving of C-II cont rolled substance may be comp leted by either of the two processes outlined in 
+Section 1 (preferred) or Section 2 or a combination of both processes.   
+ 
+ 
+Section 1: Use of the Controlled Substance Ordering System to Purchase Controlled Substances, Schedule II.  
+Effective May 2005, the Drug Enfo rcement Agency (DEA) implement ed the Controlled Substance Ordering System 
+(CSOS) which allows for a secured electronic transmission of co ntrolled substance orders (e222) without the 
+supporting paper DEA Form 222.  Pharmacies will use the CSOS pr ocess for ordering controlled substances.  The 
+efficiencies of the electronic ordering system make the system easy to use for most Schedule II (C-II) transactions 
+while maintaining security requirements.  Use of the paper DEA Form 222 is allowed in emergency situations where, 
+at the discretion of the pharmacist in charge, the use of Form 222 is necessary. 
+a. The DEA Registrant, authorized CSOS Coordinator(s), and Powers o f  A t t o r n e y  ( P O A )  w h i c h  g r a n t  o r d e r i n g  
+authority by the DEA Registrant may apply for CSOS Certificates . A CSOS Coordinator is required for each 
+organization as the main point of contact for CSOS. The CSOS Co ordinator must be enrolled in CSOS before a 
+POA application is processed; however, the CSOS Coordinator and  POA applications may be submitted at the 
+same time.  
+ 
+b. The CSOS regulations require the following persons to be identified: 
+1) DEA Registrant – This is defined as the physical location applying for CSOS access and is represented by the 
+individual who last signed/renewed a DEA 224 application. Hence f o r t h ,  t h e  t e r m  “ D E A  R e g i s t r a n t ”  o r  
+“Registrant” refers to the aforementioned individual.  
+2) CSOS Coordinator – A CSOS coordinator is required for each DEA Registration number enrolled in the CSOS 
+program. The role of the CSOS Coordinator may be served by the Registrant, as mentioned above. If the 
+Registrant does not serve the role of CSOS Coordinator then the CSOS coordinator may be any individual in 
+the DEA Registrant’s organizati on and must have his/her CSOS ap plication signed by the Registrant. Only 
+one Principal CSOS Coordinator and one Alternate CSOS Coordinator may be enrolled in CSOS for any one 
+DEA Registration number.  Each DEA Registrant identifies a person to hold the DEA number, monitor license 
+renewal, designate those employees eligible to order controlled  substances electronically, retain all digital 
+certificates, and to manage these activities.  The DEA Registra nt shall convey this responsibility through a 
+POA. 
+3)  POA Designees – The DEA Registrant or CSOS Coordinator may ass ume this duty of ordering C-I and C-II 
+controlled substances.  Alternativ ely, the CSOS Coordinator may  identify another employee as the primary 
+designee. The primary designee must have a POA submitted to the  DEA for final authorization to order C-II 
+controlled substances.  Additional staff may also be identified  to order C-II controlled substances in the 
+absence of the primary designee, but the number of POAs will be limited based on the need of the pharmacy.   
+PH.2407_Controlled Substances and Drugs of Concern 
+3
+Such ‘secondary designees’ must also have a POA submitted to th e DEA to be fully authorized to submit 
+orders. 
+ 
+c.   The CSOS Coordinator must submit all required documents to  the DEA for issuance of digital signatures to the 
+individuals granted POAs and maintain a copy of each document submitted in a secure area in the Pharmacy or a 
+secured location in areas without a Pharmacy. 
+ 
+d.   Each individual granted a POA will be e-mailed his or her access code and the password delivered by U.S. mail.  
+POA access codes and passwords must not be shared with any other persons.  
+ 
+e.   With the digital signatures, the CSOS Coordinator must download the digital certificates from the DEA website to 
+the facility-based computer.  One computer should be used for p lacing and receiving all CSOS orders.  This is 
+important as records will be downloaded from the drug supplier website to the facility-based computer. This will 
+include the order placed for the C-II controlled substances and  the receipt acknowledgment of the order.  The 
+digital certificate files, order acknowledgment files, and rece ipt acknowledgment files must be saved to a secure 
+server with limited access.     
+ 
+f.   The CSOS Coordinator is res ponsible for notifying the facility’s drug supplier that the fa cility will place orders 
+electronically for C-II controlled substances.  This includes a ccount setup for CSOS ordering at the drug supplier 
+website.  It includes the creation of access to the drug supplier website for all staff with POA privileges. 
+ 
+g.  Separation of Ordering/Receiving Functions – Ordering and receiving of controlled substances must be performed 
+by different individuals unless mitigating circumstances preven t this from occurring.  In such instances, 
+compensating controls shall be implemented (e.g., additional independent reviews, outside audits).  The pharmacy 
+shall consider limiting the ordering and receiving authority of any controlled substance product to designated staff 
+members, not all Pharmacy Department staff members. As part of CSOS use, both ordering and receiving must be 
+done in the drug supplier website where available/ applicable.  
+ 
+h.  The receiving process must include a reconciliation of cont rolled substances received against the packing slip or 
+invoice.  The printed invoice must be signed and dated by the receiver indicating completion of this phase of receipt 
+of product.  With the invoice signed and dated, the receiver or another staff member with POA access must receive 
+the C-II controlled substances in the wholesale vendor website system when available. Completion of this activity 
+will allow downloading of the receipt record into the facility computer for permanent storage.  A backup must be 
+performed after each C-II controlled substance receipt into the facility pharmacy.  Note:  The receiver’s signature 
+and dating of the invoice must be a separate action from the si gning of the invoice by the Director or authorized 
+person approving payment for Accounts Payable. 
+i. Record Keeping –the following four documents must be saved.  
+1. e222 - When placing the CSOS order requisition (electronic 222)  print and save the form to the server 
+before closing out  
+2. Receipt of Invoice - When product is received in CSOS print and  save to server the Receipt of Invoice to 
+the server  
+3. Vendor Invoice - Save a copy of the vendor invoice to the server.  
+4. Printed copy of Invoice with e222 
+ 
+Section 2: Use of DEA Form 222 to Purchase Controlled Substances, Schedule I & II  
+Authority to Purchase Controlled Substances.  Company-affiliate d facilities are required to specify the CEO, 
+Administrator, or Practice Manager of the facility as the DEA r egistrant.  Duties associated with controlled substance 
+ordering/management may be delegated by the Pharmacist in Charge.  
+ 
+a. Control of and Access to DEA Form 222 (Schedule I & II Order Forms) – DEA Form 222 is the official form 
+used to order controlled substances in Schedules CI & II from manufacturers, drug suppliers, or other sources.  
+Upon receipt of DEA Form 222 ordering forms from the Drug Enforcement Agency, the Pharmacist in Charge  
+PH.2407_Controlled Substances and Drugs of Concern 
+4
+must record each DEA Form 222 number onto a control log to docu ment all forms received into the facility.  
+Unused DEA 222 forms shall be stored in a secured area, ( e.g., in the controlled substances vault or a locked 
+drawer) accessible only by those individuals authorized to order controlled substances in Schedules I & II.  By 
+Federal regulation, controlled substances in the Schedules III,  IV, and V do not require a DEA Form 222 for 
+ordering.    
+ 
+b. Pre-Signing DEA Form 222 – DEA Form 222 shall be signed by the authorized agent/attorney only as orders 
+are placed.  Blank forms shall never be pre-signed in anticipation of future use. 
+ 
+c. Execution of DEA Form 222 – In completing DEA Form 222, care sh ould be taken so that no erasures or 
+alterations are made anywhere on the form.  If a mistake is made, void all copies of the form and maintain the 
+voided copy in your records.  Only one item shall be ordered on a single line and the number of different items 
+ordered shall always correspond to the “number of items ordered” entry on the form.  The Supplier’s Copy 1 
+and DEA Copy 2 are sent to the drug supplier and Purchaser’s Copy 3 shall be retained in the pharmacy. 
+ 
+d. Separation of Ordering/Receiving Functions – Check and balance systems shall be in place so that the ordering 
+and receiving of controlled substances is performed by differen t individuals unless mitigating circumstances 
+prevent this from occurring.  In  such instances, compensating c ontrols shall be implemented ( e.g. additional 
+independent reviews, outside aud its).  The pharmacy should cons ider limiting the ordering and receiving 
+authority of any controlled substance product to designated staff members, not all staff members.  
+ 
+e. Reconciliation of Invoices/Packing Slips for Controlled Substan ces – The receiving process must include a 
+reconciliation of controlled substances received against the packing slip or invoice accompanying the order as 
+well as the DEA Form 222 ordering form.  On the “blue” copy (Pu rchaser’s Copy 3) of the DEA Form 222, 
+the number of packages (sale unit of measure) received and date  received must be filled in.  Both the DEA 
+Form 222 and the invoice must be signed and dated by the receiver.  Stapling the DEA Form 222 to the invoice 
+or packing slip is permitted, if stapled together, the attached  documents must be stored together in a different 
+location from all other DEA 222 ordering forms.  If the DEA Form 222 is not affixed to the invoice or packing 
+slip, store the DEA Form 222 in a separate and independent loca tion from the invoice copy signed and dated 
+by the receiver, and the packing slip signed by the receiver fo r Schedule II controlled substances.  Note:  The 
+receiver’s signature and dating of the invoice must be a separa te action from the signing of the invoice by an 
+authorized person approving payment for Accounts Payable. 
+ 
+Section 3: Receiving of Controlled Substances [PHARM-OP 4b] 
+a. Direct Delivery of Controlled Substances – All controlled subst ances shall be delivered directly to the 
+Pharmacy Department in an area with camera surveillance. In areas that are not under camera surveillance, the 
+receiving area must be accessible only to those authorized to h andle controlled substances. Controlled 
+substances shall never be delivered through an intermediary, such as the Purchasing Department.   
+ 
+b. Only authorized personnel shall be allowed to “receive” such or ders.  Exception: non-DEA designated 
+controlled substances can be delivered with other non-controlle d substance medications.  Once the delivery 
+reaches the pharmacy it must be received and entered into the n on-DEA designated controlled substance 
+inventory. 
+ 
+c. Immediate Resolution of Order Discrepancies/Shortages/Breakage – In case of any order discrepancy, shortage 
+or breakage, the drug supplier must be notified immediately and  the incident documented on the packing 
+slip/invoice. 
+ 
+d. Inventory System for Controlled Substances – A perpetual invent ory system that assures accuracy of all 
+controlled substances is required.  The inventory system will be computerized with manual system as a backup 
+at the discretion of the Pharmacist in Charge. The Pharmacist i n Charge is responsible for the disposition of  
+PH.2407_Controlled Substances and Drugs of Concern 
+5
+all controlled substances (e.g., all controlled substances received, dispensed to nursing units (if applicable), or 
+returned to reverse distributors) is accurately tracked. 
+ 
+e.  Annual Physical Inventory – the Louisiana Board of Pharmacy re quires a minimum annual inventory. For 
+controlled and non-DEA designate d controlled substances, a full  manual inventory must be conducted. The 
+inventory shall be signed and dated by the person conducting the inventory this annual inventory can be used 
+for the DEA biennial inventory requirement.  
+ 
+a. Monitoring Procedure for Ordering and Receiving Controlled Subs tances – The Pharmacist in Charge is 
+responsible for monitoring the ordering and receipt of controlled substances. 
+ 
+B. Transferring Controlled Substances 
+a. A DEA Form 222 is required for each transfer of a schedule II controlled substance.   
+ 
+b. Schedule III-V controlled substances must be documented in writing to show the drug name, dosage form, strength, 
+quantity, and date transferred.  T he document must include the names, addresses, and DEA registration numbers 
+of the parties involved in the transfer of the controlled substances.   
+ 
+c. Non-DEA designated Controlled Substances must be documented in writing to show the drug name, dosage form, 
+strength, quantity, and date tra nsferred.  The document must in clude the names and addresses of the parties 
+involved in the transfer of the controlled substances. 
+ 
+d. Transfer can occur only for the purpose of general dispensing to patients.   
+ 
+e. The receiving facility/practitioner must be registered with the DEA.  
+ 
+f. The distribution is recorded by the distributing party and by the receiving party.   
+ 
+g. The total number of dosage units of all controlled substances d istributed by the facility/practitioner during each 
+calendar year does not exceed five percent of the total number of dosage units of all controlled substances 
+distributed/dispensed by the facility/practitioner during the same year. 
+ 
+C. Prescribing Controlled Substances 
+Prescribing of controlled substances is limited to a Licensed Independent Practitioner (LIP) or APP (Advanced Practice 
+Professional) with controlled substance prescribing privileges that have been granted only if the practitioner has a 
+verified and current DEA registration with an in-state address, as defined in Compliance Alert #028.  Additionally, an 
+LIP or APP with controlled substance prescribing privileges must have verified and current state controlled substance 
+registration when practicing in a State that requires registration. 
+ 
+The pharmacy’s prescription forms for controlled substances adhere to the applicable requirements under Louisiana state 
+law and are reviewed for compliance during the Board of Pharmacy’s annual onsite inspections. 
+ 
+D.   Controlled Substance Distribution and Dispensing  
+Ordering, distributing, and dispensing controlled substances will conform to all Policies and Procedures as well as all 
+State and Federal regulatory requirements. 
+ 
+a. Automated Dispensing Cabinet (ADC) System Monitoring [ PHARM-OP 4b] [PHARM-OP 8(a1,a2)] 
+[PHARM-OP 14 (a3,a4)] 
+1. A process must exist for matching controlled substances distrib uted to the ADCs with the inventory.  For 
+example, the quantity of controlled substances distributed to each ADC, as documented in the cabinet system 
+reports, shall be reconciled with the amount signed out on the Controlled Substance Perpetual Log.  
+PH.2407_Controlled Substances and Drugs of Concern 
+6
+Monitoring of this process must be performed on two randomly se lected days each month. Reconciliation of 
+the controlled substances ADC removal report with the ADC loaded/stocked report will suffice. In the case of 
+facilities utilizing an automated controlled substance vault, this step would be replaced with daily monitoring 
+of the ADC comparison report (e.g. Pyxis C-II Compare Report).   
+2. Nursing must perform a weekly physical inventory of all control led substances in all ADCs including those 
+pockets that were not accessed, or for cause.  
+ 
+b. Security of ADCs 
+ADCs can be accessed electronically through logon, BioID, and passwords and also physically through traditional 
+locks and keys.   
+ 
+1. Electronic Access – Only patient care staff members who have completed an authorization/access form and have 
+had the form approved by the individual designated to approve such forms may remove controlled medications 
+from the ADC.  The following healthcare providers may request a ccess to controlled substances based on their 
+job description and competencies: LIPs, APPs, RNs, LPNs/LVNs, R egistered Pharmacists, Pharmacy 
+Technicians, and other qualified staff as authorized by the fac ility.  Access shall be limited to areas that are 
+needed to perform assigned duties and for the designated time period of the contract.  Any access to medications 
+may be terminated at any time if policy infractions occur.   
+2. Security of ADC (Strap Lock/Padlock): In addition to the ADC lo cks provided by the manufacturer, a padlock 
+secures the rear of the cabinet.   
+3. Physical Key Access –The existence and current location of all physical keys shall be determined and an 
+inventory log must be maintained. Full key inventory shall be performed on a monthly basis.  
+a. Pharmacy Management team shall retain all physical keys and log to the ADCs in a locked/secured location 
+within the pharmacy. 
+b. The physical keys shall only be issued to a staff member of the  pharmacy department at the time of need 
+for the purpose of opening the ADC for department use or maintenance by authorized personnel.  
+c. Pharmacy staff shall remain with  the ADC during the entire time  the cabinet is unlocked, unless all 
+medications have been removed.  At no time is the pharmacy staff to relinquish possession of the key(s) to 
+any other person outside of those staff within the pharmacy aut horized to use the key.  Keys shall not be 
+given to maintenance/service personnel.   
+d. Pharmacy shall take appropriate action to take possession of an y ADC keys found to be in the possession 
+of anyone other than authorized pharmacy personnel immediately.  In addition to the ADC locks provided 
+by the manufacturer it is recommended that strap locks/Padlock be placed on any ADC not physically 
+attached to a wall.  
+ 
+Theft or significant loss of Controlled Substances  
+a.  Theft –Discovery of any theft regardless of amount must be rep orted to DEA, local law enforcement, and State 
+regulatory agencies (e.g., board of nursing, board of pharmacy, board of medicine, etc.) immediately. 
+ 
+b. Where circumstances of the theft are immediately known, a DEA Form 106, Report of Theft or Loss of Controlled 
+Substances, shall be used to detail the circumstances of that t heft. When details concerning the specific 
+circumstances surrounding the theft are unknown at the time of discovery, initial notice should be provided by 
+faxing a short statement to local DEA advising of the theft. 
+  
+PH.2407_Controlled Substances and Drugs of Concern 
+7
+Significant Loss  
+c. Where circumstances of significant loss are known, a DEA Form 1 06, Report of Theft or Loss of Controlled 
+Substances, must be used to detail the circumstances of that significant loss. When details concerning the specific 
+circumstances surrounding the loss are unknown at the time of discovery, initial notice must be provided by faxing 
+a short statement to local DEA advising of the significant loss. 
+d. When determining a loss is significant a registrant must consid er among others the following factors: the actual 
+quantity of controlled substances lost in relation to the type of business, the specific controlled substance(s) lost, 
+whether the loss can be associated with access by specific individuals, whether the loss can be attributed to unique 
+activities that may take place involving the controlled substance(s), a pattern of losses, the potential for diversion, 
+and local trends.  
+ 
+e. Breakage, damage or spillage does not constitute a “loss of con trolled substances.”  In such situations, any 
+recoverable controlled substance must be wasted following appropriate wasting procedures.   
+ 
+E.     Prescription Monitoring Program (PMP) 
+Each facility will comply with the Prescription Monitoring Program Act by submitting information of all outpatient 
+prescriptions filled for controlled substances or drugs of concern in order to improve the state’s ability to identify and 
+inhibit the diversion of these substances while not diminishing their appropriate use for legitimate medical purposes. 
+a. The information will be submitted electronically through the us e of the pharmacy outpatient dispensing 
+software no later than the next business day after the date of dispensing and will include: 
+1. Prescriber information 
+2. Patient information 
+3. Prescription information 
+4. Controlled substance or drug information 
+5. Dispenser information 
+b. The pharmacist in charge or designee is responsible for correct ions to the PMP report and resubmission of 
+those corrections through the pharmacy outpatient dispensing software. 
+c. A facility may apply for an exemption from submission if the fa cility does not purchase or dispense any 
+controlled substances or drugs of concern.  If an exemption is granted by the Louisiana State Board of 
+Pharmacy, that facility will post the exemption notice in a visible location and will be exempt from submission 
+until the facility begins dispensing controlled substances or drugs of concern or if the exemption is rescinded 
+by the board. 
+d. The pharmacist in charge (PIC) of a facility may access the records of the PMP after successful completion of 
+the required educational courses.   
+1. The PIC, acting as supervisor, may authorize pharmacists as delegates to access PMP records. 
+2. The PIC as well as all authorized  delegates will maintain indiv idual account credentials which are 
+linked to the PIC/supervisor’s account. 
+3. The PIC and delegates may review PMP records of patients, at th eir professional discretion, during 
+the dispensing process. 
+4. All policies regarding PHI will apply to access of the PMP records.  
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+ URAC Standards: PHARM-OP 4, 8, 14  
+ DRX5-18B 
+ La. Admin Code. tit. 46, Pt LIII, § 2701 et seq. 
+ Reporting Compliance Issues and Occurrences to the Corporate Office Policy, EC.025 
+  
+PH.2407_Controlled Substances and Drugs of Concern 
+8
+ HCA Medication Diversion Prevention Policy, CSG.MM.003 
+ Substances Use in the Workplace Policy, CSG.MM.002 
+ 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

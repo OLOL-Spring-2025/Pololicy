@@ -1,0 +1,283 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Facilities and Engineering Controls for 
+Sterile Compounding Areas 
+Policy Reference #: PH0534 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 12/02/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the design standards and acceptance criteria for sterile compounding 
+facilities and engineering controls within FMOLHS Baton Rouge Market Pharmacies.  
+• Sterile compounding facilities must be designed, outfitted, and maintained properly to 
+minimize the risk of contamination of compounded sterile preparations (CSPs).  
+1.2. These design standards and specifications guide new construction, remodels, and maintenance 
+of existing spaces to ensure compliance with USP <797> and other applicable standards or 
+regulations.  
+1.3. Primary Engineering Controls (PECs) and Secondary Engineering Controls (SECs) aid in achieving 
+required air quality classifications. Proper design and controls are required to minimize the risk 
+of exposure of CSPs to airborne contaminants.  
+• Primary Engineering Controls (PECs) are devices or zones that provide an ISO Class 5 air 
+quality environment for sterile compounding.  
+• Classified areas in which the air quality is controlled include ante rooms, buffer rooms, and 
+PECs.  
+• Anterooms are areas where personnel hand hygiene and garbing are performed, as well as 
+staging of components, and other activities that generate higher levels of particulates.  
+Anterooms are also transition areas to ensure proper air classification and pressure 
+relationships are maintained between classified and unclassified areas.   
+• Buffer rooms are where ISO Class 5 PECs are located and CSPs are prepared.   
+• Together, the anteroom and buffer room(s) comprise the Cleanroom Suite.  
+• Segregated Compounding Areas (SCAs)  are unclassified areas without an ante room or 
+buffer room. PECs may be located in an SCA, but limited to Category 1 compounding.  
+• The ISO standards for air quality in controlled environments are provided below and 
+referenced throughout this policy.  
+ 
+ISO CLASSIFICATION OF PARTICULATE MATTER IN ROOM 
+AIR 
+ISO Class Particle Count per Cubic Meter 
+3 35.2 
+4 352 
+5 3520 6 35,200 
+7 352,000 
+8 3,520,000 
+• Refer to the Sterile Compounding Program Overview for a summary of the types of PECs 
+and SECs used at FMOLHS Baton Rouge Market Pharmacies.  
+ 
+2. Policy  
+2.1. Cleanroom suites and segregated compounding areas (SCA) are separated from areas not directly 
+related to compounding.  
+2.2. Facility designs take into account the number of personnel and their movements, and the impact 
+the placement of equipment, supplies, and components could have on the maintenance of air 
+quality.   
+2.3. Compounding facilities must be designed so that air quality improves with movement through 
+separate operational areas to the PEC.  
+2.4. Design and Acceptance Criteria for PECs 
+• The PEC provides the direct compounding area for preparation of CSPs.  Unidirectional 
+airflow must be maintained in the PEC.   
+• The PEC selected must meet ISO 5 classification during dynamic operating conditions and 
+be designed to minimize the risk of contamination during compounding of CSPs.  
+• Placement of the PEC within the SEC or SCA must allow for cleaning around the PEC. 
+2.5. Design and Acceptance Criteria for the Cleanroom Suite: 
+• The surfaces of ceilings, walls, floors, doors, door frames, fixtures, shelving, work surfaces, 
+counters, and cabinets in the classified area must be smooth, impervious, free from cracks 
+and crevices, and non -shedding so they can be cleaned and disinfected  and to minimize 
+spaces in which microorganisms and other contaminants can accumulate.   
+Surfaces should be resistant to damage (e.g., rust) by cleaning agents, sporicidal and other 
+types of disinfectants, and tools used to clean.  
+• Junctures between the ceiling and the walls and between the walls and the floor must be 
+sealed to eliminate cracks and crevices where dirt can accumulate.  
+If ceilings consist of inlaid panels, the panels must be caulked around each panel to seal them 
+to the support frame.  
+• Walls must be constructed of, or may be covered with, durable material (e.g., epoxy painted 
+walls or heavy-gauge polymer) and the integrity of the surface must be maintained.   
+Panels must be joined together and sealed to each other and the support structure.  
+• Floors must include coving to the sidewall, or the juncture between the floor and the wall 
+must be caulked.  
+• Classified areas should minimize dust-collecting overhangs, such as utility pipes, and ledges, 
+such as windowsills.   
+If overhangs and ledges are present, they must be easily cleanable.   
+The exterior lens surface of ceiling light fixtures must be smooth, mounted flush, and sealed.  
+Any other penetrations through the ceiling (e.g., fire sprinklers, HEPA testing ports), must be 
+sealed.   
+• Ante Room design considerations 
+The ante room must have a line of demarcation to separate the clean side from the dirty side.  
+ 
+2.6. Design and Acceptance Criteria for the SCA: • The SCA must contain a PEC and is suitable for compounding of Category 1 CSPs only.   
+• The SCA and all surfaces (e.g., walls, floors, counters, and equipment) in the SCA must be 
+clean, uncluttered and dedicated to compounding.   
+• Surfaces in the SCA should be smooth, impervious, free from cracks and crevices, and non-
+shedding so they can be easily cleaned and disinfected and to minimize spaces in which 
+microorganisms and other contaminants can accumulate.   
+Surfaces should be resistant to damage (e.g., rust) by cleaning agents, sporicidal and other 
+types of disinfectants, and tools used to clean.  
+• Dust-collecting overhangs, such as utility pipes, and ledges, such as windowsills, should be 
+minimized.   
+If overhangs or ledges are present, they must be easily cleanable.  
+• The SCA must be located away from unsealed windows, doors that connect to the outdoors, 
+and traffic flow, all of which may adversely affect the air quality in the PEC.   
+• The SCA must not be located in where environmental control challenges (e.g., restrooms, 
+warehouses, or food preparation areas) could negatively affect the air quality of the PEC 
+within the SCA.   
+• The area within 1 m of the PEC should be dedicated only for sterile compounding and 
+defined with a Perimeter Line, if the SCA is not physically separated by walls.  
+ 
+2.7. Water Sources 
+• Sink placement for hand hygiene and garbing is considered based on workflow and function 
+of the PEC and SEC.  
+Sinks should enable hands-free use. 
+• Cleanroom Suite:  
+If the sink is located outside the ante room, it must be located in a clean space to minimize 
+the risk of bringing contaminants into the ante room.  
+If the sink is located inside the ante room, it may be placed on either the clean side or the 
+dirty side of the ante room.   
+[Note: the order of hand washing and garbing depends on the placement of the sink.] 
+The buffer room must not contain plumbed water sources.  
+The ante room must not contain floor drain(s).  
+If installed, sprinkler systems should be recessed and covered, and the covers should be easily 
+cleanable.  
+• Segregated Compounding Area: 
+A hand-washing sink must be placed not closer than 1m to the PEC and may be either inside 
+the SCA or in close proximity to the SCA.  
+ 
+2.8. Other design considerations for maintaining the compounding environment: 
+• Sterile compounding facilities must be designed to provide a well -lighted and comfortable 
+working environment.  Refer to USP <1066>:  Physical Environment That Promote Safe 
+Medication Use for additional details and considerations.  
+• Temperature: The cleanroom suite should be maintained at a temperature of 20°C  or cooler 
+to minimize the risk of microbial proliferation and provide comfortable compounding 
+conditions for personnel.  
+Temperatures will not exceed 20 -25°C/68-77°F  for controlled room temperature, per USP 
+<659> Packaging and Storage Requirements.  o Temperature is monitored in unclassified areas e.g., SCAs and all medication storage 
+areas to ensure appropriate storage conditions.  
+• Humidity: The cleanroom suite should be maintained at a relative humidity of 65% or below 
+to minimize the risk of microbial proliferation and provide comfortable compounding 
+conditions for personnel.   
+o Free-standing air conditioners, humidifiers and dehumidifiers must not be used within 
+the classified area or SCA.  
+• Temperature and humidity must be monitored in each room of the cleanroom suite each 
+day that compounding is performed, either manually or by a continuous recording device, 
+and results documented at least once daily or stored in the continuous recording device.  
+• Temperature and humidity monitoring devices must be verified for accuracy at least every 
+12 months or as required by the manufacturer.  
+• Pressure: Pressure differentials minimize airflow between areas of different classifications.   
+Positive pressure of at least 0.02” w.c. is required between adjacent ISO classified areas e.g. 
+between the buffer room and ante room; and between the ante room and unclassified 
+main pharmacy area.   
+Where pressure differentials are required, a monitoring device must be used to continuously 
+monitor the pressure differential.  Results must be reviewed and documented at least 
+daily on the days when compounding occurs.  
+No pressure differential is required for unclassified SCAs.  
+Refer to USP <800> for pressure requirements for hazardous drug compounding areas.  
+ 
+2.9. Design and Acceptance Criteria for Air Quality and Air Exchange:  
+• Air returns in the cleanroom must be low on the wall unless a visual smoke study 
+demonstrates an absence of stagnant airflow.  
+• Air quality requirements e.g., ISO classification must be met during dynamic operating 
+conditions.  
+• Anterooms providing access to positive-pressure buffer rooms must meet at least ISO Class 
+8 classification.  
+• Anterooms or buffer rooms providing access to negative-pressure buffer rooms must meet 
+at least ISO Class 7 classification.  
+• A buffer room must meet at least ISO Class 7 air quality.  
+• If passthrough chambers are used, both doors must never be opened at the same time.  
+• HEPA filters must be placed in the ceiling.  
+o Adequate HEPA-filtered airflow to the buffer room and ante room(s) is designed with 
+consideration for number of personnel working in the area, number of particles 
+generated from activities in the area, equipment located in the room and room 
+pressure.   
+• Refer to the table below for a summary of requirements for ISO classification, pressure 
+differential and air changes.  Additional requirements for HD compounding are found in USP 
+<800>.  
+If the PEC is used to meet the minimum total ACPH requirements, the PEC remains in 
+operation unless turned off for maintenance.  
+ 
+MINIMUM REQUIREMENTS FOR ISO CLASSIFICATION, PRESSURE DIFFERENTIAL AND AIR EXCHANGES  
+SEC type ISO class Pressure Differential 
+(in “w.c.”) 
+Air Changes Per 
+Hour (ACPH) SCA Unclassified N/A N/A 
+C-SCA Unclassified -0.01 to -0.03 ≥ 12 
+Non-HD cleanroom 
+suite 
+Ante room: ISO 8 0.02 ≥ 20* 
+Buffer room: ISO 7 0.02 ≥ 30* 
+HD cleanroom suite Ante room: ISO 7 
+Buffer room: ISO 7 
+Ante to Buffer: 0.02 
+HD Buffer: -0.01 to -
+0.03 
+≥ 30 
+o *at least 15 ACPH must come from the room HVAC system 
+• Refrigerators, freezers and other particle-generating equipment are placed near air returns 
+whenever possible.   
+• When adding new equipment to an SEC, impact to airflow and air quality is considered.  
+3. Roles & Responsibilities 
+3.1 The Designated Person(s):  
+• Ensure each area related to CSP preparation meets the classified air quality standards 
+appropriate for the activities to be conducted in that area.  
+• Ensure the ISO Class 5 areas are located, operated, maintained, monitored, and certified to 
+have the appropriate air quality.  
+• Determine the definition of dynamic operating conditions for each PEC and SEC in use.  
+• Coordinate with building facilities and certification professionals to ensure preventive 
+maintenance activities and/or repairs are completed with minimal impact to pharmacy 
+operations.  
+• Coordinate with Infection Prevention and Construction Management regarding any planned 
+construction to assess and mitigate impact to pharmacy operations.  
+• Direct corrective action and preventive action procedures to ensure facilities remain or 
+return to as designed specifications.   
+3.2        Compounding Personnel: 
+• Know appropriate operating conditions for PECs and values and ranges for temperature, 
+pressure, humidity for SECs.  
+• Record environmental monitoring data.  
+• Report out of specifications facility issues to the Designated Person for corrective action.  
+4. Procedures 
+o 4.1. Documentation of Environmental Monitoring Specifications  
+• Pharmacy personnel  document temperature, humidity, and pressure on SoleSource® 
+Simplifi 797® for each compounding area daily on days of operation. 
+• If any value is out of specifications, report to the Designated Person and follow the 
+procedure described in the Out of Specifications policy.  
+ 
+4.2 Preventive Maintenance for PECs 
+• Change prefilters for all PECS every six (6) months or as indicated by the manufacturer or 
+operating conditions. Prefilter changes are documented on semiannual Allometrics 
+recertification reports. 
+• Visual assessment of HEPA filters for staining, rips or tears occurs every six months by 
+Allometrics during semiannual recertification. Visual inspection is completed by looking 
+through the protective screen.  Do not remove the diffuser screen.  • Visually assess all inside and outside surfaces PEC during the monthly clean, inspecting for 
+signs of rust or damage.  
+ 
+5. Definitions 
+5.1 ACPH: Air changes per hour 
+5.2 Airlock: A space with interlocked doors, constructed to maintain air pressure control when items 
+move between two adjoining areas.  
+5.3 Anterooms:  and ISO 8 or cleaner room with fixed walls and doors where personnel hand hygiene 
+and garbing are performed, as well as staging of components, and other activities that generate 
+higher levels of particulates.  The ante room is the transition room between the unclassified area 
+of the facility and the buffer room.  
+5.4 Buffer rooms: an ISO 7 or cleaner room with fixed walls and doors where ISO Class 5 PECs are 
+located and CSPs are prepared.  The buffer room may only be access through the ante room or 
+another buffer room.  
+5.5 Classified area: an area that maintains an air quality classification based on the ISO standards 
+required in this chapter.   
+5.6 Cleanroom suite: the anteroom and buffer room(s). 
+5.7 Dynamic operating conditions: conditions in the compounding area in which operating personnel 
+are present and simulating or performing compounding. The conditions should reflect the largest 
+number of personnel and highest complexity of compounding expected during routine operations 
+as determined by the designated person.  
+5.8 HVAC: heating, ventilation, and air conditioning. 
+5.9 Pass-through chamber: an enclosure with sealed doors on both sides that should be interlocked; 
+positioned between two spaces for the purpose of minimizing particulate transfer while moving 
+materials from one space to another.  
+5.10 Perimeter: a visible demarcation (such as a door, walls, or visible marking on the floor) 
+that defines the SCA. 
+5.11 Primary Engineering Control (PEC): a device or zone that provide an ISO Class 5 air quality 
+environment for sterile compounding.  
+5.12 Secondary Engineering Control (SEC): the area where the PEC is placed e.g., a cleanroom 
+suite or an SCA.  
+5.13 Segregated Compounding Area (SCA): a designated space, area, or room that is 
+unclassified and defined with a visible perimeter.   
+5.14 Unclassified space:  a space not required to meet any air cleanliness classification based 
+on the ISO.  
+ 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.3 United States Pharmacopeial Convention, Inc.  <1066> Physical Environment That Promote Safe 
+Medication Use. Most current version.  
+6.4 United States Pharmacopeial Convention, Inc.  <659> Packaging and Storage Requirements. Most 
+current version.  
+ 7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 5/2024 
+Next review: 12/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3 Reviewed with no changes 12/2024. 
+ 

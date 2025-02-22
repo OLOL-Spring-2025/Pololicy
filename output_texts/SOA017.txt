@@ -1,0 +1,49 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: 
+ 
+Operating Room 
+ 
+Title: OR Preference Card Maintenance Policy Reference #: SOA017 
+Supersedes #:  
+Date of Origination: 06/14/2018 Review Date: 07/06/2024 
+Revision Date: 06/15/2021 
+ 
+ 
+ 
+PURPOSE: 
+To define process for Operating Room (OR) Preference Card Maintenance 
+ 
+PROCEDURE: 
+ 
+A. Overview 
+1. The Preference Card Builders are assigned by the leader (manger or director) overseeing 
+those services 
+2. The Preference Card Builders will review and maintain all preference cards for their 
+service(s). 
+3. The list of preference card builders for each service should be reviewed annually.  
+4. Any changes in staffing should be updated to ensure the service line has a preference card 
+builder. This can be by transferring the service to another builder and by credentialing a 
+new preference card builder as soon as possible.  
+ 
+B. Process 
+1. On a weekly basis and as new cases are added, the Preference Card Builder should look 
+at the OR Preference Card Dashboard report “Upcoming Cases without a Surgeon 
+Preference Card (Next 14 Days)” and build cards for these. 
+2. On a weekly basis and as new cases are added, the Preference Card Builder should look 
+at the “Unreviewed Upcoming Preference Cards (Next 14 Days)” report and do a 
+complete review of these for accuracy pertaining to, but not limited to, General 
+Information, Supplies, Drugs, Equipment, Instruments, Positioning Information, Staff 
+Information, Instructions, etc. 
+3. When a complete review is performed, the Preference Card is marked in the system as 
+“Review”. 
+4. Preference Card change requests are submitted through the In Basket message system, or 
+accepted method on the unit, by the Intra-op nurse. These requests should be reviewed by 
+Preference Card Builders and appropriate updates made. 
+5. When a new surgeon, service, or procedure is made a card should be created prior to their 
+first case. 
+When a surgeon no longer has active privileges, his/her preference cards will be changed from an 
+‘Active’ to ‘Inactive’ status.    

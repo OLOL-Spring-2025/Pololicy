@@ -1,0 +1,99 @@
+NICP-003 
+Page 1 of 2 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Neonatal Intensive Care 
+Subject:  Therapeutic Hypothermia of the Neonate Section:  Patient Care 
+Date of Origination:  October 23, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+ 
+August 23, 2024 
+Serial Code:  NICP-003 
+  
+PURPOSE: 
+The purpose of the policy is to provide guidelines for the initiation and management of therapeutic hypothermia in 
+the neonate with moderate or severe encephalopathy. 
+ 
+POLICY: 
+The following criteria should be considered for implementing therapeutic hypothermia of the neonate: 
+• Gestational age > 36 weeks 
+o *At the neonatologist’s discretion, therapeutic hypothermia may be considered below 36 weeks 
+gestational age.   
+• Eligibility criteria are ultimately determined by attending neonatologist but should include: 
+o Infants with pH< 7.0 or a base deficit of >16 mmol/L in a sample of umbilical cord blood or 
+blood obtained during the first hour of life, history of an acute perinatal event, a 10-minute 
+Apgar score of < 5 or assisted ventilation initiated at birth and continued for at least 10 minutes. 
+o Neurologic examination demonstrating moderate to severe encephalopathy.   
+• Hypothermia should be initiated before 6 hours of age and continue for 72 hours to provide the most 
+benefit. 
+• Induced hypothermia should occur by decreasing core body temperature by 2°C - 4°C. 
+ 
+I.  PROCEDURE: 
+1. A physician/NNP must determine neonate’s eligibility and accept transfer. 
+2. Vascular access must be established by umbilical vein catheter or peripheral line. 
+3. When possible, baseline laboratory studies will be obtained prior to initiation of cooling. 
+4. Obtain baseline glucose and monitor frequently in accordance with orders. 
+5. Not all infants will require mechanical ventilation, but hypocapnia and hypoxemia should be avoided 
+during cooling.  If patient is ventilated, avoid over-ventilation (Target SpO2 94-99%; Target pCO2 40-
+50 mm Hg).  Inspired gases should be set at 36 C 
+6. Monitor frequently for the need of suctioning and perform as indicated. 
+7. Maintain cardiopulmonary monitoring and vital sign monitoring including blood pressure and 
+temperature.  In addition to rectal temperature as measured by probe, an axillary temperature should be 
+recorded every 2 hours once goal temperature has been reached. Notify physician/NNP for any 
+abnormal finding outside of prescribed range.  Vital sign frequency and documentation should occur at 
+the following intervals:  
+a. Hours 0-1 cooling every 15 minutes 
+b. Hours 1-2 cooling every 30 minutes 
+c. Hours 2-72 cooling every 1 hour 
+ 
+8. Arrange head ultrasound (HUS) as soon as possible to evaluate for intracranial hemorrhage as ordered. NICP-003 
+Page 2 of 2 
+ 
+9. Arrange EEG/aEEG monitoring as ordered. 
+10. Monitor neurologic status every hour and notify physician/NNP of any seizure activity.   
+11. Monitoring for bleeding and report to physician/NNP as indicated.   
+12. Reposition infant during cooling every 2 hours and monitor skin integrity on all dependent areas. Be 
+alert for sclerema, bruising, exaggerated acrocyanosis, subcutaneous fat necrosis, erythema and 
+cyanosis.   
+13. Follow manufacturers recommendation for set up of cooling device.  Place device in Servo mode. 
+14. Rectal probe must remain inserted approximately 5 cm in the rectum and temperature monitored 
+continuously.  Temperature documentation should occur every 15 minutes for first 4 hours and then 
+every hour once goal temperature has been reached.   
+15. Induce hypothermia to the desired target temperature between 32° C – 34° C (standard - 33.5° C).  If 
+fluctuations in target temperature occur confirm the rectal probe is in place; confirm all settings on 
+cooling device are correct and functioning properly; notify physician/NNP if temperature fluctuations 
+are not resolved with one hour.  
+16. Maintain adequate sedation within orders as prescribed. 
+17. In the event the neonate must be transported within the hospital during cooling, continuously monitor 
+the temperature and safeguard against over cooling during the transport and throughout the procedure.  
+ 
+II.  REWARMING: 
+1. After 72 hours, begin the rewarming process by increasing the cooling device set point by 0.5°C every 
+hour until rectal temperature reaches 36°C - 38°C.  This process should take 6-8 hours.      
+2. Assess the neonate after each increase in cooling device temperature and make additional changes in 
+increments as ordered by physician/NNP. 
+3. Avoid hyperthermia after cooling. 
+4. Continue careful neurologic assessment and monitoring for seizures in the rewarming phase. 
+5. Continue cardiopulmonary monitoring and vital sign assessment every 30 minutes during the rewarming 
+phase.  Notify physician/NNP for signs of physiologic instability. Post warming vital signs should be 
+obtained every hour x 3 and then may be obtained per unit standard. 
+6. Document when rewarming begins and is completed.  During the process of rewarming, document the 
+rectal temperature, the set point on cooling device and infant’s axillary temperature.    
+   
+III.  Additional Documentation: 
+1. Any adverse event that occurs during any phase of therapeutic hypothermia should be noted. 
+2. If hypothermia is discontinued before the 72 hours, document time the cooling is stopped and reason. 
+ 
+ 
+REFERENCES: 
+ 
+Academic Medical Center Patient Safety Organization (AMC PSO) Neonatal Encephalopathy Task Force 
+(2016).  Therapeutic Hypothermia in Neonates.  https://flbog.sip.ufl.edu/wp-
+content/uploads/2019/11/AMC-PSO-Therapeutic-Hypothermia-in-Neonates.pdf  
+ 
+American Academy of Pediatrics.  Clinical Report Hypothermia and Neonatal Encephalopathy.  Pediatrics, 
+133(6), 1146-1150.  https://doi.org/10.1542/peds.2014-0899 
+ 

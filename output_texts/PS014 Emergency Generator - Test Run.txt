@@ -1,0 +1,78 @@
+ 
+ 
+Plant Services 
+ 
+ PS014 
+Page 1 of 2 
+Title: Emergency Generator – Tests Run  
+Revision Date: 03/20/2024 
+Review Date: 03/20/2024 
+Reference # PS014 Origin Date: August 1988 
+ 
+POLICY: 
+Our Lady of the Lake Regional Medical Center (OLOL) Plant Services shall maintain, test run, and 
+render to a state of preparedness at all times the Emergency Generator(s)  at any location where OLOL 
+operates. 
+ 
+PROCEDURES: 
+ 
+Weekly No load Inspections : The emergency generator(s) will be  inspected & started for testing the 
+initial startup and batteries.  This run time must be logged along with the below  information requested. 
+The battery cells shall also be conductance tested for condition parameters & health of the batteries. 
+ 
+The following information is recorded on each no load run: 
+• Hose conditions 
+• Belt conditions 
+• Coolant levels 
+• Oil levels  
+• Fuel levels  
+• Battery cable conditions 
+• Battery voltage readings 
+• Battery cold cranking amps, state of health, state of charge, internal impedance resistance. 
+• Block heater working 
+• Main breakers closed  
+• Any leaks are repaired or evaluated for future scheduled attention. 
+• Initial start is documented. 
+ 
+Startup procedures shall include a pre and post run inspection. Actual start up shall be manual. 
+ 
+Monthly Load Test: Plant Services shall test run the Emergency Generator under load conditions for a 
+period not less than 30 minutes each month. 
+ 
+Startup of generators shall be by simulated power failure. This power failure is caused by manually 
+causing an outage on a single ATS switch which is rotated every month.  
+ 
+Once the initial ATS swaps under load, all additional ATS (including any fire pumps) on the EPS are 
+manually forced to swap load to the generator.    
+ 
+The following information is recorded on each full load run:  
+ 
+Plant Services 
+ 
+ PS014 
+Page 2 of 2 
+• Transfer time (Under 10 seconds per code) 
+• Current 
+• Power KW/KVA 
+• Voltage  
+• Frequency  
+• Coolant Temps 
+• Oil Temps/ Pressure 
+• Engine speed (RPM) 
+• Cool down time (5min minimum) 
+• Conductance testing of batteries. 
+• Notation if generator meets 30% load. 
+ 
+All discrepancies shall be noted on log form and be corrected immediately.  Any failures are corrected 
+or Interim Life Safety Measure (ILSM) is implemented. 
+ 
+Each generator inspection (weekly) and load test (monthly) is documented and kept in the hospital’s 
+regulatory records. 
+ 
+REFERENCES: 
+National Fire Protection Association (NFPA) 99-2012 Edition, Healthcare Facilities Code Handbook 
+Section 6.4 and 6.5 
+Joint Commission, EC.02.05.03 and EC.02.05.07 
+ 
+ 
+ 

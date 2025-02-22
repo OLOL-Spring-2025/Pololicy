@@ -1,0 +1,771 @@
+ 
+RESPONSIBLE DEPARTMENT: 
+Compliance  
+SUBJECT: 
+Disclosures of Protected Health 
+Information to Other Entities 
+PAGES: 
+16 
+REPLACES POLICY DATED: 
+ 
+EFFECTIVE DATE:  
+September 23, 2013 
+ 
+REVISION DATE:  
+July 25, 2016 
+POLICY NUMBER:  
+COR-301 
+ 
+SCOPE: 
+Applies to Our Lady of the Lake Regional Medical Center (OLOLRMC) and its wholly owned 
+subsidiaries (collectively referred to herein as “Entity”).   
+ 
+PURPOSE: 
+To establish guidelines for disclosing Protected Health Information (PHI) for treatment, 
+payment, and health care operations to other covered entities and health care providers as well 
+as for situations where PHI may be disclosed to an outside entity without a patient’s 
+authorization or without the patient’s agreement or objection.  
+ 
+DEFINITIONS: 
+Correctional Institution” means any penal or correctional facility, jail, reformatory, detention 
+center, work farm, halfway house, or residential community program center operated by, or 
+under contract to, the United States, a State, a territory, a political subdivision of a State or 
+territory, or an Indian tribe, for the confinement or rehabilitation of persons charged with or 
+convicted of a criminal offense or other persons held in lawful custody. 
+ “Covered Entity” means a health plan, health care clearinghouse, or a health care provider that 
+transmits any health information in connection with a transaction covered by HIPAA, such as 
+electronic claims submission. 
+  “Entity” means OLOLRMC and its wholly owned subsidiaries 
+  “Health Care Operations” means functions that are common to a Covered Entity but which 
+are not related to treatment. Such functions include, but are not limited to, quality assessment or 
+improvement, care management, peer review and training, patient safety activities, insurance 
+underwriting, legal services, compliance, and auditing services, business planning and general 
+ 2 
+administration.  
+  “Health Care Provider” means (A) a hospital, critical access hospital, skilled nursing facility, 
+comprehensive outpatient rehabilitation facility, home health agency, or hospice program, (B) a 
+provider of medical- or health-related services (including physicians’ services, PT/OT, 
+diagnostic and dialysis services, ambulance services, durable medical equipment and supplies, 
+and drugs or biologicals), and (C) any other person or organization who furnishes, bills or is 
+paid for providing health care in the normal course of business.  
+“Health Oversight Agency” means agency or authority of the United States, a State, a territory, 
+a political subdivision of a State or territory, or an Indian tribe, or a person or entity acting 
+under a grant of authority from or contract with such public agency, including the employees or 
+agents of such public agency or its contractors or persons or entities to whom it has granted 
+authority, that is authorized by law to oversee the health care system (whether public or private) 
+or government programs in which health information is necessary to determine eligibility or 
+compliance, or to enforce civil rights laws for which health information is relevant. 
+“Inmate” means a person incarcerated in or otherwise confined to a correctional institution. 
+  “HIPAA Privacy Rules” means the privacy requirements in the Health Insurance Portability 
+and Accountability Act of 1996 including all pertinent regulations (45 CFR Parts 160 and 164) 
+issued by the U.S. Department of Health and Human Services as such statute and regulations 
+have been amended by Subtitle D of the Health Information Technology for Economic and 
+Clinical Health Act, Title XIII of Division A and Title IV of Division B of the American 
+Recovery and Reinvestment Act of 2009.  
+   “Marketing” means to make a communication about a product or service that encourages 
+recipients of the communication to purchase or use the product or service unless, the 
+communication is made to described a health-related product or service that is provided by, or 
+included in a plan of benefits of the Entity; for treatment of the individual or for case 
+management or care coordination for the individual or to direct or recommend alternative 
+treatments, therapies, health care providers or settings of care to the individual.  
+“Organized Health Care Arrangement” means an arrangement or relationship, recognized in 
+the HIPAA privacy rules, that allows two or more Covered Entities (CE) who participate in 
+joint activities to share protected health information (PHI) about their patients in order to 
+manage and benefit their joint operations. 
+“Payment” encompasses activities of a health plan to obtain premiums, determine or fulfill 
+responsibilities for coverage and provision of benefits, and furnish or obtain reimbursement for 
+health care delivered to an individual as well as activities of a health care provider to obtain 
+payment or be reimbursed for the provision of health care to an individual. 
+  “Protected Health Information or PHI” means all information, including demographic data, 
+that relates to an individual’s past, present or future physical or mental health or condition, the 
+provision of health care to an individual, or the past, present, or future payment for the 
+provision of health care to an individual, and that identifies an individual or for which there is a 
+reasonable basis to believe it can be used to identify an individual.  Individually identifiable 
+health information includes many common identifiers (e.g., name, address, birth date, Social 
+Security Number).  Individually identifiable health information in employment records held by 
+an Entity in its role as an employer is not PHI (e.g., employment-related testing and employer  3 
+health assessments.) 
+  “Psychotherapy Notes” means notes recorded (in any medium) by a health care provider who 
+is a mental health professional documenting or analyzing the contents of conversation during a 
+private counseling session or a group, joint, or family counseling session and that are separated 
+from the rest of the individual's medical record. Psychotherapy Notes exclude medication 
+prescription and monitoring, counseling session start and stop times, the modalities and 
+frequencies of treatment furnished, results of clinical tests, and any summary of the following 
+items: diagnosis, functional status, the treatment plan, symptoms, prognosis, and progress to 
+date. 
+“Public Health Authority” means an agency or authority of the United States, a State, a 
+territory, a political subdivision of a State or territory, or an Indian tribe, or a person or entity 
+acting under a grant of authority from or contract with such public agency, including the 
+employees or agents of such public agency or its contractors or persons or entities to whom it 
+has granted authority, that is responsible for public health matters as part of its official mandate. 
+“Research” means a systematic investigation, including research development, testing, and 
+evaluation, designed to develop or contribute to generalizable knowledge. 
+  “Sponsored Organization” means a legal entity either wholly-owned by OLORMC or a 
+subsidiary entity of an entity wholly-owned by OLOLRMCF that is also a Covered Entity. 
+ “Team Members” means employees of any Entity. 
+“Treatment” means the provision, coordination, or management of health care and related 
+services by one or more health care providers, including the coordination or management of 
+health care by a health care provider with a third party; consultation between health care 
+providers relating to a patient; or the referral of a patient for health care from one health care 
+provider to another. 
+ “Workforce Member” means Team Members, volunteers, trainees, and other persons whose 
+conduct, in the performance of work for the Covered Entity, is under the direct control of the 
+Covered Entity, whether or not they are paid by the Covered Entity. 
+ 
+POLICY:   
+1. PHI may be disclosed to other covered entities and health care providers for purposes of 
+their treatment, payment, or health care operations or to certain outside entities without 
+the patient’s authorization. 
+ 
+2. If the disclosure is required by law, the PHI disclosed must be limited to the relevant 
+requirements of such law. If the disclosure is expressly authorized, but is not required by 
+statute or regulation, the PHI disclosed must be the minimum amount necessary for the 
+purpose of the disclosure. 
+ 
+3. Disclosures of PHI under this policy shall be included in an accounting of disclosures. 
+ 
+PROCEDURES: 
+  4 
+1. Disclosures for Another Covered Entity’s Treatment, Payment and Healthcare 
+Operations.  PHI may be disclosed to other covered entities or health care providers for 
+treatment, payment, or health care operations without the patient's authorization. 
+A. PHI may be disclosed to another covered entity for health care operations 
+activities of the covered entity that receives the information, if each entity either 
+has or had a relationship with the individual who is the subject of the PHI being 
+requested, the PHI pertains to such relationship.  
+ 
+2. Disclosures Consistent with Notice.  A sponsored organization that is required to have a 
+Notice of Privacy Practices shall not use or disclose protected health information in a 
+manner inconsistent with such notice. 
+ 
+3. Disclosures by Whistleblowers and Workforce Member Crime Victims.   
+ 
+A. Disclosures by whistleblowers 
+A sponsored organization has not violated the requirements of the Privacy Rule or this 
+policy if a workforce member or a business associate discloses protected health 
+information, provided that: 
+1. The workforce member or business associate believes in good faith that the sponsored 
+organization has engaged in conduct that is unlawful or otherwise violates professional 
+or clinical standards, or that the care, services, or conditions provided by the sponsored 
+organization potentially endangers one or more individuals, workers, or the public; and 
+2. The disclosure is to: 
+i. A health oversight agency or public health authority authorized by law to 
+investigate or oversee the conduct or conditions of the sponsored organization or 
+to an appropriate health care accreditation organization for the purpose of 
+reporting the allegation of failure to meet professional standards or misconduct 
+by the sponsored organization; or 
+ii. An attorney retained by or on behalf of the workforce member or business 
+associate for the purpose of determining the legal options of the workforce 
+member or business associate with regard to the conduct described above. 
+B. Disclosures by workforce members who are victims of a crime 
+A sponsored organization has not violated the requirements of the Privacy Rule or this 
+policy if a member of its workforce who is the victim of a criminal act discloses 
+protected health information to a law enforcement official, provided that: 
+1. The protected health information disclosed is about the suspected perpetrator of the 
+criminal act; and 
+2. The protected health information disclosed is limited to: 
+i. Name and address;  5 
+ii. Date and place of birth; 
+iii. Social security number;iv. ABO blood type and rh factor; 
+v. Type of injury; 
+vi. Date and time of treatment; 
+vii. Date and time of death, if applicable; and 
+viii. A description of distinguishing physical characteristics, including height, 
+weight, gender, race, hair and eye color, presence or absence of facial hair (beard 
+or moustache), scars, and tattoos. 
+  
+4. Disclosures for Public Health Activities. The sponsored organization may disclose PHI 
+for public health activities and purposes to: 
+A. A public health authority that is authorized by law to collect or receive such 
+information for the purpose of preventing or controlling disease, injury, or 
+disability, including, but not limited to, the reporting of disease, injury, vital 
+events such as birth or death, and the conduct of public health surveillance, 
+public health investigations, and public health interventions; or, at the direction 
+of a public health authority, to an official of a foreign government agency that is 
+acting in collaboration with a public health authority.  
+B. A public health authority or other appropriate government authority authorized 
+by law to receive reports of child abuse or neglect. 
+ 
+C. A person subject to the jurisdiction of the Food and Drug Administration (FDA) 
+with respect to an FDA-regulated product or activity for which that person has 
+responsibility, for the purpose of activities related to the quality, safety or 
+effectiveness of such FDA-regulated product or activity.  Such purposes include: 
+i. To collect or report adverse events (or similar activities with respect to 
+food or dietary supplements), product defects or problems (including 
+problems with the use or labeling of a product), or biological product 
+deviations; 
+ii. To track FDA-regulated products; 
+iii. To enable product recalls, repairs, or replacement, or lookback (including 
+locating and notifying individuals who have received products that have 
+been recalled, withdrawn, or are the subject of lookback); or 
+iv. To conduct post marketing surveillance. 
+ 
+D. A person who may have been exposed to a communicable disease or may 
+otherwise be at risk of contracting or spreading a disease or condition, if the 
+sponsored organization or public health authority is authorized by law to notify 
+such person as necessary in the conduct of a public health intervention or 
+investigation. 
+5. Disclosures to Person’s Involved in the Individual’s Care.  The sponsored organization 
+may disclose to a family member, other relative, or a close personal friend of the 
+individual, or any other person identified by the individual, the protected health 
+information directly relevant to such person's involvement with the individual's care or 
+payment related to the individual's health care 
+  6 
+6. Notification purposes.  The sponsored organization may release medical information to 
+notify, or assist in the notification of (including identifying or locating), a family 
+member, a personal representative of the individual, or another person responsible for 
+the care of the individual of the individual's location, general condition, or death. All 
+releases for notification purposes must be in done accordance with the instances listed 
+below. 
+ 
+A. Disclosure with the individual present- if the individual is present for, or 
+otherwise present for, a use or disclosure and has the capacity to make healthcare 
+decisions, the Entity may use or disclose the PHI if it: 
+i. Obtains the individual’s agreement 
+ii. Provides the individual with the opportunity to object to the disclosure, 
+and the individual does not express an objection; or 
+iii. Reasonably infers from the circumstances, based on the exercise of 
+professional judgment that the individual does not object to the 
+disclosure. 
+B. Disclosure when the individual is not present- if the individual is not present, or 
+the opportunity to agree or object cannot practicably be provided due to the 
+individual’s incapacity, the Entity may, in the exercise of professional judgment, 
+determine whether the disclosure is in the best interests of the individual.  If so, 
+only the PHI that is directly relevant to person’s involvement with the 
+individual’s health care. 
+ 
+A sponsored organization may use professional judgment and its experience with 
+common practice to make reasonable inferences of the individual’s best interest 
+in allowing a person to act on behalf of the individual to pick up filled 
+prescriptions, medical supplies, X-rays, or other similar forms or PHI.  
+ 
+C.  Disclosures for Disaster Relief – A sponsored organization may use or disclose 
+PHI to a public or private entity authorized by law or by its charter to assist in 
+disaster relief efforts, for the purpose of coordinating with such entities.  .  Uses 
+and disclosures of PHI for persons involved in the patients care and notification 
+apply to such uses and disclosure to the extent that Entity, in the exercise of 
+professional judgment, determines that the requirements do not interfere with the 
+ability to respond to the emergency circumstances.  
+ 
+7. Disclosures about Victims of Abuse, Neglect or Domestic Violence.  The sponsored 
+organization may disclose PHI, that is limited to the relevant requirements of the law, 
+about an individual who is reasonably believed to be a victim of abuse, neglect, or 
+domestic violence to a government authority, including a social service or protective 
+services agency, authorized by law to receive reports of such abuse, neglect, or domestic 
+violence if:  
+A. The patient or patient’s personal representative agrees, or 
+ 
+B. The discourse is expressly authorized by statue or regulation, and 
+i. The sponsored organization, in the exercise of professional judgment,  7 
+believes the disclosure is necessary to prevent serious harm to the patient 
+or other potential victims; or 
+ii. If the patient is unable to agree because of incapacity, a law enforcement 
+or other public official authorized to receive the report represents that the 
+PHI is not intended to be used against the patient and that an immediate 
+enforcement activity that depends on the disclosure would be materially 
+and adversely affected by waiting until the patient is able to agree. 
+ 
+C. If the sponsored organization makes such a disclosure, the patient shall be 
+informed that such a report has been or will be made, except if: 
+i. The sponsored organization, in the exercise of professional judgment, 
+believes informing the patient would place the patient at risk of serious 
+harm; or 
+a. The sponsored organization would be informing a personal 
+representative who is reasonably believed to be responsible for 
+the abuse, neglect or other injury, and that informing such person 
+would not be in the best interests of the patient. 
+ 
+8. Employer.  An employer, about an individual who is a member of the workforce of the 
+employer, if: 
+A. The sponsored organization is a covered health care provider who provides 
+health care to the individual at the request of the employer; to conduct an 
+evaluation relating to medical surveillance of the workplace; or to evaluate 
+whether the individual has a work-related illness or injury;  
+ 
+B. The PHI that is disclosed consists of findings concerning a work-related illness 
+or injury or a workplace-related medical surveillance; 
+ 
+C. The employer needs such findings in order to comply with its legal obligations 
+to record such illness or injury or to carry out responsibilities for workplace 
+medical surveillance; and  
+i. The sponsored organization provides written notice to the individual that 
+PHI relating to the medical surveillance of the workplace and work-
+related illnesses and injuries is disclosed to the employer by giving a 
+copy of the notice to the individual at the time the health care is 
+provided, or if the health care is provided on the work site of the 
+employer, by posting the notice in a prominent place at the location 
+where the health care is provided.  
+ 
+9. School.  A school, about an individual who is a student or prospective student of the 
+school, if: 
+A. The PHI that is disclosed is limited to proof of immunization; 
+ 
+B. The school is required by State or other law to have such proof of immunization 
+prior to admitting the individual; and 
+  8 
+C. The sponsored organization obtains and documents the agreement to the 
+disclosure from either: 
+i. A parent, guardian, or other person acting in loco parentis of the 
+individual, if the individual is an unemancipated minor; or 
+ii. The individual, if the individual is an adult or emancipated minor. 
+ 
+10. Disclosures for Health Oversight Activities.  The sponsored organization may disclose 
+PHI to a health oversight agency for oversight activities (e.g., audits, investigations, 
+inspections, licensure or disciplinary actions) authorized by law or other activities 
+necessary for appropriate oversight of the health care system; government benefit 
+programs for which PHI is relevant to beneficiary eligibility; entities subject to 
+government regulatory programs for which PHI is necessary for determining 
+compliance with program standards; or entities subject to civil rights laws for which 
+PHI is necessary for determine compliance. Except when the health oversight activity 
+does not include an investigation or other activity in which the individual is the subject 
+of the investigation or activity and such investigation or other activity does not arise out 
+of and is not directly related to: 
+A. The receipt of health care; 
+ 
+B. A claim for public benefits related to health; or 
+ 
+C. Qualification for, or receipt of, public benefits or services when a patient's health 
+is integral to the claim for public benefits or services. 
+ 
+11. Disclosures about Decedents. The sponsored organization may disclose PHI to: 
+A. A coroner or medical examiner for the purpose of:  
+i. Identifying a deceased person; 
+ii. Determining a cause of death; or 
+iii. Other duties as authorized by law. 
+ 
+B. A funeral director as necessary to carry out their duties with respect to the 
+decedent. 
+ 
+C. If necessary for the funeral director to carry out their duties the sponsored 
+organization may disclose the PHI prior to, and in reasonable anticipation of, the 
+patient's death. 
+ 
+D. To organ procurement organizations or other entities engaged in the 
+procurement, banking or transplantation of cadaveric organs, eyes or tissue for 
+the purpose of facilitating the donation and transplantation. 
+ 
+E. A researcher or Principal Investigator if: 
+i. The researcher represents the use or disclosure is sought solely for 
+research on the PHI of decedents, 
+ii. The sponsored organization receives confirmation or documentation of 
+the death of such individuals, and  9 
+iii. The disclosure is necessary for research purposes only. 
+ 
+12. Disclosure for Cadaveric organ, Eye or Tissue Donation. The sponsored organization 
+may use or disclose PHI to organ procurement organizations or other entities engaged in 
+the procurement, banking, or transplantation of cadaver organs, eyes, or tissue for the 
+purpose of facilitating organ, eye or tissue donation and transplantation. 
+ 
+ 
+13. Disclosure for Research. The sponsored organization my uses or disclose PHI for 
+research, regardless of the source of funding of the research provided that: 
+ 
+A.  Board approval of waiver or authorization- The sponsored organization obtains 
+documentation that an alteration to or waiver, in whole or in part, of the 
+individual authorization required by PRI 08.011has been approved by either: 
+i. An institutional Review Board (IRB), established in accordance with 
+federal law or; 
+ii. A privacy board that: 
+a. Has members with varying backgrounds and appropriate 
+professional competency as necessary to review the effect of the 
+research protocol on the individual’s privacy rights and related 
+interests; 
+b. Includes at least one member who is not affiliated with the 
+sponsored organization, not affiliated with any entity conducting 
+or sponsoring research, and not related to any person who is 
+affiliated with any of such entities; and 
+c. Does not have any member participating in a review of any 
+project in which the member has a conflict of interest.  
+ 
+B.  Reviews Preparatory to Research -The sponsored organization may disclose 
+PHI (except Psychotherapy notes) for preparatory research if it obtains 
+researcher representations that: 
+i. The use or disclosure is sought solely to review PHI as necessary to 
+prepare a research protocol or for similar purposes preparatory to 
+research;  
+ii. The PHI will not be removed from the sponsored organization in the 
+course of the review; and 
+iii. The PHI for which the use or disclosure is sought is necessary for the 
+research purposes. 
+iv. A researcher who is a member of the sponsored organization's workforce 
+(or that of a business associate of the sponsored organization) may use its 
+own PHI to contact prospective research subjects; however, a researcher 
+that is not an employee or a member of the sponsored organization’s 
+workforce may not contact individuals for recruitment purposes without 
+written approval from an Institutional Review Board. 
+ 
+C.  Research on Decedent’s Information – The sponsored organization obtains from  10 
+the researcher: 
+i. Representation that the use or disclosure is sought solely for research on 
+the PHI of decedents: 
+ii. Documentation, at the request of the sponsored organization, of the death 
+of such individuals, and 
+iii. Representation that the PHI for which use or disclosure is sought is 
+necessary for research purposes. 
+D. Documentation of Waiver Approval – For a use and disclosure to be permitted 
+based on documentation of approval of an alteration or waiver, under board 
+approval of waiver, the documentation must include all of the following: 
+i. Identification and date of action – a statement identifying the IRB or 
+privacy board and the date on which the alteration or waiver of 
+authorization was approved; 
+ii. Waiver criteria – A statement that the IRB or privacy board has 
+determined that the alteration or waiver, in whole or in part, of 
+authorization satisfies the following criteria: 
+a.  The use or disclosure of PHI involves no more than minimal risk 
+to the individuals; 
+b. The alteration or waiver will not adversely affect the privacy 
+rights and the welfare of individuals; 
+c. The research could not practicably be conducted without the 
+alteration or waiver; 
+d. The research could not practicably be conducted without access 
+to and use of the PHI; 
+e. The privacy risks to the individuals whose PHI is to be used or 
+disclosed are reasonable in relation to the anticipated benefits, if 
+any, to the individuals, and the importance of the knowledge that 
+may reasonably be expected to result from the research;  
+f. There is an adequate plan to destroy the identifiers at the earliest 
+opportunity consistent with conduct of research, unless there is a 
+health or research justification for retaining identifiers, or such 
+retention is otherwise required by law; 
+g. There are adequate written assurances that the PHI will not be 
+reused or disclosed to any other person or entity, except as 
+required by law, for authorized oversight of the research project, 
+or for other research for which the use or disclosure of PHI would 
+be permitted by this rule.  
+iii. Protected Health information needed – A brief description of the PHI for 
+which use or access has been determined to be necessary by the IRB or 
+privacy board as determined. 
+iv. Review and approval procedures – A statement that the alteration or 
+waiver of authorization has been reviewed and approved under either 
+normal or expedited review procedures as follow: 
+a. An IRB must follow the requirements of the Common Rule 
+(45CFR46) including the normal review procedures or the 
+expedited review procedures required under federal law;  11 
+b. A privacy board must review the proposed research at convened 
+meetings at which a majority of the privacy board members are 
+present, including at least one member who satisfies the criterion 
+for non-affiliation (stated above) and the alteration or waiver of 
+authorization must be approved by the majority of the privacy 
+board members present at the meeting unless the privacy board 
+elects to use an expedited review procedure. 
+c. A privacy board may use an expedited review procedure if the 
+research involves no more than minimal risk to the privacy of the 
+individuals who are the subject of the PHI for which use and 
+disclosure is being sought.  If the privacy board elects to use an 
+expedited review procedure, the review and approval of the 
+alteration or waiver of authorization may be carried out by the 
+chair of the privacy board, or by one or more members of the 
+privacy board as designated by the chair. 
+v. Required signature- The documentation of the alteration or waiver of 
+authorization must be signed by the chair or other member, as designated 
+by the chair,  of the IRB or the privacy board, as applicable.  
+ 
+14. Disclosures to Avert a Serious Threat to Health or Safety. The sponsored organization 
+may, disclose PHI, if it is believed in good faith that use or disclosure of PHI: 
+A. Is necessary to prevent or lessen imminent threat to health or safety of person or 
+public and is made to a person able to prevent or lessen the threat; and is to a 
+persons or persons reasonably able to lessen the threat; or 
+ 
+B. Is necessary for law enforcement to identify or apprehend an individual because 
+of a statement by the individual admitting participation in the crime that the 
+sponsored organization reasonably believes may have caused serious physical 
+harm to the victim or where it appears the individual has escaped from custody 
+of a correctional institution or lawful custody.  Disclosure is not permitted if the 
+information is learned in course of treatment to affect propensity to commit the 
+criminal conduct; counseling/therapy; or referral for such treatment, counseling 
+or therapy. 
+ 
+15. Disclosures for Specialized Government Functions.  
+A. A sponsored organization entity may use and disclose the PHI of individuals 
+who are Armed Forces personnel for activities deemed necessary by appropriate 
+military command authorities to assure the proper execution of the military 
+mission, if the appropriate military authority has published by notice in the 
+Federal Register the following information:  
+i. Appropriate military command authorities; and  
+ii. The purposes for which the PHI may be used or disclosed. 
+ 
+B. A sponsored organization may use and disclose the PHI of individuals who are 
+foreign military personnel to their appropriate foreign military authority for the 
+same purposes for which uses and disclosures are permitted for Armed Forces  12 
+personnel under the notice published in the Federal Register as outlined above.  
+  
+C. A sponsored organization entity may disclose PHI to authorized federal officials 
+for the conduct of lawful intelligence, counter-intelligence, and other national 
+security activities authorized by the National Security Act and implementing 
+authority.    
+ 
+D. A sponsored organization may disclose PHI to authorized federal officials for 
+the provision of protective services to the President or other persons authorized 
+by 18 U.S.C. 3056, or to foreign heads of state or other persons authorized by 22 
+U.S.C. 2709(a)(3), or to for the conduct of investigations authorized by 18 
+U.S.C. 871 and 879.  
+ 
+16. Correctional Institutions and Law Enforcement Custodial Situations.  A sponsored 
+organization may disclose to a correctional institution or a law enforcement official 
+having lawful custody (an individual is no longer an inmate when released on parole, 
+probation, supervised release, or otherwise is no longer in lawful custody) of an inmate 
+or other individual PHI about such inmate or individual, if the correctional institution or 
+such law enforcement official represents that such PHI is necessary for:   
+A. The provision of health care to such individuals;  
+ 
+B. The health and safety of such individual or other inmates;  
+ 
+C. The health and safety of the officers or employees of or others at the correctional 
+institution;  
+ 
+D. The health and safety of such individuals and officers or other persons 
+responsible for the transporting of inmates or their transfer from one institution, 
+sponsored organization, or setting to another;  
+ 
+E. Law enforcement on the premises of the correctional institution; or 
+ 
+F. The administration and maintenance of the safety, security, and good order of 
+the correctional institution.  
+ 
+17. Disclosures for Law Enforcement Purpose to a Law Enforcement Official.  The 
+sponsored organization may disclose PHI for a law enforcement purpose to a law 
+enforcement official if the disclosure is: 
+A. Required by law, including the reporting of certain types of wounds or other 
+physical injuries, or 
+ 
+B. In compliance with and as limited by the relevant requirements of: 
+i. A court order or court-ordered warrant, or a subpoena or summons issued 
+by a judicial officer; 
+ii. A grand jury subpoena; or 
+iii. An administrative request (e.g., subpoena, summons, investigative  13 
+demand) or similar process authorized under law, provided that: 
+a. The information sought is relevant and material to a legitimate 
+law enforcement inquiry; 
+b. The request is specific and limited in scope to the extent 
+reasonably practicable in light of the purpose for which the 
+information is sought; and 
+c. De-identified information could not be reasonably used. 
+ 
+C. In response to law enforcement official's request for PHI for the purpose of 
+identifying or locating a suspect, fugitive, material witness, or missing person, 
+provided that only the following information is disclosed: 
+i. Name and address; 
+ii. Date and place of birth; 
+iii. Social security number; 
+iv. ABO blood type and rh factor; 
+v. Type of injury; 
+vi. Date and time of treatment and or death; and 
+vii. A description of distinguishing physical characteristics (height, weight, 
+gender, race, hair and eye color, presence or absence of facial hair, scars 
+and tattoos). 
+viii. No information may be disclosed as it relates to the patient's DNA, DNA 
+analysis, dental records, or typing, samples or analysis of body fluids or 
+tissue. 
+ 
+D. In response to law enforcement official's request for an individual's PHI, and the 
+individual is or is suspected to be a victim of a crime, if: 
+i. The individual aggress, or 
+ii. The sponsored organization is unable to obtain the patient's agreement 
+because of incapacity or other emergency circumstances, provided that: 
+a. The law enforcement official represents that such PHI is needed 
+to determine whether a violation of law by a person other than the 
+victim has occurred, and such information is not intended to be 
+used against the victim; 
+b. The law enforcement official represents that immediate law 
+enforcement activity that depends upon the disclosure would be 
+materially and adversely affected by waiting until the patient is 
+able to agree to the disclosure; and 
+c. The disclosure is in the best interests of the patient as determined 
+by the sponsored organization, in the exercise of professional 
+judgment. 
+ 
+E. For the purpose of alerting law enforcement of the death of the individual if the 
+sponsored organization has a suspicion that such death may have resulted from 
+criminal conduct. 
+ 
+F. Is PHI the sponsored organization believes in good faith constitutes evidence of  14 
+criminal conduct that occurred on the premises of the sponsored organization. 
+ 
+G. Related to the sponsored organization’s provision of emergency healthcare in 
+response to a medical emergency, other such emergency on the premises of the 
+sponsored organization, if the disclosure appears necessary to alert law 
+enforcement to: 
+i. The commission and nature of a crime; 
+ii. The location of such crime or of the victim(s) of such crime; and 
+iii. The identity, description, and location of the perpetrator of such crime. 
+ 
+18. Disclosures for Workers' Compensation. The sponsored organization may disclose PHI 
+as authorized by and to the extent necessary to comply with laws relating to workers' 
+compensation or other similar programs. 
+19. Judicial or Administrative Proceedings.  PHI may be disclosed in response to a court, or 
+administrative tribunal, provided that only the PHI expressly authorized by the order is 
+disclosed. 
+A. PHI may be disclosed via a subpoena, discovery request, or other lawful process, 
+that is not accompanied by an order of a court or administrative tribunal if: 
+i. The sponsored organization receives written satisfactory assurance from 
+the party seeking the PHI that the patient or the patient's personal 
+representative has been given notice of the request as demonstrated by 
+the following, or 
+a. The party issuing the subpoena has made a good faith attempt to 
+provide written notice to the patient or the patient's personal 
+representative; 
+b. The written notice included sufficient information about the 
+litigation or proceeding to permit the patient or the patient's 
+personal representative to raise an objection to the court or 
+administrative tribunal; and 
+c. The time for the patient to object has elapsed, and no objections 
+were filed, or any objections filed were resolved by the court or 
+administrative tribunal and the disclosures are consistent with that 
+resolution. 
+d.  
+B. The sponsored organization receives written satisfactory assurances from the 
+party seeking the information that: 
+i. The parties to the dispute have a agreed to a qualified protective order 
+and have presented it to the court or administrative tribunal with 
+jurisdiction over the dispute; or 
+ii. The party seeking the PHI has requested a qualified protective order from 
+such court or administrative tribunal. 
+ 
+C. If the requestor cannot demonstrate satisfactory assurance as noted above, the 
+sponsored organization may: 
+i. Make reasonable efforts to provide notice to the patient sufficient to meet 
+the satisfactory assurances section above or to seek a qualified protective  15 
+order; or 
+ii. A notice in writing should be provided to the requestor stating that 
+records will not be produced until HIPAA compliance is demonstrated 
+(e.g., satisfactory assurances, qualified protective order, order of the 
+court or administrative tribunal, patient or patient's personal 
+representative's HIPAA compliant authorization). 
+ 
+20. Disclosures to the Media- The Privacy Rule strictly limits what PHI the sponsored 
+organization may disclose to anyone, including the news media.  Members of the medial 
+do not have different rights from those of any other individual.  The general rule is that 
+except for treatment, payment and operations purposes, an individual’s PHI may be 
+released only if the individual authorizes the release. 
+ 
+A. Permitted Uses and Disclosures Generally 
+A sponsored organization may use or disclose protected health information in 
+directories, 
+provided that the individual: 
+ 
+1. Is informed in advance of the use or disclosure; 
+2. Has the opportunity to opt-out of the facility directory; and 
+3. Does not object to being included in the directory. 
+ 
+The opportunity to opt out of the facility directory may be exercised orally at the point 
+of registration or at any time during the patient’s stay 
+ 
+B.  Media Inquiries 
+1. If a member of the media inquires about a patient by name, a sponsored 
+organization may 
+release facility directory information to that member of the media if the 
+sponsored organization has followed the steps outlined above. 
+ 
+2. The protected health information from the facility directory that may be released 
+to a member of the media who inquires about an individual by name includes 
+only the following: 
+ 
+a. The individual’s name; 
+ 
+b. The individual’s location in the facility, unless this information would reveal 
+the p atient to be  in a psychiatric or substance abuse unit (this in formation 
+may NOT be released); 
+ 
+c. A one word description of the individual’s general condition, such as 
+undetermined, good, fair, serious, or critical.  This description should not 
+communicate specific health information about the individual. 
+ 
+C.  When a patient is incapacitated  16 
+1. If an individual is incapacitated and unable to authorize or object to the disclosure of 
+protected health information, a person who has the authority to make health care 
+decisions for the incapacitated person has the right to authorize or object to the release 
+of protected health information to the media.  This class of persons could include 
+conservators, designated agents, those with power of attorney for health care, or the 
+closest available relative. 
+ 
+2. If a patient is incapacitated or is involved in emergency treatment and does not have 
+the opportunity to object to being included in the facility directory, and there is no 
+person available who has the authority to make health care decisions for the 
+incapacitated person, a sponsored organization may disclose some or all of the 
+protected health information in the facility directory to the media if: 
+a. Such disclosure is consistent with a prior expressed preference of the individual, 
+if any, that is known to the covered health care provider; 
+b. The disclosure is in the individual’s best interest as determined by the health care 
+provider, in the exercise of professional judgment, and 
+c. The member of the media inquires about the person by name. 
+ 
+ 
+D.   Death of a Patient 
+1. HIPAA privacy protections continue to apply to an individual’s protected 
+healthinformation even after an individual’s death. Therefore, no one word 
+description of the individual’s condition, such as “deceased”, may be released to the 
+media unless the inquiry references the individual by name. 
+ 
+2. Patient death is a very sensitive issue. Before releasing a one word description 
+such as “deceased” from the facility directory, sponsored organizations should 
+exercise extreme care and should verify that the patient’s family has been notified 
+and does not object to disclosure of this information. 
+ 
+3. Additional information about an individual’s death, including date, time and cause 
+of death, may not be released without written authorization from the legal 
+representative of the deceased. This information typically comes from the 
+individual’s physician rather than from a hospital, skilled nursing facility or other 
+entity. 
+4. Although a sponsored organization or hospital may report information about an 
+individual’s death to other agencies such as the coroner or law enforcement, this 
+does not permit the sponsored organization to release the same information to the 
+media. 
+ 
+E.   Public Figures and Celebrities 
+1. This policy and other HIPAA privacy policies and procedures for release of 
+information and permissible disclosure apply equally for all patients, including 
+public figures or celebrities. 
+   
+2. In situations where covered entities anticipate increased media interest, sponsored  17 
+organizations may want to confirm with the individual or the individual’s 
+representative whether there is any objection to the disclosure of facility directory 
+information to the media. 
+ 
+F. Minors and Emancipated Minors 
+1. The HIPAA privacy rule defers to state law with respect to the rights of parents to 
+obtain access to or control the disclosure of protected health information concerning 
+their minor children.  Generally, if the parent or guardian has the authority to make 
+medical decisions on behalf of a minor child, the parent or guardian also has the right 
+to object to or authorize disclosure of protected health information concerning the 
+minor.  Conversely, if a minor has legal authority to consent to a health care treatment, 
+the minor also has the ability to object or authorize release of protected health 
+information even if the parent or guardian has not given authorization. 
+2. Minors who have been legally emancipated generally have the authority to make 
+health care decisions for themselves, including the ability to object to or authorize the 
+disclosure of their protected health information. 
+G. Disasters 
+1. Disasters require covered entities to operate in emotional and quickly changing 
+environments.  The need to keep the public informed must be balanced with the privacy 
+rights of patients and their families.  In these situations, sponsored organizations may 
+release information for the public good, but must take care to protect information that 
+can be linked to a specific individual.  The HIPAA privacy rules relating to release of 
+protected health information do not change in disaster situations.  A member of the 
+media must still ask about a patient by name before any information can be released. 
+ 
+2. In disaster situations involving multiple casualties, it may be necessary to share 
+patient information such as location, general condition or death with other hospitals 
+and recognized rescue/relief organization such as the Red Cross prior to next-of-kin 
+being notified.  Where possible, notify next-of-kin first. 
+ 
+3. Sponsored organizations may tell the media the number of patients that have been 
+brought to the facility by gender or age group and the general cause of their treatment 
+(earthquake, fire, etc.) as long as the information released does not identify a specific 
+individual. 
+ 
+H. Matters of Public Record/Public Domain 
+The fact that protected health information about an individual has been disclosed 
+through other means does not increase or change what a sponsored organization may 
+disclose to the media. For example, even if the police, the fire department or the 
+health department has disclosed information about an accident or other health 
+situation, a sponsored organization is still restricted to providing a one-word 
+description of an individual’s general condition if and only if someone inquires about 
+the patient by name and the patient has not objected to the disclosure. 
+  18 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• Health Insurance Portability and Accountability Act (HIPAA), Standards for Privacy of 
+Individually Identifiable Health Information 45 C.F.R. § 164.512(b), (d), (g), (h), 
+(i)(1)(ii), (i)(1)(iii), (j), (k), (l).      
+APPENDIX: 
+N/A 
+ 

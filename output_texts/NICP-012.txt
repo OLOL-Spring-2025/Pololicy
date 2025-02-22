@@ -1,0 +1,117 @@
+NICP-012 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Neonatal Intensive Care 
+Subject:  Neonate Hearing Screening in the NICU Section:  Patient Care 
+Date of Origination:  November 11, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+ 
+August 23, 2024 
+Serial Code:  NICP-012 
+  
+PURPOSE: 
+To establish guidelines and procedure for early identification of infants born with, or who acquire hearing loss, as 
+mandated by Louisiana law. 
+ 
+POLICY: 
+It is the policy of OLOL Children’s Hospital to provide a hearing screening on all infants in the Neonatal 
+Intensive Care Unit (NICU) not previously screened by 1 month of age or readmitted to the hospital within the 
+first month of life when there is a condition associated with potential hearing loss (e.g., hyperbilirubinemia 
+requiring exchange transfusion or culture-positive sepsis).  
+ 
+A. Responsibility 
+1. Must be performed by appropriately trained professionals supervised by a licensed audiologist or 
+physician with training in infant hearing screening. 
+2. Results, or reason not tested, must be reported to the Deaf or Heard of Hearing (D/HH) Early 
+Hearing Detection and Intervention program on the Newborn Hearing Screening Report (NHSR) 
+form by fax 504-568-5854 or e-mail LAEHDI@la.gov, as well as, to the Primary Care Physician and 
+parents within 14 days. 
+3. Should take place as close to discharge as possible for the most accurate results. 
+i. Infant should be at least 24 hours following vaginal delivery or 48 hours following c-section 
+to allow for any birthing debris in the ear canal to dry. 
+ii. Infant should be screened at 34 weeks gestational age or greater, or upon discharge from the 
+NICU. 
+iii. If infant is receiving ototoxic medications, the screening should be conducted following 
+completion of the course of medications. 
+ 
+B. Equipment 
+1. Contract company, Hearing Screenings Associates, will provide an automated Auditory Brainstem 
+Response (ABR) unit, earphones, ear couplers, and supplies.   
+2. Equipment will be kept in the NICU  
+ 
+C. Procedure 
+1. Preparation 
+i. NICU team will contact Hearing Screening Associates to inform of hearing test needed. 
+ii. Prior to screening, screener will determine any family history of genetic hearing loss, identify 
+risk factors for hearing loss and obtain name of infant’s PCP following discharge. 
+iii. Screener will perform proper hand hygiene prior to testing and will don appropriate personal 
+protective equipment (PPE) during screening. NICP-012 
+Page 2 of 3 
+iv. Screener will give the completed report to the nurse (white copy) and another copy for the 
+family. The nurse will enter the results into EPIC. In addition, the form is to be uploaded into 
+the patient’s electronic record.   
+v. The audiologist will report the results to DHH Early Hearing Detection and Intervention 
+program. 
+vi. If the infant fails the screening, they will be referred to an Audiologist post discharge, by the 
+screener. 
+ 
+2. Testing 
+i. As stated in Louisiana law, screening will be conducted only by personnel trained, certified, 
+current in observations and supervised by an Audiologist. 
+ii. All information on screener competency will be maintained and reported to LAEHDI 
+annually. 
+iii. Screening will be conducted in the patient’s room.  
+iv. Screening will be attempted at least 2, but not more than 4 times before being considered a 
+refer result. 
+v. If infant passes the test: 
+1. All results are charted in the electronic medical record (EMR) and included in the 
+discharge summary. 
+2. All results are charted on the DHH Newborn Hearing Screening Form, and the white 
+copy will be filed in the infant’s chart. Once the patient is discharged, HIM will 
+upload this form into the electronic record. 
+3. If an infant has risk factors for late-onset hearing loss, recommendations are made for 
+further testing in the future. 
+4. The Audiologist will send the results to DHH Early Hearing Detection and 
+Intervention program 
+vi. If infant refers for further testing: 
+1. Screener contacts medical management to request referral to an Audiologist for 
+further testing within 2-4 weeks after discharge. 
+2. Treating physician should review screening results and importance of follow-up with 
+the parent before discharge. 
+3. Parent will receive a copy of the NHSF test results along with information on 
+address/location of audiologist and contact number. 
+vii. If the infant leaves without a hearing screening: 
+1. Secondary to transfer to another hospital, the receiving hospital is responsible for 
+completing the hearing screening.  
+2. Secondary to discharge prior to completion of screening, a referral will be placed with 
+an audiologist for evaluation within 2-4 weeks. 
+3. Secondary to expiration, LAEHDI will be notified that testing could not be 
+completed. 
+ 
+D. Documentation 
+1. The nurse will document the patient’s screening results in the EMR and the screening form (white 
+copy) will be scanned into the patient’s chart by the HIM department after discharge.   
+2. The contract company will accurately report all Newborn Hearing Screening Report (NHSR) results 
+electronically into the LEERs system within 14 days and forward the results on those infants who 
+did not receive a screening, who expired, or who transferred into the hospital and do not have a birth 
+certificate to DHH Office of Public Health/Louisiana Early Hearing Detection and Intervention 
+Program. NICP-012 
+Page 3 of 3 
+3. The Audiologist will document the results on all infants who return for follow-up or who are lost to 
+follow-up in the DHH EHDI database.  
+4. The Audiologist will maintain records on technician competency and equipment calibration for 
+annual reporting to DHH. 
+ 
+ 
+References: 
+ 
+Guidelines for Newborn Hearing Screening in Louisiana Birthing Facilities. Department of Health and 
+Hospitals, Office of Public Health, Hearing, Speech, and Vision Department, 2017. www.ehdi.dhh.la.gov 
+ 
+Beauman, S.S & Bowles, S. (2019).  Policies, Procedures, and Competencies for Neonatal Nursing Care (6th 
+Ed).  National Association of Neonatal Nurses. 
+ 

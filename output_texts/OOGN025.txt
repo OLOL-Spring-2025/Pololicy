@@ -1,0 +1,743 @@
+  OrgOps/GN/025 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Health Chapter:  Operational 
+Subject:  Patient Safety and Quality Performance Improvement 
+Plan 
+Section:  General 
+Date of Origination:  July 2005   Supersedes:  
+Date Last: 
+Revised 
+Reviewed 
+ 
+November 2024 
+November 2024 
+Serial Code:  OrgOps/GN/025 
+  
+PURPOSE: 
+The purpose of the Patient Safety and Quality Organizational Performance Improvement Plan is to 
+ensure the Governing Board of Directors, Me dical Staff, and hospital staff  demonstrate a consistent 
+effort to improve the delivery of care to patients through a systematic, coordinated, priority -driven 
+approach to performance improvement  and Everyday Excellence .  The program aligns with the 
+Organizational Mission, Vision and Core Values and provides an infrastructure designed to deliver 
+quality health care, promote patient safety, monitor and measure key functions and processes, and 
+identify opportunities based on data analysis. 
+ 
+SCOPE: 
+This document represents the Our Lady of the Lake Health (OLOL) Organizational PI Plan for the 
+Patient Safety and Quality Program as approved by the Governing Board of Directors. The components 
+of the Patient Safety and Quality Performance Improvement Plan include, but are not limited to: 
+ 
+• Quality improvement and patient safety oversight, assistance, and coordination relative to patient 
+care services and operations 
+• Quality improvement and patient safety functions requiring assessment, improvement, 
+monitoring, aggregation and analysis 
+• Facilitation and project management support of performance improvement teams 
+• Benchmarking, best practice identification, and data comparison support 
+• Data management, data aggregation, monitoring, and analysis of key strategic initiatives, sentinel 
+event/critical incident risk reduction strategies, Joint Commission required measures, National 
+Patient Safety Goals and other analysis as deemed appropriate  
+• Thorough and credible assessment of sentinel events and/or other critical incidents 
+ 
+POLICY:  
+OLOL will improve processes in a collaborative effort to yield better than expected , reliable outcomes. 
+OLOL will select, measure, aggregate, and monitor performance indicators to ensure success and 
+identify opportunities for excellence. OLOL is committed to the ongoing improvement of the quality of 
+care its patients receive, as evidenced by the outcomes of that care. The organization continuously 
+strives to ensure: 
+• The culture of the organization supports safety, transparency,  high-reliability, and performance 
+excellence. 
+• The care, treatment, procedures, and services  provided incorporate evidence based, effective 
+practices. 
+   OrgOps/GN/025 2 
+• The care, treatment, procedures and services provided are appropriate to each patient’s needs, 
+and are performed in a safe, timely and efficient manner, with appropriate coordination and 
+continuity across all phases of care and all providers of care. 
+• Risk to patients, providers and others is minimized, and errors in the delivery of services are 
+prevented. 
+• Patient’s individual needs and expectations are respected; patients – or those whom they 
+designate – have the opportunity to participate in decisions regarding their treatment and services 
+are provided with sensitivity and caring. 
+Value to patients, providers and team members is reinforced through leadership ’s commitment to 
+reducing clinical variati on, eliminating harm, the establishment of a quality curriculum, a focus on 
+safety, and the utilization of robust process improvement tools (Fig 1.1).  Using a patient centered 
+approach to quality and patient safety, iterative improvements are made by applying an interdisciplinary, 
+evidenced based practice approach. 
+ 
+Figure 1.1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Continuous Quality Improvement Principles   
+ 
+LakeLean.  LakeLean is OLOL Health’s approach to continuous quality improvement principles that 
+reduce waste and achieve better efficiency  tosupport a safe environment for patients, their families, and 
+team members . LakeLean is designed to continuously improve performance by identifying and 
+eliminating wastes. All team members, physicians and leaders are asked to support LakeLean practices 
+in their everyday work to help improve processes and the patient experience. Additionally, OLOL 
+Health has adopted the following quality and patient safety principles from the Baldrige Framework:  
+ 
+• Leadership Involvement.  Strong leadership, direction and support of quality improvement and 
+patient safety activities by the governing body and Executive Leadership Team  are key to a 
+culture of performance improvement and patient safety.  This involvement of organizational 
+senior leadership assures that quality improvement and patient safety initiatives are consistent 
+with the  vision, the  mission, the core values  and the strategic plan . Their involvement also 
+ensures organization-wide systems for safety and quality are supported.  
+• Evidence-Based Decision Making .  Successful performance improvement processes create 
+feedback loops, using data to improve practice, measure results, and identify opportunities for   OrgOps/GN/025 3 
+Core Framework of Patient Safety 
+excellence.  
+• Statistical Tools . For continuous improvement, tools and methods are needed that foster 
+knowledge and understanding. Organizations with a culture of performance excellence use a 
+defined set of analytic tools such as run charts, cause and effect diagrams, flowcharts, Pareto 
+charts, histograms, and control charts to turn data into information. 
+• Systems Thinking. For continuous improvement of organizational performance, efforts are made 
+to identify and eliminate waste across the patient continuum, therefore decreasing the risk of 
+breakdowns and system failures. 
+Quality Improvement Activities 
+To ensure strategic alignment, quality improvement activities emerge from a systematic and organized 
+framework for  patient safety . (Figure 1.1 -1) This quality improvement framework incorporates the 
+following key elements: 
+ 
+• Patient-centered approach (Quality Goals) 
+• Multidisciplinary (Interdisciplinary Quality) 
+• Team-based care (All Persons Input Valued) 
+• Efficient (Cost to Patient) and Outcome Focused 
+• Common Medical Informatics (Optimal Clinical Database and Health Information Exchange) 
+• Recognition of Geographic Factors (REL & SDOH) 
+• Reduction in Evidence Based Medicine Translation time 
+ 
+ 
+Figure 1.1-1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 1: Leadership, Organization and Work Environment  
+ 
+Leadership The key to the success of the Quality & Patient Safety Program  is effective leadership 
+participation and commitment.  The Quality & Patient Safety Program, under the governance of the 
+Performance Excellence  Subcommittee of the Board of Directors , bases decisions on the following 
+Deming-based principles:   OrgOps/GN/025 4 
+• A commitment to championing performance improvement efforts. 
+• A commitment to be a change agent in transforming the culture from reactive to proactive.  
+• A commitment to challenging processes and identifying opportunities for improvement.  
+• A commitment to maintaining organizational focus on identified quality goals. 
+• A commitment to fostering teamwork. 
+• A commitment to providing the resources necessary to reach goals. 
+• A commitment to analyzing data based on trends and patterns as opposed to a single data point. 
+• A commitment to actively participate in performance improvement education activities.  
+• A commitment to fostering, recognizing and rewarding a culture of safety and quality. 
+ 
+Organization. A list of the committees and workgroups key to the success of the Patient Safety and 
+Performance Improvement program and their roles and responsibilities are displayed in Figure 1.1 -3. 
+Figure 1.1-4 displays the Performance Improvement Information Flow.   
+ 
+Work Environment.  Every team member is responsible for ensuring that not only themselves, but 
+other team members, abide by the Mission, Core Values, Service Standards and Principles of 
+Organizational Ethics.  
+ 
+Our Lady of the Lake Health recognizes the value of a positive work environment. Our Lady of the Lake 
+Health Policy OrgOps/GN/034 Principles and Standards for Team Member Behavior was 
+developed to clearly delineate those behaviors that are acceptable and positively impact quality and 
+safety transformation from  inappropriate, disruptive and intolerable behaviors. 
+ 
+Figure 1.1-3 Key Committees 
+ 
+Committee Roles and Responsibilities Meeting 
+  Schedule 
+Frequency 
+The Governing Board • Approves the Performance Improvement Plan and evaluates the effectiveness of the 
+performance improvement activities 
+• Provides resources and support systems for performance improvement functions related to 
+patient care and safety 
+• Authorizes the CEO, Senior Management Team, and Medical Staff leadership to establish 
+appropriate mechanisms to maintain and support the ongoing program 
+Quarterly 
+ 
+ 
+ 
+ 
+ 
+ 
+The Performance 
+Excellence Committee 
+(PEC) 
+Quality subcommittee of the Board 
+• Communicates relative performance improvement data to the Board 
+• Ensures an infrastructure exists for measurement of patient safety, clinical outcomes, 
+organizational processes, and adverse events 
+• Approves and supports resources necessary for Performance Improvement activities 
+• Directs action when indicated based on information from Quality committees 
+• Reprioritizes performance improvement goals and objectives based on changes in the internal 
+or external environment. 
+• Reports to the Governing Board 
+Quarterly 
+The Medical Executive 
+Committee (MEC) 
+Facilitator: Chief of Staff 
+• Ensures policies and processes are implemented to ensure that all patients receive the standard 
+level of care 
+• Monitors and evaluates clinical services, significant departures from established patterns of 
+clinical practice, peer review, and ongoing medical staff monitoring 
+• Provides mechanisms to monitor, assess, and evaluate the quality and appropriateness for 
+patient care and clinical performance of individuals with delineated clinical privileges 
+• Delegates oversight responsibility for PI assessment, monitoring, and evaluation to Quality 
+Leadership Team. 
+• Makes recommendations to Board regarding PI and patient safety activities of the Medical Staff 
+• Supports clinical leadership in implementing the PI and patient safety initiatives and strategies 
+• Reports to the Governing Board 
+Monthly  
+Professional Practice and 
+Evaluation Committee 
+• Reviews physician-specific data to monitor and evaluate appropriate patient care 
+• Reviews physician reappointment data to identify trends and patterns that need further 
+Monthly 
+   OrgOps/GN/025 5 
+Committee Roles and Responsibilities Meeting 
+  Schedule 
+Frequency 
+(PPEC) 
+Facilitator:  Chief of Staff 
+Chief Medical Officer 
+investigation 
+• Makes recommendations to the MEC on actions to be taken on peer review cases 
+• Reports to the Medical Executive Committee 
+Divisions and Service Lines 
+of the Medical Staff 
+Facilitator:  Chief Medical Officer 
+• Monitors performance improvement data as directed by MEC 
+• Oversees, evaluates, and makes recommendations related to peer review and utilization review 
+activities 
+• Monitors and assures mechanisms for peer review and outcome reviews function as designed 
+• Reports to the Medical Executive Committee 
+Schedules 
+available in 
+Medical Staff 
+Office 
+Quality Leadership Team 
+(QLT)  
+Facilitator:  VP, Planning and 
+Performance 
+ 
+ 
+• Recommends organization quality and safety strategy to Performance Excellence  
+• Sets organizational quality and safety goals 
+• Establishes organizational quality and safety curriculum for team members 
+• Reviews Quality & Safety Dashboard and Unit Safety Scores 
+• Monitors and evaluates all public reported data and reputation surveys 
+• Reviews and provides recommendations on divisional performance improvement and quality 
+initiatives 
+• Reviews and approves organization Infection Control surveillance plan and results 
+• Reviews and provides recommendations on contract services performance improvement and 
+quality initiatives 
+• Oversees prioritization of organizational projects and allocation of quality division resources 
+• Oversees RCA process for sentinel and non-sentinel events. 
+• Provides oversight of organizational Quality Assurance/ Performance Improvement (QAPI) 
+requirements for regulatory bodies that include but are not limited to TJC and CMS 
+• Reports to the Governing Board and Executive Committees on improvements 
+Every 8-12 
+weeks  
+LakeLean Management 
+Team  
+Facilitator: Sr. Director and 
+Supervisor, Performance 
+Improvement  
+ 
+ 
+• Provides oversight of organizational improvement projects 
+• Provides oversight of organizational Failure Mode Effects Analyses (FMEAs) and other 
+improvement tools. 
+• Produces the LakeLean Dashboard for projects 
+• Promotes the consistent organizational use of LakeLean principles, methodology, and tools 
+• Recommends Quality curriculum specific to performance improvement 
+• Reports to the Quality Leadership Team 
+Weekly 
+Patient Safety Workgroup 
+Facilitator: Sr. Director, 
+Performance Improvement  
+ 
+ 
+• Analyzes trended patient safety data from various sources, including patient safety rounds 
+• Oversees RCA process for sentinel and non-sentinel events. 
+• Identifies and address opportunities from patient safety rounds 
+• Oversight of National Patient Safety Goals implementation and performance 
+• Oversight of Safety Event Management (SEM) system for reporting near miss and actual harm 
+events 
+• Responsible for the implementation of a biennial Culture of Safety Survey to team members 
+which includes analysis and communication of results 
+• Reports to the Quality Leadership Team  
+Weekly 
+Department Head 
+Includes: Organizational Leaders 
+• Forum for sharing best practices and innovation from various sources including PI Teams 
+• Education and Information Sharing 
+Monthly  
+Executive Leadership 
+Team 
+Facilitator:  President 
+ 
+• Supports and actively participates in PI and patient safety initiatives 
+• Delegates oversight responsibility for PI assessment, monitoring, and evaluation to Quality 
+Leadership Team (QLT) 
+• Prioritizes and facilitates the acquisition of resources needed to support the PI programs 
+• Approves and monitors key indicators to determine trends and patterns 
+• Identifies, monitors, and defines an infrastructure for measuring organizational processes, 
+clinical outcomes, sentinel/adverse events, patient safety initiatives 
+• Uses project performance to reward & recognize team members and providers 
+• Promotes the consistent organizational use of LakeLean principles, methodology, and tools 
+                Monthly 
+Interdisciplinary Quality 
+(IDQ) 
+Facilitators: Medical Director, 
+Quality & Safety,  
+Sr. Director, Performance 
+Improvement 
+• Supports and actively participates in PI and patient safety initiatives 
+• Identifies, monitors, and defines an infrastructure for measuring organizational processes, 
+clinical outcomes, sentinel/adverse events, patient safety initiatives 
+• Offers a “sandbox” to discuss potential performance improvement activities identified through 
+feedback or trended performance  
+ 
+Weekly   OrgOps/GN/025 6 
+Committee Roles and Responsibilities Meeting 
+  Schedule 
+Frequency 
+PI Studio 
+Facilitators: Supervisor, 
+Performance Improvement, Sr. 
+Director, Performance 
+Improvement 
+• A mechanism to transparently share PI activities by departments, divisions, service lines to all 
+levels of the organization 
+• Forum to celebrate successes, share best practice learnings and ideas, and share and receive 
+peer feedback on difficult problems/barriers 
+• Offers “Studio Time” to discuss ideas for performance improvement, validation of a 
+barrier/mitigation approach, or address PI or analytics questions 
+Monthly 
+Children’s Hospital Quality 
+Improvement Committee 
+Facilitator: Children’s Hospital 
+Quality Medical Director 
+• Supports and actively participates in PI and patient safety initiatives 
+• Identifies, monitors, and defines an infrastructure for measuring organizational processes, 
+clinical outcomes, sentinel/adverse events, patient safety initiatives 
+• Offers a “sandbox” to discuss potential performance improvement activities identified through 
+feedback or trended performance  
+ 
+Twice per 
+Month 
+Additional Committees not referenced in PI Plan 
+Environment of Care 
+Facilitator: Director, Security and 
+Emergency Preparedness 
+• Responsible for the oversight of Environment of Care and Life Safety requirements  
+• Provides oversight and monitors OLOL’s Preventative Maintenance program 
+• Provides oversight and monitors OLOL’s Fire Safety program 
+• Provides oversight and monitors OLOL’s Emergency Management Plan 
+• Provides oversight and monitors construction projects specifically related to the environment 
+and infection control requirements 
+• Monitors employee harm indicators such as needle stick exposures, falls/ slips, lifting injury for 
+risk assessment and to understand the impact to team members 
+• Reports annually to the Performance Excellence Committee 
+Monthly 
+Regulatory Accreditation 
+Workgroup 
+Facilitator: Sr. Director, Regulatory 
+• Responsible for the review of all clinical and operational standards specified by regulatory and 
+accrediting bodies 
+• Responsible for survey readiness and setting the survey plan 
+• Responsible for identifying, monitoring, and defining an infrastructure for measuring compliance 
+with all regulatory and accrediting body standards 
+• Responsible for oversight of action planning process related to regulatory and accreditation 
+surveys 
+• Reports activity quarterly to the Performance Excellence Committee 
+Monthly 
+Utilization Management 
+Committee 
+Facilitator: Sr. Director, Care Mgt 
+• Assess and improve the delivery of care to all patients, regardless of payment source, in an 
+efficient and effective manner 
+• Guides the method for conducting utilization review for appropriateness of admits, continued 
+stay and discharges from the organization 
+• Monitors performance of medical necessity reviews for inpatient/outpatient, extended stays, 
+and 1-day stays 
+• Monitors and reviews average length of stay and 30-day readmissions 
+• Tracks and reports avoidable days and CDI reporting 
+• Reports activity annually to the Performance Excellence Committee 
+Quarterly 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.1-4 PI Information Flow*   OrgOps/GN/025 7 
+ 
+ 
+*Fig. 1.1 -4 represents the macro level information flow for the OLO L Health’s  enterprise and includes, but is not limited to: 
+Academic Affairs, OLOL-Ascension campus, Children’s Hospital  campus,, H ospital Outpatient Departments , licensed clinics, 
+divisions, departments and units. 
+ 
+Section 2:  Goals and Objectives 
+The Performance Excellence  Committee ( PEC) identifies long term Quality and Patient Safety 
+organizational goals aligned with OLO L Health’s strategic objectives.  The organizational goals, their 
+measures, and data sources are identified in Figure 2.1.  
+ 
+Figure 2.1 – Global Aims    
+ORGANIZATIONAL PATIENT SAFETY 
+AND QUALITY GOALS* Measure Comparative Data Source 
+Strategic Objective 
+(Global Aim) 
+Mortality Risk Adjusted Mortality Index  
+Clinical Data Analytics 
+Management System  
+Top Decile of Cohort 
+Harm Complications Rate  
+ Clinical Data Management 
+Analytics System 
+Top Decile of Cohort 
+Readmissions Readmission Rate  
+ Clinical Data Analytics 
+Management System 
+Top Decile of Cohort 
+Hospital Acquired Infections 
+(HAI) 
+Hospital Acquired Infections (HAI) 
+Infection Control Department 
+(CDC Guidelines) 
+Top Decile (NHSN) of 
+Cohort 
+Patient Safety 
+Global PSI (PSI 90) 
+% Near Miss Reporting 
+ Clinical Data Analytics 
+Management System & Safety 
+Event Management System 
+Top Decile of Cohort 
+Patient Experience 
+Press Ganey patient Satisfaction 
+HCAHPS 
+Press Ganey Database Top Decile of Cohort 
+Disease Specific Conditions 
+AMI, HF, PN, Hip/Knee, CABG, 
+Stroke, Sepsis 
+Multiple Multiple 
+*Overall, as well as select disease specific conditions 
+ 
+   OrgOps/GN/025 8 
+Figure 2.1 – FY25 Quality & Patient Safety Focus Areas 
+ 
+ 
+ 
+ 
+Section 3: Performance Measurement  
+ 
+Performance Measurement is the process of regularly assessing the results produced by the program.  
+It involves identifying processes, systems and outcomes that are integral to the performance of the 
+service delivery system, selecting indicators of these processes, systems and outcomes, and analyzing 
+information related to these indicators on a regular basis.   
+ 
+Selection of a  Key Performance Indicator.   A performance indicator is a quantitative tool that 
+provides information about the performance of the hospital’s process, services, functions or outcomes.  
+Selection of a Performance Indicator is based on the following considerations:  
+• Relevance to mission - whether the indicator addresses the population served  
+• Relevance to the Strategic Plan - whether the indicator addresses and supports our strategic plan  
+• Organizational importance  - whether it addresses important processes that are  high volume , 
+problem prone or high risk 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.1 below identifies key comparative data sources and frequency of update. 
+   OrgOps/GN/025 9 
+Comparative Data Sources 
+Pillar Comparative 
+Database 
+Data 
+Sources 
+Available 
+Segmentation Measures Benchmarks Frequency 
+of Update 
+Team Member 
+Engagement Advisory Board Oracle 
+Market, 
+Company, 
+Department, Job 
+Class, 
+Demographic 
+Segments 
+Overall, 1 year, 5 year 
+segments up to 45 years 
+Internal by 
+ministry Monthly 
+Patient 
+Experience 
+Press Ganey 
+Patient 
+Satisfaction 
+Survey 
+By Unit 
+(Department) 
+Individual questions relevant 
+to the customer (patient) 
+experience  
+600+ Bed 
+Hospitals; 
+National; State; 
+Magnet 
+ Monthly and 
+quarterly 
+HCAHPS HCAHPS  By Adult 
+Inpatient Unit 
+Individual questions relevant 
+to customer (patient) 
+perception of care  
+ 600+ Bed 
+Hospitals; 
+National; 
+Magnet  
+ Monthly and 
+quarterly 
+Patient Safety 
+and Quality 
+Transformation 
+Clinical Data 
+Analytics 
+Management 
+System 
+All Payor 
+Inpatient by 
+Service Lines; 
+physician, MS-
+DRG, diagnosis, 
+charge level 
+detail 
+Mortality Index, 
+Complications, 
+Readmission, Length of 
+Stay 
+Peer; National; 
+Discharges; 
+Teaching; 
+Geographic 
+Location 
+Quarterly 
+National 
+Hospital Quality 
+Measures 
+(Core 
+Measures)  
+All Payor and 
+Manual Chart 
+Abstractions 
+By Unit, MD, By 
+Measure 
+National Hospital Quality 
+Measures 
+TJC 
+Benchmark, 
+Hospital 
+Compare 
+Quarterly 
+The Joint 
+Commission 
+ ORYX 
+(eCQM) 
+Core 
+Measures 
+Inpatient by 
+relevant Service 
+Line 
+Top 10% of Hospitals TJC 
+Benchmark Quarterly 
+Hospital 
+Compare CMS By state, by 
+hospital 
+Mortality, readmission, 
+harm, efficiency, safety 
+timeliness 
+National / State Quarterly 
+Financial 
+Success and 
+Growth 
+Louisiana 
+Health 
+Information 
+Network (LHIN) 
+Participating 
+Hospitals in 
+Louisiana 
+By Parish, by 
+Service Line, by 
+MS-DRG, by 
+Diagnosis, by 
+Age 
+Inpatient Market Share Market Leader Quarterly 
+Moody's Bond 
+Agency 
+ 
+EPSI/ Tableau 
+Performance 
+of Healthcare 
+Companies 
+Across the 
+United States  
+Organization 
+Wide 
+Operating Margin, EBITDA 
+Margin, LOS, Salaries & 
+Benefits as a % of Net 
+Operating Revenue, Days 
+Cash on Hand, Accounts 
+Receivable Days 
+Aa2 Rating Annually 
+Physician 
+Engagement 
+Quality and 
+Utilization 
+All Payor, 
+Clinical Data 
+Analytics 
+Management 
+System  
+Inpatient only by 
+Service Lines; 
+physician, MS-
+DRG, diagnosis  
+Mortality, Complications, 
+Readmissions 
+Peer, National, 
+Regional, 
+Teaching 
+Semi-Annual 
+Section 4: LakeLean  Management Team 
+The LakeLean Management team acts as the evaluation committee , the performance improvement 
+subject matter experts and make decisions regarding  team commission ing and decommissioning  of 
+performance improvement teams . Figure 4.1 identifies the P erformance Improvement (P I) Funnel 
+Management for identifying, prioritizing, executing and tracking projects.  The LakeLean Structure and 
+Sustainability Playbook is an ongoing and living reference to ensure thoroughness and consistency of 
+approach in performance improvement. The Playbook outlines the principles, tools, systems and 
+structures that enable leaders to successfully implement organizational improvements.  
+ 
+   OrgOps/GN/025 10 
+Figure 4.1 
+ 
+Lakelean Improvement Funnel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Commissioning: A performance improvement team can be recommended via multiple data sources that 
+includes but is not limited to: 
+• Team member suggestions 
+• Department / Workgroup / Service Lines 
+•  
+• Franciscan Health Physicians 
+• Board / Leadership Imperative 
+• Publicly Reported Data (e.g., Leapfrog, US News, CMS/TJC) 
+• External / Customer / Community 
+ 
+Although LakeLean (DMAIS) is the primary model used by OLOL  Health, other met hodologies are 
+deployed based on the size and scope of the improvement initiative  (e.g., Plan-Do-Study-Act (PDSA), 
+six sigma).  
+  
+OLOL Health employs project management principles to manage the PI team process. A LakeLean 
+Dashboard track s project goal metrics. Clinical quality improvement initiatives are tracked via the  
+STEEP (Safe, Timely, Effective, Efficient, Equitable, Patient -Centered) Quality Dashboard which is 
+reviewed quarterly with the Performance Excellence Committee & MEC.  Use of LakeLean resources 
+for PI Teams will consider the following: 
+• Multi-departmental/Cross-functional Teams  
+• Project Prioritization 
+  
+Once commissioned, team progress will be evaluated by the Quality Leadership Team  to ensure that 
+Yes 
+No   OrgOps/GN/025 11 
+progress is being made and the applicable dimensions of performance are being addressed. The  process 
+owner will be responsible for reporting the following: 
+• Team status barriers 
+• Successes 
+• Measurement results 
+• Organizational learning from cycles of improvement 
+Decommissioning: 
+Prior to decommissioning, project teams will present their outcome to the appropriate quality committee 
+to ensure sustainable results. 
+Section 5: Sentinel Events, Adverse Events and Near Misses:  
+OLOL Health identifies and responds to sentinel events occurring in its facilities as detailed in Policy 
+OrgOps/GN/018 Sentinel Events and Root Cause Analysis.  Adverse events and near misses are 
+evaluated as outlined in OrgOps/GN/019 Safety Event (Incident or Variance) Reporting. Disclosures 
+are performed as outlined in Org/Clinical 007: Disclosure of Unanticipated Outcomes, Medical 
+Errors, and Sentinel Events. 
+Peer Review 
+The peer review process addresses the specific care or aberrant patterns of care rendered by an 
+individual medical staff member.  Reviews are performed through the Professional Practice Evaluation 
+Committee (PPEC) (Policy MSPHY019 Professional Practice Evaluation)  
+Section 6: Quality & Patient Safety Program Evaluation and Organizational Learning 
+At least once a year the following will be presented to the  Performance Excellence Committee of the 
+Board of Directors:  
+• Systems or process failures 
+• The number and type of sentinel events, including disclosure to patient and/or family 
+• Actions taken to improve safety, both proactively and in response to actual occurrences 
+• Progress towards meeting the Annual Goals/Objectives of OLOL Health’ss Patient Safety and 
+Quality Organizational PI Plan. 
+Section 7: Patient Safety Evaluation System (PSES) and Patient Safety Work Product (PSWP) 
+OLOL designates this Quality & Patient Safety Performance Improvement  Plan as part of its PSES and the 
+activities, data, reports, etc derived from this PI Plan as PSWP (Policy FMOLHS PSO). All patient safety and 
+quality improvement activities described in the PSES are conducted with the intent to transfer the PSWP to a 
+Patient Safety Organization (PSO)  protection.  Recommendations for best practices and workflow processes 
+related to the PSWP will be disseminated to minimize patient risk and improve the quality of care. 
+ 
+ 
+  
+ 

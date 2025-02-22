@@ -1,0 +1,123 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 1 of 3 
+PHLIS004 
+ 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLIS004 
+VIEWING PATIENT LABORATORY INFORMATION  
+       Date Issue Date Effective Date 
+ Prepared/Revised By ZJA/LC 10/11/2017 10/11/2017 10/11/2017 
+Reviewed By LC 9/17/2019 Origination Date 
+Medical Director Review A Harton 9/22/2019 JAN 2001 
+ 
+PURPOSE: 
+Describe how to use the computer to look up patient orders utilizing EPIC Hyperspace 
+ 
+Addresses: 
+Supervisors 
+Venipuncture Charge Techs 
+Venipuncture Phlebotomists 
+ 
+POLICY: 
+1. Seeking medical information or reviewing medical records is not permitted unless required by job duties 
+2. Use EPIC Hyperspace to determine if a laboratory order has been: 
+• Ordered 
+• Collected 
+• Resulted 
+ 
+PROCEDURE: 
+1. To access EPIC: 
+a. Open Team Link. 
+b. Click on the Epic Hyperlink. 
+c. Double click on Epic Hyperspace. 
+d. Log in using your credentials.  
+e. Select “LALK Laboratory” in the department field.  
+2. Single click on the Patient Station icon 
+a. Patient information can be accessed by entering the: 
+b. Patient NAME/MRN 
+▪ Patients with common names are selected with care 
+▪ Additional patient specific information may be necessary and would include 
+o Date of birth 
+▪ Enter the patient name by typing “last name, comma, first name” 
+▪ A list of possible patients is displayed 
+▪ Click on the correct patient by name, medical record number, or birth date 
+▪ Click OK 
+▪ The patient of interest is selected and visit specific dates appear 
+▪ Choose the correct patient visit by date of activity 
+▪ Double Click on correct visit date 
+▪ The computer will open the patient’s chart for the corresponding visit 
+▪ Verify choice of patient by checking patient room number OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 2 of 3 
+PHLIS004 
+ 
+ 
+3. Select Chart Review, once patient’s chart is open 
+a. In Chart Review select the “Lab” Tab 
+b. The computer displays the laboratory orders for the patient chosen listed by date of service and 
+time of order 
+c. To review any lab orders that are canceled, uncheck the “Hide Cancel” box in the tool bar 
+4. Look for the order in question 
+5. Determine the order status by looking at the current status column 
+• NEEDS TO BE COLLECTED 
+▪ The test has been ordered 
+▪ The test specimen has not been received or logged in by Central Processing 
+▪ The test sample is not in the laboratory 
+▪ The test sample may not have been drawn 
+▪ The test sample may have been drawn but the collection has not been updated 
+electronically by the collector nor has it been sent down to Central Processing 
+• FINAL RESULT / PRELIMINARY RESULT(Micro) 
+▪ The test specimen has been received in Central Processing and is in the laboratory 
+▪ The test has been completed and final or preliminary results are available.  
+• COLLECTED 
+▪ The test specimen has been drawn 
+▪ The test specimen is in the laboratory 
+▪ Category for tests that are sent to other laboratories for testing such as reference  
+• STANDING 
+▪ The test is ordered for a future collection time 
+▪ The request order time displays in the time column 
+6. Answer the callers question by verifying current order status 
+7. If the order status is: 
+• NEEDS TO BE COLLECTED 
+▪ Determine current phlebotomy efforts for the draw and relay that information to the caller 
+▪ Inform the caller of problems that may have effected timely collection of the draw 
+• FINAL RESULT / PRELIMINARY RESULT(Micro) 
+▪ Encourage the caller to look up the test results in the computer 
+▪ Refer the call to the appropriate laboratory section 
+• COLLECTED 
+▪ The sample has been drawn 
+▪ Evaluate the time frame since the sample has been drawn per the computer, if an abnormal 
+amount of time has passed (without lab receiving), notify the caller that you will contact the 
+collector to check on the specimens whereabouts 
+• STANDING 
+▪ Test to be drawn at a future time 
+ 
+Limitations of Procedure 
+1. Orders that the caller says are place but not present in “Chart Review – Lab Tab” please verify that test 
+has not been canceled by unchecking “Hide Cancel” box to make canceled orders visible on the screen, 
+also ask the caller if the orders could be scheduled for a future date 
+2. Many patients have similar names, be careful to verify patient name and medical record number with the 
+caller 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 3 of 3 
+PHLIS004 
+ 
+ 
+3. Request of laboratory tests results are to be transferred to the appropriate laboratory technical section  
+ 
+REVISIONS 
+01/2001 (created); 10/11/2017 
+ 
+ 
+ 

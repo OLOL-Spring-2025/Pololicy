@@ -1,0 +1,75 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject: Test methods and performance 
+Specifications of ABL90 Flex Blood Gas Analyzers Section: Blood Gas Lab 
+Date of Origination: December 2000 Signature: 
+Date of Last Revision: October 30, 2020 Serial Code: RC9-31 
+Date of Last Review:  October 1, 2024  
+         
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+To define the methodologies and performance specifications of Series ABL90 Blood Gas 
+Analyzers and how the communications of changes in these methodologies are provided 
+to physicians. 
+ 
+General construction 
+Sensors 
+In this manual, the term sensor refers to an individual sensor as part of the sensing 
+array within a Sensor Cassette. The electrical signal from each sensor is measured by 
+proprietary analog electronics contained within the analyzer unit. 
+The sensors are located on sensor boards in the Sensor Cassette. 
+ 
+General measurement principles 
+Introduction 
+There are four different measuring principles employed in the sensors in the ABL90 
+FLEX analyzer. 
+• Potentiometry: The potential of an electrode chain is measured by a voltmeter, 
+and related to the concentration of the sample (the Nernst equation). The potentiometric 
+measuring principle is applied in the pH, pCO2, K+, Na+, Ca2+, and Cl sensors. 
+• Amperometry: The magnitude of an electrical current that flows through an electrode 
+chain is proportional to the concentration of the substance that is oxidized or 
+reduced at an electrode in the chain. The amperometric measuring principle is 
+applied in the cGlu and cLac sensors. 
+• Optical pO2: The optical system for pO2 is based on the ability of O2 to reduce the 
+intensity and time constant of the phosphorescence from a phosphorescent dye that 
+is in contact with the sample. This measuring principle is applied in the pO2 sensor. 
+• Spectrophotometry: Light passes through a cuvette that contains a hemolyzed 
+blood sample. The absorption spectrum is used to calculate oximetry parameters. 
+This measuring principle is used for ctHb, sO2, FO2Hb, FCOHb, FHHb, FMetHb and 
+FHbF and cLac.  
+Measurement process 
+The measurement process is similar for all types of measurement, patient sample 
+analysis, built-in QC measurements, ampoule-based QC measurements, calibration-
+verification measurements and calibration measurements. 
+1. The sample (patient sample, QC solution or calibration solution) is aspirated or 
+drawn into the sensor measurement chamber and the oximetry measurement 
+chamber. 
+2. Measurements are done as soon as the sample is in the chambers. Liquid sensors 
+control the process and can detect sample inhomogeneity and air bubbles in the 
+sample. If any problems are found or the sample volume is too low, the measurement 
+is aborted and the problem reported in a message attached to the result. 
+3. A rinse is done. 
+4. A status calibration is done for all parameters. 
+ 
+Rinse process 
+A rinse is done after a measurement is completed. 
+1. The sample is removed. 
+2. The system is rinsed with a mixture of solution and air/gas. 
+3. The system is filled with CAL1 to prepare for next sample. 
+During the rinse procedure, a check of the fluid transport system is done. 
+   
+For additional information regarding operating principles refer to the Radiometer ABL90 
+Flex operating manual’s section Principles of Operation. 
+ 
+The laboratory manages notifications from vendors of defects or issues with reagents, 
+supplies, instruments, equipment, or software that may affect patient care/client services. 
+The laboratory maintains records of manufacturer recalls and any follow up 
+documentation. All instrument users will be notified at the discretion of the laboratory 
+director or the laboratory director’s designees. 

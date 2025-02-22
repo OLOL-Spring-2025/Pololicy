@@ -1,0 +1,66 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter:  
+Subject: Missed Treatments Section: Organization 
+Date of Origination: May 2004 Supersedes:  
+Date of Last Revision: November 28, 2023 Serial Code:  RC2-07 
+Date of Last Review:  November 28, 2023 
+ 
+          
+PURPOSE: 
+The purpose of this policy is to provide a means of communication between Respiratory 
+Care staff and pharmacy, nursing services and risk management, in regard to patients 
+who do not receive ordered respiratory therapy procedures.  Additionally, this policy will 
+establish guidelines for obtaining statistical information regarding “Missed Treatments”. 
+ 
+DEFINITIONS: 
+1. Respiratory Therapy missed medication/medication errors- Any physician order 
+for a nebulized respiratory medication that is not given will be entered into Safety Event Manager, 
+and documented for one of the following reasons: 
+  
+a. Therapist Not Available (TNA) 
+b. Therapist not notified 
+c. Medication not available 
+d. Triage Level 3 or 4 respiratory staffing 
+e. other (not refused) 
+ 
+2. Refused Respiratory Therapy Treatment- Any treatment that has been ordered   
+by a physician with privileges at Our Lady of the Lake RMC to be delivered by 
+Respiratory Therapy that the patient or patient family member refuses. 
+ 
+ 
+PROCEDURE: 
+Respiratory Therapy missed medication/medication error will be charted in patient 
+EMR and reported to Pharmacy and Nursing.  The therapist responsible for the affected 
+patient will notify the nurse caring for that patient and the respiratory supervisor/charge 
+RT  
+ 
+Refused Respiratory Therapy Treatment- Patients have the right to refuse therapy.  
+This must be documented in patient’s EMR.   Any time a patient refuses a treatment, the 
+patient will be educated on the benefits of the treatment and the possible consequences of 
+missing the treatment. The nurse caring for the patient will be notified that the patient has 
+refused their treatment and that the therapist has educated the patient.   The physician 
+caring for the patient will be contacted for any patient refusing 3 treatments in a 24-hour 
+period so the physician can reevaluate the need for therapy.   
+ 
+ 
+ 
+Respiratory Therapy treatment schedule: Respiratory therapy will perform all procedures and administer all medications on the 
+ordered frequency per workflow according to medical records and task list: 
+ 
+Q2-  
+Q3-  
+Q4-  
+Q6-  
+Q8-  
+Q12-  
+BID  
+QID  
+TID  
+While Awake:   
+PRN as needed  
+Stat within one hour 
+ 
+ 
+ 
+ 

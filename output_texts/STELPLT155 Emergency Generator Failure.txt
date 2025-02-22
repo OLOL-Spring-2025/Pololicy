@@ -1,0 +1,104 @@
+OUR LADY OF THE LAKE ASCENSION   
+ 
+  
+POLICIES AND PROCEDURES: 
+  
+Plant Operations 
+EFFECTIVE DATE: 
+  
+1/95 
+NUMBER:  STELPLT155  
+SUBJECT: 
+Emergency Generator Failure 
+Page 1 of  2 
+Reviewed/Revised: 
+1/01, 09/02, 10/03, 12/04, 12/05, 11/06,11/07, 12/08, 12/09, 8/12, 
+6/15, 3/18, 10/19, 7/21 
+APPROVED BY: 
+Justin Brown 
+    
+  
+  
+Applies to: 
+  
+Plant Operations 
+  
+Policy: 
+  
+In the event of failure of the emergency generator during an electrical power outage, the following 
+procedures will be followed: 
+  
+Responsibility: 
+  
+Plant Operations 
+  
+Procedure: 
+  
+1.             Notify the Plant Operations Supervisor/designee and Administrator/designee  immediately 
+whenever there has been a total power outage.   Check and secure all equipment. 
+  
+2.         The Plant Operations Supervisor/designee will call for immediate service to the generator and/or to 
+provide portable backup generator delivery.  (See utility emergency sheet located in Plant 
+Operations) 
+  
+3.             Initiate Disaster Plan and call on additional personnel support as necessary. 
+  
+4.             Attempt to determine reason for failure. 
+  
+A.                 Generator engine failure. 
+  
+1.         Follow manufacturer’s instructions to manually start generator. 
+  
+a.       Check the starter system. 
+b.       Check the fuel tank to ensure that there is adequate fuel.   If not, refuel 
+tank form the main supply. Call fuel   
+      supplier for immediate delivery of fuel, if necessary.   
+  
+  
+POLICIES AND PROCEDURES – CONTINUED                                           PAGE 2 OF 2 
+EMERGENCY GENERATOR FAILURE 
+  
+  
+a.      If additional fuel must be delivered or starter system is not functioning, call 
+the power company to determine length of time for the power outage. Notify 
+the Administrator/designee as to when the external and/or emergency power 
+will be restored, whichever is first. 
+  
+B.                 Control panel malfunction or transfer switch malfunction. 
+  
+1.          If generator can be started, check transfer switch to see if it has been tripped.  
+  
+a. The transfer switch is not tripped: Check for fault indicators on the control  
+panel. 
+b. No Fault indicators: Throw the transfer switch manually. DO 
+ NOTATTEMPT TO THROW THE TRANSFER SWITCH 
+MANUALLY IF THERE IS A FAULT LIGHT INDICATOR. 
+c. If you are unable to throw the transfer switch manually or a fault is indicated  
+on the control panel: Call an electrician immediately. Contact the utility 
+company to determine the length of down time and notify the          
+Administrative Supervisor as to when the external and/or emergency power 
+will be restored. 
+d.  If transfer switch can be thrown, notify the Administrative Supervisor that 
+the hospital is now on emergency  
+         power. 
+  
+C.                 Contaminated fuel source. 
+  
+1.              If there is no malfunction of the generator or the transfer switch. Check the fuel for 
+contamination. 
+  
+a.        If fuel is contaminated, notify the Plant Operations Supervisor/designee. 
+Personnel will be instructed to call   
+        the generator supplier for a portable generator, as necessary. 
+b.  Notify the Administrator/designee of time frame for restoration of power. 
+ 
+ 
+ 
+Revised 12/04:changed vendor from Stewart-Stevenson to Kossen Equipment, Inc. 
+No Changes: 12/9/05 
+12/08-added toll free number 
+8/12-Procedure #2-removed Kossen Equip Info 
+6/15 No Changes 
+3/18 No Changes 
+10/19 Name Change 
+7/21 No Change 

@@ -1,0 +1,34 @@
+Updating SHAREPOINT Files on TEAMLINK 
+ 
+• Save updated policy to Desktop 
+➢ Name policy to upload to corresponding POC-0x.xxx 
+➢ DOC- must be DOC; PDF – must be PDF; this keeps history of changes 
+➢ To change DOC to PDF, Open File -> Save as -> .PDF to Desktop 
+POC-02.doc  =  Activated Clotting Time Plus (+) Whole Blood   
+POC-03.doc  =  Low Range Activated Clotting Time (ACT-LR) Whole Blood   
+POC-04.doc  =  Pregnancy Test on hcg Combo Test  
+POC-05.doc  =  Stool Occult Blood Hemoccult Sensa Stool Occult Blood   
+POC-06.pdf   =  Glucose Monitoring of Whole Blood Accu-Chek Inform II Systems  
+POC-07.pdf   =  Wireless Downtime Protocol 
+POC-08.pdf   =  Quality Assurance Plan 
+POC-15.pdf   =  pH Testing Using Hydrion Paper 
+• Save updated policy from Desktop to T Drive 
+➢ From Desktop Open File -> Save as -> Root (T:) drive -> Data -> Policies -> 
+POLICIES on Sharepoint After Oct 1st 2013 -> Laboratory -> Point of Care 
+Testing -> Save 
+➢ File already exists, do you want to replace it?  YES -> Save 
+• Update on TEAMLINK 
+➢ Go to TEAMLINK -> POLICIES -> Our Lady of the Lake Policy Manual -> 
+Laboratory -> Point of Care Testing -> Add document 
+▪ Browse… -> Select file to be updated (ex. POC-02.doc) 
+▪ Version Comments -> state changes made to policy -> OK 
+▪ Review Title- make sure it matches what already exists (ex. Activated 
+Clotting Time Plus (ACT+) 
+▪ Note that Modified column should show today’s date that it was 
+modified 
+▪ Success!! 
+ 
+ 
+ 
+ 
+ 

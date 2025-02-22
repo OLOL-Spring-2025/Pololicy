@@ -1,0 +1,251 @@
+AA-OR-008 
+Page 1 of 7 
+ 
+PURPOSE: The purpose of this policy is to: 
+1) Define unanticipated problems (UP) involving risk to subjects, adverse events (AE), and 
+serious adverse events (SAEs) and 
+2) Establish a procedure for reporting of UPs and SAEs by: 
+a. Specifying the types of UPs and AEs that must be reported by the principal 
+investigator (PI) to the Office of Research and to the Institutional Review Board 
+(IRB) of record, as well as how this reporting is to occur; 
+b. Delineating the steps necessary for the Office of Research and the appropriate 
+institutional administrators to review reported UPs and SAEs and report them to 
+the appropriate regulatory agencies (e.g., the Office of Human Research 
+Protection) and funding agencies in a timely fashion, as required.  
+ 
+SCOPE: Applies to all human participant research conducted using OLOL facilities, patients, 
+or staff. 
+ 
+DEFINITIONS: 
+Unanticipated Problem (UP) involving risk to subjects or others– Any incident, 
+experience, or outcome that meets all of the following criteria: 
+1. Is unexpected (in terms of nature, severity, or frequency), given (a) the research 
+procedures that are described in the protocol-related documents, such as the IRB-
+approved research protocol and informed consent document; and (b) the 
+characteristics of the subject population being studied;  
+2. Is related or possibly related to participation in the research ("possibly related" means 
+there is a reasonable possibility that the incident, experience, or outcome may have 
+been caused by the procedures involved in the research); and 
+3. Suggests that the research places subjects or others at a greater risk of harm (including 
+physical, psychological, economic, or social harm) than was previously known or 
+recognized.  
+ 
+Events which are described in the protocol-related documents, such as the investigator 
+brochure, IRB-approved research protocol and informed consent document, are not 
+considered to be unanticipated problems.   
+ 
+Adverse Event (AE) – Any untoward or unfavorable medical or psychological occurrence 
+in a human subject, including any abnormal sign, (for example, abnormal physical exam or 
+laboratory finding), symptom, or disease, temporally associated with the subject’s 
+participation in the research, whether or not considered related to the subject’s 
+participation in the research (http://www.hhs.gov/ohrp/regulations-and-
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Academic Affairs Section: Office of Research 
+Title: Adverse Events and Unanticipated 
+Problems  
+Policy Reference #: AA/OR/008 
+Supersedes #:  
+Date of Origination: January 1, 2012 Last Review Date: January 15/2024 
+Last Revision Date: May 18, 2018  AA-OR-008 
+Page 2 of 7 
+policy/guidance/reviewing-unanticipated-problems/#Q1).  Adverse events may be anticipated 
+or unanticipated. 
+ 
+In multi-center trials, there are two kinds of adverse events: 
+1. Internal adverse events – are those which are experienced by subjects enrolled by the 
+investigator in a research study at OLOL. 
+2. External adverse events – are those which are experienced by subjects enrolled by 
+investigators at other clinical sites.  
+ 
+An Adverse Event is considered to be Serious (SAE) when it: 
+1. Results in death 
+2. Is life-threatening (places the subject at immediate risk of death from the event as it 
+occurred) 
+3. Results in inpatient hospitalization or prolongation of existing hospitalization 
+4. Results in a persistent or significant disability/incapacity 
+5. Results in a congenital anomaly/birth defect; or  
+6. Based upon appropriate medical judgment, may jeopardize the subject’s health and may 
+require medical or surgical intervention to prevent one of the other outcomes listed in 
+this definition.  
+ 
+To summarize,  
+• All adverse events are not necessarily unanticipated problems    
+• All unanticipated problems are not necessarily adverse events  
+• Some events may be both. 
+ 
+See Appendix B for additional general guidance 
+ 
+RESPONSIBILITY: The PI is responsible for reviewing all AEs to determine if they were 
+anticipated and/or related to the subject’s participation in the research study. The PI is 
+responsible for reporting UPs and SAEs to the IRB of record, as required by FDA 
+regulations and the IRB’s guidelines.  The PI is also responsible for reporting to the study 
+sponsors, if required under the monitoring provisions described in the IRB-approved protocol. 
+In addition, the PI is responsible for reporting UPs and all SAEs that are reported to the IRB 
+and/or the sponsor to the Office of Research.  
+ 
+POLICY: Reporting at all levels will be done in accordance with the following procedures, 
+which are compliant with applicable regulations from the Food and Drug Administration 
+(FDA), Office of Human Research Protection, and the Department of Health and Human 
+Services (45 CFR 46, “The Common Rule”).  According to the FDA, “In general, an AE 
+observed during the conduct of a study should be considered an unanticipated problem 
+involving risk to human subjects, and reported to the IRB, only if it were unexpected, 
+serious, and would have implications for the conduct of the study (e.g., requiring a 
+significant, and usually safety-related, change in the protocol such as revising AA-OR-008 
+Page 3 of 7 
+inclusion/exclusion criteria or including a new monitoring requirement, informed consent, 
+or investigator’s brochure).”  In accordance with the FDA regulations, the PI is responsible 
+for reporting unanticipated problems involving risks to human subjects or others to the 
+IRB, and shall also report to the Office of Research, and, if required by the Sponsor, to the 
+study Sponsor.  The PI should refer to the study’s IRB-approved protocol and the policies of 
+the study’s IRB of record for further guidance to determine whether an UP or event should 
+be reported to the IRB.  
+ 
+The PI is also responsible for reporting to the IRB any serious or continuing noncompliance 
+with The Common Rule or the requirements or determinations of the IRB; any suspension 
+or termination of IRB approval; and any reports of IRB actions that require forwarding to 
+OHRP and/or any Department or Agency head. 
+ 
+It is the policy of Our Lady of the Lake Hospital to notify the IRB of all communications to 
+the FDA, OHRP, or other government regulators regarding human subject research. 
+ 
+PI Reporting 
+The PI will prepare and submit complete, accurate, and timely reports to the Office of 
+Research, the IRB of record, and any project sponsors regarding: 
+• UPs meeting the three criteria under the definition of UPs no later than five (5) 
+business days of the PI becoming aware of its occurrence. 
+• All internal SAEs that occur during a study or within thirty (30) days of study 
+closure no later than five (5) business days of the PI becoming aware of its 
+occurrence. (In accordance with CRF 312.64b, non-serious AEs must be recorded 
+and reported to the sponsor according to the study’s protocol).  
+NOTE: PIs are often informed about external AEs by the study’s sponsor.  External AEs do 
+not need to be reported to the Office of Research and the IRB of record unless the PI or 
+study sponsor considers the event to be an unanticipated problem. In such case, they must 
+be reported to the Office of Research and to the study’s IRB of record within five (5) 
+business days of the PI becoming aware of the event. A copy of the report must also be 
+maintained in the PI’s regulatory binder.  
+ 
+A report of an UP submitted to an IRB should contain, at least, the following: 
+ 
+• appropriate identifying information for the research protocol, such as the title, 
+investigator’s name, and the IRB project number; 
+• a detailed description of the adverse event, incident, experience, or outcome; 
+• an explanation of the basis for determining that the adverse event, incident, 
+experience, or outcome represents an unanticipated problem; and 
+• a description of any changes to the protocol or other corrective actions that have 
+been taken or are proposed in response to the unanticipated problem. 
+ AA-OR-008 
+Page 4 of 7 
+All UPs or events reported to an IRB must be reported to the Office of Research within five 
+(5) business days. 
+ 
+Office of Research Reporting 
+Within five (5) business days of the Office of Research receiving a report of an UP or 
+unanticipated serious adverse event from the PI (See Appendix A for report content), the 
+Office of Research will send the report to the appropriate institutional administrators, such 
+as the Grants Office, the VP of Medical Staff Services, the Medical Director of Quality and 
+Patient Safety, and Risk Management, describing the event.  The institutional 
+administrators will notify the appropriate regulatory and funding agencies, including OHRP 
+and others, as required. 
+ 
+ 
+ AA-OR-008 
+Page 5 of 7 
+REGULATORY REFERENCES: (45 CFR 46.103) 
+ 
+Food and Drug Administration (FDA).  (2012). Guidance for IRBs, clinical investigators, and 
+sponsors. Available from: 
+http://www.fda.gov/downloads/RegulatoryInformation/Guidances/UCM294558.pdf  
+ 
+Food and Drug Administration (FDA).  (2009). Guidance for IRBs, clinical investigators, and 
+sponsors. Available from: 
+http://osp.od.nih.gov/sites/default/files/resources/OC2008150fnl.pdf  
+ 
+US Department of Health and Human Services. (2007). Guidance on reviewing and reporting 
+unanticipated problems involving risks to participants or others and adverse events. Available 
+from: http://osp.od.nih.gov/sites/default/files/resources/advevntguid_0.pdf  
+US Department of Health and Human Services. (2007). Unanticipated Problems Involving 
+Risks and Adverse Events Guidance. Available from: http://www.hhs.gov/ohrp/regulations-
+and-policy/guidance/reviewing-unanticipated-problems 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  AA-OR-008 
+Page 6 of 7 
+  
+APPENDIX A: Adverse Event Reporting Chart  
+ 
+The chart below is presented as general guidance.  The PI should refer to the study’s IRB-
+approved protocol and the policies of the study’s IRB of record for further guidance to 
+determine whether an UP or event should be reported to the IRB.  
+ 
+ 
+ 
+AA-OR-008 
+Page 7 of 7 
+APPENDIX B: Content of Event Reports 
+ 
+ 
+Adverse Events or Unanticipated Problems Involving Risks to Subjects and Others, 
+the report will include: 
+• Name of the Institution 
+• Title of the research project in which the problem occurred 
+• The name of the PI on the protocol 
+• The protocol number and grant number (where applicable) 
+• A detailed description of the problem 
+• An explanation indicating why the problem is reportable 
+• Common actions being taken to address the problem may include: a) revise the 
+protocol, b) suspend subject enrollment, c) terminate the research, d) revise the 
+informed consent document, e) inform enrolled subjects, f) increase monitoring of 
+subjects 
+ 
+Serious or Continued Non-Compliance with this policy or the requirements or 
+determinations of the IRB, the report will include: 
+• Name of the Institution 
+• Title of the research project in which the problem occurred 
+• The name of the PI on the protocol 
+• The protocol number and grant number (where applicable) 
+• A detailed description of the non-compliance 
+• Action taken to address the non-compliance such as: a) educate the investigator, b) 
+educate the research staff, c) suspend the protocol, d) suspend the investigator, e) 
+conduct random audits of the investigator 
+ 
+Suspension or Termination of IRB Approval, the report will include: 
+• Name of the Institution 
+• Title of the research project in which the problem occurred 
+• The name of the PI on the protocol 
+• The protocol number and grant number (where applicable) 
+• A detailed description of reason for suspension or termination 
+• Action taken to address the suspension or termination of IRB approval.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

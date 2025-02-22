@@ -1,0 +1,39 @@
+Classifications of Changes 
+ 
+Construction Contract Change Order Types 
+Note: In some cases a Change Order will logically fit into more than one of the following categories; in which case, the 
+primary category (that in which the CO most clearly belongs) will be listed first. 
+CC Contractor Convenience: CO originates at request of the Contractor, will facilitate his operations, and would most 
+usually result in a credit to Owner unless the change concurrently falls in another category resulting in "value added" to 
+the finished job. 
+CE Contractor Error: CO originates to correct error or blunder by Contractor (for example, if K demolishes a stairway 
+which wasn't specified to be removed and replaced). Change should result in no cost to Owner. 
+DE Design Error: CO originates from defective plans or specifications (by Owner or Consultant) including spatial conflicts 
+or contradictions between or among Contract drawings, but not design omissions (which see). 
+DO Design Omission: CO originates because plans and specifications do not call for a necessary component which 
+cannot be reasonably construed as implied work. 
+DS Differing Site Conditions: CO originates because actual site conditions (usually underground or otherwise hidden 
+from view at the time of bidding) differ significantly from those shown or stipulated in the Contract plans and 
+specifications, and require extra work to achieve the intended end product.  Differing site condition would most usually 
+arise from DE (which see) as opposed to LS (which see) which would commonly be the result of DO (which see). 
+GC General Conditions: CO originates from administrative causes (e.g., delay, suspension or termination of the work) 
+and could result in time extension with or without added cost to OWNER depending upon the degree of Contractor's 
+responsibility for the cause. 
+LP Labor Problems: CO originates from labor strikes, lockouts, etc. which may involve or affect the Contractor's 
+operations, and would most usually result in a GC change (which see).   
+LS Latent Site Conditions: CO originates from encounter with conditions (usually underground) which were unknown 
+and not reasonably foreseeable to Owner or the Contractor at time of bidding. Not the same as DS (which see). 
+MR Multiple Resolution: CO originates as a resolution of several relatively minor changes, claims, or credits which are 
+analyzed individually and resolved collectively. Individual components may belong to any category. 
+OR Owner Requested: CO originates at request of Owner (may be requested or suggested by any party) and is most 
+usually aimed at improving operational efficiency or maintenance of the facility. This category includes almost all of the 
+relatively few truly optional COs, which deserve and receive considerable scrutiny as to reasonableness and cost 
+efficiency before moving into processing. 
+QA Quantity Adjustment: CO originates to reconcile differences between planned and as-built quantities of work on 
+specific items for which units of measure and unit prices have been established (liquidated) in the Contract Proposal.  A 
+semi-automatic, non-optional, adjustment to the Contract Amount. 
+RM Regulatory Mandated: CO originates to bring project into compliance with regulatory agency requirements (e.g., 
+asbestos removal) which were nonexistent, unknown or overlooked at the time of bidding. 
+SR Safety Requirement: CO originates to correct obvious or potential safety hazard not addressed in Contract plans and 
+specifications.  May be result of DE, DO or RM (which see). 
+ 

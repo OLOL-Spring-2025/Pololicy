@@ -1,0 +1,522 @@
+1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Manual: Environment of Care Section: Utilities Management 
+Title: Water Management Plan Reference #: EC-WMP 
+Supersedes #:  
+Date of Origination: 01/30/2018 Review Date: 05/19/19 
+Revision Date: 07/16/21; 05/19/21; 11/02/20; 
+06/09/20; 09/03/19; 08/21/18 
+ 
+Purpose: 
+The purpose of the Water Management Plan (WMP) is  
+• to perform a thorough assessment of the delivery methods of potable and domestic hot water systems to 
+establish and maintain a utility systems management program and 
+• to reduce the risk of hospital acquired illness by preventing and controlling waterborne healthcare associated 
+infections through an inter-disciplinary approach of system design, system inspection, and clinical 
+surveillance.  
+ 
+The most common microorganisms that are associated with waterborne healthcare-associated infections are 
+Pseudomonas, Acinetobacter, Moraxella, Aeromonas, Xanthomonas, Legionella, Aspergillus, Fusarium spp., and 
+atypical (nontuberculosis) mycobacteria.   
+ 
+Policy 
+Our Lady of the Lake Regional Medical Center (OLOL) is mandated to develop and adhere to policies and procedures 
+that inhibit microbial growth in building water systems that reduce the risk of growth and spread of legionella and 
+other opportunistic pathogens in water.   
+ 
+Legionnaires’ disease is a serious type of pneumonia caused by bacteria called Legionella that live in water.  
+Legionella can make people sick when they inhale contaminated water from building water systems that are not 
+adequately maintained. 
+ 
+Program Elements 
+A. Water Management Team (WMT) 
+ 
+1. WMT Members include: 
+• Director of Plant Services 
+• Director of Facilities Management 
+• Infection Control Nurse 
+• Manager of Regulatory Safety 
+• Contractor Plant Manager 
+• Plant Services Manager 
+• Regulatory Outcomes Analyst 
+• Plant Services Master Plumber 
+• Water Testing Specialists 
+ 
+2. WMT will: 
+• Be familiar with the building water systems 
+• Identify  
+o Control Points: Locations in the building water system where a control measure can be 
+applied  2 
+o Control Measures: Actions performed in building water systems to limit growth and 
+spread of waterborne pathogens, such as heating, adding disinfectant, or cleaning 
+o Control Limits: The maximum value, minimum value, or range of values that are 
+acceptable for the control measures that is monitored to reduce the risk for waterborne 
+pathogen growth and spread 
+o Water source: the points at which water exits from all potable and non-potable building 
+water systems, fixtures, and equipment 
+• Identify and take Corrective Actions  
+o Actions taken to reestablish control when monitoring or measurement values are outside 
+control limits 
+• Monitor and document program performance 
+• Communicate with pertinent departments within the facility and outside the facility, as needed 
+• Oversee the program 
+• Access necessary resources to implement changes 
+• Eliminate dead legs and stagnant water, where possible 
+o Dead legs:  Piping that is subject to low or no flow due to design or decreased water use 
+such as capped pipes or unused faucets 
+o Stagnation:  When water does not flow well; areas of stagnant water encourage biofilm 
+growth and reduce temperature and level of disinfectant 
+ 
+B. Building Water Systems  
+ 
+1. Building Water Systems include hot and cold potable water systems and non-potable water systems in the 
+building or on the site.   
+• Potable water:  Hot or cold water intended for human consumption, such as drinking, bathing, 
+showering, hand washing, teeth brushing, food preparation, and maintaining oral hygiene 
+• Non-potable water:  Water not intended for human consumption 
+ 
+2. Building water system components may include: 
+• Local or point-of-use temperature mixing valves 
+• Water storage tanks 
+• Eye wash and safety showers 
+• Faucets with flow restrictors 
+• Electronic or sensor faucets 
+• Floor drains 
+• Expansion tanks 
+• Backflow / cross connection prevention 
+ 
+3. The water system’s flow diagrams including text descriptions and information regarding the applicable 
+control points for these locations are found in Appendix 2.   
+• These Control Points may include: 
+o Building Water Systems 
+o Cooling Towers 
+o Emergency Showers and Eyewashes 
+o Ice Machines 
+o Condensate Trays 
+o Decorative Fountains 
+o Scheduled or unscheduled water disruptions 
+o Sink Faucets/Shower Heads 
+o Humidifiers   
+ 
+ 
+ 3 
+Location Physical Address 
+Lake Imaging 7135 Perkins Road, Baton Rouge, LA 
+LSU Health BR Medicine Clinics 5131 O’Donovan Drive, Baton Rouge, LA 
+LSU Health BR Mid City Clinic  1401 North Foster Drive, Baton Rouge, LA 
+LSU Health BR Perkins Surgical 9032 Perkins, Baton Rouge, LA 
+Medical Office Building I and II 7777 Hennessy Blvd, Baton Rouge, LA 
+OLOL Advanced Outpatient Wound Clinic 7301 Hennessy Blvd, Suite 103, Baton Rouge, LA 
+OLOL Children’s 8300 Constantine Blvd, Baton Rouge, LA 
+OLOL Children’s Medical Office Building 8200 Constantine Blvd, Baton Rouge, LA 
+OLOL Livingston 5000 O’Donovan Blvd, Walker, LA 
+OLOL North Baton Rouge ED  
+LSU Health BR North Clinic 5439 Airline Highway, Baton Rouge, LA 
+OLOL Regional Medical Center 
+(Main, SMT, HVI) 5000 Hennessy Blvd, Baton Rouge, LA 
+Outpatient Pediatric Physical Medicine 8415 Goodwood Blvd, Baton Rouge, LA 
+St. Ann IOP 5120 Dijon Drive, Suite A, Baton Rouge, LA 
+Tau Mental and Behavioral Health  8080 Margaret Ann Drive, Baton Rouge, LA 
+  
+C. Potable Water System Monitoring 
+ 
+1. Preventative Measures 
+• No aerators on faucets in patient rooms and nursing units. Where aerators are present, scheduled 
+cleaning by department and included in plant services zone inspection; replaced as necessary.  
+• Shower heads and handheld showers are cleaned by housekeeping during room turn over and 
+included in Plant Services zone inspection; replaced as necessary. 
+ 
+2. Monitoring Control Limits and Control Measures 
+• Hot water temperature at water source:  Water heaters are set to deliver a maximum temperature 
+of 120°F 
+• Free chlorine at water source:  A minimum of 0.2 ppm free chlorine should be maintained at 
+water sources to prevent the growth and spread of Legionella and other waterborne pathogens  
+• Visual inspection of cleanliness  
+• pH:  The pH will be monitored as a means of monitoring fluctuations in water quality.  
+Disinfectants are most effective within a narrow range (approximately 6.5 to 8.5) 
+• Heterotrophic Bacteria: Microorganisms that use organic carbon as food and are found in every 
+type of water.  Useful for operational monitoring of the efficacy of treatment processes including 
+disinfection. 
+• Pseudomonas:  An opportunistic pathogen that can grow in water at very low nutrient 
+concentrations.  Elevated numbers may indicate the development of a bacterial layer on surfaces 
+within the building water distribution system. 
+• Nontuberculous Mycobacteria (NTM): An opportunistic pathogen that can form difficult-to-
+eliminate biofilms (a group of microorganisms embedded in slime, that adhere to a moist surface. 
+• Environmental testing for microorganisms such as Legionella 
+ 
+3. Frequency of monitoring and routine sampling 
+• Sampling frequency – Quarterly, scheduled, or non-scheduled disruptions, based on risk 
+• Sampling locations – A minimum of 10 random sites should be tested quarterly 
+• Sampling methods – Water samples will be tested as defined by the CDC 4 
+• Who will take the samples – Southwest Engineers representative 
+ 
+4. Responding to detections of microorganisms in water sample(s) - If found during environmental 
+validation testing, notification and corrective actions will be sent to the following: 
+a. Plant Services Director 
+b. Infection Control  
+- InfectionControlDept@fmolhs.org, (225) 765-8864, pager (225) 378-4407 
+ 
+Potable Water Systems 
+Parameter to be 
+Monitored Control Limit Probable Corrective Actions 
+pH 6.5 – 8.5 • Adjust accordingly with acid or base, if needed 
+Free chlorine at 
+water source  
+ 
+≥ 0.2  ppm 
+• Increase flushing time and re-test. 
+• Determine free chlorine level of water entering the building from municipal. If 
+low, contact municipal.  
+Temperature at hot 
+water source 105° F - 120° F • Ensure water heater functioning properly.  
+• Check system for cold water intrusion into hot water line.  
+Visual inspection of 
+cleanliness 
+No visible slime, 
+mud, sediment, 
+mold, mildew, 
+buildup, or scale 
+• Physically remove solids. Wash area with soapy water and disinfect with 200 
+ppm chlorine solution. (1tbsp. Bleach/gal water). 
+• Replace shower head/faucet. 
+Legionella 
+≤ 1 CFU/mL or 
+None Detected 
+• Continue WMP 
+> 1 CFU/mL • Test other water sources around the positive test site. 
+> 10 CFU/mL 
+• Review the sample collection, handling, and testing procedures to confirm that 
+the results are not due to errors. 
+• Confirm that system equipment is in good working order and functioning as 
+intended. 
+• Review assumptions about operating conditions, such as the physical and 
+chemical characteristics of the water supplied to the building. 
+• Re-evaluate fundamental aspects of the WMP, including the analysis of 
+hazardous conditions, cleaning, and maintenance procedures, chemical 
+treatment, and other aspects of the Program that could affect results of 
+Legionella testing. 
+• If review or re-evaluation of the WMP indicates deficiencies, adjust the WMP 
+as necessary. 
+• Consider whether remedial treatment is needed. 
+Heterotrophic 
+Bacteria 
+> 500 – 10,000 • Flush most water sources in the area for at least five (5) minutes 
+> 10,000 • Flush most water sources in the area for at least five (5) minutes 
+• Review sampling result trends to determine if further remedial action is required 
+E.coli / total 
+coliforms 
+Negative or  
+< 1 CFU/mL 
+• If detected an immediate investigation should take place starting with: 
+• the collection of more samples upstream and downstream from the original 
+sample location 
+• possible remedies: 
+o concentrations of disinfectant can be increased,  
+o service tanks can be chlorinated, or  
+o main lines flushed 
+Pseudomonas 
+speciation 
+Negative or  
+< 1 CFU/mL 
+• Flush most water sources in the area for at least five (5) minutes 
+• Re-test within six (6) months 
+Pseudomonas 
+aeruginosa 
+Negative or  
+< 1 CFU/mL 
+• Flush most water sources in the area for at least five (5) minutes 
+• Re-test within six (6) months 
+Nontuberculous 
+Mycobacterium 
+(NTM) 
+Negative or  
+< 1 CFU/mL 
+• Flush most water sources in the area for at least five (5) minutes 
+• Re-test within six (6) months 
+ 
+ 5 
+D. Non-Potable Water System Monitoring 
+5. Preventative Measures 
+• All cooling towers are treated with oxidizing biocide for microbiological control 
+ 
+6. Monitoring Control Limits and Control Measures 
+• Free chlorine or bromine:  Approximately .15 - .35 ppm free chlorine or bromine should be 
+maintained to prevent the growth and spread of Legionella and other waterborne pathogens  
+• Visual inspection of cleanliness  
+• Environmental testing for microorganisms such as Legionella 
+ 
+7. Frequency of monitoring and routine sampling 
+• Sampling frequency – Quarterly, scheduled, or non-scheduled disruptions, based on risk 
+• Sampling locations – A minimum of 10 random sites should be tested quarterly 
+• Sampling methods – Water samples will be tested as defined by the CDC 
+• Who will take the samples – Southwest Engineers representative 
+ 
+8. Responding to detections of microorganisms in water sample(s) - If found during environmental 
+validation testing, notification and corrective actions will be sent to the following: 
+• Plant Services Director 
+• Infection Control  
+o InfectionControlDept@fmolhs.org, (225) 765-8864, pager (225) 378-4407 
+ 
+Cooling Towers and Evaporative Heat Exchangers 
+Parameter to be 
+Monitored Control Limit Probable Corrective Actions 
+Free Chlorine or 
+Bromine   
+ 
+.15 - .35  ppm 
+• Increase flushing time and re-test. 
+• Determine free chlorine level of water entering the building from 
+municipal. If low, contact municipal.  
+Visual inspection of 
+cleanliness 
+No visible slime, 
+mud, sediment, 
+mold, mildew, 
+buildup, or scale 
+• Physically remove solids.  
+• Increase amount of biocide to disinfect. 
+ 
+Legionella 
+≤ 10 CFU/mL or 
+None Detected 
+• Continue WMP 
+> 10 CFU/mL 
+• Review the sample collection, handling, and testing procedures to 
+confirm that the results are not due to errors. 
+• Confirm that system equipment is in good working order and 
+functioning as intended. 
+• Review assumptions about operating conditions, such as the physical 
+and chemical characteristics of the water supplied to the building. 
+• Re-evaluate fundamental aspects of the WMP, including the analysis 
+of hazardous conditions, cleaning, and maintenance procedures, 
+chemical treatment, and other aspects of the Program that could affect 
+results of Legionella testing. 
+• If review or re-evaluation of the WMP indicates deficiencies, adjust 
+the WMP as necessary. 
+• Consider whether remedial treatment is needed. 
+≥ 1000 CFU/mL 
+• Complete above actions in addition to: 
+o Increase amount of biocide 
+o Retest system in 3-7 days 
+ 
+ 
+ 6 
+E. Clinical Awareness 
+1. Higher waterborne pathogen risk areas are identified.  These higher risk areas constitute control locations 
+or points in the system where a control measure may be desirable. 
+ 
+The Water Management Team has reviewed the following:  
+• The history of documented hospital-acquired infections.  
+• Areas in the hospital where high risk patients are likely to be housed and treated and have determined 
+that the following four risk group areas exist:  
+ Highest Risk: Invasive procedure areas and critical care units  
+ 
+ Medium-High Risk:  Patient care units and minimally invasive procedure areas 
+ 
+ Medium Risk: Outpatient care areas  
+ 
+ Low Risk: Non patient care areas 
+ 
+• For patients who are identified in the “Medium-High” and “Highest” risk categories due to medical 
+diagnosis, special precautions must be taken to minimize the risk of contracting waterborne 
+pathogens. Special patients, who are identified as extremely high risk due to their condition, will have 
+individualized care plans that include specific treatment modalities to minimize patient harm.  
+ 
+2. Responding to cases of Legionnaires’ disease - If diagnostic testing determines that any case of 
+pneumonia is caused by any species of Legionella that is epidemiologically linked to the building:  
+• Notification and reporting to Louisiana Department of Health in accordance with the Louisiana 
+Sanitary Code. 
+• Collect environmental water samples from the hot and cold-water distribution loops in at least the 
+areas where the patient had contact with the building water distribution systems. 
+• Perform corrective actions which may include decontaminating the building water systems 
+• Re-validate with environmental testing 
+• Review the WMP and revise, if necessary 
+ 
+F. Program Review  
+1. The Water Management Team will review the elements of your program at least annually. We will also 
+review and revise the program when any of the following events occur:  
+• Data review shows control measures are persistently outside of control limits  
+• A major maintenance or water service change occurs, such as: New construction  
+• Equipment changes (e.g., new hot tub chlorinator pump)  
+• Changes in treatment products (e.g., disinfectants)  
+• Changes in water usage (e.g., high and low season for hotel)  
+• Changes in the municipal water supply  
+• One or more cases of disease are thought to be associated with your system(s)  
+• Changes occur in applicable laws, regulations, standards, or guidelines  
+ 
+2. If an event triggers you to review and update your water management program, remember to:  
+• Update the process flow diagram, associated control points, control limits, and corrective actions  
+• Update the written description of your building water systems  
+• Train those responsible for implementing and monitoring the updated program  
+ 
+References 
+ASHRAE 188: Legionellosis: Risk Management for Building Water Systems June 26, 2015.  ASHRAE: Atlanta. 
+www.ashrae.org 
+ 
+ASHRAE 12-2020: Managing the Risk of Legionellosis Associated with Building Water Systems March 30, 2020.  
+ASHRAE: Atlanta. www.ashrae.org 7 
+CMS S & C 17-30-Hospitals/CAHs/NHs REVISED 06.09.2017. Requirement to Reduce Legionella Risk in 
+Healthcare Facility Water Systems to Prevent Cases and Outbreaks of Legionnaires’ disease (LD) 
+ 
+CDC. Developing a Water Management Program to Reduce Legionella Growth & Spread in Buildings, A Practical 
+Guide to Implementing Industry Standards.  June 5, 2017. Version 1.1 
+ 
+CDC. Guidelines for Environmental Infection Control in Health-Care Facilities.  Recommendations of CDC and the 
+Healthcare Infection Control Practices Advisory Committee.  2003.  Updated July 2019. 
+ 
+ 
+  8 
+Water System Interruption Record 
+ 
+ 
+Date Occurred:   
+Recorded By:  
+Indication of Water 
+System Interruption: 
+ 
+ 
+Water System  
+Interruption Location: 
+ 
+ 
+Action Taken:  
+  
+  
+  
+Record Completed By:  
+Date Completed:  
+ 
+  9 
+Corrective Action Record 
+ 
+ 
+Date Initiated:   
+Initiated By:  
+Corrective Action Prompt:  
+  
+System Type & Location:  
+  
+Action Taken:  
+  
+  
+  
+Record Completed By:  
+Date Completed:  
+ 
+ 
+ 
+ 
+  10 
+Appendix 1 
+When you become aware of an issue that may cause an infection risk to 
+our patients or employees, notify Infection Control by placing a RLDatix 
+event.  
+ 
+To place a RLDatix, select this destination: 
+ 
+ 
+Placing a RLDatixwill allow prompt notification and documentation of 
+follow up actions. After adding the department where the event has 
+occurred, add Infection Control as “another department involved.”  
+Please see screen shots below from RLDatix. 
+A few examples that require Infection Control notification: (This list is not 
+exhaustive) 
+• HVAC shut down for an extended period of time  
+• Chiller or boiler repair 
+• Malfunctioning negative or positive pressure rooms 
+• A sewer leak or back up of sewage  
+• Water leaks 
+• Ceiling failure  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For events that require immediate attention please call Infection Prevention at (225) 765-8864. 
+  
+11 
+ 
+Appendix 2  
+Water Flow Schematics and Text Descriptions 
+ 
+ 12 
+ 
+13 
+ 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+ 
+18 
+ 
+ 
+Main Campus: Operational Management of Risk 
+1. Hot Water Heating Systems: The hot water heating systems consist of quick flash steam heat exchangers 
+which do not provide for the storage of hot water in St. Mary’s Tower and in Main.  HVI has a hot water 
+heater/boiler. Water is circulated and returned through a series of balanced re-circulating pumps. The 
+operation of these pumps is checked by Bernhard with repairs performed on a priority basis as necessary. 
+Water is consistently returned to the heat exchangers, where it is mixed with fresh incoming water as 
+necessary to provide for proper make-up. The recirculation system prevents the occurrence of dead-end 
+piping legs, which leads to the stagnation and bacterial growth.  
+ 
+2. Cooling Towers: There are seven cooling towers in Main, 2 in HVI, and 3 in the MOB.  Bernhard maintains 
+the boiler and pump in each building with 2 backup steam buildings.  Per Infection Prevention policy: Water 
+testing of cooling towers will be done based on CDC recommendations. 
+ 
+3. Emergency Showers and Eyewashes: Emergency showers and eyewash stations are flushed weekly as a part 
+of the Plant Services preventive maintenance program.  
+ 
+4. Ice Machine: See Ice Machines policy for cleaning and maintenance procedures.  
+ 
+5. Condensate Trays: HVAC condensate trays and evaporator pans are routinely inspected and treated with 
+algaecide tablets to prevent algae growth.  
+ 
+6. Decorative Fountains: No interior fountains are present within the hospital environment. One exterior "slide" 
+fountain is located adjacent to the front lobby and main entrance.  One exterior fountain is located outside the 
+Chapel.  Fountains are limited in aerosolization by its design. Water is treated with chlorine and changed 
+regularly.  
+ 
+7. The sinks/showers on all floors have a maximum water temperature of 120°F. 
+ 
+ 
+  19 
+ 
+20 
+ 
+21 
+ 
+22 
+ 
+23 
+ 
+24 
+ 
+25 
+ 
+26 
+ 
+27 
+ 
+28 
+ 
+29 
+ 
+30 
+ 
+31 
+ 
+32 
+ 

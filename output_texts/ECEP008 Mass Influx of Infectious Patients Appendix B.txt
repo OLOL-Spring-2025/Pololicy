@@ -1,0 +1,725 @@
+ECEP008 Appendix B – Pandemic Influenza, 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Environment of Care 
+Our Lady of the Lake Regional Medical Center Chapter:  Emergency Management 
+Subject:  Pandemic Influenza Section:  A 
+Date of Origination:  12/20/2007 Supersedes:  
+Date Last Revised: June, 2010 Serial Code:  ECEP008 Appendix B 
+Date Last Reviewed:           05/06/2024 
+ 
+PURPOSE 
+To provide a response plan for Our Lady of the Lake Regional Medical Center (OLOLRMC) to prepare 
+for the presence of a novel influenza virus in Louisiana that will have the potential to result in a 
+pandemic.  
+ 
+SCOPE / GOALS 
+1. Describe the pandemic threat and its potential impact in Louisiana. 
+2. Describe response coordination between hospitals and governmental agencies. 
+3. Develop a leadership and authority structure that supports the plan and provides for timely activation 
+and decision making. 
+4. Develop and describe a plan for pandemic influenza disease surveillance and tracking during an 
+outbreak. 
+5. Describe a plan for internal and external hospital communication throughout the pandemic. 
+6. Present a strategy for pandemic flu response education and training. 
+7. Describe a plan for triage, clinical evaluation and admission procedure alternatives. 
+8. Designate plans for facility access and increased security needs during a pandemic response. 
+9. Demonstrate a strategy for addressing associate health needs during a pandemic including 
+vaccination, flu prevention, clinical and psychological needs. 
+10. Describe plans for pharmaceutical needs during an influenza pandemic response. 
+11. Describe strategies for managing increased ventilator and respiratory therapy needs. 
+12. Present plans for alternate staffing methods during patient surges and staffing shortages. 
+13. Demonstrate plans for increased hospital bed capacity during patient surge. 
+14. Describe plans for material management during the pandemic response. 
+15. List strategies for laboratory and mortuary management during the pandemic response. 
+16. Describe alternate care locations within the hospital. 
+17. Describe how bioethical issues will be addressed. 
+ 
+ETHICAL PRINCIPLES 
+The following ethical principles will guide and support decision making: 
+1. Autonomy – the right of persons to make moral decisions that affect oneself and are free from 
+interference by others.  Limits to autonomy arise when the needs of other people must be considered. 
+2. Nonmalfeasance – do no harm 
+3. Beneficence – the obligation of the medical professional to provide medical benefits for the patient. 
+4. Justice – for all concerned including trust required by the professional-patient relationship. 
+ 
+Guidelines from the Ethical and Religious Directives for Catholic Health Care Services to be taken into 
+consideration: 
+1. As a Catholic institutional health care service, OLOL is a community that provides health care to 
+those in need of it.  This service must be animated by the Gospel of Jesus Christ and guided by the 
+moral tradition of the Church (Directive #1). 
+2.  As a Catholic health care institution, OLOL should be a responsible steward of the health care 
+resources available to it (Directive #6). ECEP008 Appendix B – Pandemic Influenza, 2 
+3. The inherent dignity of the human person must be respected and protected regardless of the nature of 
+the person’s health problem or social status.  The respect for human dignity extends to all persons 
+who are served by Catholic health care.  (Directive #23). 
+4. The well being of the whole person must be considered in deciding about any therapeutic intervention 
+or use of technology (Directive #33). 
+5. An ethics committee or some alternative form of ethical consultation should be made available to 
+assist by advising on ethical situations (Directive #37). 
+6. The task of medicine is to care even when it cannot cure.  As a Catholic health care institution, OLOL 
+will be a community of respect, love and support to patients and families as they face the reality of 
+death.  Patients in danger of dying should be provided spiritual support as well as the opportunity to 
+receive the sacraments in order to prepare well for death (Part Five: Issues in Care for the Seriously 
+Ill and Dying, Directive #55). 
+7. Effective management of pain in all its forms is critical in the appropriate care of the dying.  Patients 
+should be kept as free of pain as possible so that they may die comfortably and with dignity.  
+Medicines capable of alleviating or suppressing pain may be given to the dying person, even if this 
+therapy may indirectly shorten the person’s life so long as the intent is not to hasten death (Part Five: 
+Issues in Care for the Seriously Ill and Dying, Directive #61). 
+ 
+PROCESSES 
+A. Leadership and Authority 
+OLOLRMC’s leadership response will be compliant with National Incident Management System 
+(NIMS) guidelines and reflected in Incident Command System (ICS) implementation, designation of 
+an incident commander (senior leadership or designee), and necessary incident command 
+positions/functions.  The ICS methodology will be used to coordinate/implement decisions regarding 
+bed closures, patient placement, cohorting, and allocation of scarce medical resources including 
+medications, vaccines, antivirals, durable and nondurable medical equipment. 
+ 
+B. Coordination 
+1. A pandemic influenza occurrence will require an immediate, coordinated response by 
+OLOLRMC including coordination with local, state, and federal levels of government.  
+ 
+2. Coordination within the Baton Rouge Metropolitan Area will be guided by the HRSA Region 2 
+Hospital Designated Regional Coordinator (DRC) who will report to the East Baton Rouge Office 
+of Homeland Security and Emergency Preparedness and work with local responding agencies 
+such as the Region 2 Office of Public Health officials and local hospitals and healthcare 
+organizations.   
+ 
+3. Coordination at the state level OLOLRMC will coordinate via the HRSA Region 2 Hospital 
+Designated Regional Coordinator in conjunction with the Louisiana Department of Health & 
+Hospitals, Louisiana Office of Public Health, and the Louisiana Hospital Association.  
+ 
+C. Activation  
+The decision to activate the OLOLRMC Pandemic Flu Plan, escalate, or de-escalate the response 
+level will be made by the OLOLRMC Incident Commander. This decision will be made based on 
+information provided by the Infection Control Practitioner, Louisiana Department of Health and 
+Hospitals / Office of Public Health, the World Health Organization (WHO), Centers for Disease 
+Control and Department of Homeland Security.  
+ 
+D. Pandemic Influenza – Background ECEP008 Appendix B – Pandemic Influenza, 3 
+1. Incubation Period. The incubation period for human influenza virus is usually 1 to 3 days (range 
+1 -7 days).  The incubation period for novel viruses is also short; for example, the average time 
+between exposure and onset of illness is 3 days (range 2-4 days) for influenza A (H5N1).  
+ 
+2. Route of Transmission. Transmission of human influenza is predominately by large respiratory 
+droplets (>5 microns nuclei) and to a lesser degree by the fine droplet nuclei that are expelled 
+from the respiratory tract during coughing, sneezing and even talking.  Transmission also occurs 
+through direct contact with contaminated respiratory secretions followed by touching the nose or 
+mouth.  Recent outbreaks of influenza A (H5N1) have not suggested a role for airborne 
+transmission of disease.  
+ 
+3. World Health Organization (WHO) Pandemic Periods Defined 
+ 
+ 
+Period Phase Definition 
+Inter-pandemic Period Phase 1 No new influenza virus subtypes have been detected in humans. An 
+influenza virus subtype that has caused human infection may be 
+present in animals. If present in animals, the risk of human infection 
+or disease is low. 
+Phase 2 No new influenza virus subtypes have been detected in humans. 
+However, a circulating animal influenza virus subtype poses a 
+substantial risk of human disease. 
+Pandemic Alert Period Phase 3 Human infection(s) with a new subtype, but no human-to-human 
+spread, or at most rare instances of spread to a close contact. 
+Phase 4 Small cluster(s) with limited human-to-human transmission but 
+spread is highly localized, suggesting that the virus is not well 
+adapted to humans. 
+Phase 5 Larger cluster(s) but human-to-human spread still localized, 
+suggesting that the virus is becoming increasingly better adapted to 
+humans, but may not yet be fully transmissible (substantial 
+pandemic risk). 
+Pandemic Period Phase 6 Pandemic: Increased and sustained transmission in general 
+population. 
+ 
+The distinction between phase 1 and phase 2 is based on the risk of human infection or disease resulting 
+from circulating strains in animals. The distinction is based on various factors and their relative 
+importance according to current scientific knowledge. Factors may include pathogenicity in animals and 
+humans, occurrence in domesticated animals and livestock or only in wildlife, whether the virus is 
+enzootic or epizootic, geographically localized or widespread, and/or other scientific parameters.  The 
+distinction between phase 3, phase 4 and phase 5 is based on an assessment of the risk of a pandemic. 
+Various factors and their relative importance according to current scientific knowledge may be 
+considered. Factors may include rate of transmission, geographical location and spread, severity of 
+illness, presence of genes from human strains (if derived from an animal strain), and/or other scientific 
+parameters. 
+ 
+E. Surveillance 
+Phases 1, 2, and 3 
+1. The Infection Control department is responsible for ongoing monitoring of inpatients for 
+infectious disease. See also IC1002, The Infection Control Plan.  ECEP008 Appendix B – Pandemic Influenza, 4 
+a. Reporting suspected cases of reportable disease is made to the Office of Public Health 
+through the Reportable Disease Databank.  
+2. Employee Health is responsible for ongoing monitoring of reports of employee illness for 
+symptoms of influenza or influenza-like-illness (ILI).  
+3. All other employees will  
+a. Standard Precautions is to be routinely practiced by all health-care personnel.  
+i. During the care of a patient with suspected or confirmed influenza:   
+ii. Wear gloves if hand contact with respiratory secretions or potentially 
+contaminated surfaces is expected.   
+iii. Wear a gown if soiling of clothes with patient’s respiratory secretions is 
+expected.   
+iv. Change gloves and gowns after each patient encounter and perform hand 
+hygiene.   
+v. Decontaminate hands before and after touching the patient, after touching the 
+patient’s environment, or after touching the patient’s respiratory secretions, 
+whether or not gloves are worn.  
+vi. When hands are visibly soiled or contaminated with respiratory secretions, wash 
+hands with either a non-antimicrobial or an antimicrobial soap and water.  
+vii. If hands are not visibly soiled, use an alcohol-based hand rub for routinely 
+decontaminating hands in clinical situations. Alternatively, wash hands with an 
+antimicrobial soap and water.   
+b. Droplet Precautions - Respiratory droplets are the primary route of influenza 
+transmission.  
+i. In addition to Standard Precautions, observe Droplet Precautions during the care 
+of a patient with suspected or confirmed influenza. 
+ii. Place patient into a private room. If a private room is not available, place (cohort) 
+suspected influenza patients with other patients suspected of having influenza; 
+cohort confirmed influenza patients with other patients confirmed to have 
+influenza.  
+iii. Don a surgical mask before entering the patient’s room or when working within 3 
+feet of the patient. Remove the mask when leaving the patient’s room and 
+dispose of the mask in a waste container.  
+iv. If patient movement or transport is necessary, have the patient wear a surgical 
+mask, if possible 
+v. Implement droplet precautions for all persons having respiratory symptoms of 
+coughing and sneezing, running nose and/or fever. 
+vi. Have tissue or surgical masks available for persons to use to cover their cough. 
+vii. Keep alcohol hand sanitizer in easy access. 
+viii. Have persons with respiratory or flu-like symptoms sit three (3) feet from other 
+persons in waiting area. 
+c. Keep respiratory etiquette signs posted and hand hygiene supplies available in common 
+waiting rooms and entry points to the hospital. 
+ 
+Phases 4 and 5 
+Follow action steps outlined in Phases 1, 2 and 3. In addition: 
+1. Place signs outside the Emergency Department (ED) and outpatient facilities requesting that 
+persons with influenza-like illness and/or has traveled to areas where Pandemic influenza has 
+been identified to identify themselves to the Triage Nurse (or e.g., security, admitting staff) upon 
+entering the building.   
+2. When a patient is presents to the hospital or is admitted: 
+a. A mask should be placed on the patient at triage or admission.   ECEP008 Appendix B – Pandemic Influenza, 5 
+b. Persons accompanying the patient should be screened for symptoms of the novel virus.  
+c. Post visual alerts enforcing “respiratory hygiene” precautions.  
+3. Actively screen symptomatic patients for either personal or contact history of travel to geographic 
+area with reported virus activity.  
+4. Decisions regarding the need for escalating infection control measures will be based on virus 
+activity and transmission risks.    
+a. It is anticipated that neither immunization nor chemoprophylaxis will be available in the 
+early stages of a pandemic and perhaps not even available in later stages, necessitating an 
+emphasis on infection prevention and control practices.   
+b. Strict adherence to hand hygiene recommendations is the cornerstone of infection 
+prevention and may be the only preventative measure available during a pandemic.  
+5. Isolate any hospitalized or ambulatory patient with the following symptoms. Report all cases to 
+the Office of Public Health. 
+a. Radio-graphically confirmed pneumonia, acute respiratory distress, or other sever 
+respiratory illness with no alternate diagnosis 
+b. History of travel to a country with identified avian influenza in poultry or humans within 
+10 days of symptom onset. 
+c. Documented temperature of greater than 100.4F with one or more of the following: 
+cough, sore throat, shortness of breath 
+d. History of contact with poultry or a known or suspected human case within 10 days of 
+symptom onset. 
+6. Implement a system for early detection and treatment of healthcare personnel who might be 
+infected with the pandemic strain of influenza 
+a. Require all employees to report the presence of any of the following symptoms if he/she 
+calls in sick: Temperature greater than 100.4F, cough, sore throat, recent travel to high 
+risk country.  
+b. Employee Health will monitor and follow up with those cases which meet the above 
+criteria and require those employees complete testing for influenza. 
+c. Employees with these symptoms will not be allowed to work until cleared by a physician. 
+ 
+Phase 6 
+In addition to action steps in Phases 1-5 begin the following: 
+1. Activate appropriate Emergency Response Plans 
+a. Emergency Operations Plan (ECEP-001) 
+b. Mass Influx of Infectious Disease Patients / Bioterrorism Plan (ECEP-008) 
+2. Actively screen all patients and staff prior to entering the facility, including monitoring body 
+temperature.  
+3. Conduct Influenza A and MRSA screening on all patients hospitalized with pneumonia who in 
+the 10 days before illness onset traveled to or had close contact with other ill persons who 
+recently traveled to an area where virus activity is reported. 
+ 
+F. Communication Plan 
+External Communication 
+1. All external communication other than data reporting (for example, to the Office of Public 
+Health) will be coordinated by the Public Information Officer to ensure consistent information is 
+relayed.  
+2. The Responsibility for external communication regarding pandemic will be assigned as 
+appropriate for the following areas: 
+a. Public Health Reporting – Infection Control Practitioner 
+b. Clinical Spokesperson – Medical Director, or designee 
+c. Media Spokesperson – Public Information Officer, or designee ECEP008 Appendix B – Pandemic Influenza, 6 
+3. Identify points of contact among local media representatives, public officials and community 
+leaders. 
+4. Establish the method, frequency and scope of external communications. 
+5. Determine how public inquiries will be handled, the types of information that will be provided by 
+OLOLRMC and the types of inquiries that will be referred to the Office of Public Health. 
+6. Communications between local and regional healthcare facilities and support agencies will be 
+managed by the HRSA Region 2 Hospital Designated Regional Coordinator and Hospital 
+Liaison, or designee, information sharing will include: 
+a. Staffing needs 
+b. Bed capacity 
+c. Durable and consumable medical equipment and device needs 
+d. Supplies of influenza vaccine and antiviral drugs 
+ 
+Internal Communication 
+1. Laboratory Services will notify Infection Control immediately of a laboratory confirmed case of a 
+novel influenza virus. 
+2. Infection Control will notify Senior Leadership Team, Infectious Disease Physician and 
+Emergency Preparedness Coordinator. 
+3. During a pandemic, key stakeholders will remain updated at often as possible but at least weekly 
+on pandemic status.  Updates to include: 
+a. Number of cases 
+b. Severity 
+c. Trends (beginning, increasing numbers, peak, decreasing numbers, end) 
+d. Prevention strategies being used 
+e. Allocation of resources 
+4. A formal report will be presented to the Infection Control Committee monthly during the 
+pandemic. 
+ 
+G. Education and Training Plan  
+1. Health-care personnel who would be involved in caring for a patient with a novel strain of 
+influenza A will receive training in modes of transmission, appropriate infection control 
+precautions and exposure control.  
+2. Clinicians, intake and triage staff will be regularly updated on the status of the pandemic locally, 
+nationally, and internationally (via email, memoranda, or meetings).  
+a. Intake and triage staff will be trained on how to assess risks for the pandemic strain of 
+influenza and use any applicable tools (thermometers, signs/symptoms of pandemic 
+influenza) to screen patients.   
+ 
+H. Triage, Clinical Evaluation and Admission Procedures 
+Phase 1, 2, 3 
+1. Triage  
+a. The Emergency Department provides initial triage and screening of patients presenting to 
+the hospital with symptoms of influenza.  
+b. Documentation of triage and screening data will be in the electronic medical record. 
+Triage questions relative to the pandemic flu are pre-loaded into the documentation 
+system to standardize data collection 
+ 
+Phase 4, 5, 6 
+1. Triage 
+a. A screening station will be placed outside the facility to screen patients before they enter 
+the Emergency Department. ECEP008 Appendix B – Pandemic Influenza, 7 
+b. At the Emergency Department, patients with respiratory symptoms will be triaged and 
+provided a surgical mask to minimize the risk of transmission to other patients and guests 
+in the waiting area.  
+c. Alternate screening stations in the following areas will be opened based on the number of 
+identified cases.  
+i. Health Careers Institute 
+ii. Heart Center Waiting 
+iii. Main Entrance to the hospital 
+iv. Lake After Hours / Convenient Care clinics will provide support for screening 
+patients with mild illness.  
+d. Lake Primary Care Physician Clinics will complete telephone screening of patients with 
+appointments.  
+e. Lake Line Direct will provide telephone triage support to the community. 
+f. Patients with a suspected strain of pandemic influenza requiring medical evaluation will 
+be seen in designated staging locations.  
+v. If possible, the designated area will be notified prior to the patient’s arrival.    
+vi. Minor care patients will be directed to the Health Careers Institute triage and 
+screening location whenever possible. 
+g. The patient will be required to wear a surgical mask.   
+h. Persons accompanying the patient for evaluation will be screened for symptoms of 
+pandemic influenza ideally prior to entering the facility.  
+2. Pandemic Influenza Screening Form will be completed and faxed to infection control.   
+3. Documentation of triage and screening data will be in the electronic medical record. Triage 
+questions relative to the pandemic flu are pre-loaded into the documentation system to 
+standardize data collection. 
+a. If / when the electronic system is not available, staff will document screening using a 
+paper form.  
+4. All patients presenting with signs and symptoms of influenza will be screened using the 
+electronic form.  
+a. Triage information about patients with strong epidemiological risk factors (for 
+example, recent travel to high risk area) will be provided to the Infection Control 
+Department for surveillance. 
+5. Medical Staff: Members of the hospital medical staff may be asked to limit hospital admissions, 
+transfers, and discharges (in accordance with local/state recommendations and regulations) in the 
+event that hospital transmission of a pandemic strain of influenza occurs.   
+ 
+I. Clinical Guidelines 
+Phase 1, 2, and 3  
+1. Further evaluation and diagnostic testing should also be considered for outpatients with strong 
+epidemiological risk factors and mild or moderate illness. 
+2. Updated information on areas where novel influenza virus transmission is suspected or 
+documented is available on the WHO website 
+(http://www.who.int/csr/disease/avian_influenza/country/en/index.html). 
+3. For persons who live in or visit affected areas, close contact includes touching live poultry (well-
+appearing, sick or dead) or touching or consuming uncooked poultry products, including blood. 
+For animal or market workers, it includes touching surfaces contaminated with bird feces. In 
+recent years, most instances of human infection with a novel influenza A virus having pandemic 
+potential, including influenza A (H5N1), are thought to have occurred through direct transmission 
+from domestic poultry. A small number of cases are also thought to have occurred through 
+limited person-to-person transmission or consumption of uncooked poultry products. 
+Transmission of novel influenza viruses from other infected animal populations or by contact ECEP008 Appendix B – Pandemic Influenza, 8 
+with fecal contaminated surfaces remains a possibility. These guidelines will be updated as 
+needed if alternate sources of novel influenza viruses are suspected or confirmed. 
+4. Close contact includes direct physical contact, or approach within 3 feet of a person with 
+suspected or confirmed novel influenza. 
+5. Hospitalization should be based on all clinical factors, including the potential for infectiousness 
+and the ability to practice adequate infection control. If hospitalization is not clinically warranted, 
+and treatment and infection control is feasible in the home, the patient may be managed as an 
+outpatient. The patient and his or her household should be provided with Home Quarantine and 
+Self-Help information. The patient and close contacts should be monitored for illness by local 
+public health department staff. 
+6. Suspected cases of novel influenza will be reported to the Louisiana CDC. See the Surveillance 
+section of this plan for guidance.  
+7. The general work-up should be guided by clinical indications. Depending on the clinical 
+presentation and the patient’s underlying health status, initial diagnostic testing might include: 
+▪ Pulse oximetry 
+▪ Chest radiograph 
+▪ Complete blood count (CBC) with differential 
+▪ Blood cultures 
+▪ Sputum (in adults), tracheal aspirate, pleural effusion aspirate (if pleural effusion is 
+present)  
+▪ Gram stain and culture 
+▪ Antibiotic susceptibility testing (encouraged for all bacterial isolates) 
+▪ Multivalent immunofluorescent antibody testing or PCR of nasopharyngeal aspirates or 
+swabs for common viral respiratory pathogens, such as influenza A and B, adenovirus, 
+parainfluenza viruses, and respiratory syncytial virus, particularly in children  
+▪ Legionella and pneumococcal urinary antigen testing for adults with radiographic 
+evidence of pneumonia. 
+▪ If clinicians have access to rapid and reliable testing (e.g., PCR) for M. pneumoniae and 
+C. pneumoniae, adults and children <5 yrs. with radiographic pneumonia should be 
+tested. 
+▪ Comprehensive serum chemistry panel, if metabolic derangement or other endorgan 
+involvement, such as liver or renal failure, is suspected. 
+8. Guidelines for novel influenza virus testing as per Louisiana State CDC. All the following 
+respiratory specimens should be collected for novel influenza A virus testing:  
+▪ nasopharyngeal swab.  
+▪ nasal swab, wash, or aspirate.  
+▪ throat swab; and  
+▪ tracheal aspirate (for intubated patients) stored at 4° C (39°F) in viral transport media; 
+and  
+▪ acute and convalescent serum samples. 
+9. Given the unknown sensitivity of tests for novel influenza viruses, interpretation of negative 
+results should be tailored to the individual patient in consultation with the state health department. 
+Novel influenza directed management might need to be continued, depending on the strength of 
+clinical and epidemiological suspicion. Antiviral therapy and isolation precautions for novel 
+influenza may be discontinued on the basis of an alternative diagnosis. The following criteria may 
+be considered for this evaluation: 
+▪ Absence of strong epidemiological link to known cases of novel influenza 
+▪ Alternative diagnosis confirmed using a test with a high positive-predictive value 
+▪ Clinical manifestations explained by the alternative diagnosis. 
+ 
+Phase 4, 5, and 6 ECEP008 Appendix B – Pandemic Influenza, 9 
+1. Antiviral therapy and isolation precautions for pandemic influenza should be discontinued on 
+the basis of an alternative diagnosis only when both the following criteria are met: 
+▪ Alternative diagnosis confirmed using a test with a high positive-predictive value, 
+and 
+▪ Clinical manifestations entirely explained by the alternative diagnosis 
+2. Strict adherence to Standard and Droplet Precautions (See also Surveillance / Infection 
+Control section.) 
+3. See guidance from the state on laboratory testing during the Pandemic Period. Generally, 
+specimens should include respiratory samples (e.g., nasopharyngeal wash/aspirate; 
+nasopharyngeal, nasal or oropharyngeal swabs, or tracheal aspirates) stored at 4°C in viral 
+transport media. 
+NOTE: Routine laboratory confirmation of clinical diagnoses will be unnecessary as 
+pandemic activity becomes widespread in a community. CDC will continue to work with 
+state health laboratories to conduct virologic surveillance to monitor antigenic changes 
+and antiviral resistance in the pandemic virus strains throughout the Pandemic Period. 
+4. The decision to hospitalize should be based on a clinical assessment of the patient and the 
+availability of hospital beds and personnel. 
+a. When necessary, cohorting may be used to enhance the number of bed available for 
+patient care.  
+b. Laboratory confirmation of influenza infection is recommended whenever possible 
+before cohorting patients. 
+5. The individual patient work-up should be guided by clinical indications. Depending on the 
+clinical presentation and the patient’s underlying health status, initial diagnostic testing might 
+include: 
+a. Pulse oximetry 
+b. Chest radiograph 
+c. Complete blood count (CBC) with differential 
+d. Blood cultures 
+e. Sputum (in adults) or tracheal aspirate Gram stain and culture 
+f. Antibiotic susceptibility testing (encouraged for all bacterial isolates) 
+g. Multivalent immunofluorescent antibody testing of nasopharyngeal aspirates or 
+swabs for common viral respiratory pathogens, such as influenza A and B, 
+adenovirus, parainfluenza viruses, and respiratory syncytial virus, particularly in 
+children 
+h. In adults with radiographic evidence of pneumonia, Legionella and pneumococcal 
+urinary antigen testing 
+i. If clinicians have access to rapid and reliable testing (e.g., PCR) for M. pneumoniae 
+and C. pneumoniae, adults and children <5 yrs. with radiographic pneumonia should 
+be tested. 
+j. Comprehensive serum chemistry panel, if metabolic derangement or other end-organ 
+involvement, such as liver or renal failure, is suspected. 
+ 
+6. Guidance on the reporting of pandemic influenza cases is provided in the Surveillance 
+section of this Plan. 
+7. Patients with mild disease should be provided with home-care kits, including standardized 
+instructions on home management of fever and dehydration, pain relief, and recognition of 
+deterioration in status. Patients should also receive information on infection control measures 
+to follow at home. Patients cared for at home should be separated from other household 
+members as much as possible. All household members should carefully follow 
+recommendations for hand hygiene, and tissues used by the ill patient should be placed in a 
+bag and disposed of with other household waste. Infection within the household may be ECEP008 Appendix B – Pandemic Influenza, 10 
+minimized if a primary caregiver is designated; ideally, someone who does not have an 
+underlying condition that places them at increased risk of severe influenza disease. Although 
+no studies have assessed the use of masks at home to decrease the spread of infection, using a 
+surgical or procedure mask by the patient or caregiver during interactions may be beneficial. 
+Separation of eating utensils for use by a patient with influenza is not necessary, as long as 
+they are washed with warm water and soap. 
+ 
+J. Palliative Care  
+1. Palliative Care Team is available to assist with pain and symptom management of patients with 
+the pandemic flu. It is expected that there will be three primary patient groups: 
+a. Patients who receive ventilator support. 
+b. Patients who receive curative treatment attempts, but no ventilator support 
+c. Patients who receive palliative treatment 
+2. Palliative Care will focus on pain and symptom management in conjunction with the patient’s 
+primary service provider (admitting physician, Hospital Medicine Service, Intensivist) to 
+determine treatment goals and to provide education and support to the patient and family.  
+a. Care provided will focus on meeting the patient’s spiritual and emotional needs, 
+addressing social issues and providing psychological support when needed.  
+b. A Pharmacist is included in the Palliative Care team to assist with managing medications.  
+3. The Palliative Care Team will also interface with Long Term Care, Home Health, Hospice 
+providers within the community whenever possible.  
+ 
+K. Post-Mortem care of Hospitalized Pandemic Influenza Patients 
+1. Health care workers must follow Standard Precautions when caring for a patient with pandemic 
+influenza who is deceased. 
+2. Full Personal Protective Equipment (PPE) must be worn if the patient died during the infectious 
+period (i.e. within 7 days after resolution of fever in adults and 21 days after the onset of 
+symptoms in children). 
+3. Transfer to the mortuary should occur as soon as possible after death. 
+4. If the family wishes to view the body, they may be allowed to do so.  If the patient died during 
+the infectious period, the family should wear gloves and a gown. 
+5. Disposition of the body will be documented on the Morgue Log according to existing process. 
+Should the patient be transferred to a mass fatality holding area instead of a funeral home, 
+documentation of which holding area will be recorded on the form. 
+6. The deceased patient’s family will be informed of the location of the body.  
+ 
+L. Security/ Facility Access 
+1. Managed Access: When pandemic influenza is present in the community, effective management 
+of patient and guest access to the facility will be essential. Decisions to restrict access to the 
+facility will be made by the Security Director and Incident Commander. See also policy 
+ECEP011 – Emergency Security Procedures for specific guidance.  
+2. Visiting 
+a. Guests and visitors to the hospital may be restricted based on the prevalence of virus 
+within the community.  
+b. Decisions to limit visiting will be made by the Security Director and Incident 
+Commander, and communicated to hospital staff, patients and the community.  
+ 
+M. Occupational Health Plan  
+1. Vaccination  ECEP008 Appendix B – Pandemic Influenza, 11 
+a. Annual seasonal influenza vaccination will be offered to all hospital staff, licensed 
+independent practitioners and volunteers. All hospital workers are encouraged to be 
+vaccinated against influenza.  
+b. A risk stratified scheme for prioritizing vaccination of healthcare personnel who are most 
+critical for patient care and essential personnel to maintain the day-to-day operation of 
+the healthcare facility will be followed when necessary. 
+c. It is recommended that all health care workers who meet the following criteria be 
+vaccinated with the current WHO recommended influenza vaccine as soon as possible:  
+i. Healthcare workers expected to have contact with a novel influenza A virus or a 
+patient infected with novel virus, or  
+ii. Have contact with an environment that is likely to be contaminated with the 
+influenza virus. 
+2. Managing ill workers 
+a. Implement plans to detect signs and symptoms of influenza in healthcare workers before 
+they report for duty.  
+b. Implement Employee Health procedures for managing healthcare workers with 
+respiratory symptoms with and without elevated temperature.   
+c. Consider assigning staff who are recovering from influenza to care for influenza patients. 
+d. Ensure that time-off policies and procedures consider staffing needs during periods of 
+clinical crisis. 
+e. Personnel at high risk for complications of influenza (such as pregnant women, persons 
+immunocompromised or over 65 years of age) will be evaluated on a one-on-one basis to 
+determine if reassigning them to low-risk duty or placing them on furlough will be 
+needed. 
+3. Post Exposure to novel influenza virus 
+a. Infection Control and Employee Health will follow post-exposure follow-up guidelines of 
+healthcare personnel after unprotected exposures to novel strains of influenza A.  
+Guidelines will be based in guidance issued by the Centers for Disease Control (CDC) 
+and Office of Public Health (OPH). Follow-up will be inclusive of medical staff, hospital 
+employees, students, contract and volunteer services. 
+b. If a healthcare worker provides care at more than one facility, the healthcare worker will 
+be instructed to notify Infection Control if one of the facilities is providing care to novel 
+virus patients.  
+c. If quarantine is used as an exposure management tool, some healthcare workers may be 
+placed on ‘home/work restrictions’ to ensure sufficient staffing levels.  Healthcare 
+workers on home/work restrictions should travel only between home and the healthcare 
+facility for the duration of the restriction.   
+d. Health care workers will have access to mental health professionals to help them cope 
+with the emotional strain of managing a pandemic (e.g., Employee Assistance Program 
+and Critical Incident Stress Management). See also policy OrgOpsGN028 – Critical 
+Incident Stress Management Team.  
+4. Managing Well Employees 
+a. Whenever possible, well, unexposed employees should work in non-influenza areas 
+b. Asymptomatic employees may work even if influenza vaccine and antivirals are 
+unavailable. 
+c. Meticulous attention should be paid to hand hygiene and employees should avoid 
+touching mucous membranes of the eye and mouth to prevent exposure to the influenza 
+virus and other infective organisms. 
+d. Provide Mental Health Services and Crisis Counseling for employee/s that need 
+counseling to maximize professional performance and personal resilience by addressing ECEP008 Appendix B – Pandemic Influenza, 12 
+management of grief, exhaustion, anger, fear, self and family physical needs, and ethical 
+dilemmas. 
+5. Determining if an Employee may work.  
+a. Employees may be considered “Fit to Work” when one of the following conditions apply: 
+i. They have recovered from pandemic flu, during earlier phases of the pandemic 
+ii. They have been immunized against the pandemic strain of influenza (if vaccine is 
+available.) 
+iii. They are on appropriate antivirals. 
+iv. Such employees may work with all patients and may be selected to work in units 
+where there are patients who, if infected with influenza, would be at high risk for 
+complications. 
+b. Staff with Influenza-like Illness (ILI) should be considered “Not Fit to Work” and should 
+not work. In cases of extremely limited resources, employees may be asked to work if 
+they are well enough to do so and must follow these guidelines: 
+i. They must work with non-exposed patients (non-influenza areas) and should be 
+required to wear a mask if they are coughing. 
+ii. They must pay meticulous attention to hand hygiene. 
+iii. They should not be redeployed to intensive care areas, nursery or an area with 
+severely immunocompromised patients, i.e. transplant recipients, 
+hematology/oncology patients, patients with chronic heart or lung disease, or 
+patients with HIV/AIDS and dialysis patients. 
+ 
+N. Use and Administration of Vaccines, Antivirals, and Antibiotics 
+1. If available, staff will be provided vaccines, antiviral prophylaxis and/or antibiotic medication.  
+2. If supplies are not available to provide medications to all employees, administration will be 
+prioritized to staff based on risk of exposure.  
+3. If necessary, a mass dispensing center will be established for hospital staff.  
+ 
+O. Surge Capacity 
+1. Staffing 
+a. When the OLOLRMC plan is activated, Department Directors will evaluate staffing to 
+determine needs and how to adjust shift assignments to ensure adequate coverage. (See 
+also ECEP014- Disaster (Hurricane) Staffing Team.)  
+b. All team members are essential and are expected to report for work according to his/her 
+assignment.  
+c. All scheduled vacation / PTO will be recalled in the event of an actual event.  
+d. Staff not assigned will report to the Personnel Pool for assignment to an area where 
+staffing needs are identified.  
+• Staff may be reassigned to a role outside of their normal job to maintain patient 
+care operations. 
+• Clinicians whose regular job is in a nontraditional role may be reassigned to a 
+clinical position when necessary. These staff will complete a self assessment of 
+clinical competency to guide decision making.  
+e. All staff will be assessed as they check-in for work for flu symptoms prior to shift start. 
+Any staff with possible flu symptoms will be directed to Employee Health for further 
+screening prior to beginning work.  
+f. The VP Nursing will meet with key members of Senior Management Team and the 
+Medical staff to determine what service areas should be closed to divert the necessary 
+staff to needed areas.   ECEP008 Appendix B – Pandemic Influenza, 13 
+g. The Incident Command Center will receive staffing reports and be in contact with other 
+hospitals in our area for coordination purposes, and in touch with the Department of 
+Health.  
+h. The Incident Commander will determine if on-campus sleep areas will be opened to 
+house employees who need to stay over to staff patients.  
+i. The Incident Commander will determine if child/dependent care services for employees 
+who need to work but need child/dependent care services for their family members. 
+2. Surge Capacity / Beds    
+a. The Hospital Beds Coordinator is responsible for managing placement of patients within 
+the hospital to maximize bed resources.  
+b. Every effort will be made to co-locate flu patients in the same unit. 
+c. Flu patients will be prioritized for placement in negative pressure (isolation) rooms. A 
+current list of negative pressure isolation rooms is available in Plant Services. 
+d. Bed capacity may be increased by cohorting patients with like symptoms (same gender) 
+e. Alternate care locations will be opened when needed to increase the number of beds 
+available for patients during the pandemic. See the Alternate Care Site section for 
+details.  
+ 
+P. Ventilators 
+1. Stockpile ventilators and related supplies when possible. 
+2. Coordinate with OLOL College to reassign their personal and students to the hospital as needed  
+3. Develop criteria to prioritize the workload during times of limited staff.  
+ 
+Q. Materials 
+1. The rapid consumption of goods (i.e. PPE) is currently tracked through established PAR levels.  
+Each item is set up in the system with a PAR Level (desired stocking level), an automatic reorder 
+point, and a reorder quantity. As an item is consumed and reaches the reorder point, a supply 
+requisition is automatically generated for the reorder quantity set in the system. 
+2. If the items are consumed at a pace faster than normal and the stock is completely depleted prior 
+to shipment arrives, Materials Management will evaluate current census and other contributing 
+factors and adjust par levels, reorder points, and reorder quantity accordingly. 
+3. A stockpile of N95 respirators has been developed. Additional supplies to be stockpiled include 
+surgical masks (without face shield), goggles, N95 masks, gloves, and gowns for potential 
+pandemic.   
+a. Materials Management is responsible to rotate stock to avoid expiration. 
+4. Extra resources (in addition to any stockpiled supplies) will be ordered when the World Health 
+Organization alerts the hospital through the Office of Public Health, Centers for Disease Control 
+that a suspected case of pandemic flu has been identified in North America. 
+5. A contingency plan for obtaining supplies after resources are depleted will be created with the 
+distributor, FMOLHS Purchasing and other HRSA Region 2 healthcare facilities.  
+ 
+R. Laboratory / Mortuary Services 
+1. Specimen Type and Collection  
+a. Use Standard Precautions in handling of all specimens.  Specimens suspected of being 
+contaminated with influenza virus are regarded as potentially infectious and staff that 
+collect or transport clinical specimens should adhere rigorously to protective measures to 
+minimize exposure.  
+b. Pneumatic tube system will not be used to transport these specimens. 
+c. The request form accompanying the specimen will be clearly labeled as “novel influenza 
+virus” or influenza A (H5) or (H7) if one of these subtypes is suspected.  ECEP008 Appendix B – Pandemic Influenza, 14 
+d. The hospital laboratory as well as the State Lab will be notified by phone when the 
+specimen is being transported. 
+e. Preliminary testing will be completed on site. Confirmatory testing will be sent to Public 
+Health Lab. 
+2. Guidelines for prioritization of laboratory services. 
+a. Laboratory testing will be performed according to existing priority scheme. 
+b. Phlebotomy services to nursing area may be reduced due to available staffing. When 
+necessary, outreach draw stations will be closed and staff transferred to the main 
+Laboratory.  
+3. Morgue 
+a. Assess current capacity for refrigeration of deceased persons. Current capacity at 
+OLOLRMC is a maximum of 10 bodies.  
+b. Contact will be made to the East Baton Rouge Parish Coroner’s Office to request support 
+and storage of bodies when the OLOL morgue is at 50% capacity.  
+c. OLOL will work with the East Baton Rouge Parish Coroner and State in implementing its 
+mass fatality plan.  
+ 
+S. Alternate Care Sites 
+1. OLOL will work within the Region 2 Healthcare coordination system to facilitate the most 
+effective use of hospital and healthcare resources during a pandemic. 
+2. The following alternate care sites have been identified: 
+Location Patients 
+OLOL Health Careers Institute  
+• Skills Lab 
+Mild illness 
+OLOL Auditorium Moderate Illness 
+Critical Care Waiting Room Moderate Illness / Palliative Care 
+Main OR Waiting Room Moderate Illness / Palliative Care 
+Tau Center Group Rooms Mental Health and/or Minor Illness 
+ 
+a. Medical and Support Staffing and Supplies needed to operate the facility would need to 
+be provided through surge capacity planning. 
+b. Food and supplies will be transported from the main campus. 
+c. All sites can be secured by limiting entry points.  
+ 
+T. Bioethics Model 
+1. Ethical decisions that will need to be made during a pandemic will follow the stages and 
+guidelines listed below. 
+a. Stages 
+i. Stage One:  (Confirmed cases that avian influenza has been transmitted from 
+person to person.) 
+1. Bioethics team gathers for consult. 
+2. Team consists of representatives from the ethics committee, physician, 
+nurse, Chaplain, and Social Services. 
+3. Provides framework for decision making related to scarce resources. 
+ii. Stage Two: (Confirmed cases that human transmission of avian influenza has 
+occurred in the United States.) 
+1. Team begins to review data and current patient population. 
+iii. Stage Three: (Confirmed cases that avian influenza has been transmitted in 
+human cases in Louisiana.) 
+1. Team gathers to set tier decision making in place. ECEP008 Appendix B – Pandemic Influenza, 15 
+iv. Stage Four:  (Confirmed deaths in Louisiana related to avian influenza.)  
+1. Implement tier decision making model. 
+  
+Tiered Decision-Making Model.1st level:  Persons that would immediately benefit from 
+ventilator such as those patients that can gain strength by being on the ventilator. 
+2nd level:  Persons that may benefit from ventilator, however, may take longer to gain 
+strength. 
+3rd level:  Persons that are terminally ill where ventilator care would be futile. 
+v. The decision would be a case by case decision between the team with input from 
+the patient’s primary physician, a member of the Senior Management Team (if 
+they are not a part of the Bioethics team), and other members of the patient’s 
+medical team that is appropriate. 
+vi. Patient may be involved in the decision if able; and family may be consulted 
+depending upon the level of crisis reached. 
+ 
+References: 
+Ashley, B. M., Deblois, J., and O’Rourke, K.D. (2007) Health care ethics; A Catholic theological 
+analysis. (5th ed.).  Washington DC: Georgetown University Press. 
+United States Conference of Catholic Bishops (2009).  Ethical and Religious Directives for Catholic 
+Health Care Services (Fifth Edition). 
+ 
+ 

@@ -1,0 +1,114 @@
+Policies and Procedures Manual    Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Comparability/Correlation Section: Blood Gas Lab 
+                 of Instruments and Methods Signature: 
+Date of Origination: March 4, 2012 Serial Code: RC9-34 
+Date of Last Review:  October 1, 2024 
+Date of Last Revision:April 11, 2024  
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+ The purpose of this policy is to outline the procedure for instrument/method comparison. 
+ 
+POLICY: 
+Comparability/Correlation of instruments and methods 
+ 
+I.  PRINCIPLE 
+     Instrument/Method comparison testing is performed for correlation of reported results. 
+A. Instrument/Method Correlation- Respiratory Instrument Radiometer Blood Gas 
+Instrument vs. EPOC blood analysis system/Abbott.  
+ 
+II. MATERIALS/EQUIPMENT 
+Children’s Hospital: 
+A. Radiometer Blood Gas Instrument 
+B. EPOC blood analysis system 
+C. Patient samples 
+D. Method Correlation Log  
+ 
+Livingston Campus:  
+A.  Radiometer Blood Gas Instrument  
+            B.  Abbott Architect 
+C.  Abbott Ruby 
+D.  Patient samples 
+E.  Method Correlation Log  
+ 
+North Baton Rouge Campus:  
+A.  Radiometer Blood Gas Instrument  
+            B.  Abbott Architect 
+C.  Abbott Ruby 
+D.  Abbott i-STAT 
+E.  Patient samples 
+F.  Method Correlation Log  
+ 
+Assumption Hospital: A. EPOC blood analysis system 
+B. Abbot Architect 
+C. Patient samples 
+D. Method Correlation Log 
+ 
+III. PROCEDURE 
+Children’s Hospital:  
+ A.  Method Correlation  
+1. Three times a year draw samples from two patients.  Sample will be obtained 
+in a heparinized arterial syringe. 
+2. Analyze blood sample on Radiometer blood gas instrument and EPOC blood 
+analysis system then record testing results on the Method Correlation Log.  
+3. Results will be documented in the appropriate spaces on the Method 
+Correlation Log. 
+4. The Method Correlation Log and result print outs will be submitted for 
+laboratory director to review.  
+ 
+Livingston Campus:  
+A.  Method Correlation  
+1. Twice a year draw samples from two patients. Samples will be obtained with 
+one full lithium heparin (green top), one EDTA (purple top), and one sodium 
+fluoride/potassium oxalate (gray top) vacutainer.  
+2. Analyze blood sample on Radiometer blood gas instrument and print ticker 
+tape.   
+3. Immediately deliver samples to the laboratory for testing on the Abbott 
+Architect and Abbott Ruby.  
+4. Laboratory will test samples and printout the results.   
+5. All results will be entered onto the Method Correlation log. The Method 
+Correlation Log and result print outs will be returned to the Respiratory 
+department and submitted for laboratory director designee to review.  
+ 
+North Baton Rouge Campus:  
+A.  Method Correlation  
+1. Twice a year draw samples from two patients. Samples will be obtained with 
+one full lithium heparin (green top), one EDTA (purple top), and one sodium 
+fluoride/potassium oxalate (gray top) vacutainer. 
+2. Analyze blood sample on Radiometer blood gas instrument and print ticker 
+tape. 
+3. Immediately deliver samples to the laboratory for testing on the Abbott 
+Architect, Abbott Ruby and i-STAT.  
+4. Laboratory will test samples and printout the results.   
+5. All results will be entered onto the Method Correlation log. The Method 
+Correlation log and result print outs will be returned to the Respiratory 
+department and submitted for laboratory director designee to review.   
+ 
+Assumption Hospital: 
+A. Method Correlation  
+1. Twice a year draw samples from two patients. Samples will be obtained with one full lithium heparin (green top), one EDTA (purple top), and one sodium 
+fluoride/potassium oxalate (gray top) vacutainer. 
+2. Analyze blood sample on EPOC blood analysis system and print ticker tape. 
+3. Immediately deliver samples to the laboratory for testing on the Abbott 
+Architect.  
+4. Laboratory will test samples and printout the results.   
+5. All results will be entered onto the Method Correlation log. The Method 
+Correlation log and result print outs will be returned to the Respiratory 
+department and submitted for laboratory director designee to review.   
+ 
+ 
+IV. RESULTS 
+ A.  Instrument Correlation and Method Correlation  
+1. All results must replicate within ±10% of each other except for lactate, BUN, 
+and Creatinine. Lactate must be within one point of each other. BUN must 
+be within ±, 3mg/dL of each other. Creatinine must be within 1 point of each 
+other. 
+2. Mean values demonstrating >10% difference between analyzers triggers 
+an investigation and corrective action. 
+3. If results do not replicate, immediately report to Blood Gas Lab Supervisor or 
+Respiratory Director for corrective action and repeat testing. 

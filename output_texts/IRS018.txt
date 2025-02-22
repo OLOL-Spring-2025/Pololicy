@@ -1,0 +1,98 @@
+ IRS 014 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Imaging Services Section: Radiation Safety 
+Title: Standard Operating Procedures for 
+Patient Fluoroscopic Exposure  
+Policy 
+Reference #: IRS 018 
+Supersedes #:  
+Date of Origination: 2/2022 Last Date 
+Reviewed: 
+3/22; 6/22; 12/22, 3/23, 
+2/24 
+Last Date Revised: 3/22; 6/22;12/22:5/23 
+ 
+ 
+PURPOSE: 
+ 
+The purpose of this policy is to identify radiation exposure and skin dose threshold levels, that if 
+exceeded, trigger further review and/or patient evaluation to assess for adverse radiation effects. 
+ 
+DEFINITIONS: 
+ 
+Air Kerma-area product (PKA): The integral of the air kerma free-in-air (i.e., in the absence of 
+backscatter) over the area of the x-ray beam in a plane perpendicular to the beam axis. In many medical 
+publications, the acronym used for this quantity is KAP (measured in mGy cm2). 
+ 
+Fluoroscopically Guided Interventional Procedures (FGI): Procedures comprising guided therapeutic 
+and diagnostic interventions, by percutaneous or other access, usually performed under local anesthesia 
+and/or sedation, with fluoroscopic imaging used to localize the lesion/treatment site, monitor the 
+procedure, and control and document the therapy. 
+ 
+ 
+Fluoroscopy: Fluoroscopy is a technique for generating x-ray images and presenting them continuously 
+as visible images during a diagnostic or interventional procedure. 
+ 
+Fluoroscopy Time: amount of time patient is exposed to an active fluoroscopic beam. Fluoroscopy time 
+is measured in seconds and/or minutes. 
+ 
+Gray (Gy): the special name for the SI unit of absorbed dose; 1 Gy = 1 J/kg 
+ 
+Kerma (K): The quotient of the sum of the kinetic energies, dEtr, of all charged particles liberated by 
+uncharged particles in a mass dm of material, and the mass dm of that material. K ¼ dEtr dm The unit for 
+kerma is joule per kilogram (J kg1 ). This unit’s special name is gray (Gy). ‘Kerma’ is an acronym for 
+‘kinetic energy released in a mass’. 
+ 
+ 
+Reference Air Kerma (RAK): Air kerma of the primary x-ray beam measured under specific conditions 
+and expressed as the equivalent value at the patient entrance reference point. It is the air kerma 
+accumulated at a specific point in space relative to the fluoroscopic gantry during a procedure. Reference 
+air kerma does not include backscatter and is measured in units of Gy.  
+ 
+  IRS 014 
+Page 2 of 2 
+Substantial Radiation Dose Level (SRDL): An appropriately selected reference value used to trigger 
+additional dose management actions during a procedure and medical follow-up for a radiation level that 
+might produce a clinically relevant injury in an average patient. There is no implication that radiation 
+levels above the SRDL will always cause an injury, or that radiation levels below the SRDL will never 
+cause an injury. 
+ 
+Threshold dose for tissue reactions: Dose estimated to result in 1% incidence of tissue reactions  
+ 
+ 
+POLICY: 
+ 
+1. Principles of ALARA will be always adhered to.  (See OLOL policy IRS-014 “Radiation 
+Safety – ALARA”) 
+2. For fluoroscopy units that monitor fluoroscopy time, the equipment will emit an audible 
+alarm for every five minutes of exposure. 
+3. Staff will notify the operator when the total fluoroscopy time has reached 30 minutes, 60 
+minutes, and every 10 minutes thereafter. 
+4. Substantial Radiation Dose Levels intended to trigger patient follow-up to detect 
+clinically relevant tissue reactions are as follows: 
+ 
+ SRDL Values 
+Cumulative Air-Kerma (AKA Reference Air-Kerma) 5 GY (5000mGy) 
+Fluoro Time 60 min 
+ 
+ 
+5. The Operating Physician will notify the patient when a Substantial Radiation Dose Level 
+was used for their procedure and why it was necessary.  
+6. At follow-up visit, the physician should assess patients’ skin to determine if the tissue 
+reactions have occurred.  
+7. If a tissue reaction is identified or suspected, the patient shall be referred to an 
+appropriate provider for management. 
+ 
+ 
+REFERENCES: 
+ 
+ICRP, 2013. Radiological protection in cardiology. ICRP Publication 120. Ann. ICRP 42(1). 
+ 
+Louisiana Department of Environmental Quality, 2019. Environmental Regulatory Code 33:XV. 
+ 
+NCPR, 2014. Outline of Administrative Policies for Quality Assurance and Peer Review of Tissue 
+Reactions Associated with Fluoroscopically Guided Interventions. NCPR Publication No. 11. 
+ 
+SCAI, 2021.  SCAI Expert Consensus Update on Best Practices in the Cardiac Catheterization 
+Laboratory. DOI: 10.1002/ccd.29744 

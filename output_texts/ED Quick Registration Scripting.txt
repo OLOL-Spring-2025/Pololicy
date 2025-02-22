@@ -1,0 +1,27 @@
+Our Lady of the Lake - ED Scripting for Quick Registration 
+ 
+“Welcome to Our Lady of the Lake, how may I assist you today?” Said with eye contact and a warm 
+sincere smile. 
+“May I please ask you to spell your first/last name? What is your date of birth?” 
+“In order to protect your privacy, please use this keypad to enter your social security number.” 
+“Are you experiencing any chest pain or shortness of breath today?” 
+• If yes to either question, please obtain the quick look or triage nurse for evaluation 
+“May I please obtain a copy of your ID and any insurance card that you will be using for your visit 
+today?” 
+• Scan both the ID and insurance info into the correct location 
+Have you travelled outside the country in the past 21 days? 
+• If yes, please notify the quick look/triage nurse immediately 
+• Document in your Cerner notes 
+• Notate the First Net tracking board with appropriate response 
+Once you have obtained the above information proceed to do the following: 
+• Explain and have patient sign the consent form 
+• Verify the printed out armband with the patient 
+o Sir/Ma’am, can you please verify that I have correctly identified you in our system, with 
+the correct spelling of your name and date of birth. 
+• Place the printed out labels along with the signed/witnessed consent form in the appropriate 
+location for the triage nurse. 
+Once you have completed the Quick Registration process remember to thank the patient for coming in. 
+“Thank you for choosing Our Lady of the Lake, please have a seat and a nurse will be with you shortly.” 
+ 
+ 
+ 

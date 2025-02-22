@@ -1,0 +1,51 @@
+ 
+Plant Services 
+ 
+ PS017 
+Page 1 of 1 
+Title: Electrical Distribution - 
+Transformers  
+Revision Date: 03/22/2024 
+Review Date: 03/22/2024 
+Reference # PS017 Origin Date: May 1988 
+ 
+POLICY: 
+Our Lady of the Lake Regional Medical Center (OLOL) Plant Services shall annually evaluate all oil 
+filled transformers for the purpose of oil analysis. 
+ 
+PROCEDURES: 
+1. The oil analysis shall be performed annually only by a qualified laboratory, equipped to perform 
+such tests. 
+2. Oil samples shall be collected and labeled according to established laboratory procedures. 
+3. The following tests shall be performed and reported on each transformer. 
+• Hydrogen (ppm) (H2) 
+• Methane (ppm) (CH4) 
+• Ethane (ppm) (C2H6) 
+• Ethylene (ppm) (C2H4) 
+• Acetylene (ppm) (C2H2) 
+• Carbon monoxide (ppm) (CO) 
+• Carbon dioxide (ppm) (CO2) 
+• Nitrogen (ppm) (N2) 
+• Oxygen (ppm) (O2) 
+• TDG (ppm)  
+• TDCG 
+• Equivalent TCG % 
+• Moisture PPM 
+• Interfacial Tension 
+• Acid Number 
+• Visual Exam 
+• Sediment Exam 
+• Dielectric Breakdown 
+• Power Factor @25C & @100C 
+• Specific Gravity  
+• Relative Saturation % 
+• Oxidation Inhibitor % 
+ 
+4. A summary report shall be included in each report. This report shall calculate any insulation 
+breakdown, internal arcing, moisture content, and proposes additional maintenance needed or 
+attention for repair. 
+5. Reports shall be retained for the purpose of comparison to previous reports. 
+ 
+REFERENCES: 
+National Fire Protection Association (NFPA) 70, National Electrical Code 
+ 

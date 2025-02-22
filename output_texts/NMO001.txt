@@ -1,0 +1,389 @@
+NMO-001 
+Page 1 of 9 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Oncology 
+Title: Chemotherapy (Cytotoxic agents), 
+Handling, Administration and Disposal 
+Policy 
+Reference #: NMO-001 
+Supersedes #: 1985; 1988; 1991; 1997 
+Date of Origination: August, 1985 Review Date: October 23, 2023 
+Revision Date:  December 2, 2024 
+ 
+ 
+                               
+PURPOSE:  
+To provide pertinent information regarding the safe handling, administration, and disposal of 
+chemotherapy. 
+ 
+DEFINITIONS: 
+• USP800: United States Pharmacopeia (USP) General Chapter <800> Hazardous Drugs – 
+Handling in the Healthcare Setting is a guidance document comprised of best practices handling 
+hazardous drugs in healthcare settings.   
+ 
+• Hazardous Drug (HD): NIOSH defines any drug having any of the following six characteristics 
+in humans or animals:  
+o Carcinogenicity 
+o Teratogenicity or other developmental toxicity 
+o Reproductive toxicity 
+o Organ toxicity at low doses 
+o Genotoxicity 
+o Structure and toxicity profiles of new drugs that mimic existing drugs determined 
+hazardous by any of the above criteria  
+ 
+• High Risk HD: following OLOL policy of HDs, High Risk HDs are considered to be NIOSH 
+Group 1 drugs: Antineoplastic HDs. Signs available where administration occurs. Only to be 
+given by biochemo certified nurse.  
+ 
+• Low Risk HD: following OLOL policy of HDs, Low Risk HDs are considered to be NIOSH 
+Group 2 and 3 drugs: Non-Antineoplastic and Reproductive Risk HDs.   
+ 
+• Deactivation: Deactivation renders a compound inert or inactive.   
+ 
+• Decontaminate: Decontamination occurs by inactivating, neutralizing, or physically removing 
+HD residue from non-disposable surfaces and transferring the HD residue to disposable materials 
+for proper removal from an area.   
+ 
+• Hazardous Drug Spill: NMO-001 
+Page 2 of 9 
+o Hazardous drug spills are spills of liquid, High Risk HDs or Antineoplastics.  Small spills 
+are considered any spill that can be contained by a single spill kit.  Large spills are those 
+that require more than one spill kit to clean.  Pharmacy, EVS, and the unit supervisor 
+should assist in the cleaning of a large spill.    
+ 
+• Spill Response Team (SRT): The SRT will consist of the following personnel:  
+o The person who created and/or found the spill 
+o The unit or clinic supervisor (or designee) where the spill occurred  
+o A team member from Pharmacy for spills occurring in acute locations  
+o A team member from Environmental services for spills occurring in acute locations 
+ 
+• Personal Protective Equipment (PPE):  
+o Gloves: Per USP800 gloves used as PPE when handling HDs shall meet American 
+Society for Testing and Materials (ASTM) standard D6978 (or its successor) Gloves must 
+be powder-free. 
+o Gown: Per USP800 gowns used as PPE when handling HDs shall meet the following 
+criteria: 
+▪ be disposable and nonabsorbent 
+▪ shown to resist permeability by HDs 
+▪ close in the back and have no openings to the front 
+▪ be long sleeved with closed, elastic or nit, cuffs 
+▪ must not have any seams or closures HDs could pass through 
+o Respirator: a full-face piece, chemical cartridge-type respirator or powered air-purifying 
+type mask.  This type of mask should only be worn when attending to HD spills larger 
+than what can be contained with a spill kit or with the risk of respiratory exposure 
+ 
+• Hazardous Bodily Fluid Spill:  Hazardous bodily fluid spill refers to any patient currently 
+receiving or has received a High Risk HD at any point during patients admission, where any 
+bodily fluids have spilled or soiled any locations or surfaces in the patient care area.    
+ 
+• Body Fluids: blood, emesis, urine, and feces 
+• Immediate Use: is an exemption to USP 797 that allows certain sterile products to be prepared 
+without the need for special facilities (i.e., ISO 5 hood) and practices (full cleansing and 
+gowning), administration must begin within 4 hours following the start of preparation. 
+ 
+POLICY: 
+A. Preparation of the Patient 
+1. Assess level of understanding of chemotherapy drugs and treatment plan. 
+2. Review educational materials with the patient and family 
+3. Explain procedure and any side effects of the drugs and answer patient’s questions 
+appropriately. 
+4. Review patient allergy history. 
+5. Assess patient’s reaction history to previous therapy. 
+6. Assess patient’s intravenous access and initiate a peripheral or central venous intravenous 
+access if indicated. 
+7. Avoid extremities with gross anatomic alterations. NMO-001 
+Page 3 of 9 
+8. Veins near a flexion joint, such as the wrist or antecubital areas should not be used.   
+9. Note venipuncture sites used within the last 24 hours and administer chemotherapy proximal 
+to those sites. 
+10. For intravesicular chemotherapy, have patient empty bladder. Prepare to insert urinary 
+catheter. 
+11. Verify Informed Consent  
+ 
+B. Personal Protective Equipment (PPE)  
+PPE must be worn during all chemotherapy activities including chemotherapy preparation, the 
+administration of chemotherapy by any route, transportation of chemotherapy, and when disposing 
+of chemotherapy. Disposable PPE must not be re-used. 
+PPE consists of the following: 
+1. Chemotherapy protective disposable gowns: Must be worn during all handling activities, 
+including initiating chemotherapy and disposing of chemotherapy bags. 
+2. Chemotherapy gloves:  Approved chemotherapy gloves must be worn during every 
+chemotherapy handling activity.  Double gloving with chemotherapy gloves is required during 
+all handling of chemotherapy drugs. Gloves must be changed after every handling activity, or 
+immediately if contamination occurs. Hands must be washed after removing gloves.  
+3. Eye and Face Protection: Must be available whenever the risk of splashes, sprays, or aerosol 
+are possible.  Goggles with a side panel or a face shield are appropriate.   
+C. Preparation of the Delivery of Chemotherapy Agents 
+1. Intravenous anti-neoplastic agents may be administered only by registered nurses with current 
+chemotherapy/biotherapy certification. 
+2. Personnel who are pregnant or breast-feeding will not prepare or administer chemotherapy 
+agents. 
+3. Administer pre- medications as ordered. 
+4. The nurse responsible for the administration of the chemotherapy will check the drug with 
+another nurse immediately prior to administering.  One nurse will read the label on the 
+container while the other verifies the physician’s order.   
+5. Both nurses will sign the chemotherapy documentation record. 
+6. The RN administering the agent is responsible for the accuracy and safety of treatment. 
+7. If there is any discrepancy when checking the drugs, verify the orders with the pharmacy and 
+the physician. 
+8.  Pneumatic tubes must not be used to transport any liquid HDs or any antineoplastic HDs.  
+ 
+D. Administration of Chemotherapy 
+Oral Chemotherapy Agents 
+ 
+1. Must be checked by two biochemo certified nurses.  May use a pharmacist as second check.  
+2. Must be administered by a biochemo certified registered nurse. NMO-001 
+Page 4 of 9 
+3. Chemotherapy gloves will be worn.  
+4. Oral agents used for nononcologic therapy may be administered by a non-biochemo certified 
+nurse and do not require a double check by nursing. These agents include Megestrol, 
+Hydroxyurea, and anti-hormonals.  
+ 
+Initiate intravenous chemotherapy using the following guidelines: 
+1. Must be checked by two biochemo certified nurses. May use a pharmacist as second check.   
+2. Intravenous chemotherapy is to be given by a chemotherapy/biotherapy certified nurse only.  
+Each chemotherapy/biotherapy nurse completes an annual competency. 
+3. Transfer the necessary supplies and equipment to the room. 
+4. Wash hands. 
+5. Identify the patient by using the 2-identification process at the bedside/chairside. 
+6. Chemotherapy protective disposable gown and double chemotherapy gloves will be worn.  
+7. Primary tubing should be primed with compatible IV fluid with the exception of 24-hour 
+continuous infusion chemotherapy, in which case the primary line is primed with drug.   A 
+closed system device should be utilized at all times and breaks in the closed system device 
+should be minimized. After completion of each chemotherapy, the primary line should be 
+flushed with compatible IV fluid.  
+8. Verify patency by validating blood return and condition of IV site.  
+9. If unable to obtain blood return to verify patency of a central venous catheter: 
+i. Notify physician. 
+ii. Obtain vascular studies as ordered. 
+10. If unable to obtain blood return to verify patency of a peripheral IV site, re-start a peripheral 
+IV. 
+11. Do not use an IV over a bony prominence, joint, or in the hand for chemotherapy. 
+12. Patients are not to leave their nursing unit with chemotherapy infusing without a physician’s 
+order.  
+13. Interruptions of chemotherapy for any reason require a physician’s order.  
+14. Stop chemotherapy immediately and refer to the Chemotherapy Extravasation Protocol if any 
+of the following occur at or around the IV site: 
+i. Pain  
+ii. Swelling  
+iii. Redness 
+iv. Leaking 
+v. Heat 
+15. In case of a chemotherapy spill refer to the Chemotherapy Spill Policy and Procedure.  
+ 
+Intravesicular Chemotherapy/biotherapy administration. Delivers medication directly into the 
+bladder. 
+1. Chemo must be checked by two biochemo certified nurses. May use a pharmacist as second 
+check.   
+2. Don PPE, including chemo gown, double chemo gloves and a face mask or goggles 
+3. Insert catheter 
+4. Instill medication and flush as per facility online reference- Administering Intravesical 
+Medication  
+5. Remind patient of position changes per MD order, and monitor NMO-001 
+Page 5 of 9 
+6. When treatment is completed, don PPE including mask or googles, and remove catheter (catheter 
+should remain clamped). 
+7. All supplies used in the administration of all forms of chemotherapy are to be disposed of in the 
+chemotherapy disposal bag and then placed in the Chemotherapy/cytoxic waste container. 
+ 
+  Intraperitoneal Chemotherapy Administration 
+1.  Access intaperitoneal port. Flush port with preservative free normal saline solution to confirm 
+catheter patency. (Do not aspirate to verify placement, as port is inserted into peritoneal cavity, 
+not a blood vessel). 
+2. Ensure chemotherapy is warmed to 37 degrees C/ 98 degrees F. Solution is stored in a warmer 
+until immediately prior to administration.  
+3. Chemotherapy should be checked by two biochemo certified nurses. May use a pharmacist as 
+second check.   
+4. Prime tubing with compatible solution. 2 nurses competent in chemotherapy administration will 
+verify medication, dose and route. 
+5. Open clamps and allow chemotherapy to infuse by gravity. 
+6. Instruct and/or assist patient to turn side to side every 15-20 minutes during infusion to disperse 
+chemotherapy throughout abdomen.  
+7. At completion of infusion flush tubing with normal saline to clear chemotherapy from tubing. 
+Flush intraperitoneal port with 10ml 0.9%NS and 5ml heparin flush 100u/ml.  
+8. At discharge instruct the patient to reposition from side to side every 15 minutes for at least 1 
+hour after completion of infusion. 
+ 
+ 
+ 
+Peripheral administration of Vinca Alkaloids: 
+An international safety alert recommends that vinca alkaloids be administered as an infusion instead 
+of a bolus. 
+        
+1. Chemo must be checked by two biochemo certified nurses. May use a pharmacist as second 
+check.   
+2.  Vinca alkaloids are to be administered as a 10-minute infusion via a minibag and must be 
+infused to gravity and never on an infusion pump. If a patient has a central line, and is receiving 
+a vinca alkaloid, it must be infused on an infusion pump. 
+3.  The nurse must remain at the bedside or chairside to provide constant supervision, and 
+observation for a peripheral site administration. 
+4. Blood return by aspiration, must be checked before and after the infusion. 
+5. To ensure that all of the medication is infused backflush the tubing with compatible fluid and 
+infuse the remaining content of the bag via gravity. 
+6. In case of a suspected extravasation or infiltration, stop the infusion follow the extravasation 
+policy, and notify the provider. 
+ 
+ 
+ 
+ 
+ NMO-001 
+Page 6 of 9 
+Large Volume Chemotherapy 
+ 
+1. Non-vesicants may be infused through a peripheral or central intravenous catheter.  
+2. Large volume vesicants MUST be infused via a central venous catheter only. 
+3. Use new tubing with each new bag of chemotherapy. 
+4. Always connect chemotherapy tubing directly to patient’s intravenous access device.  Do not 
+long-line chemotherapy into other fluid lines. 
+5. Administer via an IV pump utilizing auto programming.  
+6. Verify blood return every 4 hours on central venous catheters and every 2 hours on peripheral 
+IVs. 
+7. Follow the policy for disposal of hazardous wastes upon completion of therapy. 
+IVPB Chemotherapy 
+1. Chemo must be checked by two biochemo certified nurses. May use a pharmacist as second 
+check.   
+2. Prime secondary tubing by back-flushing with compatible fluid. 
+3. New tubing is to be used with each new IVPB.  
+4. Administer via an IV pump utilizing auto programming.  
+ 
+IV Push Chemotherapy 
+1. Chemo must be checked by two biochemo certified nurses. May use a pharmacist as second 
+check.   
+2. Place chemotherapy absorbent pad under injection site of IV tubing. 
+3. Administer chemotherapy using the closest injection port to the IV site. 
+4. Administer chemotherapy through a free flowing IV. 
+5. Observe IV site throughout chemotherapy administration. 
+6. Check blood return after every 2-3 mLs. 
+7. After all chemotherapy has cleared the IV tubing, disconnect the syringe from the port site over 
+gauze pad. 
+8. Discard syringes and all other used supplies into chemotherapy disposal bag and then place bag 
+in chemotherapy waste container. 
+9. Observe patient for any reaction to treatment.  
+Intrathecal chemotherapy  
+ 1. Chemo must be checked by two biochemo certified nurse. May use a pharmacist as second 
+check.   
+ 2. Chemotherapy to be administered by an oncology physician, radiologist, an advanced practice 
+provider, or a physician assistant.  
+ 3. Verify that the patient’s coagulation studies meet the institutional parameters for lumbar 
+puncture.  
+ 4.  Verify that the patient is not receiving anticoagulants or that they have been stopped for the 
+necessary amount of time before the lumbar puncture, per institutional guidelines.  
+ 5.  Immediately preceding the procedure 
+  a.  Perform a time-out procedure 
+  b.  Verify with the practitioner performing the procedure (e.g., oncologist, radiologist, 
+advanced practice provider) the following: 
+   i.  The medication to be administered is safe to administer by the intrathecal route. 
+   ii. The medication is NOT a vinca alkaloid or bortezomib.  NMO-001 
+Page 7 of 9 
+   iii. The medication is mixed with preservative-free normal saline.   
+Multiple Chemotherapy Administration - When administering more than one type of chemotherapy, 
+administer in the following order: 
+1. IVP vesicants 
+2. IVP non-vesicant  
+3. IVPB vesicants 
+4. IVPB non-vesicants 
+5. Large volume  
+6. As MD order 
+E.       Storage 
+1. Store in designated hazardous area labeled with a hazardous sign.  
+2. Access is restricted to authorized personnel only.  
+3. May be stored with other inventory in separate contained area.  
+ 
+F. Disposal  
+1. All supplies used in the administration of all forms of chemotherapy are to be disposed of in 
+the chemotherapy disposal bag and then placed in the Chemotherapy/Cytotoxic waste 
+container. 
+ 
+G. Documentation 
+1. Document the following when administering chemotherapy: 
+2. Location and type of IV access device. 
+3. Condition of the site before, during, and after chemotherapy administration. 
+4. Drugs administered 
+5. Patient reactions 
+6. Document urinary catheter type and size if applicable. 
+7.  A safety event must be completed through the electronic events reporting system for all 
+complaints, errors and adverse events.  
+ 
+  
+H. Linen:  
+1. Contaminated linen will be placed in a specially marked laundry bag. 
+2.  The laundry bag and its contents should be prewashed and the linens added to other laundry 
+for a second wash.  
+3. Laundry personnel should wear double gloves and gowns while handling prewashed material.  
+ 
+I. Manipulation  
+1. Nursing should avoid manipulating hazardous drugs such as crushing tables or opening 
+capsules if possible. If crushing tables or opening capsules is required then pharmacy will 
+crush or open capsules and return to nursing in a plastic pouch for administration 
+2. If hazardous drug dosage forms do require manipulation such as crushing tables or opening 
+capsule for a single dose, personnel must don appropriate PPE and use a plastic pouch to 
+contain any dust or particles generated 
+3. HDs that do not require any further manipulation, other than counting or repackaging of final 
+dosage forms, may be prepared for dispensing without any further requirements for 
+containment unless required by the manufacturer or if visual indicators of HD NMO-001 
+Page 8 of 9 
+4. Active pharmaceutical ingredients or other powdered HDs MUST be handled in a 
+containment primary engineering controls to protect against occupational exposure, especially 
+during particle-generating activities (such as crushing tablets and opening capsules) 
+ 
+J. Hazardous Bodily Fluid Handling after ingestion of a High-Risk HD:   
+1. Wear double chemo gloves and gown 
+2. Wear a face shield if splashing is possible 
+3. Incontinent patients- apply a protective barrier ointment to the skin of the patient’s diaper area 
+4. Flush the toilet with lid down, If lid is not present, cover the open toilet with a plastic-backed 
+pad to prevent splashing or release of aerosols 
+ 
+K. Spill Management: 
+1. Chemo spill kits should be readily available in any area where chemotherapy is handled.  
+Should a small spill occur, the person that created or found the spill is to utilize the chemo 
+spill kit to begin the cleanup procedure.  If the spill is not able to be cleaned by a single spill 
+kit, pharmacy and EVS should be called to assist in the spill management as part of a Spill 
+Response Team.  A safety event should also be entered noting the spill and possible exposure.  
+Please refer to Spill Management Policy NSO002 for further instructions.   
+ 
+L. Administration of Chemotherapy to non-oncology units: 
+1. When a patient requires chemotherapy to be administered in non-oncology units such as 
+intensive care, a biochemo certified nurse will administer chemotherapy and provide a 
+chemotherapy cart from central.  
+M. Annual Nursing Competency and training  
+1. Oncology nursing competency will be evaluated and reassessed each year according to the 
+OLOLRMC Organizational policy OrgOps/HR/E/008.  
+2. Education will be provided prior to the introduction of a new high-risk HD, equipment, 
+process changes, spills and exposure.  
+3. 3. Education will be provided on immediate use medications yearly  
+N. Immediate Use: 
+1. Single-dose containers must only be used for one patient and discarded after use 
+2. No more than three sterile vials are used in preparation of immediate use medications 
+3. Medications must be labeled with name, amount of active ingredient, name or initial of preparer 
+and 4 hour beyond use date 
+O. Environmental wipe sampling: 
+ 1. Environmentally wipe sampling for HD surface residue should be performed routinely.  
+ 
+ 
+REFERENCES: 
+ 
+American Society of Clinical Oncology.  Journal of Oncology Practice, 12, 1262-1271.  
+HTTPS://doi.org/10.1200/jop.2016.017905. 
+ 
+Chemotherapy and Immunotherapy Guidelines (2019) Oncology Nursing Society.  
+ NMO-001 
+Page 9 of 9 
+Occupational Safety and Health Administration (OSHA). (n.d.).Accessed January 21, 2019 at 
+https://www.osha.gov/SLTC/hazardousdrugs/controlling_occex_hazardousdrugs.html.  
+ 
+ Louisiana State Board of Nursing December 12, 2012 Board meeting Practice action taken to Instill 
+and/or remove chemotherapy and biotherapy and biotherapy agents, vesicant and non-vesicant, into/out 
+of the bladder/intravesical. under La. R.S. 37:913(14) (l). 
+ 
+Our Lady of the Lake Policy #OrgClin-040, Universal Protocol for Operative, Invasive, Sedation, High 
+Risk Procedure Verification; (Time Out/Surgical Safety Checklist). 
+ 
+USP General Chapter <800> Hazardous Drugs – Handling in Healthcare Settings Reprinted from USP 
+40—NF 35, (2019) 
+ 
+NIOSH Drug List December 2024 
+https://www.cdc.gov/niosh/docs/2025-103/default.html 
+ 
+Refer to Facility Online Reference 
+ 
+ 

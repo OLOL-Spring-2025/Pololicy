@@ -1,0 +1,157 @@
+ 
+PH.2457_Drug Utilization Review 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Drug Utilization Review 
+PAGES: 
+3 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2457 (02/25/2020) 
+ORIGINAL EFFECTIVE 
+DATE: 02/07/2017 
+REVISIONS EFFECTIVE: 
+10/28/2021 
+POLICY NUMBER:  
+PH.2457 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy outlines systems and processes for conducting drug utilization reviews prior to dispensing medications or 
+medical devices in accordance with applicable state law.  
+ 
+POLICY: 
+A. Pharmacy provides prospective, concurrent and retrospective drug management. With the available 
+information and data ensures drug management mechanism that address where appropriate: 
+1. Therapeutic appropriateness [URAC SDrM 4 (a) 
+2. Over and underutilization [URAC SDrM 4 (b)] 
+3. Generic use [URAC SDrM 4 (c)] 
+4. Therapeutic interchange [URAC SDrM 4 (d)] 
+5. Duplication [URAC SDrM 4 (e)] 
+6. Drug-Disease contraindications [URAC SDrM 4 (f)] 
+7. Drug-drug or drug allergy interactions [URAC SDrM 4 (g)] 
+8. Drug dosage [URAC SDrM 4 (h)] 
+9. Duration of treatment [URAC SDrM 4 (i)] 
+10. Clinical abuse or misuse [URAC SDrM 4 (j)] 
+11. Drug-age precautions [URAC SDrM 4 (k)] 
+12. Drug-gender precautions [URAC SDrM 4 (l)] 
+13. Drug-pregnancy precautions [URAC SDrM 4 (m)] 
+14. Regulatory limitations [URAC SDrM 4 (n)] 
+ 
+B. The DUR includes all medications being dispensed by pharmacy, medications dispensed by other 
+pharmacies in addition to OTCs and herbals.  
+ 
+DEFINITIONS: 
+Drug utilization review (DUR) - programs that help to ensure that prescriptions for outpatient drugs are appropriate, 
+medically necessary, and not likely to result in adverse medical consequences. DUR programs use professional medical 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+10/28/2021 2:57 PM 
+ 
+ 
+PH.2457_Drug Utilization Review 
+2 
+protocols and computer technology and data processing to assist in the management of data regarding the prescribing of 
+medicines and the dispensing of prescriptions over periods of time 
+PROCEDURE: 
+A. Pharmacy conducts Prospective DUR prior to dispensing medications being dispensed for the first time. 
+A Prospective DUR involves evaluating a patient's planned drug therapy before a medication is 
+dispensed. This process allows the pharmacist to identify and resolve issues before the patient actually 
+receives the medication. Pharmacists routinely perform prospective reviews in their daily practice by 
+assessing a prescription medication's dosage and directions and reviewing patient information for 
+possible drug interactions or duplicate therapy.  
+1. Issues Commonly Addressed by Prospective DUR: 
+a. Drug-disease contraindications 
+b. Therapeutic interchange 
+c. Generic substitution 
+d. Incorrect drug dosage 
+e. Inappropriate duration of drug treatment 
+f. Drug-allergy interactions 
+g. Drug-drug interactions 
+h. Clinical abuse/misuse 
+ 
+B. Pharmacy conducts a concurrent DUR when dispensing refills of medications. Concurrent DUR is 
+performed during the course of treatment and involves the ongoing monitoring of drug therapy to ensure 
+positive patient outcomes. Some refer to this as case management or health management. It presents 
+pharmacists with the opportunity to alert prescribers to potential problems and to intervene in areas such 
+as drug-drug interactions, duplicate therapy, over or underutilization, and excessive or insufficient 
+dosing. This type of review allows therapy for a patient to be altered if necessary. 
+1. Issues Commonly Addressed by Concurrent DUR: 
+a. Drug-drug interactions 
+b. Excessive doses 
+c. High or low dosages 
+d. Duplicate therapy 
+e. Drug-disease interactions 
+f. Drug-allergy interactions  
+ 
+C. Pharmacists, Pharmacy Technicians, clinical resources, and the Pharmacy Operation System all play a 
+key role in the DUR process.  
+ 
+1. Pharmacist 
+a. Pharmacist must review patient profiles as well as DUR indications from the pharmacy 
+operating system.  
+b. Pharmacist will provide counseling to patients and caregivers when deemed necessary 
+as a result of a DUR.  
+c. Pharmacist will contact prescribers when necessary to discuss findings from a DUR. 
+d. DUR includes, at a minimum, screening by the pharmacist for: 
+(1) Potential drug therapy problems due to therapeutic duplication 
+(2) Drug-drug interactions (including interactions with non-prescription drugs) 
+(3) Drug-allergy interactions 
+(4) Drug-disease contraindications 
+(5) Incorrect drug dosage or duration of drug treatment 
+(6) Clinical abuse/misuse  
+PH.2457_Drug Utilization Review 
+3 
+2. Pharmacy Technicians 
+a. Pharmacy Technicians will ensure that Patient Medication profiles are accurate and up-
+to-date during interactions with patients. 
+3. The Pharmacy Operating System 
+a. alerts staff to potential complications including but not limited to: 
+(1) Allergy 
+(2) Drug interaction 
+(3) Duplicate therapy 
+b. The DUR database is updated as part of pharmacy software clinical updates available 
+through service pack updates which is updated no less than biannually. 
+c. The DUR is tested annually 
+d. On at least a quarterly basis, DUR findings are reported to the Quality Management 
+Committee. [SDrM 5] 
+ 
+D. With the  utilization of the Pharmacy Operating System and electronic prescribing, many of the drug 
+management requirements, including therapeutic appropriateness and interchange, generic drug utilization 
+and identification of d uplicate t herapies are identified. Similarly,  these el ements a re imbed ded 
+electronically in the claims software, clinical decision support tools and clinical review tools and will alert 
+the staff so that appropriate action can be taken. The clinical decision support tools identify when outbound 
+communication is warranted with the prescriber and/or consumer for potential consumer safety events.  
+E. According to regulations and payer contracts, when a pharmacist identifies a potentially serious drug-
+interaction, prescribing error or other such issue that might cause patient harm, the pharmacist will contact 
+the prescribing office by phone or fax for clarification or to make a request to change a drug order. The 
+pharmacist may use the prescribing information, patient history, patient prescription profile and print or 
+online professional resources as well as their professional judgment. After careful and professional clinical 
+review, the pharmacist believes dispensing a prescription order as written is not in the p atient’s best 
+interest, the pharmacist is authorized and obligated to decline to dispense the prescription, as ordered.  
+ 
+F. The pharmacy shall respond to inquiries from the Pharmacy Benefit Managers in accordance with the 
+terms of the contractual agreement including matters related to DUR of specialty medications.   
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• ACHC Standards: DRX5-7A.01 
+• URAC Standards: SDrM 4, 5 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

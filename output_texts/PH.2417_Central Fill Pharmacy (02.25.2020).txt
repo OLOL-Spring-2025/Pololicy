@@ -1,0 +1,149 @@
+ 
+PH.2417_Central Fill Pharmacy 
+1
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Central Fill Pharmacy 
+PAGES: 
+3 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2417 (09/13/2017) 
+ORIGINAL EFFECTIVE 
+DATE: 09/13/2017   
+REVISIONS EFFECTIVE: 
+02/25/2020 
+POLICY NUMBER:  
+PH.2417 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) pharmacies. 
+PURPOSE: 
+To provide services for patients of OLOLH owned pharmacies when those services cannot be provided by an onsite 
+pharmacy due to restrictions including but not limited to the accreditation status of the onsite pharmacy, manufacturer 
+limited distribution, or when enhanced services such as those associated with specialty pharmacy are in the best interest 
+of the patient. 
+ 
+POLICY: 
+OLOLH owned pharmacies will provide centralized prescription dispensing services to other OLOLH owned 
+pharmacies in order to equalize the workload and improve patient care by reducing wait time for prescription delivery. 
+ 
+DEFINITIONS: 
+1. Off – Site Services 
+a. As defined by Louisiana State Board of Pharmacy law, Chapter 11, Subchapter D 
+i. Centralized Prescription Dispensing – the fulfillment by one permitted pharmacy of a 
+request from another permitted pharmacy to fill or refill a prescription drug order.  
+ii. On-Site Pharmacy – a permitted pharmacy which utilizes centralized prescription 
+dispensing services from a remote dispenser or remote processing services from a remote 
+processor.  
+iii. Remote Dispenser – a Louisiana permitted pharmacy which provides centralized 
+prescription dispensing services for another permitted pharmacy in Louisiana 
+ 
+2. OLOLH owned Pharmacies 
+a. O’Donovan Pharmacy 
+b. Mid City Pharmacy 
+c. Lake Children’s Pharmacy  
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+2/25/2020 11:38 AM 
+ 
+PH.2417_Central Fill Pharmacy 
+2
+PROCEDURE: 
+A. OLOLH owned pharmacies share a common electronic prescription filing systems such that prescription information 
+is accessible by pharmacists at all locations and that information may be transferred electronically between systems 
+in accordance to Louisiana Board of Pharmacy regulations. 
+B. OLOLH pharmacies will provide remote dispensing services to other OLOLH owned on-site pharmacies without 
+additional agreement. 
+C. Prescriptions dispensed remotely will be filled in accordance with current policies and will include the following 
+requirements: 
+1. The on-site pharmacy will identify new or refill prescriptions to be filled by the remote dispenser pharmacy 
+based on criteria including but not limited to the on-site pharmacy inability to fill the prescriptions due to 
+insurance restrictions, limited distribution networks, accreditation requirements or other barriers.  
+2. Prescriptions for remote dispensing will be entered into the pharmacy dispensing software by a pharmacist 
+or technician at the on-site pharmacy and placed on hold in that pharmacy dispensing system. The 
+prescription number will service as a tracking mechanism to identify the pharmacies and pharmacists 
+involved in the transfer of the prescription. 
+3. The on-site pharmacy will notify the remote dispenser that there is a prescription requiring remote 
+dispensing by internal notifications including but not limited to phone, fax, or e-mail and include sufficient 
+identification to ensure that the correct patient and prescription will be filled by the remote dispenser.  This 
+information will minimally include the: 
+1. Patient name 
+2. Date of birth 
+3. Prescription name 
+4. Prescription dose 
+5. Prescriber name 
+6. Date and time needed 
+4. The onsite pharmacy will transfer the prescription electronically to the remote dispenser pharmacy in 
+accordance with Louisiana Board of Pharmacy rules and regulations. 
+5. The remote dispenser will then fill the prescription. The filling process will comply with all requirements 
+including a final comprehensive review by a pharmacist. 
+6. The prescription label will reflect the name and address of the remote dispenser and will include the initials 
+of the pharmacist that completed the comprehensive review prior to dispensing the medication. The label 
+will identify the dispensing pharmacy and the onsite pharmacy. 
+7. The patient-specific prescription(s) will be placed in tamper evident packaging and externally labeled with 
+patient information including: 
+1. Name 
+2. Date of birth 
+3. Address 
+4. Medication name and dose 
+5. Storage instructions (i.e. Controlled room temperature, refrigeration, etc.) 
+8. The tamper evident package will be transported to the on-site pharmacy via OLOLH courier on a scheduled 
+basis in a container that will ensure appropriate temperature conditions based on USP and manufacturer 
+recommendations for the medications transported to the on-site pharmacy. A comprehensive list of the 
+medications being transported, listed by prescription number, will be attached to the transportation container 
+serving as a delivery ticket. 
+9. Upon arrival at the on-site pharmacy, pharmacy staff will open the container and verify that the prescription 
+numbers on the comprehensive list match with the prescriptions received.  The on-site pharmacy will sign 
+and date the delivery ticket, promptly remove the tamper evident bags from the transportation container, and 
+place the filled medication in the tamper evident bags in the pharmacy will call section for patient pick up. 
+10. The on-site pharmacy will scan a copy of the delivery ticket to a file on the shared pharmacy folder that is 
+accessible by employees of OLOLH owned pharmacies. 
+11. The patient will pick up medication at the on-site pharmacy through the on-site pharmacy point of sale.  
+Signature capture will take place at the on-site pharmacy point of sale and will be accessible to the remote  
+PH.2417_Central Fill Pharmacy 
+3
+dispenser for review if needed.  The prescription status in the pharmacy dispensing software will change 
+from “ready for pickup” to “picked up” status.  
+12. Counseling will be offered at the point of sale and may be conducted by the on-site pharmacist or by a 
+pharmacist at the remote dispensing site via telephone. Counseling for specialty medications is outlined in 
+CP.2465 and may be offered concurrently with the refill call, care plan, or pharmacist intervention call in 
+addition to counseling at the point of sale and will include the maintenance of appropriate records to identify 
+the responsible pharmacist(s) in the counseling process;  
+13. Prescriptions not picked up by patients after 10 business days will be reversed in the remote dispenser 
+pharmacy software by the remote dispenser and inventory from those prescriptions will: 
+1. Be returned to the remote dispenser via OLOLH courier where it will be returned to the stock of the 
+remote dispenser. This process will apply to exchanges between pharmacies that share the same 
+OLOLH ownership.  
+2. Be transferred from the ownership of the remote dispenser and become the inventory of the on-site 
+pharmacy.  Inventory adjustments in the remote dispenser and onsite pharmacy dispensing software 
+will reflect the change and documentation of the transfer of inventory will be compliant with 
+Louisiana Board of Pharmacy and DSCSA requirements. This process will apply to exchanges 
+between the remote dispenser and pharmacies that are not directly owned by OLOLH 
+D. Refills for prescriptions filled remotely may continue to be filled by the remote dispenser and delivered to the on-site 
+pharmacy until requested otherwise by the on-site pharmacy or the patient. 
+E. Remote dispensing will exclude prescriptions for controlled substances or drugs of concern. 
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+ Louisiana State Board of Pharmacy website http://labp.gov 
+ CP.2401_Prescription Processing and Dispensing 
+ CP.2403_Patient Assistance Program 
+ CP.2408_Expired Medications and Medications Returned to Stock 
+ CP.2414_Patient Counseling 
+ CP.2421_Scope of Pharmacy Services 
+ CP.2465_Patient Management Program Description 
+ 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  

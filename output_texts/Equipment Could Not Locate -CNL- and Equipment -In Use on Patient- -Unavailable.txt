@@ -1,0 +1,193 @@
+Approved
+Standard Operating Procedure
+Document #: TMX-SOP-0001 Revision: 3
+Document Type: TMX Effective Date: Jun 1, 2019
+Department: CE Service Origination 
+Date:
+Jun 1, 2019
+Title: Could Not Locate
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 6
+1.PURPOSE -- SCOPE
+To ensure equipment that cannot be found for scheduled maintenance is 
+accounted for and managed in a timely manner.
+2.REFERENCE DOCUMENTS
+3.DEFINITIONS
+3.1.Could Not Locate – Type of equipment Work Order Task (WOT) sub-
+status where the equipment could not be found for scheduled 
+maintenance. This sub-status is only available on PM WOTs.
+3.2.Work Order Task – Task where work is completed in the computer 
+maintenance management system (CMMS) and where the workflow of 
+CNL is marked and tracked through completion of the process.
+4.ABBREVIATIONS
+4.1.CNL – Could Not Locate
+4.2.WOT – Work Order Task
+5.RESPONSIBILITIES
+5.1.TRIMEDX Manager or Site Leadership
+5.1.1. Analyze the data from CNL equipment to identify trends, corrective 
+actions, and training needs.
+5.1.2. Monitor and direct technician activities in searching for missing CNL 
+equipment
+5.1.3. Communicate in writing to the affected Hospital Department heads, 
+a list of CNL equipment, requesting their assistance in location of the 
+missing equipment on a monthly basis, documenting when and who 
+the report was sent to. This list should also be provided to the 
+Hospital's Regulatory Oversight Committee or equivalent committee 
+during each scheduled meeting. 
+5.1.4. Ensure that monthly searches for CNL equipment are properly 
+documented within the WOT.
+5.1.5. Document and seek approval from the facility oversight body for the 
+disposition of equipment after 90 days.
+5.2.TRIMEDX Associates and TRIMEDX Managed Associates
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0001 Revision: 3
+Document Type: TMX Effective Date: Jun 1, 2019
+Department: CE Service Origination 
+Date:
+Jun 1, 2019
+Title: Could Not Locate
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 6
+5.2.1. Continue to search for CNL equipment until the equipment is either 
+found or work to disposition the equipment after 90 days.
+5.2.2. Document searches within the Work Order Task (WOT) on a 
+monthly basis – until device is found, or the device is dispositioned, 
+and the actions are taken to address CNL.
+5.3.TRIMEDX Quality and Regulatory
+5.3.1. Periodically audit for compliance to policy and procedure.
+5.4.Customer Hospital Department(s)
+5.4.1. Ownership of “missing” equipment and locating “missing” 
+equipment.
+5.4.2. Ownership of identifying if a device potentially has protected health 
+information (PHI).
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0001 Revision: 3
+Document Type: TMX Effective Date: Jun 1, 2019
+Department: CE Service Origination 
+Date:
+Jun 1, 2019
+Title: Could Not Locate
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 3 of 6
+6.PROCEDURE
+6.1.For equipment that cannot be located, the assigned technician shall 
+update the PM WOT to Could Not Locate (CNL) by selecting the CNL 
+button at the upper-righthand side of a Preventative Maintenance (PM) 
+WOT. Once selected, the WOT will change to a ‘Open, Could Not Locate’ 
+Status/Sub-status.
+6.2.The CNL Service Level Agreement (SLA) under Related Links tab will 
+now generate and will be located on the WOT for a duration of 90 days 
+total. Email reminders are sent out via the system every 30, 60, and 90 
+days. Notes of the reminders are automatically documented within 
+the work notes of the WOT. This does not count as the 
+manager/technician attempted search. 
+6.3.Searched should be documented at least one time per 30 days at a 
+minimum of 90 days. There should be no less than 3 documented 
+searches.
+6.4.The SLA starts the day that the WOT is put into a CNL sub-status.
+6.4.1. Reminders will continue to generate every 30 days after the 90 
+days until CNL is resolve
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0001 Revision: 3
+Document Type: TMX Effective Date: Jun 1, 2019
+Department: CE Service Origination 
+Date:
+Jun 1, 2019
+Title: Could Not Locate
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 4 of 6
+6.5.A WOT cannot be completed in an Open – Could Not Locate (CNL) 
+status/sub-status.
+6.6.Non-moveable equipment should not be put into a ‘Could Not Locate’ 
+sub-status.
+6.7.Investigation and Management of CNL Equipment 
+6.7.1. Technicians shall continue to search and document, at a minimum 
+of every 30 days, any efforts while searching for missing equipment 
+until the equipment is either found or work to retire after 90 days. 
+6.7.1.1. Documentation should include search attempts in what 
+unit/department they searched for the equipment and who the 
+technician talked to in attempt of finding the equipment.
+6.7.1.2. Labor hours spent checking on the equipment’s location 
+shall be recorded.
+6.8.After 90 days, technician shall work with the TRIMEDX Site Manager or 
+Leader and Hospital Department leader to disposition equipment from 
+inventory.
+6.9.If the Hospital’s personnel approves/acknowledges that the device is no 
+longer in the Hospital before the 90 days has concluded, the device may 
+be dispositioned by using the Retirement of Equipment Policy and 
+Procedure. 
+6.10. The TRIMEDX Site Manager or Leader shall monitor and direct 
+technician activities to locate CNL equipment on an ongoing and vigilant 
+basis.
+6.11. The TRIMEDX Site Manager or Leader shall monitor and analyze 
+trends related to CNL equipment and develop corrective actions, and 
+conduct training as needed.
+6.12. The TRIMEDX Site Manager or Leader shall produce and send a 
+monthly “Could Not Locate” report to Hospital Leadership to make them 
+aware of the equipment that could not be located. 
+6.13. The TRIMEDX Site Manager or Leader will record who the report 
+was sent to and when, they will keep these records indefinitely.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0001 Revision: 3
+Document Type: TMX Effective Date: Jun 1, 2019
+Department: CE Service Origination 
+Date:
+Jun 1, 2019
+Title: Could Not Locate
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 5 of 6
+6.14. The TRIMEDX Site Manager or Leader shall produce a report that 
+has all the device in a ‘Could Not Locate’ sub-status and devices that 
+been dispositioned due to ‘Could Not Locate’ to the Hospital’s Oversight 
+Committee each time the Committee meets
+6.15. CNL Equipment is Located
+6.15.1. When CNL equipment has been located, select the Device 
+Found button on the CNL WOT.
+6.15.2. This will move the WOT back into an Open – Remediation 
+Underway status. Documentation of when and where the equipment 
+was found should be added in work notes.
+6.15.3. The PM WOT(s) should be completed within a week of the 
+device being found.
+7.QUALITY RECORDS
+8.PROCESS FLOWCHART
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0001 Revision: 3
+Document Type: TMX Effective Date: Jun 1, 2019
+Department: CE Service Origination 
+Date:
+Jun 1, 2019
+Title: Could Not Locate
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 6 of 6
+Appendix A: Additional Resources
+END OF DOCUMENT
+COPY

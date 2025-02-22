@@ -1,0 +1,1359 @@
+1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Manual: Environment of Care Section: Utilities Management 
+Title: Water Management Plan Reference #: EC-WMP 
+Supersedes #:  
+Date of Origination: 01/30/2018 Review Date: 05/19/19 
+Revision Date: 
+ 12/19/2024;02/02/22; 10/25/21; 
+07/16/21; 05/19/21; 11/02/20; 
+06/09/20; 09/03/19; 08/21/18 
+ 
+Purpose: 
+The purpose of the Water Management Plan (WMP) is  
+• to perform a thorough assessment of the delivery methods of potable and domestic hot water systems to establish 
+and maintain a utility systems management program and 
+• to reduce the risk of hospital acquired illness by preventing and controlling waterborne healthcare associated 
+infections through an inter-disciplinary approach of system design, system inspection, and clinical surveillance.  
+ 
+Policy 
+Our Lady of the Lake Regional Medical Center (OLOL) is mandated to develop and adhere to policies and procedures 
+that inhibit microbial growth in building water systems that reduce the risk of growth and spread of legionella and other 
+opportunistic pathogens in water.   
+ 
+Legionnaires’ disease is a serious type of pneumonia caused by bacteria called Legionella that live in water.  Legionella 
+can make people sick when they inhale contaminated water from building water systems that are not adequately 
+maintained. 
+ 
+Program Elements 
+A. Water Management Team (WMT) 
+1. WMT Members include: 
+• Facilities Management 
+• Infection Prevention Nurse 
+• Contractor Plant Manager 
+• Regulatory Outcomes Analyst 
+• Regulatory Program Manager 
+• Plant Services Master Plumber 
+• Water Testing Specialists 
+• BioMed Equipment Director 
+• Construction Representative  
+ 
+2. WMT will: 
+• Be familiar with the building water systems 
+• Identify  
+• Control Points: Locations in the building water system where a control measure can be applied  
+• Control Measures: Actions performed in building water systems to limit growth and spread of 
+waterborne pathogens, such as heating, adding disinfectant, or cleaning 
+• Control Limits: The maximum value, minimum value, or range of values that are acceptable for the 
+control measures that is monitored to reduce the risk for waterborne pathogen growth and spread 2 
+o Water source: the points at which water exits from all potable and non-potable building water 
+systems, fixtures, and equipment 
+• Identify and take Corrective Actions  
+• Actions taken to reestablish control when monitoring or measurement values are outside control 
+limits 
+• Monitor and document program performance 
+• Communicate with pertinent departments within the facility and outside the facility, as needed 
+• Oversee the program 
+• Access necessary resources to implement changes 
+• Eliminate dead legs and stagnant water, where possible.  During construction, renovation or department 
+shutdowns, flushing of water lines performed regularly and before units are reopened. 
+• Dead legs:  Piping that is subject to low or no flow due to design or decreased water use such as 
+capped pipes or unused faucets 
+• Stagnation:  When water does not flow well; areas of stagnant water encourage biofilm growth and 
+reduce temperature and level of disinfectant 
+ 
+B. Building Water Systems  
+1. Building Water Systems include hot and cold potable water systems and non-potable water systems in the 
+building or on the site.   
+• Potable water:  Hot or cold water intended for human consumption, such as drinking, bathing, showering, 
+hand washing, teeth brushing, food preparation, and maintaining oral hygiene 
+• Non-potable water:  Water not intended for human consumption 
+ 
+2. Building water system components may include: 
+• Local or point-of-use temperature mixing valves 
+• Water storage tanks 
+• Eye wash and safety showers 
+• Faucets with flow restrictors 
+• Electronic or sensor faucets 
+• Floor drains 
+• Expansion tanks 
+• Backflow / cross connection prevention 
+ 
+3. The water system’s flow diagrams including text descriptions and information regarding the applicable control 
+points for these locations are found in Appendix 2.   
+• These Control Points may include: 
+o Building Water Systems 
+o Cooling Towers 
+o Emergency Showers and Eyewashes 
+o Ice Machines 
+o Condensate Trays 
+o Decorative Fountains 
+o Scheduled or unscheduled water disruptions 
+o Sink Faucets/Shower Heads 
+o Humidifiers   
+o Medical Equipment such as used for Dialysis (See Appendix 3) 
+o Sterilizers and/or Reprocessors 
+  
+C. Potable Water System Monitoring 
+1. Preventative Measures 
+• No aerators on faucets in patient rooms and nursing units. Where aerators and laminar flow are present, 
+scheduled cleaning by department and included in plant services zone inspection; replaced as necessary.  3 
+• Shower heads and handheld showers are cleaned by housekeeping during room turn over and included in 
+Plant Services zone inspection; replaced as necessary. 
+ 
+2. Monitoring Control Limits and Control Measures 
+• Hot water temperature at water source:  Water heaters are set to deliver a maximum temperature of 120°F.  If 
+temperatures are found to be out of range, Facilities will mitigate the issue by making the proper adjustments.   
+• Free chlorine at water source:  A minimum of 0.2 ppm free chlorine should be maintained at water sources to 
+prevent the growth and spread of Legionella and other waterborne pathogens  
+• Visual inspection of cleanliness  
+• pH:  The pH will be monitored as a means of monitoring fluctuations in water quality.  Disinfectants are most 
+effective within a narrow range (6.5 to 8.5) 
+• Environmental testing for microorganisms such as Legionella 
+ 
+3. Frequency of monitoring and routine sampling 
+• Sampling frequency – Quarterly, scheduled, or non-scheduled disruptions, based on risk 
+• Sampling locations – A minimum of 10 random sites should be tested quarterly 
+• Sampling methods – Water samples will be tested as defined by the CDC 
+• Who will take the samples – Southwest Engineers representative 
+ 
+4. Responding to detections of microorganisms in water sample(s) - If found during environmental validation 
+testing, notification and corrective actions will be sent to the following: 
+a. Plant Services Director 
+b. Infection Control  
+- InfectionControlDept@fmolhs.org, (225) 765-8864,  after-hours cell 225-287-2660 
+ 4 
+Potable Water Systems 
+Parameter to be 
+Monitored Control Limit Probable Corrective Actions 
+pH 6.5 – 8.5 • Adjust accordingly with acid or base, if needed 
+Free chlorine at 
+water source  
+ 
+≥ 0.2  ppm 
+• Increase flushing time and re-test. 
+• Determine free chlorine level of water entering the building from municipal. If 
+low, contact municipal.  
+Temperature at hot 
+water source 105° F - 120° F • Ensure water heater functioning properly.  
+• Check system for cold water intrusion into hot water line.  
+Visual inspection of 
+cleanliness 
+No visible slime, 
+mud, sediment, 
+mold, mildew, 
+buildup, or scale 
+• Physically remove solids. Wash area with soapy water and disinfect with 200 
+ppm chlorine solution. (1tbsp. Bleach/gal water). 
+• Replace shower head/faucet. 
+Legionella 
+≤ 1 CFU/mL or 
+None Detected 
+• Continue WMP 
+> 1 CFU/mL • Test other water sources around the positive test site. 
+> 10 CFU/mL 
+• Review the sample collection, handling, and testing procedures to confirm that 
+the results are not due to errors. 
+• Confirm that system equipment is in good working order and functioning as 
+intended. 
+• Review assumptions about operating conditions, such as the physical and 
+chemical characteristics of the water supplied to the building. 
+• Re-evaluate fundamental aspects of the WMP, including the analysis of 
+hazardous conditions, cleaning, and maintenance procedures, chemical 
+treatment, and other aspects of the Program that could affect results of 
+Legionella testing. 
+• If review or re-evaluation of the WMP indicates deficiencies, adjust the WMP 
+as necessary. 
+• Consider whether remedial treatment is needed. 
+ 
+D. Non-Potable Water System Monitoring 
+1. Preventative Measures 
+• All cooling towers are treated with oxidizing biocide for microbiological control 
+ 
+2. Monitoring Control Limits and Control Measures 
+• Free chlorine or bromine:  .15 - .35 ppm free chlorine or bromine should be maintained to prevent the growth 
+and spread of Legionella and other waterborne pathogens  
+• Visual inspection of cleanliness  
+• Environmental testing for microorganisms such as Legionella 
+ 
+3. Frequency of monitoring and routine sampling 
+• Sampling frequency – Quarterly, scheduled, or non-scheduled disruptions, based on risk 
+• Sampling locations – A minimum of 10 random sites should be tested quarterly 
+• Sampling methods – Water samples will be tested as defined by the CDC 
+• Who will take the samples – Southwest Engineers representative 
+ 
+4. Responding to detections of microorganisms in water sample(s) - If found during environmental validation 
+testing, notification and corrective actions will be sent to the following: 
+• Plant Services Director 
+• Infection Control  
+o InfectionControlDept@fmolhs.org, (225) 765-8864, after-hours cell 225-287-2660 
+ 5 
+Cooling Towers and Evaporative Heat Exchangers 
+Parameter to be 
+Monitored Control Limit Probable Corrective Actions 
+Free Chlorine or 
+Bromine   
+ 
+.15 - .35  ppm 
+• Increase flushing time and re-test. 
+• Determine free chlorine level of water entering the building from 
+municipal. If low, contact municipal.  
+Visual inspection 
+of cleanliness 
+No visible slime, mud, 
+sediment, mold, mildew, 
+buildup, or scale 
+• Physically remove solids.  
+• Increase amount of biocide to disinfect. 
+ 
+Legionella 
+≤ 10 CFU/mL or None 
+Detected 
+• Continue WMP 
+> 10 CFU/mL 
+• Review the sample collection, handling, and testing procedures to 
+confirm that the results are not due to errors. 
+• Confirm that system equipment is in good working order and 
+functioning as intended. 
+• Review assumptions about operating conditions, such as the physical 
+and chemical characteristics of the water supplied to the building. 
+• Re-evaluate fundamental aspects of the WMP, including the analysis 
+of hazardous conditions, cleaning, and maintenance procedures, 
+chemical treatment, and other aspects of the Program that could affect 
+results of Legionella testing. 
+• If review or re-evaluation of the WMP indicates deficiencies, adjust the 
+WMP as necessary. 
+• Consider whether remedial treatment is needed. 
+≥ 1000 CFU/mL 
+• Complete above actions in addition to: 
+o Increase amount of biocide 
+o Retest system in 3-7 days 
+ 
+E. Clinical Awareness 
+1. Higher waterborne pathogen risk areas are identified.  These higher risk areas constitute control locations or 
+points in the system where a control measure may be desirable. 
+ 
+The Water Management Team has reviewed the following:  
+• The history of documented hospital-acquired infections.  
+• Areas in the hospital where high risk patients are likely to be housed and treated and have determined that 
+the following four risk group areas exist:  
+▪ Highest Risk: Invasive procedure areas and critical care units  
+ 
+▪ Medium-High Risk:  Patient care units and minimally invasive procedure areas 
+ 
+▪ Medium Risk: Outpatient care areas  
+ 
+▪ Low Risk: Non patient care areas 
+ 
+• For patients who are identified in the “Medium-High” and “Highest” risk categories due to medical 
+diagnosis, special precautions must be taken to minimize the risk of contracting waterborne pathogens. 
+Special patients, who are identified as extremely high risk due to their condition, will have individualized 
+care plans that include specific treatment modalities to minimize patient harm.  6 
+ 
+2. Responding to cases of Legionnaires’ disease - If diagnostic testing determines that any case of pneumonia is 
+caused by any species of Legionella that is epidemiologically linked to the building:  
+• Notification and reporting to Louisiana Department of Health in accordance with the Louisiana Sanitary 
+Code. 
+• Collect environmental water samples from the hot and cold-water distribution loops in at least the areas 
+where the patient had contact with the building water distribution systems. 
+• Perform corrective actions which may include decontaminating the building water systems 
+• Re-validate with environmental testing 
+• Review the WMP and revise, if necessary 
+ 
+F. Program Review  
+1. The Water Management Team will review the elements of your program at least annually. We will also 
+review and revise the program when any of the following events occur:  
+• Data review shows control measures are persistently outside of control limits  
+• A major maintenance or water service change occurs, such as: new construction  
+• Equipment changes (e.g., new hot tub chlorinator pump)  
+• Changes in treatment products (e.g., disinfectants)  
+• Changes in water usage (e.g., high and low patient census and unit closures)  
+• Changes in the municipal water supply  
+• One or more cases of disease are thought to be associated with your system(s)  
+• Changes occur in applicable laws, regulations, standards, or guidelines  
+• New models or changes to plumbing fixtures are installed within the facilities 
+ 
+2. If an event triggers you to review and update your water management program, remember to:  
+• Update the process flow diagram, associated control points, control limits, and corrective actions  
+• Update the written description of your building water systems  
+• Train those responsible for implementing and monitoring the updated program  
+ 
+References 
+ASHRAE 188-2018:  Legionellosis: Risk Management for Building Water Systems.  ASHRAE: Atlanta. www.ashrae.org 
+ 
+ASHRAE 12-2020: Managing the Risk of Legionellosis Associated with Building Water Systems March 30, 2020.  
+ASHRAE: Atlanta. www.ashrae.org 
+ 
+CMS S & C 17-30-Hospitals/CAHs/NHs REVISED 06.09.2017. Requirement to Reduce Legionella Risk in Healthcare 
+Facility Water Systems to Prevent Cases and Outbreaks of Legionnaires’ disease (LD) 
+ 
+CDC. Developing a Water Management Program to Reduce Legionella Growth & Spread in Buildings, A Practical Guide 
+to Implementing Industry Standards.  June 5, 2017. Version 1.1 
+ 
+CDC. Guidelines for Environmental Infection Control in Health-Care Facilities.  Recommendations of CDC and the 
+Healthcare Infection Control Practices Advisory Committee.  2003.  Updated July 2019. 
+  7 
+Appendix 1 
+ 
+When you become aware of an issue that may cause an infection risk to 
+our patients or employees, notify Infection Control by placing a RLDatix 
+event.  
+ 
+To place a RLDatix, select this destination: 
+ 
+ 
+Placing a RLDatix will allow prompt notification and documentation of 
+follow up actions. After adding the department where the event has 
+occurred, add Infection Control as “another department involved.”  
+Please see screen shots below from RLDatix. 
+A few examples that require Infection Control notification: (This list is not 
+exhaustive) 
+• HVAC shut down for an extended period of time  
+• Chiller or boiler repair 
+• Malfunctioning negative or positive pressure rooms 
+• A sewer leak or back up of sewage  
+• Water leaks 
+• Ceiling failure  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+For events that require immediate attention please call Infection Prevention at (225) 765-8864. 
+ 
+Appendix 2  
+Water Flow Schematics and Text Descriptions 
+ 
+ Location Physical Address 
+ Lake Imaging 7135 Perkins Road, Baton Rouge, LA 
+ LSU Health BR Medicine Clinics 5131 O’Donovan Drive, Baton Rouge, LA 
+ LSU Health BR Mid City Clinic  1401 North Foster Drive, Baton Rouge, LA 
+ LSU Health BR Perkins Surgical 9032 Perkins, Baton Rouge, LA 
+ Medical Office Building I and II 7777 Hennessy Blvd, Baton Rouge, LA 
+ OLOL Advanced Outpatient Wound Clinic 7301 Hennessy Blvd, Suite 103, Baton Rouge, LA 
+ OLOL Children’s 8300 Constantine Blvd, Baton Rouge, LA 
+ OLOL Children’s Medical Office Building 8200 Constantine Blvd, Baton Rouge, LA 
+ OLOL Livingston 5000 O’Donovan Blvd, Walker, LA 
+ OLOL North Baton Rouge ED  
+LSU Health BR North Clinic 5439 Airline Highway, Baton Rouge, LA 
+ OLOL Regional Medical Center 
+(Main, SMT, HVI) 5000 Hennessy Blvd, Baton Rouge, LA 
+ Outpatient Pediatric Physical Medicine 8415 Goodwood Blvd, Baton Rouge, LA 
+ Tau Mental and Behavioral Health  8080 Margaret Ann Drive, Baton Rouge, LA 
+ Lake Ascension Main 1125 West Highway 30, Gonzales, LA 
+ Lake Ascension Plaza I 2647 South St. Elizabeth Blvd, Gonzales, LA 
+ Lake Ascension Plaza II 1014 West St. Clare Blvd, Gonzales, LA 
+ Assumption Community Hospital 135 Hwy 402, Napoleonville, LA 
+ Ollie Steele Nursing Home 4250 Essen Lane, Baton Rouge, LA 
+ 
+ 9 
+ 
+ 
+ 
+10 
+Lake Imaging- 7135 Perkins Road 
+1. Water enters the building via a 3-inch domestic main.  There are valves between the city water main and cold 
+water distribution system including valves between the city main line and the sinks/showers and between the 
+city main line and the ice machines. 
+2. Cold water is distributed directly to the boiler, chiller, cooling towers, ice machines and faucet fixtures 
+throughout the building.  All internal plumbing consists of  3” to ½” copper piping. 
+3. The boiler and chiller are located inside the rear Mechanical Room.  The Cooling Tower is located outside the 
+building near the canopy separating the main building and the annex building.  The chiller and cooling tower 
+drain to the storm drain. 
+4. Cold water is heated to 120°F by (1) 40 gallon and (2) 20 gallon hot water heaters and run through a mixing 
+valve assembly that provides 120°F. 
+5. Hot water is distributed to building fixtures from the water heater. 
+6. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+ 
+Water Uses Qty 
+Ice Machines 0 
+Boilers 0 
+Building Thermostatic Mixing 
+Valves 
+1 
+Chiller or Cooling Towers 0 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 4 
+Emergency or Decontam Showers 0 
+Eyewash Stations 1 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 0 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 0 
+Sinks 20 
+Sink Thermostatic Mixing Valve 0 
+Soda Dispensers 0 
+Toilets 11 
+Urinals 1 
+  
+as of 5/2/2023 
+ 11 
+ 
+ 
+ 
+12 
+ 
+MOB IV- 5131 O’Donovan  
+1. Water enters the building via a 4-inch main from the 8-inch municipal water line at Hennessy.  Water is 
+immediately drawn off through a 6-inch line to the fire suppression system for five floors.  The rest of the water is 
+sent through cold water distribution. 
+2. Cold water is distributed directly to the faucet fixtures and ice machines on the floors.  All internal plumbing 
+consists of 4-inch to 1/2-inch copper piping. 
+3. Cold water is heated to 126°F by a 125 gallon hot water heater on the 1st floor and run through a mixing valve 
+assembly that provides 120°F to rooms by a circulation pump located in the Mechanical Room on the 1st floor. 
+4. Hot water is distributed to building fixtures through floors 1-5.  Hot water is distributed with a recirculating line 
+designed to return to the 125 gallon hot water heaters located in the 1st floor Mechanical Room.  Note that hot 
+water is tempered (mixed with cold water) at the fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+Note: There is no backup water line. 
+ 
+ 
+ 
+Water Uses Qty 
+Ice Machines 1 
+Boilers 2 
+Building Thermostatic Mixing 
+Valves 
+1 
+Chiller or Cooling Towers 0 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 10 
+Emergency or Decontam Showers 0 
+Eyewash Stations 2 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 0 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 0 
+Sinks 158 
+Sink Thermostatic Mixing Valve 2 
+Soda Dispensers 0 
+Toilets 47 
+Urinals 5 
+as of 5/2/2023 
+13 
+ 
+ 
+ 
+14 
+ 
+ 
+Mid-City Campus- 1401 N. Foster 
+1. Water enters the building via a 3 inch domestic main.  There are valves between the city water main and cold 
+water distribution system including valves between the city main line and the sinks/ showers and between the city 
+main line and the ice machines. 
+2. Cold water is distributed directly to the boiler, chiller cooling towers ice machines and faucet fixtures throughout 
+the building.  All internal plumbing consists of 3” to ½” copper piping. 
+3. The boiler and chiller are located inside the Rear Mechanical Room.  The cooling tower is located outside the 
+building near the canopy separating the main building and the annex building.  The chiller and cooling tower 
+drain to the storm drain. 
+4. Cold water is heated to 120°F by 1-40 gallon and 2-20 gallon hot water heaters and run through a mixing valve 
+assembly that provides 120°F. 
+5. Hot water is distributed to building fixtures from the water heater. 
+6. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+ 
+Water Uses Qty 
+Ice Machines 2 
+Boilers 1 
+Building Thermostatic Mixing 
+Valves 
+0 
+Chiller or Cooling Towers 1 
+Decontam and/or Sterile Processing 0 
+Dialysis No 
+Drinking Water Fountains 6 
+Emergency or Decontam Showers 1 
+Eyewash Stations 2 
+Fire Suppression- Sprinklers No 
+Humidifiers 0 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 0 
+Sinks 91 
+Sink Thermostatic Mixing Valve 0 
+Soda Dispensers 0 
+Toilets 28 
+Urinals 2 
+as of 5/2/2023 
+ 
+ 
+15 
+ 
+16 
+ 
+ 
+LSU Perkins Surgery- 9032 Perkins Road 
+1. Water enters the building via a 4-inch main from the 8-inch municipal water line at Hyacinth Avenue.  Water is 
+immediately drawn off to charge the fire suppression system.  The rest of the water is sent through cold water 
+distribution.  There is backflow prevention throughout the system. 
+2. Cold water is distributed directly to the chillers located in the Sprinkler Room, along with ice machines, shower 
+fixtures and faucet fixtures throughout the Administrative and Patient Care buildings.  All internal plumbing 
+consists of 4” to ½” copper piping. 
+3. Cold water is heated to 160°F by one on-demand hot water heater located in the Sprinkler Room and run through 
+a mixing valve assembly that provides 120°F to rooms by circulation pumps in the back Mechanical Room. 
+4. Hot water is distributed to building fixtures from the water heater.  Hot water is distributed with a recirculating 
+line designed to return to the hot water heaters.  Note that hot water is tempered (mixed with cold water) at the 
+fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+ 
+Water Uses Qty 
+Ice Machines 3 
+Boilers 1 
+Building Thermostatic Mixing 
+Valves 
+1 
+Chiller or Cooling Towers 1 
+Decontam and/or Sterile Processing 3 
+Dialysis 1 
+Drinking Water Fountains 3 
+Emergency or Decontam Showers 1 
+Eyewash Stations 6 
+Fire Suppression- Sprinklers 4 
+Humidifiers 0 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 41 
+Sinks 87 
+Sink Thermostatic Mixing Valve 2 
+Soda Dispensers 0 
+Toilets 68 
+Urinals 1 
+as of 5/2/2023 
+17 
+ 
+18 
+  
+ MOB I- 7777 Hennessy Boulevard 
+1. Water enters the building via an 8-inch main from the 10-inch municipal water line at Essen.  Water is 
+immediately drawn off through a 4-inch line to the fire suppression system for all 7 floors and the 2-story 
+connector building.  The rest of the water is sent through cold water distribution. 
+2. Cold water is distributed directly to shower fixtures and faucet fixtures in rooms on all 7 floors and the 2-story 
+connector building.  All internal plumbing consists of 4” to ½” copper piping. 
+3. Cold water is heated to 126°F by on demand hot water heaters on the 1st floor and run through a mixing valve 
+assembly that provides 120°F to rooms by circulation pumps located in the Mechanical Room on the 1st floor. 
+4. Hot water is distributed to building fixtures through floor 7 and the 2-story connector building.  Hot water is 
+distributed with a recirculating line designed to return to the hot water heaters.  Note that hot water is tempered 
+(mixed with cold water) at the fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+Note: There is no backup water line. 
+ 
+ 
+ 
+ 
+ 
+Water Uses Qty 
+Ice Machines 2 
+Boilers 2 
+Building Thermostatic Mixing 
+Valves 
+1 
+Chiller or Cooling Towers 1 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 14 
+Emergency or Decontam Showers 0 
+Eyewash Stations 2 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 0 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 3 
+Sinks 283 
+Sink Thermostatic Mixing Valve 0 
+Soda Dispensers 0 
+Toilets 118 
+Urinals 7 
+as of 5/2/2023 
+ 
+19 
+ 
+20 
+ 
+ 
+ 
+MOB II- 7777 Hennessy Boulevard 
+ 
+1. Water enters the building via an 8-inch main from the municipal water line at Essen.  Water is immediately 
+drawn off through a 4-inch line to the fire suppression system for all 10 floors and the 2-story connector 
+building.  The rest of the water is sent through cold water distribution. 
+2. Cold water is distributed directly to shower fixtures and faucet fixtures in rooms on all 10 floors and the 2-
+story connector building.  All internal plumbing consists of 4”  to ½” copper piping. 
+3. Cold water is heated to 126°F by on demand hot water heaters on the 1st floor and run through a mixing valve 
+assembly that provides 120°F to rooms by circulation pumps located in the Mechanical Room on the 1st floor. 
+4. Hot water is distributed to building fixtures through floor 10 and the 2-story connector building.  Hot water is 
+distributed with a recirculating line designed to return to the hot water heaters.  Note that hot water is 
+tempered (mixed with cold water) at the fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+Note: There is no backup water line. 
+ 
+ 
+Water Uses Qty 
+Ice Machines 2 
+Boilers 2 
+Building Thermostatic Mixing 
+Valves 
+1 
+Chiller or Cooling Towers 2 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 14 
+Emergency or Decontam Showers 0 
+Eyewash Stations 6 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 4 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 8 
+Sinks 219 
+Sink Thermostatic Mixing Valve 4 
+Soda Dispensers 1 
+Toilets 93 
+Urinals 11 
+as of 5/3/2023 
+ 
+21 
+ 
+22 
+ 
+ 
+MOB III- 7301 Hennessy Boulevard 
+1. Water enters the building via an 8-inch main from the 8-inch municipal water line at Hennessy.  Water is 
+immediately drawn off through an 8-inch line to the fire suppression system for 3 floors.  The rest of the 
+water is sent through cold water distribution. 
+2. Cold water is distributed directly to shower fixtures and faucet fixtures in rooms on 3 floors.  All internal 
+plumbing consists of 4” to ½”  copper piping. 
+3. Cold water is heated to 126°F by on demand hot water heaters on the 1st floor and run through a mixing 
+valve assembly that provides 120°F to rooms by circulation pumps located in the Mechanical Room on 
+the 1st floor. 
+4. Hot water is distributed to building fixtures through floors 1-3.  Hot water is distributed with a 
+recirculating line designed to return to the 125-gallon hot water heaters located in the 1st floor Mechanical 
+Room.  Not that hot water is tempered (mixed with cold water) at the fixtures by thermostatic mixing 
+valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+Note: There is no backup water line. 
+ 
+ 
+ 
+ 
+ 
+Water Uses Qty 
+Ice Machines 4 
+Boilers 3 
+Building Thermostatic Mixing 
+Valves 
+1 
+Chiller or Cooling Towers 2 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 10 
+Emergency or Decontam Showers 0 
+Eyewash Stations 3 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 0 
+Laundry- Washing Machines 1 
+Outside Decorative Fountains 0 
+Showers 6 
+Sinks 152 
+Sink Thermostatic Mixing Valve 3 
+Soda Dispensers 0 
+Toilets 53 
+Urinals 1 
+as of 5/2/2023 
+ 23 
+ 
+24 
+OLOL Children’s Hospital- 8300 Constantin Boulevard 
+1. Water enters the building via a 10-inch main from the municipal water line at Mancuso Lane.  Water 
+is immediately drawn off to charge the fire suppression system.  The rest of the water is sent through 
+cold water distribution.  There is backflow prevention throughout the system, including between the 
+cold water distribution and the city water main and between the cold water distribution and the fire 
+suppression system. 
+2. Cold water is distributed directly to the cooling towers located in an exterior yard to the building, 
+outside decorative fountains, and ice machines, shower fixtures and faucet fixtures in rooms on all 6 
+floors.  All internal plumbing consists of 6” to ½” copper piping.  There is backflow prevention 
+between cold water distribution and the utility lines that serve cooling water. 
+3. Cold water is heated to 138°F by 4 gas hot water heaters and run through a mixing valve assembly 
+that provides 120°F to rooms by circulation pumps located in the Plant on the 1st floor.  Two hot 
+water heaters are filled to 225 gallons.  The other 2 hot water heaters are 130 gallons. 
+4. Hot water is distributed to building fixtures through floor 6 from the joined water heaters located in 
+the 1st floor Plant.  Hot water is distributed with a recirculating line designed to return the joined 
+water heaters.  Note that hot water is tempered (mixed with cold water) at the fixtures by thermostatic 
+mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+Water Uses Qty 
+Ice Machines 32 
+Boilers 3 
+Building Thermostatic Mixing 
+Valves 
+2 
+Chiller or Cooling Towers 3 
+Decontam and/or Sterile Processing Yes 
+Dialysis Yes 
+Drinking Water Fountains 4 
+Emergency or Decontam Showers 3 
+Eyewash Stations 42 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 10 
+Laundry- Washing Machines 7 
+Outside Decorative Fountains 5 
+Showers 99 
+Sinks 421 
+Sink Thermostatic Mixing Valve 198 
+Soda Dispensers 2 
+Toilets 219 
+Urinals 23 
+as of 5/2/2023 25 
+ 
+26 
+OLOL Children’s Hospital MOB- 8200 Constantin Boulevard 
+1. Water enters the building via a 3-inch main from the municipal water line from the hospital.  Water is 
+immediately drawn off to charge the fire suppression system.  The rest of the water is sent through cold water 
+distribution.  There is backflow prevention throughout the system, including between the cold water distribution 
+and the city water main and between the cold water distribution and the fire suppression system. 
+2. Cold water is distributed to outside decorative fountains, ice machines, toilets, and faucet fixtures in rooms on all 
+4 floors.  All internal plumbing consists of 3” to ½” copper piping.  There is backflow prevention between cold 
+water distribution and the utility lines that serve the mechanical piping.   
+3. Cold water is heated to 120°F by 4-130 gallon electric hot water heaters with one on each floor and run through a 
+circulation valve assembly that provides water to rooms by circulation pumps located in an EVS closet on each of 
+the 4 floors. 
+4. Hot water is distributed to building fixtures through floor 4.  Hot water is distributed with a recirculating line 
+designed to return to the joined water heaters. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+ 
+ 
+ 
+ 
+ 
+Water Uses Qty 
+Ice Machines 1 
+Boilers 0 
+Building Thermostatic Mixing 
+Valves 
+0 
+Chiller or Cooling Towers 0 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 1 
+Emergency or Decontam Showers 0 
+Eyewash Stations 5 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 0 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 0 
+Sinks 280 
+Sink Thermostatic Mixing Valve 175 
+Soda Dispensers 0 
+Toilets 101 
+Urinals 0 
+as of 5/2/2023 27 
+ 
+28 
+OLOL Livingston- 5000 O’Donovan Boulevard, Walker, LA. 
+ 
+1. Water enters the building via a 6-inch main from the 12-inch municipal water line at Interstate 12.  Water is 
+immediately drawn off to charge the fire suppression.  The rest of the water is sent through cold water 
+distribution.  There is backflow prevention throughout the system, including between the cold water 
+distribution and the city water main and between the cold water distribution and the fire suppression system.   
+2. Cold water is distributed directly to the Cooling Towers located outside the Plant, along with ice machines, 
+shower fixtures and faucet fixtures throughout 1st through 5th floors.  All internal plumbing consists of 4” to 
+1/2:” copper piping.  There is backflow prevention between  cold water distribution and the utility lines that 
+serve the cooling tower. 
+3. Cold water is heated to 160°F by 6- 80 gallon hot water heaters located in the AHU room on each floor and 
+run through a mixing valve assembly that provides 120°F to rooms by circulation pumps located in the Plant. 
+4. Hot water is distributed to building fixtures from the water heaters.  Hot water is distributed with a 
+recirculating line designed to return to the hot water heaters.  Note that hot water is tempered (mixed with 
+cold water) at the fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+ 
+Water Uses Qty 
+Ice Machines 2 
+Boilers 2 
+Building Thermostatic Mixing 
+Valves 
+10 
+Chiller or Cooling Towers 2 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 12 
+Emergency or Decontam Showers 1 
+Eyewash Stations 15 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 0 
+Laundry- Washing Machines 1 
+Outside Decorative Fountains 0 
+Showers 5 
+Sinks 197 
+Sink Thermostatic Mixing Valve 15 
+Soda Dispensers 0 
+Toilets 79 
+Urinals 11 
+as of 5/2/2023 
+ 29 
+ 
+30 
+       LSU North Baton Rouge- 5439 Airline Highway 
+1. Water enters the building via a 4-inch main from the 6-inch municipal water line at Airline.  Water is immediately 
+drawn off to charge the fire suppression system.  The rest of the water is sent through cold water distribution.  
+There is  backflow prevention throughout the system, including between the cold water distribution and the city 
+water main and between the cold water distribution and the fire suppression system.   
+2. Cold water is distributed directly to the chillers located at the back of the building, along with ice machines, 
+shower fixtures and faucet fixtures on the first and second floors.  All internal plumbing consists of 3” to 1/2” 
+copper piping.  There is backflow prevention between cold water distribution and the utility lines that serve the 
+cooling tower. 
+3. Cold water is heated to 160°F by 3 hot water heaters and run through a mixing valve assembly that provides 
+120°F to rooms by circulation pumps located in the Plant.  The 85-gallon hot water heater for the Emergency 
+Department; the 119-gallon hot water heater for the Urgent Care Department; and the 40-gallon hot water heater 
+for the second floor. 
+4. Hot water is distributed to building fixtures from the water heaters.  Hot water is distributed with a re-circulating 
+line designed to return to the hot water heaters.  Note that hot water is tempered (mixed with cold water) at the 
+fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+Note:  There is no backup water line. 
+ 
+ 
+ 
+Water Uses Qty 
+Ice Machines 3 
+Boilers 0 
+Building Thermostatic Mixing 
+Valves 
+3 
+Chiller or Cooling Towers 3 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 14 
+Emergency or Decontam Showers 2 
+Eyewash Stations 6 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 0 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 2 
+Sinks 156 
+Sink Thermostatic Mixing Valve 0 
+Soda Dispensers 0 
+Toilets 31 
+Urinals 3 
+as of 5/3/2023 
+ 31 
+ 
+32 
+              OLOL Main Hospital- 5000 Hennessy Boulevard 
+1. Water enters the building via a 10-inch main from the municipal water line at Hennessy.  Water is 
+immediately drawn off to charge the fire suppression system.  The rest of the water is sent through cold water 
+distribution. 
+2. Cold water is distributed directly to the cooling towers located on the roof, along with ice machines, shower 
+fixtures and faucet fixtures in rooms on all 6 floors.  All internal plumbing consists of 6” galvanized main 
+with 3” to ½” copper branch line piping.  There is backflow prevention between cold water distribution and 
+the utility lines that serve the cooling tower.  
+3. Cold water is heated to 126°F by two on demand hot water heaters located in the mail boiler room and run 
+through a mixing valve assembly that provides 120°F to rooms by circulation pumps located in the main 
+boiler room. 
+4. Hot water is distributed to building fixtures through all 6 floors.  Hot water is distributed with a recirculating 
+line designed to return to the hot water heaters.  Note that hot water is tempered (mixed with cold water) at 
+the fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line.  Cooling Tower and 
+decorative fountain wastewater is discarded through the storm drains. 
+ 
+ 
+ 
+ 
+ 
+Water Uses Qty 
+Ice Machines 35 
+Boilers 3 
+Building Thermostatic Mixing 
+Valves 
+3 
+Chiller or Cooling Towers 4 
+Decontam and/or Sterile Processing 1 
+Dialysis 0 
+Drinking Water Fountains 28 
+Emergency or Decontam Showers 6 
+Eyewash Stations 26 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 2 
+Laundry- Washing Machines 2 
+Outside Decorative Fountains 1 
+Showers 291 
+Sinks 904 
+Sink Thermostatic Mixing Valve 14 
+Soda Dispensers 3 
+Toilets 556 
+Urinals 15 
+as of 5/3/2023 
+ 33 
+ 
+34 
+OLOL St. Mary’s Tower- 5000 Hennessy Boulevard 
+ 
+1. Water enters the building via a 6-inch main from the 6-inch municipal water line at Hennessy.  Water is 
+immediately drawn off to charge the fire suppression system.  The rest of the water is sent through cold 
+water distribution.   
+2. Cold water is distributed directly to ice machines, shower fixtures and faucet fixtures for all 6 floors.  All 
+internal plumbing consists of 6” to ½” copper piping.  There is backflow prevention  between cold water 
+distribution and the utility lines that serve the cooling tower.   
+3. Cold water is heated to 160°F by an on demand hot water heater located in the first floor penthouse for 
+the Mechanical system.  Cold water is also heated to 126°F by a hot water heater that is run through a 
+mixing valve assembly that provides 120°F to rooms by circulation pumps located in the first floor 
+penthouse. 
+4. Hot water is distributed to building fixtures from the water heaters.  Hot water is distributed with a 
+recirculating line designed to return to the hot water heaters.  Not that hot water is tempered (mixed with 
+cold water) at the fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+ 
+ 
+ 
+ 
+Water Uses Qty 
+Ice Machines 27 
+Boilers 0 
+Building Thermostatic Mixing 
+Valves 
+1 
+Chiller or Cooling Towers 0 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 19 
+Emergency or Decontam Showers 2 
+Eyewash Stations 8 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 3 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 186 
+Sinks 425 
+Sink Thermostatic Mixing Valve 16 
+Soda Dispensers 11 
+Toilets 300 
+Urinals 12 
+as of 5/2/2023 
+ 35 
+ 
+36 
+OLOL Heart & Vascular- 5000 Hennessy Boulevard 
+ 
+1. Water enters the building via a 6-inch main from the 8-inch municipal water line at Essen.  Water is 
+immediately drawn off to charge the fire suppression system.  The rest of the water is sent through 
+cold water distribution.  There is backflow prevention throughout the system, including between the 
+cold water distribution and the city water main and between the cold water distribution and the fire 
+suppression system.   
+2. Cold water is distributed directly to the cooling towers located on the 10th floor, outside decorative 
+fountains, along with ice machines, shower fixtures and faucet fixtures in rooms on the 9th and 10th 
+floors.  All internal plumbing consists of 6” to ½” copper piping.  There is backflow prevention 
+between cold water distribution and the utility line that serve the cooling tower.   
+3. Cold water is heated to 126°F by four on-demand hot water heaters on the 10th floor and run through 
+a mixing valve assembly that provides 120°F to rooms by circulation pumps located in the 10th floor 
+Mechanical Room. 
+4. Hot water is distributed to building fixtures through the 9th floor from the water heaters on the 10th 
+floor.  Hot water is distributed with a recirculating line designed to return to the hot water heaters.  
+Note that hot water is tempered (mixed with cold water) at the fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line.  Cooling Tower and 
+decorative fountain wastewater is discarded through the storm drains. 
+Note: There is no backup water line. 
+Water Uses Qty 
+Ice Machines 14 
+Boilers 0 
+Building Thermostatic Mixing 
+Valves 
+2 
+Chiller or Cooling Towers 4 
+Decontam and/or Sterile Processing Yes 
+Dialysis Yes 
+Drinking Water Fountains  
+Emergency or Decontam Showers 1 
+Eyewash Stations 2 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 1 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 1 
+Showers 107 
+Sinks 500 
+Sink Thermostatic Mixing Valve 12 
+Soda Dispensers 4 
+Toilets 238 
+Urinals 18 
+as of 5/3/2023 
+ 37 
+ 
+38 
+ 
+ 
+Goodwood Pediatrics- 8415 Goodwood Boulevard 
+ 
+1. Water enters the building via a 2-inch domestic main. 
+2. Cold water is distributed directly to the faucet fixtures throughout the building. All internal 
+plumbing consists of 2” to ½” copper piping. 
+3. Cold water is heated to 120°F by two 119-gallon hot water heaters that provide 120°F. 
+4. Hot water is distributed to building fixtures from the water heater. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Water Uses Qty 
+Ice Machines 0 
+Boilers 0 
+Building Thermostatic Mixing 
+Valves 
+0 
+Chiller or Cooling Towers 0 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 4 
+Emergency or Decontam Showers 0 
+Eyewash Stations 1 
+Fire Suppression- Sprinklers No 
+Humidifiers 0 
+Laundry- Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 0 
+Sinks 130 
+Sink Thermostatic Mixing Valve 0 
+Soda Dispensers 0 
+Toilets 31 
+Urinals 2 
+as of 5/2/2023 39 
+ 
+40 
+TAU Center Mental & Behavioral Health- 8080 Margaret Ann Drive 
+ 
+1. Water enters the building via a 3-inch main from the 6-inch municipal water line at Essen.  
+Water is immediately drawn off to charge the fire suppression system.  The rest of the water 
+is sent through cold water distribution. 
+2. Cold water is distributed directly to chillers located behind the building, along with ice 
+machines, shower fixtures and faucet fixtures throughout the building.  All internal plumbing 
+consists of 3” to ½” copper piping. 
+3. Cold water is heated to 120°F by an 85-gallon hot water heater located in the AHU room on 
+B-wing.  Cold water is also heated to 140°F by a 150-gallon hot water heater located in the 
+Mechanical Room that runs through a mixing valve assembly.  Each hot water heater 
+provides 120°F water to rooms by circulation pumps located in the Mechanical Room on C-
+Hall.  For the kitchen, cold water is heated to 140°F by an 85-gallon hot water heater located 
+in the Mechanical Room at the loading dock. 
+4. Hot water is distributed to building fixtures from the water heaters.  Hot water is distributed 
+with a recirculating line designed to return to the hot water heaters.  Note that hot water is 
+tempered (mixed with cold water) at the fixtures by thermostatic mixing valves. 
+5. Hot, cold, and tempered wastewater is discarded through the sanitary sewer line. 
+ 
+Water Uses Qty 
+Ice Machines 4 
+Boilers 0 
+Building Thermostatic Mixing 
+Valves 
+0 
+Chiller or Cooling Towers 1 
+Decontam and/or Sterile Processing 0 
+Dialysis 0 
+Drinking Water Fountains 0 
+Emergency or Decontam Showers 0 
+Eyewash Stations 5 
+Fire Suppression- Sprinklers Yes 
+Humidifiers 0 
+Laundry- Washing Machines 2 
+Outside Decorative Fountains 0 
+Showers 27 
+Sinks 48 
+Sink Thermostatic Mixing Valve 38 
+Soda Dispensers 1 
+Toilets 16 
+Urinals 0 
+as of 5/2/2023 
+ 
+       
+ 
+ 
+ 41 
+ 
+ 
+ 
+                                   
+    
+ 
+ 
+   
+OLOL 
+Ascension Main 
+Hospital 
+1125 W. Hwy. 
+30 
+Water Flow 
+Schematic 42 
+ 
+OLOL Ascension, Main Hospital, 1125 W. Hwy. 30, Water Flow Description 
+ 
+1. Water enters the Main Hospital via a 3 inch main from the municipal water line on Highway 30.  Cold water is 
+distributed directly to the cooling tower on the loading dock, the decorative fountain at the main entrance, and to 
+ice machines, showers, drinking fountains and faucet fixtures on the first and second floors. 
+2. All internal plumbing consists of 3 inch copper piping.  There is backflow prevention between cold water 
+distribution and the utility lines that serve the cooling towers and decorative fountain. 
+3. Cold water is heated to slightly less than 120°F by 2 boilers located on the first floor central plant room.   
+4. Hot water is distributed to plumbing fixtures on first and second floors.  First floor includes: outpatient services, 
+ICU, ER, Surgery, Kitchen and Cafeteria.  Second floor includes: patient rooms (overnight), Wound Care, Special 
+Procedures and Cath Lab. 
+ 
+ 
+Water Uses Qty 
+Ice Machines 11 
+Boilers 4 
+Building Thermostatic Mixing Valves 0 
+Chiller or Cooling Towers 4 
+Decontam and/or Sterile Processing Yes 
+Dialysis No 
+Drinking Water Fountains 4 
+Emergency or Decontam Showers 3 
+Eyewash Stations 34 
+Fire Suppression-Sprinklers Yes 
+Humidifiers 5 
+Laundry-Washing Machines 0 
+Outside Decorative Fountains 1 
+Showers 82 
+Sinks 260 
+Sink Thermostatic Mixing Valves 34 
+Soda Dispensers 1 
+Toilets 120 
+Urinals 1 
+Sterilizers 6 
+as of 10/3/2023 
+ 
+ 
+ 
+ 
+ 
+43 
+ 
+        
+ 
+ 
+   
+ 
+ 
+  
+Plaza I 
+2647 South St. 
+Elizabeth Blvd. 
+Water Flor 
+Schematic  44 
+         
+ 
+OLOL Ascension, Plaza I, Water Flow Description 
+1. Water enters Plaza I via a 3 inch main from the municipal water line on Highway 30.  Cold water is 
+distributed directly to the cooling towers on the loading dock, and to ice machines, showers, drinking 
+fountains, and faucets fixtures on all three floors.  There is backflow prevention between cold water 
+distribution and the utility lines that serve the cooling towers. 
+2. All internal plumbing consists of 2 inch copper piping.  Cold water is heated to slightly less than 120°F by 
+two water heaters located on the first floor central plant room.  
+3. Hot water is distributed to plumbing fixtures on all three floors.  First floor includes: Outpatient Services.  
+Second floor includes: Outpatient Services.  Third floor includes: Outpatient Services and business offices.   
+Water Uses Qty 
+Ice Machines 0 
+Boilers 0 
+Building Thermostatic Mixing Valves 0 
+Chiller or Cooling Towers 2 
+Decontam and/or Sterile Processing No 
+Dialysis No 
+Drinking Water Fountains 6 
+Emergency or Decontam Showers 0 
+Eyewash Stations 1 
+Fire Suppression-Sprinklers Yes 
+Humidifiers 0 
+Laundry-Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 1 
+Sinks 55 
+Sink Thermostatic Mixing Valves 0 
+Soda Dispensers 0 
+Toilets 36 
+Urinals 3 
+Sterilizers 0 
+as of 10/3/2023 
+  
+ 
+  
+Plaza I 
+2647 South St. 
+Elizabeth Blvd. 
+Text Description 45 
+ 
+      
+ 
+ 
+ 
+  
+ 
+ 
+  
+Plaza II 
+1014 W. St. 
+Clare Blvd. 
+Water Flow 
+Schematic 46 
+    
+   
+ 
+ 
+OLOL Ascension, Plaza II,  Waterflow Description 
+1. Water enters Plaza II via a 3 inch main from the municipal water line on Highway 30.  Cold water is distributed 
+directly to the cooling towers on the roof, and to ice machines, showers, drinking fountains, and faucet fixtures on 
+all three floors.  There is backflow prevention between cold water distribution and the utility lines that serve the 
+cooling towers. 
+2. All internal plumbing consists of 2 inch copper piping.  Cold water is heated to slightly less than 120°F by three 
+water heaters located on the first floor central plant room. 
+3. Hot water is distributed to plumbing fixtures on all three floors.  First floor includes: outpatient services, 
+Women’s Health Center, and Blood Donor Center.  Second floor includes: Ambulatory Surgery, and Outpatient 
+Services. 
+ 
+Water Uses Qty 
+Ice Machines 1 
+Boilers 0 
+Building Thermostatic Mixing Valves 0 
+Chiller or Cooling Towers 1 
+Decontam and/or Sterile Processing Yes 
+Dialysis No 
+Drinking Water Fountains 6 
+Emergency or Decontam Showers 0 
+Eyewash Stations 14 
+Fire Suppression-Sprinklers Yes 
+Humidifiers 6 
+Laundry-Washing Machines 0 
+Outside Decorative Fountains 0 
+Showers 2 
+Sinks 91 
+Sink Thermostatic Mixing Valves 14 
+Soda Dispensers 0 
+Toilets 36 
+Urinals 0 
+Sterilizers  4 
+as of 10/3/2023 
+ 
+  
+Plaza II 
+1014 W. St. 
+Clare Blvd. 
+Text Description 47 
+ 
+ 
+ 
+ 
+48 
+ 
+                                                              
+ 
+Ollie Steele, 4250 Essen Lane, Water Flow Description 
+ 
+1. Water enters the building via an 8-inch main from the 8-inch municipal water line at Essen Lane.  The 8-
+inch main splits to a 3-inch service to the Original Building and a 4-inch services for the Additional 
+Building.  Fire water enters the Original Building via a 6-inch main that was extended from an existing 8-
+inch fire main serving the site.  The Additional Building is served via an 8-inch fire main serving the site.  
+The site fire water piping has a private fire hydrant.  A fire department connection is provided to serve the 
+Original Building. 
+2. Domestic cold water is distributed directly to all plumbing fixtures at the Ollie Steele Nursing Home.  All 
+internal plumbing piping consists of copper. 
+3. Domestic cold water is heated through the use of gas-fired water heaters.  One heater serves the 
+residential areas of the building and deliver water at 110°F.  One heater serves the main cooking kitchen 
+and more residential rooms at 140°F and 110°F respectively.  Another separate water heater serves the 
+dishwasher at 185°F.  All domestic hot water loops are provided with a recirculation pump and the loops 
+involving the residential rooms have thermostatic mixing valves. 
+4. Domestic water used in the residential areas is discharged directly to sanitary sewer service.  Domestic 
+water used in the main cooking kitchen is discharged to a grease interceptor prior to the sanitary sewer 
+service. 
+5. There are no secondary or backup domestic or fire water connections. 
+ 
+ 
+ 
+ 
+Water Uses Qty 
+Water Closets 122 
+Lavatories 124 
+Bathtubs 25 
+Sinks 27 
+Showers 39 
+Drinking Fountains 11 
+Hose Bibbs 16 
+Service Sinks 9 
+Washing Machines 4 
+Dishwasher 1 
+Fire Suppression Yes 
+as of 4/29/2024 
+ 
+ 
+Ollie Steele 
+Nursing Home 
+4250 Essen Lane 
+Text Description 49 
+ 50 
+ 
+ 
+ 
+                 
+ 
+ 
+1.) Water enters the Main Hospital via a 4 inch main from the municipal water line on Highway 135. Cold water 
+is distributed directly to the cooling tower, ice machines, showers, drinking fountains, and faucet fixtures on the 
+first and floor.  
+2.) All internal plumbing consists of 3 inch copper piping. There is backflow prevention between cold water 
+distribution and the utility lines.  
+3.) Cold water is heated to slightly less than 125°F by 2 boilers located in the central plant room.  
+4.) Hot water is distributed to plumbing fixtures. 
+First floor includes: outpatient services, ER, kitchen, patient rooms (overnight), special procedures. 
+  
+Water Uses Qty 
+Ice Machines 4 
+Boilers 1 
+Building Thermostatic Mixing Valves 2 
+Chiller or Cooling Towers 2 
+Decontam and/or Sterile Processing Yes 
+Dialysis No 
+Drinking Water Fountains 3 
+Emergency or Decontam Showers 0 
+Eyewash Stations 7 
+Fire Suppression-Sprinklers Yes 
+Humidifiers 0 
+Laundry-Washing Machines 2 
+Outside Decorative Fountains 0 
+Showers 3 
+Sinks 71 
+Sink Thermostatic Mixing Valves 2 
+Soda Dispensers 0 
+Toilets 40 
+Urinals 0 
+Sterilizers  0 
+as of 4/20/2024 
+ 
+ 
+Assumption 
+Community 
+Hospital 
+135 LA-402, 
+Napoleonville 
+Text Description 
+51 
+ 
+Appendix 3 
+ 

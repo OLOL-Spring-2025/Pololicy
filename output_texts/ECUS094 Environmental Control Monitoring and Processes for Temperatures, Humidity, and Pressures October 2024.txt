@@ -1,0 +1,117 @@
+ ECUS094 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL HEALTH 
+Policy Manual: Environment of Care Section: Utilities Management 
+Title: 
+Environmental Control Monitoring and 
+Processes for Temperatures, Humidity, 
+and Pressures 
+Policy 
+Reference #: ECUS094 
+Supersedes #:  
+Date of Origination: October 2024 Review Date:  
+Revision Date:  
+ 
+PURPOSE: 
+A. To ensure accurate monitoring of environmental controls such as pressure, temperature, and 
+humidity of designated spaces at Our Lady of the Lake (OLOL) hospitals and affiliate locations as 
+described by regulatory requirements. 
+ 
+DEFINITIONS: 
+• Building Automation System (BAS) – Trane BAS software monitors certain rooms for temperature 
+and humidity and provides notification to Facilities Management when a room’s temperature, 
+humidity, or pressure deviates from accepted ranges. The Trane BAS software also maintains logs of 
+temperature, humidity, and pressure for monitored rooms. 
+• Manometer – A differential pressure gauge provides a test to determine the air flow relations through 
+a doorway opening by standing outside the room and holding the Manometer at the bottom of the 
+door. The pressure difference between the two rooms will appear on the instrument’s readout. 
+• Documentation (Logs)– if a room requires monitoring of temperature or humidity and/or does not 
+have a monitoring device, the department staff responsible for the room maintains paper logs and 
+report any deviations from accepted ranges. 
+ 
+POLICY: 
+A Ventilation Risk Assessment was completed by a multi-discipline group to determine which rooms 
+would be monitored based on ASHRAE requirements.  The method and frequency of monitoring the 
+relevant rooms is based on the building, department, room use, and HVAC capabilities.   
+ 
+PROCEDURE: 
+ 
+A. Temperature  
+1. Monitoring 
+a. Maintained by the Building Automation System (BAS) and/or room thermostat. 
+b. Thermostats should be set based on parameters identified in ASHRAE 170 where 
+specified.  Locations without specific parameters should adjust temperature based 
+on unit specific requirements. 
+2. Responding to an Issue 
+a. Upon audible notification of room with temperature monitors, department staff 
+respond and verify all room’s doors are closed.  If the alarm reoccurs or the 
+device does not return to normal, a call is placed to Facilities Management to 
+report the issue and staff submit a corrective work order.  ECUS094 
+Page 2 of 3 
+b. If BAS software detects a deviation in accepted temperature, Facilities 
+Management is notified.  They will notify department of deviation and ask if they 
+are aware.  If the alarm reoccurs or the device does not return to normal, a 
+corrective action will be implemented. 
+ 
+B. Humidity 
+1. Monitoring 
+a. Maintained by the Building Automation System (BAS) and/or humidity 
+monitoring devices. 
+b. Humidity monitoring devices should be set based on parameters identified in 
+ASHRAE 170 where specified.   
+2. Responding to an Issue 
+a. Upon audible notification of room with humidity monitors, department staff 
+respond and verify all room’s doors are closed.  If the alarm reoccurs or the 
+device does not return to normal, a call is placed to Facilities Management to 
+report the issue and staff submit a corrective work order. 
+b. If BAS software detects a deviation in accepted humidity, Facilities Management 
+is notified.  They will notify department of deviation and ask if they are aware.  If 
+the alarm reoccurs or the device does not return to normal, a corrective action will 
+be implemented. 
+ 
+C. Air Pressure 
+1. Monitoring 
+a. Maintained by Building Automation System (BAS), Remote Pressure Monitors, 
+and/or Ball in the wall devices.   
+b. Pressure Monitors should be set based on parameters identified in ASHRAE 170 
+were specified. 
+c. Some rooms do not have wall mounted pressure monitors; therefore Facilities 
+Management performs a pressure validation test periodically based on location. 
+2. Responding to an Issue  
+a. Upon audible notification of room with pressure monitors, department staff 
+respond and verify all room’s doors are closed.  If the alarm reoccurs or the 
+device does not return to normal, a call is placed to Facilities Management to 
+report the issue and staff submit a corrective work order. 
+b. If BAS software detects a deviation in accepted pressure, Facilities Management 
+is notified.  They will notify department of deviation and ask if they are aware.  If 
+the alarm reoccurs or the device does not return to normal, a corrective action will 
+be implemented. 
+ 
+D. The discovering party (either the department responsible for the room procedures or Facilities 
+Management) determining a room’s trending data does not meet the criteria listed above shall 
+notify the other party and a joint determination is made if the room is taken out of service. This 
+decision is based upon the review of risk factors to patients and supplies. 
+1. House Manager, Department Leader, and Infection Prevention will be notified of 
+deficiency.  At this time, the room may be taken out of service or may be used as a non-
+isolation room.  ECUS094 
+Page 3 of 3 
+2. Once a repair is scheduled, the room will be blocked for service, then tested prior to 
+reopening as an isolation room. 
+ 
+E. Preventative maintenance and validation of rooms 
+1. Facilities Management is responsible for implementing a schedule of preventive 
+maintenance on the filters, intake, and exhaust systems of the rooms identified within this 
+policy. 
+2. Facilities Management is also responsible for the validation of the rooms by a 
+professional with air balancing certification at determined intervals. 
+3. Quarterly reporting to Infection Prevention including, but not limited to, air quality 
+monitoring and remediation activities. 
+ 
+Refer to SOS010 Surgical Services Environment for Surgical Services, Sterile Processing, and 
+Decontamination areas. 
+ 
+REFERENCES: 
+ANSI/ASHRAE/ASHE Standard 170-2013 
+ 
+SUPPORTING DOCUMENTS/ATTACHMENTS: 
+Ventilation Risk Assessment 

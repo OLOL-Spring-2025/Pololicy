@@ -1,0 +1,113 @@
+NSCL04 
+POLICIES AND PROCEDURES MANUAL Manual:  Nutritional Services 
+Our Lady of the Lake Regional Medical Center Chapter:  Clinical Nutrition 
+Subject:  Closed Tube Feeding and Parenteral Section:   
+Date of Origination:  July 1st, 1985 Supersedes:       
+Date Last Revised: July 2017 Serial Code:  NSCL04 
+Date Last Reviewed: July 2019 
+ 
+ENTERAL TUBE FEEDING & TOTAL PARENTERAL NUTRITION 
+ 
+ 
+ENTERAL NUTRITION 
+ 
+POLICY: 
+ 
+• The enteral tube feeding and oral supplement formulary is approved by the Pharmacy and Therapeutics 
+Committee. Changes to the formulary will be initiated by the clinical dietitians and the Clinical Nutrition 
+Manager. 
+• There is no dilution of tube feeding formulas, either in the kitchen or on the nursing unit.  Any nutritive 
+additive, such as Prostat, Nutrisource Fiber, or Juven will be purchased, stored and distributed by the 
+Food and Nutrition Services Department and administered to the patient by the nursing staff as a flush. 
+The closed enteral delivery system complies with HAACP recommendations.   
+• Registered Dietitian Nutritionists (RDN)s monitor the nutritional care of all patients receiving enteral 
+nutrition (EN). 
+• Enteral nutrition is provided to patients by Food and Nutrition Services upon receipt of a RDN* or 
+physician order. 
+*RDN may place nutrition related orders per approval of  the Medical Executive Committee as 
+outlined in Policy NSCL01. 
+ 
+PROCEDURES: 
+ 
+Physician/Registered Dietitian Nutritionist 
+• Orders EN via the Epic electronic medical record for patients who have a functional gastrointestinal tract 
+but are unable to orally meet their nutritional needs. 
+• Specifies in the patient's medical record: 
+o Name of enteral nutrition product. 
+o Rate of feeding. 
+o Feeding route (e.g., nasogastric, gastrostomy, jejunostomy, etc.). 
+o Amount of water flushes. 
+o Plan for advancement of feeding, including goal rate. 
+o Order for modular supplements (Prostat, Nutrisource Fiber, Juven) 
+ NSCL04 
+Nursing 
+• Follows hospital enteral nutrition policy regarding positioning of patient, medication administration, 
+clogged tube and tolerance monitoring.  
+• It is the responsibility of the nursing staff to store any unused tube feeding containers in the storage 
+cabinet in the nourishment room. Closed, unused tube feeding containers do not need to be refrigerated. 
+• The ready-to-feed container may hang up to 48 hours if the spike is not removed during that time.  Each 
+time a new container is hung a new spike set is used.  If a tube feeding bag is utilized, the bag must be 
+dated, timed, and replaced every 24 hours.   
+• Modular supplements are administered as a bolus for enterally fed patients. 
+ 
+Registered Dietitian Nutritionist  
+• Assesses nutritional needs of the patient, monitors tolerance and efficacy of feeding; and documents in 
+the medical record according to the established practice guidelines.  
+• Executes directive of the approved protocol when RD to implement and manage feeds is ordered. 
+• Assesses and documents the discharge needs of the patient on nutrition support and ensures a 
+coordinated discharge plan. 
+• An order for tube feeding is a  high risk trigger for a nutritional assessment, which will be completed 
+within 48 hours. 
+ 
+Food & Nutrition Services 
+• Will provide commercially prepared enteral tube feedings. The tube feedings will be stored in the Food 
+and Nutrition Services Department and distributed to the nursing units.  Tickets for tube feedings are 
+prepared by the call center office.  All tube feedings are administered by nursing staff.  A closed enteral 
+delivery system is used and ready to hang formulas are provided whenever possible.   
+• Modular supplement packages will be delivered along with the ready-to-feed formula container. 
+• The tube feeding order is received via interface from Epic to Cbord. The call center operator or Registered 
+Dietitian will review the order in Cbord and adjust for any value changes if necessary.  
+• Each morning the call center operator generates tube-feeding tickets from Cbord.  The labels provide the 
+patients name, DOB, unit/room number, and formula.  
+• Nutritional Services will check the expiration date, label and distribute a 24-hour supply of tube feedings, 
+to all nursing units with the breakfast food carts. If the tube feeding is changed or needed immediately, it 
+will be sent to the nursing unit throughout the day as needed. 
+• Tube feedings are delivered seven days a week between the hours of 6:00a.m. and 7:00p.m. After-hours 
+(after 7:00p.m.), tube feeding formulas will be available on a tube feeding cart located in Patient Care 
+Services.  
+ 
+BLUE DYE 
+ 
+Based on expert consensus from the American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) 
+February 2016 critical care guidelines, the use of blue food coloring nor any coloring agent should not be 
+used as a marker for aspiration of enteral nutrition. Nutritional Services does not carry and/or promote the 
+use of blue dye to detect risk of aspiration in enterally fed patients.  
+(Reference: McClave S, et al. Guidelines for the Provision and Assessment of Nutrition Support Therapy in 
+the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for 
+Parenteral and Enteral Nutrition (A.S.P.E.N.). Journal of Parenteral and Enteral Nutrition. 2016; 40 (2); 
+159-211.)    NSCL04 
+PARENTERAL NUTRITION: 
+ 
+POLICY: 
+Pharmacy provides all parenteral nutrition formulas.  The Registered Dietitian Nutritionist (RDN) 
+monitors the nutritional care of all patients receiving parenteral nutrition (PN) in conjunction with 
+pharmacy.  
+PROCEDURES:  
+Physician 
+• Orders to begin PN in the EMR.  
+Pharmacy  
+• Orders and prepares all parenteral formulas.  
+Registered Dietitian Nutritionist   
+• Notified via the Epic electronic medical record of all consults for new PN.  
+• Completes nutrition assessment/reassessments per Policy NSCL01.  
+• Collaborates with pharmacist on macronutrient contents of PN solution. 
+• Attends weekly nutrition support rounds with Clinical Pharmacy. 
+• Works closely with the Clinical Pharmacy team daily to monitor laboratory values, nutritional 
+and medical status.  
+• Monitors feasibility to transition to enteral or oral feedings.  
+• Conducts calorie count upon initiation of a full liquid or solid diet order.  
+Nursing  
+• Administers daily parenteral nutrition solution and monitors the patient's response to therapy.  
+• Provides catheter care according to protocol.  
+ 
+ 

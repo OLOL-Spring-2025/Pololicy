@@ -1,0 +1,66 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Perioperative Services 
+ 
+Section/Chapter: Safety/Environment 
+Endoscopy 
+Title: Disinfection, High Level Policy Reference #: SYE001 
+Supersedes #:  
+Date of Origination: 05/30/1988 Review Date: 5/30/2024 
+Revision Date: 06/19/2020 
+  
+ 
+PURPOSE: 
+To define the process for disinfecting flexible endoscopes manually or with AER (automated 
+endoscope reprocessor). 
+ 
+POLICY: 
+All endoscopes will be high level disinfected after use, either manually or with an AER. 
+ 
+PROCEDURES:  
+According to SGNA, HLD is the standard for reprocessing endoscopes. It destroys all 
+viable organisms. 
+ 
+HIGH LEVEL DISINFECTION w/ AER (automated endoscope reprocessor) 
+ 
+After all manual cleaning steps in endoscope reprocessing are completed and protein testing 
+has passed, high level disinfection will take place according to endoscope, disinfectant and 
+AER IFU’s (instructions for use). Ensure all test strips and disinfectants are labeled with 
+expiration date according to manufacturer. Maintain quality assurance for test strips. 
+ 
+MANUAL HIGH LEVEL DISINFECTION 
+ 
+This method will be utilized ONLY when AER unavailable due to breakdown or maintenance 
+by Biomed dept. or when connections to AER’s unavailable. Refer to specific manufacturers 
+IFU for different endoscope models and for high level disinfectant. 
+ 
+1. Select a basin with a lid, large enough to hold endoscope without over coiling 
+2. Prepare, test (for MEC), and monitor (temperature) of high level disinfectant per IFU. 
+3. Attach necessary accessories as needed for endoscope models as described in specific 
+manufacturers IFU. Completely immerse endoscope. Flush all channels/ports of 
+endoscope with 90mls disinfectant. Cover with lid. 
+4. Allow dwell time according HLD IFU. 
+5. Flush all channels/ports of endoscope with 90mls of air. 
+6. Remove endoscope from disinfectant and immerse in basin of water. Rinse and wipe 
+thoroughly. Flush all channels/ports of endoscope with 90mls rinse water   and 
+thoroughly dry endoscope with soft, clean, lint-free towel.  2 
+a. Flush each port/channel with 90ml 70% isopropyl alcohol followed by 90ml of air 
+via syringe. 
+b. Prepare endoscope for storage by drying with soft, clean, lint-free towel. 
+c. Record in log. 
+ 
+REFERENCES: 
+ 
+ 
+Standards of Infection Control in Reprocessing of Flexible Gastrointestinal Endoscopes, 
+Society of Gastroenterology Nurses and Associates, Inc. (SGNA), 2016 
+ 
+Medivators Advantage Plus Operations Manual 
+ 
+OER-Pro Operation Manual, Olympus Medical Systems Corp, 2012 
+ 
+Evis Exera II, Reprocessing Manual, Olympus Medical Systems Corp, 2009 
+ 
+ 

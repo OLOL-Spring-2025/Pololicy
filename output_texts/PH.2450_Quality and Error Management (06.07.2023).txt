@@ -1,0 +1,137 @@
+ 
+PH.2450_Quality & Error Management 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Quality & Error Management 
+PAGES: 
+3 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2450 (03/31/2023) 
+ORIGINAL EFFECTIVE 
+DATE: 02/07/2017 
+REVISIONS EFFECTIVE: 
+06/07/2023 
+POLICY NUMBER:  
+PH.2450 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy assures that all errors are reported and resolved appropriately.  
+POLICY: 
+A. Quality Assurance in pharmacy services is essential. The pharmacist is often viewed as the “safety net” in the 
+healthcare delivery system, responsible for ensuring that the right patient receives the right drug in the right dose at 
+the right time. While pharmacy staff makes every effort to prevent dispensing errors, it is recognized that some 
+small number of such errors may occur from time to time.  In order to minimize the risk of orders each new order 
+is entered by a technician and reviewed by a pharmacist after order entry. In the event a pharmacist enters the 
+order, a second pharmacist will review the order. This helps to ensure that orders are complete and accurate. 
+Pharmacy dispensing errors may be serious and have significant adverse effects on treatment outcomes and overall 
+health.  
+B. In order to minimize the risk of dispensing errors and address the rare occurrence of an actual error, all employees 
+must adhere to the following procedures.  
+DEFINITIONS: 
+N/A 
+PROCEDURE: 
+A. Patient Identification [ACHC Standard DRX7-21A] 
+When speaking with patients, pharmacy personnel will attempt to use three means by which to verify the 
+pat
+ient's identity.  The first will always be patient name, asking the patient by name to verify identity. 
+Additionally, pharmacy personnel will request a date of birth and address.  
+B. New and Refill Prescriptions  
+1. Verbal orders will be immediately reduced to writing and reviewed for accuracy before they are entered into 
+pharmacy software.  A pharmacist will review all of this information to ensure its accuracy and place their 
+initials on the written order form to indicate that they have done so. 
+2. Should the pharmacist detect an error, the prescription process will stop.  The order will be immediately 
+placed in the pharmacy dispensing software error resolution queue and will be reprocessed and resubmitted 
+for pharmacist review.  
+C. Reported and/or Detected Errors  
+1. Should a patient report an error or an employee detect an error, this issue will receive the highest priority level 
+until resolved. The pharmacist will immediately take steps to determine why and how this error occurred and 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+6/7/2023 1:28 PM 
+ 
+ 
+PH.2450_Quality & Error Management 
+2 
+whether or not other errors may have resulted as well.  Errors that are essentially clerical (such as number of 
+tablets dispensed, etc.) may be resolved quickly and usually without further incident.  Errors in which the 
+wrong drug or dosage have been dispensed should be given the highest level of priority and investigated by 
+the pharmacist.  Employees should be notified of their error and if necessary, the event should be documented 
+in their personnel record.  The pharmacist is responsible for evaluating the level of risk, determining need to 
+notify patient and mitigating, addressing or rectifying any damages that may have occurred. This may include 
+notifying the prescriber of the event and recommending that the patient seek medical attention.  
+2. The Pharmacist In Charge is made aware of dispensing errors immediately upon detection and will work with 
+pharmacist and technicians to revise practices that might allow further errors to occur. 
+3. A complaint form is completed, and the error is documented in the pharmacy complaint log by pharmacies 
+listed with NCPDP as specialty pharmacy providers.  Pharmacies not listed as specialty pharmacy providers 
+will not maintain a separate complaint log. All pharmacies will submit errors through the health system 
+electronic reporting tool (RLDatix). The error is taken through the error resolution process and the manager 
+has to do a follow up.  All information on the complaint log is reviewed by the Quality Management 
+Committee (QMC) during each quarterly meeting.  During the review and analysis of the complaint log, 
+which includes prescription related dispensing errors, the QMC may find an increase in a certain type of error 
+and determine that further action needs to be taken to reduce that type of error.  Actions that could be taken 
+are Quality Improvement Projects (QIPs) or corrective action plans.  If a QIP is recommended, the QMC will 
+take a vote to approve the QIP before it can begin, and this will be documented in the QMC meeting minutes 
+4. If a dispensing error or an error of clinical significance, which is an error that results in delays or necessitates 
+a change in treatment, is discovered prior to notification of the error from a patient/caregiver or prescriber, a 
+pharmacist will contact the patient/caregiver or prescriber to disclose the error within 1 business day. The 
+pharmacist will request that the medication dispensed be returned to the pharmacy and the pharmacist or 
+pharm tech will process a new order for the patient. If the patient is at risk of missing a dose of medication 
+due to the dispensing error, the pharmacy will expedite delivery if possible or find a local pharmacy with the 
+medication in stock that will be able to dispense the medication for the patient to ensure that patient does not 
+miss a dose. The pharmacy will also reach out to the prescriber, patient and/or caregiver when warranted to 
+discuss other potential patient safety events.   
+a. Potential patient safety events, such as a contraindication or drug recall, new FDA and/or 
+manufacturer requirements, restrictions and/or guidelines, are communicated to patients, prescribers, 
+and/or other pharmacies, as appropriate.  A pharmacist will communicate this information within one 
+(1) business day by one of the following methods: telephone, email, or direct message within the 
+electronic medical record (EMR). [URAC P-OPS 5-3 (a, b)] 
+5. If a dispensing error is detected prior to the final check by the pharmacist, this is considered an internal error 
+or a “near miss.” 
+a. The pharmacist who discovers the near miss will immediately correct the prescription. 
+b. Near misses are documented and tracked. 
+c. The pharmacist will make the pharmacy manager aware of the near miss. 
+d. Education will be provided to the employee who made the error, and the pharmacy manager will 
+work with the pharmacists and technicians to revise practices that might allow further errors to occur. 
+D. The pharmacy maintains a quality management program that includes, but is not limited to a mechanism to 
+identify, address and resolve quality problems related to dispensing and distribution, medication safety, drug 
+inventory management, customer service, and clinical pharmacy services. Quality improvement activities include a 
+mechanism to report and track adverse events or errors, root cause analysis, trend analysis, and report of findings 
+to the Quality Management Committee. The Pharmacy’s quality management program includes identification of 
+opportunities for real time, measured improvement in areas of core competencies of dispensing and delivery of 
+specialty drugs, including demonstrated ties between findings and implementation of corrective measures as they 
+relate to staff orientation and training and policies and procedures.  
+E. Summary report of errors and analysis with appropriate follow-up (corrective action if indicated) will be submitted 
+to the Quality Management Committee on a quarterly basis which include reports on the following:  
+1. Proactive Risk Assessment  
+2. Tracking of errors  
+3. Reporting of errors to internal and external entities as appropriate  
+a. Errors are reported internally to the Quality Management Committee   
+PH.2450_Quality & Error Management 
+3 
+b. Errors can be reported externally if requested by payers.  
+c. Analysis of error data  
+4. The pharmacy will collaborate with the Pharmacy Benefit Manager to conduct quality management initiatives 
+as identified.  
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• ACHC Standards: DRX7-21A, DRX6-1A, DRX6-3F, DRX5-18B 
+• URAC Standards: P-OPS 5-3 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

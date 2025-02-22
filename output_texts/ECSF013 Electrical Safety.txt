@@ -1,0 +1,131 @@
+ ECSF013 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Environment of Care Section: Safety Management 
+Title: Electrical Equipment  
+Policy 
+Reference #: ECSF013 
+Supersedes #:  
+Date of Origination: 05/08/2018 Review Date: 08/18/2021 
+Revision Date: 02/18/2020 
+ 
+PURPOSE: 
+Our Lady of the Lake Regional Medical Center (OLOL) is committed to providing a safe and healthy 
+work environment and to protecting staff from injury or death caused by uncontrolled electrical hazards 
+at all locations where OLOL operates. 
+ 
+POLICY: 
+Because of safety and insurance regulations, it is necessary to manage the use of personally owned 
+electrical equipment being brought into OLOL.  
+1. All electrical equipment brought into any OLOL location for personal or professional non-
+medical use and not property of OLOL, must primarily be approved for use by department 
+leadership.   
+2. Department leadership is responsible to visually inspect equipment periodically and to consult 
+Biomedical Engineering (Biomed) and/or Plant Services, if needed. 
+3. Equipment owner is responsible for any needed repairs and product replacement. 
+ 
+PROCEDURES: 
+ 
+General 
+1. All electrical equipment will have the manufacturer’s name or trademark.  The equipment will 
+also have its operating voltage, current, wattage or other rating clearly marked on it. 
+2. Patients are permitted to use no more devices than can be accommodated by existing power 
+outlets. 
+3. All equipment is UL approved for the use for which it is designed. 
+ 
+Portable Space Heaters 
+1. Personal portable electric space heaters are not allowed in healthcare occupancies accredited by 
+the Joint Commission.  Exceptions to this rule is allowed if all the following are done: 
+a. Must be approved by area leadership 
+b. Must be owned and maintained by OLOL and/or OLOL facility  
+i. The following safety criteria must be met, and operational safety precautions must 
+be followed: 
+▪ The equipment is UL approved for the use for which it is designed. 
+▪ The equipment has a sealed element, and does not produce any flames, fumes, 
+or use any fuel.  ECSF013 
+Page 2 of 3 
+▪ The equipment is equipped to turn off automatically when tilted or turned 
+over. 
+▪ The heating elements cannot exceed 212 degrees Fahrenheit. 
+c. Must be used as a temporary measure  
+d. The user of the heater is ultimately responsible for any hazard or fire code violation 
+created as a result of unauthorized or inappropriate use. Compliance with the following 
+operational safety precautions is required: 
+i. Always maintain a minimum clearance of three feet between materials and the 
+heating device. 
+ii. Never leave the heating unit “ON” when unattended. 
+iii. Plug the heating unit directly into an outlet with enough capacity. 
+iv. Never use an extension cord or power strip with heater because it may overheat 
+and cause a risk of fire.  
+v. Check the heating unit before each use to make sure that all indicator lights are 
+working.  Remove the defective unit from service immediately. 
+vi. Ensure that the power cord is properly plugged in and is not damaged, or crushed 
+by objects, or covered under carpet or rug. 
+ 
+Electric skillets 
+1. Electric skillets are prohibited. 
+ 
+Toasters and Toaster Ovens 
+1. Toasters and Toaster Ovens are prohibited in healthcare occupancies except for designated areas 
+such as the cafeteria. 
+ 
+Lockout/Tagout 
+1. Qualified employees will use lockout/tagout procedures on all electrical equipment while 
+completing maintenance work. Lockout/tagout procedures are found in OLOL’s Lockout/Tagout 
+Policy. If the equipment cannot be deenergized because it would introduce an additional or 
+increased hazard, or it is infeasible due to the design or its operational limitations (i.e. emergency 
+alarm systems), OLOL will hire a qualified electrical contractor to perform the work.  
+ 
+Department Responsibilities 
+1. Each department is responsible to identify types of non-patient care equipment that may pose an 
+electrical hazard during intended use.  If there is any question as to the safety of the equipment, 
+Biomed should be consulted. 
+ 
+2. Each department is to ensure that all electrical equipment in their department is safe for use. 
+ 
+Extension Cords, Power Strips, and Multi-Outlet Adapters 
+1. Employees must be aware of the hazards associated with the misuse of extension cords and 
+relocatable power taps (RPT)s and power strips. Extension cords are prohibited except for 
+emergency situations where either Biomed or Plant Services has approved the device for 
+temporary use.   
+  ECSF013 
+Page 3 of 3 
+2. All power strips must be UL listed and used according to the manufacture’s guidelines.  
+Relocatable Power Taps (RPT)s may be used for non-patient care equipment such as 
+computers/monitors/printers, and in areas such as waiting rooms, offices, nurse stations, support 
+areas, corridors, etc.  
+ 
+3. Precautions needed if RPTs are used include:  
+• ensuring they are never “daisy-chained” 
+• preventing cords from becoming tripping hazards 
+• installing internal ground fault and over-current protection devices 
+– using power strips that are adequate for the number and types of devices used  
+ 
+4. Multi-Outlet Adapters are prohibited. 
+ 
+RPT Requirements in Patient Care Areas 
+1. Power strips may be used in a patient care vicinity to power rack-, table-, pedestal-or cart-
+mounted patient care-related electrical equipment assemblies, provided all the following 
+conditions are met:  
+• The receptacles are permanently attached to the equipment assembly  
+• The sum of the ampacity of all appliances connected to the receptacles shall not exceed 75 
+percent of the ampacity of the flexible cord supplying the receptacles 
+• The ampacity of the flexible cord is suitable in accordance with the current edition of NFPA 
+70, National Electric Code.  
+• The electrical and mechanical integrity of the assembly is regularly verified and documented 
+through an ongoing maintenance program 
+ 
+2. Power strips providing power to rack-, table-, pedestal-, or cart-mounted patient care-related 
+electrical equipment assemblies are not required to be an integral component of manufacturer 
+tested equipment.  
+ 
+3. Power strips may be permanently attached to mounted equipment assemblies by personnel who 
+are qualified to ensure compliance. 
+ 
+REFERENCES: 
+National Fire Protection Association 99-2012, Healthcare Facilities Code, Chapter 10 Electrical 
+Equipment 
+National Fire Protection Association 70-2011, National Electric Code 
+Joint Commission, Environment of Care.02.04.03, Element of Performance 27 
+ 
+ 

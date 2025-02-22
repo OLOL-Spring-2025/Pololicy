@@ -1,0 +1,123 @@
+OO-GN-024 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: Operational 
+Title: 
+Correcting Patient Medical Record 
+Number When Existing Patient Medical 
+Record Number has been Inadvertently 
+Assigned 
+Policy 
+Reference #: OrgOps-GN-024 
+Supersedes #:  
+Date of Origination: March 29, 2004 Review Date: May 1, 2024 
+Revision Date: December 28, 2017 
+ 
+PURPOSE: 
+To outline the procedures for correcting the medical record and billing when an existing medical record 
+number is inadvertently assigned to another patient 
+ 
+POLICY:  
+It is the policy of Our Lady of the Lake Regional Medical Center (OLOLRMC), to assign an appropriate 
+medical record number to a patient at the time of admissions.  If a n existing patient’s medical record 
+number is inadvertently assigned to another patient, OLOLRMC will promptly notify appropriate 
+personnel and will correct the medical record and billing information as outlined below. 
+ 
+PROCEDURES: 
+ 
+1. When a Patient Access Representative identifies or is notified that a patient has been admitted using 
+another person’s medical record number, the Patient Access Representative will immediately notify 
+the Nurse Manager of the appropriate unit and the Patient Access Supervisor/Manager. 
+ 
+2. The Patient Access Representative will correctly register the patient and print new face sheets.  The 
+new face sheets will be delivered to the patient care unit .  The old face sheet and all copies will be 
+destroyed by the Patient Access staff. 
+ 
+3. The Patient Access Representatives will correct the system by utilizing the Dismiss Function in the 
+electronic medical record for the incorrect account. 
+ 
+4. The Patient Access Supervisor/Manager will immediately notify the following departments of the 
+situation in order for each area to make any necessary corrections: Radiology, Lab, Respiratory 
+Therapy, Nuclear Medicine; Physical Medicine, HIM, Pharmacy, Business Office, Patient Care 
+Services, and Emergency Department. 
+ 
+5. The Patient Access Supervisor will complete a Safety Event Report within 1 hour and forward to 
+the Director of Patient Access who will forward to Risk Management. 
+ 
+6. The Director of Risk Management and  the Director of Patient Access  will determine if patient 
+notification is necessary 
+ OO-GN-024 
+Page 2 of 3 
+7. The Director  of Patient Access will notify all appropriate physicians (including hospital -based 
+physicians, attending and consulting physicians) of the situation. 
+ 
+If the patient is currently receiving treatment or has not been discharged f rom the hospital when 
+the error is found, the following will occur: 
+ 
+1.  The nursing unit will print “Current Order Summary” from the incorrect medical record and use 
+it to enter orders on the correct medical record. 
+ 
+2. Once the “Current Order Summary” has been printed from the incorrect medical record, nursing 
+will discontinue orders on the incorrect medical record. 
+ 
+3. The nursing unit will p rint “P atient Care N otes” from the incorrect medical record, from the 
+admit date to present and place in correct medical record. 
+ 
+4. The Patient Access Representative will submit a “Chart Correct Request” within EPIC. 
+ 
+5. The Patient Access Representative  will be responsible  for placing correct labels on the 
+manual/printed documentation. 
+ 
+6. The nursing unit will unchart  electronic documentation from  the incorrect medical record 
+including I&O and Allergy .  Allergy, height and weight will be charted on the correct medical 
+record. If unable to unchart electronically, contact the Help Desk and request that the CIS analyst 
+on call unlock the record.  This will occur if the standard time frame for adding data to a record 
+has been exceeded. 
+ 
+7.  Each area will be notified to electronically unchart from the incorrect medical record into the 
+correct medical record. If electronic uncharting is not accessible  contact the Help Desk and 
+request the CIS analyst on call to unlock the record.  This will occur if the standard time frame 
+for adding data has been exceeded. 
+ 
+8. The Business Office will move all charges to the correct record. 
+ 
+9. The Director of Patient Access will follow-up with the Nurse Manager of the unit on which the 
+patient is currently located. 
+ 
+10. When each area has completed their responsibilities they will e -mail the Director of Patient 
+Access and advise that the records are complete. 
+ 
+If patient has been discharged from the hospital when error is found the same steps 1 -6 will be 
+followed: 
+  
+1. The Director of Patient Access  will notify Radiology, Lab, Respiratory Therapy, Nuclear 
+Medicine, Physical Medicine, HIM, Pharmacy, Business Office, Patient Care Service, and 
+Emergency Department, to have them unchart on the incorrect medical record and chart of the 
+correct medical record, as stated above. OO-GN-024 
+Page 3 of 3 
+ 
+2. The Patient Access Representative  will contact HIM f or a hard copy of the incorrect medical 
+record and place correct labels on all documentation. 
+ 
+3. The Patient Access Representative will return the file to HIM to re-scan the information. 
+ 
+4. All areas will notify the Director of Patient Access when completed. 
+ 
+The notification list will be as follows:  
+▪ Radiology/Nuclear Medicine 
+▪ Lab 
+▪ Pharmacy 
+▪ Respiratory Therapy 
+▪ Physical Medicine 
+▪ HIM 
+▪ Business Office 
+▪ Patient Care Services 
+▪ Nurse Manager of unit patient is located 
+▪ Emergency Room 
+▪ Wound Care 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,145 @@
+                      NMA-021 
+   Page 1 of 4 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Medication 
+Administration 
+Title: Epidural and Intrathecal Infusion for Pain 
+Management 
+Policy Reference #: NMA-021 
+Supersedes #: NIV-019 
+Date of Origination: November, 1988 Last Review Date:  March 4, 2024 
+Last Revision Date: January 10, 2022 
+ 
+PURPOSE 
+This policy is to ensure that Epidural/Intrathecal medications are administered in a safe, effective, 
+secured and controlled manner by physicians, pharmacy and nursing. 
+ 
+POLICY 
+A. Medications for the management of pain may be administered via Epidural/Intrathecal Pump. This 
+technique permits a continuous programmed dose of narcotics and local anesthetics to help alleviate 
+pain. Medications are administered through an epidural or intrathecal line placed by a physician. 
+B. All Nurses monitor the effectiveness of medications administered by the epidural/intrathecal 
+implantable pump 
+C. An IV access must be maintained at all times during Epidural/Intrathecal therapy. 
+ 
+Intrathecal Pump  
+A. Physicians will fill and maintain Intrathecal/Epidural Implantable Pump 
+1. Reservoir medication dispensed by pharmacy 
+2. Pump settings are managed and programmed by physician 
+B. If patient requires a refill during hospitalization, the physician will address needs and/or contact pain 
+management physician.  
+C.  All Intrathecal medications must be labeled “Preservative free” or “For intrathecal use only”. 
+ 
+Epidural Pump 
+ 
+A. Epidural orders must be obtained from the physician. The route, dose, and drug must be specified in 
+the orders. 
+B. Registered Nurses (RN) may initiate, program, change parameters, change bags, change tubing, and 
+administer bolus doses via the pump. 
+C. Licensed Practical Nurses (LPN) may verify parameters, verify bolus doses and witness wastes.  
+D. Two nurses must verify a narcotic count and pump program, and document such in the patient’s 
+electronic medical record (EMR), at the following times:                        NMA-021 
+   Page 2 of 4 
+a. Initiation of therapy* 
+b. Change in therapy (programming the pump) * 
+c. Bag or syringe change 
+d. Change in caregiver (this includes shift change) 
+   *One must be a registered nurse. 
+E. Epidural medication bags must be changed every 24 hours.  Tubing must be changed every 96 hours 
+and/or with any change in medication type or concentration 
+ 
+PROCEDURES / GUIDELINES 
+Epidural Pump Initiation 
+1. Epidural pump can be ordered/obtained through central supply.  
+2. Premixed bags of narcotics are stored on high-use units; for other units, pharmacy will provide 
+medication on request.  
+3. Tubing must be obtained from central supply. 
+4. For pump loading, priming and programming, refer to manufacturer user’s manual. 
+ 
+ 
+Patient Education (Both Epidural and Intrathecal Pump) 
+1. Prior to the initiation of the Epidural/Intrathecal pump therapy, educate the patient and the family 
+regarding the purpose and use of the device 
+2. Minimal education requirements include: 
+a. Medication type 
+b. Dosage     
+c. Rate type—Continuous (basal) and/or patient-controlled 
+d. Signs and symptoms of over sedation 
+3. If the Epidural/Intrathecal pump therapy is initiated in PACU and patient/family education has 
+begun, the nurses on the receiving unit will reinforce instructions to the patient/family as needed.  
+4. Patient Education will be documented in the patient’s EMR.  
+ 
+Documentation 
+1. A new bag (or refill) must be scanned and recorded on medication administration record (EMAR) as 
+“Begin Bag”. 
+2. The nurse must document the initiation of epidural/intrathecal therapy or a change in medication or 
+therapy in the patient’s EMR. 
+3. Document the route, the bag #, drug name/concentration, rate and loading doses if ordered.  
+4. Verify the order and co-sign with another nurse where indicated. 
+5. For Epidural therapy only: 
+a. Upon initiation of Epidural, the nurse shall document the following components in 
+the patient’s EMR:                        NMA-021 
+   Page 3 of 4 
+1. Pain assessment 
+2. Epidural settings (witness must verify settings) 
+a. Medication 
+b. Concentration 
+c. Rate 
+d. Sedation 
+3. Sedation Scale: Pasero Opioid-induced Sedation Scale (POSS) 
+4. Respiratory Status: Rate, depth, effort and breath sounds 
+5. Oxygen Saturation (SpO2) 
+b. Routine patient monitoring, including vital signs, pain and sedation scales, 
+respiratory status and SpO2, shall be documented at the following intervals: 
+1. Every hour for the first four hours of therapy 
+2. Then every 4 hours 
+c. For a dose change or bolus, two nurses, one being an RN, will review the physician 
+order, change the program on the pump, and document the new settings to include 
+the witness verification in the EMR. Routine patient monitoring and documentation 
+are to be resumed every hour for 4 hours, then every 4 hours. 
+d. At each hand-off, two nurses, one being an RN, must verify and document settings 
+and volume remaining, to include electronic documentation of a witness. 
+e. When the bag is changed, the RN and a witness verify and document the new 
+medication being hung, the pump settings, and volume remaining. Verification by 
+the witness is documented in the EMR.  
+f. In the event of patient deterioration (adverse change in sedation score), the 
+frequency of patient monitoring shall be increased to: 
+1. Every 15 minutes for the next hour 
+2. Every hour for the next 4 hours 
+3. Then every 4 hours if stable  
+ 
+Discontinuing Pump 
+1. Only a physician may remove the Epidural/Intrathecal catheter. The nurse may stop the pump; but 
+the tubing must remain intact until the physician arrives. 
+2. Once removed by the physician, the pump will be disconnected from the catheter.  
+3. The nurse will verify that all history has been recorded in the EMR, including the current hour’s 
+therapy. 
+4. Remove the bag and the tubing from the pump (refer to manufacture’s manual). 
+5. Withdraw the remaining medication and waste with another nurse.  Document the waste in the EMR. 
+6. If there is a discrepancy of more than 10 ml between the volume remaining as noted in the                       NMA-021 
+   Page 4 of 4 
+documentation and the actual amount wasted, notify the charge nurse, and follow hospital policy for 
+narcotic discrepancy.  
+7. Return pump to decontamination  
+ 
+ 
+Patient Undergoing Surgery with Epidural/Intrathecal Pump Therapy 
+1. Pumps will not be stopped before a patient is received in pre-op. 
+2. The pump will be stopped in pre-op, if the physician desires. 
+3. The pump can be placed in the off mode for surgical intervention. 
+4. The OR circulator will be responsible for the pump during surgery, and will notify the PACU nurse 
+of its status when he/she transports the patient to PACU. 
+5. The pump is not to be disconnected from the Epidural/Intrathecal catheter. 
+6. If Epidural/Intrathecal therapy is to be restarted, the PACU nurse would restart the same pump at 
+that time. 
+ 
+ 
+REFERENCES 
+ 
+American Society of Anesthesiologists. (2023). Statement on the role of registered nurses in the 
+management of continuous regional analgesia. Committee on Pain Medicine. 
+ 
+Pasero, C., & McCaffery, M. (2011). Pain assessment and pharmacologic management. St. Louis: 
+Mosby. 
+Refer to facility designated on-line clinical reference 
+ 

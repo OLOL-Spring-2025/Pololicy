@@ -1,0 +1,42 @@
+ 
+Plant Services 
+ 
+ PS016 
+Page 1 of 1 
+Title: Electrical Distribution Equipment  
+Revision Date: 05/15/2024 
+Review Date: 09/28/2021 
+Reference # PS016 Origin Date: April 1988 
+ 
+PURPOSE: 
+Our Lady of the Lake  Regional Medical Center (OLOL)  shall evaluate all major components for the 
+electrical distribution system for installation, operation, and reliability. 
+ 
+PROCEDURES: 
+An annual panel survey shall be performed by a qualified electrician to measure and records the 
+following information on each component: 
+1. Phase voltage amplitude 
+2. Phase current magnitude 
+3. Phase current balance 
+4. Neutral current magnitude 
+5. Ground current magnitude 
+6. Main lug temperature  
+7. Branch circuit breaker temperature 
+8. Infrared Imaging 
+9. Torque connections (If deenergized) 
+10. Enclosure operation and function  
+11. Panel schedule accuracy 
+12. Ultrasonic inspection of all connection points & breakers. 
+ 
+Visual Inspection to check for code compliance and damage. 
+ 
+In addition, an overall visual inspection will be performed by the team performing the analysis. 
+Corrections shall be made at the time of the inspection any deficiencies revealed during analysis. 
+ 
+All reports shall be forwarded for review by a licensed electrical engineer. Compete reports will be 
+submitted to the hospital at his time along with any recommendations or necessary changes for the 
+continued safety and reliability of the electrical distribution system. 
+ 
+REFERENCES: 
+National Fire Protection Association 70, National Electric Code 
+ 

@@ -1,0 +1,119 @@
+ 1 
+Policies and Procedures Manual Manual:  Infection Control 
+Our Lady of the Lake Regional Medical Center Chapter: II 
+Subject:  Hand Washing/Hand Hygiene/CDC Guidelines Section:  
+Date of Origination:   Supersedes:  
+Date of Last Revision: April 20, 2021 Serial Code: IC2005 
+Date of Last Review: March 31, 2024 
+______________________________________________________________________ 
+ 
+PURPOSE: To state the rationale and reason for hand hygiene using CDC Guidelines. 
+ 
+POLICY: 
+1. All healthcare workers (HCW) will be expected to use appropriate hand hygiene techniques before and 
+after patient care and after attending to their personal hygiene. 
+ 
+2. Hand hygiene is the single most important means of preventing the spread of infection. 
+ 
+3.   Alcohol hand sanitizer with 60% alcohol kills 90% of the bacteria/virus on a HCW hands.  This is the 
+preferred method of hand hygiene by CDC. Alcohol hand sanitizer is only to be used if t he HCW 
+hands are not visi bly soiled.  Alcohol hand sanitizer should not be used by HCW if a patient has 
+suspected or confirmed Clostridioides difficile, norovirus, or Bacillus anthracis. 
+ 
+4. Employees should utilize the hand hygiene products as provided by the Medical Center and not allow 
+personal substitutes at their discretion. 
+ 
+Handwashing Agents:  
+Products used for hand washing will be approved by Infection Prevention and Control and manufacturers' 
+recommendations for use are to be followed. 
+ 
+PROCEDURE 
+A.   Hand-hygiene techniques  
+1. When performing hand hygiene with an alcohol-based hand rub, apply product to palm of one 
+hand and rub hands together, covering all surfaces of hands and fingers, until the product has 
+dried. Follow the manufacturer's recommendations regarding the volume of product to use.  
+2. When washing hands with soap and water, wet hands first with water, apply the recommended 
+amount of product to hands, and rub hands together vigorously for at least 15 seconds, covering 
+all surfaces of the hands and fingers. Rinse hands with water and dry thoroughly with a 
+disposable towel. Use the towel to turn off the faucet, then throw the paper towel away.  Avoid 
+using hot water; repeated exposure to hot water may increase the risk of dermatitis. 
+B. Indications for hand hygiene     
+1. Hand washing is essential when hands are visibly dirty or contaminated with material, are 
+visibly soiled with blood or other body fluids, and if the patient has diarrhea.  Wash hands with 
+soap and water following the above technique.  2 
+2. Wash hands with soap and water before eating and after using the restroom. 
+3. Wash hands with soap and water if Clostridioides difficile, norovirus or Bacillus anthracis  is 
+suspected or confirmed. The physical action of washing and rinsing hands under such 
+circumstances is recommended because alcohols, chlorhexidine, iodophors, and other antiseptic 
+agents have poor activity against spores.  
+4. If hands are not visibly soiled, use an alcohol-based hand rub for routine hand hygiene. 
+5. Perform hand hygiene before having direct contact with the patient or the patient’s environment; 
+before donning sterile gloves when inserting a central intravascular catheter; before inserting 
+indwelling urinary catheters, peripheral vascular catheters, or other invasive devices that do not 
+require a surgical procedure; after contact with a patient’s intact skin (e.g., when taking vital 
+signs or lifting a patient); if moving from a contaminated body site to a clean body site; after 
+contact with objects and surfaces (including medical equipment) in the immediate vicinity of the 
+patient; and after removing gloves. 
+ 
+6. In the event of interruption of water supply, alternative agents such as detergent -containing 
+towelettes and alcohol-based hand rubs will be made available. 
+ 
+7. Products used for hand hygiene should be chosen by persons knowledgeable about the purpose 
+of use, the advantages and disadvantages, cost, and acceptance of the product by users. 
+ 
+8. Routine use of hexachlorophene is not recommended. 
+ 
+C. Surgical hand antisepsis  
+Refer to Surgical Services Policy SOS030, "Surgical Hand Scrub". 
+ 
+ 
+D. Other aspects of hand care and protection  
+1. Glove use 
+a. Gloves should be used as an adjunct to and not a substitute for hand washing. 
+b. Gloves should be used for hand -contaminating activities.  Gloves should be removed, and 
+hands washed when such activity is completed, when the integrity of the gloves is in doubt, 
+and between patients.  Gloves may need to be changed during the care of a single patient  if 
+moving from a contaminated body site to a clean body site. 
+c. Disposable gloves should be used only once and should not be washed or sanitized for reuse. 
+ 
+2. Condition of nails and hands 
+a. Nails should be short enough to allow the individual to thoroughly clean underneath them 
+and not cause glove tears. 
+b. The hands, including the nails and surrounding tissue, should be inflammation free. 
+c.   Refer to Infection Control Policy, IC2005a “Artificial Finger Nails” , regarding the use of 
+artificial nail enhancements. 
+3. Lotion  3 
+a. Non-petroleum-based lotions may be used to prevent skin dryness associated with hand 
+washing.  HCW are encouraged to use the hospital lotions placed in the nursing stations. 
+b. If used, lotion should be supplied in small, individual -use or pump dispenser containers that 
+are not refilled. 
+c. Compatibility between lotion and antiseptic products and the effect of petroleum or other oil 
+emollients on the integrity of gloves should be considered at the time of product selection. 
+4. Dispensing of hand care products 
+a. Liquid products should be stored in closed containers. 
+b. Disposable containers should be used.  
+c. There should be a routine mechanism to ensure that soap and towel dispenser function 
+properly and are adequately supplied. 
+5. Drying of hands 
+a. Cloth towels, hanging or roll type, are not recommended for use in health care facilities. 
+b. Paper towels or hand blowers should be within easy reach of the sink but beyond splash 
+contamination. 
+c. Lever-operated towel dispensers should be activated before beginning hand  washing.  Hand 
+blowers should be activated with the elbow. 
+6. Behavior and compliance   
+Efforts to improve hand washing practice should be multifaceted and should include continuing 
+education and feedback to staff on behavior or infection surveillance data.  Unit , clinical, and 
+administrative staff should be involved in the planning and implementation of strategies to 
+improve compliance and handwashing. 
+ 
+ 
+REFERENCES: 
+Guideline for Hand Hygiene in Health-Care Settings, Recommendations of the Healthcare Infection 
+Control Practice Advisory Committee and the HICPAC/SHEA/APIC/IDSA Hand Hygiene Task Force, 
+MMWR October 25, 2002/Vol 51/No. RR16/pages 1-44. https://www.cdc.gov/mmwr/PDF/rr/rr5116.pdf  
+ 
+APIC guideline for handwashing and hand antisepsis in health care settings, by Elaine L. Larson, RN, PhD, 
+FAAN, CIC. 
+ 
+SHEA/IDSA/APIC Practice Recommendation: Strategies to prevent healthcare -associated infections 
+through hand hygiene: 2022 Update, by Janet B. Glowicz, et al. 

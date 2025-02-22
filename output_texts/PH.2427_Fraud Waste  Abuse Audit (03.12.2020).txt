@@ -1,0 +1,280 @@
+ 
+PH.2427_Fraud Waste & Abuse Audits 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Fraud Waste & Abuse Audits 
+PAGES: 
+6 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2427 (05/22/2018) 
+ORIGINAL EFFECTIVE 
+DATE:  02/07/2017   
+REVISIONS EFFECTIVE: 
+03/12/2020 
+POLICY NUMBER:  
+PH.2427 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy assures that the compliance program addresses fraud, waste and abuse as appropriate to the organization. 
+POLICY: 
+Fraud Waste and Abuse Audits are performed monthly to ensure claims are correctly being processed and that the 
+pharmacy is in compliance with all requirements. 
+ 
+Results of Fraud Waste and Abuse Audits Shall be reported on a quarterly basis to the Quality Management Committee 
+by the pharmacy manager. 
+ 
+DEFINITIONS: 
+Fraud is generally defined as knowingly and willfully executing, or attempting to execute, a scheme or artifice to 
+defraud any health care benefit program or to obtain (by means of false or fraudulent pretenses representations, or 
+promises) any of the money or property owned by, or under the custody or control of, any health care benefit program. 
+(18 U.S.C. § 1347) 
+  
+Waste is overutilization of services or other practices that, directly or indirectly, result in unnecessary costs to the 
+health care system, including the Medicare and Medicaid programs. It is not generally considered to be caused by 
+criminally negligent actions, but by the misuse of resources. 
+ 
+Abuse includes any action(s) that may, directly or indirectly, result in one or more of the following:  
+• Unnecessary costs to the health care system, including the Medicare and Medicaid programs 
+• Improper payment for services 
+• Payment for services that fail to meet professionally recognized standards of care 
+• Services that are medically unnecessary 
+ 
+Abuse involves payment for items or services when there is no legal entitlement to that payment and the entity 
+supporting Humana (e.g. health care provider or supplier) has not knowingly and/or intentionally misrepresented 
+facts to obtain payment. 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+3/12/2020 7:11 PM 
+ 
+ 
+PH.2427_Fraud Waste & Abuse Audits 
+2 
+ 
+Abuse cannot always be easily identified, because what is “abuse” versus “fraud” depends on specific facts and 
+circumstances, intent, and prior knowledge, and available evidence, among other factors. 
+ 
+PROCEDURE: 
+A. Pharmacists advise patients and health care providers on the selection, dosages, interactions, and side 
+effects of medications, and act as a learned intermediary between a prescriber and a patient to ensure the 
+safe and effective use of medication. 
+1. Audits are performed monthly  
+a. All pharmacy staff are responsible for following compliance requirements  
+2. Pharmacy Compliance Rating Legend: 
+a. Excellent - the site’s overall score >=90% and zero non-compliant issues of high or very 
+high risk. 
+b. Good - the site’s overall score >=80% and no more than one non-compliant issues of 
+high or very high risk. 
+c. Fair - the site’s overall score >=70% and no more than three non-compliant issues of 
+high or very high risk. 
+d. Poor – the site’s overall score >=60% and no more than five non-compliant issues of 
+high or very high risk 
+e. Unacceptable – the site’s overall score is <60% or there are more than five non-
+compliant issues of high or very high risk. 
+ 
+3. Audits conducted in the pharmacy will follow the following procedures. 
+a. Claims will be adequately supported 
+(1) Select a sample of at least 5% of monthly transactions and test to determine the 
+prescription (Rx) is on file; and 
+(2) The following information from the pharmacy operating system matches to the 
+Rx. 
+b. If refill transaction, trace to original script: 
+(1) Patient name 
+(2) Drug name  
+(3) Primary Price Plan  
+(4) Secondary/Tertiary Price Plan (if applicable)  
+(5) Patient Group  
+(6) Quantity  
+(7) Day supply 
+(8) Number of refills  
+(9) Dosage  
+(10) Origin Code 
+(11) Place of Service Code  
+(12) Physician signature is on Rx unless phone-in which requires pharmacist (or tech 
+if allowed by state law) initials 
+(13) Number of refills was not exceeded  
+(14) Refill was less than one (1) year from original date (can remedy with signed 
+physician statement).  
+(15) Signature was POS, Will Call (signature center) report, or on signed delivery 
+receipt (can remedy with signed patient statement) 
+c. Test 5% of monthly transactions only to verify date dispensed coincides with signature 
+log. 
+ 
+(1) Hardcopy requirements: Original Rx on file for Schedule II's                                           
+PH.2427_Fraud Waste & Abuse Audits 
+3 
+(2) Medicare part B prescriptions require faxed or original prescriber signatures.                                  
+(3) Medicare part B requires Oncology RXs have the diagnosis code on face of 
+hardcopy. 
+d. Monthly reports will be generated and audited to ensure that all patients provided 
+medications assistance are eligible for the programs from which the assistance was 
+provided.  This includes but not limited to: 
+(1) Medicaid 
+(2) Ryan White funded assistance 
+(3) 340B drug pricing program 
+4. Unusual transactions properly supported 
+a. Extract unusual dispenses from the pharmacy operating system and trace to original 
+prescription to ensure claim is adequately supported 
+b. Refills more than 12 months from original date of service (payer contract may not 
+allow) 
+c. Fills with more than a 30-day supply (payer contract may disallow). 
+d. Vacation or over the monthly limit overrides properly documented on prescription 
+hardcopy                                         
+e. Reason documented on original script for any early refills, high dollar transactions (over 
+$2,000) per prescription 
+ 
+5. Observe that pharmacy maintains documentation for period required to support claims: 
+a. Hardcopy Prescriptions, two (2) years on site; 2-10 years off site     
+b. Electronic Prescription Records, ten (10) years        
+c. Invoices/Statements/Purchase Records, two (2) years on site; 2-10 years off site  
+d. Controlled Substance Invoices, three (3) years on site 10 years off site                                                                                                                                                               
+e. Claims Transaction Records, 10 years                                                                                
+f. DEA Ordering Forms, three (3) years 
+g. Rx-Daily Log, three (3) years 
+h. Patient Signature, ten (10) years 
+i. Patient Files/Medical Records (as applicable), 10 years 
+j. Third Party Provider Agreements, current and up to 10 years beyond expiration     
+k. Share of Cost Documents (as applicable) 10 years  
+l. Medically Needy Programs, seven (7) years 
+m. Universal Signature Log, 10 years 
+n. Compounding Worksheets and Records, two (2) years on site; 2-10 years off site              
+o. Signed UPS/US MAIL/FEDEX/Courier slips, 10 years if applicable 
+     
+B. Pharmacists will oversee the daily operations of the pharmacy and ensure the standards of practice are 
+followed. 
+ 
+C. Pharmacy Requirements 
+1. All medications shall be stored at the proper temperature and conditions, as defined by law. 
+2. A Registered Pharmacist may not accept any unused prescription or drug, in whole or in part, 
+for the purpose of resale or re-dispensing to any person(s), after the prescription or drug has 
+been originally dispensed, or sold.      
+3. If the price of a drug for a patient is lower than the amount of the patient’s copayment under the 
+patient’s prescription drug plan, the pharmacist shall offer the patient the option of paying for 
+the drug at the lower price instead of paying the copayment amount.   
+4. The Pharmacist-in-Charge shall have responsibility for the practice of pharmacy at the 
+pharmacy for which he/she is the PIC. 
+5. The PIC may advise the owner on administrative on operational concerns.  
+PH.2427_Fraud Waste & Abuse Audits 
+4 
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: PHARM Core 4 
+• ACHC Standards: DRX2-9A, DRX7-9A  
+ATTACHMENTS:  
+• Corrective Action Plan (CAP) 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 
+   
+PH.2427_Fraud Waste & Abuse Audits 
+5 
+CORRECTIVE ACTION PLAN (CAP) 
+ 
+GENERAL INFORMATION 
+Pharmacy 
+Location & 
+Department: 
+  
+Employee Name:  Date:  
+Issue/Problem: Brief description (overview) 
+ 
+Requirement(s) 
+or Regulation(s) 
+not met: 
+Describe the requirement and/or deficiency that were not successfully 
+achieved based on policy and procedures. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSUE/PROBLEM DETAIL 
+How was the 
+Issue Identified: 
+Describe how the issue was identified. 
+ 
+ 
+Issue Description: Describe the issue, in detail. 
+ 
+ 
+ 
+Root Cause: What is the cause?  Who should be held responsible? 
+ 
+ 
+ 
+ 
+APPROACH TO COMPLIANCE 
+Corrective 
+Action: 
+Describe the necessary steps to correct the issue.  What should be 
+happening?  How can it be fixed?  
+PH.2427_Fraud Waste & Abuse Audits 
+6 
+Roles and 
+Responsibilities: 
+Describe each employee, sponsor or Business Associate involved in the 
+correction, and identify their associated responsibilities for ensuring 
+resolution to the issue. 
+Interim Activities 
+(until compliance 
+is reached): 
+Describe any processes or procedures that need to be followed until the 
+issue is corrected. Such as training, change of duties or responsibilities, 
+etc. 
+Approval of 
+Approach: 
+Describe the approval process required for the correction of the issue. 
+SCHEDULE FOR COMPLIANCE 
+Major 
+Milestones: 
+Provide the milestones and dates for the correction of the issue.  
+Dependencies: List any dependencies to correction or resolution. 
+COST OF COMPLIANCE 
+Time: List any additional cost in time due to the correction of the issue. 
+Resources: List any additional cost in resources due to the correction of the issue. 
+Fiscal Impact: List any additional fiscal impact due to the correction of the issue. 
+CONCLUSION AND NEXT STEPS 
+Checkpoints: Designate checkpoints to ensure the correction of the issue. 
+Re-assessment of 
+Incident: 
+Describe the steps required to re-assess the issue once it has been 
+corrected. If the issue cannot be corrected, describe how it will be dealt 
+with. Include any timeframes, if appropriate. 
+Formal Review of 
+Status: 
+Describe the steps necessary for a formal status review of the correction 
+of the issue. 
+Submitted By:  
+ 
+Printed Name 
+ 
+ 
+Signature 
+ 
+Date: 
+Received By:  
+ 
+Printed Name 
+ 
+ 
+Signature 
+ 
+Date: 
+  
+ 

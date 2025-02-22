@@ -1,0 +1,165 @@
+ 1 
+ 
+RESPONSIBLE DEPARTMENT: 
+Patient Care Services 
+SUBJECT:  
+IV Auto programming 
+PAGES: 6 pages 
+ 
+REPLACES POLICY DATED: 
+N/A 
+EFFECTIVE DATE:  
+February 1, 2023 
+REVISION DATE: 
+REVIEW DATE: 
+February 2, 2024 
+SYSTEM POLICY NUMBER:  
+NIV025 
+ 
+SCOPE:  The policies and procedures associated with IV pumps and the IV Auto-programming feature apply 
+to facilities located within the Baton Rouge Market of the Franciscan Missionaries of Our Lady Health System 
+(FMOLHS) which includes: Our Lady of the Lake Regional Medical Center, Our Lady of the Lake Ascension, 
+Our Lady of the Lake Assumption Community Hospital, Our Lady of the Lake Children’s Hospital, Our Lady 
+of the Lake Livingston, Our Lady of the Lake North Baton Rouge and Our Lady of the Lake Physician Group 
+(FMOLHS BR Market). 
+PURPOSE: Our Lady of the Lake Regional Medical Center, Our Lady of the Lake Ascension, Our Lady of the 
+Lake Assumption Community Hospital, Our Lady of the Lake Children’s Hospital, Our Lady of the Lake 
+Livingston, Our Lady of the Lake North Baton Rouge and Our Lady of the Lake Physician Group has 
+established a policy to outline the requirements for utilization, monitoring, maintenance, training/education, 
+and reporting related to IV Pumps and IV Auto-programming (IVAP) for intravenous medication 
+administration.   
+POLICY:  It is the policy to ensure safe management of IV pumps and the IVAP feature of the infusion pumps 
+used for intravenous medication administrations. 
+DEFINITIONS:    
+PROCEDURE: 
+ IV PUMP UTILIZATION AND PERFORMANCE MONITORING: 
+A. Pump drug libraries will be updated quarterly. One month after the library update, the pharmacy 
+department will generate IV pump utilization reports related to auto-programming, alerts, and 
+overrides. The pharmacy department will review the drug library entries associated with the top ten 
+medications in each category. If indicated, the pharmacy department will recommend changes to the 
+drug library to reduce unnecessary alerts, decrease the number of overrides, and increase the rate of 
+auto-programming associated with each medication.  
+B. These recommendations will be reviewed by pharmacy and nursing leaders in the Medication 
+Utilization Committee. Recommendations approved by the Medication Utilization Committee will be 
+transmitted to IS analysts for inclusion in the next pump library update. The pump drug library shall be 
+listed by generic name and shall not contain investigational medications.  
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 2 
+C. For safety events related to pump library and pump performance, actual and near miss type events, the 
+organization’s Safety Management Plan (Policy # ECSF000) for safety event escalation and 
+investigation will be followed.   
+D. Each IV Pump will have an Operation Verification Procedure (OVP) Performance Assurance 
+performed by Biomedical team prior to initial use and have Preventive Maintenance at periodic 
+intervals as defined by an assigned Preventive Maintenance (PM) Schedule based on Risk Evaluations, 
+Regulatory Requirements, Contractual Requirements or Manufacturer's Recommendations. (Reference 
+TriMedx Policy #TMX-SOP-0088) 
+E. Equipment recalls and hazardous alerts from the IV Pump manufacturer will be managed utilizing 
+standard operating procedure from biomedical equipment.  (Reference Trimedx Policy #TMX-SOP-
+0089) 
+F. See Attachment A for standard operating procedure for IV Pump drug library Maintenance. 
+IV AUTOPROGRAMMING COMPLIANCE: 
+A. IV Auto-programming (IVAP) compliance will be monitored on a routine basis.  A compliance report 
+will be generated utilizing our Electronic Medical Record (EMR) and will be sent to department 
+leaders detailing individual clinician compliance and departmental compliance, at a minimum monthly.  
+Individual and Departmental non-compliance will be addressed through standard counseling actions 
+and organizational accountability structure. “No attempt” IVAP data is included in the IVAP Routine 
+Compliance report.  
+B. Individual clinicians and/or department leaders are responsible for reporting issues that may be 
+impacting compliance with IVAP.  Examples of these issues include medication and IV pump barcodes 
+not scanning and intravenous medications not found in the drug library of the IV pump.  
+C. For safety events related to compliance, actual and near miss type events, the organization’s Safety 
+Management Plan (Policy # ECSF000) for safety event escalation and investigation will be followed.    
+D. See Attachment B for standard operating procedure for reporting issues with IVAP.    
+IV AUTOPROGRAMMING EDUCATION  
+A. Nurses will receive Intravenous Pump education during Nursing Orientation and annually.  
+B. A nurse is deemed competent if he or she demonstrates the necessary knowledge, skills, and behaviors 
+to safely operate an infusion pump.  
+C. At a minimum, competency will be evaluated upon completion of orientation and annually. 
+STATUTORY/REGULATORY AUTHORITY: 
+• The Joint Commission Sentinel Event Alert 63. (2021, April 14). Optimizing smart infusion pump safety with 
+dose error reduction software (DERS). 
+ATTACHMENTS:  
+• Attachment A: IVAP Utilization Monitoring 
+• Attachment B: Reporting problems with IVAP 
+• Attachment C:  IVAP Troubleshooting Guide   3 
+REFERENCES: 
+• Policy OO-HR-E-008 “Employee Competence Validation” 
+• Refer to facility designated on-line clinical reference 
+• Sentinel Event Alert 63: Optimizing Smart Infusion Pump Safety with DERS. (2021). Joint Commission journal 
+on quality and patient safety, 47(6), 394–397. 
+ 
+   4 
+OLOLRMC Policy NIV025 
+Attachment A: IVAP Utilization Monitoring 
+ 
+SOP: IV Auto-programming Utilization Monitoring  
+ 
+Introduction: The inpatient pharmacy department will be responsible for maintenance of the IV 
+pump drug library. This includes monitoring the frequency of alerts, overrides, and bypassing of 
+auto-programming for each medication. Specified reports will be generated in ICU Medical 
+MedNet quarterly. Issues of concern and recommendations for library updates will be reported to 
+the Medication Utilization Committee.  
+ 
+Report Instructions 
+1. Access ICU Medical MedNet via the following: TeamLink Home>Applications>Our 
+Lady of the Lake Applications>MedNet.  
+2. Reporting features are in the ICU Medical MedNet Performance application.  
+3. Generate the following reports for the previous 30 days:   
+• Auto-programming  
+• Auto-Programs with Unmatched Medication  
+• Edit Variance Detail 
+• Override Variance Detail  
+4. Utilize the following report Criteria:  
+• Infuser type: “Plum A+/Plum 360” 
+• CCA Name: “All” 
+• Timeframe: “Last 30 days” 
+• Sort by: Medication 
+• Check the box that says “Hide Patient Name” 
+ 
+   
+5. Click “Submit” to generate the report.  
+ 5 
+6. When the report appears, click the boxed icon below to export the data to Excel.  
+ 
+7. Use a Pivot Table to generate the top ten medications for each report.  
+Data Review  
+The information generated will be used to generate recommendations for pump library updates. 
+If approved, updates will be transmitted to IS analysts for inclusion in the next pump library 
+update.  
+Reports reviewed by 
+Pharmacy Leadership 
+Pharmacy IS Specialist 
+ICU Clinical Specialist
+System CNOs
+System Pharmacy 
+Directors
+Medication Utilization 
+Committee AnalystsRecommendations are 
+generated by pharmacy
+  
+ 
+  
+ 6 
+OLOLRMC Policy NIV025 
+Attachment B: Reporting problems with IVAP  
+ 
+ 
+SOP: How to Report Problems with IV Auto-Programming 
+ 
+To help pharmacy solve any IV pump programming issues, when reporting problems: 
+ 
+1. Send a message to pharmacy using the Rx function on the MAR 
+2. Choose “other” as a reason and type in details in the comment box 
+3. Include the problem, the error message, and the pump ID whenever possible 
+ 
+IVAP Issue reporting and Follow-up 
+ 
+  
+ 7 
+OLOLRMC Policy NIV025 
+Attachment C: IVAP Troubleshooting Guide 
+ 
+ 

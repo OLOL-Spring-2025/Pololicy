@@ -1,0 +1,108 @@
+ Policy Reference Number 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Billing/Finance 
+Title: Patient Data Processing Policy Reference #: PH-19-01 
+Supersedes #: PH-05-04-O 
+Date of Origination: 07/01/2000 Last Date Reviewed: 01/06/25 
+Last Date Revised: 2/06/2020 
+ 
+POLICY: 
+ 
+The pharmacy shall use data processing systems in accordance with the procedures in this policy. 
+ 
+DEFINITIONS 
+ 
+For the purposes of this policy, the following words and terms shall have the indicated meanings: 
+ 
+1. Downtime - defined as the period of time during which a data processing system is not operable. 
+2. Electronic signature  - defined as a unique security code or other identifier which specifically 
+identifies the person entering information into a data processing system. 
+3. Hard-copy - defined as a physical document. 
+ 
+RESPONSIBILITY 
+ 
+The Pharmacy Department Leader shall be responsible for maintenance of medication records in a data 
+processing system such that the data processing system is in compliance with all regulatory requirements. 
+ 
+MAINTENANCE OF DATA PROCESSING MEDICATION RECORDS 
+ 
+Records, except when specifically required to be maintained in original or hard -copy form, may be 
+maintained in an alternative data retention system, such as data processing or direct imaging system (e.g., 
+microfilm or microfiche) provided: 
+ 
+• The records in the alternative data retention system contain all of the information required on the 
+manual system. 
+• The alternative data retention system is capable of producing a hard copy of the record upon request 
+of the Louisiana Board of Pharmacy, its representatives or other authorized local, state, or federal law 
+enforcement or regulatory agencies. 
+ 
+BACKUP OF DATA PROCESSING RECORDS 
+ 
+The facility shall maintain a back-up copy of information stored in the data processing system and up-date 
+this back-up copy on a regular basis (preferably monthly) to assure that data is not lost due to system  Policy Reference Number 
+Page 2 of 3 
+failure. 
+ 
+MEDICATION DISTRIBUTION AUDIT TRAIL 
+ 
+The data processing system must have the capacity to produce a hard -copy printout of an audit trail of 
+medication distribution and return for any strength and dosage form of a medication (by either brand or 
+generic name or both) during a specified period of time.  This printout should contain the following 
+information: 
+ 
+• Patient's name and room number or patient's facility identification number. 
+• Prescribing or attending practitioner's name. 
+• Name, strength, and dosage form of the medication product actually distributed. 
+• Total quantity distributed from and returned to the pharmacy. 
+• If not immediately retrievable electronically, the following should also be included on the printout: 
+o Prescribing or attending practitioner's address. 
+o Prescribing or attending practitioner's DEA number, if the medication order is for a controlled 
+substance. 
+ 
+An audit trail printout for each strength and dosage form of medications distributed during the preceding 
+month shall be produced at least monthly and shall be maintained in a separate file at the facility.  The 
+information on this printout should be sorted by medication name and list all distribution/returns for that 
+medication chronologically. 
+ 
+The pharmacy may elect not to produce the monthly audit trail printout if the data processing system has 
+a workable (electronic) data retention system in which can produce an audit trail of medication distribution 
+and returns for the preceding two years.  The audit trail will be supplied by the pharmacy within 72 hours, 
+if requested by an authorized agent of the Board of Pharmacy, or other authorized local, state, or federal 
+law enforcement or regulatory agencies. 
+ 
+CONTROLLED MEDICATION AUDIT TRAIL 
+ 
+Each time a controlled substance is distributed from or returned to the pharmacy, a record of such 
+distribution or return shall be entered into the data processing system. 
+ 
+ENTRY OF INFORMATION INTO A DATA PROCESSING SYSTEM 
+ 
+Supportive personnel may enter medication order and medication distribution information into a data 
+processing system provided judgmental decisions are not required and a pharmacist checks the accuracy 
+of the information entered into the system prior to releasing the order. 
+ 
+DOWNTIME 
+  Policy Reference Number 
+Page 3 of 3 
+If the pharmacy experiences data processing system downtime, the pharmacy will implement an auxiliary 
+procedure to ensure that all data is retained for on-line data entry as soon as the system is available for use 
+again. 
+ 
+CHANGE OR DISCONTINUANCE OF A DATA PROCESSING SYSTEM 
+ 
+A pharmacy that changes or discontinues use of a data processing system must: 
+ 
+Transfer the records to a new data processing system; or 
+Purge the records to a printout which has the same information as required on the audit trail printout 
+including sorting by medication name and listing all distribution/returns for that medication 
+chronologically. 
+ 
+Information purged from a data processing system must be maintained by the pharmacy for two years 
+from the date of initial entry into the data processing system or for a greater time if required by law. 
+ 
+LOSS OF DATA 
+ 
+The Pharmacy Department leader shall report any significant loss of information from the data processing 
+system to the Louisiana Board of Pharmacy. 
+ 

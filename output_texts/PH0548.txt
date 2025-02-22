@@ -1,0 +1,301 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Hazardous Drug Compounding and 
+Materials Movement 
+Policy Reference #: PH0548 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for Hazardous Drug Compounding and Materials Movement 
+where Hazardous Drugs (HDs) are prepared within FMOLHS Baton Rouge Market Pharmacies.  
+1.2. Harm to healthcare personnel from occupational exposure to HDs can occur throughout the 
+medication-use process including HD sterile and nonsterile compounding. Proper use of Personal 
+Protective Equipment (PPE) and use of engineering controls is important to limit occupational 
+exposure to HDs and to limit contamination to the healthcare environment.    
+1.3. This SOP refers to all HD Active Pharmaceutical Ingredients ( API), antineoplastic HDs requiring 
+manipulation (beyond counting or repackaging), and other non -antineoplastic and reproductive 
+risk only HD dosage forms for which an Assessment of Risk (AoR) has not been performed. 
+2. Policy  
+2.1 Sterile and nonsterile HDs are compounded using methods that protect employees, the 
+surrounding environment, and others who may encounter these HDs within FMOLHS Baton Rouge 
+Market Pharmacies . Procedures outlined in this policy serve to minimize the risk of HD 
+contamination.  
+2.2 If a Containment Primary Engineering Control (C -PEC) sustains a power loss or alarms due to 
+malfunction, all HD compounding activities in the affected C-PEC are suspended immediately. 
+2.3 All HDs are labeled as hazardous drugs following facility HD labeling policies so that all HD dosage 
+forms are identifiable to all personnel handling them.  
+2.4 Any employee who may be expected to handle any form of HDs during  compounding is trained 
+on proper handling of HDs, competency is evaluated, and documented in SoleSource® Simplifi 
+797® at least annually. Training includes: 
+• Identifying HDs according FMOLHS Baton Rouge Market Pharmacies’ HD list  
+• Use of required PPE 
+• Use of engineering controls 
+• Response to exposure of HDs, spill management, and proper disposal of HDs 2.5 All hand hygiene and garbing policies and procedures pertaining to compounding sterile and 
+nonsterile preparations are followed. There is required additional PPE for HD Compounded Sterile 
+Preparations (CSPs) and HD Compounded Nonsterile Preparations (CNSPs) that includes: 
+• Chemotherapy Gown donned over non-HD gowns and frocks  
+• Head and hair cover (including facial hair) 
+• Shoe covers 
+• Two pairs of chemotherapy gloves 
+2.6 Gloves worn when handling HD meet ASTM Standard Practice for Assessment of Resistance of 
+Medical Gloves to Permeation by Chemotherapy Drugs (D6978) or its successor. Gloves are either 
+sterile or non-sterile depending on use. 
+2.7 All USP <797> compounding policies are followed when compounding HD CSPs to maintain the 
+sterility of the CSP. Microbial contamination remains a risk during HD CSP compounding and all 
+procedures for sterile compounding are followed to maintain sterility of the final CSP.  
+2.8 Closed System Transfer Devices (CSTDs) are used at FMOLHS Baton Rouge Market Pharmacies  
+when compounding HD CSPs  to reduce environmental HD contamination . The CSTDs used are 
+Equashield, ICU Medical ChemoClave ™, and any others as determined by the preparation and 
+facility. All compounding staff are trained on all CSTDs components, how components work 
+together, steps that are not appropriate with CSTD, and proper techniques to use CSTDs safely 
+and minimize HD contamination in the environment and HD exposure to the worker.  
+• CSTDs for compounding are supplemental containment controls and are used within a C-PEC 
+only. 
+2.9 CSTDs are attached to the final dosage form (if dosage form allows) to ensure the final dosage 
+form is provided with maximum safety during administration of the drug.  
+2.10 Tablet and capsule HD dosage forms are not placed in automated counting machines, 
+repackaging is manual. Unit dose products are purchased whenever possible. 
+2.11 Dedicated equipment is used for counting, compounding, and pouring of nonsterile HDs. 
+Equipment is clearly labeled and stored separately from other non-hazardous equipment.  
+2.12 Crushing HD tablets and opening HD capsules is avoided, when possible; liquid products are purchased whenever 
+available. When crushing antineoplastic HD tablets and opening HD capsules, a C -PEC is always used along with 
+proper PPE per HD PPE policy. When crushing non-antineoplastic and reproductive risk only HD tablets and opening 
+HD capsules, refer to the AoR for containment strategies.  
+2. Roles & Responsibilities 
+3.1 Designated Person (DP): 
+• Ensures all HDs are identified per the National Institute for Occupational Safety and Health 
+(NIOSH) list and maintains the list of HDs specifically handled at this facility. 
+• Ensures all personnel have education and training  in the foundational knowledge and skills 
+needed to handle HDs and perform hazardous drug compounding job duties successfully and 
+safely; per this policy and in order to minimize HD exposure in the facility. 
+• Provides immediate access to the SOPs, USP <800> and supporting Chapters and supporting 
+regulations, and other expert documentation to perform job duties successfully and safely. 
+3.2 Compounding Personnel: • Follow all USP <797> policies and procedures when compounding sterile HDs along with 
+following all procedures in this policy.  
+• Follow all USP <795> policies and procedures when compounding nonsterile HDs along with 
+following all procedures in this policy. 
+• Follow all CSTD procedures for working with HDs to increase efficiency and minimize HD 
+exposure to self, compounding environment, transport packaging, and personnel handling 
+the final dosage form for administration.  
+• Follow all negative-pressure techniques and procedures for working with HDs to minimize HD 
+exposure to self, compounding environment, transport packaging, and personnel handling 
+the final dosage form for administration. 
+4.  Procedures 
+      4.1 Sterile Compounding: Materials Movement in a BSC 
+• Perform all hand hygiene and garbing and HD PPE garbing per <797> and <800> policies. 
+• Prepare only one patient preparation at a time. 
+• Remove the HDs from the primary packaging and discard packaging into trace HD waste as 
+needed. 
+• Don second pair of sterile chemotherapy gloves, wipe gloved hands with sIPA. 
+• Decontaminate HD vials with the decontaminating agent Peridox RTU®  according to 
+procedures outlined in Decontaminating Policy. Decontaminate gloves afterward. 
+• Sanitize all items per USP <797> policies with sterile 70% Isopropyl Alcohol (sIPA) and a 
+sterile low-lint wiper and allow to dry before transferring items into the BSC.  
+o The wiping procedure does not render the product label unreadable.  
+o Sterile supplies in sealed containers moving into the PEC may be removed from the outer 
+covering as the supplies are introduced into the PEC without needing to be wiped with sIPA  
+• Apply sIPA to gloved hands after transferring items into the BSC. Gloved hands remain inside 
+the BSC for the entire sterile compounding process. When hands are removed from the BSC, 
+wipe gloved hands with sIPA prior to putting hands back into the BSC. 
+• Arrange only items needed for one preparation in the BSC so that all items are receiving first 
+air.  
+• IV workflow systems are arranged inside the BSC to the right or left of the DCA. First air is 
+maintained across the surface of the IV workflow system when CSPs are arranged on the 
+hardware.  
+      4.2 Sterile Hazardous Drug Compounding and Aseptic Techniques: 
+• CSTDs are used whenever possible to reduce risk to the compounding personnel and 
+increase efficiency during HD compounding. Follow all CSTD manufacturer instructions for 
+all steps in HD sterile compounding. 
+• Spike IV bag with appropriate IV line and prime per manufacturer specifications and per 
+facility-specific practices 
+o Care is taken to avoid contamination of the IV line with potential HD residue in the C -
+PEC. 
+  
+ 
+4.3 Reconstituting HDs: 
+• CSTDs are used whenever possible to reduce risk to the compounding personnel and 
+increase efficiency. Follow all CSTD manufacturer instructions for HD vial reconstitution 
+while using CSTDs.  
+• When reconstituting HD vials without using CSTDs, care is taken to maintain slight negative 
+pressure in the HD vial by: 
+o Wipe vial septum with sIPA and allow to dry.  
+o Syringes used to reconstitute are sufficient in size so that when filled with anticipated 
+maximum volume, they are no more than three quarters full (3/4), reducing the chance 
+the plunger will become separated from the barrel. 
+o Draw up the diluent, then insert the needle or vial spike into the vial with the vial in the 
+upright position. 
+o Pull plunger back slightly to create slight negative pressure. 
+o Slowly add diluent to the vial per drug Package Insert specifications, by alternating 
+between adding diluent and withdrawing air from the vial, maintaining slight negative 
+pressure.  
+o Withdraw needle from vial and discard into trace HD waste sharps container.  
+o Swirl or shake vial per manufacturer Package Insert to reconstitute. 
+4.4 Withdrawing HDs from a vial: 
+• Follow all CSTD manufacturer instructions for withdrawing drug from a HD vial while using 
+CSTDs.  
+o Wipe vial septum with sIPA and allow to dry. 
+o Insert CSTD vial spike into the vial. 
+o Attach syringe the CSTD vial spike 
+o Invert vial, while allowing critical sites to receive first air withdraw the HD drug from the 
+vial by pulling back on the plunger.  
+o Tap the syringe to remove any air bubbles and push air back into the vial; check volume 
+drawn up.  
+o While holding the plunger, turn the vial again until it is upright and place onto the DCA 
+of C-PEC. Pull back slightly to clear the hub of HD drug and detach syringe from the 
+vial.   
+• When withdrawing a HD from a vial without using CSTDs, care is taken to maintain slight 
+negative pressure in the HD vial by: 
+o Volume of air added to the vial is less than the volume of drug removed from the vial. 
+Pull back on the syringe to a volume less than being withdrawn.  
+o Wipe vial septum with sIPA and allow to dry. 
+o Insert needle into the vial septum. 
+o Invert vial, while allowing the critical sites to receive first air withdraw the HD drug from 
+the vial by pulling back on the plunger. Without pushing on the plunger, allow the air to 
+flow back into the vial. Continue these steps until the desired volume o f drug has been 
+withdrawn from the vial.  
+o Tap the syringe to remove any air bubbles and inject air into the vial; check volume 
+drawn up. o While holding the plunger, turn the vial again until it is upright and place onto DCA of 
+C-PEC. Pull back slightly to clear the needle of HD drug and withdraw needle  from the 
+vial septum.  
+4.5 Adding HDs to an IV bag: 
+• Follow all CSTD manufacturer instructions for adding HD drug to a bag while using CSTDs.  
+• Inject HDs into an IV without using CSTDs utilizing the following techniques: 
+o Wipe IV bag injection port with sIPA and allow to dry.  
+o Insert needle or attach syringe to the IV bag injection port and push HD drug from syringe into the bag.  
+o Remove the syringe and discard into trace HD waste sharps container. 
+o Add tamper evident seal/lock to the injection port as needed. 
+o Add the administration CSTD to the product. 
+4.6 Withdrawing HD drug from ampule: 
+• Withdraw HDs from an ampule utilizing the following techniques:  
+o Tap the neck of the ampule gently to move solution to the main chamber of the ampule 
+o Wipe the neck with sIPA and allow to dry. 
+o Wrap sIPA wipe around the neck of the ampule and break toward the back of the C -
+PEC 
+o Attach a fi lter needle  or straw to appropriately sized syringe and withdraw required 
+amount of drug.  
+o Remove filter needle or straw and place into trace HD waste sharps container and place 
+needle onto the syringe. 
+o Follow steps for adding drug to IV bag if required.  
+o Discard the ampule and syringe/needle into trace HD waste sharps container.  
+4.7 Dispensing HD in a syringe: 
+• Follow all CSTD manufacturer instructions for dispensing HD in a syringe utilizing CSTDs.  
+• Dispense HD doses in a syringe utilizing the following techniques: 
+o Follow all steps for withdrawing HD from a vial or ampule 
+o Pull back the plunger to clear fluid from the needle and hub. 
+o Replace needle (if used) with CSTD for administration. 
+4.8 Conclusion of HD sterile compounding: 
+• Perform all release inspections and quality control checks by the compounder, and final 
+verification by the compounding pharmacist or verification pharmacist through DoseEdge®.  
+• Decontaminate all surfaces of the HD product as needed. 
+• Decontaminate the DCA of the C-PEC between compounding different HDs. 
+• Place product into transport bag taking care not to contaminate the outer surfaces of 
+transport bag.  
+• When IV workflow systems are used, all steps above for HD sterile compounding are 
+followed along with all steps required for the IV workflow system.  
+• Doff HD PPE according to PPE for HD Compounding policy  and dispose of PPE in trace HD 
+waste receptacle.  
+• Wash hands and wrists with soap and water. 
+ 
+Nonsterile Hazardous Drug Compounding: 
+      4.9 Preparation for HD CNSPs • Prepare only one patient preparation at a time. 
+• Refer to all USP <797> policies  when nonsterile compounding occurs in sterile cleanroom 
+suites. 
+• Perform hand hygiene per USP <795> policies. 
+• Don PPE per PPE for HD Compounding policy. Don PPE per facility design requirements and 
+classification of compounding area.  
+o Enter C-SEC or C-SCA, garbing in the correct locations per policy. 
+• Place all items required for each patient preparation according to the compounding 
+documentation, either per paper or digital documentation, in a bin. Items gathered include 
+but are not limited to: all components, supplies, and equipment required to complete the 
+CNSP. 
+• Perform an independent double check of the assembled items. 
+      4.10 Nonsterile HD Materials Movement and Compounding Techniques 
+• Remove the HDs from the primary packaging. 
+• Place the bin with the items needed for compounding on the cart next to compounding 
+personnel. 
+• Don second pair of chemotherapy gloves. 
+• Decontaminate HDs vials with the decontaminating agent Peridox RTU®  according to 
+procedures outlined in Decontaminating Policy. Decontaminate gloves afterward. 
+• Clean the C -PEC per USP <795> or <797> cleaning policies and calibrate any equipment 
+before using. 
+• Follow the steps withing the Master Formulation Record (MFR), either in paper or digital 
+form) to complete the preparation. 
+o Document HD product information, calculations, weights and measures, and results of 
+quality control checks on the Compounding Record (CR). 
+• Perform all release inspections, quality control checks and final verification by the 
+pharmacist. 
+• Label CNSP with patient or bulk product label and hazardous drug identification label.  
+• Place final CNSP into zip-top containment bag for storage, dispensing, or transport. 
+• Decontaminate and clean the compounding area, equipment and tools used during 
+compounding according to USP <795> policy.  
+o Contaminated equipment is wiped with sterile water, cleaned with approved facility 
+detergent, followed by approved facility deactivating agent, and then rinsed per USP 
+<795> policies. The wipers used and rinse water are disposed as trace HD waste. 
+• Doff HD PPE according to PPE for HD Compounding policy and dispose PPE in trace HD waste 
+receptacle.  
+• Wash hands and wrists with soap and water. 
+5. Definitions 
+5.1 Active Pharmaceutical Ingredients (API): Any substance or mixture of substances intended to be 
+used in the compounding of a drug preparation, thereby becoming the active ingredient in that 
+preparation and furnishing pharmacological activity or other direct effect in the diagnoses, cure, mitigation, treatment, or prevention of disease in humans and animals or affecting the structure 
+and function of the body. 
+5.2 Assessment of Risk (AoR) : Evaluation of risk to determine alternative containment strategies 
+and/or work practices. 
+5.3 Biological Safety Cabinet (BSC): A ventilated cabinet often used for preparation of hazardous 
+drugs. These cabinets are divided into three general classes (Class I, Class II, and Class III). Class II 
+BSCs are further divided into types (Type A1, Type A2, Type B1, and Type B2). 
+5.4 Chemotherapy glove: A powder -free medical glove that meets the ASTM Standard Practice for 
+Assessment of Resistance of Medical Gloves to Permeation by Chemotherapy Drugs (D6978) or 
+its successor. Gloves are either sterile or non-sterile depending on use. 
+5.5 Chemotherapy gown : Gown used for handling HDs that is disposable, polyethylene -coated 
+polypropylene (or a similar laminate) to resist permeation by HDs, seamless, closes in the back, 
+has long sleeves, and has cuffs made of elastic or a knit material. 
+5.6 Compounding Aseptic Containment Isolator (CACI): A specific type of CAI that is designed for the 
+compounding of sterile HDs. The CACI is designed to provide worker protection from exposure to 
+undesirable levels of airborne drugs throughout the compounding and material transfer processes 
+and to provide a n aseptic environment with unidirectional airflow for compounding sterile 
+preparations. 
+5.7 Containment Primary Engineering Controls (C-PEC): A ventilated device designed and operated 
+to minimize worker and environmental exposures to HDs by controlling emissions of airborne 
+contaminants. 
+5.8 Containment Secondary Engineering Controls (C-SEC): The room with fixed walls in which the C-
+PEC is place. It incorporates specific design and operational parameters required to the contain 
+the potential hazard within the compounding room.  
+5.9 Containment segregated compounding area (C-SCA): A type of C-SEC with nominal requirements 
+for airflow and room pressurization as they pertain to HD compounding. 
+5.10 Closed System Transfer Device (CSTD): A drug -transfer device that mechanically prohibits the 
+transfer of environmental contaminants into the system and the escape of HD or vapor 
+concentrations outside the system.  
+5.11 Containment Ventilated Enclosure (CVE) : A full or partial enclosure that uses ventilation 
+principles to capture, contain, and remove airborne contaminants through HEPA filtration and 
+prevent release into the work environment.  
+5.12 Master Formulation Record (MFR):  A detailed record of procedures that describe how the 
+compounded preparation is to be prepared.  
+5.13 NIOSH: National Institute of Occupational Safety and Health 
+5.14 Trace HD Waste : Materials that have come into contact with or may contain only a residual 
+amount of HD. Usually less than 3% of HD material by weight. 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc. <795> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 6.3 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version. 
+6.4 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22.  
+6.5 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 
+7. Approval and Review Summary 
+ 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 

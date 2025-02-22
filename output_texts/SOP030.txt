@@ -1,0 +1,129 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Patient Care 
+Operating Room 
+Title: 
+LSU Health Baton Rouge  
+Perkins Surgical Center 
+Tissue Procurement, Storage, Disposition 
+and Recall/Adverse Events 
+Policy Reference #: SOP030 
+Supersedes #: EKL Policy#14-01-047  
+1/14/10 
+Date of Origination: 1/14/10 Review Date: 11/15/2024 
+Revision Date: 8/28/2017 
+ 
+PURPOSE: 
+To provide guidelines for tissue procurement, storage, disposition and recall/adverse events at LSU 
+Health Baton Rouge- Perkins Surgical Center. 
+ 
+DEFINITIONS:  
+Tissue specimens may include but are not limited to: bone, cornea, skin, heart valves/conduits, 
+tendons, fascia, Dura mater, veins, arteries, cartilage, synthetic tissue (artificially prepared, human 
+and non-human based), and other cellular and tissue-based transplant or implant products. 
+ 
+POLICY: 
+• The Tissue Bank Medical Director of OLOL is ultimately responsible for oversight of the 
+tissue program.  
+* Note: Due to the location of the facility, OLOL Tissue Bank does not procure, store or  
+   track tissue in this facility.  LSU Health Baton Rouge Perkins Surgical Center has  
+   responsibility over its individual/unique processes for tissue handling.  
+• All policies and processes at this facility are reviewed and approved for use by the OLOL 
+Tissue Bank Medical Director and other appropriate personnel.   
+•  The Operating Room will receive and maintain documentation regarding tissue 
+procurement, receipt of tissue and logging of implanted tissue in their area 
+• All contracts for tissue shall require the supplier to notify FMOL of all tissue recalls.  
+• Transplanting surgeons are responsible for reporting to the facility any recipient infection 
+where there is likelihood or suspicion that the infection originated from a contaminated 
+tissue allograft. 
+ 
+PROCEDURE: 
+ 
+I.  PROCUREMENT 
+    The Operating Room shall have qualified staff assigned to perform the following duties:  2 
+1.  Utilize UDI Tracker application to annually validate that source facilities that supply 
+tissues are licensed by state agencies and/or registered as a tissue establishment with the 
+Food and Drug Administration (FDA) 
+2.  Order, transport, handle, store tissue according to the source facilities’ or manufacturers’  
+     written directions. 
+3.  Log in all incoming tissue to the Operating Room UDI Tracker, all required elements 
+(including but not limited to date of receipt, description of tissue, and person completing 
+log). 
+4.  Verify and document at receipt that package integrity is met and transport was controlled 
+and acceptable. 
+ a. UDI Tracker tissue tracking application 
+5.  Quarantine any tissue that does not meet requirements for transportation and notify  
+     source vendor and/or manufacturer. 
+ 
+II. STORAGE 
+1.  The Operating Room shall maintain records documenting the source facility, the original  
+numeric or alphanumeric donor code and/or lot identification, all recipients or other final     
+dispositions of each tissue, and expiration dates.  
+a. UDI Tracker tissue tracking application 
+2.  Document room temperature daily and maintain continuous temperature monitoring for  
+     storage freezers to show that all tissue is stored at required temperatures.   
+Trane provides 24 hour temperature monitoring of ambient storage 
+locations. Tissue freezer has 24 hour recording paper tracking with 
+back-up alarms on unit. 
+a. Storage equipment must have functional alarms and emergency back-up  
+     (Except for ambient storage cabinets). 
+b. Main Types of Tissue Storage are: 
+ i. Ambient- room temperature (for example, freeze dried bone) 
+  Acceptable for use until tissue expiration date given by  
+manufacturer 
+    ii. Frozen- -40° C to -90° C freezer 
+Acceptable for use until tissue expiration date given by  
+manufacturer 
+3.  If temperature variations are found all tissue in that storage equipment will be  
+     quarantined until a thorough investigation is performed and documented.  
+  a. Obtain assistance from OLOL Tissue Bank supervisor or Senior Tech for  
+     variance approval if manufacturer deems tissue acceptable for use.   
+ 
+ 
+III. DISPOSITION 
+1.  At the time of issuance for patient care, the documentation includes medical record   3 
+     number, nurse signing out, surgeon implanting and date of surgery. 
+  a. UDI Tracker tissue tracking application. 
+2.  Documentation shall be made in the recipient’s medical record of tissue use, including  
+     documentation of the unique identifier of the tissue. 
+  a. Peri-Operative Nursing Record- Operating Room Implant Record 
+       
+3.  The Operating Room shall ensure the tissue information cards are completed and  
+     returned to the manufacturer as required. 
+4.  The Operating Room maintains a detailed log containing information that allows for  
+      tracing of any tissue from its origination source to the patient and vice versa. 
+a. UDI Tracker tissue tracking application.  
+ 
+IV. RECALL/ADVERSE EVENTS 
+ 1.  When discovered, the Operating Room shall promptly report cases of recall or post- 
+      implant adverse events to: OLOL Tissue Bank, who will follow the Tissue Bank’s  
+      Tissue Allograft Look-back policy and processes.  (TIS-5) 
+  a.  Any notification involved in recall or post-implant adverse event shall  
+     include all pertinent information including but not limited to: the patients  
+     name, medical record number, date of implantation, and the suspected    
+     disease process or infecting organism, or description of other adverse  
+     event. 
+ 2.  Any additional stored organs/tissues from donors that are recalled or found to be  
+     contaminated with infectious agents should be retrieved and quarantined immediately.  
+     The tissue should be returned for credit (or destroyed) as directed by the  
+     vendor/manufacturer.   
+ 
+ 
+REFERENCES: 
+1.  AABB 
+2.  AAOS (American Academy of Orthopaedic Surgeons) 
+3.  American Society of Hematology 
+4.  FDA (Food and Drug Administration): Guidance for Industry: Mandatory Reporting of  
+         Adverse Reactions Related to Human cells, Tissues and Cellular Tissue-Based Products 
+         Human Tissue Act 2004 
+5.  JCAHO Tissue Standards 
+ 
+ 
+   
+ 
+ 
+ 

@@ -1,0 +1,172 @@
+COR-109 
+Page 1 of 5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Corporate Compliance Section: N/A 
+Title: 
+DISCLOSURES FOR LAW 
+ENFORCEMENT 
+PURPOSES WITHOUT A COURT 
+ORDER, SUBPOENA OR OTHER 
+PROCESS 
+Policy Reference #: COR/109 
+Supersedes #:  
+Date of Origination: June 30, 2015 Last Review Date:  May 24, 2022 
+Last Revision Date: N/A 
+ 
+PURPOSE: It is the purpose of the policy to comply with Section 164.501 
+(Definitions) and 164.512 (f) of the Privacy Rule and to set forth those 
+circumstances under which it is appropriate to disclose information to 
+law enforcement. 
+POLICY: 
+Healthcare providers may disclose Protected Health Information for law enforcement purposes 
+without patient authorization in the absence of a court order, subpoena or other legal process in 
+the circumstances set forth below.     
+Definition of “Law Enforcement Official” – An officer or employee of any agency or authority 
+of the United States, a State, a Territory, or a political subdivision of a State or Territory, or an 
+Indian tribe, who is: 
+• Authorized to investigate an official inquiry into a potential violation of the law. 
+• Prosecute or conduct a criminal, civil, or administrative proceeding arising from an 
+alleged violation of the law. 
+ 
+I.  REQUIRED BY STATUTE OR REGULATION   
+A.  General rule.  The healthcare provider may disclose Protected Health Information 
+as required by statute or regulation, such as those requiring reports of gunshot 
+wounds.   
+B. Child abuse reports .  The healthcare provider may disclose protected health 
+information about a minor for the purpose of reporting child abuse or neglect as 
+permitted or required by state law. 
+C.  Adult victims of abuse, neglect or domestic violence.   
+1.  Requirements for disclosure .  The healthcare provider may disclose 
+Protected Health Information about an adult individual whom the 
+Organization believes is a victim of abuse, neglect or domestic violence to 
+a government agency authorized by law to receive such disclosures, 
+provided that one of the following conditions is satisfied:  
+a.  The disclosure is required by law.  In such cases, the disclosure 
+shall be limited to the extent necessary to comply with the law in 
+question;   COR-109 
+Page 2 of 5 
+b.  The individual agrees to the disclosure;   
+c.  The disclosure is permitted by law, and the healthcare provider 
+believes the disclosure is necessary to prevent harm to someone; or   
+d.  In situations in which the individual is unable to agree to the 
+disclosure because of incapacity, the disclosure is permitted by law 
+and a public official states that the disclosure is necessary for an 
+immediate enforcement activity against someone other than the 
+individual in question.     
+2.  Notification to individual .  Disclosures of Protected Health Information 
+about victims of abuse, neglect or domestic violence must be reported 
+promptly to the victim, unless the healthcare provider believes that such 
+notification would pose a risk of harm to the victim.   
+  
+II.  HEALTH OVERSIGHT ACTIVITIES  
+A.  The healthcare provider may disclose Protected Health Information to "health 
+oversight agencies."  The following government agencies, among others, may be 
+health oversight agencies, but only to the extent that they are overseeing or 
+investigating alleged violations involving (a) the health care system; (b) 
+government benefit programs for which health information is necessary to 
+determine eligibility; (c)  government regulatory programs for which health 
+information is necessary to determine compliance; or (d) civil rights laws for 
+which health information is necessary to determine compliance:   
+• Federal Bureau of Investigation (FBI) 
+• Department of Health and Human Services, Office of Inspector 
+General (OIG)  
+• state licensure boards   
+ 
+B.  An agency is not acting as a health oversight agency if it is investigating an 
+individual and the investigation is not directly related to the receipt of health care 
+or a claim for public benefits related to health.  In such cases, any request for 
+Protected Health Information must satisfy the criteria set forth in Section II of the 
+Policy Regarding Disclosure of Protected Health Information Pursuant to Court 
+Orders, Subpoenas and Discovery Requests.       
+ 
+III.  IDENTIFICATION OF SUSPECTS, WITNESSES, AND MISSING PERSONS  
+A.  The Organization may disclose Protected Health Information in response to a law 
+enforcement official’s request for such information to assist in identifying or 
+locating a suspect, fugitive, material witness, or missing person.   
+B.  The Organization may only respond to requests by law enforcement officials.  It 
+may not initiate disclosures without a request.   COR-109 
+Page 3 of 5 
+C.  Requests by law enforcement officials must be written, and include requests made 
+on behalf of law enforcement officials.  
+D.  In making disclosures under this section, the healthcare provider may disclose 
+only the following information:  
+1. Name and address;  
+2. Date and place of birth;  
+3.  Social security number;  
+4.  ABO blood type and Rh factor;  
+5.   Type of injury;  
+6.  Date and time of treatment;  
+7.   Date and time of death, if applicable; and  
+8.   A description of distinguishing physical characteristics, including height, 
+weight, gender, race, hair and eye color, presence or absence of facial hair 
+(beard or moustache), scars, and tattoos.  
+E.  The healthcare provider shall not disclose Protected Health Information related to 
+an individual's DNA or DNA analysis, dental records, or typing, samples or 
+analysis of body fluids or tissue.  
+ 
+IV.  VICTIMS OF A CRIME  
+A.  The Organization may disclose Protected Health Information in response to a law 
+enforcement official’s request for information about an individual who may be the 
+victim of a crime:  
+1.  If the individual agrees to the disclosure; or  
+ 
+2.  If the individual is unable to agree to the disclosure because of incapacity, 
+a law enforcement official states that disclosure is necessary for an 
+immediate law enforcement action, the information will not be used 
+against the individual, and the Organization determines that disclosure is 
+in the best interests of the individual.   
+B.  The healthcare provider may only respond to requests by law enforcement 
+officials.  It may not initiate disclosures without a request from a law enforcement 
+official.  
+C.  An individual's agreement to release Protected Health Information may be oral, 
+and does not need to satisfy the requirements of an authorization.     
+D.  If an individual is both a victim and a suspect (for example, an individual who 
+was injured in a drug -related shooting), the healthcare provider shall treat the 
+individual as a suspect, and release only the Protected Health Information set 
+forth in this Policy.   COR-109 
+Page 4 of 5 
+E.  This section does not apply to victims of child abuse.  In such cases, the 
+provisions of Section I.A shall apply.   
+F.  This section does not apply to victims of abuse, neglect, or domestic violence.  In 
+such cases, the provisions of Section I.B of this Policy shall apply.     
+ 
+V.  DECEDENTS  
+The healthcare provider may disclose Protected Health Information about an individual 
+who has died to a law enforcement official for the purpose of alerting the law 
+enforcement official about the death if the Organization suspects that the death may have 
+resulted from criminal conduct.     
+ 
+VI.  CRIME ON PREMISES  
+The healthcare provider may disclose Protected Health Information to a law enforcement 
+official if the healthcare provider believes that it constitutes evidence of criminal conduct 
+that occurred on its premises.     
+ 
+VII.  AVERTING SERIOUS THREATS TO HEALTH OR SAFETY  
+ 
+A.  The healthcare provider may use or disclose Protected Health Information if it 
+believes that such use or disclosure:  
+1.  Is necessary to prevent a serious threat to a person or the public.  In such 
+cases, the use or disclosure shall be directed to a person able to prevent the 
+threat, including the target of the threat.   
+2.  Is necessary for law enforcement authorities to apprehend an individual 
+who either admitted participating in a violent crime or has escaped from a 
+correctional institution or other lawful custody.   
+ 
+B.  A statement made by an individual admitting participation in a violent crime 
+cannot be the basis of a disclosure to law enforcement authorities if the statement 
+was made while the individual was in a course of therapy or counseling, or was in 
+the process of requesting such therapy or counseling.  
+C.  A disclosure made based on a statement by an individual admitting participation 
+in a violent crime shall be limited to the statement itself and the information set 
+forth in Section III.D of this Policy.   
+ 
+VIII.  INMATES   
+The Organization may disclose Protected Health Information about an inmate to a 
+correctional institution or to a law enforcement official having lawful custody of the COR-109 
+Page 5 of 5 
+inmate if the disclosure of such information is necessary for the health of the inmate, 
+other inmates, correctional employees, and the security and good order of the correctional 
+institution.    
+ 
+Reviewed:  Philip LeBlanc, Compliance Officer, June 11, 2019 
+ 

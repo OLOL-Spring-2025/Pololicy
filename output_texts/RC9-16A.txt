@@ -1,0 +1,24 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject: Correlation of Patient’s Blood Gas Results  
+with the Appropriate Blood Analyzer Section: Blood Gas Lab 
+Date of Origination: April 1, 2012 Signature: 
+Date of Last Revision: 14 August 2012 Serial Code: RC9-16A 
+                   Reviewed: January 31, 2024 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care  
+ 
+PURPOSE: 
+To identify which blood gas machine analyzed a specific patient’s blood gas results 
+ 
+PROCEDURES 
+A. Access RALSInformation System.  
+B. Select Blood Tests with appropriate date range.   
+C. Change the date range if further back than 30 days as necessary.   
+D. Select the Patient ID. 
+E. The host and reader ID will be identified with the Patient ID selection. 

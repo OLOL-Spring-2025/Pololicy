@@ -1,0 +1,307 @@
+NNA-098 
+Page 1 of 6 
+ 
+POLICIES AND PROCEDURES MANUAL 
+ 
+Manual:  Patient Care 
+Our Lady of the Lake Regional Medical Center 
+ 
+Chapter:  Nursing 
+Administration 
+Subject:  Monitoring Responsibilities for Patients Requiring 
+Cardiac Monitoring 
+Section:   
+Date of Origination:  December 12, 2011 Supersedes:  
+Date of Last Revision: 
+ 
+Date of Review:  
+May 1, 2024 
+   
+ May 1, 2024 
+Serial Code:   
+NNA-098 
+  
+Purpose:  
+To delineate the responsibilities of clinical nursing staff and the centralized monitoring 
+technicians when monitoring patient’s cardiac activity and/or other clinical parameters in real-
+time using bedside hardwired monitors or telemetry monitoring.  
+ 
+Nursing Roles/Responsibilities for Remote Telemetry Monitoring: 
+ 
+The RN caring for the patient is responsible for notifying the provider of any cardiac rhythm 
+changes from baseline and/or changes in a patient’s status.  
+I. Admit: 
+1. Verify doctor’s order for telemetry monitoring. 
+2. Explain telemetry monitoring to the patient. 
+3. Contact the Central Cardiac Monitoring Unit (CCMU) at ext. 4-4720 and provide the 
+following:   
+a. Patient’s last name 
+b. Patient’s 13-digit CSN 
+c. Room number 
+  
+4. Once order is confirmed, unit staff retrieves telemetry box from their department’s 
+allotted supply.  
+5. The nursing unit is responsible for lead wires and batteries. 
+6. Prep patient’s skin by cleansing areas where electrodes will be placed with soap and 
+water, alcohol, or a dry terry cloth (if patient’s skin is friable). Male patients should 
+have hair directly beneath the area under the electrode pad removed.  
+7. Connect adult patients to the transmitter utilizing 5 lead wires in the following 
+placement pattern and pediatric patients utilizing 3 lead wires (a, b, & c below): 
+a. Right Arm (RA)- place below the right clavicle  
+b. Left Arm (LA)- place below the left clavicle 
+c. Right Leg (RL)- place below the right 6thintracostal space 
+d. Left Leg (LL)- place below the left 6thintracostal space 
+Chest (C)- place in the center of the chest right or left of the sternum at the 4thintercostal space. 
+8. CCMU tech will confirm clear reception signal and rhythm and read back the 
+following: 
+a. Patient’s last name 
+b. Patient’s 13-digit CSN 
+c. Room number 
+d. Channel number NNA-098 
+Page 2 of 6 
+ 
+e. Alarm setting category (See alarm setting section) 
+9. Analyze an admit rhythm strip with documentation of rhythm, rate, PR, QRS, and 
+QT intervals using the calipers in Clinical Access and save to the electronic medical 
+record. Refer to the Recommendations for Use of Clinical Access section of this 
+policy for instructions on saving the strip, and for printing if necessary. 
+ 
+II. Interruption in Patient Monitoring: 
+1. For units with remote telemetry monitoring, notify the Central Monitoring Station 
+immediately when: 
+a. A patient leaves the floor for a test/procedure or for showering/hygiene. 
+Provider does not need to be notified prior to removal. 
+ 
+b. Telemetry monitoring is resumed after the above activities. Patient 
+identification will be repeated every time the patient is reconnected to 
+monitoring using patient identification process (2 or 3 ID). 
+2. For units with remote telemetry monitoring, respond immediately to calls from the 
+Central Monitoring Station regarding an interruption in patient monitoring by: 
+a. Verifying any reported dysrhythmias or telemetry problems by visually 
+assessing the patient for signs and symptoms. 
+b. Checking lead wire placement and connections. 
+c. Checking electrode pads for secure adhesion to skin or dryness of conduction 
+gel. 
+d. Checking battery for proper placement. In the event that the battery needs to 
+be replaced, the nurse will accomplish without delay. 
+3. If at any time the patient is not found in the assigned room, the nurse will use the 
+tracking system to identify patient/monitor location. 
+4. Provide care for electrodes and leads by: 
+a. Removing old electrodes, cleanse and prep skin, and apply new electrodes 
+per manufacturer’s recommendation for adult patients and whenever 
+adhesion is compromised.  Electrodes will be changed as needed for infants, 
+every 3 days for older children, and as needed.  After applying the new 
+electrodes, the nurse will call Centralized Cardiac Monitoring to verify 
+waveform visibility. This is best accomplished from the patient room. 
+b. Replacing lead wires when broken or there is an indication that they are 
+causing interference or lack of conduction in the rhythm display. 
+ 
+III. Monitoring and Documentation Requirements: 
+1. Review alarm parameters for appropriateness every shift and as needed for any 
+changes in patient condition or therapies. 
+2. Use “analyze” and save a rhythm strip to the patient’s medical record once per shift, 
+and as needed per patient condition.  Document rhythm, rate, PR, QRS and QT 
+intervals measured by using calipers in Clinical Access and noted on strip. (If 
+necessary, to print a strip, refer to the Recommendations for Use of Clinical Access 
+section of this policy for instructions). 
+3. Note and save a strip for dysrhythmias and cardiac events to include measurements 
+and interpretation (rhythm, rate, PR, QRS, QT intervals), and provider notification if 
+necessary, including new dysrhythmias and cardiac events. NNA-098 
+Page 3 of 6 
+ 
+4. In the event of a Code Blue, after resolution of the Code Blue, save an event strip 
+including the initiation of the event and documentation of any changes in rhythm 
+continuing through termination of efforts.  The strip will be labeled “Code Blue “and 
+will include measurements (if appropriate) and the RN’s first initial, last name, and 
+credentials. 
+ 
+IV. Discontinuing Monitoring: 
+ 
+1. Nurse driven discontinuation protocol: 
+a. Indications for monitoring will mirror the alerts for providers.  Any changes in 
+provider notification for the duration of the telemetry and the discontinuation 
+process will be mirrored in the nursing alert. 
+b. Nursing will receive a passive alert via the electronic health record when the 
+indication for a telemetry order has expired.   
+c. If the patient has an expired indication that signals cardiac monitor 
+reevaluation, and within the prior 8 hours, the patient does not have:  
+(1)Systolic blood pressure less than 95 mmHg, (2)heart rate greater than 120 
+or less than 45 beats per minute, (3)respiratory rate greater than 28 or less than 
+8 or (4) any change in clinical status such as arrythmias or clinical 
+deterioration, then cardiac monitoring can be discontinued. 
+d. The nurse will utilize the Cardiac Monitor Re-Eval alert to place an order by 
+protocol (assigned to the attending physician) to discontinue the cardiac 
+monitor. 
+e. The nurse is not required to call the attending physician for an order but 
+should contact the provider if there is any specific concern about monitor 
+discontinuation when criteria are met. 
+2. Discontinuation procedure: 
+a. Units with remote telemetry monitoring will notify the Central Monitoring 
+Station of discontinuation. 
+b. Disconnect the monitor from the patient and remove electrode pads. 
+c. Remove the battery and lead wires from the transmitter and discard. 
+d. Clean the transmitter and lead wires with approved product. 
+e. Return the transmitter to the department’s telemetry box storage area. 
+ 
+ 
+Monitoring Technician Roles/Responsibilities for units with remote telemetry monitoring: 
+ 
+I. Admit: 
+1. Admit the patient to the Central Monitoring Station using medical record number in 
+the ID field. 
+2. Verify telemetry is functioning with the nurse. 
+3. Confirm that alarm is audible per the Central Monitoring Station. 
+II. Continuous Monitoring: 
+1. Verify that each patient’s alarm is audible per the Central Monitoring Station every 
+shift and as needed for any changes in patient condition or therapies. 
+2. Notify the patient’s nurse of any changes in the patient’s electrocardiogram.  This 
+includes any severe changes in heart rate, interval measurements or rhythms.   
+3. Monitor in Leads II and VI unless specified otherwise in the provider orders.  NNA-098 
+Page 4 of 6 
+ 
+4. Notify the nurse of all alarms and/or an interruption in patient monitoring. 
+ 
+ 
+III. Interruption in Patient Monitoring (not related to procedure, testing or approved 
+temporary removal): 
+1. When an interruption in patient monitoring is noted by the monitor technicians 
+(leads off, artifact, lack of waveform for any reason), the monitor technician will 
+notify the patient’s nurse via phone.   
+a. The monitor technician will note the patient’s location, time, reason for 
+notification, and nurse’s name on the 24-hour log sheet.   
+b. The nurse will reconnect or resume successful patient monitoring.  Once the 
+patient is reconnected to the monitor, the nurse will call the Centralized 
+Cardiac Monitoring to verify that a clear monitor rhythm has been obtained.  
+c. Any communication from the nurse that is received during initial call will be 
+noted on the 24-hour log sheet.  
+d. Assist nurse if at any time the patient is not found in the assigned room by 
+using the tracking system to identify patient/monitor location. 
+2. If after five minutes, rhythm monitoring has not been re-established, the monitor 
+technician will notify the unit’s charge nurse.   
+a. The monitoring technician will document the charge nurse’s name on their log. 
+b. The charge nurse will have five minutes to reconnect or resume successful 
+patient monitoring by performing the tasks themselves or by delegating the 
+task to another registered nurse.  Once the patient is reconnected to the 
+monitor, a registered nurse will call Centralized Cardiac Monitoring to verify 
+that a clear monitor rhythm has been obtained.   
+c. Communication from the charge nurse/registered nurse will be noted on the 24-
+hour log sheet.  
+3. If after five more minutes (after a total of 10 minutes from initial call), rhythm 
+monitoring has not been re-established, the monitor technician will notify the unit’s 
+manager during regular hours (7A to 3P). After hours (3P to 7A – Monday through 
+Friday and 24 hours a day on weekends and holidays), a call will be placed to the 
+House Manager. 
+a. The monitoring technician will document the name of the person they speak 
+with on their log.   
+b. The Nurse Manager/House Manager will have five minutes to reconnect or 
+resume successful patient monitoring by performing the tasks themselves or by 
+delegating the task to another registered nurse.  Once the patient is reconnected 
+to the monitor, a registered nurse will call Centralized Cardiac Monitoring to 
+verify that a clear monitor rhythm has been obtained.   
+c. Any communication from the Nurse Manager/House Manager will be noted on 
+the 24-hour log sheet.  
+4. If a patient alarms Asystole, the monitor technician will notify the nursing team by 
+calling the unit and stating, “Possible Code Blue, Asystole, Check the patient, and 
+patients’ room number.”  
+a. The monitor technician will set their timer for a one-minute countdown from 
+the time asystole was called to unit. 
+b. The nursing team will determine if Code Blue needs to be called or re-establish 
+rhythm monitoring before one-minute countdown has expired.  NNA-098 
+Page 5 of 6 
+ 
+c. After one minute, if no code called by nursing or rhythm has not been re-
+established the monitor technician will activate Code Blue by calling 5-3333 to 
+report Code Blue and patient’s room number. 
+d. If the monitor technician has to activate code blue for asystole, Centralized 
+Cardiac Monitoring will enter an incident event. 
+ 
+Nurse Responsibilities for Critical Care Units and Emergency Department: 
+ 
+1. Initiate bedside monitoring and admit the patient to the monitor utilizing the patient’s last 
+name and medical record number. 
+2. Save a rhythm strip to the patient’s medical record upon initiation of cardiac monitoring, 
+and once per shift. ED documentation will occur every 8 hours from initial 
+documentation), and as needed per patient condition.  Documentation will include lead, 
+PR interval, QRS interval, QT interval, ventricular rate, alarm in use, and alarm limits set. 
+3. All dysrhythmia alarms will be reviewed every 8 hours and any noted dysrhythmias or 
+cardiac events will be saved to the patient’s chart with measurements and interpretation. 
+4. All tracings will be included in the patient’s medical record. 
+5. The provider will be notified of all significant changes related to patient’s 
+electrocardiographic tracings. 
+6. In the event of a “code blue”/cardiorespiratory arrest, an event strip will be saved upon 
+initiation of the event and with any documentation of changes in rhythm.  Upon 
+termination of efforts, a rhythm strip documented in two leads will be saved. The strip 
+will be labeled “Code Blue “and will include measurements (if appropriate) and the RN’s 
+first initial, last name, and credentials. 
+7. The patient will be discharged from the bedside monitor in the ICU or the ED prior to 
+any transfer out of the unit or discharge home. 
+ 
+ 
+ 
+Nurse Responsibilities for Post Anesthesia Care Unit: 
+ 
+1. Admit patient into recovery bay by utilizing transfer function in electronic medical 
+record.   
+2. Upon admission to PACU bay, a 6 second strip will be analyzed, printed and placed on 
+the patient’s chart.   
+3. If the patient remains in PACU for an extended period of time, repeat strips will be 
+analyzed and printed every 8 hours and as needed per patient condition.   
+4. All printed tracings will be included in the patient’s medical record. 
+5. Anesthesia provider will be notified of all significant changes related to patient’s 
+electrocardiographic tracings. 
+6. In the event of a “code blue”/cardiorespiratory arrest, an event strip will be saved and 
+printed upon initiation of the event and with any documentation of changes in rhythm.  
+Upon termination of efforts, a rhythm strip will be saved, printed, and documented in two 
+leads. 
+ 
+ 
+ 
+ NNA-098 
+Page 6 of 6 
+ 
+Alarm Parameters: 
+1. Default parameters are checked by Biomedical Engineering when a telemetry transmitter 
+is repaired, new, and when performing preventive maintenance. 
+2. Alarm parameter minimum and maximum limits are: 
+a. Adult – 50 minimum and 150 maximum 
+b. Children ages more than 10 years – 50 minimum and 100 maximum 
+c. Children ages 2 years to 10 years – 60 minimum and 140 maximum 
+d. Children ages 3 months to 2 years – 75 minimum and 190 maximum 
+e. Children ages newborn to 3 months – 80 minimum and 205 maximum 
+3. Nurse may use (or request a monitor technician to use) the Learn feature to relearn the 
+patient’s baseline when there is a change in the patients rate due to intervention or change in 
+the patient’s condition.4. Nurse may change (or request a monitor technician to change) the 
+minimum or maximum with a physician’s order. 
+ 
+Standard Use of Clinical Access: 
+To Save an Event: 
+• Open the patient’s Clinical access window 
+• Analyze data 
+• Use the measurement Calipers to interpret rate, PR, QRS, and QT measurements 
+• “Save” and select the midpoint of the desired strip.  
+• Measurements and other narrative information may be typed in the field that appears in 
+the window. Label the strip with your time, date, and interpretation.  Example: 
+05/09/2016 0000 Sinus Tachycardia R. Nurse. Indicate in comments for an admit strip, 
+discharge strip, etc. “admit strip” Click SAVE. 
+• You can print while saving by checking the “Print while saving” box on the bottom left 
+of the window. This will print an immediate strip to the electronic medical record while 
+also saving the strip in the memory. (Ensure “spacelabs” selected under printer 
+maintenance) 
+ 
+To Print a Saved Event Report: 
+The RN is required to save each of their assigned patient’s interpreted telemetry strips once per 
+shift. The RN is also required to save and print an interpreted telemetry strip on admission and/or 
+transfer.  
+1)            Each interpreted telemetry strip must be clear with no artifacts and saved into the 
+patient’s Saved Events folder in Space Labs. 
+2)            Go to Saved Events, select the strip to be printed, and click Print.  This will send the 
+interpreted strip into the patient’s chart through Epic. 
+**During downtime, system failure, or per instructions, interpreted telemetry strips must be 
+manually printed at the designated printer on the unit and placed in the patients’ charts. ** 
+ 
+ 
+References: 
+ 
+American Heart Association: Circulation. (2017). Update to practice standards for 
+electrocardiographic monitoring in hospital settings: A scientific statement from the American 
+Heart Association. 136.19. https://doi.org/10.1161/CIR.0000000000000527. Spacelab 

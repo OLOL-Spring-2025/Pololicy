@@ -1,0 +1,50 @@
+ Policy SOS050 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Digital Image Capture & Retention  Policy Reference #: PH0526 
+Supersedes #:  
+Date of Origination: 04/15/2016 Last Date Reviewed: 6/2/2024 
+Last Date Revised: 05/07/2018 
+ 
+POLICY: 
+Digital images taken during the preparation of Intravenous Admixtures and Patient Specific Doses of Oral 
+Liquids* should be stored and readily retrievable. 
+ 
+STATEMENT OF PURPOSE: 
+In the event of  an audit, recall or patient safety event , pictures or digital images of key elements during 
+the preparation of specific patient medications should  be digitally capture d and retained for potential 
+review.   
+ 
+DEFINITIONS: 
+• Compounding – the act of mixing or constituting products for a final product intended to be 
+administered to a patient.  
+• DoseEdge - enterprise solution that interfaces with  the Pharmacy Information System (PIS) to 
+automate the process of routing, preparing, inspecting, tracking and reporting on IV and oral liquid 
+doses. 
+• Key Elements – items in the process of compounding that should be captured digitally.  
+o Drug Name as indicated on manufacturer’s product label  
+o Drug Dose, strength, or concentration as indicated on manufacturer’s product label 
+o Drug Diluent – name and concentration where applicable 
+o Drug Lot as indicated on manufacturer’s product label 
+ 
+ 
+PROCEDURE: 
+Using the IV Workflow system , DoseEdge, digital images will be captured during the preparation of IV 
+and/or applicable oral admixtures by personnel compounding an ordered medication.  This will include a 
+series of images in the order of events for compounding the product.   
+ 
+For each patient specific compounded product, images taken will capture the drug name, dose or strength, 
+drug diluent, and drug lot information.  The images will be retained and readily retrievable in DoseEdge 
+for 30 days.   
+ 
+Should images need to be retrieved and/or reviewed, only authorized parties may review images according 
+to Health Insurance Portability and Accountability Act (HIPPA) laws.   
+ 
+Commented [LD1]: added asterisk to separate out 
+Ascension  Policy SOS050 
+Page 2 of 2 
+* - activity not recorded at Ascension campus.  Ascension will use Simplifi to capture lot and expiration 
+of original packaging. 
+ 
+Commented [LD2]: Asterisk comment added to explain  

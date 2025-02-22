@@ -1,0 +1,222 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 1 of 5 
+LBA300 
+LABORATORY ADMINISTRATION MANUAL 
+LBA300 
+ 
+LABORATORY INFORMATION SYSTEM 
+ 
+ 
+SYSTEM DESCRIPTION 
+ 
+The Information System (IS) used by Franciscan Missionaries of Our Lady Health 
+Systems (FMOLHS) is EPIC. The primary Lab Information System (LIS) consists of 
+Beaker, the Lab Module within the EPIC system.  Data Innovations (Instrument 
+Manager) is the middleware that is used to interface Lab Instrumentation with the EPIC 
+system where applicable. EPIC does not include a Transfusion Medicine module.  HCLL 
+is the approved LIS that is used for Transfusion Services and is interfaced with EPIC.  
+Outreach clients without direct access to EPIC systems interface through Atlas into their 
+respective interfaces. Miscellaneous interfaces include Ligo Lab (PGL), Mayo Medical 
+Laboratory Reference Lab Services, and Louisiana Office of Public Health.  The 
+laboratory information systems have been thoroughly validated for all patient test 
+reporting including transfusion services.  Interfaces which populate data into another 
+computer system use HL-7 encoding and transmission schemes.   
+ 
+The laboratory director has deemed the functionality and reliability of the hardware and 
+software of the computer system as adequate to meet the needs of patient care.  The 
+laboratory director or a designee reviews laboratory computer policies and procedures at 
+least biennially.   
+ 
+All LIS and computer procedures are clearly documented, complete, and readily available 
+to all authorized users.  All facility-wide computer related policies are available on 
+TeamLink, OLOLRMC’s online website. 
+ 
+ 
+COMPUTER FACILITIES 
+ 
+The computer room meets standards brought forth by the College of American 
+Pathologists (CAP) and is clean, well-maintained and adequately ventilated with 
+appropriate environmental controls.  The computer room location is locked and secured 
+and under video surveillance.  It is built up off the floor for cooling purposes and has 
+halon fire extinguishers available for use in case of a fire.  All network cables are labeled 
+adequately and well-maintained.  The labels show which devices use which specific 
+ports. 
+ 
+ABC fire extinguishers are in place within the computer facility.  This type of 
+extinguisher is the appropriate type of extinguisher to be used for the electrical 
+components which are in the computer room.  Also located within the computer room is a 
+halon warning board and an automatic water sprinkler system.   
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 2 of 5 
+LBA300 
+All wires and cables are properly located and protected from traffic.  Wires within the 
+computer room are located in the ceilings and under the flooring.  The computer system 
+is adequately protected against electrical power interruptions by uninterrupted power 
+supplies (UPS).  Emergency generators use surge strips locally in order to protect from 
+power surges.  Emergency backup red power outlets are provided to ensure power 
+required for uninterrupted testing.  Monthly generator tests are conducted in order to test 
+the system’s protective equipment. 
+ 
+OLOL’s software is maintained remotely by EPIC Systems Corporation in Verona, WI.  
+EPIC complies with CAP requirements and regularly provides OLOL with updated 
+conditions of its facilities. Further questions of compliance of the remote host may be 
+directed to info@epic.com 
+ 
+ 
+HARDWARE AND SOFTWARE MAINTENANCE 
+ 
+The hardware and software comprising the laboratory information system are installed, 
+serviced, and monitored through the FMOL IS Department.  Sub sections of this FMOL 
+IS are responsible for various components of the information system.  Components 
+include but are not limited to hardware, software, security, and technology infrastructure.  
+Vendor support for the software system is provided by EPIC.  For hardware or software 
+emergencies, contact the FMOLHS Help Desk at 225-765-4357.  The Help Desk will 
+contact the appropriate department to address the issue. 
+ 
+The installation of new software into the production environment is preceded by change 
+control documentation and approval by the FMOL IS department, preproduction 
+authorization request documentation, installation into test environments, and testing 
+designed to address the interdependencies and certification methods.  Any major software 
+installation, including customized programs, requires testing of all functions using a 
+scripted test plan.  The lab database consisting of ordering, processing, resulting, 
+charging, and date distribution functions was constructed by FMOL IS-EPIC teams and 
+tested by laboratory supervisory personnel.  These functions are maintained and further 
+developed by FMOL IS personnel.  Documentation of this testing can be found in the 
+initial validation data or within the applicable department.  Unauthorized installation of 
+software is prohibited on any computer used in the laboratory. 
+ 
+A Change Control Access database is used to document reasons for requesting changes to 
+the database.  It provides each requested change with a project number, defines the 
+project and lists tasks and resources necessary to complete the project.  It accommodates 
+the attachment of documentation (e-mails, EPIC documentation, etc.), assignment of 
+tasks and plans the interaction required with other personnel and departments to 
+accomplish the change.  It records the predicted effects of change on the system as a 
+whole and on individual departments, and also establishes time lines.  It provides an 
+email vehicle for receiving approval and for recording scheduled and completion dates 
+for changes and formats the data for a printed report.  It maintains a record of the OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 3 of 5 
+LBA300 
+approvals and the steps scheduled and completed. IS footprints tickets generated by the 
+Help Desk and TeamLink are documented using this system. 
+ 
+All changes to the EPIC software occur during bi-monthly special update (SU) install.  
+No changes are made outside of the SU install.  The persons who perform the install, and 
+the dates the installs occur are tracked in the Release Authorization module in Sherlock.  
+Sherlock is the EPIC system oversight module. 
+ 
+Documentation for the initial computer system training of employees is located in 
+HealthStream and can be provide upon request. All new employees must attend EPIC 
+user training with a Laboratory Credentialed Trainer in order to receive their computer 
+user ID.  Upon any system modification, a bulletin is sent out by the FMOL IS 
+department to the individual laboratory departments.  Any new changes regarding the 
+computer system are reviewed with all laboratory employees either by their immediate 
+supervisors during departmental meetings or by FMOL IS personnel.   
+ 
+ 
+COMPUTER SUPPORT RESOURCES 
+ 
+In case of emergent software or hardware problems, users should contact FMOLHS Help 
+Desk at (225) 765-4357 / 765-HELP. The HELP desk will generate an IS Support 
+Footprint Ticket. 
+ 
+For non-emergent problems, users may generate IS Support Footprint Tickets from the IS 
+Support Center link on TeamLink. 
+ 
+The IS Support Footprint Ticket will record and dispatch reported problems to proper 
+troubleshooting personnel.  Provision is made for assigning point numbers, recording 
+call-back numbers and the identity of researching previous similar problems, assigning 
+responsibility for investigation and correction, and to record the corrective action.  It 
+allows the user to prioritize and manage work order centrally through a Footprint ticket 
+system.  This software also enables the help desk to improve its processes through on-
+demand surveys and reports.  The user may also check the status of work orders 
+submitted online, search a self-service knowledge base for existing solutions, chat with 
+help desk representatives to resolve issues quickly.  The Help Desk will follow a 
+schematic troubleshooting diagram to respond quickly to problems. 
+ 
+ 
+SYSTEM SECURITY 
+ 
+All electronic Protected Health Information (ePHI) must be encrypted before it is sent via 
+any clear text network protocol outside of the FMOL network.  Where technology is not 
+available for automatically encrypting ePHI, users are responsible for initiating the 
+encrypting information.  Third parties that require access to, or transmission of ePHI, 
+must enter into a business associate agreement with Our Lady of the Lake or FMOLHS 
+prior to permitting access.  These guidelines meet HIPAA standards.   OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 4 of 5 
+LBA300 
+ 
+Confidentiality is maintained when patient data is transmitted between two organizations.  
+Release of information by facsimile transmission will comply with federal, state, and 
+local laws.  Confidential information may be released only as specified by policy or 
+patient authorization.  Out-going patient-related information for continuity of care may be 
+faxed to the physician of record without patient authorization when the physician 
+supports the request for expedited communication with a reasonable explanation of need.  
+A faxed copy shall be deemed to have the same force and effect as an original document.  
+ 
+Laboratory computer security is administered through the hospital information systems 
+security officer.  Tasks are granted to individual users based on job class, need, and 
+function.   
+ 
+Computer access codes are maintained by the Information Systems Security Director and 
+Information Systems Security Administrator.  Each employee is given a unique logon id 
+and a password that should never be shared.  Access is obtained by the submission of an 
+IS “footprint” and in most cases, upon completion of OLOL new employee orientation 
+and training.   
+ 
+Employees sign a confidentiality statement when they receive their login information, 
+following orientation.  When an employee leaves OLOL, human resources will notify the 
+security administrators via a termination list to delete the former employees from the 
+system.   
+ 
+The identity of all resulting personnel, as well as personnel who view a patient’s chart is 
+traceable for each element of the patient report.  All individuals who have viewed, 
+ordered, logged in, resulted, and/or modified or otherwise accessed data or control files 
+are identifiable.   
+ 
+ 
+DISASTER PREPAREDNESS OF COMPUTER SYSTEM AND FACILITIES 
+ 
+The hospital has devised a Disaster Recovery Plan for its information systems, a copy of 
+which can be found on TeamLink (Enterprise policies > FMOLHS> Information 
+Technology). 
+ 
+OLOL’s software is maintained remotely by EPIC in Verona, WI.  EPIC hosts a disaster 
+recovery (DR) environment in Rochester, MN.  This environment is a live copy of EPIC.  
+In case of a destructive event, EPIC will cut over to DR.  All users will be able to access 
+EPIC via the DR environment. 
+ 
+The OLOL computer system is adequately protected against electrical power 
+interruptions by uninterrupted power supplies (UPS).  Emergency generators use surge 
+strips locally in order to protect from power surges.  Emergency backup red power outlets 
+are provided throughout the hospital in order to provide power required for uninterrupted OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 5 of 5 
+LBA300 
+testing.  Monthly generator tests are conducted in order to test the system’s protective 
+equipment. 
+ 
+ 
+REVISIONS 
+10/4/17 (created)  
+ 
+ 
+ 
+ 
+    By    Date 
+ Prepared/Revised D. Leger 10/4/17 
+Blood Donor Service Director Review D Gremillion 10/17/2017 
+Core Lab Director Review J Teague 10/12/2017 
+Outreach Director Review E Landry 10/16/2017 
+Medical Director Review A Harton 10/7/2017 
+ Effective Date 10/17/2017 
+ Origination Date 3/30/17 
+ 
+ 
+ 
+ 
+ 
+ 

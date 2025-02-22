@@ -1,0 +1,975 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 1 of 20 
+LBA201 
+LABORATORY ADMINISTRATION MANUAL 
+LBA201 
+ 
+EXPOSURE CONTROL PLAN  
+ 
+ 
+POLICY  
+ 
+The Laboratory Department is committed to providing a safe working environment and 
+believes employees have a right to know about health hazards associated with their work. So 
+that employees can make knowledgeable decisions about any personal risks of employment, 
+this Exposure Control Plan is established to include policies, procedures, and responsibilities 
+designed to develop awareness in employees of potentially infectious materials in the 
+workplace and to train employees in appropriate, safe working conditions. A copy of the plan 
+is available in the Laboratory Administration Manual located in the Lab Conference Room 
+and on TeamLink.   
+ 
+It is important that employers assume responsibility for laboratory safety. All employees will 
+have access to pertinent safety information and appropriate personal protective equipment 
+through their supervisory staff. The people who work in any given laboratory are best able to 
+detect potential problems in either the facility or work procedures. When safety concerns arise, 
+employees are encouraged to contact their supervisors. 
+ 
+A training program has been designed for the benefit and protection of all laborat ory 
+employees. Necessary information is available to inform the employee how best to handle 
+potentially infectious materials and how to make use of the new law. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 2 of 20 
+LBA201 
+GLOSSARY 
+ 
+BIOSAFETY LEVEL (BL) - Associated risks with microorganisms (e.g., BL1_minimal 
+disease in healthy adults such as Bacillus subtilis, BL2_moderate risk associated with 
+human diseases such as hepatitis B virus, BL3_microorganisms that may cause serious 
+diseases such as Mycobacterium tuberculosis, and BL4_microorganisms that are high 
+risk and considered lethal such as Lassa fever virus). 
+ 
+BLOOD - Human blood, human blood components, and products made from human 
+blood. 
+ 
+BLOODBORNE PATHOGENS - Microorganisms that are present in human blood and 
+that can cause disease in humans. These pathogens include hepatitis B virus (HBV) and 
+human immunodeficiency virus (HIV). 
+ 
+CJD - Creutzfeldt-Jakob Disease 
+ 
+CLINICAL LABORATORY - A workplace where diagnostic or other screening 
+procedures are performed on blood or other potentially infectious materials. 
+ 
+CONTAMINATED - Marked by the presence or the reasonably anticipated presence of 
+blood or other potentially infectious materials on an item or surface. 
+ 
+CONTAMINATED LAUNDRY - laundry that has been soiled with blood or other 
+potentially infectious materials or that may contain sharps. 
+ 
+CONTAMINATED SHARPS - Any contaminated object that can penetrate the skin, 
+including, but not limited to, needles, scalpels, broken glass, broken capillary tubes, and 
+exposed ends of dental wires. 
+ 
+DECONTAMINATION - The use of physical or chemical means to remove, inactivate, 
+or destroy blood borne pathogens on a surface or item to the point where they are no 
+longer capable of transmitting infectious particles and the surface or item is rendered safe 
+for handling, use, or disposal. 
+ 
+ENGINEERING CONTROLS - Devices or equipment for isolating or removing 
+hazards from the workplace. 
+ 
+EXPOSURE INCIDENT - A specific eye, mouth, other mucous membrane, non-intact 
+skin, or parenteral contact with blood or other potentially infectious materials that results 
+from an employee performing his or her duties. 
+ 
+HANDWASHING FACILITIES - Locations that provide an adequate supply of 
+running potable water, soap, and single-use towels or hot-air drying machines. 
+ 
+HBV - Hepatitis B virus OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 3 of 20 
+LBA201 
+HEPA FILTERS - High-efficiency particulate air filters 
+ 
+HIV - Human immunodeficiency virus 
+ 
+LICENSED HEALTH-CARE PROFESSIONAL - A person whose legally permitted 
+scope of practice allows him or her to independently perform the activities required for 
+hepatitis B vaccination and post-exposure evaluation and follow-up. 
+ 
+OCCUPATIONAL EXPOSURE - Reasonably anticipated skin, eye, mucous 
+membrane, or parenteral contact with blood or other potentially infectious materials that 
+may result from employees performing their duties.  
+ 
+OTHER POTENTIALLY INFECTIOUS MATERIALS (OPIM): 
+ 
+1. The following body fluids: semen, vaginal secretions, cerebrospinal fluid, synovial 
+fluid, pleural fluid, pericardial fluid, peritoneal fluid, amniotic fluid, saliva in dental 
+procedures, and any body fluid that is visibly contaminated with blood. 
+ 
+2. Any unfixed tissue or organ (other than intact skin) from a human (living or dead). 
+ 
+3. HIV-containing cell  or tissue cultures, organ cultures, and HIV - or 
+HBV-contaminated culture media or other solutions; and blood, organs, or other 
+tissues from experimental animals infected with HIV or HBV. 
+ 
+PARENTERAL - Exposure occurring as a result of piercing the skin barrier (e.g., 
+subcutaneous, intramuscular, intravenous routes) through such events as needle-sticks, 
+bites, cuts, and abrasions. 
+ 
+PERSONAL PROTECTIVE EQUIPMENT - Specialized clothing or equipment worn by 
+an employee to protect against a hazard. 
+ 
+PRODUCTION FACILITY - A facility engaged in industrial-scale, large-volume, or 
+high-concentration production of HIV or HBV. 
+ 
+REGULATED WASTE - Liquid or semi-liquid blood or other potentially infectious 
+materials; contaminated items that would release blood or other potentially infectious 
+materials in a liquid or semi-liquid state if compressed; items that are caked with dried 
+blood or other potentially infectious materials and are capable of releasing these materials 
+during handling; contaminated sharps; and pathological and microbiological wastes 
+containing blood or other potentially infectious materials. 
+ 
+RESEARCH LABORATORY - A laboratory producing or using small but significant 
+amounts of HIV or HBV. Research laboratories may produce high concentrations of HIV or 
+HBV but not in the volume found in production facilities. 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 4 of 20 
+LBA201 
+SHARPS - Any object that can penetrate the skin, including, but not limited to, needles, 
+scalpels, and broken capillary tubes. 
+ 
+SOP - Standard operating procedures 
+ 
+SOURCE INDIVIDUAL - Any individual, living or dead, whose blood or other 
+potentially infectious materials may be a source of occupational exposure to the 
+employee. Examples include, but are not limited to, hospital and clinic patients, clients in 
+institutions for the developmentally disabled, trauma victims, clients of drug and alcohol 
+treatment facilities, residents of hospices and nursing homes, human remains, and 
+individuals who donate or sell blood or blood components. 
+ 
+STERILIZE - To use a physical or chemical procedure to destroy all microbial life, 
+including highly resistant material endospores. 
+ 
+TB - Mycobacterium tuberculosis  
+ 
+STANDARD PRECAUTIONS - An approach to infection control in which all human 
+blood and certain human body fluids are treated as if known to be infectious for HIV, 
+HBV, and other blood borne pathogens. 
+ 
+WORK PRACTICE CONTROLS - Mandated procedures or policies that reduce the 
+likelihood of exposure by altering the manner in which a task is performed (e.g., by 
+prohibiting recapping of needles using a two-handed technique). 
+ 
+ 
+EXPOSURE DETERMINATION 
+ 
+All job classifications within the laboratory are assessed for occupational exposure to blood 
+borne pathogens. An attached list identifies those job classifications. 
+ 
+  
+ Job 
+ Classification 
+ Regular 
+ Exposure 
+ Some 
+ Exposure 
+ No 
+ Exposure 
+Technologist  *   
+MLA  *   
+Phlebotomist                   *   
+Laboratory Clerk   *  
+Secretary    * 
+ 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 5 of 20 
+LBA201 
+ 
+ENGINEERING AND WORK PRACTICE CONTROLS 
+(STANDARD OPERATING PROCEDURES) 
+ 
+Because few laboratory tasks are without potential exposure to infectious materials, general 
+precautions for handling all such materials have been adopted to minimize exposure. 
+ 
+Standard Precautions are observed throughout the laboratory to prevent contact with blood 
+and other potentially infectious materials. All body fluids are considered potent ially 
+infectious. 
+ 
+Engineering controls are examined, maintained, and replaced on a regular schedule to ensure 
+their effectiveness. This includes an annual inspection and certification of biohazard hoods. 
+ 
+Employees wash their hands immediately (or as soon as possible) after removing gloves or 
+other personal protective equipment and after hand contact with blood or other potentially 
+infectious materials. Hands are washed between all patient contacts; before eating, drinking, 
+smoking, applying cosmetics, lip balm, changing contact lenses, and after using lavatory 
+facilities. Facilities for hand washing are provided and are separate from those used for 
+washing equipment or for waste disposal. Where this option is not available, thorough 
+cleaning of the sink and surrounding area with an intermediate disinfectant after chemical 
+and/or biohazard waste disposal is required before hand washing is allowed. Antiseptic hand 
+cleaner or towelettes are used whenever clean running water is not available; however, they 
+are not used as a substitute for hand washing. Hands are washed with soap and water as soon 
+as possible. Wearing gloves does not mean you do not have to wash your hands! 
+All personal protective equipment is removed before leaving the work area.  If overtly  
+contaminated, items are removed and placed in an appropriately designated area or container 
+for storage, washing, decontamination, or disposal. (Please see Section V.) 
+ 
+Used needles and other sharps are not bent, broken, recapped, or re -sheathed by hand. 
+Contaminated needles are not sheared or broken. Used needles are not removed from 
+disposable syringes. Needles and sharps are disposed of in impervious disposable containers 
+located near the point of use.  
+ 
+Eating, drinking, smoking, applying cosmetics, li p balm, or handling contact lenses are 
+prohibited in work areas where there is a potential for occupational exposure.  
+ 
+Food and drink are not stored in refrigerators, freezers, or cabinets, or on shelves, countertops, 
+or bench tops where blood or other potentially infectious materials are stored or in other areas 
+of possible contamination. 
+ 
+All procedures involving blood or other potentially infectious materials are performed to 
+minimize splashing, spraying, spattering, and generating droplets of these substances (e.g., 
+blood specimens are opened using a gauze square to minimize contamination of skin and 
+clothing, or plastic shields or hoods are used to reduce splashing. Specimens are centrifuged 
+with the lid firmly latched to reduce the risk of infection by creating aerosols). OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 6 of 20 
+LBA201 
+Mechanical pipetting devices are used for all liquids. Mouth pipetting/suctioning is 
+prohibited. Pipette tips are disposed of in biohazard containers. Needles are not used for 
+sampling unless no alternative exists (e.g., blood culture bottles). 
+ 
+All specimens from patients are kept in clean and dry outside containers with a secure lid. All 
+specimens are transported in a secondary container (e.g., impervious plastic bag) that prevents 
+leakage during handling, processing, storage, transport, or shipping. The container is labeled 
+or color-coded appropriately. If the specimen could cause a puncture, then a secondary 
+container that is puncture-resistant is used. If specimens are transported via a pneumatic tube 
+system, the primary and secondary containers in the system are tested to ensure they remain 
+leak-proof. The pneumatic system is disinfected properly when it becomes contaminated. 
+ 
+Unfixed or unstained slides are considered infectious and treated appropriately.  
+ 
+Laboratory surfaces are made of impervious materials to facilitate disinfection. 
+ 
+Only authorized personnel are allowed in the laboratory. Casual visitors (e.g., family 
+members, tour groups) are discouraged. Non-laboratory personnel are closely supervised, 
+and appropriate protective measures (e.g., clothing) are used to ensure that they do not 
+cause a hazard to themselves or to the laboratory staff. 
+ 
+Service and maintenance personnel are not permitted to enter a biohazard area until the 
+laboratory's safety requirements are reviewed, the instrument to be serviced is 
+decontaminated, and appropriate personal protective equipment is issued and worn. 
+  
+Phlebotomy 
+ 
+● Tourniquets used for phlebotomy are for single use and discarded following each 
+patient use.   
+ 
+● Needle holders (e.g., Vacutainer) for use with evacuated blood tubes are discarded 
+following each patient use. 
+ 
+● Single use retractable skin puncture devices are to be used for dermal punctures. 
+ 
+● Plastic Vacuette Tubes are substituted for glass tubes when available.  
+ 
+Hematology 
+ 
+● Non-glass capillary tubes for micro-hematocrit are to be used. 
+ 
+● The sealant for hematocrit tubes is used once and not reformed for reuse. 
+ 
+● Sedimentation racks are decontaminated frequently by EPA approved 
+   disinfectant. OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 7 of 20 
+LBA201 
+● Cell sorters (excluding flow-cytometer) are operated behind a shield to prevent 
+splattering. 
+ 
+Microbiology 
+ 
+● Mycobacterium tuberculosis (TB) cultures are handled in a Class II, Biosafety Level 3 
+Biological Safety Cabinet. 
+ 
+● Blood culture bottles are secured by a rack to hold the bottle, allowing for easy entry 
+and removal of the needle. 
+ 
+● A gauze square is placed on the stopper of inoculated media to contain any  
+    spray that might develop. 
+ 
+Chemistry 
+ 
+● Sample probes may deliver a fine spray of sample. Shields around the probe are 
+recommended. The equipment is decontaminated at the end of each shift by 1% bleach.   
+ 
+● Waste from analyzers is considered contaminated and discarded in Biohazard 
+containers. 
+ 
+● Contaminated needles and other contaminated sharps are not recapped or removed 
+except where no alternative is feasible and the medical procedure requires it. 
+  
+● When recapping is necessary, it is accomplished by using a mechanical device or a 
+one-handed (scoop) technique. 
+ 
+Transfusion Services, Blood Donor, & Blood Distribution 
+ 
+Gloves are required when performing the following activities:  
+ 
+● ABO& Rh, antibody screens, compatibility testing, and other immuno-hematological 
+procedures. 
+ 
+● Component preparation procedures.  Specifically during removal of units from 
+centrifuge, inserting cups, and sealing tubes. 
+ 
+Pathology 
+ 
+● Freezing propellants under pressure are not used for frozen sections of known or 
+suspected TB tissue. TB and Creutzfeldt-Jakob Disease (CJD) tissue blocks are wrapped 
+in cellophane or sealable bags before filing. 
+ 
+● Paraffin blocks and covered slides are not considered infectious. 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 8 of 20 
+LBA201 
+• The cryostat is decontaminated daily with at least a 70% ethanol Solution and defrosted 
+and decontaminated weekly with a TB disinfectant. Trimmings and sections of tissue are 
+considered infectious. Stainless steel mesh gloves are worn when changing knife blades. 
+Solutions used for staining frozen sections are considered contaminated and are disposed 
+of by incineration. 
+ 
+• Reusable sharps (e.g., histology knife blades or scalpels) are not stored or processed 
+so that an employee must reach into a container where they are placed. They are 
+contained in puncture-resistant, labeled or color-coded, leak-proof containers. 
+ 
+PERSONAL PROTECTIVE EQUIPMENT 
+ 
+Personal protective equipment in appropriate sizes is readily available to employees. Personal 
+protective equipment is assigned based on the task assessment which does not allow blood or 
+other potentially infectious materials to pass through or otherwise reach the employee's work 
+clothes (e.g., scrubs), street clothes, undergarments, skin, eyes, mouth, or other mucous 
+membranes under normal conditions of use and for the time that the protective equipment is 
+used.  
+ 
+Employees are required to wear disposable, single-use gloves when they have the potential 
+for direct skin contact with blood and infectious materials, mucous membranes, and non-intact 
+skin when touching or handling contaminated items or surfaces.  
+ 
+Gloves are removed inside out aseptically and are replaced as soon as possible when visibly 
+soiled, torn, or punctured or any time their ability to function as a barrier is compromised. 
+They are not washed in disinfectant for reuse. Hypoallergenic gloves, glove liners, or powder-
+less gloves are provided to employees who are allergic to the regularly provided gloves. [Note: 
+Employees with contact dermatitis caused by gloves may find protective skin creams (e.g., 
+DermaShieldTM*) helpful in preventing further irritation.] 
+ 
+Laboratory coats with long sleeves are to be worn only in the laboratory area and are to be 
+closed (e.g., buttoned, snapped) to protect skin and clothing.  They are to be worn when the 
+procedure being performed may be reasonably anticipated to spray or splash blood, other 
+potentially infectious materials, or other hazardous materials. Aprons are worn in addition to 
+the laboratory coat when the laboratory coat cannot provide adequate protection (e.g., during 
+pregnancy) or when fluid contamination is likely.  Aprons are not substitutes for laboratory 
+coats but serve as additional protection. Laboratory coats are worn only in the work area and 
+removed prior to going on rest br eaks or in any public areas (e.g., cafeteria, lobby, or gift 
+shop). Laboratory coats are provided by the employer at no cost to the employee. 
+ 
+Soiled laboratory coats are removed immediately after leaving the work area (or as soon as 
+possible) and discarded.   
+ 
+Masks and eye protection or chin-length face shields are worn to prevent splashes, sprays, 
+spatter, or droplets of blood or infectious materials if there is a potential for eye, nose, or 
+mouth contamination. This equipment is located in each section.  Particulate filter respirators OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 9 of 20 
+LBA201 
+of appropriate sizes (e.g., T.B. or respiratory isolation patients) are issued to lab personnel 
+after the complete fit testing and respirator training. Employees are to adhere to Medical 
+Center Patient Isolation Policies/Procedures.   
+ 
+Safety Glasses meet OSHA standards and come in various sizes to accommodate the 
+wearer. Adjustable nose pads and temples are preferred. Lenses are optically correct in 
+both plain or prescription versions, and Anti-fog, scratch-resistant, and polycarbonate 
+lenses are recommended.  
+ 
+Tinting of lenses is not recommended. Side shields may be attached permanently or may be 
+detachable. The employer upon employment at no cost provides Safety Glasses to the 
+employee. Replacement and repair caused by normal wear and tear are also the employer's 
+responsibility.  
+ 
+Prescription lenses or replacement because of loss are the responsibility of the employee. 
+Safety glasses should be appropriately cleaned before using and whenever splashes or 
+contamination are visible. When not in use, safety glasses should be kept in a sanitizing 
+cabinet or decontaminated and in an individual case in the employee's locker. 
+ 
+Personal protective equipment (e.g., gloves, laboratory coat, or goggles) is required to be worn 
+by all outside service and maintenance personnel when there is a potential exposure to blood 
+and body fluids. This equipment is provided by the laboratory.   
+ 
+ 
+TASK ASSESSMENT 
+ 
+The Laboratory Section Supervisor makes assessment of all laboratory operations without 
+regard to the use of personal protective equipment. Safety policies are established for each 
+task performed, and engineering controls and personal protective equipment are assigned. As 
+a minimum, all employees wear laboratory coats, gloves, and appropriate eye protection when 
+dealing with blood and body fluids. The attached list identifies tasks in the laboratory 
+requiring additional protective equipment and engineering controls. 
+ 
+ 
+ Task 
+ Additional Protective 
+ Equipment 
+ Engineering 
+ Controls 
+Removing blood tube tops  None  Splash shield/2X2 Gauze 
+Phlebotomy  TB Mask as indicated  Sharps containers 
+Safety device for needles and 
+transfer devices 
+Processing samples    Splash shield/2X2 Gauze 
+Plating TB cultures  Gown, mask, and goggles  Biohazard safety hoods 
+ 
+    
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 10 of 20 
+LBA201 
+ANTISEPTICS/DISINFECTANTS 
+ 
+Antiseptics and disinfectants are used throughout the laboratory in a variety of ways. 
+Antiseptics are chemical germicides formulated for use on skin or tissue. Disinfectants are 
+agents that inactivate viruses, bacteria, and fungi on surfaces. Hospital disinfectants used are 
+registered by the Environmental Protection Agency (EPA) and are cla ssified as high -, 
+intermediate-, or low -level-depending on their ability to kill germs. The following are 
+examples only and do not exclude other uses: 
+ 
+Antiseptic Laboratory Use 
+Alcohol Phlebotomy 
+Chlorhexidine gluconate Hand-washing 
+Para-chloro-meta-xylenol Hand-washing 
+Iodophores Blood donor collection/apheresis 
+  
+Disinfectant Laboratory Use 
+Quaternary ammonias  Cleaning floors/walls 
+ammonium chlorides Cleaning countertops 
+Glutaraldehyde  Disinfecting rubber tubing 
+ 
+ 
+HOUSEKEEPING/SPILL CLEANUP 
+ 
+The Laboratory in cooperation with Housekeeping determines and implements an appropriate 
+written schedule for cleaning and decontaminating. All equipment and work surfaces are 
+decontaminated with an appropriate disinfectant (e.g., Super Sani-Cloth Germicidal Wipes or 
+other intermediate-level disinfectant is used): 
+ 
+• After completing procedures 
+• When surfaces are overtly contaminated 
+• Immediately after any spill of blood or other potentially infectious materials 
+• At the end of the work shift  
+ 
+If the Creutzfeldt-Jakob virus is suspected or confirmed, soaking the affected area with a 1 to 
+10 solution of bleach for 1 hour is recommended. All floors in the laboratory are wet-mopped 
+daily by housekeeping personnel. 
+ 
+Equipment that is contaminated with blood or other potentially infectious materials is checked 
+routinely and before servicing or shipping and is decontaminated as necessary according to 
+manufacturers' recommendations, which may include certification of the biosafety level (e.g., 
+BL1, BL2, BL3, or BL4). 
+ 
+All receptacles intended for reuse that have a potential for becoming contaminated with 
+blood or other potentially infectious materials are inspected and decontaminated 
+following contamination. 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 11 of 20 
+LBA201 
+Specimens of blood or other potentially infectious materials are placed in a closable, 
+leak-proof container and labeled before being stored or transported. If outside 
+contamination of the primary container is likely, then a second leak-proof container is 
+placed over the outside of the first and closed to prevent leakage during handling, storage, 
+or transport. If puncture of the primary container is likely, it is placed in a secondary 
+container that is leak-proof and puncture-resistant. 
+ 
+Broken glassware that may be contaminated is not picked up directly with the hands. It is 
+handled by using mechanical means, such as a brush and dust pan, tongs, or forceps. 
+ 
+Spills of body fluids are decontaminated as soon as possible by using the supplied body fluid 
+spill kits or by absorbing the spilled material with disposable absorbent materials (e.g., paper 
+towels or gauze pads), flooding the spill site or wiping the site with disposable towels soaked 
+in disinfectant, then wiping the site with clean, dry paper towels or gauze pads, placing all 
+contaminated items in a biohazard bag, and disposing of the bag according to laboratory 
+policy. Spill cleanup requires using protective equipment (e.g., gloves, laboratory coat, shoe 
+covers).  
+ 
+LAUNDRY 
+ 
+Contaminated laundry is bagged at the location where it is used and is not sorted or rinsed in 
+the laboratory. 
+ 
+Contaminated laundry is placed and transported in bags that are labeled with the biohazard 
+symbol or that are red. These bags are stored in the Exam Room storage cabinet. Whenever 
+this laundry is wet and presents a reasonable likelihood that the bag will soak through or leak, 
+the laundry is placed and transported in another bag that prevents fluid from leaking to the 
+exterior. These bags are stored in each laboratory section. 
+ 
+Laundry workers wear protective gloves and other appropriate personal protective equipment 
+to prevent occupational exposure during handling or sorting. 
+ 
+Clean linen and disposable laboratory coats are stored assigned areas. No soiled linen comes 
+in contact with clean linen.   
+ 
+ 
+ 
+SIGNS AND LABELS 
+ 
+Signs that bear the following legend are posted at the entrance to work areas: 
+ 
+BIOHAZARD 
+(Special requirements for entering the area) 
+  
+ Warning labels are affixed to: 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 12 of 20 
+LBA201 
+● Designate “Dirty Work Area”           
+  
+●           Containers of regulated waste 
+ 
+● Refrigerators and freezers containing blood and other potentially infectious materials 
+such as: Lab equipment, telephones, computers, and bench tops. 
+ 
+● Containers used to store, transport, or ship blood or other potentially infectious 
+materials. 
+  
+ Labels required by this section must include the following legend: 
+ 
+BIOHAZARD:  These labels are fluorescent orange or orange-red, or predominantly so, with 
+lettering or symbols in a contrasting color. 
+ 
+Labels are either an integral part of the container or are affixed as close as feasible to the 
+container by string, wire, adhesive, or other methods that prevent them from being lost or 
+unintentionally removed. 
+ 
+Red bags or red containers may be substituted for labels. 
+ 
+Containers of blood, blood components, or blood products that are labeled with their contents 
+and have been released for transfusion or other clinical use are exempt from the labeling 
+requirements. 
+ 
+Individual containers of blood or other potentially infectious materials that are placed in a 
+labeled container during storage, transport, shipment, or disposal are exempt from the labeling 
+requirement. 
+ 
+Labels required for contaminated equipment state which portions of the equipment remain 
+contaminated. 
+ 
+Regulated waste that has been decontaminated is not labeled or color-coded. 
+ 
+Areas where food is stored or prepared (e.g., lounge, Supervisor's office) are labeled as 
+non-biohazard areas. 
+ 
+WASTE DISPOSAL 
+ 
+Infectious waste in the state of Louisiana and the city of Baton Rouge is described as:  
+Infectious Medical Waste. 
+ 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 13 of 20 
+LBA201 
+Laboratory waste is segregated at the point of use into categories that include but are not 
+limited to:      
+ 
+  1. Pathological Waste/Biohazard 
+  2. Medical Waste/Biohazard 
+  3. Chemical waste (see Chemical Hygiene Plan) 
+  4. Recycled waste (e.g., paper, aluminum) 
+  5. Regular trash 
+ 
+Biohazard containers are kept upright throughout use and are routinely checked by laboratory 
+technical personnel and disposed of by Stericycle or housekeeping personnel. 
+ 
+All infectious waste is placed in leak-proof biohazard containers marked Biohazard and are 
+stored in the Biohazard dumpster in the Soiled Utility Storage room and disposed of by 
+incineration by Stericycle Corporation at its Regional Incinerators. 
+ 
+All sharps and glassware are disposed of immediately (or as soon as possible) in containers 
+that are closable, puncture-resistant, leak-proof on the sides and bottom, and appropriately 
+labeled with a biohazard label . These containers are placed in the immediate area of use 
+ideally no more than 100 feet away from the user. When containers of sharps are moved from 
+the area of use, the containers are closed, placed in a secondary container if they may leak, 
+and removed from the laboratory in Bio-hazard carts by Stericycle staff. 
+ 
+Reusable containers are not opened, emptied, or cleaned manually or in any other manner that 
+would expose employees to the risk of percutaneous injury. 
+ 
+Regulated waste is placed in containers that are closable and constructed to contain all 
+contents and to prevent fluids from leaking during handling, storage, transport, or shipping. 
+The containers are closed before removal to prevent the contents from spilling or protruding 
+during handling, storage, transport, or shipping. Containers will have an absorbent material 
+placed in each container with liquid waste in the event liquid is released inside the container. 
+If outside contamination of the regulated waste container occurs, it is placed in a second 
+container that has the same qualities as the first (e.g., closable, leak-proof) and is handled in 
+the same manner. 
+ 
+Regular trash includes the remainder of waste in the laboratory that poses no health or 
+environmental risk. This is disposed of through routine facility waste streams in appropriate 
+containers. 
+ 
+  
+ 
+TRAINING 
+ 
+All employees with occupational exposure to blood borne pathogens participate in a training 
+program at no cost to the employee and that is held during working hours. Training is provided 
+at the time of initial employment and annually thereafter. Additional training is offered OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 14 of 20 
+LBA201 
+whenever new or modified tasks or procedures affect the employee's occupational exposure. 
+Material appropriate in content and vocabulary to educational level, literacy, and language 
+background of employees is used. 
+ 
+The training program contains the following elements: 
+ 
+1. A general explanation of the epidemiology and symptoms of blood borne diseases. 
+ 
+3. An explanation of the modes of transmission of blood borne pathogens. 
+ 
+4. An explanation of the employer's Exposure Control Plan and a means by which the 
+employee can obtain a copy of the written plan. 
+ 
+5. An explanation of the appropriate methods for recognizing tasks and other activities 
+that may involve exposure to blood and other potentially infectious materials. 
+ 
+6. An explanation of the use and limitations of methods that will prevent or reduce 
+exposure, including appropriate engineering controls, work practices, and personal 
+protective equipment. 
+ 
+7. Information on the types, proper use, location, removal, handling, decontamination, 
+and disposal of personal protective equipment. 
+ 
+8. An explanation of the basis for selecting personal protective equipment, including 
+glove fitting, laboratory coat use, and eye protection equipment.  
+ 
+9. Information on the hepatitis B vaccine, including information on its efficacy, safety, 
+method of administration, and benefits. The vaccination will be offered free of charge. 
+ 
+10. Information on the appropriate actions to take and the people to contact in an 
+emergency involving blood or other potentially infectious materials. 
+ 
+11. An explanation of the procedure to follow if an exposure incident occurs, including 
+the method of reporting the incident and the medical follow -up that will be made 
+available. Also information on the medical counseling that the employer is providing 
+for exposed individuals. 
+ 
+12. An explanation of the signs, labels, and/or color-coding required. 
+ 
+ 
+13. An opportunity for interactive questions and answers with the person conducting the 
+training session. The person(s) conducting the training is knowledgeable in the subject 
+matter covered by the elements contained in the training program as it relates to Our 
+Lady of the Lake Regional Medical Center. 
+ 
+Adherence to recommended protective measures is monitored regularly. When monitoring OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 15 of 20 
+LBA201 
+reveals a failure to follow recommended precautions, counseling and retraining are provided 
+and, if necessary, appropriate disciplinary action is considered. 
+ 
+ 
+MEDICAL EXAMINATION 
+ 
+Our Lady of the Lake Regional Medical Center makes hepatitis B vaccinations available to 
+all employees who have occupational exposure and provides post-exposure follow-up for all 
+employees with an occupational exposure incident through the Employee Health Department.   
+ 
+All medical evaluations and procedures are performed by or under the supervision of a 
+licensed physician or another licensed health-care professional, and all laboratory tests are 
+performed at no cost to the employee. 
+ 
+All evaluations, procedures, vaccinations, and post-exposure management are provided to the 
+employee at a reasonable time and place at no cost to the employee and according to standard 
+recommendations for medical practice. 
+ 
+HBV vaccination is offered within 10 working days of initial assignment to all employees 
+occupationally exposed to blood or other potentially infectious materials, unless the employee 
+has a previous HBV vaccination or unless antibody testing has revealed that the employee is 
+immune or the vaccine is contraindicated for medical reasons. Participation in a prescreening 
+program is not a prerequisite for receiving HBV vaccination. If the employee initially declines 
+HBV vaccination but at a later date while still covered under the standard decides to accept 
+the HBV vaccine, the vaccine is provided at that time. Should a booster dose(s) be 
+recommended at a future date, such booster dose(s) will be provided according to standard 
+recommendations for medical practice at no cost to the employee. Any employee  who 
+declines HBV vaccination must sign a statement refusing the vaccination.   
+ 
+HBV antibody testing is made available to an employee who desires such testing before 
+deciding whether to receive HBV vaccination. If the employee is found to be immune to HBV 
+by virtue of adequate antibody titer, then HBV vaccine need not be offered to that employee. 
+ 
+Following a report of an exposure incident, each employee receives a confidential medical 
+evaluation and follow-up, including at least the following elements: 
+ 
+1. Documentation of the route(s) of exposure and the circumstances under which the 
+exposure occurred. 
+ 
+2. Identification and documentation of the source individual are done, unless 
+identification is infeasible or prohibited by state or local law. 
+ 
+3. The source individual's blood is tested as soon as possible and after consent is obtained 
+to determine HCV and HIV infectivity. If consent is not obtained, documentation that 
+legally required consent cannot be obtained is needed. When the source individual's 
+consent is not required by law, the source individual's blood, if available, is tested and OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 16 of 20 
+LBA201 
+the results documented. 
+ 
+4. When the source individual is already known to be infected with HCV or HIV, testing 
+for the source individual's known HCV or HIV status need not be repeated. 
+ 
+5. Results of the source individual's testing are made available to the exposed employee, 
+and the employee is informed of applicable laws and regulations concerning 
+disclosure of the identity and infectious status of the source individual. 
+ 
+6. The exposed employee's blood is collected as soon as feasible and tested after consent 
+is obtained.  
+ 
+7. High-risk exposures involve patient's blood or body fluids introduced through intact 
+skin or splashed onto mucous membranes or broken or abraded skin of the employee. 
+Any employee sustaining a high -risk exposure notifies his/her Supervisor 
+immediately. Emergency counseling and treatment are available in the Employee 
+Health Department or Emergency Care Unit during off hours.   
+ 
+8.       Follow-up of the exposed employee, including antibody or antigen testing, 
+counseling, illness reporting and saf e and effective post -exposure prophylaxis, is 
+conducted according to standard recommendations for medical practice. 
+ 
+Please refer to Our Lady of the Lake Regional Medical Center Employee Health Department 
+for specific information on how testing and results  are communicated to the exposed 
+employee and their health care provider.   
+ 
+ 
+ 
+RECORD-KEEPING 
+ 
+Medical records are kept on all laboratory employees in the Employee Health Department and 
+include the following: 
+ 
+• Employee name 
+ 
+• Employee Social Security number 
+ 
+• Hepatitis B vaccination record/eligibility 
+ 
+• Results of physical exams, testing, and follow-up procedures related to vaccination 
+and past exposures 
+ 
+• Medical consultation, physical and written opinion report (if necessary because of 
+exposure). 
+ 
+All medical records are kept for the required amount of time set forth by the health system OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 17 of 20 
+LBA201 
+and regulations.   
+ 
+Training records are kept on all laboratory employees in their Employee Files, and include:  
+ 
+• Dates of training sessions 
+ 
+• Contents or a summary of training  
+ 
+• Names and qualifications of instructors 
+ 
+• Attendance roster, including names and job titles. 
+ 
+All records are kept and transferred in accordance with 29 CFR 1910.20. 
+ 
+If Our Lady of the Lake Regional Medical Center ceases to do business and there is no 
+successor employer to receive and retain the records for the prescribed period, Our Lady of 
+the Lake Regional Medical Center will notify the area's OSSA Director and transfer the 
+records to the Director within 3 months. 
+ 
+ 
+ 
+ 
+REFERENCES 
+  
+1. Brown P et al. Sodium Hydroxide Decontamination of Creutzfeldt -Jakob Disease 
+Virus. New England Journal of Medicine, 1984;310(11):727.  
+ 
+2. Centers for Disease Control. Recommendations for Prevention of HIV Transmission 
+in Health -Care Settings. Morbidity & Mortality Weekly Report, August 
+1987;36(supplement no. 2s):35-185. 
+ 
+3. Forseter G et al. Blood Contamination of Tourniquets Used in Routine Phlebotomy. 
+American Journal of Infection Control, 1990;18(6):386-390. 
+ 
+4. National Committee for Clinical Laboratory Standards. Procedures for the Collection 
+of Diagnostic Blood Specimens by Venipuncture_Second Edition, NCCLS Approved 
+Standard H3-A2. Villanova, PA: NCCLS, 1991. 
+ 
+5. National Committee for Clinical Laboratory Standards. Protection of Laboratory 
+Workers from Infectious Disease Transmitted by Blood, Body Fluids and T issue, 
+NCCLS Tentative Guideline M29-T2. Villanova, PA: NCCLS, 1991. 
+ 
+6. National Committee for Clinical Laboratory Standards. Protection of Laboratory 
+Workers from Instrument Biohazards, NCCLS Proposed Guideline 117-P. Villanova, 
+PA: NCCLS, 1991. 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 18 of 20 
+LBA201 
+7. Occupational Safety and Health Administration (Department of Labor). Occupational 
+Exposure to Blood borne Pathogens; Final Rule. Federal Register, 29 CFR Part 
+1910.1030, December 6, 1991;56(235):64003-64182. 
+ 
+8. Rutala WA. APIC Guideline for Selection and Use of Disinfectants. American Journal 
+of Infection Control,  1990;18(2):99-117. 
+ 
+9. Weinstein SA et al. Blood Contamination of Reusable Needle Holders. Paper 
+presented at the 18th Annual Educational Conference of the Association for 
+Practitioners in Infection Control, Nashville, Tennessee, May 1991. 
+ 
+ 
+ 
+ 
+ 
+APPENDICES 
+ 
+ Appendix A  
+AUTOPSY SUITE 
+ 
+The autopsy suite is part of the Laboratory Department and is therefore covered in the 
+Exposure Control Plan. 
+ 
+All autopsies are considered infectious and Standard Precautions are followed. The autopsy 
+suite is designated as a biohazard area and appropriate signs are posted regarding the 
+biohazards and required precautions.  
+ 
+Personal protective equipment is essential during an autopsy. Caps or hoods that completely 
+cover the hair are used. A face shield is preferred; however, safety goggles with a cushion seal 
+are acceptable, and respirators are available. Safety glasses or ordinary prescription glasses 
+are not used because they do not offer adequate protection. Contact lenses are not manipulated 
+in the autopsy room. 
+ 
+A long-sleeved, fluid-resistant jump suit that covers the body from neck to feet is preferred. 
+Fluid-resistant surgical gowns with surgical scrub shirts and pants are adequate. A fluid-proof 
+apron is worn over any fluid-resistant clothing. 
+ 
+Double gloves are worn and are changed at regular intervals during the autopsy. The outer 
+glove covers the cuff of the sleeve. An outer glove of stainless steel mesh that resists punctures 
+may be worn as well as heavyweight utility gloves of the type used for home cleaning. 
+ 
+All tissues and contaminated instruments are retained on the autopsy table. Any tissue that is 
+removed from the autopsy table is placed into a tray for transport within the morgue or placed 
+into a container for storage or disposal. 
+ 
+Tissue specimens are placed into fixative on the autopsy table. The outside of all specimen OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 19 of 20 
+LBA201 
+containers is decontaminated by a hospital approved disinfectant before the containers are 
+removed from the autopsy table. Any unfixed tissue or other specimen sent from the morgue 
+to the laboratory for testing (e.g., culture or chemistry) is placed into a sealed, leak proof 
+container, which is placed into a sealable secondary container for transport. The specimen is 
+labeled as a biohazard. 
+ 
+Ten percent formalin in 10 times the volume of tissue is used to inactivate infectious agents 
+except TB and CJD. A 1:10 dilution of bleach is used for CJD and 10% formalin in 50% ethyl 
+alcohol is used for TB. 
+ 
+Bone surfaces are wet with water before being cut to minimize dispersal of bone dust. A 
+vacuum attachment for the bone saw helps to eliminate fine droplets. A personal respirator is 
+worn to prevent infectious particles (e.g., TB) from being inhaled. To contain bone dust and 
+spray, the entire skull is enclosed in a large plastic bag or box. The saw and hands are 
+introduced through a large hole made in the bottom of the bag/box. 
+Organs and tissues that are retained unfixed are placed into sealed leak proof containers or 
+sealable plastic bags. These, in turn, are placed into a secondary, sealable, leak proof 
+container. All unfixed, retained material is conspicuously labeled as a biohazard. When 
+retained tissues have served their purpose, they are shipped to a licensed off-site incineration 
+facility. 
+ 
+The body is washed with a detergent solution, followed by an antiseptic solution or diluted 
+household bleach, and rinsed with water before being covered with a leak proof shroud or 
+body bag.  
+ 
+Both the body tag and the shroud/bag are labeled with a biohazard label stating the nature of 
+the specific risk to alert the mortician to any potential biohazard. When autopsies are done on 
+patients known to harbor blood borne pathogens, the mortician should be notified directly.  
+ 
+Instruments are washed with a detergent solution, rinsed with water, and decontaminated with 
+a 1 to 10 or 1 to 100 dilution of household bleach or other suitable chemical germicide for 10 
+minutes.  Aluminum instruments are autoclaved. 
+ 
+All contaminated disposable clothing and supplies are placed into a biohazard container for 
+subsequent disposal or are autoclaved before disposal. If reusable clothing, towels, etc. have 
+been soaked with blood or are wet, they are placed in a leak proof biohazard bag for transport. 
+Dry, contaminated, reusable clothing is placed in a labeled or color-coded bag and sent to the 
+institutional laundry. 
+ 
+All surfaces adjacent to work areas, including floors, are cleaned and decontaminated with a 
+detergent solution, and flushed with water at the conclusion of the autopsy.  
+ 
+After the body has been removed by the mortician, the morgue cooler tray is decontaminated 
+with 1:10 bleach solution. 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 20 of 20 
+LBA201 
+ 
+REVISIONS 
+5/1992 (created), 3/2015, 8/2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    By    Date 
+ Prepared/Revised D. Leger 8/23/17 
+Blood Donor Service Director Review D Gremillion 10/3/2017 
+Core Lab Director Review J Teague 10/2/2017 
+Outreach Director Review E Landry 10/4/2017 
+Medical Director Review A Harton 10/1/2017 
+ Effective Date 10/6/2017 
+ Origination Date May 1992 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

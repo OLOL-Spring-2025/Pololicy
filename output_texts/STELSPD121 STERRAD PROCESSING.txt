@@ -1,0 +1,131 @@
+ 1 
+OUR LADY OF THE LAKE ASCENSION 
+ 
+POLICIES AND PROCEDURES: 
+ 
+ 
+ 
+EFFECTIVE DATE: 
+ 
+April 1,2010 
+ 
+NUMBER: 
+ 
+STELSPD 121 
+ 
+SUBJECT: 
+ 
+STERRAD PROCESSING 
+ 
+PAGE 1 OF 2 
+ 
+ 
+ 
+        
+I. PURPOSE 
+ The policy is written to provide guidelines and recommended practices for achieving 
+decontamination, disinfection, sterilization, and storage of instrumentation, supplies, and 
+equipment used in the surgical environment.   
+ 
+  
+II. APPLIES TO 
+ Sterile Processing, Surgical Services  
+ 
+  
+III 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IV. 
+POLICY 
+ Surgical instrumentation, patient care supplies, and equipment are to be cleaned, 
+decontaminated, disinfected, packaged, sterilized and stored according to guidelines.  Patient care 
+items will be free of contamination at the time of use, thereby minimizing the risk of cross 
+contamination and surgical wound infections.  This policy is to be followed in conjunction with 
+Policy STELSPD115 Steam Sterilization Assurance and Quality Control Program.  
+ 
+ 
+PROCEDURE 
+  
+Low-Temperature Gas Plasma Hydrogen Peroxide (STERRAD) Sterilization: Low –
+temperature gas plasma sterilization may be used for moisture stable/sensitive and heat 
+sensitive items. (Sterrad) 
+ 
+ 
+1.  Disassemble instruments according to Manufacturer’s IFU.  Remove all blood and soil 
+from the instruments.  Rinse thoroughly and remove all residues.  All instruments must 
+be cleaned, rinsed and thoroughly dried prior to placement in the STERRAD sterilizer.  
+Compressed air may be used to blow moisture out of lumens and other hidden 
+spaces. 
+2. Instrument trays used in the STERRAD system should be designed to optimize 
+diffusion of the hydrogen peroxide and not interfere with the RF energy or absorb 
+hydrogen peroxide.  
+3. Instrument trays must be wrapped with polypropylene wraps for sterilization. 
+Packaging products constructed of other materials can absorb hydrogen peroxide and 
+interfere with the successful completion of the sterilization cycle. 
+4. Only pouches made with Tyvek may be used to package items not contained in 
+instrument trays.  Tyvek is permeable to hydrogen peroxide vapor, and the Tyvek 
+material provides a microbial barrier. Peel pouches should not be placed in wrapped 
+trays.   
+5.  Chemical Indicator Strips should be placed inside each pouch or tray to monitor the 
+penetration of hydrogen peroxide.  After exposure to the sterilization process, the red 
+bar will be golden yellow or lighter. 
+6. Sterilization tape is used for sealing trays and packages as an external indicator.   
+7. The Chemical Indicator Strips and STERRAD tape should be stored away from light,  2 
+acids, bases or paper and other sterilizers. 
+8. Wrapped instrument trays are to be labeled with the load # date and initials on the 
+STERRAD indicator tape and peel pouches can be labeled on the Tyvek flap with load 
+# and date and expiration date.  All writing should be on the chemical indicator tape or 
+on the Tyvek side of the peel pouch. 
+9. Trays must not contain materials manufactured from cellulose base or items such as 
+cotton, paper, cardboard, linen, towels, gauze sponges, wood or foam, as these will 
+absorb the hydrogen peroxide and cause cycle cancellation. . 
+10. Count and content sheets can be taped to the outside of the packages after the 
+sterilization process is completed.  
+11. Traditional paper load stickers may be used if applied at the end of the sterilization 
+cycle.  Stickers made from Tyvek are compatible with the STERRAD system.  
+12. Single use devices and implants should be processed according to written instructions 
+from the original device manufacturers. 
+13. Do not put liquids or dead-end lumens in the STERRAD Sterilizer.  
+14. Vent caps designed for the ETO sterilization process should be placed on scopes as 
+recommended by the scope manufacturer prior to processing in the STERRAD 
+Sterilizer. 
+15. Instruments and devices labeled specifically for gravity sterilization should not be 
+processed in the STERRAD.   
+16. Refer to STERRAD System Cycle Selection for selection of standard or advanced 
+cycles.   
+17. For devices with lumens, refer to STERRAD IFU for the sterilization cycle to use .  
+18. Refer to the manufacturer’s guidelines and education manual for equipment cassette 
+loading, maintenance and operation. Please refer to the STERRAD Owner’s manual 
+or log onto www.SterradSterilityGuide.com 
+19. Maintain sterility assurance biologicals, quality controls and documentation on 
+the provided forms 
+20. Biologicals are performed with every cycle/load (Standard, Flex, Duo and 
+Express).  Follow mfg.  IFUs for using biological test devices. 
+21. Biological test read out occurs in 15 minutes.  Instruments may be released for 
+use after a negative biological test.    
+  
+  
+  
+V. REFERENCE 
+ STERRAD processing/ in-service training manual 2014 
+  
+VI REVISIONS 
+ New policy April 2010; 12/30/2015 
+Rev. 11/2/2018 for rapid 24 min. Bio read out and release of instruments 
+07/24/2019: new sterilization unit, deleted brand names, added new sterilization cycles.  
+9/2024 Biological Test Readout occurs in 15 minutes/Censitrac 
+ 
+ 
+  REVIEW 
+1/2011; 1/2013; 1/2014; 1/2015; 1/2016; 4/2016; 7/2017; 7/2018; 7/2019; 9/2021; 9/2022; 9/2023; 9/2024  ; 
+1/2025 
+ 
+ 
+ 
+ 
+ 

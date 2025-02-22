@@ -1,0 +1,89 @@
+Our Lady of the Lake Regional Medical Center  
+Policy Manual:  Pharmacy Section:  Patient Care Services 
+Medications: Zoledronic Acid Policy Reference #:  PH-02-25 
+Supersedes#:  NA 
+Review Date: 6/3/24 
+Date of Origination: January 2020 
+Revision Date:  04/15/2020 
+ 
+Purpose: 
+To allow pharmacists to provide for zoledronic acid renal dosing when used for oncology-related 
+indications in both the inpatient and outpatient settings. 
+ 
+Definitions: 
+1. Creatinine: A breakdown product of the important nitrogenous metabolic substance 
+creatinine. Creatinine is a normal metabolic waste substance and is found in muscle and 
+blood and excreted in the urine. 
+2. Serum Creatinine (SCr): Creatinine found in the serum 
+3. Creatinine Clearance (CrCl): The ratio of the rate of creatinine excretion in urine to its 
+concentration in serum, a value that reflects the body's ability to excrete creatinine; it is 
+used to diagnose and monitor renal function 
+ 
+Cockcroft and Gault equation: 
+CrCl = [(140 - age) x weight] / (Scr x 72) (x 0.85 for females) 
+ 
+Prescribing: 
+1. A serum creatinine measurement should be obtained within 7–10 days before the first 
+infusion of zoledronic acid. 
+2. A serum creatinine measurement should be obtained prior to each subsequent dose of 
+Zoledronic Acid. 
+3. Creatinine clearance should be estimated using the Cockcroft and Gault formula.  
+The appropriate zoledronic acid dose is recommended below. 
+The dosing interval is not affected by renal function. 
+ 
+ 
+Baseline CrCl (ml/min)  Dose of Zoledronic Acid  
+> 60  4mg  
+50 – 60  3.5mg  
+40 – 49  3.3mg  
+30 - 39  3.0mg  
+< 30  Not recommended 
+ 
+ 
+ 
+Dispensing: 
+1. If no serum creatinine has been ordered within 7 days prior, pharmacy may order a one-
+time serum creatinine.  This applies for all oncology-related zoledronic acid orders.  
+2. Pharmacy will verify the appropriateness and dosing of zoledronic acid for patient’s renal 
+function based on table below for the following oncology-related indications: 
+ 
+1. Bone metastases from solid tumors 
+2. Multiple myeloma 
+3. Prostate cancer - Prevention of bone loss associated with androgen deprivation 
+therapy 
+4. Breast cancer 
+▪ Prevention of bone loss associated with aromatase inhibitor therapy 
+▪ Adjuvant therapy 
+ 
+3. If the the dose of zolendronic acid should be modified based on the CrCl chart below, 
+pharmacy may adjust dose per protocol in Epic and document the change.  This applies 
+only to the indications listed above. 
+ 
+ 
+Baseline CrCl (ml/min)  Dose of Zoledronic Acid  
+> 60  4mg  
+50 – 60  3.5mg  
+40 – 49  3.3mg  
+30 - 39  3.0mg  
+< 30  Not recommended – contact 
+prescriber 
+ 
+ 
+4. Zoledronic acid use for hypercalcemia  
+a. May obtain a serum creatinine if one has not been ordered within 7 days prior 
+b. Will NOT be adjusted per this protocol (see Lexi-Comp for recommendations) 
+c. If the patient has one of the indications above but is receiving zoledronic acid for 
+hypercalcemia, do not adjust per this policy and see Lexi-Comp for dosing 
+adjustment in hypercalcemia recommendations 
+ 
+ 
+References: 
+1. Lexicomp: www.lexi.com  
+2. Collins Dictionary of Medicine. Robert M. Youngson 2004, 2005 
+3. Berenson J. Recommendaions for zoledronic acid treatment of patients with bone 
+metastases. The Oncologist. 2005:10:52-62. 
+4. Cavallo J. New Guidelines Issued in the Treatment of Multiple Myeloma -Related Bone 
+Disease. ASCO Post July 25, 2013. 
+5. Anderson K., Ismaila N., Kyle R.A. Role of Bone-Modifying Agents in Multiple Myeloma: 
+American Society of Clinical Oncology Clinical Practice Guideline Update Summary 
+ Journal of Oncology Practice. 2018; 14(4):266-269. 

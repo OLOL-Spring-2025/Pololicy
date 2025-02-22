@@ -1,0 +1,147 @@
+Policies and Procedures Manual Manual:  
+Our Lady of the Lake Regional Medical Center Chapter:  
+Subject:  CDM Pricing  Section:  
+Date of Origination: 02-08-02 Supersedes:  
+Date of Last Revision: 06-14-06 Serial Code:  
+ 
+ 
+Purpose: 
+ 
+To ensure that charge master pricing is performed in a compliant and consistent manner. 
+ 
+Policy: 
+ 
+It is the policy of Our Lady of the Lake Regional Medical Center to centralize the review 
+and maintenance of the Charge Description Master File.  It is the policy of this hospital to 
+maintain a standard of consistency and accuracy in the estimation of cost and 
+establishment of charges.  This practice allows Our Lady of the Lake to ensure 
+uniformity in pricing across departments and compliance with state and federal 
+regulations.  The practice of setting prices takes into consideration several sources of 
+information and additionally allows for Administrative override.  The sources for price 
+determination include market price information, benchmarks, and review to conclude that 
+reimbursement does not fall below cost.  Revenue Management has the responsibility of 
+setting prices with over-sight by the Controller.         
+ 
+                 
+I       TO DETERMINE THE CHARGE FOR A SUPPLY/IMPLANT ONLY: 
+ 
+To calculate the charge for a supply/implant, use the cost obtained from Materials 
+Management, add tax, and mark up by the correct percentage; these markups 
+include a 40% overhead allowance: 
+ 
+- Item cost is $0.00 - $25.00, multiply by 2.50  (150% mark-up) 
+- Item cost is $25.01 - $100.00, multiply by 2.30  (130% mark-up)  
+- Item cost is $100.01 - $250.00, multiply by 2.00  ( 100% mark-up)  
+- Item cost is greater than $250.01 multiply by 1.80 ( 80% mark-up) 
+- Items that are charge sensitive will be reviewed under the applicable                 
+reimbursement guidelines.  
+ 
+ Round the result to the nearest dollar.   
+ 
+ 
+ 
+ 
+  
+II      TO DETERMINE THE HOURLY CHARGE FOR PERSONNEL ONLY: 
+ 
+1. To calculate the cost for personnel, use the average hourly salary for the 
+employee class being utilized, and multiply that hourly charge by 1.3 
+(includes the cost of benefits); the result is the total employee cost per 
+hour.  To calculate the total hourly charge for personnel, multiple the total 
+employee cost by 2.0 (includes support overhead).   
+ 
+ 
+III     TO CALCULATE MACHINE CHARGE PER PROCEDURE: 
+ 
+1. To calculate the machine charge per procedure, obtain the actual cost of 
+the machine.  Add to this number the sales tax, shipping, the maintenance 
+cost over the entire life of the machine and any other associated fees; this 
+is the total cost of the machine.  Divide the total machine cost by the 
+number of years the machine is expected to be operational; the result is 
+the per year cost of the machine.  Divide the per-year cost by the expected 
+number of times the machine will be used; this is the cost per procedure.  
+Multiply the cost per procedure by 2.0 (includes support overhead); the 
+result will be the machine charge. 
+ 
+ 
+IV      TO DETERMINE THE CHARGE FOR PROCEDURE: 
+ 
+1. To calculate the charge for a procedure add the employee charge, the 
+machine charge and supply charges, if not charged for separately. 
+  
+V        TO DETERMINE THE CHARGE FOR PHARMACY ITEMS:  
+ 
+1. Pharmacy item charges are primarily based on the drug category; the 
+following guidelines are to be used. 
+ 
+DRUG CATEGORY COST RANGE MARK-UP 
+FACTOR 
+MINIMUM 
+CHARGE 
+IIb-IIIa Inhibitors > $100 1.80 $8.50  
+  $50.00 - $99.99 2.56   
+  $20.00 - $49.99 3.08   
+  $10.00 - $19.99 3.85   
+  $0.00 - $9.99 4.36   
+        
+IV Antibiotics All Cost Ranges 1.80 $8.50  
+        
+Oral (Excluding Narcotics) > $100 1.80 $1.00  
+  $10.00 - $99.99 3.00   
+  $5.00 - $9.99 3.25   
+  $2.00 - $4.99 3.50   
+  $1.00 - $1.99 3.75   
+  $0.50 - $0.99 4.00   
+  $0.25 - $0.49 4.25   
+  $0.00 - $0.24 5.00   
+        
+Inhaled Agents > $100 1.80 $5.00  
+  $0.00 - $99.99 3.00   
+        
+Injections > $100 1.80 $8.50  
+  $50.00 - $99.99 2.50   
+  $20.00 - $49.99 3.00   
+  $10.00 - $19.99 4.00   
+  $0.00 - $9.99 4.50   
+        
+Irrigation Solutions All Cost Ranges 1.80 $5.00  
+        
+Narcotic Oral > $300 1.80 $5.00  
+  $200.00 - $299.99 2.00   
+  $100.00 - $199.99 2.50   
+  $0.00 - $99.99 4.50   
+ 
+ 
+  
+ 
+DRUG CATEGORY COST RANGE MARK-UP 
+FACTOR 
+MINIMUM 
+CHARGE 
+Oncology >$1000 1.80 $15.00  
+  $500.00 - $999.99 1.90   
+  $100.00 - $499.99 2.00   
+  $50.00 - $99.99 2.75   
+  $20.00 - $49.99 3.25   
+  $10.00 - $19.99 4.00   
+  $0.00 - $9.99 5.00   
+        
+OTC All Cost Ranges 1.50 $1.00  
+        
+Suppositories & Topicals > $100 1.80 $4.00  
+  $25.00 - $99.99 3.75   
+  $5.00 - $24.99 4.25   
+  $0.00 - $4.99 5.00   
+        
+Thrombolytic > $500 1.80 N/A 
+  $40.00 - $499.99 2.50   
+  $0.00 - $39.99 3.00   
+        
+Fat Emulsions Flat Rate:  $25.00/100ml     
+        
+PCA Flat Rate:  $75.00/Bag     
+ 
+ 
+ 
+     Approved by:  Karen Parker on 6/14/2006 
+ 

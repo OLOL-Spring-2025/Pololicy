@@ -1,0 +1,158 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Controlled 
+Substances 
+Title: CII Safe Dispensing and Accountability Policy Reference #: PH-09-05 
+Supersedes #: PH-15-05-O 
+Date of Origination: 10/13/2010 Last Date Reviewed: 05/15/2024 
+Last Date Revised: 09/15/2021 
+  
+POLICY: 
+The pharmacy shall utilize the CII Safe, a substantially constructed cabinet, in the main pharmacy to serve as the 
+primary storage and security module for all controlled substances.  This CII safe tracks the receipt, distribution, 
+and return of controlled substances within the hospital and maintains a perpetual inventory.  Reports are generated 
+that assist in detecting diversion with the medication process. 
+ 
+PROCEDURE: 
+ 
+CII Safe Access 
+Personnel authorized to have access to the CII Safe include staff pharmacists and pharmacy technicians who are 
+trained to distribute controlled substances.  All users of the CII safe must use their BioID to access the CII Safe.  
+Any users whose BioID does not work must be approved by the Director of Pharmacy to use a password.  
+Documentation of this approval will be kept in their personnel file (see Appendix A). 
+ 
+Inventory 
+The CII Safe maintains a perpetual inventory of controlled substances (CII -CV) as well as medications deemed 
+to be high value or a high risk for diversion as determined by the Director of Pharmacy in conjunction with the 
+Medication Use Committee. Certain keys may be stored in the CII safe for tracking purposes.  These may include 
+but are not limited to:  
+• PCA keys 
+• Pharmacy keys (ambulatory/satellite) 
+• Epidural Keys 
+• ADS keys
+ 
+   Policy Reference Number 
+Page 2 of 4 
+ 
+ 
+ 
+Loads, Unloads, Refills, & Returns (General Information) 
+In order to maintain the integrity of the CII Safe Compare Report, all transaction pairs must be completed during 
+the same day.  An example would be if a medication was unloaded from an automated dispensing cabinet during 
+the day, it must be returned to the CII safe prior to midnight.  Likewise, a medication should not be sent from the 
+CII Safe to an automated dispensing cabinet unless it can be delivered prior to midnight  unless the transation is 
+deemed necessary for patient care.  
+  
+Dispensing Medication (Automated Dispensing Cabinets) 
+1. The controlled substances technician will remove meds from the CII safe, using the restock function.  
+2. The controlled substances technician will separate the meds by unit according to the CII Safe delivery sheets. 
+3. A Pharmacist will verify the quantities of controlled substances being dispensed, check expiration dates and 
+will initial next to each item to be checked on the “delivery signature receipt”. 
+4. The controlled substances technician will then place the medications along with the “delivery signature 
+receipt” into an amber bag. 
+5. In order to maintain the chain of custody, the delivery technician will initial next to each item on the “review 
+send report” for each med they are taking possession of upon receipt of the medication.  The delivery 
+technician should visually inspect the medication before acknowledging receipt. 
+6. The delivery technician must keep the controlled substances under constant surveillance and control. 
+7. Upon delivery to the nursing unit, the delivery technician along with a nurse must verify the controlled 
+substances and both must sign the “delivery signature receipt”. The meds should then be loaded into the Pyxis 
+machine without delay. 
+8. If there are any discrepancies in the quantity received/filled by the delivery technician, they will notify the 
+pharmacy supervisor immediately.  The technician must document this in writing on the CII safe receipt and 
+sign their name. 
+9. The technician will return all receipts to the pharmacy controlled substance room. 
+10. Other approved pharmacy personnel (i.e. Pharmacist) may deliver controlled substances to units or directly 
+to a nurse for immediate administration.  All steps noted above will occur for appropriate handoff and record 
+keeping.   
+ 
+Dispensing Medications (Patient Specific) 
+1. A patient specific label will be generated from EPIC based on a request from nursing.  A pharmacy supervisor 
+or pharmacist will review the medication to determine if it is appropriate to load in the requesting unit’s ADC.  
+If the medication is loaded, the “automated dispensing cabinet” procedure will be followed. 
+2. If not, a pharmacist or pharmacy technician with controlled substance privileges will remove meds from the 
+CII safe using the patient specific transaction making sure to enter the patient’s first and last name in the 
+system. 
+3. A Pharmacist will verify the quantity of controlled substance being dispensed, check expiration date and will 
+initial next to the item being dispensed on the “delivery signature receipt”.  Policy Reference Number 
+Page 3 of 4 
+ 
+ 
+ 
+4. Pharmacist will also initial the EPIC label verifying that the medication being dispensed matches the patient 
+label. 
+5. The technician delivering the medication must sign the “delivery signature receipt”. 
+6. Upon delivery to the nursing unit, the technician along with a nurse must verify the controlled substance and 
+both must sign the “delivery signature receipt”. 
+7. The technician will return delivery receipt to the pharmacy controlled substance room for appropriate record 
+keeping.   
+ 
+Meds Removed from Pyxis (empty return bin, unloaded, outdated, etc) 
+1. Technician will remove meds from Pyxis.  Technician will immediately bring meds and initialed Pyxis 
+receipts, where able, to the controlled substance technician for return to the CII safe.  If the controlled 
+substance technician is not available or the controlled substance technician is the returning technician, they 
+will be given to a supervisor or charge pharmacist. 
+2. Controlled Substance technician, supervisor, or charge pharmacist will verify quantity and sign Pyxis receipt. 
+3. Technician will then return meds to CII safe if they have controlled substances privileges or transfer custody 
+to a technician that does. 
+4. Technician returning meds to the CII safe will staple the “return receipt” to the Pyxis receipt and place in the 
+controlled substance room. 
+ 
+Downtime 
+In the event that the CII safe fails or undergoes a planned downtime, a set of keys that can be used to manually 
+open the safe will kept in a secure location.  
+The following procedure should be used to access the safe in the event of a downtime: 
+1. Notify Pharmacy Supervisor or Charge Pharmacist of downtime. 
+2. Document when the downtime began. 
+3. Pharmacy Supervisor or Charge Pharmacist shall contact Senior Director or Director to obtain access to CII 
+safe keys. 
+4. Pharmacists shall send duplicate ( reprint) label with all patient -specific requests for controlled substances 
+during downtime 
+5. Document all removals including patient name, medical record number (MRN), nursing unit, medication 
+name, dose, and quantity along with two signatures on dispensing. 
+6. Use duplicate label to create delivery receipt and have technician delivering sign as well nurse receiving 
+medication.  
+7. The technician will return all receipts to the pharmacy controlled substance room. 
+8. After the downtime is over, Pharmacy Supervisor or Charge Pharmacist will return keys to secure location 
+and document the time that the downtime ended. 
+9. Senior Director of Pharmacy will maintain keys in secure location.  Policy Reference Number 
+Page 4 of 4 
+ 
+ 
+ 
+Appendix A 
+ 
+ 
+Our Lady of the Lake RMC 
+Application Form 
+Pyxis MedStation System Access without Witness Verification (Bio ID Exempt) 
+User Statement 
+I understand that I am applying for Pyxis MedStation System Access without witness verification (Bio ID Exempt). This 
+means that I will log in to the system using only my unique user ID and confidential password that I have selected. This will 
+be my electronic signature for all of my dispensing transactions on the system including controlled substance transactions. 
+I understand that Bio ID (Bio ID is a feature that confirms individual users’ identity by each user’s login ID and fingerprint), 
+which I am unable to use, offers an added level of security, eliminating the possibility of another user gaining access to the 
+system with my password. I understand that I am responsible for all transactions under my electronic signature. Pyxis 
+MedStation System transaction records are legal documents and will be maintained and archived as per the policies of Our 
+Lady of the Lake RMC in accordance with State and Federal laws and regulations and will be available for inspection by 
+State, Federal and regulatory agencies.   
+Furthermore, I certify that in applying for Pyxis MedStation System Access without witness verification (Bio ID Exempt), 
+that (1) I have repeatedly demonstrated that I have been unsuccessful in logging on to the system using Bio ID, (2) I have 
+made a least 2 attempts to reset Bio ID using different fingers, and (3) I have been given additional hands on demonstration 
+and instruction by my Supervisor.   
+I also understand that, to maintain the integrity of the electronic signature, I must not and will not give my personal password 
+to any other individual. Unauthorized access, release or dissemination of passwords is a security violation and may subject 
+me to disciplinary action including immediate termination of  employment. Should I have any suspicion that my personal 
+password has become known to another individual, I will change it immediately and if deemed appropriate, will immediately 
+report such to my supervisor. 
+Signature __________________________________ Date _________________ 
+Print Name _______________________________________________________ 
+Position/Title ________________________________ Dept/Unit_____________ 
+ 
+Supervisor Statement 
+I confirm that I have verified that the user applying for Pyxis MedStation System Access without Witness Verification (Bio 
+ID Exempt) has (1) repeatedly demonstrated that they have been unsuccessful in logging on to the system using Bio ID, (2) 
+has made at least 2 attempts to reset their Bio ID using different fingers,  and (3) that I have provided additional hands on 
+demonstration and instruction using Bio ID. 
+Authorized by Supervisor ______________________ Date _________________ 
+Forward copy form to Director of Pharmacy and maintain original in employee’s personnel file. 
+ 

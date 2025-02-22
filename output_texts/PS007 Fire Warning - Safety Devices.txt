@@ -1,0 +1,38 @@
+ 
+ 
+Plant Services 
+ 
+ PS007 
+Page 1 of 1 
+Title: Fire Warning / Safety Devices   
+Revision Date: 02/05/2020; 11/01/2017 
+Review Date: 09/30/2021; 12/11/2020 
+Reference # PS007 Origin Date: October 1988 
+ 
+POLICY: 
+The fire warning and safety systems at Our Lady of the Lake Regional Medical Center (OLOL) and all 
+locations where OLOL operates shall be designed, installed, and maintained according to all applicable 
+codes and standards for the purpose of protection to patients, personnel, visitors and property from fire 
+and the products of combustion. 
+ 
+PROCEDURES: 
+1. The fire warning system shall be electrically supervised and manually operated. 
+2. Manual fire alarm boxes shall be located in the path of normal exit, be readily accessible, and remain 
+unobstructed at all times. 
+3. Visual signal devices shall be distinctive form other signals used in the areas and be audible over 
+operational noise in the area. 
+4. The fire alarm system shall have automatic direct connection to a UL listed monitoring company for 
+the purpose of notification to fire department. 
+5. Activation of the fire alarm system shall automatically shut down air handling systems, close smoke 
+dampers and provide for the release and closure of all smoke and fire rated doors. 
+6. The inspection, testing, and maintenance for these devises will be completed based on 
+manufacturer’s recommendations and regulatory standards. 
+ 
+Documentation of maintenance testing and inspection activities include activity name; date; inventory of 
+devices, equipment, or other items; frequency; contact information for person performing activity; 
+NFPA standard; activity results. 
+ 
+REFERENCES: 
+Joint Commission, Environment of Care.02.03.05 and Life Safety Standards 
+National Fire Protection Association (NFPA) 101-2012 
+ 

@@ -1,0 +1,28 @@
+Page 1 of 2 
+POLICIES AND PROCEDURES MANUAL Manual:  Access Services 
+Our Lady of the Lake Regional Medical Center Chapter:    
+Subject:  Reporting of Computer Issues Section:    
+Date of Origination:  April 17, 2002 Supersedes:       
+Date Last  Revised or 
+Reviewed:   July 2015 ; 
+Jan 2018 
+February 2006; April 2010;July 2015 Serial Code:    
+ 
+PURPOSE: 
+To outline the procedures for trouble shooting system issues and contacting the Helpdesk.  
+ 
+POLICY: 
+Access Services Employees are to follow the same general troubleshooting procedures for all 
+system related problems to determine if the helpdesk should be contacted.   
+ 
+PROCEDURES: 
+ 
+Contact the Helpdesk immediately if:   
+ 
+Laptop is not holding a charge – Make sure the battery light is on first. 
+Nothing is printing or is printing to the wrong location or tray – Be ready to tell them if it is one 
+specific system or multiple systems. 
+EPIC goes down – Know when, and specify if it is one system or multiple systems 
+ 
+*Please contact the Supervisor on duty/on-call if the situation is not resolved in a timely manner 
+or if units become frustrated.  The supervisor will notify the Manager on call if necessary.   

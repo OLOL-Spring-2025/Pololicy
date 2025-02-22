@@ -1,0 +1,143 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Designated Person for Hazardous Drugs Policy Reference #: PH0556 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the primary roles and responsibilities for the Designated Person responsible 
+for the oversite of Hazardous Drug (HD) procedures and compliance within FMOLHS Baton Rouge 
+Market Pharmacies.  
+2. Policy  
+2.1 FMOLHS Baton Rouge Market Pharmacies will designate one or more individuals (i.e., the 
+Designated Person (DP)) who is qualified and trained to be responsible for the performance and 
+operation of the facility and personnel in all functions pertaining to hazardous drugs.   
+2.2 The DP for HDs will have the following qualifications:  
+• Initial completion of 30 CE hours in the area of sterile compounding 
+• Ongoing completion of CriticalPoint® training modules 
+3. Roles & Responsibilities 
+3.1 The Designated Persons for hazardous drugs are listed in Appendix A.  
+3.2 The DP is responsible for:  
+• Overall compliance with USP <800>, applicable federal and state laws and regulations and 
+accreditation standards. 
+• Oversight of personnel training and competency for those involved in handling any form of 
+HDs within the facility/organization. 
+• Monitoring and observing HD handling activities and taking immediate corrective action if 
+deficient practices are observed. 
+• Ensuring HD standard operating procedures (SOPs) and/or policies are fully implemented, and 
+that follow-up is carried out if problems, deviations, or errors are identified.  
+• Ensuring all departments who handle HDs within the organization have been trained and 
+demonstrate competency pertaining to job-specific roles. 
+3.3 Pharmacy Management is responsible for: • Ensuring adequate personnel resources for training and adherence to FMOLHS Baton Rouge 
+Market Pharmacies’ Hazardous Drug procedures. 
+• Ensuring adequate equipment and facilities to comply with USP <800> standards. 
+• Coordinating with the DP for HDs for local site implementation, monitoring, or concerns with 
+HDs.   
+ 
+4.  Procedures 
+4.1 Training and Competency Evaluation: 
+• The DP creates, implements, and oversees training of personnel who have direct oversight of 
+all personnel who handle HDs. The DP ensures all personnel who handle HDs complete 
+training and demonstrate competency in handling HDs specific to job-related duties.  
+4.2 Hazardous drug list and assessment of risk: 
+• The DP ensures an organizational list of HDs dispensed at the facility is identified and 
+maintained at least annually.  
+• The DP ensures all HDs not handled with full USP <800> precautions have a completed and 
+approved Assessment of Risk (AoR). AoRs are reviewed annually. 
+• The DP ensures the organizational HD list and AoRs are available to all personnel who handle 
+HDs within the organization. 
+• The DP ensures there is a Safety Data Sheet (SDS) for every drug on the organizational HD list 
+available to all personnel who handle HDs within the organization.    
+4.3 Hazardous Drug Standard Operating Procedures: 
+• The DP develops SOPs for handling HDs per USP <800> requirements, and other applicable 
+laws and regulations within the organization that include: 
+o Hazard communication program 
+o Occupational safety program 
+o Designation of HD areas 
+o Receipt of HDs 
+o Storage of HDs 
+o Compounding of HDs 
+o Use and maintenance of proper engineering controls (e.g., C-PECs, C-SECs, and CSTDs)  
+o Hand hygiene and use of PPE based on HD activity (e.g., receipt, transport, 
+compounding, administration, spill, and disposal of HDs) 
+o Deactivation, decontamination, cleaning, and disinfection of HDs 
+o Dispensing 
+o Transport 
+o Disposal 
+o Spill Control 
+• The DP ensures all HD SOPs are implemented throughout the organization, which includes 
+ensuring that personnel demonstrate competency in performing every procedure that relates 
+to their job-specific functions. 
+• The DP ensures that corrective actions are taken if problems, deviations, HD contamination, 
+failures, or errors related to HDs are identified, and documents corrective actions as 
+necessary. • The DP reviews HD SOPs at least every 12 months to ensure they reflect current practices. 
+The review is documented on LakeLink. 
+• Any changes or alterations to HD SOPs are made only by the DP and must be documented.  
+4.4 Facility Design and Environmental Control: 
+• The DP ensures that each area where HDs are prepared meets the classified air quality and 
+containment standards appropriate for the activities. 
+• The DP ensures that each area where HDs are stored meets the containment criteria listed in 
+USP <800>. 
+4.5 Personal Protective Equipment (PPE): 
+• The DP ensures all HD PPE is appropriate for use and complies with USP <800> and 
+Occupational Safety and Health Administration (OSHA) requirements.  
+• The DP ensures personnel are fit tested for respirators requiring fit testing prior to use.   
+4.6 Hazardous Drug Contamination: 
+• The DP ensures that all HD spills are properly documented, contained, and cleaned per HD 
+spill policy. 
+• DP ensures receiving personnel follow procedures when HD contaminated drugs are received 
+from the wholesaler.  
+4.7 HD Deactivation, Decontamination, and Cleaning: 
+• The DP ensures all deactivation and decontamination chemicals in use are appropriate for use 
+with the HDs at the organization.  
+• The DP ensures all deactivation, decontamination, and cleaning procedures are applicable for 
+all instances of HD spills and contamination possible within the organization.  
+• The DP ensures that all personnel who respond and clean HD spills are properly trained and 
+demonstrate competency before attending to HD spills.  
+ 
+5. Definitions 
+5.1 Assessment of Risk (AoR) : Evaluation of risk to determine alternative containment strategies 
+and/or work practices. 
+5.2 Safety Data Sheet (SDS):  An informational document that provides written or printed material 
+concerning a hazardous chemical. The SDS is prepared in accordance with the Hazard 
+Communication Standard (HCS).  
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc. <795> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.3 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings. 2019 version.  
+6.4 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 
+7. Approval and Review Summary  
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 
+ 
+ 
+ 
+Appendix A: Designated Persons per Facility 
+ 
+ 
+• OLOL Inpatient Pharmacy – Pharmacy Manager 
+• OLOL Cancer Institute Outpatient Infusion Pharmacy – Pharmacy Supervisor 
+• OLOL Non-Oncology Infusion – Pharmacy Supervisor 
+• OLOL at Ascension Inpatient Pharmacy – Pharmacy Manager 
+• North Baton Rouge Outpatient Infusion Pharmacy – Pharmacy Supervisor 
+• OLOL Children’s Hospital Inpatient Pharmacy – Staff Pharmacist, as determined by Pharmacy 
+Director 
+• OLOL Children’s Hospital St. Jude Affiliate Pharmacy – Staff Pharmacist, as determined by 
+Pharmacy Director 
+ 
+ 
+ 

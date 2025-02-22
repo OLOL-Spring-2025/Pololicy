@@ -1,0 +1,116 @@
+  
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: EKG in the ED 
+ 
+DEPARTMENT:  Respiratory Care/EKG 
+SOP No:  OLOLA  
+AUTHOR: Scott Albarado 
+EFFECTIVE DATE: March 6 5, 2024 REVIEW DATE: March 6, 2024 
+ 
+ 
+ 
+                                                                                                                                                                        SOP No: OLOLM-SOP6 
+ Page 1 of 3 
+ 
+ Purpose:   
+The purpose of this standard operating procedure (SOP) is to be able to perform the diagnostic procedure of 
+an electrocardiogram (EKG) on a patient providing immediate information, especially those patients 
+presenting to the ER with chest pain, leading to appropriate treatment decisions.   
+ 
+Procedure:   
+I. Chest Pain Patient  
+A. Patient presents to the ER registration desk with complaints of chest pain. The EKG should be 
+completed within 10 minutes from the time of presentation.  
+B. Registration desk team member will STAT message the RT (Respiratory Therapist) to the EKG 
+Chest Pain Triage room or designated area, for the patient with a complaint of chest pain.  
+C. A Respiratory Therapist Team member will walk the patient to the EKG Triage Room or 
+designated area if bed is not readily available.  
+D. Nurse or RT will enter an order for an EKG in Epic for chest pain if not already ordered. 
+E. RT will scan the patient armband if applicable. 
+F. RT will verify the patient’s Name and Date of Birth 
+G. RT will ask the patient if he/she has a Cardiologist. 
+H. RT will then place the EKG electrodes in their proper positions.  
+I. RT will ensure that the EKG is cleared of artifacts.  
+J. RT will print one copy of the 12-lead EKG. 
+K. RT will take the copy of the 12-lead EKG to the attending ER Physician, and ER Physician will be 
+told that the EKG is from a patient complaining of “chest pain” and the patient’s current 
+location. 
+L. The ER Physician will determine if the 12-lead EKG shows a STEMI or other life-threatening 
+conditions.  
+M. Once the EKG is performed. The patient will be returned to the waiting room unless the EKG 
+shows a STEMI or any of the critical rhythms listed below: 
+N.  
+i. Acute Myocardial Infarction – possible STEMI  
+ii. Heart Rate of 40 beats per minute or less for any reason 
+iii. Sustained Ventricular Tachycardia 
+iv. 2nd (Type II only) or 3rd degree Heart Block 
+v. Atrial Fibrillation with a ventricular rate greater than 120 per minute 
+vi. Supraventricular Tachycardia  
+vii. Left Bundle Branch Block   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: EKG in the ED 
+ 
+DEPARTMENT:  Respiratory Care/EKG 
+SOP No:  OLOLA  
+AUTHOR: Scott Albarado 
+EFFECTIVE DATE: March 6 5, 2024 REVIEW DATE: March 6, 2024 
+ 
+ 
+ 
+                                                                                                                                                                        SOP No: OLOLM-SOP6 
+ Page 2 of 3 
+ 
+O. RT will then enter Epiphany and place a note on the patient’s EKG stating that the attending 
+ER Physician did or did not identify a STEMI and the time the EKG was interpreted by the ER 
+Physician on the patient’s EKG note.  
+ 
+II. All Other Patients Requiring an EKG 
+A. For other patients needing an EKG, the RT will perform the procedure in the patient’s ER room, 
+or if a room has not been assigned to the patient (i.e., hallway stretcher patients). 
+B. Nurse or Provider will enter an order for an EKG in Epic if not already ordered. 
+C. Nurse will communicate order to RT 
+D. RT will scan the patient armband. 
+E. RT will verify the patient’s Name and Date of Birth 
+F. RT will ask the patient if he/she has a Cardiologist. 
+G. RT will then place the EKG electrodes in their proper positions.  
+H. RT will ensure that the EKG is cleared of artifacts.  
+I. RT will then print out one copy of the 12-lead EKG. 
+J. RT will take the copy of the 12-lead EKG to the attending ER Physician,  
+K. The ER Physician will determine if the 12-lead EKG shows a STEMI or any of the critical rhythms 
+listed below as defined by hospital policy OC/044 
+L.  
+i. Acute Myocardial Infarction – possible STEMI  
+ii. Heart Rate of 40 beats per minute or less for any reason 
+iii. Sustained Ventricular Tachycardia 
+iv. 2nd (Type II only) or 3rd degree Heart Block 
+v. Atrial Fibrillation with a rapid ventricular rate greater than 120 per minute 
+vi. Supraventricular Tachycardia  
+vii. Left Bundle Branch Block 
+ 
+M. Once the EKG is performed. The patient will be returned to the hallway or remain in their ER 
+room.                
+N. RT will then enter Epiphany and place a note on the patient’s EKG stating that the attending ER 
+Physician did or did not identify a STEMI or critical rhythm and the time the EKG was 
+interpreted by the ER Physician on the patient’s EKG note. 
+III. Epiphany Follow Up 
+A. After the EKG is completed, the RT will verify that the EKG has been placed in the 
+“unconfirmed” status.  The EKG will then be sent to the cardiology group for interpretation in 
+Epiphany.  If the patient stated a previous cardiologist, then the RT will send the EKG for   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: EKG in the ED 
+ 
+DEPARTMENT:  Respiratory Care/EKG 
+SOP No:  OLOLA  
+AUTHOR: Scott Albarado 
+EFFECTIVE DATE: March 6 5, 2024 REVIEW DATE: March 6, 2024 
+ 
+ 
+ 
+                                                                                                                                                                        SOP No: OLOLM-SOP6 
+ Page 3 of 3 
+ 
+interpretation to the appropriate cardiology group.  All unassigned EKGs will be sent to the 
+cardiologist group on every other day schedule rotating between LCA and BRCC.   

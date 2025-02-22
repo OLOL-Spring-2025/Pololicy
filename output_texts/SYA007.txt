@@ -1,0 +1,189 @@
+ Policy Reference Number 
+Page 1 of 5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Surgical Services Section: Endoscopy 
+Title: Reprocessing of Flexible Scopes Policy Reference #: SYA007 
+Supersedes #:  
+Date of Origination: 02/23/2015 Last Date Reviewed: 01/10/2025 
+Last Date Revised: 01/10/2022 
+ 
+PURPOSE: To define the process for pre-cleaning, transport, leak testing, manual cleaning, high-
+ level disinfection, and storage of endoscopes.   
+  
+POLICY: 
+Cleaning and decontamination should begin immediately after use. All endoscopes will be cleaned, 
+transported, reprocessed, and stored according to these policies. When transport to the decontamination 
+area is going to be delayed, endoscopes will be encapsulated in Intercept foam per IFU.  
+  
+A. PROCEDURE: Personal Protective Equipment (PPE): All personnel who work in the 
+endoscope reprocessing room must wear PPE (personal protective equipment). Gloves, liquid-
+resistant gown/face mask, eye protection, shoe covers, head covers, and a surgical mask if risk of 
+splash or aerosols is present. Jewelry and wristwatches should not be worn in decontamination 
+area.  Before leaving the decontamination area, PPE should be removed taking care not to 
+contaminate skin or clothing followed by thorough hand washing.  
+ 
+B. Pre-cleaning: Pre-clean flexible endoscopes and reusable accessories by following the device 
+manufacturer’s instructions for use (IFU). Perform pre-cleaning immediately following 
+completion of the endoscope procedure to help prevent the formation of biofilm. When the 
+precleaning process will be delayed (e.g. endoscope is used for intubation and remains in the 
+procedure room for  potential reuse), designated personnel (eg, RN circulator, scrub person) 
+should  wipe the external surfaces with a soft, lint-free cloth or sponge saturated with  utility or 
+sterile water and should suction water through the channels.  
+ 
+Precleaning steps 
+1.  Use provided enzymatic/surfactant and follow IFU on package.  
+2. If using a specialty scope such as ERCP/EBUS, flush and manipulate forceps elevator 
+per manufacturer’s IFU.  
+3. Depending on model scope being used, flush air and water channels using AW channel 
+cleaning adapter (MH-948) in accordance with the endoscope manufacturer's IFU.  
+4. If applicable, flush the auxiliary water channel per manufacturer’s instructions.   
+5. Detach the endoscope from the light source and suction pump.   
+6. Attach protective video cap if using video endoscope.    
+ 
+C. Transport: All endoscopes are to be checked out and retrieved from Endoscopy Dept. Preform 
+hand hygiene. Gloves must be worn when accessing endoscope cabinet. Endoscopes will be 
+transported in a bag lined (clear) transport container. Clean endoscopes will be concealed with a  Policy Reference Number 
+Page 2 of 5 
+green (“CLEAN”) cover. Dirty endoscopes will be concealed with a red 
+(“DIRTY/BIOHAZARD) cover. All transport containers will utilize rigid plastic lid.  
+ 
+1. Contaminated flexible endoscopes and accessories should be transported to the 
+endoscopy processing room as soon as possible after use. 
+2. When it is not possible to initiate the cleaning process within the endoscope 
+manufacturer’s recommended time to cleaning, the manufacturer’s instructions for use 
+(IFU) for delayed processing should be followed.  
+3. Intercept foam may be utilized per IFU. 
+ 
+D. Leak testing: For endoscopes that require leak testing, perform the leak test 
+using manufacturer’s IFU after each use and prior to manual 
+cleaning. Leak testing detects damage to the external surfaces and internal channels of 
+the endoscope that can lead to inadequate disinfection and further damage of the endoscope.   
+ 
+1.  Remove and discard disposable suction valves, air water valves, and biopsy valves. 
+Multi-use valves (for EUS) will remain with endoscope throughout entire reprocessing.  
+2. Attach the leak tester and pressurize the scope. 
+4. When prompted by Veriscan, flex the distal portion of the scope in all directions. 
+Depress and release all buttons. 
+5.  If a leak is detected or if the endoscope appears damaged, continue to manual cleaning 
+leaving leak tester on. Notify charge nurse/manager and follow manufacturer’s IFU on 
+how to proceed. Remove endoscope from sink or basin. Turn off leak tester. Dis-
+connect leak tester from video cap. Allow endoscope to depressurize. Ensure video cap 
+is secure and has not loosened with removal of leak tester. Continue with reprocessing 
+steps when test is complete unless a leak is detected. When an endoscope fails a leak 
+test, it should be removed from service and repaired or replaced. 
+ 
+E. Manual cleaning: Perform meticulous manual cleaning including brushing 
+and flushing channels and ports consistent with the manufacturer’s IFU before performing high-
+level disinfection (HLD) or sterilization. Perform manual cleaning within the 
+timeframe specified in the manufacturer’s IFU. Manual cleaning is the most critical step in 
+the disinfection process since residual organic material can reduce the effectiveness of HLD and 
+sterilization.  
+ 
+1. Fill a sink or basin with freshly made solution of water/enzymatic and ensure proper 
+temperature.   
+2. Ensure video cap is secure (if applicable)  
+3. Wash all debris from the exterior of the endoscope by brushing and wiping the 
+instrument while submerged in the detergent solution. Pay special attention to the 
+air/water nozzle opening and objective lens, thoroughly cleaning all portions of distal 
+end. Refer to specific manufacturers IFU for ERCP, EBUS, and double channel 
+endoscopes.  
+4. Brush all channel openings also until free of debris. Brush all accessible endoscope 
+channels with appropriately sized brushes until free of debris.  After each passage, rinse  Policy Reference Number 
+Page 3 of 5 
+the brush in the detergent solution, removing any visible debris before retracting and 
+reinserting it.   
+5. Attach the endoscope manufacturer’s cleaning adapters for suction, biopsy, air, and 
+water channels. To achieve adequate flow through all lumens, various adapters or 
+channel restrictors may be required. Refer to the manufacturer's instructions.  
+6. The elevator channel of duodenoscopes will be flushed and manipulated according to 
+specific manufacturers IFU.  
+7. Flush all channels with the detergent solution to remove debris.   
+8. All reusable buttons/parts should be cleaned, and high level disinfected per IFU. 
+9.If manual cleaning has been delayed, soak the endoscope and its internal channels for 
+the period specified by the label. Refer to specific manufacturers IFU for delayed 
+cleaning and reprocessing.  
+ 
+F. Flush/Rinse:  Per endoscope IFU, thoroughly rinse all channels, exterior of endoscope, and all 
+removable parts (if applicable) with clean water to remove residual debris and detergent. Dry the 
+exterior of the endoscope with a soft, lint-free cloth to prevent dilution of the liquid chemical 
+germicide used in later steps.   
+ 
+G. Bio-burden Testing: Use bio-burden testing system according to manufacturer’s IFU. If protein 
+test passes, proceed. If test fails, manually clean scope over again.  
+ 
+H. Visual Inspection: After manual cleaning, visually inspect the endoscope and its accessories. 
+Visual inspection provides additional assurance that the endoscope and its accessories are clean 
+and free of defects. Complex devices such as flexible endoscopes may require the use of lighted 
+magnification or additional methods to assist with the inspection process.  
+ 
+I. High-level disinfection: Following cleaning and visual inspection perform HLD or 
+sterilization in accordance with the manufacturer’s IFU. Carefully review and adhere to the 
+endoscope manufacturer’s reprocessing instructions and to the IFU for chemicals or sterilant and 
+any equipment (e.g., automated endoscope reprocessor) used for reprocessing to help ensure that 
+effective disinfection occurs. In case of AER failure, follow endoscope manufacturer’s IFU’s for 
+manual high level disinfection. 
+ 
+1.  Processing personnel should verify compatibility between the endoscope and the AER 
+before processing. 
+2. Flexible endoscopes and accessories should be positioned within the AER in a manner 
+that ensures contact of the processing solutions with all surfaces of the endoscope. 
+3. Processing personnel should ensure all connectors between the endoscope and the AER 
+are connected correctly. 
+4. Processing personnel should monitor mechanical processing cycles to verify they are 
+completed as programmed. If a mechanical processing cycle is interrupted, the entire 
+cycle should be repeated. 
+5. After mechanical processing, the exterior surfaces of the endoscope should be dried 
+with a soft, lint-free cloth or sponge. The endoscope channels should be dried by 
+purging with instrument air or mechanically dried with a mechanical processor drying 
+system. Removable parts and endoscope accessories should be dried.  Policy Reference Number 
+Page 4 of 5 
+ 
+J. Storage of Endoscopes:  After reprocessing is complete, store endoscopes and accessories in a 
+manner that prevents recontamination, protects the equipment from damage and promotes 
+drying. Gloves must be worn when accessing cabinet. Store processed flexible endoscopes in 
+a cabinet that is either:  
+ 
+1. of sufficient height, width, and depth to allow flexible endoscopes to hang vertically 
+without coiling and without touching the bottom of the cabinet OR  
+2. designed and intended by the manufacturer for horizontal storage of flexible 
+endoscopes  
+3. Flexible endoscopes should be stored with all valves open, and removable parts should 
+be detached but stored with the endoscope. 
+4. Flexible endoscopes should be clearly identifiable, with a distinct visual cue, as 
+processed and ready for use. 
+5. Endoscopes will be reprocessed after use or every seven days (per specified date on 
+tag), whichever comes first.  
+6. Mechanical endoscope cabinets used and maintained per IFU’s.  
+7. Endoscope cabinet will be cleaned weekly or per IFU’s with cleaning log present.   
+8. Any endoscopes that is not being used will be removed from service and stored 
+according to manufacturer’s IFU. 
+ 
+ K. Documentation: Maintain documentation of adherence to these essential steps each time an 
+endoscope is reprocessed. Documentation is essential for quality assurance purposes and for 
+patient tracing in the event a look back is necessary. Records should include: 
+1. Date, time, patient ID, MD name 
+2. Endoscope model/serial number 
+3. Minimum effective concentration results 
+4. Leak test pass or fail 
+5. Person performing 
+6. Lot numbers of reprocessing solutions. 
+7. Water system maintenance should be maintained as well as PM’s for AER’s and 
+endoscopes. 
+ 
+REFERENCE:  
+ 
+Standards of Infection Control in Reprocessing of Flexible Gastrointestinal Endoscopes, Society of 
+Gastroenterology Nurses and Associates, Inc. (SGNA), 2016  
+  
+Steris System 1E Operator Manual, Steris Corporation, 2015  
+  
+OER-Pro Operation Manual, Olympus Medical Systems Corp, 2012  
+  
+Evis Exera II, Reprocessing Manual, Olympus Medical Systems Corp, 2009  
+  
+CDC, Essential Elements of a Reprocessing Program for Flexible Endoscopes – Recommendations 
+of the Healthcare Infection Control Practices Advisory Committee  
+   Policy Reference Number 
+Page 5 of 5 
+ AORN, Guideline Summary: Processing Flexible Endoscopes 
+ 

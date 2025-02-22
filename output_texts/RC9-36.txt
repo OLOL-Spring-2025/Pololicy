@@ -1,0 +1,108 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center  
+Subject: Individualized Quality Control Plan Section:  Blood Gas 
+Date of Origination: September 28, 2017 Supersedes:  
+Date of Last Revision: February 24, 2022 Serial Code: RC9-36 
+Date of Last Review: March 25, 2024   
+ 
+ 
+PURPOSE 
+To define the process for developing an Individualized Quality control Plan (IQCP) for 
+applicable test systems used by Our Lady of the Lake Blood Gas Laboratories.  
+ 
+Definition 
+IQCP is comprised of three parts, a Risk Assessment, a Quality Control Plan, and a 
+Quality Assessment 
+• The Risk Assessment is the identification and evaluation of potential failures and 
+errors in a testing process. 
+• The Quality Control Plan is a laboratory’s standard operating procedure that 
+describes the practices, resources, and procedures to control the quality of a 
+particular test process.  
+• The Quality Assessment is the laboratory’s policy for the ongoing monitoring of 
+the effectiveness of the IQCP. 
+IQCP also broadens the definition of Quality Control from just running controls to ALL 
+of the activities laboratories do to control errors throughout the testing process.  
+ 
+POLICY 
+In response to the Centers for Medicare & Medicaid Services (CMS) approved Quality 
+Control option, Individualized Quality Control Plan (IQCP), will be used in the 
+laboratory to develop and customize a Quality Control procedures specific to the 
+applicable instruments, EPOC BGEM, as in accordance with regulatory standards.  
+The task of developing the IQCP may be performed by the Laboratory Director or 
+delegated to other qualified personnel. If delegated, the Laboratory Director remains 
+ultimately responsible for the proper development and implementation of each IQCP. The 
+Laboratory Director must approve and sign each IQCP before it is implemented.  
+ 
+Quality Control Plan Elements 
+The individualized quality control plan must define all aspects monitored based on the 
+potential errors identified during the risk assessment, including the following parameters 
+as applicable: 
+• The number, type (external and internal quality control systems), and frequency 
+of quality control 
+• Criteria for acceptable performance 
+• Monitoring of the testing environment and reagents 
+• Specimen quality 
+• Instrument calibration, maintenance, and function checks • Training and competency of testing personnel 
+• Provisions for multiple identical devices and variation for uses covered under an 
+IQCP 
+ 
+Procedure 
+Risk Assessment (RA) Overview:  
+Using the Fishbone Diagram, spreadsheet and applicable Policies and Procedures, we 
+reviewed processes from test order through result reporting, evaluating potential errors 
+for all three phases of testing (pre-analytical, analytical, and post-analytical).  
+The identified risks were compared with risk mitigation features for the test system. See 
+spreadsheet containing the Chart to Evaluate Risk for the documentation of identified 
+risks and risk mitigation. 
+ 
+QCP and Policy and Procedure (P&P) Updates and Revisions Based on RA 
+Reinforcement of the importance of specimen collection/handling, patient/sample 
+identification and bar-coding was provided in the remedial training provided to transport 
+team respiratory therapist and nurses.  Reassessment of the security levels and lock-outs 
+in use was performed and found to be adequate to mitigate the problem of untrained users 
+accessing the analyzers. This helped to further mitigate the pre-analytical risks identified 
+in the RA to an acceptable level.  
+The test system risk-mitigation features and the manufacturer’s QC requirements meet or 
+exceed our current regulatory requirements. The system is designed to only allow testing 
+within acceptable quality performance ranges.  Manufacturer’s requirements are for 
+liquid QC to be analyzed at a minimum of every 30 days.  The frequency and scope of 
+analytical QC will include:  
+• Liquid QC:  Eurotrol GAS-ISE Metabolite control – Levels 1, 2 and 3 for blood 
+gas, Na, K, Ca and Glu control – Level 1, 2 and 3 analyzed monthly.   
+• Electronic QC:  Performed automatically on each analyzer immediately before 
+testing process each time a test is run.  Failures in the electronic QC disable the 
+analyzer 
+• Ongoing: Siemens epoc includes risk mitigation features, such as: System Checks, 
+Sensor Checks, Temperature Checks, Internal Sample Detection Controls and 
+Electronic QC. These checks are performed automatically and continuously 
+throughout the use-life of the epoc analyzer. Sample-specific errors are also 
+automatically detected and documented in the EDM.   
+• Electronic QC is performed immediately before the testing process each time a 
+test is run.  It is an automated process. These characteristics meet or exceed our 
+regulatory requirements.  
+ 
+ 
+ 
+ 
+ QA Determinations 
+Monitoring of the new IQCP will include the following activities:  
+• Monthly review of Critical values, Read back comments, Cancelled results and 
+clerical errors. 
+• Tracking of operators who have excessive pre-analytical errors, i.e. sample 
+delivery, insufficient sample.  
+• Environmental conditions per Policy and Procedure updates  
+• Occurrence reports or applicable issues will be thoroughly investigated by the 
+IQCP  
+• Calibration Verification Products will be analyzed per regulatory specifications  
+• Analyzer correlations will be analyzed per regulatory specifications. 
+IQCP modifications will be made with subsequent staff, when deemed necessary. 
+ 
+The Laboratory Director approved this process, the appropriate staff was educated on 
+these changes and the plan was implemented. This plan will be reapproved at least 
+annually by the Laboratory Director. 
+ 
+ 
+ 
+ 
+ 

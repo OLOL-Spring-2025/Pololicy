@@ -1,0 +1,371 @@
+Approved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 9
+1.PURPOSE -- SCOPE
+It is the policy of TRIMEDX that repairs be completed in accordance with 
+appropriate clinical engineering service methods to ensure that TRIMEDX-
+serviced equipment will meet performance specifications upon clinical use 
+and to ensure that a Repair Work Order/Work Order Task is managed and 
+documented properly through necessary steps from time it is opened until 
+closed.
+2.REFERENCE DOCUMENTS
+2.1.Equipment Damage and Abuse
+2.2.Retirement of Equipment
+2.3.Test calibration and Documentation
+3.DEFINITIONS
+4.ABBREVIATIONS
+5.RESPONSIBILITIES
+5.1.TRIMEDX Site Leaders
+5.1.1. Ensure Repair work orders are closed timely and at least on a 
+weekly basis
+5.1.2. Ensure Repair work orders tasks are adequately completed by 
+technician. Work order tasks includes relevant information about 
+different stages of repair such as (but not limited to) 
+5.1.3. Troubleshooting
+5.1.4. Order, receipt, and installation of parts needed for repair (refer to 
+Radiation Policy "FDA Form 2579 Reporting" to determine if a part 
+installation requires filing a 2579 Form) 
+5.1.5. Testing, performance assurance and Electrical Safety Inspection 
+(ESI) for in-house service (the only acceptable exception for ESI is for 
+2 pronged devices where instead of ESI visual inspection is 
+completed to ensure cord is double insulated and intact)
+5.1.6. Notes on Vendor's service request, status and outcome of vendor 
+repair
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 9
+5.1.7. Ensure that Vendor's Field Service Reports (FSR) are attached to 
+Work Order Task record
+5.1.8. Verify that quality of data for that particular record is acceptable and 
+closed questions (Close Notes Tab) have been answered 
+appropriately are used by technicians
+5.2.TRIMEDX Site Technicians
+5.2.1. Respond via phone or pager in accordance with the local customer 
+contract and TRIMEDX policies
+5.2.2. Verify and update the nature of the equipment problem on the work 
+order to ensure accuracy
+5.2.3. Reference a service manual before starting work on a piece of 
+equipment whenever possible
+5.2.4. Complete repairs in accordance with the manufacturer's guidelines 
+(or similar or generic procedures when manufacturer's guidelines are 
+not available)
+5.2.5. Use part specified by the manufacturer or a direct equivalent 
+sourced from approved supplier
+5.2.6. Execute all repairs utilizing good clinical engineering standards of 
+practice
+5.2.7. Consult with a supervisor or utilize other technicians when 
+additional guidance is needed
+5.2.8. Complete service documentation (WOT) at the conclusion of each 
+task or at appropriate stages within the task
+5.2.9. Use Demand Service Solution (DSS) to request vendor service
+5.2.10. Order parts through Repair Work Order Task
+5.2.11. Complete and document in Work Notes an Operational 
+Verification Procedure (OVP) prior to returning the equipment to 
+service
+5.2.12. Complete and document in Work Notes an ESI after a repair 
+which may affect the integrity of any isolation circuitry or hardware, or 
+the electrical supply and power distribution within the device.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 3 of 9
+5.2.13. Are responsible for capturing and maintaining CE CYBER 
+data elements (Security, Software, and Networking)
+5.2.14. Review device history for open WOTs and complete as 
+appropriate
+5.3.Regulatory/Quality Associates
+5.3.1. Responsible to periodically monitor compliance to this process
+6.PROCEDURE
+6.1.Repair Work Order
+6.2.Customer contacts TRIMEDX CEC or Technician identifies a need for 
+repair
+6.3.If Repair is initiated by the CEC: 
+6.3.1. CEC Representative generates a case which leads to the creation 
+of the WO/WOT and Primary Technician is paged
+6.3.2. Primary Technician must acknowledge page through the CEC or 
+the page will accelerate to the Secondary Technician on up through 
+the Vice President of Operations until the WOT is acknowledged
+6.3.3. Technician will contact customer and locate equipment
+6.4.If Repair is initiated by the technician 
+6.4.1. Technician will use the 'create repair' button on an equipment 
+record
+6.4.2. This will lead to the creation of a case, WO, and WOT
+6.5.Repair WOT Flow/Documentation
+6.5.1. At all times, utilizing the RSQ Mobile application where available, 
+technicians will verify and confirm that following information is correct 
+and updated when needed:
+6.5.1.1. Serial Number
+6.5.1.2. Manufacturer, Model and Description
+6.5.1.3. Correct CEID, especially if WOT is opened without a CEID
+6.5.1.4. Hospital/Department/Physical location
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 4 of 9
+6.5.1.5. CE CYBER Data Elements (see Performance Verification 
+policy for details)
+6.5.1.6. Technician will verify that the PM or any other sticker found 
+on device is correctly filled in, applied or in the case where the 
+device is missing a sticker based on information in the CMMS, 
+will apply the correct sticker at this time.
+6.6.In House Repair
+6.6.1. If a Repair is needed, and the technician determines it can be 
+handled in-house, following will be completed:
+6.6.2. Sufficient troubleshooting is required to verify the reported failure 
+and determine its origin. This approach can isolate the failure to 
+single replaceable component/part or it could point to device or 
+system level issue.
+6.6.3. For component /part level type of problem, the technician will 
+determine whether parts need to be ordered and order those either 
+from manufacturer or source the parts from an approved supplier 
+through the WOT.
+6.6.4. Site Manager must approve the part order if the cost exceeded the 
+technician's permission level
+6.6.5. If the replaced part is eligible for a Core exchange, document return 
+exchange on the POL and ship part.
+6.6.6. Upon receipt of the part(s), technician will complete the installation 
+(refer to Radiation Policy "FDA Form 2579 Reporting" to determine if 
+a part installation requires filing a 2579 Form) 
+6.6.7. After all repairs, the technician must conduct a full performance, 
+safety inspection and even re-calibration where needed.
+6.6.8. Technician will document these steps at the completion of each 
+task in Service Notes, update Work Notes as needed, complete 
+Close Questions (Close Notes Tab), and enter Labor lines and close 
+the WOT.
+6.7.Work Order Task Documentation
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 5 of 9
+6.7.1. In order to effectively create technical and historical service records 
+for all devices, the technician is responsible for documenting in detail 
+all troubleshooting, repair, and/or testing for each device that has 
+been serviced.  The documentation should be in the Service Notes 
+section of the Work Order Task and should include details such as 
+what troubleshooting was done, any tests performed and the 
+outcome, what repairs and/or parts that were needed, and what the 
+technician did to make the device patient ready.  The technician 
+should also include any other pertinent details that are needed to 
+accurately describe what was done to each device.
+NOTE: Exception Reporting on Repairs is not acceptable
+6.7.2. For devices that do not meet the accepted tolerance, technicians 
+are to document the before and after measurements to have a 
+documented record of before and after results. 
+6.7.3. Service notes will be professional, to the point, and aligned with 
+labor lines and time entries. They will have logical progression 
+through the events of the repair with a clear conclusion in the end.
+6.7.4. Complete all close questions accurately.
+6.7.5. Work notes will be updated as needed with "behind the scenes" 
+information such as customer communication, vendor or service 
+communications. Work notes should remain factual and should not 
+include any subjective comments or include personal reflections.
+6.7.6. If a PM is to be completed after the repair has been completed, the 
+technician must open a PM WOT and document the PM within that 
+WOT. PM work should never be documented within the repair WOT.
+6.8.Short Description Fields
+6.8.1. Short description field of the WOT will be populated based off the 
+reported problem by the Customer
+6.8.2. The technician should update the short description upon 
+troubleshooting based on the main cause of the failure
+6.9.Delayed Work Order Status
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 6 of 9
+6.9.1. In the event that the work order task cannot be completed due to a 
+delay; you may select the ‘Delayed’ checkbox on the WOT.
+6.9.2. Once checked, you are required to answer, ‘What is Delayed?’: 
+6.9.2.1. Parts
+6.9.2.2. Vendor Service
+6.9.2.3. Site (Customer)
+6.9.3. If there is an additional reason that the work is delayed, then the 
+option for ‘Delay Reason’ is available.
+6.9.4. Delayed Work Order Status is not used for any metrics or 
+standardized reporting. This is only to help provide reasoning behind 
+the work order task not being completed.
+6.10.Parts Requests
+6.10.1. Click on Order Parts on WOT
+6.10.2. Search for Part Number or Description
+6.10.3. If part not found, enter "New Item/Part"
+6.10.4. Add parts to Cart
+6.10.5. When all parts have been added to cart, click 'Checkout'
+6.10.6. Select Ship To Location - if missing submit ticket to supply 
+chain in Service Now
+6.10.7. Select shipping priority
+6.10.8. Add Ship To ATTN line
+6.10.9. Enter request notes if needed - ex. serial number, revision 
+number, certification if vendor requires
+6.10.10. Click 'Checkout'
+6.10.11. Supply Chain will process request based on purchasing 
+strategy
+6.10.12. Supply Chain will send to approval (financial approval 
+hierarchy)
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 7 of 9
+6.10.13. If manager rejects entire request is canceled
+6.10.14. If manager approves PO is generated and sent to vendor
+6.10.15. Once part arrives to ship to location, technician should 
+receive all parts in shipment (full or partial) on PO
+6.11.If Vendor Service is required
+6.11.1. Select On-Site Vendor Service OR Off-Site Vendor Service 
+on the WOT. Answer each question based on your understanding of 
+the service event
+6.11.2.
+ Is this service under warranty?
+6.11.3. Is this for Technical Support only?
+6.11.4.
+ Is this for calibration (PO cost = $600)?
+6.11.5. Do you expect the listed NTE to cover this service? - If Yes - 
+the NTE remains the same, if no - a new box appears to enter the 
+estimate or exact value for service rendered
+6.11.6. Expected Service Completion Date:
+6.11.7. Click Order Now
+6.11.8. On the request form:
+6.11.9. Enter Ship To Location (place of service) - if missing submit 
+ticket to supply chain
+6.11.10. Select Shipping Priority which should be Ground
+6.11.11. Select Vendor - if missing submit ticket to supply chain
+6.11.12. Submit Request
+6.11.13. After vendor service has been completed:
+6.11.14. Vendor Service Close Questions on WOT:
+6.11.15. No, No = Open, documentation
+6.11.16. Yes, No = Completed, Pending Buyer Action
+6.11.17. No, Yes = Open, documentation
+6.11.18. Yes, Yes = Completed, Pending Buyer Action
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 8 of 9
+6.11.19. Supply Chain will review request with FSR documentation to 
+ensure contracts and entitlements pricing is correct
+6.11.20. Supply Chain will send to Manager for acknowledgment or 
+dispute of documented FSR pricing
+6.11.21. Manager will approve or dispute
+6.11.22. If Manager disputes, then Supply Chain will reconcile with 
+Vendor to finalize FSR pricing. then steps above recycle
+6.11.23. If Manager approves (financial approval hierarchy), the PO is 
+updated with FSR documentation and pricing
+6.12.Parts from Stock
+6.12.1. From a WOT, on the related list “Transfer Part From Stock”
+6.12.2. Select Display Name (original part number ordered) you 
+want to add to your WOT
+6.12.3. Select Assign To Equipment
+6.12.4. Enter Quantity you want to add
+6.12.5. Click OK
+6.12.6. Bulk Parts or Bulk Vendor Service - refer to Supply Chain
+6.12.7.Close Questions
+6.12.8. Upon completion of actual repair, WOT is closed with 
+completion of all close questions. Service notes should support 
+answers of close questions
+6.13. If initial troubleshooting reveals that Repair is not needed, close the 
+WOT documenting the labor lines, adding Service Notes pertaining to the 
+findings and answer the appropriate close questions.
+6.14. Site Manager (SM) reviews all Repair Work Orders to ensure 
+appropriate intervention and documentation prior to approval
+6.15. Site Manager closes WO. In the event where SM has performed 
+the work, the approval of the work order will be the responsibility of the 
+Director. Monthly reports will be reviewed by operations leadership to 
+monitor compliance.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0087 Revision: 4
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+      
+Title: Equipment Repairs
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 9 of 9
+7.QUALITY RECORDS
+8.PROCESS FLOWCHART
+Appendix A: Additional Resources
+END OF DOCUMENT
+COPY

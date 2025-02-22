@@ -1,0 +1,256 @@
+OUR LADY OF THE LAKE RMC 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 1 of 6 
+LBA007 
+LABORATORY ADMINISTRATION MANUAL 
+LBA007 
+TEST RESULTS 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 10/22/2020 1/11/2021 1/11/2021 
+Lab Administration Review J Teague 1/8/2021 Origination Date 
+Laboratory Medical Director Review A Harton 1/3/2021 3/2015 
+ 
+ 
+ 
+I. POLICY 
+Ensuring quality patient results is the primary goal of Our Lady of the Lake 
+Laboratories.  Computer resulting is accomplished by registered medical 
+technologist/technicians who cover all shifts and are the designated personnel to 
+correlate data (clerical and/or technical) and monitor test performance/results for 
+reasonableness with a review of method interferences if indicated.  Age related 
+normal ranges with high and low flags are built into computer resulting as well as 
+delta checks of previous results.  Results which fall outside of reportable limits will 
+be repeated and/or diluted before reporting.  Any questionable results will be resulted 
+as preliminary when possible and held for supervisory review and finalization of 
+results.  Laboratory results are the property of OLOL and the information in the 
+record belongs to the patient.  Results are maintained in the computer for the benefit 
+of the patient, physicians, and hospital.   
+II. PROCEDURE  
+A. GENERAL RELEASE OF RESULTS 
+1. Laboratory personnel documents patient results in the computer 
+systems concurrently with testing performance.  In cases of downtime, 
+the laboratory has procedures in place to concurrently document 
+results on downtime documents. See LBA016-Computer Downtime.   
+2.  Laboratory results are accessible using LIS system.  Physicians have 
+access to view results on all of their patients from within the hospital 
+or at home via remote access. 
+3. Laboratory results are available as they are verified in the Laboratory 
+Information System. 
+4. To keep up with quality of service in turnaround of result reporting, 
+lab staff works from Worklists designed for each department.  
+Worklists are set to routinely refresh so that information is up-to-date. 
+5. Supervisory review monitors and ensures turnaround times are being 
+met, proper follow-up action is taken and documented, testing OUR LADY OF THE LAKE RMC 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 2 of 6 
+LBA007 
+parameters are met prior to reporting results, and corrective actions are 
+performed as needed. 
+B. PATIENTS REQUESTING LAB RESULTS 
+1. Patients requesting lab results must obtain their laboratory results 
+through OLOLRMC Online Patient Center (MyChart), their doctor’s 
+office, or the hospital’s Release of Information (ROI) Department. 
+2. Laboratory employees wishing to obtain their results must follow the 
+steps listed above for the release of information.  UNDER NO 
+CIRCUMSTANCES will an employee access their own Medical 
+Record or that of a family member. 
+C. FAXING OF LAB RESULTS  
+1. Laboratory results should only be faxed to known or confirmed fax 
+numbers, using the EPIC information system.  Any deviation from this 
+should be documented in order to be in compliance with, or exceed the 
+statutes brought forth by the American Recovery and Reinvestment 
+Act, Title XIII, Subpart D.  As a further security measure, OLOLRMC 
+does not use patient social security numbers to identify its patients and 
+under normal circumstances, social security numbers are not located 
+on patient reports. 
+2. Patient reports may be set to “autofax” to a designated, secure fax 
+machine or printer directly from Epic LIS.  
+3.  Occasionally reports will be requested by Healthcare Providers other 
+than the Ordering Physician.  If reports are sent ad hoc, they must be 
+sent using the “CC List” found in the Specimen Inquiry activity in 
+Epic to ensure the report will print in a compliant manner, with an 
+acceptable coversheet. There must be a confirmation of the recipients 
+fax number prior to faxing patient results using this ad hoc method.  
+Confirm the fax number in one of the following ways: 
+a. All fax numbers and submitters available in the “CC List” in 
+Epic are confirmed secure fax numbers. 
+b. Review the submitter’s information in the Phone Book activity 
+in Epic.  If a number is present in this activity then it is safe to 
+use in the “CC List” ad hoc method. 
+c. Any fax number documented/received as part of an official lab 
+order is considered verified.  Use the “CC List” ad hoc method 
+to send information to this number as requested by the ordering 
+practitioner.    
+d. If the number is not found in one of the above locations, you 
+MUST use the Manual Fax Confirmation Form (LBA007-A) to 
+confirm the fax number and document the fax on a “Manual 
+Fax Log” kept within the department. 
+e. “Sending (Faxing) Results” Job Aid (EJA5.1) located on the OUR LADY OF THE LAKE RMC 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 3 of 6 
+LBA007 
+Laboratory Services Department Page provides instruction on 
+faxing within EPIC. 
+4. Under certain circumstances reports must be faxed manually.  Such 
+times include, but are not limited to computer downtime.  Results 
+faxed manually should be done so with the utmost care in order to 
+ensure no errors in dialing the fax number.  Manual faxes should be 
+logged on a “Manual Fax Log” kept within the department and the 
+completed Manual Fax Confirmation form (LBA007-A) submitted to 
+the Laboratory Compliance Officer.   
+5. A cover sheet shall be attached to all faxed documents stating that the 
+Transmittal is confidential and that the receiving party is prohibited 
+from disclosing the information to any other unauthorized party. 
+6. Patient-related information may be faxed only if the authorization and 
+release complies with federal, state, local laws and policies of Our 
+Lady of the Lake Regional Medical Center. 
+7. Patient-related material requested shall be copied or printed from 
+electronic record and faxed to the requesting party. 
+8. Cover sheets are located in proximity of the fax machine. Fill in all 
+requested information and instructions as necessary. This sheet should 
+be the first sheet sent. 
+9. Faxes should always contain a coversheet which instructs the recipient 
+on what to do if the fax is received in error.  Lab reports which autofax 
+and any report sent ad hoc using the EPIC “CC List” will 
+automatically print a coversheet before each batch of patient reports. 
+D. MISFAXES 
+1. Faxes received in error MUST be reported to the laboratory 
+compliance officer. 
+2. Any misdirected faxes that are the result of incorrect submitter 
+registration must be reported as well. 
+3. Misfax logs will be kept for at least one year, and may be subject to 
+audit by the Department of Health and Human Services (HHS).  In the 
+event of a “misfax” event involving 500 or more patients, HHS must 
+be notified.  At the end of each year, a copy of the breach log for the 
+hospital will be forwarded to the HHS by the FMOLHS Corporate 
+Compliance Officer. 
+4. Any misdirected faxes that contain the patient’s protected health 
+information may require that the patient must be notified within sixty 
+(60) days of the discovery of the information breach.  FMOLHS 
+Corporate Offices will make the decision as to which breaches require 
+the patient to be notified. 
+5. The laboratory compliance officer will review misfaxes and forward 
+the details of each misfax to the FMOLHS Corporate Compliance OUR LADY OF THE LAKE RMC 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 4 of 6 
+LBA007 
+Officer for further action. 
+E. DELAY OF RESULTS 
+When testing, or reporting of test results is delayed due to an unforeseen 
+circumstance, including, but not limited to, instrument malfunction or 
+unacceptable specimens, the laboratory section responsible for the delay shall 
+notify the appropriate personnel.  A “delay” in testing or reporting refers to 
+any circumstance in which reporting will grossly exceed established reporting 
+turnaround times which are based on order priority.  In the event of computer 
+downtime, an overhead announcement will alert all units of the downtime and 
+there is no need to call individual units.  Specimens will be processed as 
+efficiently as possible in accordance to defined downtime procedures. 
+1. Multiple inpatient delays will be reported to the charge nurse on the 
+unit as soon as possible.  If the charge nurse is unavailable, the next 
+responsible person will be alerted. 
+2. Delays affecting single patients will be reported to the nurse in charge 
+of the patient as soon as possible. 
+3. Delays affecting STAT tests ordered on outpatients of 24 hour 
+facilities will be reported to the nurse, ordering physician, or his/her 
+representative as soon as possible. 
+F. QUALITY CONTROL (QC) 
+QC shall be performed and found acceptable prior to performing patient 
+testing.  QC review is performed by supervisory personnel or designee at 
+defined intervals with appropriate corrective action, if indicated.  See lab 
+policy LBA034-Laboratory Quality Control and Quality Assurance Policy.   
+G. AMENDED RESULTS 
+1. Amended Data is defined as any data that has been altered after the 
+initial result has been accepted, finalized, or filed.  This is done by a 
+supervisor or a lab testing employee with computer amend privileges.  
+The amended results are noted in the patient’s printed report and in result 
+inquiry fields in a manner that will not obscure the original data.   
+2. Correction of Results in LIS  
+a. For confirmed errors detected after reporting, the corrections 
+must be made promptly and reported to the client, nurse or 
+ordering physician so that immediate action can be taken if 
+necessary.    
+b. Document notification in LIS Comm Log using “Corrected 
+Results” as the topic. 
+c. Document the name of the person notified along with the 
+reason for amending the report. Date, time, and tech 
+identification are electronically stamped. 
+d. Notify Pathologist if error is likely to result in patient injury. OUR LADY OF THE LAKE RMC 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 5 of 6 
+LBA007 
+e. If multiple sequential corrections are made to a single test 
+result, all corrections are referenced by the LIS in sequential 
+order on subsequent reports. 
+3. Correction of Results on Forms (see LBA033-Document Correction) 
+a. If it is necessary to alter or correct any written record, use the 
+following guidelines: 
+i. Changes to records must be legible and indelible 
+ii. Original (erroneous) entries must be visible 
+iii. Never use white correction fluid or any medium that 
+would obliterate the original recording. 
+iv. The original recording may be crossed out using a 
+single line but never overwritten. 
+v. The person responsible for the change must initial and 
+date the change.  
+H. PATIENT TEST REPORTS 
+Paper and electronic reports are reviewed for content and format at least every 
+two years.  Paper and electronic test reports include the following elements: 
+1. Name and address of testing laboratory 
+2. Patient name and identification number, or unique patient identifier 
+3. Name of physician of record, or legally authorized person ordering 
+test, as appropriate 
+4. Date of specimen collection, and if appropriate, time of collection 
+5. Date of release of report (if not on the report, this information should 
+be readily accessible) 
+6. Time of release of report, if applicable (if not on the report, this 
+information should be readily accessible) 
+7. Specimen source, when applicable 
+8. Test result(s) and units of measurement, when applicable 
+9. Reference intervals, as applicable 
+10. Conditions of specimen that may limit adequacy of testing 
+I. INTERFACE RESULT INTEGRITY 
+1. Verification of accurate transmission of patient results from the point 
+of data entry to patient reports must be performed prior to 
+implementation of an interface, when changes are made to an existing 
+interface that could affect the accuracy of transmission, and every 2 
+years thereafter.  This includes evaluation of data transmitted from the 
+LIS to other computer systems and their output devices. 
+2. The Monthly Random Sample Tracer Audit Tool is used to routinely 
+capture interface result integrity. 
+3. A comparison of the following information is performed: 
+a. Test results (include individual results and test packages or 
+batteries) OUR LADY OF THE LAKE RMC 
+LAB ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 6 of 6 
+LBA007 
+b. Reference Ranges 
+c. Abnormal flags, if applicable 
+d. Results with comments/footnotes, if applicable 
+e. Corrected results, if applicable 
+4. All patient results are expected to be accurately transmitted. 
+5. Any patient results failing to accurately transmit are immediately 
+investigated, possibly resulting in a revalidation of the computer 
+interface. 
+III. REFERENCE 
+AABB Technical Manual, Current Edition. 
+CAP checklist, Current Edition. 
+CAP standards: GEN.41303, GEN.41304, GEN.41306, GEN.41307, GEN.41310, 
+GEN.41312, GEN.41345, GEN.41096, GEN.41067, GEN.20450, GEN.48500 
+IV. ASSOCIATED POLICIES 
+LBA026-Infectious Disease Reporting 
+LBA018-Critical Values 
+LBA033-Document Correction 
+LBA034-Lab Quality Control and Quality Assurance 
+V. REVISIONS 
+3/2015 (created), 11/2015, 8/2017, 11/2018, 10/22/2020 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,404 @@
+Approved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 9
+1.PURPOSE -- SCOPE
+It is the policy of TRIMEDX that all devices managed by TRIMEDX will have 
+an Operation Verification Procedure (OVP) Performance Assurance 
+performed prior to initial use and have Preventive Maintenance at periodic 
+intervals as defined by an assigned Preventive Maintenance (PM) Schedule 
+based on Risk Evaluations, Regulatory Requirements, Contractual 
+Requirements or Manufacturer's Recommendations.
+2.REFERENCE DOCUMENTS
+2.1.Equipment Not Located and Equipment in Use on Patient (Unavailable) 
+Procedure
+2.2.Equipment Repairs Procedure
+2.3.PM Schedule Assignment Procedure
+2.4.Equipment Maintenance and Assignment Procedure
+3.DEFINITIONS
+3.1.(100%) Managed PM - Sum of Timely PM Completion + CNL + In Patient 
+Use + Out to Vendor (Documentation of all of these activities in the 
+CMMS are required in order to meet this standard).
+3.2.Could Not Locate - Type of equipment work order task status where the 
+equipment is unable to be located at the site. Work Order Task 
+documentation is required. (Refer to Policy Equipment Could Not Locate 
+(CNL) for required Service)
+3.3.In Patient Use - Type of work order task status where the equipment is in 
+patient use. Work Order Task document is required. (Refer to Policy In 
+Patient Use (IPU) for required servce)
+3.4.Operational Verification Procedure - Operational Verification Procedure 
+(OVP) Performance Assurance performed prior to initial use
+4.ABBREVIATIONS
+4.1.SM – Site Manager
+4.2.PM – Preventive Maintenance 
+4.3.CNL – Could Not Locate 
+4.4.IPU – In Patient Use 
+4.5.CMMS – Computerized Maintenance Management System
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 9
+4.6.AEM – Alternative Equipment Maintenance 
+4.7.OVP – Operational Verification Procedure
+5.RESPONSIBILITIES
+5.1.TRIMEDX Site Leadership
+5.1.1.Verify that an appropriate PM Schedule has been assigned to each 
+device
+5.1.2.Determine if the assigned PM Schedules are appropriate for each 
+device (refer to PM Schedule Assignment policy/procedure)
+5.1.3.Ensure appropriate documentation submitted when requesting 
+changes of the assigned PM Schedules (Refer to policy/procedure 
+PM Interval Change).
+5.1.4.Ensure that discrepancies with assigned PM Schedules are 
+resolved in an expeditious manner
+5.1.5.When changes are made to the PM schedule, ensure the device 
+PM stickers are updated as well to reflect the new PM schedule due 
+date
+5.1.6.Ensure that PM work order tasks are adequately updated to 
+includes relevant notes about the work completed prior to closing the 
+work order
+5.1.7.Verify that quality of data such as time entries, close questions, 
+service notes, and labor lines are correctly entered and selected prior 
+to closing work order.
+5.1.8.Ensure that technicians performing the work are qualified to do the 
+work
+5.1.9.Ensure that PM Work Orders are appropriately closed and closed in 
+timely manner
+5.1.10.When able to, the site leader should communicate upcoming 
+PMs to the client to align on equipment availability 
+5.2.TRIMEDX Technicians
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 3 of 9
+5.2.1.Review the Manufacturer's recommendations for PM frequency and 
+procedure at the time of the Initial Inventory and entry into CMMS 
+database
+5.2.2.Technicians will ensure they have the training, experience and 
+qualifications to perform PM on devices. If there are any gaps in 
+training, experience and qualifications are communicated to manager 
+immediately
+5.2.3.Verify that the manufacturer's schedule is in the CMMS
+5.2.4.If the manufacturer's schedule is not in the CMMS, send the 
+Manufacturer's Maintenance Manual electronically to 
+Quality/Regulatory through RSQ or physically (hard copy or thumb 
+drive) to the Central Office, attention to Quality/Regulatory.
+5.2.5.When performing PMs, if the manufacturer's procedure was 
+followed, attach the document to the work order task if in the event 
+the document is not available in the CMMS. This document needs to 
+be presented, upon a request, to Surveyor or to a quality specialist 
+during internal audits.
+5.2.6.When performing PMs, if a generic procedure was followed, this 
+procedure must be attached at the work order task in the CMMS. This 
+document needs to be presented, upon a request, to Surveyor or to a 
+quality specialist during internal audits.
+5.2.7.Advise the TRIMEDX Site Manager if the manufacturer's 
+recommendations for PM frequency differ from the AEM Schedule.
+5.2.8.Technicians will manually generate PM work order task by 
+frequency/procedure if not automatically generated
+5.2.9.Document the PM work completed in the service notes, complete 
+the close questions, and document the steps and results from various 
+PM outputs; if applicable, exception reporting is allowed
+5.2.10.Perform Operation Verification Procedure (OVP) prior to 
+initial use and document the steps before returning the equipment to 
+service in service notes
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 4 of 9
+5.2.11.Complete and document an Electrical Safety Inspection 
+(ESI) and results in service notes. The exception to completing ESI 
+only applies to 2-pronged devices where visual inspection will be 
+conducted to ensure that cord is double insulated and intact
+5.2.12.Perform Preventive Maintenance (PM) activities in a timely 
+and effective manner. PMs are due by the last day of the month for 
+which the system has auto-generated
+5.2.13.Perform Unscheduled Inspection activities after every Repair 
+(Refer to Policy Equipment Repairs)
+5.2.14.Are responsible for capturing and maintaining CE CYBER 
+data elements (Security, Software, and Networking)
+5.2.15.Review device history for open WOTs and complete as 
+appropriate
+5.3.Quality & Regulatory Compliance Associates
+5.3.1.Quality/Regulatory team and AEM Committee assess equipment 
+risk and assigns an Alternative Equipment Maintenance (AEM) 
+Schedule (Refer to Policy Equipment Maintenance Assignment and 
+Strategy)
+5.3.2.Collect Manufacturer's Maintenance Manuals and store in PM 
+Procedure Repository
+5.3.3.Change PM Schedules when requested by fields operations within 
+a compliant window
+5.3.4.Responsible for periodic audits to ensure compliance to this 
+procedure
+6.PROCEDURE
+6.1.TRIMEDX Managers and technicians will review and prioritize all auto 
+generated PM Work Orders Tasks each month.  PMs are due by the last 
+day of the month for which the system has auto-generated. PM Work 
+Order Tasks are generated for each frequency and procedure.
+6.2.Preventive Maintenance Work Orders/Work Order Tasks are required to 
+be 100% Managed for all medical equipment. The PM is considered 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 5 of 9
+managed according to the following formula: (100% Managed PMs= 
+Timely completion + CNL + In Patient Use + Out to Vendor).
+6.3.PM Work Order Tasks will be assigned on the first calendar day of the 
+Month. Technicians will manually generate PM Work Order Tasks if not 
+automatically generated.
+6.4.Technicians must attempt to locate the device addressed in the PM 
+Work Order Tasks 
+6.5.If the device is being used in patient treatment during scheduled 
+service: 
+6.5.1. Use the 'In Patient Use' button on the WOT until the service can 
+actually be completed.
+6.5.2. Follow policy/procedure In Patient Use
+6.5.3. Service notes will clearly describe the reason that the device is 
+unavailable for scheduled service, and what efforts were made to 
+correct the situation. Effort should be continuously made and 
+documented to receive the device as soon as it is available.
+6.5.4. Labor hours and service notes describing the labor activities should 
+be added.
+6.5.5. Follow scheduled inspection process when equipment becomes 
+available.
+6.6.If device cannot be located: 
+6.6.1. Use the 'Could Not Locate' button on the WOT to indicate the 
+device as CNL.
+6.6.2. Follow policy/procedure Could Not Locate and document all efforts 
+to locate the equipment.
+6.6.3. Labor hours and service notes describing the labor activities should 
+be added each time an attempt is made to locate the device.
+6.6.4. Follow scheduled inspection process when equipment is located.
+6.7.If the equipment has been dispositioned: 
+6.7.1. Follow policy/procedure Disposition of Equipment; Work Order Flow 
+for Disposition of Equipment.
+6.7.2. SM approves the disposition WOT.
+6.7.3. Technician appropriately cancels the PM WOT by selecting 
+Incomplete WOT. 
+6.8.If Vendor Service is Required: 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 6 of 9
+6.8.1. Follow the Vendor Service Request RSQ job aid. If one vendor 
+service request is being utilized for multiple devices, follow the Bulk 
+Vendor Service Request Process. 
+6.8.2. At completion of vendor service, the technician will attach a copy of 
+the FSR to the PM WOT and appropriately document the work 
+completed by the vendor. 
+6.8.3. The Technician will complete the PM Work Order Documentation 
+according to the steps below. 
+6.8.4. The Technician will attach the PM Sticker according to the 
+directions below.
+6.8.5. Note: The Substatus 'Out to Vendor' is applicable when the device 
+has been sent out from the facility to the vendor for PM. If the vendor 
+is coming to the facility to perform the PM, the PM WOT is to remain 
+open and on-site vendor service should be requested.
+6.9.Delayed Work Order Status 
+6.9.1. In the event that the work order task cannot be completed due to a 
+delay; you may select the ‘Delayed’ check box on the WOT.
+6.9.2. Once checked, you are required to answer, ‘What is Delayed?’: 
+6.9.2.1. Parts
+6.9.2.2. Vendor Service
+6.9.2.3. Site (Customer)
+6.9.3. If there is an additional reason that they are delayed, then the 
+option for ‘Delay Reason’ is available.
+6.9.4. Delayed Work Order Status is not used for any metrics or 
+standardized reporting. This is only to help provide reasoning behind 
+the work order task not being completed.
+6.10.If the PM was previously completed within the PM Schedule's 
+window: 
+6.10.1. If the PM has not been completed within the month it has 
+generated, the PM WOT should not be closed as 'Completed' until the 
+work has been done.
+6.10.2. If the PM was completed in the past, then PM WOT should 
+not be closed as completed to reference a date in the past. Please 
+contact Quality and Regulatory if this situation arises.
+6.10.3. Submit the PM as Not Needed 
+6.10.3.1. The request will first go to your Manager for approval. Once 
+the Manager has approved, it will be in Quality & 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 7 of 9
+Regulatory's queue to process. Your Manager has 14 days to 
+approve the request. If it is not approved after 14 days, the 
+request will be closed incomplete. If still needed, the request will 
+have to be resubmitted. 
+6.10.3.1.1. See the  PM Not Needed Job Aid for further 
+instructions. 
+6.10.3.2. Include PM documentation of the last PM or indicate where 
+the documentation is located.
+6.11.If the device is on a metered schedule and has not met the 
+metered/cycle requirements:
+Technician to submit the PM as Not Needed. The request must have a 
+photo of the metered number/cycle before it will be approved. 
+6.11.1. PMs will continue to generate until the PM has reached it's 
+hours.
+6.12. Once the device is located, Technicians will accurately fill out the 
+PM Work Order Task 
+6.13. Inspect equipment per procedure (OEM or TRIMEDX procedures if 
+in the event there are no documented OEM procedures). If OEM 
+procedure is available, provide to Quality and Regulatory.
+6.14. Document acceptable ranges and actual results, RPM's, running 
+temperatures, calibration data, and over temperature alarm verification, 
+and similar information indicative of PM activities for specific equipment. 
+6.14.1. All Laboratory equipment must have all recordable outputs 
+and ranges documented within the WOT.
+6.15. Document used test equipment's CEID(s) in the indicated close 
+question on the PM WOT.
+6.16. Final action is to ensure proper system performance, which may 
+include such steps as: visually inspect, perform safety tests, clean, adjust, 
+calibrate or verify calibration.
+6.17. MANUALS
+6.18. If scheduled inspection is completed without deficiencies, the Work 
+Order Task is completed. 
+6.18.1. In the event where an unexpected issue or failure is found 
+during scheduled maintenance:
+6.18.2. If a problem is determined to be minor, the preventive 
+maintenance procedure CAN BE completed and device cannot be 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 8 of 9
+returned to service (e.g. a power cord has a cut in covering), 
+technician should do the following: 
+6.18.2.1. Perform the PM procedure
+6.18.2.2. Complete the PM WOT
+6.18.2.3. Complete and affix the PM label
+6.18.2.4. Initiate a repair WOT, notify the user of slight delay in return 
+to service and complete the repair WOT.
+6.18.3. If a problem is determined not to be minor, the preventive 
+maintenance procedure cannot be completed and device cannot be 
+returned to service 
+6.18.3.1. Repair WOT will be opened to complete the repair - refer to 
+Equipment Repairs procedure
+6.18.3.2. User department will be notified of the delay in return to 
+service
+6.18.3.3. Repair WOT will be referenced in PM work order task, and 
+PM work order task will remain opened until repair is completed.
+6.18.3.4. Once repair is completed, PM process will resume and be 
+completed using the process outlined above
+6.19. Technicians will complete the PM sticker detailing the next due date 
+by entering the month and using the correct year found in the top right 
+corner. 
+6.19.1. Example for Month: 05 for May
+6.19.2. If the device has multiple next pm dates due to a 
+multifaceted PM schedule, then use the nearest upcoming pm date.
+6.20. Note: The color of the sticker will change annually. It is acceptable 
+to use only the format of the sticker as shown above. Application of the 
+stickers needs to performed properly -  previous PM stickers need to be 
+removed and area cleaned before applying new PM stickers. PM stickers 
+are only a visual queue, CMMS is the source for all PM history. 
+6.21. If calibration was performed; the appropriate calibration sticker 
+should be updated. 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0088 Revision: 7
+Document Type: TMX Effective Date: Apr 20, 2018
+Department: CE Service Origination 
+Date:
+Apr 20, 2018
+Title: Preventive Maintenance
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 9 of 9
+6.22. If the device is test equipment and has been calibrated by an 
+external calibration group (i.e BC Group, Tetronix, etc.) then the vendor 
+calibration sticker may be acceptable in place of a TRIMEDX calibration 
+sticker.
+6.23. In situations where device PM schedule is justifiably changed from 
+PM to PAAR, PM stickers will need to be removed and appropriate 
+Approved for Use stickers must be applied. No device should have 
+outdated stickers. (Refer to PM Schedule Assignment procedure)
+6.24.SM reviews all Work Orders to ensure appropriate intervention and 
+documentation prior to WO closure.
+6.25.SM closed Work Order
+7.QUALITY RECORDS
+8.PROCESS FLOWCHART
+Appendix A: Additional Resources
+END OF DOCUMENT
+COPY

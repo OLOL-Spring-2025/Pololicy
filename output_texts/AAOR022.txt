@@ -1,0 +1,463 @@
+AA-OR-0007 
+Page 1 of 10 
+ 
+PURPOSE 
+ 
+Our Lady of the Lake Hospital, Inc. (OLOL or Institution) and Investigators engaged in any research 
+including, but not limited to, human subject research each have appropriate roles in ensuring that financial 
+interests and/or conflicts of interest do not compromise the protection of research subjects or the integrity of 
+research findings.  It is the policy of OLOL that an individual has an obligation to avoid any financial 
+conflict of interest for which an approved management plan cannot or has not been developed and 
+approved, through the Office of Research, and implemented by the individual and all involved parties. 
+ 
+The purpose of this policy is to promote objectivity in research in accordance with Title 42 Code of Federal 
+Regulations (CFR) Part 50 Subpart F and 45 CFR Part 94 to promote objectivity in research by establishing 
+standards that provide a reasonable expectation that the design, conduct, and reporting of research funded 
+under federal grants or cooperative agreements will be free from bias resulting from Investigator financial 
+conflicts of interest. 
+ 
+Institutional Conflicts of Interest as a whole or its officials who make decisions with Institution wide 
+implications are addressed in the OLOL Institutional Policy: OrgOps/ET/002. 
+ 
+OLOL Office of Corporate Compliance in conjunction with the designated IRB will provide guidance to 
+the Office of Research as it relates to managing conflicts of interest.  
+ 
+This policy applies to Institution, Investigators and Sub Investigators, as defined by the regulations, 
+employees, staff, fellows, residents, students, collaborators, consultants and any other persons at OLOL 
+planning to participate or participating in the research, including their spouses and dependent children 
+(Individuals): 
+▪ who are responsible for the design, conduct or reporting of research or educational activities 
+funded or proposed for funding by private or a federal agency; or 
+▪ who are directly involved in the treatment or evaluation of research subjects for research that is 
+regulated or conducted by any federal agency, including, but not limited to Department of 
+Human Services (“HHS”), National Science Foundation (“NSF”), Public Health Services 
+(“PHS”) and the Food and Drug Administration (“FDA”). 
+ 
+DEFINITIONS: 
+  
+When used in this policy these terms have the following meanings:  
+ 
+Compensation: Any payment including salary, bonus, fees, honorarium, royalties, or in-kind products or 
+services including royalties from OLOL, but excluding:  
+1) salary and other non-royalty compensation from OLOL;  
+2) income from seminars, lectures, or teaching engagements sponsored by public or nonprofit entities; 
+3) income from service on advisory committees or review panels for public or nonprofit entities; 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Academic Affairs Section: Office of Research 
+Title: Financial Conflict of Interest – Promoting 
+Objectivity in Research  
+Policy Reference #: AA/OR/022 
+Supersedes #: AA/OR/007 
+Date of Origination: June 2015 Last Review Date: August 20, 2019 
+Last Revision Date: August 20, 2019  
+Page 2 of 10 
+4) income from investment vehicles such as mutual funds and retirement accounts, providing the 
+Investigator does not directly control the investment decisions made by such vehicles. 
+Entity:  Any domestic or foreign, public or private, for profit or not for profit legal entity or organization 
+other than Institution, or the federal government. 
+Equity Interest: Any stock, debt obligation, or derivative thereof, including options, exclusive of diversified 
+mutual funds (e.g., stocks, stock options or other ownership interests).  
+Financial Interest: Anything of monetary value, whether or not the value is readily ascertainable.  
+Financial Conflict of Interest (FCOI) for PHS funded research: A Significant Financial Interest related to 
+Public Health Service (PHS) funded research that could directly and significantly affect the design, conduct 
+or reporting of funded research, as determined by the Institution’s Office of Research and in consultation 
+with the Office of Corporate Compliance.  
+Investigator: Any person, regardless of title or position, who is responsible for research design, conduct or 
+reporting, including but not limited to, the principal investigator, project director, co-principal investigator, 
+clinical research associates, collaborators or consultants.  The primary factors to be used in determining 
+who is an Investigator are the significance of the tasks assigned to the individual with regard to the design, 
+conduct and reporting of the Research and the degree of independence that individual may have in 
+performing such Research-related tasks.  
+Immediate family: An individual’s spouse, domestic partner, and dependent children.  
+Intellectual property rights: Patents, copyrights, trademarks, or the right to royalties from such rights. 
+Institutional responsibilities: An investigator’s professional responsibilities on behalf of OLOL, which 
+include but are not limited to activities such as research, research consultation, teaching, professional 
+practice, institutional committee memberships, and service on panels such as Institutional Review Boards 
+(IRB) and/or Data and Safety Monitoring Boards.  
+Management Plan:  Written plan for the purposes of managing, reducing or eliminating Financial Conflict 
+of Interest. 
+Principal Investigator (PI):  Any person designated with the title of “Principal Investigator” of a Research 
+or other sponsored project or otherwise having primary responsibility for the management and conduct of a 
+Research or other sponsored project, including a project director.  
+Public Health Service of the Department of Health and Human Services (PHS): Includes any PHS 
+awarding components to which authority may be delegated, including without limitation the National 
+Institutes of Health (NIH).    
+Reimbursed Travel:  Travel activity for which the travel expenses are paid directly by the Investigator who 
+is then reimbursed by an Entity for such travel expenses.  Reimbursed travel shall not include travel 
+expenses that are reimbursed by the Institution, a federal, state or local government agency, an Institution of 
+Higher Education, an academic teaching hospital, a medical center, or a research institution that is affiliated 
+with Institution of Higher Education. 
+Research:  Systematic investigation, study or experiment designed to develop or contribute to generalizable 
+knowledge or to be presented in support of regulatory applications.   The term includes any such activity for 
+which research funding is available from a PHS Awarding Component through a grant or cooperative 
+agreement, whether authorized under the PHS Act or other statutory authority, such as a research grant, 
+career development award, center grant, individual fellowship award, infrastructure award, institutional 
+training grant, program project, or research resources award. 
+Senior/key personnel: These are the program director/principal investigator and any other person identified 
+as senior/key personnel by the Institution in the grant application, progress report, or any other report 
+submitted to the PHS by the Institution.  
+Significant Financial Interest (SFI): A Financial Interest held by the Investigator (or his/her Immediate  
+Page 3 of 10 
+family) that reasonably appears to be related to the Investigator’s Institutional Responsibilities.  
+1. With regard to an Entity whose Equity securities are publicly-traded, a Significant Financial Interest 
+exists if the aggregate value of one or more of the following exceeds $5,000:  
+a. any Compensation received during the twelve (12) months preceding the date of SFI 
+Disclosure 
+b. any Compensation reasonably anticipated to be received in the twelve (12) months 
+following the date of SFI Disclosure 
+c. the value of any Equity interest in the Entity as the date of the SFI Disclosure 
+2. With regard to any Entity whose Equity securities are not publicly-traded, a Significant Financial 
+Interest exits if :  
+a. the value of any Compensation received from the Entity in the twelve (12) months 
+preceding the date of SFI Disclosure and/or reasonably anticipated to be received in the 
+twelve (12) months following the date of SFI Disclosure, when aggregated exceeds $5,000, 
+or 
+b. the Investigator holds any Equity interest (e.g. stock, stock option, or other ownership 
+interest). 
+3. With regard to any Entity, a Significant Financial Interest exists if the Investigator has received 
+income related to any Intellectual Property during the twelve (12) months preceding the date of SFI 
+Disclosure and/or reasonably anticipated to be received in the twelve (12) months following the date 
+of SFI Disclosure which, when aggregated with other Financial Interests in the Entity, exceeds 
+$5,000 
+Small Business Innovation Research Program (SBIR Program):  Extramural federal program providing 
+financial sponsorship or support for small business through PHS awarding components and certain other 
+federal agencies established under Public Law 97-219, the Small Business Innovation Development Act, as 
+amended.  For purposes of this policy, SBIR Program also includes the Small Business Technology 
+Transfer Program, established under Public Law 102-564. 
+Sponsored Travel:  Travel activity, the travel expenses for which are paid directly by an Entity on behalf of 
+an Investigator and not reimbursed to the Investigator so that the exact monetary value may not be readily 
+available to the Investigator.      
+Sub-recipient: A sub-recipient relationship is established when federal funds flow down from or through an 
+awardee Institution to another individual or entity and the sub-recipient will be conducting a substantive 
+portion of the PHS-funded research project and is accountable to the awardee institution for programmatic 
+outcomes and compliance matters.  
+U.S. Public Health Services includes the following components:  National Institute of Health (NIH); 
+Centers for Disease Control and Prevention (CDC); Food and Drug Administration (FDA); Substance 
+Abuse and mental Health Services Administration (SAMHSA); Office of Assistant Secretary for 
+Preparedness and Response (ASPR); Office of Global Affairs (OGA); Agency for Toxic Substances and 
+Disease Registry (ATSDR); Health Resources and Services Administration (HRSA); Indian Health 
+Services (HIS); Agency for Healthcare Research and Quality (AHRQ) and Office of the Assistant Secretary 
+for Health.  
+ 
+POLICY 
+ 
+A.  PHS Funded Projects as defined by 42 CFR Part 50 Subpart F 
+1. OLOL will post and maintain Institution’s up-to-date Financial Conflict of Interest policy related 
+to PHS-Funded Research on a publicly accessible website (42 CFR § 50.604.)  
+Page 4 of 10 
+2.  OLOL will inform each PHS Investigator of the Institution’s policy on financial conflicts of 
+interest and provide Investigator with:  
+a. the Institution’s financial conflicts of interest policy;  
+b. the Investigator’s responsibilities regarding disclosure of significant financial interests;  
+c. the required financial conflict of interest disclosure form. 
+3. If the following Significant Financial Interests exist consisting of one or more by the Investigator 
+(and those of the Investigator’s spouse and dependent children) that reasonably appear to be 
+related to the Investigators’ Institutional responsibilities, the Office of Research and the Office of 
+Corporate Compliance will review PHS-funded research for compliance with its FCOI policy:  
+a. With regard to any publicly traded Entity, a Significant Financial Interest exists if the 
+value of any remuneration received from the Entity in the 12 months preceding the 
+disclosure and the value of any equity interest in the Entity as of the date of disclosure, 
+when aggregated, exceeds $5,000. Remuneration includes salary and any payment for 
+services not otherwise identified as salary (e.g., consulting fees, honoraria, paid 
+authorship); equity interest includes any stock, stock option, or other ownership interest, 
+as determined through reference to public prices or other reasonable measures of fair 
+market value.  
+b. With regard to any non-publicly traded Entity, a Significant Financial Interest exists if the 
+value of any remuneration received from the Entity in the 12 months preceding the 
+disclosure, when aggregated, exceeds $5,000, or when the Investigator (or the 
+Investigator's spouse or dependent children) holds any equity interest (e.g., stock, stock 
+option, or other ownership interest)  
+       c.   Intellectual property rights and interests (e.g., patents, copyrights), upon receipt of  
+             income related to such rights and interests.  
+4. Investigators on PHS-funded projects must also disclose the occurrence of any Reimbursed or 
+Sponsored Travel related to their Institutional responsibilities; provided, however, this disclosure 
+requirement does not apply to travel that is reimbursed or sponsored by a Federal, state, or local 
+government agency, an Institution of higher education, an academic teaching hospital, a medical 
+center, or a research institute that is affiliated with an Institution of higher education.  
+a. Travel Disclosures at the time of the application for PHS Funded Research occurring in 
+the preceding twelve (12) months 
+b. Sponsored Travel that occurred since the time of the application 
+c. Thereafter, during the course of the Investigator’s participation in PHS Funded Research 
+i. no more than thirty (30) days after the occurrence of any Sponsored Travel or 
+Reimbursed Travel, and 
+ii. an updated disclosure of all Sponsored and Reimbursed Travel annually 
+d. If a PHS Investigator is reasonably able to anticipate the occurrence of Sponsored Travel 
+or Reimbursed Travel, the Investigator may elect to submit Travel Disclosures up to 
+twelve (12) months in advance of the anticipated travel.  Unless an advance Travel 
+Disclosure becomes materially inaccurate, no further disclosure of such travel shall be 
+required. 
+e. All Travel Disclosures by PHS-Funded Investigators shall include the following: 
+i. purpose 
+ii. identify of the sponsor/organization 
+iii. destination 
+iv. duration  
+Page 5 of 10 
+v. additional information may be needed to determine if travel constitutes a financial 
+conflict of interest 
+5. Financial interests which do not require review include (42 CFR § 50.603):  
+a. salary royalties, or other remuneration paid by OLOL to the Investigator if the             
+    Investigator is currently employed or otherwise appointed by OLOL;  
+   b. intellectual property rights assigned to the Institution and agreements to share in   
+                            royalties related to such rights; 
+                       c.  income from investment vehicles, such as mutual funds and retirement accounts, as   
+                            long as the Investigator does not directly control the investment decisions made in  
+                            these vehicles;  
+             d. income from seminars, lectures, or teaching engagements sponsored by a Federal, state  
+    or local Government agency, an institution of higher education, an academic teaching  
+    hospital, a medical center, or  a research institute that is affiliated with Institution of   
+    higher education;   
+e. income from service on advisory committees or review panels for a Federal, state, or  
+    local government agency, an institution of higher education, an academic teaching  
+    hospital, a medical center, or a research institute that is affiliated with Institution of  
+    higher education.  
+6. Each Investigator will be required to complete training prior to engaging in research related to  
+      any PHS-funded grant, at least every four years, and immediately when: 
+a. Institution substantively amends the policy in a manner that affects requirements of 
+Investigator; 
+b. Investigator is new to Institution; 
+c. when Institution finds an Investigator is not in compliance with the Institution’s conflict 
+of interest policy or management plan. 
+7.  OLOL will take reasonable steps to ensure that any Sub-recipient Investigator complies with 
+FCOI regulations by:  
+a. Incorporating as part of a written agreement or subcontract, terms that establish whether  
+the policy or that of the Sub-recipient will apply to awardee Institution or that of the   
+sub-recipient will apply to the sub-recipient’s Investigators.  
+b. If the sub-recipient's Investigators must comply with the sub-recipient's financial  
+conflicts of interest policy, the sub-recipient shall certify as part of the agreement  
+referenced above that its policy complies with this subpart. If the sub-recipient cannot  
+provide such certification, the agreement shall state that sub-recipient Investigators are  
+subject to the financial conflicts of interest policy of the awardee Institution for  
+disclosing significant financial interests that are directly related to the sub-recipient's  
+work for the awardee Institution. 
+c. Alternatively, if the sub-recipient's Investigators must comply with the awardee  
+Institution's financial conflicts of interest policy, the agreement referenced above shall  
+specify time period(s) for the subrecipient to submit all Investigator disclosures of  
+significant financial interests to the awardee Institution. Such time period(s) shall be  
+sufficient to enable the awardee Institution to comply timely with its review,  
+management, and reporting obligations under this subpart. 
+d. Providing FCOI reports to the PHS awarding component regarding all Financial  
+Conflicts of Interest of all Sub-Recipient Investigators prior to the expenditure of funds  
+and within 60 days of any subsequently identified FCOI is required.   
+Page 6 of 10 
+8. Conflicts of interest will be managed by the Office of Research in consultation with the Office 
+Corporate Compliance and as required by the development and implementation of a 
+Management Plan and if necessary, a retrospective review and a mitigation report pursuant to the 
+specifications as outlined in 42 CFR § 50.605(a).   
+9. Investigators are required to disclose to the Office of Research:  
+a. the Investigator’s SFI and those of the Immediate Family no later than the time of 
+application for PHS-funded research; 
+b. an updated disclosure of SFI at least annually during the period of the award; 
+c. an updated disclosure of SFI within thirty days of discovering or acquiring (through 
+purchase, marriage or inheritance) a new SFI. 
+10. The Office of Research will respond to any requestor within five business days of the request, 
+information concerning any Significant Financial Interest that meets all of the following criteria   
+[42 CFR § 50.605((a)(5)(i)(A-C)]: 
+i. The Significant Financial Interest was disclosed and is still held by the senior/key 
+personnel as defined in 42 CFR § 50.605((a)(5)(i)(A-C); 
+ii. The Institution determines that the Significant Interest is related to the PHS-
+funded research; and 
+iii. The Institution determines that the Significant Financial Interest is a Financial 
+Conflict of Interest. 
+b. The response to a request will include the following information:  
+i. Name of Senior/Key Personnel Investigator(s) 
+ii. Title and role of the Senior/Key Personnel Investigator(s) 
+iii. Name of Entity giving rise to the SFI and FCOI 
+iv. Nature of the SFI; and 
+v. Approximate dollar value of SFI.  
+c. The information concerning the SFI will be updated at least annually and in any event 
+within sixty (60) days of the identification of a new FCOI of a Senior/Key Personnel 
+Investigator. 
+d. The information concerning the SFI shall remain available for responses to written 
+requests for at least three (3) years from the date the information was most recently 
+updated. 
+11. In the course of on-going PHS funded research project, if a new Investigator discloses a 
+Significant Financial Interest or an existing Investigator discloses a new Significant Financial 
+Interest to the Institution, the Office of Research with consultation from the Office of Corporate 
+Compliance within sixty days will review and  determine if the Significant Financial Interest is 
+related to PHS-funded research; and if so implement a Management Plan that shall specify the 
+actions to manage the conflict of interest.  
+12. Restrictions that might be imposed to manage conflicts of interest include, but are not limited to: 
+a. Public disclosure of significant financial interests; 
+b. Disclosure of FCOI to research participants; 
+c. Disclosure of FCOI in publications and articles; 
+d. Monitoring of the research by independent reviewers; 
+e. Modification of the research by independent reviewers; 
+f. Modification of the research plan; 
+g. Divestiture of significant financial interests; 
+h. Severance of relationships that create actual or potential conflicts;  
+Page 7 of 10 
+i. Disqualification of Investigator/Key Personnel from participation in all or a portion of the 
+research, which may include, but not limited to: 
+i. Not enrolling possible research participants in the study 
+ii. Not administering the informed consent, 
+iii. Not being involved in subjective assessments of eligibility criteria and 
+intervention outcomes 
+13. If a Significant Financial Interest was not disclosed timely for whatever reason, or  
+      managed in a timely manner or the Investigator failed to comply with a Financial Conflict of  
+      Interest Management Plan, the Institution shall, within 120 days of the Institution’s  
+      determination of noncompliance, complete a retrospective review of the Investigator’s activities  
+and the PHS-funded research conducted during the time period of the noncompliance, to    
+determine if the Significant Financial Interest biased the design, conduct, or reporting of such 
+research.   
+a. The Institution shall document the retrospective review and adhere to the required  
+elements as specified  in 42 CFR § 50.605. 
+b. If bias is identified in the retrospective review, the Office of Research shall notify and 
+submit a mitigation plan to the PHS funding agency.  The mitigation plan shall include a 
+description of any impact of the bias on the Research and the plan to mitigate the effect 
+of the bias. 
+c. In the event a PHS-funded research project of clinical research whose purpose is to 
+evaluate the safety or effectiveness of a drug, medical device, or treatment has been 
+designed, conducted, or reported by an Investigator with a FCOI that was not managed or 
+reported by the Institution as required by the regulation, the Institution shall require the 
+Investigator to: 
+ i.  Disclose the FCOI in each public presentation of the results of the research, and 
+ ii. Request an addendum to previously published presentations. 
+14. Reports.  Initial, annual and revised FCOI will be sent to NIH for the Institution and its sub-
+recipients, if applicable, in accordance with the regulation: 
+a. Prior to expenditure of funds, but if the Office of Research determines that no conflict of 
+interest exists or eliminates it, the determination will be documented and no report will be 
+sent; 
+b. Within 60 days of identification of an Investigator who is newly participating in the 
+project; 
+c. Within 60 days for new, or newly identified, FCOIs for existing Investigators; 
+d. Annually provide the status of FCOI and any changes to the Management Plan, if 
+applicable, until the completion of the project. 
+e. Following a retrospective review to update a previously submitted report, if appropriate. 
+f. Promptly if bias is found with the design, conduct or reporting of NIH-funded research. 
+  
+B. Records. The Office of Research will maintain the records of all Investigator disclosures of financial 
+interests and the Institution’s review of, and response to, such disclosures (whether or not a 
+disclosure resulted in the Institution’s determination of a FCOI) and all actions under the 
+Institution’s policy or retrospective review, if applicable, in accordance with all applicable federal, 
+state and local statutes and regulations governing research; specifically they will maintain the 
+records for all financial disclosures and all actions taken to resolve conflicts of interest for at least 
+three years from the date of submission of the final expenditures report or, where applicable from  
+Page 8 of 10 
+other dates specified in  45 C.F.R. 74.53(b) and 92.42(b) for different situations, or until the 
+resolution of any action involving those records, whichever is longer. 
+PROCEDURE 
+1. All Investigators involved in PHS-funded research will complete the Financial Conflict of 
+Interest Disclosure Form (See Appendix A) at the time of application and annually, in 
+accordance with the specific time period prescribed by the Institution and during the period of 
+the award. 
+2. The Office of Research in consultation with Office of Corporate Compliance will convene on an 
+ad hoc basis to review disclosures of potential financial conflicts by an Investigator. 
+3. The committee will determine the likelihood that the financial interest could directly and/or 
+significantly affect the design, conduct, or reporting of the research. 
+4. If the committee determines that the reported financial interest cannot directly and/or 
+significantly affect the design, conduct, or reporting of the research, no further action is required.  
+5. If the committee determines that the reported financial interest can affect the research, a 
+Management Plan must be developed with specific actions to be taken.  The Investigator must 
+agree in writing to accept the plan prior to initiating the research.  The Office of Research and 
+Office of Corporate Compliance will comply with 42 CFR § 50.605 in managing and reporting 
+Financial Conflicts of Interest. 
+6. If the Office of Research finds that they are unable to satisfactorily manage a conflict of interest, 
+they will not allow the research to be conducted and the appropriate Entity will be notified. 
+7. The Office of Research will require the disclosure of the conflict of interest in each public 
+presentation (oral or written) of the results of the research in any case where a financial conflict 
+of interest was not managed or reported by the Institution as required for any funded project of 
+clinical research whose purpose is to evaluate the safety or effectiveness of a drug, medical 
+device, or treatment which was designed, conducted, or reported by an Investigator. 
+8. Failure to comply with this policy will result in appropriate disciplinary action and possible 
+termination of the funded research.  Violations may also result in civil or criminal liability.    
+ 
+References: 
+National Institutes of Health Office of Extramural Research (2011).  Financial Conflict of Interest 
+(FCOI) module.  Retrieved from http://www.grants.nih.gov/grants/policy/coi/tutorial2011/fcoi.htm  
+ 
+U.S. Government Publishing Office (2015).  Electronic Code of Federal Regulations Part 50 Subpart F- 
+Promoting Objectivity in Research.  Retrieved http://www.ecfr.gov/cgi-bin/text-
+dx?rgn=div5&node=42:1.0.1.4.23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FINANCIAL CONFLICT OF 
+INTEREST DISCLOSURE FORM 
+Appendix A  
+Page 9 of 10 
+Title of the Research Study:        
+Name of Investigator:       
+ 
+To be completed and signed by the Investigator 
+ 
+For you the Investigator, your spouse/partner and dependent children, identify Significant 
+Financial Interests (SFI) that are reasonably related to the sponsored research, and meet any of 
+the following criteria:  (A) any remuneration received from an external entity at present or in the 
+12 months preceding the disclosure that totals or exceeds $5000 (the $5000 threshold applies to 
+salary, royalties, and other payments aggregated for the individual, one’s spouse/partner and 
+dependent children; (B) publicly-traded equity if the value of the equity (plus any remuneration ) 
+meets or exceeds $5000; (C) any level of ownership of privately -held equity regardless of the 
+dollar value.  You do not need to disclose any financial interests from your employer, from a U.S. 
+Federal, state or local government agency, from a U.S. institution of higher education, a U.S. 
+academic teaching hospital, medical center or a U.S. Research institute affiliated with a U.S. 
+Institution of higher education.   
+  I do not have any SFI (proceed to and complete certification section below) 
+  I disclose the following SFI (complete the table below and complete certification section below) 
+Name: 
+Institution: 
+Mail Address: 
+Telephone number: 
+Email Address: 
+ Approximate value of the financial interest 
+Name of Earned Income 
+Source(s) 
+Income Recipient 
+(Investigator, 
+Spouse/Partner, 
+Dependent Child, or 
+combination) 
+SFI Type 
+(salary, 
+royalty, equity, 
+stocks, 
+consulting fees, 
+honoraria, etc.) 
+$5000- $19,999 
+increments of $5000 
+(e.g. $5000 to 
+$10,000) 
+$20,000- $100,000 
+increments of 
+$20,000 
+$100,000 and above 
+by increments of 
+$50,000 
+      
+      
+      
+      
+ 
+ 
+     
+For Travel disclosures, please provide the following additional detail (Only PHS awards)  
+Sponsor Destination Start/End Date Purpose  
+Page 10 of 10 
+    
+    
+    
+    
+ 
+Prior to submitting this form, please review your entries for accuracy then sign and date the form. 
+ 
+Certification:  By signing this form, as the  Investigator, I certify that the above entries are true 
+and complete to the best of my knowledge and belief, and that I have reviewed the organizational 
+policy and completed COI training.  I understand and agree that it is my responsibility to update 
+this information promptly if my Significant Financial Interests related to this study’s research 
+activities change and at least annually during the period of the award.  I understand and agree 
+with the Travel reporting requirements as outlined in th e organizational policy .  I will report  
+Travel to the Office of Research within 30 days of the conclusion of the trip. 
+ 
+ 
+Name (Please Print):______________________________________________________ 
+Signature:_________________________________________________________________ 
+Date (MM/DD/YY):_______________________________________________________ 
+ 
+ 
+ 
+ 
+ 

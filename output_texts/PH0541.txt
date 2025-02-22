@@ -1,0 +1,214 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: CSP Release Inspections & Testing Policy Reference #: PH0541 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for Compounded Sterile Preparations (CSP) release 
+inspections, quality control testing, and final verification of CSPs prepared within FMOLHS Baton 
+Rouge Market Pharmacies.  
+1.2. Release inspections and testing are an important component of product quality control measures 
+and the final verification of CSPs prior to release and dispensing.  Release inspections and testing 
+includes, but is not limited to: 
+• Visual inspections – physical product characteristics, labeling, container closure system 
+• Quality control tests – pH, tonicity (osmolarity), refractive index, sterility, endotoxin level  
+• Physical measurements of final CSP / batch yield – weight and/or volume  
+• Calculations and conversions verification 
+1.3. This policy addresses the release inspection and testing requirements stated in the current 
+version of USP <797> and in accordance with the Louisiana Board of Pharmacy and related state 
+statutes governing sterile compounding.   
+2. Policy  
+2.1. Release inspections of and tests on CSPs are performed by: 
+• Compounder during and immediately after compounding 
+• Verifying Pharmacist conducting in-process and/or final CSP verification and sign -off prior 
+to release and dispensing. 
+• Pharmacist prior to release and dispensing if CSP is released and dispensed more than 24 
+hours after completion of compounding 
+2.2. CSPs undergo visual inspection prior to release and dispensing to ensure preparation has no 
+visual defects and its appearance meets expectations as characterized in the manufacturer’s 
+labeling, Master Formula Record (MFR) or IV Workflow System. 2.3. CSP labeling is visually inspected and compared to the prescription or medication order to ensure 
+accuracy.  Label positioning is checked to ensure important device measurements and 
+manufacturer labeling and product identification is not obstructed. 
+2.4. CSP container closure systems (i.e., final dispensing container and packaging) are visually 
+inspected to ensure they are free of leaks, cracks, improper seals, and other defects that could 
+affect sterility, stability, or CSP quality. 
+2.5. CSPs with observed defects are promptly rejected, clearly labeled as rejected, and segregated 
+from active stock to prevent use before disposal occurs. Appropriate disposal of the rejected CSP 
+according per policy. 
+2.6. When CSPs are not released or dispensed on the day of preparation and verification, a visual 
+inspection of the preparation, label, and container closure system occurs immediately before it 
+is released or dispensed. Attention is given to defects that occur during storage including 
+precipitation, cloudiness, separation/loss of homogeneity, or leakage.  
+2.7. CSPs compounded at FMOLHS Baton Rouge Market Pharmacies are not released or dispensed 
+prior to the successful completion and documentation of required release inspections and tests 
+2.8. CSP defects indicating sterility or stability issues which are detected prior to release or dispensing 
+are investigated to determine the cause of the defect(s) and corrective actions are taken if 
+appropriate. During the investigation, CSPs are quarantined pending the outcome. Results of the 
+investigation, corrective actions, and disposition of the quarantined CSPs are documented and 
+readily retrievable. 
+2.9. Compounding Personnel who perform release inspections and testing receive foundational 
+knowledge education, hands -on training and skills development, and undergo an observed 
+competency assessment prior to performing job duties independently.   
+• Ongoing training and education are provided when new or modified release criteria are 
+introduced and at the discretion of the Designated Person(s).    
+• Ongoing competency assessment is successfully completed at least once annually.  
+• Documentation of training, and competency assessments is retained and readily retrievable. 
+3. Roles & Responsibilities 
+3.1. Designated Person(s) (DP): 
+• Determine appropriate release inspections and tests for CSPs and ensure release criteria, 
+procedures, and documentation requirements are clearly described in internal references, 
+the Master Formula Record and/or IV Workflow System. 
+• Ensure personnel conducting release inspections and tests receive appropriate education 
+and training and undergo competency assessment on the skills and techniques necessary to 
+successfully perform these techniques prior to performing them independently an d on an 
+ongoing basis. 
+• Identify, vet, and partner with analytical labs and release inspection and testing supply and 
+equipment vendors. 
+• Review release inspection and testing results and trends.  Identify deficiencies, oversee 
+investigations and corrective actions, and ensure proper documentation.  
+• Ensure release inspection and testing data is accurately and fully documented.  
+3.2. Compounding Personnel: • Comply with all aspects of the release inspection and testing requirements for each CSP. 
+• Ensure complete, accurate, and timely documentation of release inspection and testing 
+results per this policy. 
+• Conduct final visual verification of CSP and container closure system. 
+• Report known or suspected deficiencies in the equipment, supplies, or vendors used in 
+release inspections and testing to the DP. 
+• Report CSP release inspection failures to the DP and quarantine products in a timely manner 
+per this policy. 
+3.3 Verifying Pharmacist:  
+• Perform double check of all calculations, measurements, and conversions.  
+• Conduct final visual verification of CSP label.  
+4. Procedures 
+4.1. CSP Release Inspection & Test Determination 
+• Identify required release inspections and tests for each CSP, formulation, and/or container 
+closure system. 
+Required? Category Release Inspection or Test 
+All CSPs 
+ 
+ 
+Visual 
+Inspections 
+1. CSP Final Prep: free of visible particulates, foreign 
+matter, or precipitate; discoloration; homogeneity of 
+mixture (no separation); viscosity and characteristics 
+2. CSP Label(s): match to prescription or med order, 
+placement (not covering device or diluent product 
+name and id or calibrated measures) 
+3. CSP Container Closure System: leaks, cracks in 
+packaging or seals, deformities impacting dispensing. 
+• Determine specific physical and chemical release inspections, tests, and expected results for 
+each CSP formulation by referring to USP-NF drug monographs, internal resources, or other 
+recognized sterile compounding formulation and stability resources. CSP release inspections 
+and tests for sterile dosage forms include the following adapted from Table 2 of USP <1163> 
+Quality Assurance in Pharmaceutical Compounding: 
+ Injections Irrigations Inhalations Ophthalmics Gel 
+Implants 
+Solid 
+Implants 
+Visual Particulate 
+Matter ✓ ✓ ✓ ✓     
+Volume ✓ ✓ ✓ ✓ ✓ ✓ 
+• Considerations for selecting and defining release criteria procedures and expected results: 
+o CSP Category 
+o Compatibility and appropriateness of release inspections, tests, and testing 
+apparatus/supplies for the given CSP formulation, dosage form, and final drug yield  
+o CSP stability under testing conditions 
+o Potential for final CSP and/or route of administration to cause patient harm (e.g., 
+intrathecal versus intramuscular injection) 
+o Time-sensitivity of CSP administration (e.g., stat drug for patient in the E.D. or O.R.) 
+o Additional regulatory and statutory requirements 
+o Number/quantity of sample(s) needed for testing and the impact to the total 
+compounded quantity or yield  • Document selected release inspections and testing requirements, including procedures, 
+testing apparatus, and expected results in the appropriate system and/or formulation 
+record for each CSP including: 
+o Master Formula Record (MFR) - for CSPs compounded from one or nonsterile starting 
+ingredients or repackaged CSPs 
+o IV Workflow Management System (IVWS) (or similar) 
+o Compounding System (CS) 
+4.2. CSP Release Inspections & Testing 
+• Conduct the specific release inspections and testing defined for each CSP according to the 
+MFR, IVWS, or CS procedures and instructions.  
+4.3. Visual Inspections - Liquid Dosage Forms 
+• Wipe the container closure system with a low-lint wipe to remove any external particles. 
+• Gently agitate and/or swirl the CSP and hold in front of both a black and white background.   
+• Observe for color, clarity, precipitate/foreign matter, phase separation, etc.  Use magnifying 
+glass if needed. 
+• Reject CSP if any deviations are observed and document results on CR, IVWS, or CS.   
+4.4. Documentation and Follow Up to Release Inspections and Testing 
+• Document actual and expected (if applicable) release inspection and test results on the CR, 
+IVWS, or CS. 
+• Pharmacist verification, whether manual or through DoseEdge®, signifies that all release 
+inspection criteria have been met. 
+• Reject CSPs failing or not achieving expected results and quarantine CSPs.   
+• Ensure rejected CSPs are stored in a clearly marked area to ensure CSPs are not accidently 
+released or dispensed. 
+• Promptly report release testing failure(s) to DP for determination if additional processing, 
+retesting, investigations, and/or corrective actions are warranted.  
+4.5. Final CSP Verification 
+• Refer to Workflow and Aseptic Technique policy for the CSP final verification procedure. 
+5. Definitions 
+5.1. Acceptance Quality Limit (AQL): The maximum number of defective units allowed; beyond which 
+the entire batch is rejected. 
+5.2. Batch: A specific quantity of CSPs prepared as described in the MFR in a single, discrete process, 
+and expected to have uniform character and quality, within specified limits. 
+5.3. Container closure system: Packaging components that together contain and protect the dosage 
+form. This includes primary packaging components and secondary packaging components if the 
+latter are intended to provide additional protection. 
+5.4. Formulation: The specific qualitative and quantitative composition of the final CSP. 
+5.5. Meniscus: The lowest point of the curvature of a liquid’s surface inside of graduated cylinder and 
+the point at which liquid measurements are determined.  5.6. MFR: Master formulation record 
+5.7. Monograph: A quality documentary standard within USP -NF that articulates the quality 
+expectations for a medicine including for its identity, strength, purity, and performance. It also 
+describes the tests to validate that a medicine and its ingredients meet these criteria. 
+5.8. Quality control (QC): The sampling, testing, and documentation of results that, taken together, 
+ensure that specifications have been met before release of the CSP 
+5.9. Release inspection and testing:  Visual inspection and testing performed to ensure that a 
+preparation meets appropriate quality characteristics 
+5.10. Refractive index (RI): A physical property characterizing the ability of substance to “bend” 
+or refract light. The refractive index is the measure of the solute concentration of a substance or 
+CSP and is used to help determine uniformity and conformance with a known RI value. 
+5.11. Specific Gravity (SG): A unitless ratio of the density of a substance to the density of water 
+at 4°, or [(g of substance/mL)/ 1.00 g/mL]. If known, can be used to help calculate density, 
+volume, or weight of a substance. 
+5.12. Specification: The tests, analytical methods, and acceptance criteria to which an API or 
+other components, CSP, container closure system, equipment, or other material used in 
+compounding CSPs must conform to be considered acceptable for its intended use. 
+5.13. Stability: The extent to which a product or preparation retains physical and chemical 
+properties and characteristics within specified limits throughout its expiration or BUD.  
+5.14. Sterility: The absence of viable microorganisms.  
+5.15. Workflow management system: Technology comprised of hardware and software that 
+allows for automation to assist in the verification of components of, and preparation of, CSPs and 
+to document components and processes. 
+5.16. Verify: To confirm that a method, process, system, or equipment will perform as expected 
+under the conditions of actual use.  
+6. Related Policies, Documents, References 
+6.1. United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2. United States Pharmacopeial Convention, Inc. <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version. 
+6.3. United States Pharmacopeial Convention, Inc. <788> Particulate Matter in Injections.  Current 
+version. 
+6.4. United States Pharmacopeial Convention, Inc.  <789> Subvisible Particulate Matter in Ophthalmic 
+Solutions.  Current version. 
+6.5. United States Pharmacopeial Convention, Inc. <1163> Quality Assurance in Pharmaceutical 
+Compounding.  Current version. 
+6.6. United States Pharmacopeial Convention, Inc. <1207> Packaging Integrity Evaluation – Sterile 
+Products.  Current version. 
+6.7. United States Pharmacopeial Convention, Inc. <1211> Sterility Assurance.  Current version. 6.8. United States Pharmacopeial Convention, Inc. <1225> Validation of Compendial Procedures.  
+Current version.  
+ 
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2022.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+7.3 Reviewed with formatting changes 11/2024. 
+ 
+ 

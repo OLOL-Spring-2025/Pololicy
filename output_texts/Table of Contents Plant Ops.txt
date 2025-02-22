@@ -1,0 +1,42 @@
+Sheet: Sheet1
+STELPLT155 | Emergency Generator Failure | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT175 | Extension Cord Safety | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT185 | Failure HVAC | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT190 | Failure Medical Gas Oxygen System | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT195 | Failure Medical Gas System Nitrous Oxide | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT200 | Failure of Fire Alarm System | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT205 | Failure of Natural Gas Supply | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT220 | Failure Water Distribution System | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT225 | Fire Alarm System P.M. Program | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT230 | Auto Closing Smoke Doors P.M. Program | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT235 | Fire Extinguishing Equipment P.M. Program | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT240 | Med Gas Alarm  | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT250 | Hot Work Policy | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT260 | Loss of Sprinkler Water | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT265 | Maintenance and Inspection of MedGas Systems | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT270 | Management of Utility System Failure | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT275 | Medical Air System | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT295 | Plumbing System and Flooding Procedure | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT300 | Pneumatic Compressors P.M. Program | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT305 | Pneumatic Vacuum Compressor P.M. Program | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT315 | Pump P.M. Program | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT325 | Roof P.M. Program | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT340 | Toxic External Atmosphere | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT345 | Utilities Management | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT350 | Utilities Mgmt Emerg Shut-off Labels | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT355 | Utilities Mgmt Emerg Power | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary MyersSTELPLT360 | Utilities Mgmt Inventory | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT365 | Utilitiy System Shutdown | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT395 | Pneumatic Tube System | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT400 | Ceiling Permit Policy | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+STELPLT410 | Closed Circuit Television Viewing and Monitoring | 2021-07-21 | 3.0 | 2021-07-24 | Justin Brown | Mary Myers
+nan | nan | NaT | nan | NaT | nan | nan
+nan | nan | NaT | nan | NaT | nan | nan
+nan | nan | NaT | nan | NaT | nan | nan
+nan | nan | NaT | nan | NaT | nan | nan
+nan | nan | NaT | nan | NaT | nan | nan
+nan | nan | NaT | nan | NaT | nan | nan
+nan | nan | NaT | nan | NaT | nan | nan
+nan | nan | NaT | nan | NaT | nan | nan
+  | nan | NaT | nan | NaT | nan | nan
+Sheet: Sheet2
+Sheet: Sheet3

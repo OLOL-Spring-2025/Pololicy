@@ -1,0 +1,502 @@
+1 
+ 
+ 
+POLICIES AND PROCEDURES MANUAL Manual:  Emergency Srvs. 
+Our Lady of the Lake Regional Medical Center   
+Subject:  Care and Observation Monitoring of Behavioral 
+Health Patients within the Emergency Department  
+Section:  Patient Care 
+Date of Origination:  May 17, 2005 Supersedes: MH3; MH4 
+Date Last Revised: 
+Date Last Reviewed: 
+June 5, 2024 
+January 9, 2025 
+Serial Code:  MH-02 
+ 
+ 
+PURPOSE: 
+To establish a process for the safe care of the mental behavioral health patients, and those under legal holds, 
+who are being treated in the Emergency Department. (ED) 
+ 
+ 
+TABLE OF CONTENTS:  
+A. Triage – Identifying & managing patients at potential risk for suicide/homicide or experiencing psychotic 
+symptom 
+B. Nursing Guidelines – Outlining nursing roles & responsibilities when caring for these patients 
+C. Safety – Describing safety precautions to minimize patient’s potential for self-harm and/or elopement and to 
+ensure his/her and team member safety 
+D. Competency for Observation Monitoring – Defining required competency for team members performing 
+observation monitoring 
+E. Observation Monitoring – Implementing Observation Monitoring of 1:1 Observation & Line of Sight 
+Observation 
+F. Personal Belongings – Safe keeping of patient belongings, valuables & home medications 
+G. Family/Visitor Considerations – Family & Visitor Considerations 
+H. Discharge/Transfer – To protect and plan appropriate care for individuals at risk for suicide while receiving 
+care and after discharge by identifying individuals with suspected or known suicidal ideations. 
+I. References  
+ 
+ 
+DEFINITIONS:  
+ 
+Legal holds: 
+Physician Emergency Certificate (PEC) State of Louisiana - legal form used to place involuntary hold on 
+patient with mental illness who is a danger to self or others, or gravely disabled, for the purpose of observation, 
+diagnosis, and treatment; implemented by any physician; good for 72 hours. 
+ 
+Coroner’s Emergency Certificate (CEC) State of Louisiana - legal form to be completed by the coroner 
+within 72 hours after the PEC has been implemented; must be completed by the coroner or his deputy; CEC and 
+PEC together are good for a period not to exceed 15 days. 
+ 2 
+ 
+ 
+Judicial Commitment - Any person of legal age may file with the court a petition which asserts his belief that 
+a person is suffering from mental illness which contributes or causes that person to be a danger to himself or 
+others or to be gravely disabled or is suffering from substance abuse which contributes or causes that person to 
+be a danger to himself or others or to be gravely disabled and may thereby request a hearing.  
+ 
+Order of Protective Custody (OPC) – is completed by the coroner or judge of a court of competent 
+jurisdiction of the State of Louisiana when a peace officer or other credible person executes a statement under 
+private signature specifying that, to the best of his knowledge and belief, a person is mentally ill or suffering 
+from substance abuse and is in need of immediate treatment to protect the person or others from physical harm. 
+ 
+Peace Officer’s Hold – A peace officer or a peace officer accompanied by an emergency medical service 
+trained technician may take a person into protective custody and transport him to a treatment facility for a 
+medical evaluation when, as a result of his personal observation, the peace officer or emergency medical service 
+technician has reasonable grounds to believe the person is a proper subject for involuntary admission to a 
+treatment facility because the person is acting in a manner dangerous to himself or dangerous to others, is 
+gravely disabled, and is in need of immediate hospitalization to protect such a person or others from physical 
+harm. 
+ 
+Voluntary Hold/Commitment – the act or practice of a competent person admitting themself to a psychiatric 
+hospital, or other mental health facility, voluntarily 
+ 
+Behavioral Health Patients:  
+Suicidal Patients – Any individual who is brought to the Emergency Department for treatment of attempted 
+overdose, self-destructive behavior and/or ideations, suicidal behavior, or threats. Any patient within our 
+hospital that verbalizes a plan to end his/her life, threatens or attempts to harm self.   
+ 
+Homicidal Patients – Any individual who verbalizes a desire and significant threats of bodily harm towards 
+any person, in which the patient appears to be able to carry out. An actual physical attack (i.e., hit, slap, punch, 
+kick, bite, grab, thrown object, etc.) towards another individual within our hospital or an unanticipated outburst 
+of violent, angry, aggressive, impulsive, and/or destructive behavior that poses immediate danger. 
+ 
+Psychotic Patients – Any individual whose thought process is altered as evidenced by hallucinations, 
+delusions, paranoia, bizarre behavior, confusion, severe mania, and/or non-reality-based thinking. 
+ 
+Emotional Crisis Patients– Any individual whose mood and reactions may result in danger to themselves or 
+others. 
+ 
+Observation Monitoring: 
+1:1 Observation – Observation of High-Risk Patients, implemented when clinical assessment indicates a high 
+level for immediate or impulsive behavior that may be harmful to self or others. One observer who maintains 
+visual contact with only one patient and can immediately intervene.  
+ 
+Line of Sight Observation – Observation of one or more patients per staff member. Less restrictive than 1:1 
+Observation, always requires the observer be in visual contact with the patient. Staff/patient ratio determined by 
+the RN per patient and unit needs. 
+ 3 
+ 
+ 
+ 
+ 
+POLICY: 
+ 
+A. Triage: 
+1. All patients who present to the Emergency Department with an emotional, mental, or behavioral complaint, 
+or arrive under a legal hold will be triaged as an ESI Level 2/emergent patient and may be detained by staff 
+if attempting to leave prior to provider evaluation. Efforts by the staff should be focused on keeping the 
+patient safely on the unit.  
+2. Patients who can be placed in a safe room, will be placed under continuous line of sight observation, until 
+deemed otherwise by a physician/midlevel provider. 
+3. Patients who require placement in a medical room due to unit capacity and/or require monitoring and/or 
+medical equipment, will be placed under 1:1 observation and follow safety and observation guidelines as 
+outlined in Section E, below.   
+4. A Suicide Risk Screening Assessment will be completed by a Registered Nurse during triage, on all 
+patients age 12 and above to identify patients at risk for suicide and/or the need for behavioral health 
+services.  
+a. OLOL Emergency Departments use the Columbia Suicide Severity Rating Scale (C-SSRS)  
+i. Completion of the C-SSRS produces a rating of low, moderate, or high suicide risk to 
+determine level of care needed to ensure patient safety.  
+1. Low or moderate risk – Nurse should anticipate a behavioral health evaluation & 
+implement patient safety precautions, until instructed they are no longer needed 
+by the provider 
+2. High – Nurse should implement suicide risk precautions/observation and 
+immediately notify the physician. 
+5. Upon arrival of a patient that has an active OPC, the law enforcement officer who has physical custody 
+of the OPC patient will remain with the OPC patient until the emergency nurse confirms that the OPC 
+paperwork is properly completed.  
+ 
+B. Nursing Guidelines: 
+1. Observation monitoring and documentation are delegated from Registered Nurse (RN) to appropriate 
+unlicensed staff with the RN retaining accountability and supervision. 
+2. RN documentation should include:  
+a. Purpose and level of observation  
+b. Suicide screening risk level every 12 hours 
+c. Patient Legal Status 
+d. Focused psychosocial assessment every 4 hours 
+e. Home medication reconciliation, both prescribed /non-prescribed. 
+f. On-going assessment, reevaluation & vital signs will be completed every 4-hours or as the 
+patient’s condition warrants, including but not limited to changes in expression of behavior 
+(harm to others, additional self- harm gestures). This should include:  
+i. Response to interventions (medications/restraints etc.)  
+ii. Safety Rounds  
+iii. Patient, family/visitor’s behavior  
+iv. Observer assigned to monitor patient 
+v. ADL’s and meals provided  4 
+ 
+ 
+ 
+3. Patients should be observed when taking medication to assure they have swallowed all oral medications. 
+4. The nurse helps assure the patient’s right to privacy and personal space is respected at all times. Care or 
+treatment, such as a physical examination or assessment, plan of care discussions, or medical treatment, 
+will be offered in an area that provides for privacy of the patient. 
+5. Patients should be educated on the PEC/transfer process and kept informed throughout their stay.  
+6. Encourage family/significant other to participate in care of patient when such support promotes positive 
+outcomes and does not escalate the behavior of the patient. 
+ 
+C. Safety 
+1. Patients who are identified as at risk for suicide or presented to the Emergency Department under a legal 
+hold, or for emotional/ mental/behavioral complaints, shall be placed in a safe environment to receive 
+medical care. 
+2. To create a safe environment, team members should follow the Initial Safety Observation Checklist to 
+remove all objects that pose a risk for self-harm and to reduce ligature risk. This includes, but is not limited 
+to:  
+a. Use of a handheld metal detector/wand on all MBH patients where available 
+b. Placing patient in paper scrubs or designated gown  
+c. Removing belongings, valuables, and home medications  
+i. When wanding a patient, removing patient belongings/clothing, staff must be aware of any 
+sharps/contraband that maybe found.  
+3. If unit exceeds safe room capacity or the patient requires placement in a medical treatment room, the nurse 
+will follow unit specific ligature risk protocols to remove all unnecessary equipment from room.  
+a. This patient will remain on 1:1 Observation until they can be placed in a safe room and removed 
+from all medical equipment. 
+b. Team members should pay special attention to permanent ligature risk such as stretcher, 
+overhead lights, sink fixtures, Hand Soap, Hand Sanitizer, Space Lab monitor/cables, cabinet 
+handles, sharps containers (assure locked), glove box holder, electric outlets, computer cabinets, 
+thermostat, dry erase board and marker holder, ceiling, and vent tiles during patient monitoring. 
+4. Justice involved MBH patients will be placed in private room.  Law Enforcement will maintain custody 
+of patient.  Law Enforcement will assure gun locked in safe prior to entering ED MBH locked area.  
+Patient’s may remain in appropriate secure devices such as handcuffs or zip-ties.  All justice involved 
+MBH patients will be transported in wheelchair with sheet covering any secure devices.  OLOL staff 
+members will not assume custody of any justice involved patient.  
+5. The patient and family must be informed of the need to remove all personal belongings and objects that 
+might be potentially harmful. 
+6. The patient will be restricted to his/her room. 
+7. When the patient is required to leave the unit for testing or being transported/transferred to another unit 
+or out of the facility, 2 observers will always remain with the patient. 
+8. To identify patients that have a Physicians Emergency Certificate or Coroner’s Emergency Certificate, 
+patients will be placed in green paper scrubs (preferred) if unavailable, a hospital gown may be used. . 
+(Policy OC018) 
+9. Meals are provided on the unit and in the company of staff. 
+a. Meals should be provided on disposable tray with no metal/aluminum/glass utensils or serve 
+ware.  
+b. Observer must account for all items when removing tray. 5 
+ 
+ 
+10. In the event a patient becomes verbally or physically abusive and disruptive to the staff, a Code White 
+will be initiated. 
+a. Non-physical/violent intervention strategies should be used when dealing with anxious, hostile, 
+or violent patients. 
+11. Any person entering the patients room needs to be aware of items carried by staff members that can be 
+used as a weapon by the patient. (i.e., Stethoscope, trauma scissors, hemostats, pens/pencils). 
+ 
+D. Competency for Observation Monitoring: 
+1. All team members assigned for observation monitoring are required to have completed the crisis 
+prevention training/competency and/or such training which focuses on techniques surrounding non-
+physical/violent intervention strategies for safely defusing anxious, hostile, or violent behavior at the 
+earliest possible stage. 
+2. All team members assigned for observation monitoring are required to have initial training and then 
+ongoing training at least every 2 years focused on the care, safety, observation & documentation, 
+organizational policies, and best practices surrounding mental behavioral health patients.  
+  
+E. Observation Monitoring: 
+1. Behavioral patients in the ED under suicide precautions, legal holds, or elopement precautions, will be 
+assigned either 1:1 Observation or Line of Sight Observation status initiated depending on patient status, 
+behavior, treatment plan or placement in the emergency department.  
+2. Observation monitoring is initiated once patient presents to the Emergency Department with an 
+emotional, mental, or behavioral complaint, legal hold, is identified for risk of suicide through suicide 
+risk assessment in triage or through clinical observations/conversations at any point throughout patient 
+stay. 
+3. Observation of patients in the Emergency Department will be performed by a staff member deemed 
+competent to perform 1:1 Observation and Line of Sight Observation. 
+4. The staff member assigned to perform observation should be of the same sex as the patient, as the 
+staffing pattern allows. If this is not possible, arrangements should be made for same sex staff to 
+accompany the patient during times of personal hygiene, toileting, and other self-care needs.  
+5. Observation personnel will be responsible for:  
+a. Notifying the Nurse of changes in patient’s condition, verbalizations and/or behaviors suggesting 
+any ideas or intentions to harm themselves, others, or possibly elope. 
+b. Providing a “hand-off” report to the person relieving him/her: 
+i. In sight of the patient 
+ii. Including a summary of patient’s behavior and level of cooperation throughout the 
+observation period 
+c. Complete all aspects of ADL’s and vital signs, based on competency validation. 
+d. Documentation of Observation Monitoring  
+6. Documentation of 1:1 Observation and Line of Sight Observation will be recorded on the Behavior 
+Observation Record (#91817 to include: 
+a. The patient’s location, activity, and behavior every 15 minutes 
+b. The purpose and the level of observation as indicated by the RN 
+c. Handoff from one observer to another 
+d. Initial Safety Observation Checklist & MBH Environment of Care Observation Checklist 
+e. Legal Status (nurse) 
+7. Guidelines for 1:1 Observation & Line of Sight Observation are outlined as follows: 6 
+ 
+ 
+a. Always requires the observer be in visual contact with the patient. 
+b. 1:1 staff should accompany the patient at all times, including times for personal hygiene, 
+toileting, and other self-care needs. (ex: during toileting, the team member must be inside the 
+bathroom with the patient or keep the door open for observation.)  
+8. Distinguishing Characteristics of Level 1 Observation (1:1 Observation) from Level 2 (Line of Sight 
+Observation) are as follows:  
+ 
+Level 1 – 1:1 Observation Level 2 – Line of Sight Observation 
+• Requires a 1:1 staff/patient ratio. 
+ 
+• 1:1 observation patient means there can never be 
+more than one patient watched by one observer.  
+ 
+• Patient in non-psych safe/ligature risk free exam 
+room due to medical needs  
+• Observer can monitor more than one patient at a 
+time. 
+• Staff/patient ratio determined by the RN per 
+patient and unit needs. 
+ 
+• Patient in psych safe room 
+ 
+Children’s Hospital Emergency Department:  
+In addition to the Columbia Suicide Screening tool, OLOL Children’s Emergency (CH) Department will assign an 
+initial and ongoing behavioral level of red, yellow, or green on arrival to the CH E.D. mental behavioral health area 
+to indicate safety level for use of the Children’s Hospital Activity Room.  (See Activity Room policy PADM-02). 
+ 
+ 
+F. Personal Belongings: 
+1. Patient valuables, belongings, and home meds will be taken from the patient and secured per policy 
+(OrgClin – 022). 
+2. With the patient's approval, family members are encouraged to take home any belongings, valuables, 
+and home medications the patient has brought with him/her. 
+3. Belongings, valuables, and home medications kept at the facility will be secured in a locked monitored 
+area.  
+a. Once removed, personal belongings, valuables & home medications will be inventoried, 
+documented, and placed in their respective bags following (OrgClin - 022).  
+i. Patient belongings inventoried in EMR or on form (#91507) 
+ii. Valuables & home medications should be inventoried & documented in both the medical 
+record and on the valuables form (#91688) home medication form (#91687) 
+iii. Controlled substances must be counted and verified by two licensed personnel, placed in 
+a tamper resistant bag, and stored in a locked monitored area 
+4. If a weapon or other contraband (i.e., illicit drugs, drug paraphernalia) is found, notify the police 
+immediately to remove the contraband. 
+a. Utilize Risk Management’s Chain of Custody Form  
+5. Patient valuables, belongings, and home meds that were inventoried and kept at the facility are returned 
+to the family or giving to transporting agency at the time of discharge/transfer. 
+ 
+G. Family/Visitor Considerations: 
+1. Visitation is allowed based on individual patient situation, acuity, behavior, and the nurses’ clinical 
+judgement.  
+2. Patient must consent to each family/visitor.  
+3. Visitation may not impede patient care or cause the patient to experience negative outcomes (escalating 7 
+ 
+ 
+behavior, angry, uncooperative, risks to patient’s well-being). 
+4. Visitation maybe limited when patients are in cluster observation based on safe environment of care and 
+privacy concerns. 
+5. Family members/significant others are requested to leave all personal belongings in their private vehicle. 
+a. Family/Visitors are restricted from bringing personal items into the patient room. 
+b. Food/beverages may be permitted with nurse inspection.  
+6. With the patient’s approval the family should be educated on the PEC/transfer process and kept inform 
+throughout the patient’s stay.  
+ 
+H. Discharge/Transfer: 
+1. Each discharge plan for a patient with a psychiatric issue identified by the provider in the problem list 
+will include the number to the National Suicide Prevention Lifeline and location specific resources.  
+2. Safety/Crisis Prevention planning and follow up care to be included at discharge for patients identified 
+as at risk for suicide. 
+3. The nurse shall ensure a copy of the legal paperwork (e: PEC, CEC, judicial commitment, etc.) remains 
+in the chart to be scanned into the medical record and the original is sent to the next level of care with 
+the patient.  
+4. If the physician determines either through his/her own assessment or through a psychiatric consult that 
+the patient is no longer a threat to self or others, the physician will document the change in the patient’s 
+status in the medical record and the interventions outlined above may be discontinued.  If a Physician’s 
+Emergency Certificate (PEC) has been completed prior to this assessment, the physician should write an 
+order to discontinue the PEC/CEC or other applicable legal status.  
+5. Transportation of MBH Patient to area outside of ED area or upon discharge will require Security and 
+one additional BLS/Crisis Prevention Intervention (CPI) Trained staff member to escort.  The patient 
+should be placed in wheelchair or on stretcher for the transfer.   8 
+ 
+ 
+References:  
+American Foundation for Suicide Prevention (2020). Suicide Facts and Figures: Louisiana 2020. 
+https://www.datocms-assets.com/12810/1589486676-2020-state-fact-sheets-louisiana.png  
+ 
+American Psychiatric Nurses Association (APNA) (2020). APNA Position Statement: Competencies for Nurse-
+Assessment and Management of Inpatient Suicide Risk. 
+https://www.apna.org/i4a/pages/index.cfm?pageid=5688  
+ 
+Ballard, E., Cwik, M., Van Eck, K., Goldstein, M., Alfes, C., Wilson, M., Virden, J., Horowitz, L., Wilcox, H., 
+Ballard, E. D., Wilson, M. E., Virden, J. M., Horowitz, L. M., & Wilcox, H. C. (2017). Identification of At-Risk 
+Youth by Suicide Screening in a Pediatric Emergency Department. Prevention Science, 18(2), 174–182. 
+https://doi.org/10.1007/s11121-016-0717-5  
+ 
+Center for Disease Control and Prevention (2020). Suicide and Self-Inflicted Injury. 
+https://www.cdc.gov/nchs/fastats/suicide.htm  
+ 
+EBSCO Dynamic Health (2020). Behavioral Health Care. Retrieved November 11, 2020, from 
+https://www.dynahealth.com/skills/browse/Nursing%20Skills/Specialties/Psychiatric/Behavioral%20Health%2
+0Care  
+ 
+Frost, D.A., Snydeman, C.K., Lantieri, M.J., Wozniak, J., Bird, S., & Stern, T.A. (2020). Development and 
+Implementation of a Suicide Prevention Checklist to Create a Safe Environment. Psychosomatics Journal, 
+61(2), 154-160. https://doi.org/10.1016/j.psym.2019.10.008  
+ 
+Gilboy N, Tanabe T, Travers D, Rosenau AM. Emergency Severity Index (ESI): A Triage Tool for Emergency 
+Department Care, [4]. (2020). Schaumburg, IL: Emergency Nurses Association. Retrieved September 14, 2020, 
+from https://www.ena.org/docs/default-source/education-document-library/esi-implementation-handbook-
+2020.pdf?sfvrsn=fdc327df_2 
+ 
+Manton, A. (2013). White paper: Care of the psychiatric patient in the emergency department. Retrieved 
+November 11, 2020, from the Emergency Nurses Association website: https://www.ena.org/docs/default-
+source/resource-library/practice-resources/white-papers/care-of-psychiatric-patient-in-the-
+ed.pdf?sfvrsn=3fc76cda_4 
+ 
+Posner, K., Brown, G. K., Stanley, B., Brent, D. A., Yershova, K. V., Oquendo, M. A., Currier, G. W., Melvin, 
+G. A., Greenhill, L., Shen, S., & Mann, J. J. (2011). The Columbia-Suicide Severity Rating Scale: Initial 
+validity and internal consistency findings from three multisite studies with adolescents and adults. The 
+American Journal of Psychiatry, 168(12), 1266–1277. https://doi.org/10.1176/appi.ajp.2011.10111704 
+ 
+State of Louisiana. (2017). Louisiana Department of Health Office of Behavioral Health. Order for Protective 
+Custody. https://ldh.la.gov/assets/docs/BehavioralHealth/MentalHealthLawForms/ 
+OBH%2020%20Order%20for%20Protective%20Custody.pdf  
+ 
+ 
+ 9 
+ 
+ 
+The Joint Commission (2020). Suicide Prevention. Retrieved November 11, 2020, from 
+https://www.jointcommission.org/resources/patient-safety-topics/suicide-prevention/ 
+ 
+The Joint Commission. (2020). Suicide Prevention. https://www.jointcommission.org/resources/patient safety -
+topics/suicide-prevention/#8f5bfd1c09cb4f9f8d75fa3fb7d7a4ab_ 06ee0199c92743a6bba62e237f79d613  
+ 
+Veterans Administration and Department Defense Clinical Practice Guideline for the Assessment and 
+Management of Patients at Risk for Suicide. https://www.healthquality.va.gov/guidelines/MH/srb/  
+ 
+Williams, S.C., Schmaltz, S.P., Castro, G.M., & Baker, D.W. (2018). Incidence and Method of Suicide in 
+Hospitals in the United States. The Joint Commission Journal on Quality and Patient Safety, 44, 643-650 
+ 10 
+ 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Appendix C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Safety Planning/Behavioral Health Resources 
+ 
+National Suicide Hotline:  1-800-273-TALK (8255) 
+ 
+Ascension Counseling 
+1112 South East Ascension Complex Avenue 
+Gonzales, LA  70737 
+225-621-5775 or 225-450-1158 
+Margaret Dumas BH Clinic 
+3843 Harding Blvd.  BR 70807 
+225-359-9315 
+Children’s BH Services 
+4615 Government St Building 1 
+Baton Rouge, La 70806 
+225-922-0596 
+OLOL Cope Team 
+225-765-8900 
+ 
+Baton Rouge Mental Health 
+3455 Florida Blvd. 
+Baton Rouge, LA  70806 
+225-925-1906 or 800-768-8824 
+Rosenblum Mental Health (Livingston) 
+15785 Medical Arts Plaza 
+Hammond, LA 70403 
+985-543-4080 or 4800 
+Donaldsonville Mental Health Clinic 
+225-474-2007 
+ 
+THE PHONE (Baton Rouge Crisis 
+Intervention Center)  
+225-924-3900 
+Family Services of Greater Baton Rouge 
+4727 Revere Ave. 
+Baton Rouge, LA  70808 
+225-924-0123 
+Center for Addictive Disorders 
+3455 Florida Blvd. 
+Baton Rouge, La 70806 
+225-922-0050 
+Gonzales Mental Health Center 
+1112 South East Ascension Complex Avenue 
+Gonzales, LA  70737 
+225-621-5770 (Adults and children) 
+Capitol Area Inpatient Recovery Program 
+2455 Wooddale Blvd. 
+Baton Rouge, La 70806 
+225-922-3169 
+ 
+ 
+ 
+RKM Behavioral Health 
+29437 S Frost Rd.  
+Livingston, La 70754  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12 
+ 
+ 
+ 
+ 
+COLUMBIA-SUICIDE SEVERITY RATING SCALE  
+Screen with Triage Points for Emergency Department 
+ 
+Ask questions that are bolded and underlined.   Past 
+month 
+Ask Questions 1 and 2 YES NO 
+1)  Have you wished you were dead or wished you could go to sleep and not wake up?    
+2)  Have you actually had any thoughts of killing yourself?    
+If YES to 2, ask questions 3, 4, 5, and 6.  If NO to 2, go directly to question 6.  
+3)  Have you been thinking about how you might do this?   
+E.g. “I thought about taking an overdose, but I never made a specific plan as to when 
+where or how I would actually do it….and I would never go through with it. ”  
+  
+4)  Have you had these thoughts and had some intention of acting on them?   
+As opposed to “I have the thoughts, but I definitely will not do anything about them.”  
+  
+5)  Have you started to work out or worked out the details of how to kill yourself? 
+Do you intend to carry out this plan?  
+  
+6)  Have you ever done anything, started to do anything, or prepared to do anything to 
+end your life? 
+Examples: Collected pills, obtained a gun, gave away valuables, wrote a will or suicide note, 
+took out pills but didn’t swallow any, held a gun but changed your mind or it was grabbed 
+from your hand, went to the roof but didn’t jump; or actually took pills, tried to shoot yourself, 
+cut yourself, tried to hang yourself, etc. 
+ 
+If YES, ask: Was this within the past three months?   
+Lifetime 
+  
+Past 3 
+Months 
+  
+ 

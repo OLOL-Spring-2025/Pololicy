@@ -1,0 +1,274 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter:  Environment  
+Title: Environmental Controls and Monitoring 
+Policy Reference #: SOS010 
+Supersedes #: 
+10/19/87; 11/90 
+SPS015 05/30/2018 
+SOS007 06/12/2018 
+Date of Origination: 10/19/1987 Review Date: 07/18/2024 
+Revision Date:  08/07/2024 
+ 
+ 
+PURPOSE: 
+A. To provide a policy for effective management of the heating, ventilation and air conditioning 
+systems (HVAC) in an effort to remove contaminants from the air and control air flow patterns 
+in designated perioperative areas at minimum requirements of the U.S. Public Health Service 
+and National Fire Protection Association. 
+B. To monitor anesthesia waste gas levels and room air exchange rates in anesthetizing locations 
+and post anesthesia care areas. 
+ 
+POLICY: 
+Temperature, humidity, and air flow should be monitored daily. Variations from intended set points 
+(based on recommendations and Procedure section B subsection c) will be recorded using a log or 
+documented via the HVAC system.  Air exchanges rates and anesthesia waste gas levels will be 
+monitored and recorded quarterly and annually respectively by a contracted vendor company. The 
+recommended ranges are as follows: 
+ 
+Area Temperature Humidity Pressure Air Exchanges  
+(per hour) 
+PERIOPERATIVE     
+Operating Rooms  68-75°F 30-60% Positive 20 
+CVL/EP Rooms 68-75°F 30-60% Positive 20 
+Procedure rooms  70-75 30-60 Positive 20 
+ENDOSCOPY     
+Procedure Rooms 68-73 30-60 NR 6 
+Bronchoscopy Rooms 68-73 30-60 Negative 12 
+Scope Storage room Max 75 Max 60 N/A N/A 
+Cleaning Room NR NR Negative 10 
+STERILE PROCESSING     
+Clean Workroom 68-73 Max 60 Positive 4 
+Decontamination Room 60-73°F NR (Not 
+Required) 
+Negative 6 
+Sterile Storage Room Max 75 Max 60 Positive 4   2 
+ 
+ 
+PROCEDURE: 
+ 
+A. Temperature  
+a. Wall thermostats are located in the perioperative areas 
+b. Thermostats should be set based on recommended parameters 
+c. Thermostats can be adjusted as needed dependent on patient or case specifics as 
+requested by the physician or anesthesiologist. The reason for the variance will be 
+logged. Ability to monitor and maintain normothermia from the requested 
+adjustment must be assessed by the requestor and remain within HVAC alarm 
+parameters.  
+d. Temperature will be monitored depending on the HVAC system capabilities, unit 
+specific requirements, and daily checks.  
+ 
+B. Humidity 
+a. Humidity will be monitored depending on the HVAC system capabilities, unit 
+specific requirements, and daily checks. 
+ 
+C. Air Pressure 
+a. Air pressure will be monitored depending on the HVAC system capabilities, unit 
+specific requirements, and daily checks. 
+b. A minimum pressure differential shall be maintained at a value of at least +/-0.01 in. 
+wc (2.5 Pa) relative to the required pressure default setting for the area. 
+ 
+ 
+D. Daily Checks 
+a. The temperature, humidity and pressure parameters will be checked daily and 
+logged by the Facilities Office via Tracer Summit Control Monitor System in the 
+Plant Services Control Room. Areas that do not have Tracer Summit Monitor 
+System reports will perform a daily check and log the results.  
+b. Additionally, each area will monitor temperature and humidity daily. These areas 
+will maintain logs to report errors at the respective desks with work orders submitted 
+and follow up as applicable.  
+c. In addition to daily checks, Operating Rooms & Procedural areas will observe 
+temperature, humidity, and pressure requirements (as required) before and during a 
+procedure. 
+ 
+ 
+ 
+E. Alarms/Discrepancies 
+a. Temperature alarms will be set at the recommended parameters.  
+ 
+b. If an HVAC system alarms and does not correct itself within 60 minutes, the 
+following should occur:  3 
+i. The department will be notified via TRANE if they are monitored. 
+Otherwise, the department will alert Plant Services. 
+ii. Activity should be assessed in the area where the alarm/discrepancy is noted 
+iii. If the alarm remains outside parameters  beyond 60 minutes, Plant Services 
+will notify the unit of time frame for systems to return within parameters. 
+iv. Inability to return to normal parameters or give a suitable time frame to 
+return to normal parameters within 60min constitutes an HVAC failure.  
+ 
+F. Failure of the HVAC system 
+a. Surgeries in progress should be completed. Other departments should assess 
+operations.  
+b. A designated perioperative decision team (PDT) will assemble and have the 
+following representation:  
+i. Senior Divisional Director of Perioperative Services, or designee 
+ii. Regulatory Manager of Perioperative Services, or designee 
+iii. Director of unit involved, or designee 
+iv. Director of Infection Prevention, or designee 
+v. Director of Facilities Maintenance, or designee. 
+c. After review of the situation by the PDT, a decision will be made regarding a 
+surgical plan for urgent and emergency cases. 
+d. OR representatives will notify MD and/or MD offices of the need to reschedule 
+cases.  
+e. The PDT will convene to respond to humidity control events and assess the 
+following:  
+i. Severity and consistency of the RH deviation 
+ii. Infection risk to patients of the scheduled procedures 
+iii. Level of clinical staff, patient and support family members’ comfort 
+iv. Confidence of a facility engineer in a timely resolution 
+v. Occupied or unoccupied status of the perioperative space 
+ 
+G. The following possible responses to humidity control events will be followed as per the 
+ASHRAE recommendations 
+facility engineer will report relative humidity values of rooms in question and the status of 
+the sensor calibration 
+Out of Range:  
+RH is up to 5% 
+below lower 
+limit 
+(28.5% to 30%) 
+RH is more 
+than 5% 
+below the 
+lower limit 
+(below 
+28.5%) 
+RH is up to 5% 
+above upper 
+limit 
+(60 to 63%) 
+RH is more 
+than 5% above 
+the upper limit 
+(over 63%) 
+Less than 2 
+hours 
+Proceed as 
+scheduled  
+Proceed as 
+scheduled 
+Proceed unless 
+both temp & 
+humidity are out 
+of range or 
+condensation in 
+packaging.  
+Proceed unless 
+both temp & 
+humidity are out 
+of range or 
+condensation in 
+packaging. 
+2 to 6 hours Take corrective 
+action to bring 
+RH up. Proceed 
+Take 
+corrective 
+action to 
+Take corrective 
+action, but may 
+proceed cases 
+Take corrective 
+action and 
+convene PDT.  4 
+as scheduled bring RH up 
+and convene 
+PDT.  
+unless both temp 
+& humidity are 
+out of range or 
+condensation in 
+packaging. 
+Monitor temp & 
+humidity and 
+condensation in 
+OR. See note for 
+10% or greater at 
+8hrs 
+6 – 12 hours Take corrective 
+action to bring 
+RH up. Proceed 
+as scheduled 
+PDT to 
+convene & 
+consider 
+halting cases 
+until 
+repaired 
+Take corrective 
+action to bring RH 
+down, but may 
+proceed cases 
+unless both temp 
+& humidity are 
+out of range or 
+condensation in 
+packaging. 
+PDT should 
+consider halting 
+cases until 
+repaired. 
+12 hours or 
+more  
+PDT to convene 
+at 12hrs.  
+Move/cancel 
+cases after 24hrs 
+PDT to 
+convene to 
+move/cancel 
+cases 
+PDT to convene 
+to move/cancel 
+cases after 24hrs 
+PDT to convene 
+to move/cancel 
+cases 
+If the RH is more than 10% above the upper RH limit for more than 8 hours, it is 
+very likely that the mechanical system needs repair. The PD Team should consider 
+halting operations until the issue is resolved. 
+ 
+H. Air Exchanges  
+a. The contracted vendor company will perform testing on an effective preventative 
+maintenance schedule  
+b. The testing will include the perioperative areas 
+c. The process will include air exchanges per hours and air pressure readings 
+d. If discrepancies are detected that fall below the recommended standard, Plant 
+Services should be notified 
+e. Discrepancies should be reported and corrective action documented on file in Plant 
+Services and reported to Surgical Services Administration 
+f. Final reports are distributed to Plant Services and Surgical Services Administration 
+ 
+I. Anesthesia Waste Gas 
+a. The contracted vendor company will perform testing 
+b. The testing will include all anesthetizing locations 
+c. Biomed will accompany the company representative during inspection, if needed 
+d. The process will include inspection of anesthesia machines and gas scavenger 
+systems 
+e. Any leaks or defects discovered will be reported to BIOMED, Anesthesia and 
+Surgical Administration 
+f. After necessary repairs are completed, any areas with an NO2 > 25ppm or 
+halogenated gas > 2ppm will be re-inspected. 
+g.  If waste gas levels remain above acceptable level, the matter will be referred to the 
+Chief of Anesthesia Service, Medical Directory of Surgery, Risk Manager and Div 
+Director Surgical Administration 
+h. Final reports are distributed to BIOMED and Surgical Services Administration 
+  5 
+J. Filters  
+a. In operating rooms designated for orthopedic procedures, transplants, neurosurgery, 
+or dedicated burn unit procedures, HEPA filters shall be provided. 
+b. filters and filter frames should be visually inspected for pressure drop and for bypass 
+monthly 
+ 
+References: 
+ 
+ANSI/ASHRAE/ASHE Standard 170-2013  
+ 
+Humidity Control Events in Perioperative Care Areas, ASHRAE 2019 
+ 
+ 
+ 

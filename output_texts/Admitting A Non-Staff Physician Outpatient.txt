@@ -1,0 +1,45 @@
+POLICIES AND PROCEDURES MANUAL Manual:  Access Services 
+Our Lady of the Lake Regional Medical Center Chapter:    
+Subject:  Admitting Non-Staff Physicians Outpatient Section:    
+Date of Origination:     April 29, 2014 Supersedes:       
+Date Last Revised or 
+Reviewed: APRIL 2014 
+April 2014, February 2015, Jan 2018     
+ 
+PURPOSE: 
+To define the role of the Patient Access Department in registering patients requiring outpatient 
+tests or procedures that have been ordered by practitioners who are not members of the 
+OLOLRMC’s Medical-Dental Staff. To ensure that all Non-Staff Physicians are checked for NPI 
+numbers, OIG/GSA/OFAC SDN exclusions, and to ensure they have a valid Medical License. 
+ 
+POLICY: 
+If, at the time of patient registration, the ordering physician is not registered in the health information 
+registration system, the Patient Access Representative (PAR) will contact the ordering practitioner’s 
+office and request the information listed on the Physician Outpatient Ordering Data Sheet.  Upon receipt 
+of the information, the PAR will submit the information to Medical Staff Services.  The patient will not 
+be allowed to proceed with his/her outpatient test or procedure until Medical Staff Services has given 
+clearance for the patient to proceed.  Medical Staff will confirm that the ordering physician (1) has a 
+current medical license, (2) is not listed on any governmental exclusions list, and (3) has a valid NPI 
+number. 
+PROCEDURE: 
+1. Upon arrival of patient, Access Staff will request a Physicians order on all outpatient tests. 
+2. Access staff will check Medical Staff Office Application (MSO found on Lake Link Homepage) 
+for the Physician contact information. 
+3. If Physician cannot be located or does not have privileges, the Access Associate will contact 
+Medical Staff Services at (225)765-8871. 
+4. The Access Associate will gather as much information as possible from the Physician order and 
+will contact the Physician office for any additional data required. 
+5. The Access Staff will complete the Practitioner Outpatient Ordering Data Sheet and fax it with 
+orders attached to Medical Staff Services at (225)765-8546. 
+6. Access staff will scan the Practitioner Outpatient Ordering Data Sheet to Image Now. 
+7. Medical Staff Services will gather any further information and perform applicable checks on the 
+MD’s. 
+8. The Medical Staff Services will add the Physician into the Medical Staff Office Application 
+(MSO found on Lake Link Homepage) and HBOC, and they will submit a ticket for IT to add it 
+to Cerner. 
+9. Access Services will communicate with Medical Staff to determine if/when the patient is cleared 
+to proceed with his/her test/procedure. 
+Approved by 
+ 
+  
+Ann Marie Montanio, System Director of Patient Access 

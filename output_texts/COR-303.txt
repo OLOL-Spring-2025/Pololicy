@@ -1,0 +1,239 @@
+1 
+ 
+  
+RESPONSIBLE DEPARTMENT:   
+Compliance  
+SUBJECT:   
+Authorization for Use or Disclosures of 
+Protected Health Information 
+NUMBER OF PAGES: 
+6 
+REPLACES POLICY (NUMBER/DATE): 
+OOHIM006 
+EFFECTIVE 
+DATE: September 
+23, 2013 
+ 
+REVISION DATE: 
+July 25, 2016 
+POLICY NUMBER: 
+COR – 303 
+ 
+ 
+SCOPE:  
+   Applies to Our Lady of the Lake Regional Medical Center (“OLOLRMC”) and its wholly 
+owned Sponsored Organizations (collectively referred to herein as “Entity”) that use, disclose, 
+create, receive, maintain or transmit Protected Health Information, as defined below.     
+PURPOSE:   
+   To establish the requirements for patient authorizations to use or disclose Protected Health 
+Information. 
+POLICY:   
+   A patient’s authorization compliant with the HIPAA Privacy Rules is not required for any 
+Covered Entity’s own payment, treatment and healthcare operations activities.  Any other 
+disclosure may be made only with an authorization or except as described below. 
+DEFINITIONS: 
+  “Covered Entity” means a health plan, health care clearinghouse, or a health care provider that 
+transmits any health information in connection with a transaction covered by HIPAA, such as 
+electronic claims submission. 
+  “Entity” means OLOLRMC and its wholly owned Sponsored Organizations. 
+  “Health Care Operations” means functions that are common to a Covered Entity but which are 
+not related to treatment. Such functions include, but are not limited to, quality assessment or 
+improvement, care management, peer review and training, patient safety activities, insurance 
+underwriting, legal services, compliance, and auditing services, business planning and general 
+administration.  
+  “Health Care Provider” means (A) a hospital, critical access hospital, skilled nursing facility, 
+2 
+ 
+comprehensive outpatient rehabilitation facility, home health agency, or hospice program, (B) a 
+provider of medical- or health-related services (including physicians’ services, PT/OT, 
+diagnostic and dialysis services, ambulance services, durable medical equipment and supplies, 
+and drugs or biologicals), and (C) any other person or organization who furnishes, bills or is paid 
+for providing health care in the normal course of business.  
+  “HIPAA Privacy Rules” means the privacy requirements in the Health Insurance Portability 
+and Accountability Act of 1996 including all pertinent regulations (45 CFR Parts 160 and 164) 
+issued by the U.S. Department of Health and Human Services as such statute and regulations 
+have been amended by Subtitle D of the Health Information Technology for Economic and 
+Clinical Health Act, Title XIII of Division A and Title IV of Division B of the American 
+Recovery and Reinvestment Act of 2009.  
+  “Protected Health Information or PHI” means all information, including demographic data, 
+that relates to an individual’s past, present or future physical or mental health or condition, the 
+provision of health care to an individual, or the past, present, or future payment for the provision 
+of health care to an individual, and that identifies an individual or for which there is a reasonable 
+basis to believe it can be used to identify an individual.  Individually identifiable health 
+information includes many common identifiers (e.g., name, address, birth date, Social Security 
+Number).  Individually identifiable health information in employment records held by an Entity 
+in its role as an employer is not PHI (e.g., employment-related testing and employer health 
+assessments.) 
+  “Psychotherapy Notes” means notes recorded (in any medium) by a health care provider who is 
+a mental health professional documenting or analyzing the contents of conversation during a 
+private counseling session or a group, joint, or family counseling session and that are separated 
+from the rest of the individual's medical record. Psychotherapy Notes exclude medication 
+prescription and monitoring, counseling session start and stop times, the modalities and 
+frequencies of treatment furnished, results of clinical tests, and any summary of the following 
+items: diagnosis, functional status, the treatment plan, symptoms, prognosis, and progress to 
+date. 
+  “Sponsored Organization” means a legal entity either wholly-owned by OLOLRMC or a 
+subsidiary entity of an entity wholly-owned by OLOLRMC that is also a Covered Entity. 
+  “Team Members” means employees of any Entity. 
+ “Workforce Member” means Team Members, volunteers, trainees, and other persons whose 
+conduct, in the performance of work for the Covered Entity, is under the direct control of the 
+Covered Entity, whether or not they are paid by the Covered Entity. 
+PROCEDURE: 
+Need for Authorization for Use and Disclosure of PHI 
+   An authorization received before the use or disclosure of PHI is required for the following 
+disclosures:   
+A. Uses and disclosures of PHI for purposes other than an Entity’s own treatment, payment 
+and Healthcare Operations, unless otherwise permitted under an exception under the 
+HIPAA Privacy Rules.  For example, no authorization is required if a Covered Entity 
+discloses PHI to a business associate for the purpose of creating de-identified information 
+or uses certain PHI (e.g., name and medical condition in general, non-specific terms, etc.) 3 
+ 
+to create a directory for the Covered Entity.   
+B. Uses and disclosures for marketing except for: 
+1. Face-to-face communication made by any Covered Entity to an individual; or 
+2. A promotional gift of nominal value provided by a Covered Entity. 
+3. Any treatment communications about health-related products and services by a Health 
+Care Provider to an individual, including communications for case management and 
+care coordination for the individual or to direct or recommend alternative treatments, 
+therapies, Health Care Providers, or settings of care are not considered “marketing.”  If 
+financial remuneration is received, however, in exchange for making the 
+communications or describing the product, an authorization is required and the Covered 
+Entity must notify patients that remuneration will be received by the Covered Entity.  
+Consult with Legal Services Department any time a third-party will remunerate or 
+reimburse an Entity for a communication. 
+C. Sale of PHI, meaning disclosure of PHI by a Covered Entity in exchange for direct or 
+indirect remuneration from the entity to which the PHI is disclosed unless certain 
+conditions are met.  Consult with Legal Services Department any time remuneration from 
+the recipient is involved in a disclosure of PHI unless it meets the conditions in paragraph I 
+of the procedure below. 
+D. Deceased Individual’s PHI, the privacy rule extends protection of PHI about deceased 
+individuals to remain in effect for as long as Entity maintains the information. The Entity 
+must: 
+1. Treat an executor, administrator, or other person who has authority to act on behalf of a 
+deceased individual as a personal representative with respects to PHI.   
+ 
+2. Protect the PHI about a deceased individual in the same manner and to the same extent as 
+required for the PHI of living individuals, except for uses and disclosures for research 
+purposes. 
+ 
+The privacy rule does allow for disclosure of a deceased person’s medical information to 
+health care providers for the purposes of treatment of family members.  If medical 
+information about a deceased person is relevant to the treatment of a family member, the 
+family member’s physician may obtain that information. 
+ 
+ Permitted Disclosures: Disclosures of PHI about deceased individuals may be allowed in 
+the following instances: 
+• Disclosures to coroners and medical examiners 
+• Disclosures to funeral directors to carry out their duties with respect to the decedent. 
+E. Use or disclosure of PHI created for research generally requires an authorization unless 
+such use or disclosure is permitted pursuant to IRB research uses/disclosures.  Such 
+authorizations must include the basic elements specified in section c below, and also 
+contain: 
+ 
+1. A description of the extent to which PHI will be used to carry out treatment, 
+payment or health care operations; 4 
+ 
+2. A description of any PHI that will not be used or disclosed for purposes otherwise 
+permitted, provided that the limitation may not preclude disclosures required by 
+law or to avert serious threat to health or safety; 
+3. The authorization must refer to any  privacy notice expected to be given to the 
+individual and must state that the statements in the privacy notice are binding, 
+and; 
+4. This authorization may be combined in the same document with the consent to 
+participate in research, or the privacy notice. 
+F. Psychotherapy notes, except: 
+1.  To carry out the following treatment, payment or health care operations: 
+a. Use by the originator of the notes for treatment; 
+b. Use or disclosure in training programs in which trainees, students, or practitioners 
+in mental health learn under supervision to practice or improve their skills in 
+group, joint, family, or individual counseling; or 
+c. Use or disclosure by an Entity to defend itself in a legal action or other proceeding 
+brought on by the individual. 
+2. Use and disclosure with respect to oversight of the originator of the notes. 
+Conditioning Treatment, Payment, Health plan Enrollment or Eligibility for Benefits upon 
+Signing an Authorization 
+   The provision of treatment, payment, health plan enrollment or eligibility for benefits to an 
+individual may not be conditioned upon signing an authorization except for:  
+1. Research-related treatment, but the Covered Entity must, in an authorization form 
+authorizing both disclosure/use and treatment, clearly differentiate between the 
+conditioned and unconditioned components and provide the individual an opportunity to 
+opt in to any research activities in the unconditioned portion of the authorization; 
+2. Health plan enrollment or eligibility for benefits, if the authorization sought relates to the 
+individual or is for the plan’s underwriting or risk rating determinations, and the 
+authorization is not for a use or disclosure of psychotherapy notes; and 
+3. Health care that is solely for the purpose of creating information for disclosure to a third 
+party (e.g., employment drug testing). 
+Compound Authorizations:  An authorization for use and disclosure of PHI may not be combined 
+with any other document to create a compound authorization. 
+Authorization Requirements 
+   A valid authorization must meet the following requirements: 
+A. Written in plain English; 
+B. Separate independent document, except: 
+1. An authorization for the use or disclosure of PHI created for a research study may be 
+combined with any other type of written permission for the same or another research 
+study (e.g., consent to participate in the research study); or 
+2. An authorization for a use or disclosure of psychotherapy notes may be combined 5 
+ 
+only with another authorization for a use or disclosure of psychotherapy notes; 
+C. The following information must be included: 
+1. A description of the information to be used or disclosed that identifies the information 
+in a specific and meaningful fashion; 
+2. The name or other specific identification of the person(s), or class of persons, 
+authorized to make the requested use or disclosure; 
+3. The name or other specific identification of the person(s), or class of persons, to 
+whom the applicable Entity may make the requested use or disclosure; 
+4. A description of each purpose of the requested use or disclosure.  “At the request of 
+the individual” is sufficient when the individual initiates the authorization; 
+5. An expiration date or an expiration event that relates to the individual or the purpose 
+of the use or disclosure.  “End of research study,” “none,” or similar language is 
+sufficient if the authorization is for use or disclosure of PHI for research; 
+6. A statement of the individual's right to revoke the authorization in writing and the 
+exceptions to the right to revoke and a description of how the individual may revoke 
+the authorization or a reference to the applicable Entity’s Notice of Privacy Practices 
+for further instructions; 
+7. A statement that the provision of treatment and payment may not be conditioned on 
+obtaining this authorization unless otherwise allowed (e.g., research related 
+treatment); 
+8. A statement that information used or disclosed pursuant to the authorization may be 
+subject to re-disclosure by the recipient and no longer be protected by this rule;  
+9. A statement that the individual may  inspect or copy the PHI to be used or disclosed 
+in response to the authorization;  
+10. If the use or disclosure of the requested information will result in any direct or 
+indirect remuneration to the applicable Entity from a third party, a statement that such 
+remuneration will result; 
+11. If an Entity seeks an authorization from an individual for its own use or disclosure of 
+PHI, the applicable Entity shall provide the individual with a copy of the signed 
+authorization; and 
+12. The signature of the individual and date.  If the authorization is signed by a personal 
+representative (as defined by state law) of the individual, a description of such 
+representative's authority to act for the individual. 
+All of these requirements are contained in the FMOLHS Authorization for Release of 
+Information form attached as Attachment A. 
+How to Revoke an Authorization 
+   An authorization must be revoked in writing.  The authorization will continue to be valid if the 
+applicable Entity has taken action in reliance on the authorization, or if the authorization was 
+obtained as a condition of obtaining insurance coverage. 
+Retention Period 6 
+ 
+   Signed authorization shall be retained for a minimum of six (6) years. 
+Invalid Authorization 
+   A previously executed authorization is not valid if the document has any of the following 
+defects, and thus, no PHI may be disclosed: 
+A. The expiration date has passed or the expiration event is known by the applicable Entity to 
+have occurred; 
+B. The authorization has not been filled out completely with respect to a required element; 
+C. The authorization is known by the applicable Entity to have been revoked; or 
+D. Any material information in the authorization is known by the applicable Entity to be false. 
+Retrieval Fees 
+   Costs associated with retrieval may be charged to the patient in the amount of .39 cents per 
+page.  Other requestors (e.g., attorney, insurance company, subpoenas) may be charged a 
+retrieval fee and the costs to copy the information. 
+REFERENCES: 
+• Health Insurance Portability and Accountability Act (HIPAA), Standards for Privacy of 
+Individually Identifiable Health Information 45 CFR Part 164, including §§ 164.501 and 
+164.508. 
+ATTACHMENTS: 
+• Attachment A – [Authorization form] 
+ 
+ 
+ 

@@ -1,0 +1,120 @@
+ NBL-004 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Imaging ServicesPatient Care 
+Services/Nursing Section: Specimen Collection 
+Title: Properly Labeling Lab Specimens 
+Policy 
+Reference #: IRS 017NBL-004 
+Supersedes #:  
+Date of Origination: Aug 20, 2021June 16, 2011 Last Review 
+Date: 
+ 8/21, 3/23, 2/24February 
+3, 2021 
+Last Revision Date: 8/21April 23, 2018 
+ 
+POLICY: 
+All specimens submitted for testing must be appropriately labeled at the time of collection to assure 
+positive identification and optimum integrity of patient specimens.  
+Required information (Refer to Organizational policy: OrgClin018- Patient Identification) must be 
+present and match. If there is any discrepancy between the two, the specimen must not be collected.  
+ 
+ 
+EQUIPMENT/SUPPLIES: 
+ -  Patient identification armband (inpatients) or Identification to verify the Name and date 
+of birth (DOB)  (DOB) (outpatients) 
+ -  Appropriate sample (blood, urine, sputum, tissue, fluid, etc…)  
+ -  EMR barcode label printer (generic demographic labels for downtime or special orders, only) 
+ -  Small plastic biohazard bag or approved container for delivery of specimen to laboratory  
+ 
+PROCEDURES: 
+A. Specimen Collection 
+ 
+1.  The specimen must only be collected after successfully identifying the patient using 2  
+     identifiers. (Pediatric patients have 3 step ID process including parent/caregiver) 
+  *Refer to organizational policy: OrgClin018- Patient Identification 
+ 
+2.  Allow the patient to participate in the identification process, if able, by asking the patient to  
+     say their name while checking the armband and orders. 
+ 
+3.  If the required armband is absent, not attached to the patient’s wrist or ankle or does not     
+     match the orders: 
+•a. DO NOT perform the specimen collection 
+•b. Correct the identity discrepancy before proceeding with the collection 
+     *Refer to organizational policy: OrgClin018- Patient 
+Identification 
+ 
+4.  Select the orders to be collected, print the barcode labels. 
+ 
+5.  Apply the barcode specimen labels to the corresponding containers. 
+ 
+Formatted: Font color: Auto
+Formatted: Font color: Auto
+Formatted: Font color: Auto
+Formatted: Font color: Auto
+Formatted: Font color: Auto
+Formatted: Indent: Before:  0.5"
+Formatted: Font: Bold, Complex Script Font: Bold
+Formatted: Font: Bold, Complex Script Font: Bold
+Formatted: Font: Bold, Complex Script Font: Bold
+Formatted: Numbered + Level: 1 + Numbering Style: a, b,
+c, … + Start at: 1 + Alignment: Left + Aligned at:  0.75" +
+Indent at:  1"
+Formatted: Font: Bold, Complex Script Font: Bold
+Formatted: Font: Bold, Complex Script Font: Bold NBL-004 
+Page 2 of 2 
+  
+ 
+ 
+B.  Before Leaving the Patient 
+ 
+ 1.  Specimen Pause- 2 Persons are required to perform Patient Identification at 
+Patient Bedside/ Exam table 
+•a. Collects prepared specimen 
+•b. EPIC Documentation and Print Requisition and Labels in Real Time 
+•c. Specimen Verification Patient Label  
+•d. Match Lab Label 
+•e. 2 Persons must perform 2-ID/Verify Specimen at Patient Beside-(MD, RN and/or 
+Radiology Personnel)  
+•f. Document Specimen Site, Location and Sample 
+•g. 2 persons must Label Specimen(s) place in Biohazard Bag 
+• 1.  Verify the patient’s name and date of birth  
+• 2.  Verify MRN on the armband to MRN on the lab label 
+• 3.  Package Specimen appropriately and deliver to Pathology 
+ 
+ 
+ 2.  If a lab label is not available, use the computer-generated chart label to label the specimen or  
+Handwrite patient name and medical record number or date of birth on the specimen label 
+affixed to the container. 
+ 
+3.  Record date and time collected and collector’s initials on all specimen containers, ifcontainers 
+if the electronic device and/or bedside generated labels are unavailable.   
+ 
+4. Place patient specimens in biohazard lab bag. Do not place samples from multiple patients in 
+same biohazard lab bag. 
+ 
+ 
+ 
+ 
+  
+ 
+Formatted: Font color: Auto
+Formatted: Indent: Before:  0.5"
+Formatted: Font: Bold, Complex Script Font: Bold
+Formatted: Font: 12 pt, Not Bold, Complex Script Font: Not
+Bold
+Formatted: Font: 12 pt
+Formatted: Numbered + Level: 1 + Numbering Style: a, b,
+c, … + Start at: 1 + Alignment: Left + Aligned at:  0.75" +
+Tab after:  1" + Indent at:  1"
+Formatted: Font: Not Bold, Complex Script Font: Not Bold
+Formatted: Font: Not Bold, Complex Script Font: Not Bold
+Formatted: Font: Not Bold, Complex Script Font: Not Bold
+Formatted: Font: Not Bold, Complex Script Font: Not Bold
+Formatted: Font: Not Bold, Complex Script Font: Not Bold
+Formatted: Font: Not Bold, Complex Script Font: Not Bold
+Formatted: Bulleted + Level: 1 + Aligned at:  1" + Indent
+at:  1.25"
+Formatted: Font: Bold, Complex Script Font: Bold
+Formatted: Font: Bold, Complex Script Font: Bold
+Formatted: Font: Bold, Complex Script Font: Bold

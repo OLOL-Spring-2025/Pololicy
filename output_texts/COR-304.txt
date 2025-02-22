@@ -1,0 +1,175 @@
+ 
+1 
+ 
+  
+RESPONSIBLE DEPARTMENT:   
+Compliance 
+SUBJECT:   
+General Rules 
+NUMBER OF PAGES: 
+4 
+REPLACES POLICY (NUMBER/DATE): 
+None 
+EFFECTIVE 
+DATE: September 
+23, 2013 
+ 
+REVISION DATE: 
+July 25, 2016 
+ 
+POLICY NUMBER: 
+COR - 304 
+ 
+SCOPE:  
+   Applies to Our Lady of the Lake Regional Medical Center (OLOLRMC) and its wholly 
+owned Sponsored Organizations (collectively referred to herein as “Entity”) that use, disclose, 
+create, receive, maintain or transmit Protected Health Information, as defined below.   
+PURPOSE:   
+   To serve as a guiding policy for ensuring compliance with the Health Insurance Portability and 
+Accountability Act of 1996 including all pertinent regulations (45 CFR Parts 160 and 164) 
+issued by the U.S. Department of Health and Human Services, as amended by Subtitle D of 
+the Health Information Technology for Economic and Clinical Health Act, Title XIII of 
+Division A and Title IV of Division B of the American Recovery and Reinvestment Act of 
+2009 (collectively referred to herein as “HIPAA Privacy Rules). 
+POLICY:   
+   Each Entity that is a Covered Entity under the HIPAA Privacy Rules must maintain a 
+privacy program that complies with FMOLHS policies and the HIPAA Privacy Rules.  The 
+CEO of each Entity that is a Covered Entity shall designate a Privacy Officer, who will act at 
+the direction of the FMOLHS Compliance Officer in communicating and monitoring privacy 
+policies and procedures, act as a contact person responsible for receiving privacy complaints, 
+coordinate investigations of potential privacy breaches and provide information and education 
+on privacy practices. 
+DEFINITIONS: 
+ “Covered Entity” means a health plan, health care clearinghouse, or a health care provider 
+who transmits any health information in connection with a transaction covered by HIPAA, 
+such as electronic claims submission. 
+ 
+2 
+ 
+“Entity” means OLOLRMC and its wholly owned Sponsored Organizations. 
+ “HIPAA Privacy Rules” means the privacy requirements in the Health Insurance Portability 
+and Accountability Act of 1996 including all pertinent regulations (45 CFR Parts 160 and 164) 
+issued by the U.S. Department of Health and Human Services as such statute and regulations 
+have been amended by Subtitle D of the Health Information Technology for Economic and 
+Clinical Health Act, Title XIII of Division A and Title IV of Division B of the American 
+Recovery and Reinvestment Act of 2009.  
+“Individually Identifiable Health Information” means information that is a subset of health 
+information, including demographic information collected from an individual that is created or 
+received by health care provider, health plan, employer, or health care clearinghouse, and 
+relates to the past, present, or future physical or mental health or condition of an individual, 
+the provision of health care to an individual, or the past, present, or future payment for the 
+provision of health care to an individual; and: (A) that identifies the individual; or (B) with 
+respect to which there is a reasonable basis to believe the information can be used to identify 
+the individual.  
+ “Protected Health Information” or “PHI” means all information, including demographic 
+data, that relates to an individual’s past, present or future physical or mental health or 
+condition, the provision of health care to an individual, or the past, present, or future payment 
+for the provision of health care to an individual, and that identifies an individual or for which 
+there is a reasonable basis to believe it can be used to identify an individual.  Individually 
+identifiable health information includes many common identifiers (e.g., name, address, birth 
+date, Social Security Number).  Individually identifiable health information in employment 
+records held by an Entity in its role as an employer is not PHI (e.g., employment-related 
+testing and employer health assessments.) 
+  “Sponsored Organizations” means an entity either wholly-owned by OLOLRMC, or a 
+subsidiary of an entity wholly-owned by OLOLRMC that is also a Covered Entity, as those 
+terms are defined in the HIPAA Privacy Rules. 
+“Team Member” means an Entity employee.  
+“Workforce Member” means team members, volunteers, trainees, and other persons whose 
+conduct, in the performance of work for the Covered Entity, is under the direct control of the 
+Covered Entity, whether or not they are paid by the Covered Entity. 
+PROCEDURE: 
+ A. Generally:  PHI shall not be used or disclosed except as permitted or required by law. 
+ 
+B. Notice of Privacy Practices Required: Patients served must be given a Privacy Notice 
+outlining the uses and disclosures of PHI that may be made, and notifying them of their 
+rights and our legal duties with respect to PHI.  [Privacy Notice] 
+ 
+C. Permitted and Required Uses and Disclosures:  PHI may or shall be disclosed as 
+follows: 
+ To the patient/ individual [Individuals' Rights Related to PHI]; 
+ To carry out Treatment, Payment, and Healthcare operations (TPO) activities, 
+within specified limits [Use or Disclosure of PHI for TPO Purposes];  
+3 
+ 
+ Pursuant to and in compliance with a current and valid Authorization 
+[Authorization for Use or Disclosure of PHI]; 
+ In keeping with a Business Associate arrangement [Disclosures to Business 
+Associates]; 
+ As otherwise provided for in the HIPAA privacy regulations  
+ 
+D. Minimum Necessary:  When using or disclosing PHI, or when requesting PHI from 
+another entity, reasonable efforts must be made to limit the PHI used or disclosed to 
+the minimum necessary to accomplish the purpose of the use/disclosure [Minimum 
+Necessary Requirements]. 
+ 
+E. Personal Representatives:  A person acting in the role of personal representative must 
+be treated as the individual regarding access to relevant PHI unless: 
+ The patient  is an un-emancipated minor, but is authorized to give lawful consent, 
+or may obtain the health care without consent of the personal representative, and 
+minor has not requested that the person be treated as a personal representative, or 
+the personal representative has assented to agreement of confidentiality between 
+the provider and the minor; 
+ There is a reasonable basis to believe that the patient has been or may be subjected 
+to domestic violence, abuse or neglect by the personal representative or that 
+treating that person as a personal representative could endanger the individual, and, 
+in the exercise of professional judgment, it is determined not to be in the best 
+interests of the individual to treat that person as a personal representative. 
+[Personal Representative] 
+ 
+F. Agreed Upon Restrictions: A patient has a right to request a restriction on any uses or 
+disclosures (release of information) of his/her PHI, though the Entity need not agree to 
+the requested restriction, and cannot agree to a restriction relating to disclosures 
+required under law (i.e. disclosures to the U. S. Secretary of Health and Human 
+Services for HIPAA enforcement purposes).  [Uses and Disclosures of PHI subject to 
+an agreed upon restriction] 
+ 
+G. Confidential Communications:  A patient has a right to request to receive 
+communications of PHI by alternative means or at alternative locations, and reasonable 
+requests must be accommodated.  [Right to request restriction of use and disclosure – 
+confidential communication] 
+ 
+H. Accounting for Disclosures:  An individual has a right to an accounting of disclosures 
+of his/her PHI for up to a six (6) year period.  [Accounting for Disclosures of PHI] 
+ 
+I. De-identified PHI:  Health information may be considered not to be individually 
+identifiable in the following circumstances: 
+ A person with appropriate knowledge and experience with generally acceptable 
+statistical and scientific principles and methods determines that the risk is very 
+small that the information could be used, alone or with other reasonably available 
+information, to identify the individual who is the subject of the information; or 
+ The following identifiers of the individual (and relatives, employers or household 
+members) is removed:  names; information relating to the individual's geographic  
+4 
+ 
+subdivision if it contains fewer than 20,000 people; elements of dates (except year) 
+directly related to the individual, and all ages and elements of dates that indicate 
+age for individuals over 89, unless aggregated into a single category of age 90 and 
+older; telephone numbers; fax numbers; email addresses; social security numbers; 
+medical record numbers; health plan beneficiary numbers; account numbers; 
+certificate or license numbers; vehicle identifiers and serial numbers, including 
+license plate numbers; device identifiers and serial numbers; Web Universal 
+Resource Locators (URLs); Internet Protocol (IP) address numbers; biometric 
+identifiers; full face photographic images; and, any other unique identifying 
+number, characteristic or code.[Requirements for de-identification/re-identification 
+of PHI] 
+ 
+J. Complaint Process: The Entity must have in place a process for patients to make 
+complaints about the Entity’s HIPAA policies and procedures and/or the Entity’s  
+compliance with those policies and procedures.  [Privacy Notice, Patient Rights] 
+ 
+K. Documentation: The Entity must maintain written or electronic copies of all policies 
+and procedures, communications, actions, activities or designations as are required to 
+be documented under this manual for a period of six (6) years from the later of the date 
+of creation or the last effective date.  NOTE:  This is the documentation 
+requirement under HIPAA, but does not necessarily reflect any longer retention 
+period for particular documentation that may be mandated by state or federal 
+law on another basis. 
+ 
+REFERENCES: 
+• Health Insurance Portability and Accountability Act (HIPAA), Standards for Privacy 
+of Individually Identifiable Health Information - 45 CFR Parts 160 and 164 
+• Health Information Technology for Economic and Clinical Health Act, Title XIII of 
+the American Recovery and Reinvestment Act of 2009 
+ATTACHMENTS: 
+n/a 
+ 

@@ -1,0 +1,438 @@
+ 
+PH.2459_Information Management Program Description 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Information Management Program Description 
+PAGES: 
+8 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2459 (10/28/2021) 
+ORIGINAL EFFECTIVE 
+DATE: 02/07/2017 
+REVISIONS EFFECTIVE: 
+03/31/2023 
+POLICY NUMBER:  
+PH.2459 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) pharmacies. 
+PURPOSE: 
+This policy assures that safeguards are put in place to protect patient and organization information within the pharmacy. 
+POLICY: 
+A. The pharmacy strives to provide appropriate and timely services to its customers/clients by securely collecting 
+only the necessary information to carry out the services the pharmacy provides. The pharmacy places the highest 
+priority on the protection of consumer’s Individually-Identifiable Health Information (IIHI) and Personal 
+Identifiable Information (PII). To that end, the pharmacy strives to maintain consistent and accurate information 
+flow through proactive information management systems. Various processes and mechanisms have been 
+implemented to provide for: 
+i. Data integrity  
+ii. Data Storage, Maintenance, and Destruction] 
+iii. Business Continuity/Disaster Recovery  
+iv. Information Confidentiality and Security] 
+v. Confidentiality of Individual-Identifiable Health Information  
+vi. Responsibility and Requirement to Preserve Confidentiality  
+B. The pharmacy conducts specialty pharmacy services on behalf of healthcare organizations that enter into 
+contractual relationships with the pharmacy to provide these services.  Pharmacy complies with all relevant 
+regulatory agencies and the relevant standards of URAC. 
+DEFINITIONS: 
+A. Data integrity means maintaining and assuring the accuracy, traceability and consistency of data over its entire 
+life cycle, and is a critical aspect to the design, implementation and usage of any system which stores, processes, 
+or retrieves data.  
+B. Ephemeral messaging - Secure messaging that never creates electronic stored information. Messages only exist 
+in volatile memory streaming from device to cloud to device and leave no data trace on devices or services. Data 
+cannot be stored or shared and disappears once read by the recipient. The word “ephemeral” describes something 
+that only lasts for a period of time. 
+C. EPHI means electronic protected health information. 
+D. IIHI – Individually Identifiable Health Information 
+E. PHI – Protected Health Information is individually identifiable health information that is transmitted by electronic 
+media, maintained in electronic media, or transmitted or maintained in any other form or medium. 
+F. PII – Personal Identifiable Information is anything that could be used to uniquely identify and individual. 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+3/31/2023 1:12 PM 
+ 
+ 
+PH.2459_Information Management Program Description 
+2 
+G. Tabletop Exercise - Test of a Business Continuity Plan (BCP) that includes documentation of the following 
+aspects of the test: 
+• A Tabletop Exercise simulates an incident in an informal, stress-free environment. 
+• The participants, who are usually the responsible managers and the response team, gather 
+around a table to discuss general problems and procedures in the context of an incident scenario. 
+• A scenario is developed in advance, but there are no attempts to arrange elaborate facilities or 
+communications. One or two evaluators may be selected to observe proceedings and progress 
+toward the objectives. 
+H. Pharmacy Benefit Manager (PBM) – a company that administers the drug benefit program for an employer or 
+health plan. 
+I. Quality Improvement Project – (QIP) – ongoing project approved by the Quality Management Committee with 
+goal of improving patient outcomes or services. 
+PROCEDURE: 
+A. Data Integrity [URAC RM 3-1 (a)] [URAC RM 3-2 (a-ii)] 
+1. The pharmacy has systems in place to ensure a high level of confidence that the record retrieved is, indeed, 
+the correct record and that the information documented therein is accurate. The pharmacy utilizes both paper 
+and electronic systems which coordinate with each other.  For electronic data, the pharmacy utilizes 
+dispensing and clinical software. These systems have persuasive guards to ensure data integrity, which 
+include (but not be limited to): 
+a. Data Entry controls for accuracy – the pharmacy has built-in features in its electronic system to 
+restrict the users’ entry of data into appropriate fields. This includes the use of drop-down menus 
+and calendars to control the data entry process.  This ensures that the data entered is appropriate for 
+the data being requested. 
+b. Cross-checking databases for consistency – Data structures which store the data have been 
+developed to ensure consistency throughout the database, for example, a date field may only contain 
+date information or numeric fields may not contain text information. 
+c. Using unique identifiers for consumer data – A system generated unique number is created for each 
+individual consumer and script. 
+d. Prevention of and checking for duplicate entries – Routine system cross check reports review DOB 
+and name to identify possible duplicate entries. In addition, when staff are pulling up patient profiles 
+they are checking for name and DOB. If there happens to be multiple patients with the same name 
+and DOB, Additional identifiers, such as address and prescription information, are used to ensure 
+the correct patient profile is selected. 
+e. The pharmacy does not have telecommuters. [URAC RM 4-1] 
+B.  Data Storage, Maintenance, and Destruction [URAC RM 3-1 (b)] [URAC RM 4-1 (a-i, a-ii)] 
+1. The pharmacy maintains a server which stores electronic information to hard drives. The hard drives are 
+functioning at all times to verify data and have a “mirroring” function in case of failure. System maintenance 
+is performed on a daily basis.  The p harmacy relies on electronic systems to store most IHII however paper 
+prescriptions are filed and securely stored onsite.  The pharmacy delegates destruction of paper materials to 
+Tiger Shredding which complies with all HIPPA requirements for shredding and disposal.  The pharmacy 
+utilizes a local RAID-5 server for electronic data storage. Additionally, bo th on-site and off-site backups are 
+performed nightly.  Franciscan Missionaries of Our Lady Health System (FMOLHS) IS staff is responsible 
+for maintenance, storage, and destruction of this information through this product. 
+2. P harmacy’s Server: 
+a. The virtual server is located in a FMOLHS owned datacenter.  The system runs inside a Virtual 
+Server infrastructure environment on the VMware Hypervisor.  
+b. A nightly offsite backup is performed.  
+3. Only Pharmacy personnel wi th a “need- to-know,” have a ccess to the electronic or p aper records. In ord er 
+to retrieve electronic information, Pharmacy personnel must access the information using uni que 
+usernames and passwords. The Pharmacy system administrator assigns passw ords and ac cess rights 
+according to each program staff’s job ti tle and responsibility, ensuring that staff only have access to IIHI 
+that is necessary to fulfill their program role. Passwords are updated every 90 days and follow the FMOLHS  
+PH.2459_Information Management Program Description 
+3 
+policy IS.05.004 Password Management Policy and IS.04.002 Access Authorization Policy. [URAC RM 3-1 
+(c)] 
+a. Login credentials are promptly removed for staff who leave the pharmacy  or who no longer need 
+access to the pharmacy’s data resources. Staff members are prohibited from sharing login credentials 
+with another staff member.  The pharmacy maintains all electronic records permanently with periodic 
+archiving.  Pharmacy follows the IS.04.003 Access Establishment and Modification Policy and the 
+IS.03.003 Access Termination Policy. 
+4. Destruction of hardware containing EPHI [URAC RM 3-1 (c)] [URAC RM 3-1 (b)] 
+a. When the pharmacy deems electronic equipment obsolete, which may contain confidential 
+information, FMOLHS IS ensures that the hard drive or memory card is wiped clean of all data. 
+The pharmacy follows information system policy IS.13.001 Media Disposal Policy for 
+disposal/destruction of electronic information.  
+5. Destruction of Paper Materials containing PHI [URAC RM 3-1 (c)] [URAC RM 3-1 (b)] 
+a. The pharmacy delegates destruction of paper materials to a vendor which complies with all HIPPA 
+requirements for shredding and disposal. 
+b. Shredding receptacles are located within the pharmacy and are easily accessible to staff. Frequency 
+of destruction and receipt of documentation are detailed in contract relationship. 
+6. The pharmacy maintains, in accordance with prudent business practices, accurate, complete and timely 
+books, records and accounts of all transactions occurring as part of the furnishing of specialty pharmacy 
+services to patients. The pharmacy maintains for a minimum of three (3) years (or longer if required by 
+applicable Law), after the respective record is created, in original form, the claims and claim forms 
+supporting the invoices and other records sufficient to verify covered items dispensed, claims processed, 
+payments made to the pharmacy, and documentation and logs.  
+C. Business Continuity / Disaster Recovery [URAC RM 4-1 (a-i, a-ii, a-iii, b)] 
+1. The pharmacy maintains a business continuity/disaster recovery plan that is developed by an inter-
+departmental team and approved by leadership. 
+2. The pharmacy is primarily reliant on its telephone system and server to access data and provide services.  
+These systems are critical to maintain in order for Pharmacy to effectively deliver services.  Sustained outages 
+to these systems could impact Pharmacy’s ability to promptly provide services.  The pharmacy ensures it 
+complies with state and federal regulations regarding business continuity.  
+3. In the event of a natural disaster, power outage, or an interruption in connectivity the pharmacy has a plan to 
+maintain business continuity.  In the event of a power failure, the pharmacy is hooked up to the hospital 
+generator that restores power immediately and is capable of long-term electrical supply.  In the unlikely 
+event that both telephone systems (cable and T-1) should fa il, the pharmacy will have calls rerouted to the 
+after -hours call center.  
+4. If ther e is an outage in the n etwork/server, the pharmacy contacts the network services to determine the reason 
+and cause and estimated restoration of the system. If there is a sustained outage (more than four hours), 
+business will continue according to the following back-up procedures:  
+a. Pharmacy staff will continue to process requests via phone, and/or secure fax or e-mail and manually 
+record data. 
+b. Staff will document all necessary information in a Word document and save in a secured electronic 
+folder. 
+c. Wh en the network is restored, the information is then transferred into the electronic system and the 
+word document is deleted. 
+5. In the event damage to the physical server occurs; FMOLHS IS can restore 100% of data within 6 hours.  
+6. FMOLHS IS maintains a recovery plan which enables reproduction of any lost information in the event of a 
+disaster.  The business continuity/emergency management plan is tested at least every two years using a 
+Tabletop Exercise or physical test.  The pharmacy uses test results to correct problems with the business 
+continuity plan, including updates as needed to reflect current business processes and systems.  Testing 
+results are documented clearly, and issues identified are corrected as soon as possible. FMOLHS IS follows 
+the IS.07.004 Testing and Revision Policy. [URAC RM 4-1 (b)] 
+7. The pharmacy maintains good employee relations, and there is no, and shall be no, labor unrest, work 
+stoppages, or strike activity among the pharmacy’s employees that causes disruption to pharmacy services to  
+PH.2459_Information Management Program Description 
+4 
+PBM members. The pharmacy maintains a business continuity plan to ensure that service to PBM members 
+shall not be impacted.  
+D. Information Confidentiality and Security [URAC CPE 1-1 (a, b, c)] [URAC CPE 1-2 (a-ii)]   
+1. The pharmacy ensures business associate agreements (BAA) are executed with business associates. The BAA 
+assures that business associates implement reasonable, technical, physical, and administrative safeguards for 
+PHI and IIHI. The pharmacy retains copies of executed BAAs. 
+2. The pharmacy understands the importance of securing confidential information and preventing security 
+breaches.  The pharmacy works with their various customers/clients to ensure information is sent to the 
+pharmacy using only HIPAA compliant mechanisms.  For example, the pharmacy receives information from 
+clients via secure system and when needed, the pharmacy also utilizes a HIPAA-complaint facsimile.  
+Additionally, the pharmacy uses the following mechanisms to ensure security of its systems: 
+a. Emails 
+(1) Pharmacy initiates e-mails with IIHI only when absolutely necessary. All e-mails that contain 
+IIHI are sent and received through computers or other devices that require password- 
+protected access. 
+b. V oicemail  
+(1) Pharmacy staff may receive IIHI via their voice mail boxes which are secured through 
+password access and deleted once received. Pharmacy staff do not leave voice mails 
+containing IIHI. 
+c. Computers 
+(1) Pharmacy computer systems contain a firewall.  Staff ensures the storage and use of their 
+computer adhere to the minimum “two lock” principle.  All computers utilized at Pharmacy 
+are password protected, maintained out of the direct view of passersby, and screens are locked 
+when not in use.   All IIHI data is maintained in the secure dispensing and clinical software 
+systems which also require a separate password to access. 
+3. T he pharmacy a lso utilizes antivirus software to detect and contain viruses. The p harmacy maintains 
+intrusion software to detect, contain and correct security breaches. The p harmacy also requires the 
+maintenance of intrusion software of all its applicable IT support and storage contracts. Add itionally, to help 
+ensure continuous security of confidential information, the pharmacy conducts an annual assessment of 
+potential risks and vulnerabilities to the confidentiality, integrity, and availability of information systems. In 
+addition to conducting an annual assessment of potential risks and vulnerabilities to the confidentiality, 
+integrity and availability of information systems the pharmacy also conducts an assessment of the potential 
+risks and vulnerabilities to the confidentiality and integrity of its physical location. All FMOLHS owned 
+entities adhere to these policies: 
+a. IS.05.002 Malicious Software Protection Policy 
+b. IS.01.001 Risk Analysis Policy 
+c. IS.01.002 Risk Management Policy  
+4. Breach Response [URAC RM 3-1 (c)] [URAC CPE 1-1 (c)]  
+a. All suspected or actual security breaches are reported immediately to the FMOLHS Compliance 
+Department.  The Compliance Department will initiate the investigation and respond to any potential 
+compliance issues in adherence with all applicable regulations and FMOLHS policies.  FMOLHS IS 
+will actively participate in the investigation, response, and implementation of corrective actions 
+related to the security breach. For all identified breach incidents, the following response steps will be 
+enacted: 
+(1) Take immediate steps to contain the breach and mitigate risk.   
+(2) Conduct a thorough Incident Specific Risk Assessment that evaluates all involved systems 
+and operational practices. 
+(3) Dev elop and ov ersee the implementation of a corrective action plan to remedy all identified 
+issue, including the revision of policies, workflows, and staff re-training as necessary. 
+(4) Draft and send breach notification to the required recipients within 60 days of the breach 
+discovery or sooner if indicated by state regulations. This breach notice will follow the most 
+stringent requirements of HIPAA, HITECH, and state regulations, including notification 
+timeliness, content, and route of delivery. 
+(5) Conducts ongoing periodic monitoring and reevaluation to ensure sustained compliance.  
+PH.2459_Information Management Program Description 
+5 
+(6) The pharmacy follows FMOLHS IS policy IS.01.002 Risk Management Policy 
+E. Confidentiality of Individual-Identifiable Health Information [URAC CPE 1-1 (a, b, c)] [URAC CPE 1-2 (a-ii)] 
+1. Us e  of IIHI 
+a. Pharmacy personnel utilize IIHI only to the extent necessary to carry out their assigned role. Only 
+those individuals directly involved in the pharmacy process are allowed system access to sensitive 
+information.  Other Pharmacy personnel are denied access to IIHI via system security levels.  Login 
+and security level are at the job level, and access is only assigned to a job level if it is required to 
+perform the job function. 
+2. Personnel Access to IIHI [URAC CPE 1-2 (a-i)] 
+a. Pharmacy personnel having access to IIHI include: 
+(1) Pharmacy Managers 
+(2) Pharmacists 
+(3) Pharmacy Techs 
+(4) IS System administrator for system maintenance and reporting 
+b. Pharmacy files and securely stores paper prescriptions; no other paper files are maintained. Any 
+paper generated containing IIHI is placed in secure shred bins and appropriately disposed of by the 
+vendor.  
+c. Tape  recordings of telephone conversations where consumer health issues are discussed are strictly 
+forbidden.   
+d. Voice mail message on Pharmacy’s telephone system are deleted by users upon receipt. 
+3. Eliminating Incidental Access to IIHI [URAC CPE 1-1 (b)] 
+a. From time to time there may be an individual or entity whose functions or service do not involve the 
+use or disclosure of PHI however their work with the specialty pharmacy could put them in the 
+vicinity of PHI. Examples of such individuals are PHI shredding vendor employees, maintenance 
+and facilities personnel, firefighters, cleaners, etc.  These individuals and entities made aware that 
+upon entering the pharmacy environment they need to understand the sensitivity of PHI.  These 
+individuals do not have access to and are never left alone in the pharmacy or locations with PHI.  To 
+eliminate incidental access to PHI a pharmacy staff member verifies the identity of the individual 
+and once verified allows the individual access to the pharmacy.  While the individual is within the 
+area where PHI is accessible a pharmacy staff member will monitor the individual to ensure PHI 
+protection.  At no time will the individual be left alone.  Other staff within the pharmacy are aware 
+to not leave PHI containing documents in plain sight, log off computers that are not in use, and to 
+limit conversations involving PHI that may be overheard during these times.  A staff member will 
+then escort the individual out of the pharmacy.  Please see FMOLHS IS policy IS.18.000 Data 
+Transmission Security Policy for additional safeguards. 
+F. Responsibility and Requirement to Preserve Confidentiality [URAC CPE 1-1 (a, b, c)] [URAC CPE 1-2 (a-ii)] 
+1. Pharmacy has created a culture of respect for all persons and most importantly, respect for the personal health 
+and other information of all persons.  All Pharmacy personnel receive training on HIPAA and HITECH 
+compliance annually and all personnel, contractors, board, and committee members sign confidentiality 
+attestations.  All Pharmacy personnel, board, and committee members understand that the responsibility of 
+Pharmacy to preserve the confidentiality of individually- identifiable health information is implemented by 
+each and every Pharmacy employee, contractor, board, an d committee member. Pharmacy personnel, board, 
+and committee members understand that failure to comply with the preservation of confidentiality may result 
+in disciplinary actions that may include termination and additionally they could be held personally liable for 
+criminal prosecution and financial penalties. 
+2. T here is a signed confidentiality statement for all personnel and for the governing body as required. 
+Personnel and the governing body abide by the confidentiality statement and the organization’s policies and 
+procedures. Personnel who violate confidentiality are subject to the corrective action policy. (See Regulatory 
+Compliance Program) 
+G. Risk Management Program [URAC RM 3-2 (a-i, a-ii)] 
+1. The pharmacy has risk assessment processes in place for information systems to identify, document, thwart 
+and/or remediate actual or potential threats to security for all of the following: 
+a. Stored Data  
+PH.2459_Information Management Program Description 
+6 
+b. Data Gathering 
+c. Data Transfer 
+2. The pharmacy completes risk assessments of paper PHI on a quarterly basis as part of their compliance audit 
+program. Documentation of the risk assessment is maintained on the compliance audit tool and is reviewed 
+during quarterly Quality Management Committee (QMC) meetings. Any identified risks as a results of the 
+audit will be addressed immediately. The QMC may elect to approve a QIP or Action Plan as a result of any 
+identified risk. 
+3. Risk assessment processes includes an annual risk assessment conducted by an entity with the expertise to 
+handle these types of assessments and that has not stake in the outcome of the assessment.  The intent is to 
+plan for formal, independent, risk assessments of the pharmacy’s information systems.  Therefore, the 
+information technology staff directly responsible (on a day-to-day basis) for the systems being evaluated may 
+not conduct the periodic risk assessment, though they may be on hand to respond to questions that may arise 
+in the process. The entity conducting the information systems risk assessment may be internal (e.g., from a 
+separate unit, department or division) or external.  See IS.01.002 Risk Management Policy. 
+H. Data Encryption of EPHI at rest [URAC RM 3-1 (c)] 
+1. When risk analysis indicates it is necessary, appropriate encryption must be used to protect the 
+confidentiality, integrity, and availability of EPHI contained on FMOLHS information systems. The risk 
+analysis must also be used to determine the type and quality of the encryption algorithm and the length of 
+cryptographic keys. 
+2. At a minimum, FMOLHS’s risk analysis must consider the following factors when determining whether or 
+not specific EPHI must be encrypted: 
+• The sensitivity of the EPHI 
+• The risks to the EPHI 
+• The expected impact to FMOLHS functionality and workflow if the EPHI is encrypted 
+• Alternative methods available to protect the confidentiality, integrity and availability of the EPHI 
+3. All encryption used to protect the confidentiality, integrity and availability of EPHI contained on FMOLHS 
+information systems must be approved by the Information Security Officer. 
+4. Encryption should be used to protect the confidentiality, integrity, and availability of EPHI stored on 
+FMOLHS portable workstations and portable devices (i.e., laptops, notebooks, tablets, USB devices, etc.). 
+5. Encryption should be used to protect the confidentiality, integrity, and availability as specified in FMOLHS’s 
+IS.18.000 Transmission Security policy. 
+6. FMOLHS must protect all of its cryptographic keys against modification and destruction; its secret and 
+private keys must be protected against unauthorized disclosure. 
+7. No department will implement encryption of data without the knowledge and approval of the Information 
+Security Officer. 
+8. The Information Security Officer will maintain documentation with regards to when encryption is utilized. 
+I. Data Encryption of EPHI in transit [URAC RM 3-1 (c)] 
+1. EPHI Transmissions to Non-FMOLHS Entities 
+a. To appropriately guard against unauthorized access to or modification of EPHI that is being 
+transmitted from FMOLHS’s Network to a network outside of such networks, the procedures 
+outlined must be implemented: 
+b. All transmissions of EPHI from the FMOLHS network to a network outside of the aforementioned 
+networks must utilize an encryption mechanism between the sending and receiving entities or the 
+file, document, or folder containing said EPHI must be encrypted before transmission. 
+c. Prior to transmitting EPHI from the FMOLHS network to a network outside of the aforementioned 
+networks the receiving person or entity must be authenticated in accordance with HIPAA Security 
+Policy – IS.17.000 Person or Entity Authentication Policy. 
+d. All transmissions of EPHI from the FMOLHS network to a network outside of the aforementioned 
+networks should include only the minimum amount of PHI. 
+e. For transmission of EPHI from the FMOLHS network to a network outside of the aforementioned 
+networks utilizing an email or messaging system, EPHI transmission using e-mail or messaging 
+systems below. 
+2. EPHI transmissions using electronic removable media  
+PH.2459_Information Management Program Description 
+7 
+a. When transmitting EPHI via removable media, including but not limited to, floppy disks, CD ROM, 
+USB devices, memory cards, magnetic tape and removable hard drives, the sending party must: 
+(1) Use an encryption mechanism to protect against unauthorized access or Modification 
+(2) Authenticate the person or entity requesting said EPHI in accordance with HIPAA Security 
+Policy – IS.17.000 Person or Entity Authentication Policy. 
+(3) Send the minimum amount of said EPHI required by the receiving person or entity. 
+b. If using removable media for the purpose of system backups and disaster recovery and the 
+aforementioned removable media is stored and transported in a secured environment, no additional 
+security mechanisms are required. 
+3. EPHI transmissions using electronic mechanisms to external entities 
+a. When transmitting EPHI via electronic mechanisms to external entities including but not limited to 
+FTP, HTTP or other electronic means, the sending party must: 
+(1) For FTP transfers, users must use the approved centralized FTP server which will use SFTP, 
+PGP or other means to encrypt the data before transmission or during transmission using 
+secure methods. 
+(2) HTTP transmission of data will utilize HTTPS as a secure transport. 
+(3) All transmissions of EPHI via electronic means must be approved by the Information 
+Security Officer before the transmission has occurred. This ensures that FMOLHS has an 
+accounting of EPHI that is transmitted externally from the organization. 
+4. EPHI transmissions using email or messaging systems 
+a. The transmission of EPHI from the FMOLHS network to the subject or person of the EPHI via an 
+email or messaging system is permitted if the sender has ensured that the following conditions are 
+met: 
+b. The individual has been made fully aware of the risks associated with transmitting EPHI via email 
+or messaging systems. 
+c. The individual has provided written authorization to FMOLHS to utilize an email or messaging 
+system to transmit EPHI to them. 
+d. The individual’s identity has been authenticated. 
+e. The email or message contains no excessive history or attachments. 
+f. The transmission of EPHI from FMOLHS to an outside entity via an email or messaging system is 
+permitted if the sender has ensured that the following conditions are met: 
+(1) The receiving entity has been authenticated. 
+(2) The receiving entity is aware of the transmission and is ready to receive said transmission. 
+(3) The sender and receiver are able to implement a compatible encryption mechanism. 
+(4) The proper subject line keyword triggers are used to forcibly encrypt the email message. 
+Currently the subject line trigger is Secure. 
+(5) No EPHI is contained in the non-encrypted areas of the communication (such as the subject 
+line of an email message). 
+(6) All attachments containing EPHI are encrypted. 
+(7) Email accounts that are used to send or receive EPHI must not be forwarded. 
+5. EPHI transmissions using network devices 
+a. The transmission of EPHI over a wireless network within the FMOLHS network is permitted if the 
+following conditions are met: 
+(1) The local wireless network is utilizing an authentication mechanism to ensure that wireless 
+devices connecting to the wireless network are authorized. 
+(2) The local wireless network is utilizing an encryption mechanism for all transmissions over 
+the aforementioned wireless network. 
+b. If transmitting EPHI over a wireless network that is not utilizing an authentication and encryption 
+mechanism, the EPHI must be encrypted before transmission. 
+c. The authentication and encryption security mechanisms implemented on wireless networks within 
+the FMOLHS networks are only effective within those networks. When transmitting outside of those 
+wireless networks, additional and appropriate security measures must be implemented in accordance 
+with this Policy. 
+6. ADDITIONAL requirements for electronic transmissions:  
+PH.2459_Information Management Program Description 
+8 
+a. All encryption mechanisms implemented to comply with this policy must support 256-bit or greater 
+encryption. In the cases where 256-bit encryption or greater cannot be used, then 128- bit is the 
+absolute minimum that can be used. 
+b. When transmitting EPHI electronically, regardless of the transmission system being used, FMOLHS 
+users must take reasonable precautions to ensure that the receiving party is who they claim to be and 
+has a legitimate need for the EPHI requested. 
+c. If the EPHI being transmitted is not to be used for treatment, payment or health care operations, only 
+the minimum required amount of PHI should be transmitted. 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: RM 3-1, RM 3-2, RM 4-1, CPE 1-1, CPE 1-2 
+• ACHC Standards: DRX2-5A, DRX5-1C 
+• IS.01.001 Risk Analysis Policy 
+• IS.01.002 Risk Management Policy 
+• IS.01.005 Change Management 
+• IS.03.003 Access Termination Policy 
+• IS.04.000 Information Access Management Policy 
+• IS.04.002 Access Authorization Policy 
+• IS.04.003 Access Establishment and Modification Policy 
+• IS.05.004 Password Management Policy 
+• IS.07.000 Contingency Plan Policy 
+• IS.07.001 Data Backup Policy 
+• IS.07.002 Disaster Recovery Policy 
+• IS.07.003 Emergency Mode Operations Policy 
+• IS.07.004 Testing and Revision Policy 
+• IS.16.000 Data Integrity Controls Policy 
+• IS.13.001 Media Disposal Policy 
+• IS.13.003 Hardware & Media Accountability Policy 
+• IS.13.004 Data Backup & Storage Policy 
+• IS.14.004 Encryption & Decryption Policy 
+• IS.17.000 Person or Entity Authentication Policy 
+• IS.18.000 Data Transmission Security Policy 
+• PH.2466 Regulatory Compliance 
+ 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

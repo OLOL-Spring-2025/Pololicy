@@ -1,0 +1,95 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Operating Room 
+Title: Immediate Use Steam Sterilization 
+(IUSS) 
+Policy Reference #: SOS015 
+Supersedes #: 01/19/87; 09/26/91 
+Date of Origination: 01/19/1987 Review Date: 07/5/2024 
+Revision Date: 06/27/2023 
+ 
+ 
+To provide direction for immediate use steam sterilization (IUSS) in the operating room 
+in an emergent situation only. 
+ 
+POLICY: 
+ 
+I. Immediate use steam sterilization (IUSS), formerly called flash sterilization, is 
+used only in selected clinical situations and in a controlled manner when there is 
+an immediate need for an item/product and insufficient time to process by the 
+preferred wrapped or container method performed by the Sterile Processing 
+Department. 
+ 
+IUSS should not be used as a substitute for insufficient instrument inventory. 
+IUSS items are intended for immediate use only.  Therefore there is no shelf life 
+for these items. 
+ 
+Should time not permit for regular processing of instruments for a routine 
+scheduled case; the nurse manager and surgeon will be notified of the situation.   
+ 
+IUSS Methods and Recommended Sterilization Cycles 
+ 
+Cycle  Type of Load Temp Exposure Time Dry Time 
+Prevacuum Basic Instrumentation 270 F 4 min N/A 
+Prevaccum Loaner/Vendor Instrumentation 270F 10 min N/A 
+Figure 1 
+ 
+A. IUSS criteria: 
+1. Device manufacturer’s recommendations (IFU’s) are followed for all 
+steps in this process to ensure proper parameters are met. 
+2. This procedure is appropriate for any loose instrument or set of 
+instruments that will fit inside the inner tray and comply with the 
+manufactures recommendations.   2 
+3. Items are disassembled completely and thoroughly cleaned following 
+the proper decontamination procedures. 
+4. Check container and inner tray for cleanliness. Confirm the permanent 
+filters are in place and appropriately secured. 
+5. Load the inner tray ensuring that the instruments are not overloaded, 
+preventing overlapping of the instruments, and ensuring the container 
+will close/lock appropriately. 
+6. Place inner tray inside container and lock the outer two locks located 
+on either end of the outer container. 
+7. Place the sealed container inside the autoclave with a biological pack, 
+close the door and select the appropriate cycle for that item(s) based on 
+the manufactures recommendations. 
+8. Following sterilization, verify the cycle parameters have been met (see 
+autoclave cycle record from the machine). 
+9. Donning the proper heat resistant gloves, carefully remove container 
+from autoclave utilizing the handles and transport immediately to point 
+of use.   Item must be immediately transferred to the sterile field using 
+appropriate sterile aseptic technique.  
+ 
+B. IUSS documentation should include the following: 
+1. Date & time 
+2. Patient’s name 
+3. Item being sterilized 
+4. Autoclave & Load # 
+5. Reason for flashing 
+6. Integrator/Biological results 
+•  (Lot number, control results, and biological results) 
+7. O.R. room # 
+8. Operator’s name/initials 
+9. Verification with initials on the sterilizer computer print out 
+• Cycle Type 
+• Temperature 
+• Exposure time 
+ 
+II. Manufacturer Guidelines – manufacturer guidelines are the unequivocal 
+reference for IUSS and routine sterilization parameters and cycle selection.  If 
+doubts concerning cycle selection/method arise, always refer to SPD for the 
+appropriate recommendations.  
+ 
+NOTE:  Some specialty instruments may require extended exposure times.  Some 
+manufactures do not recommend IUSS.  Therefore the recommended guidelines 
+from the device manufacturer should be followed. 
+ 
+ 
+REFERENCES: 
+  3 
+AORN Standards, Recommended Practices, 2024 
+ANSI/AAMI ST79:2017/A4:2017 
+ 

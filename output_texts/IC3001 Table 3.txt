@@ -1,0 +1,221 @@
+IC-3001- Table 3 
+Infection Control Considerations for High-Priority (CDC Category A) Diseases That May Result from 
+Bioterrorist Attacks or are Considered to be Bioterrorist Threats (CDC page last reviewed: November 5, 2015) 
+Page 1 of 4 
+                                                                                                Revised March 31, 2024/Reviewed September 13, 2024 
+TABLE 3 
+ 
+Infection Control Considerations for High-Priority (CDC Category A) Diseases 
+That May Result from Bioterrorist Attacks or are Considered to be Bioterrorist 
+Threats 
+ 
+Abbreviations used in this table:  
+RT = respiratory tract; GIT = gastrointestinal tract; CXR = chest x-ray; CT = computerized axial tomography; CSF = 
+cerebrospinal fluid; and LD50 – lethal dose for 50% of experimental animals; HCWs = healthcare worker; BSL = 
+biosafety level; PAPR = powered air purifying respirator; PCR = polymerase chain reaction; IHC = 
+immunohistochemistry 
+Disease  Anthrax  
+Site(s) of Infection;  Cutaneous (contact with spores). Respiratory Tract: (inhalation of spores).  
+Gastrointestinal Tract: (ingestion of spores – rare). 
+Transmission Mode 
+Cutaneous & inhalation disease 
+have occurred in past 
+bioterrorist incidents 
+Comment: Spores can be inhaled into the lower respiratory tract. The infectious 
+dose of B. anthracis in humans by any route is not precisely known. In primates, 
+the LD50 (i.e., the dose required to kill 50% of animals) for an aerosol challenge 
+with B. anthracis is estimated to be 8,000–50,000 spores; the infectious dose may 
+be as low as 1-3 spores. 
+Incubation Period  
+Cutaneous: 1 to12 days. Respiratory Tract: Usually 1 to 7 days but up to 43 days 
+reported.  
+Gastrointestinal Tract: 15-72 hours. 
+Clinical Features  Cutaneous: Painless, reddish papule, which develops a central vesicle or bulla in 
+1-2 days; over next 3-7 days lesion becomes pustular, and then necrotic, with black 
+eschar; extensive surrounding edema. Respiratory Tract: initial flu-like illness for 
+1-3 days with headache, fever, malaise, cough; by day 4 severe dyspnea and 
+shock, and is usually fatal (85%-90% if untreated; meningitis in 50% of Respiratory 
+Tract cases.  
+Gastrointestinal Tract: if intestinal form, necrotic, ulcerated edematous lesions 
+develop in intestines with fever, nausea and vomiting, progression to hematemesis 
+and bloody diarrhea; 25-60% fatal 
+Diagnosis  Cutaneous: Swabs of lesion (under eschar) for immunohistochemistry, 
+polymerase chain reaction and culture; punch biopsy for immunohistochemistry, 
+polymerase chain reaction and culture; vesicular fluid aspirate for Gram stain and 
+culture; blood culture if systemic symptoms; acute and convalescent sera for ELISA 
+serology. Respiratory Tract: Chest X-ray or CT scan demonstrating wide 
+mediastinal widening and/or pleural effusion, hilar abnormalities; blood for culture 
+and polymerase chain reaction; pleural effusion for culture, polymerase chain 
+reaction and immunohistochemistry; cerebrospinal fluid if meningeal signs present 
+for immunohistochemistry, polymerase chain reaction and culture; acute and 
+convalescent sera for ELISA serology; pleural and/or bronchial biopsies 
+immunohistochemistry.  
+Gastrointestinal Tract: blood and ascites fluid, stool samples, rectal swabs, and 
+swabs of oropharyngeal lesions if present for culture, polymerase chain reaction 
+and immunohistochemistry. 
+Infectivity  Cutaneous: Person-to-person transmission from contact with lesion of untreated 
+patient possible, but extremely rare. Respiratory Tract and Gastrointestinal 
+Tract: Person-to-person transmission does not occur.  
+Aerosolized powder, environmental exposures: Highly infectious if aerosolized. IC-3001- Table 3 
+Infection Control Considerations for High-Priority (CDC Category A) Diseases That May Result from 
+Bioterrorist Attacks or are Considered to be Bioterrorist Threats (CDC page last reviewed: November 5, 2015) 
+Page 2 of 4 
+                                                                                                Revised March 31, 2024/Reviewed September 13, 2024 
+Recommended Precautions  Cutaneous: Standard Precautions; Contact Precautions if uncontained copious 
+drainage. Respiratory Tract and Gastrointestinal Tract: Standard Precautions.  
+Aerosolized powder, environmental exposures: Respirator (N95 mask or 
+Powered Air Purifying Respirators), protective clothing; decontamination of persons 
+with powder on them (Notice to Readers: Occupational Health Guidelines for 
+Remediation Workers at Bacillus anthracis-Contaminated Sites — United States, 
+2001–2002). 
+ 
+Hand hygiene: Handwashing for 30-60 seconds with soap and water or 2% 
+chlorhexidine gluconate after spore contact (alcohol handrubs inactive against 
+spores [Weber DJ JAMA 2003; 289:1274]). 
+ 
+Post-exposure prophylaxis following environmental exposure: 60 days of 
+antimicrobials (either doxycycline, ciprofloxacin, or levofloxacin) and post-exposure 
+vaccine under IND. 
+Disease  Botulism  
+Site(s) of Infection; 
+Transmission Mode  
+Gastrointestinal Tract: Ingestion of toxin-containing food. Respiratory Tract: 
+Inhalation of toxin containing aerosol cause disease.  
+Comment: Toxin ingested or potentially delivered by aerosol in bioterrorist 
+incidents. LD50 (lethal dose for 50% of experimental animals) for type A is 0.001 
+μg/ml/kg. 
+Incubation Period  1-5 days.  
+Clinical Features  Ptosis, generalized weakness, dizziness, dry mouth and throat, blurred vision, 
+diplopia, dysarthria, dysphonia, and dysphagia followed by symmetrical descending 
+paralysis and respiratory failure.  
+Diagnosis  Clinical diagnosis; identification of toxin in stool, serology unless toxin-containing 
+material available for toxin neutralization bioassays.  
+Infectivity  Not transmitted from person to person. Exposure to toxin necessary for disease.  
+Recommended Precautions  Standard Precautions.  
+Disease  Ebola Hemorrhagic Fever  
+Ebola Virus Disease for 
+Healthcare Workers [2014] 
+Recommendations for healthcare workers can be found at  Ebola for Clinicians. 
+Site(s) of Infection; 
+Transmission Mode  
+As a rule, infection develops after exposure of mucous membranes or respiratory 
+tract, or through broken skin or percutaneous injury.  
+Incubation Period  2-19 days, usually 5-10 days.  
+Clinical Features  Febrile illnesses with malaise, myalgias, headache, vomiting and diarrhea that are 
+rapidly complicated by hypotension, shock, and hemorrhagic features. Massive 
+hemorrhage in < 50% pts.  
+Diagnosis  Etiologic diagnosis can be made using respiratory tract--polymerase chain reaction, 
+serologic detection of antibody and antigen, pathologic assessment with 
+immunohistochemistry and viral culture with EM confirmation of morphology . 
+Infectivity  Person-to-person transmission primarily occurs through unprotected contact with 
+blood and body fluids; percutaneous injuries (e.g., needle stick) associated with a 
+high rate of transmission; transmission in healthcare settings has been reported but 
+is prevented by use of barrier precautions.  IC-3001- Table 3 
+Infection Control Considerations for High-Priority (CDC Category A) Diseases That May Result from 
+Bioterrorist Attacks or are Considered to be Bioterrorist Threats (CDC page last reviewed: November 5, 2015) 
+Page 3 of 4 
+                                                                                                Revised March 31, 2024/Reviewed September 13, 2024 
+Recommended Precautions  Hemorrhagic fever specific barrier precautions: If disease is believed to be 
+related to intentional release of a bioweapon, epidemiology of transmission is 
+unpredictable pending observation of disease transmission. Until the nature of the 
+pathogen is understood and its transmission pattern confirmed, Standard, Contact 
+and Airborne Precautions should be used. Once the pathogen is characterized, if 
+the epidemiology of transmission is consistent with natural disease, Droplet 
+Precautions can be substituted for Airborne Precautions. Emphasize: 1) use of 
+sharps safety devices and safe work practices, 2) hand hygiene; 3) barrier 
+protection against blood and body fluids upon entry into room (single gloves and 
+fluid-resistant or impermeable gown, face/eye protection with masks, goggles or 
+face shields); and 4) appropriate waste handling. 
+Use N95 or higher respirators when performing aerosol-generating procedures. In 
+settings where AIIRs are unavailable or the large numbers of patients cannot be 
+accommodated by existing AIIRs, observe Droplet Precautions (plus Standard 
+Precautions and Contact Precautions) and segregate patients from those not 
+suspected of VHF infection. Limit blood draws to those essential to care. See text 
+for discussion and Appendix A for recommendations for naturally occurring VHFs.  
+Disease  Plague  
+Site(s) of Infection; 
+Transmission Mode  
+Respiratory Tract: Inhalation of respiratory droplets. Comment: Pneumonic 
+plague most likely to occur if used as a biological weapon, but some cases of 
+bubonic and primary septicemia may also occur. Infective dose 100 to 500 
+bacteria. 
+Incubation Period  1 to 6, usually 2 to 3 days.  
+Clinical Features  Pneumonic: fever, chills, headache, cough, dyspnea, rapid progression of 
+weakness, and in a later stage hemoptysis, circulatory collapse, and bleeding 
+diathesis.  
+Diagnosis  Presumptive diagnosis from Gram stain or Wayson stain of sputum, blood, or 
+lymph node aspirate; definitive diagnosis from cultures of same material or paired 
+acute/convalescent serology.  
+Infectivity  Person-to-person transmission occurs via respiratory droplets risk of transmission 
+is low during first 20-24 hours of illness and requires close contact. Respiratory 
+secretions probably are not infectious within a few hours after initiation of 
+appropriate therapy.  
+Recommended Precautions  Standard Precautions, Droplet Precautions until patients have received 48 hours of 
+appropriate therapy. Chemoprophylaxis: Consider antibiotic prophylaxis for 
+HCWs with close contact exposure.  
+FOOTNOTES: 
+1. Wu L-T. A treatise on pneumonic plague. Geneva: League of Nations, 1926. III. Health.  
+2. Kool JL. Risk of person-to-person transmission of pneumonic plague. Clinical Infectious Diseases, 2005; 40 (8): 
+1166-1172 
+3. Butler TC. Plague and other Yersinia infections. In: Greenough WB, ed. Current topics in infectious disease. New 
+York: Plenum Medical Book Company, 1983. 
+Disease  Smallpox  IC-3001- Table 3 
+Infection Control Considerations for High-Priority (CDC Category A) Diseases That May Result from 
+Bioterrorist Attacks or are Considered to be Bioterrorist Threats (CDC page last reviewed: November 5, 2015) 
+Page 4 of 4 
+                                                                                                Revised March 31, 2024/Reviewed September 13, 2024 
+Site(s) of Infection; 
+Transmission Mode  
+Respiratory Tract: Inhalation of droplet or, rarely, aerosols; and skin lesions 
+(contact with virus). Comment: If used as a biological weapon, natural disease, 
+which has not occurred since 1977, will likely result. 
+Incubation Period  7 to 19 days (mean 12 days).  
+Clinical Features  Fever, malaise, backache, headache, and often vomiting for 2-3 days; then 
+generalized papular or maculopapular rash (more on face and extremities), which 
+becomes vesicular (on day 4 or 5) and then pustular; lesions all in same stage.  
+Diagnosis  Electron microscopy of vesicular fluid or culture of vesicular fluid by WHO approved 
+laboratory (CDC); detection by polymerase chain reaction available only in select 
+LRN labs, CDC and USAMRID. 
+Infectivity  Secondary attack rates up to 50% in unvaccinated persons; infected persons may 
+transmit disease from time rash appears until all lesions have crusted over (about 3 
+weeks); greatest infectivity during first 10 days of rash.  
+Recommended Precautions  Combined use of Standard, Contact, and Airborne Precautions until all scabs have 
+separated (3-4 weeks).  
+Transmission by the airborne route is a rare event; Airborne Precautions is 
+recommended when possible, but in the event of mass exposures, barrier 
+precautions and containment within a designated area are most important.  
+ 
+Only immune HCWs to care for patients; post-exposure vaccine within 4 days. 
+ 
+Vaccinia: HCWs cover vaccination site with gauze and semi-permeable dressing 
+until scab separates (≥21 days). Observe hand hygiene. 
+ 
+Adverse events with virus-containing lesions: Standard plus Contact 
+Precautions until all lesions crusted. 
+ 
+Vaccinia adverse events with lesions containing infectious virus include inadvertent 
+autoinoculation, ocular lesions (blepharitis, conjunctivitis), generalized vaccinia, 
+progressive vaccinia, eczema vaccinatum; bacterial superinfection also requires 
+addition of contact precautions if exudates cannot be contained. 
+Disease  Tularemia  
+Site(s) of Infection; 
+Transmission Mode  
+Respiratory Tract: Inhalation of aerosolized bacteria. Gastrointestinal Tract: 
+Ingestion of food or drink contaminated with aerosolized bacteria. Comment: 
+Pneumonic or typhoidal disease likely to occur after bioterrorist event using aerosol 
+delivery. Infective dose 10-50 bacteria. 
+Incubation Period  2 to 10 days, usually 3 to 5 days.  
+Clinical Features  Pneumonic: malaise, cough, sputum production, dyspnea; Typhoidal: fever, 
+prostration, weight loss and frequently an associated pneumonia.  
+Diagnosis  Diagnosis usually made with serology on acute and convalescent serum 
+specimens; bacterium can be detected by polymerase chain reaction (LRN) or 
+isolated from blood and other body fluids on cysteine-enriched media or mouse 
+inoculation.  
+Infectivity  Person-to-person spread is rare. Laboratory workers who encounter/handle 
+cultures of this organism are at high risk for disease if exposed.  
+Recommended Precautions  Standard Precautions  
+ 
+ 
+Reference: Appendix A. Table 3. Infection Control Considerations for High-Priority (CDC Category A) 
+Diseases that May Result from Bioterrorist Attacks or are Considered to be Bioterrorist Threats | Infection 
+Control | CDC 

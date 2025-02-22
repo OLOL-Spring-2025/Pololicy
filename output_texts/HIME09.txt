@@ -1,0 +1,58 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  HIM 
+Our Lady of the Lake Regional Medical Center Chapter:  3 
+Subject:  Scanning Encounter Batches and Loose Batches in 
+EPIC (via Hyland Onbase for Batch Scanning) 
+Section:  E 
+Date of Origination:  March 1, 1999 Supersedes:  
+Date Last: 
+  Revised 
+   
+Reviewed 
+October 2021,Feb. 2018, Dec. 18, 2017 
+September 14, 2003 
+January 26, 2006; July 17, 2006; 
+September 8, 2014 
+June 28, 2009 
+ 
+Serial Code:  HIME09 
+  
+PURPOSE: 
+Scanning is the point where images enter into the EPIC electronic medical record system. 
+ 
+POLICY: 
+Every patient’s medical record will be scanned into the system within a designated turnaround time by 
+the Health Information Management Department. 
+ 
+PROCEDURE: 
+1. Charts will be retrieved, starting with the oldest discharge date for inpatient records and the 
+oldest admit date for ambulatory records, from the shelf labeled “To Be Scanned.”  
+2. Charts will be distributed among the staff, starting with the oldest discharge date for 
+inpatient records and the oldest admit date for ambulatory records. 
+3. Double-click the Hyland Onbase Unity Client icon on the desktop. 
+4. Enter login ID and password on the Hyland Onbase Unity Client Logon Screen and press the 
+enter key.  Select Batch Scanning on the Hyland Onbase Toolbar. 
+5. Place the chart to be scanned in the tray and click the Scan button. 
+6. The employee should pay close attention to the documents as they feed into the scanner to 
+assure correct orientation of the documents and avoid possible double-feeds. 
+7. In the event that the orientation of the document is incorrect or double feed occurs, stop the 
+scanning process.  Pull the document(s) that need to be rescanned and begin scanning again 
+from that document forward. 
+8. The employee should also be watching for any lines appearing on the documents. This 
+indicates that the scanner needs to be cleaned or the bulb needs to be changed.  2 
+9. Put a rubber band or paper clip on the chart and placed in the correctly dated box with the 
+appropriate batch header sheet (labeled Emergency, Ambulatory or Inpatient). 
+10. All work that was not completed should be put back on the shelf so that the next shift can 
+pick up where the first shift left off.  There should never be any work left on the top of 
+terminals, in chairs, on desks, or unlabeled. 
+11. Always clean the scanners at the end of every shift and as needed intermittently throughout 
+the shift. 
+12. For any maintenance problems, contact the Supervisor of the HIM department so she/he can 
+contact a member of the Information Systems Team. 
+13. Report any problems to the supervisor or a member of the management team. 
+ 
+ 
+ 
+___________________________     ____________________ 
+Frank Canova         Date 
+VP of Finance 

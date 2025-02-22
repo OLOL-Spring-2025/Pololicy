@@ -1,0 +1,73 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 1 of 2 
+PHLIS003 
+ 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLIS003 
+ORDERING REGISTERED PATIENT LAB TESTS 
+       Date Issue Date Effective Date 
+ Prepared/Revised By ZJA/LC 10/11/2017 10/11/2017 10/11/2017 
+Reviewed By LC 9/17/2019 Origination Date 
+Medical Director Review A Harton 9/22/2019 JAN 2001 
+ 
+PURPOSE: 
+To describe how to use the computer to order registered patient lab orders utilizing EPIC Hyperspace 
+ 
+Addresses: 
+Supervisors 
+Venipuncture Charge Techs 
+Venipuncture Phlebotomists 
+ 
+POLICY: 
+1. Both Inpatient and Outpatient orders may be requested 
+2. Verify that orders do not already exist in EPIC  
+3. For patient orders that are not registered please bring to outreach personnel during business hours for patient 
+registration and lab ordering. After business hours please bring specimen and order to Central Processing for 
+test ordering 
+4. A physician order is required for any tests being ordered 
+5. If necessary, have a medical technologist from the appropriate laboratory section call the physician for order 
+clarification 
+  
+The vast majorities of samples received in the Laboratory are ordered by the collecting site.  The sample arrives in 
+the laboratory with the laboratory order for testing in the form of a laboratory label with an accession number.  
+Two exceptions include: 
+1. Pre-Surgical and Surgical departments 
+• Samples collected in the surgery areas are hand carried to Central Processing  
+• The samples may not be ordered in the computer due to test complexity or staffing issues 
+• The samples are accompanied with the Surgery–Lab Order form (yellow surgery order form) or 
+Lab Test Request Form with tests being requested by the physician noted 
+• Blood samples that are received from pre-surgery and surgery without laboratory labels are to be 
+ordered by Central Processing and processed in the normal manner 
+• Samples received for non-blood testing are not ordered by Central Processing, non-blood samples 
+are signed in on the Laboratory Inpatient Log as being received in the laboratory and taken to the 
+appropriate testing section 
+• The testing location is responsible for the ordering of requested tests   
+2. Outreach After Hours Samples 
+• Samples are collected at various locations and brought to the laboratory for testing 
+• The samples are accompanied by an order requisition that lists the tests requested by a physician 
+for laboratory testing 
+• The sample is taken to Outreach Registration during normal business hours  OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 2 of 2 
+PHLIS003 
+ 
+ 
+• Samples received after normal business hours are accepted by Central Processing and prepared 
+for testing by the MLA 
+ 
+Limitations of the Procedure 
+1. Must have a physician order to perform patient testing 
+2. Many patients have similar names, be careful to verify patient name before ordering testing 
+3. Verify confusing or illegible orders before requesting patient testing 
+4. Wrongly ordered or incomplete orders can have consequences for the patient 
+5. Refer lab order questions to the appropriate laboratory section 
+ 
+REVISIONS 
+01/2001 (created); 10/11/2017 
+ 

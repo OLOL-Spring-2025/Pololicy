@@ -1,0 +1,37 @@
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center  
+Subject:  Calibration of the Epoc Blood Gas  
+    Analyzer Section: Blood Gas Lab 
+Date of Origination: April 1, 2012 Signature: 
+Date of Last Revision: November 22, 2019  Serial Code: RC9-09A 
+Date of Last Review:  January 31, 2024 
+Purpose 
+To properly read theSiemens Epoc equipment in order to be assured correct values are 
+obtained. 
+ 
+Equipment 
+A. Epoc Reader 
+B. Epoc Host 
+C. Epoc Test Card 
+ 
+Calibrations 
+Calibration fluid is contained in each epoc Test Card within a sealed reservoir.  Each 
+epoc Test Card has a barcode which identifies the card type, serial number, lot number 
+and expiration date.  After insertion, the Test Card engagement process activates a motor 
+that displaces a valve plug in the card to open the card’s sealed calibrator reservoir and 
+then displaces calibration fluid from the reservoir to the measurement region, which is the 
+fluidic channel above the sensor module in the card. This process will occur prior to each 
+blood sample analysis. An analog-to-digital converter converts all analog signals into 
+digital form and then to a wireless transmittable Bluetooth format.  The signals are then 
+transmitted by the epoc Reader to the epoc Host. The system performs calibrations 
+automatically when a new test card is inserted in the epoc Reader.  The operator is not 
+required to take any action for this calibration to occur. The calibration methodology may 
+be further reviewed in the epoc System Standard Operating Procedure Manual beginning 
+on page 3-5.   
+ 
+Errors in calibration 
+If the system detects a problem for a parameter, the system will not analyze a blood 
+sample.  The user will discard the epoc Test Card that failed calibration and a new card 
+will be used.  In the event of multiple failed calibrations, the manufacturer will be 
+contacted for servicing of analyzer.   
+ 

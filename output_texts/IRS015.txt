@@ -1,0 +1,152 @@
+ IRS 015 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Imaging Services Section: Radiation Safety 
+Title: Radiation Monitoring/Badge Program  
+Policy 
+Reference #: IRS015 
+Supersedes #: IRS011 
+Date of Origination: 5/11 Last Date 
+Reviewed: 
+1/17, 12/17,12/18, 5/19, 
+1/21, 3/23, 2/24 
+Last Date Revised: 1/15 
+ 
+PURPOSE: 
+The purpose of this policy is to minimize health risk and ensure personnel are complying with the occupational 
+dose limits and the ALARA principle.  
+ 
+DEFINITIONS: 
+ALARA - “As Low As Reasonably Achievable” which is the approach to radiation protection to manage and 
+control exposures to the workforce and to the general public  
+ 
+Declared pregnant worker - A women who has voluntarily declared to her employer, in writing, her pregnancy 
+for the purpose of being subject to the lower occupational dose limits and monitoring to the embryo/fetus.   
+ 
+Deep dose equivalent - The dose equivalent derived from external radiation at a depth of 1 cm in tissue. 
+ 
+mSv (millisievert) - a unit of measurement - International System of Units term for dose equivalent 
+ 
+NRC - Nuclear Regulatory Commission 
+ 
+RSO - Radiation Safety Officer 
+ 
+TLD badge - thermoluminescence dosimeter 
+ 
+POLICY: 
+A. Monitoring Radiation Exposure  
+Radiation monitoring equipment will be furnished by Our Lady of the Lake Regional Medical Center to 
+persons who are at risk for occupational exposure that may exceed 500mr per year (10% of the 
+applicable radiation dose limits)1 or persons deemed necessary by the RSO and Radiation Safety 
+Committee.  The type and number of badges is under the supervision of the radiation physicist. 
+1. A whole body TLD badge to be worn at collar level, outside the apron, will be furnished to 
+persons working in areas where ionizing radiation is in use. 
+2. At the discretion of the Physicist/Department Manager, a finger TLD badge will be assigned in 
+addition to whole body TLD badges by persons performing implant therapy, preparing 
+radioisotopes, or injection radioisotopes for imaging or therapeutic purposes. 
+3. Personnel are encouraged to notify imaging management in writing as soon as pregnancy is 
+known.  Fetal badges will be provided to declared pregnant personnel and are to be worn at waist 
+level inside the apron for fetal exposure monitoring. 
+ 
+ 
+  IRS 015 
+Page 2 of 3 
+B. Personnel operating and working in a room with fixed ionizing radiographic equipment, personnel 
+operating mobile ionizing radiographic equipment and personnel administering radioactive sources will 
+be issued and required to wear radiation monitoring equipment. 
+ 
+Personnel who are concerned about their level of radiation exposure can request in writing a radiation 
+monitoring badge. Request will be submitted by the imaging manager for consideration to the Radiation 
+Safety Committee. 
+ 
+ 
+C. Rules for Wearing Monitoring Badges.   
+The estimate of radiation exposure made from the monitoring devices will be accurate only if badges are 
+worn correctly.  The following guidelines shall apply to persons deemed necessary to wear a badge: 
+1. The TLD badge shall be worn at all times while working in any radiation area of the medical 
+center. 
+2. Leave the TLD badge in the designated storage place in you work area when not on duty.  Do not 
+take the badge out of the medical center. 
+3. The medical center’s TLD badge is not to be worn while on duty at another facility.  The badge 
+is the property of OLOLRMC and meant to indicate the effectiveness of this medical center’s 
+radiation safety program. 
+4. Never wear a TLD badge issued to another person. 
+5. Do not tamper with the TLD badge. 
+6. Report the loss of a badge immediately to an imaging manager. 
+7. Report any other incident relative to the wearing of the badge (such as accidental exposure when 
+badge is not worn) to an imaging manager. 
+ 
+D. Distribution / Collection / Processing of Monitoring Badges 
+1. New badges will be supplied by the 1st day of the month.  
+2. The previous month’s badges must be returned by the 10th day of the month. 
+3. The TLD badge shall be processed monthly.   
+4. An individual’s TLD badge shall be processed immediately when it is suspected that he or she 
+might have received a single exposure > 1mSv (100mRem) or a cumulative exposure > 2 mSv 
+(200 mRem) in 1 week. 
+5. Personnel may view their exposure report through an imaging manager. 
+ 
+E. Personnel working at other facilities who are at risk for occupational exposure that may exceed 500mr 
+per year 
+1. Personnel working at other facilities should notify an imaging manager and complete a request for 
+additional occupational exposure levels form. 
+2. If the alternate employer reports exposure through Landauer, the employee’s cumulative exposure 
+levels will be monitored by the Physicist by means of the METER report. 
+3. Employees working at other facilities that do not report through Landauer will be sent a “Request for 
+Occupational Exposure levels” form for the facility to complete and return to Imaging Services.   
+ 
+F. Acceptable Levels 
+1. The Physicist will review and record results of personnel monitoring not less than once in any 
+calendar quarter. 
+i. Exposures of individuals to less than Investigational Level I – No further action will be 
+taken except when deemed appropriate by the Physicist or RSO.  
+ii. Exposures of individuals equal to or greater than Investigational Level I, but less than 
+Investigational Level II – The Physicist or RSO will review the exposure of each 
+individual whose quarterly exposure equal or exceed Investigational Level I and will  IRS 015 
+Page 3 of 3 
+report the results of the review at the first RSC meeting following the quarter when the 
+exposure was reported.  No action related specifically to the exposure is required unless 
+deemed appropriate by the RSC. 
+iii. Exposures of individuals exceeding Investigation Level II – The Physicist or RSO will 
+contact the person with their level and request the completion of an investigational form 
+(the cause of the elevated exposures). 
+ 
+ 
+Department   Group   Level I (mrem) Level II (mrem) 
+Nuclear Medicine All 250 500 
+Patient Care All 250 500 
+Radiology Unit Staff 
+Radiologist 
+250 
+250 
+500 
+500 
+Cath Lab Unit Staff 
+Cardiologist 
+250 
+250 
+500 
+500 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REFERENCES: 
+ 
+The Louisiana Medical Radiation Health and Safety Act R.S. 37:3200 through R.S. 37:3219 
+ 
+The Louisiana Medical Radiation Health and Safety Act R.S. 40:2100 through R.S. 40:2118 
+ 
+Environmental Regulatory Code LAC 33:XV 
+ 

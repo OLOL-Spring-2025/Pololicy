@@ -1,0 +1,117 @@
+NICP-010 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Neonatal Intensive Care 
+Subject:  Oxygen Therapy Management in the 
+Neonate 
+Section:  Patient Care 
+Date of Origination:  October 23, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+April 23, 2021 
+August 23, 2024  
+Serial Code:  NICP-010 
+  
+PURPOSE: 
+To provide recommendations for oxygen therapy management in the neonate. 
+ 
+POLICY: 
+A. Oxygen may be delivered without a physician/NNP order in the event of infant cyanosis by a trained 
+clinician.  After oxygen has been started, a pulse oximeter should be placed, and oxygen adjusted 
+according to established guidelines and the fraction of inspired oxygen (FiO2) measured.  In this event, 
+the physician/NNP should be notified as soon as possible. 
+B. In the absence of an emergent situation, a physician/NNP order is required for the delivery of oxygen.  
+Orders should include the percentage of oxygen to be delivered, parameters for pulse oximetry, and the 
+mode of oxygen delivery.  Orders should be reviewed by nursing staff and Respiratory Therapist 
+according to the policy and discussed with the provider team during rounds. 
+C. Pulse oximeter alarms should be set at prescribed levels and not changed in response to frequent alarms.  
+Alternatively, wider alarm limits may help decrease alarm fatigue. 
+D. When oxygen increases are determined to be necessary, these should be done in increments of 3%-5% at 
+a time and patient should be observed for a length of time to ensure appropriate response.  If recovery 
+occurs, attempts should be made to wean the oxygen back to maintenance levels as soon as possible.  
+E. For premature infants, a pulse oximeter and oxygen blender/analyzer should be in place even during 
+short periods of oxygen administration. 
+F. Oxygen blender or In-line oxygen analyzers should be available when oxygen is being delivered over an 
+extended period of time. 
+ 
+ 
+PROCESS: 
+A. The alarm ranges for oxygen saturation may be different for specific populations.  Unless specified 
+otherwise by physician/NNP order, alarm settings are: 
+a. < 1500g or < 32 weeks gestational age at birth, pulse oximeter alarm limits set at 85-96% Sa O2 
+targets 88-95% 
+b. 32-36 weeks gestation at birth, pulse oximeter alarm limits set at 88-95%;Sa O2 targets 92-97% 
+c. >36 gestational age at birth, pulse oximeter alarm limits 90-95% 
+d. Infants at risk for PPHN, pulse oximeter alarm limits 93-98%;Sa O2 targets 95-98% 
+e. Infants on FiO2 0.21 on any respiratory device or on room air, upper alarm may be set at 100% 
+ 
+B. Alarms should be responded to immediately and silences at the bedside while evaluating the alarms. 
+a. Perform full assessment NICP-010 
+Page 2 of 3 
+ 
+b. Check the pulse oximeter probe security on the patient’s extremity. 
+c. Observe infant’s activity/motion. 
+d. Check the pulse oximeter waveform for consistency. 
+e. Confirm the pulse rate on the pulse oximeter (+/-5 beats/minute) the HR on the EKG monitor for 
+at least 20 seconds before confirming accurate saturation. 
+f. Record the actual saturation reading on the monitor at the time of event if it was an actionable 
+event. 
+C. The target ranges for oxygen saturation may be different for specific patient populations. The following 
+parameters will be utilized for target saturations: 
+a. Infants 23-31 weeks + 6 days GA at birth: 
+• Target saturation 88-95% 
+• Target saturations continue until retina is fully vascularized with no ROP and/or is 
+cleared by pediatric ophthalmologist 
+b. Infants: > 32 GA at birth 
+• Target saturations 92-97% 
+c. Infants with PPHN&/or on iNO 
+• Target saturations 95-98% 
+D. In the event of low oxygen saturation alarms: 
+a. Both the infant and monitor should be evaluated when a low saturation alarm occurs before 
+increasing FiO2 levels. 
+b. Before increasing FiO2, the level of saturation and length of time at that measured saturation 
+should be judged.   
+c. Allow the infant to recover spontaneously rather than quickly increasing oxygen delivery when it 
+may not be necessary. 
+E. When weaning oxygen, it should be done quickly (but in small doses at a time) enough to prevent high 
+saturation alarms, but cautiously enough to prevent having to abruptly increase oxygen delivery. 
+F. When it is necessary to increase oxygen delivery, a healthcare provider should stay at the bedside until 
+either the oxygen has been weaned back to baseline or this new oxygen level has been established as 
+necessary to maintain saturation within the prescribed range. 
+• The physician/NNP should be notified when an increase in FiO2 of 10% or more is 
+required and the registered nurse or respiratory care practitioner is unable to wean the 
+infant back to baseline. 
+G. For infants receiving mechanical ventilation, all parameters should be evaluated and adjusted to 
+minimize the need to increase oxygen delivery during care procedures, including suctioning. 
+H. Increasing oxygen delivery to an infant who is apneic should not be the first choice of intervention.  
+Initial response to apnea is tactile stimulation, followed by continuous positive airway pressure and 
+progressing to artificial ventilation.  In the presence of assisted ventilation or emergencies, additional 
+oxygen may be required to increase saturation within the prescribed range. 
+I. All events should be documented in the electronic medical record. 
+ 
+See Ebsco Health Online Resource for Oxygen Therapy Administration for the Newborn NICP-010 
+Page 3 of 3 
+ 
+ 
+REFERENCES:  
+Kayton, A., Timoney, P., Vargo, L., and Perez, J.A. (2018). A Review of Oxygen Physiology and Appropriate 
+Management of Oxygen Levels in Premature Neonates. Advances in Neonatal Care, 18 (2), p. 98-104. 
+ 
+Koehn, A.R. (2018). The Delicate Balance: Managing Oxygen Treatment in Neonates. Advances in Neonatal 
+Care, 18 (5), p. 1-11.  
+ 
+Managing Oxygen Therapy in the Neonate (2018).  Seattle Children’s. 
+https://www.seattlechildrens.org/globalassets/documents/healthcare-professionals/neonatal-
+briefs/managing-oxygen-neonatal-brief.pdf  
+ 
+Oxygen saturation SpO2 level targeting in neonates. (2016, June). Royal Children's Hospital Melbourne. 
+https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Oxygen_Saturation_SpO2_Level_Targeti
+ng_Premature_Neonates/ 
+ 
+Beauman, S.S & Bowles, S. (2019).  Policies, Procedures, and Competencies for Neonatal Nursing Care (6th 
+Ed).  National Association of Neonatal Nurses. 
+ 
+ 

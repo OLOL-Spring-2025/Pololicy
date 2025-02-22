@@ -1,0 +1,88 @@
+  
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: Identification and Addressing of Broken 
+Equipment 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 5/1/2024 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP# 
+ Page 1 of 2 
+ 
+Purpose:  To ensure prompt resolution of broken equipment issues and maintain equipment readiness for 
+operational use. 
+ 
+Procedure:   
+ Identification of Broken Equipment: 
+• Any malfunctioning equipment must be addressed immediately. Broken equipment refers to 
+any device not functioning as intended. 
+ 
+Preparation for Reporting: 
+• Ensure equipment is cleaned before Trimedx notification. Equipment that cannot be used 
+should be placed in the designated Broken Equipment Bin with a note attached with the team 
+members' names, a description of the issue, and a date. Damaged equipment that will not fit in 
+the Broken Equipment Bin will be brought to the respiratory department. 
+• If respiratory equipment malfunctions while on a patient, it will be bagged and NOT 
+disassembled before bringing it to the respiratory department. In addition to reporting the 
+malfunctioning equipment to Trimedx, a safety event must be entered, which must include the 
+CEID # of the malfunctioning equipment.  
+ 
+Handling Equipment: 
+• Place broken equipment in designated Broken Equipment Bin located in the following 
+areas: 
+• HVI 6 ABG Labs 
+• HVI 9th Lab 
+• PCU Equipment Storage Room 
+• ER Trauma ABG Lab 
+• Respiratory Office 1st Floor 
+RT Assistance is responsible for bi-weekly rounds to collect equipment from areas with Broken 
+Equipment Bins. The broken equipment will be brought to the dirty equipment room in the respiratory 
+department, and RT Assistance will notify the charge supervisor of the damaged equipment that has 
+been collected.  
+ 
+Reporting Procedure: 
+• The therapist must contact Trimedx (https://service.trimedx.com/tcp) or call the Trimedx 
+operators at 225-765-7900 to report equipment issues.  The supervisor will ensure that this 
+process is completed.  
+Staff will be required to provide the following information: 
+1. CEID# (Equipment #) located on the Trimedx sticker affixed to the equipment.   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: Identification and Addressing of Broken 
+Equipment 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 5/1/2024 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP# 
+ Page 2 of 2 
+ 
+2. Description of the equipment issue. 
+3. State that the equipment is located in the respiratory department, where Trimedx 
+can pick up the equipment. 
+4. Confirm whether Trimedx can address the issue the next day based on the time of 
+report. 
+5. Attach the provided reference number from the Trimedx website or the operator 
+to the equipment.    
+ 
+  
+Logging and Tracking Equipment 
+1. The Supervisor or Charge RT will enter the following information into the 
+Equipment Service Log located on the t-drive (T:\Data\Respiratory 
+Supervisors\Forms\Assignment Sheets\Main OLOL Assignment Sheet).  
+a. Date 
+b. Time 
+c. Item to be serviced (i.e., Ventilator, Vapotherm…) 
+d. CEID # of the respiratory equipment 
+e. Brief description of the equipment issue 
+f. Safety Event ID (if applicable) 
+g. Initial of the Supervisor or Charge RT 
+h. When the equipment is returned from BioMed and deemed suitable for 
+service, the supervisor or charge RT will initial and date the equipment's 
+return.  
+ 

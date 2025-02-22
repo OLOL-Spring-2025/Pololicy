@@ -1,0 +1,47 @@
+ ECUS023 
+Page 1 of 2 
+OUR LADY OF THE LAKE HEALTH 
+Policy Manual: Environment of Care Section: Utilities Management 
+Title: Utilities Failure - Electrical 
+Policy 
+Reference #: ECUS023 
+Supersedes #:   
+Date of 
+Origination: May 1997 Review Date: 10/31/2024 
+Revision Date: 06/06/2018,10/31/24 
+      
+PURPOSE: 
+To provide a safe physical environment for patients, staff, and visitors at all Our Lady of the Lake Health 
+(OLOL) network locations. 
+POLICY: 
+OLOL has designed and engineered through the use of automated transfer switches, emergency generators and 
+alternative feeds to prevent total and/or partial loss of electrical supply. 
+PROCEDURES: 
+ Partial Loss (loss of one feeder) 
+1. All emergency generators will cycle on immediately at the time of the outage. 
+2. Ensure activation of the automatic tie switch at the control board of incoming feeds. 
+3. All emergency generators will cycle off or time out if tie switch is successful. 
+4. Verify failed power with Entergy utilities dispatch.  1-800-766-1648 Entergy Business Office. 
+5. Call Entergy account representative to get a report of failure and ETA on any repairs. 
+6. Perform retransfer to normal operations, (both feeds used) once the danger of re-failure is over and at a 
+time convenient to the hospital. 
+Total Loss (loss of both feeders) 
+All emergency generators will cycle on immediately at the time of the outage. 
+1. Ensure operation of all emergency generators.  
+2. Ensure all transfer switches have transferred to "emergency positions". 
+3. At time of a total feeder failure, Natural gas generators will start simultaneously. 
+4. Automatic sequencing of natural gas generators will begin. 
+5. Switchgear will automatically start to connect hospital loads to the generator bus. 
+6. Emergency generators will cycle off automatically. 
+7. The hospital will be on full generator power. 
+8. Monitor capacity so the system does not go into priority shed sequence. 
+   ECUS023 
+Page 2 of 2 
+NOTE:  
+Emergency generators are designed for load carried. 
+  
+REFERENCES: 
+Joint Commission, Environment of Care (EC).02.05.01, Element of Performance (EP) 21, EC.02.05.07, and 
+Emergency Management (EM).02.01.01, EP 12  
+ 
+ 

@@ -1,0 +1,236 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Immediate-Use Compounding Policy Reference #: PH0527 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+ 
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL 
+Non-Oncology Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, 
+OLOL Children’s Hospital Inpatient Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+  
+1. Overview and Scope 
+1.1 This policy provides the requirements and procedures for Immediate Use Compounded Sterile 
+Preparations (CSPs) prepared and intended for direct and immediate administration within 
+FMOLHS Baton Rouge Market Pharmacies.   
+1.2 The goal of this procedure is to minimize the risk to medications prepared under immediate use 
+conditions from: 
+• Contact with nonsterile surfaces 
+• Introduction of particulate matter or biological fluids 
+• Mix-ups with other conventionally manufactured products or CSPs 
+1.3. Immediate Use CSPs are compounded in less than ISO Class 5 conditions (e.g., bedside, 
+countertop, operating room), with 3 or fewer sterile products, and a maximum beyond use date 
+(BUD) of 4 hours starting from the initiation of compounding.   
+• CSPs exceeding these parameters adhere to the requirements of Category 1, 2, or 3 CSPs. 
+1.4. Certain drug preparation activities occurring in non-classified compounding areas fall outside the 
+scope of USP <797> and, by definition, this SOP.  Alternatively, they are governed by other USP 
+<797> regulations or related USP Chapter requirements, including: 
+• Allergenic extract prescription sets  – are compounded according to USP <797> regulations 
+specifically defined for this type of sterile drug product.  
+• Blood-derived and other biological materials manipulations  – manipulations are visibly 
+separated from other compounding activities and equipment used in CSP preparation and are 
+governed by other internal protocols and SOPs.   
+• Conventionally manufactured sterile medications prepared per approved labeling – mixing, 
+reconstituting, or other manipulations performed according to the manufacturer’s approved 
+labeling and directions are not governed by this SOP if the following conditions are met (if 
+not, they are subject to all of the regulations in USP <797> including this SOP): 
+o Product prepared for a single dose given to a single patient only 
+o Manufacturers approved labeling instructions for the diluent, resultant strength, the 
+container closure system, and storage time are upheld. 
+• Proprietary bag and vial systems –  
+o Immediate Administration - docking and activation per the manufacturer’s labeling 
+for immediate administration to an individual patient is not considered compounding.  o Future Activation & Administration - docking of proprietary bag and vial systems for 
+future activation and administration is considered compounding and is governed by 
+this and related sterile practice SOPs depending on the BUD assigned (the maximum 
+BUD for Immediate Use Compounding is < 4 hours; if a BUD in excess of 4 hours is 
+assigned, the docking manipulation must occur in a classified sterile compounding 
+area and follows requirements the related Category 1 or 2 compounding).  
+• Hazardous CSPs – are compounded within negative pressure-controlled environments unless 
+a hazardous drug risk assessment has been performed and documented allowing for 
+immediate use compounding outside of a controlled environment. 
+ 
+2. Policy  
+2.1. CSPs are eligible for immediate use compounding when all of the following criteria are met:  
+• Personnel are trained and demonstrate competency in aseptic technique and other skills 
+necessary to perform immediate use compounding. 
+• When preparing immediate use CSPs, personnel use proper aseptic technique. 
+• No more than 3 sterile products are used in the compounding of an immediate use 
+medication. An IV fluid bag, diluent used for reconstitution, or similar component count as 
+one of the sterile products. 
+• BUDs are determined from the start of the compounding process and do not exceed 4 hours, 
+independent of storage conditions (e.g., room temperature or refrigeration) and are subject 
+to evidence-based stability considerations that require a shorter BUD. 
+• Single dose starting components are only used for one patient. Unused drug or components 
+drawn from a single-dose container are properly discarded after the preparation of the CSP.   
+• Immediate use CSPs are labeled if the medication does not remain in the direct line of site of 
+the preparer from the time of compounding until administration. Immediate use CSP labeling 
+includes 
+o Names and amounts of all active ingredients 
+o Name or initials of the person who prepared the CSP 
+o Date and time from start of CSP preparation  
+o Exact 4-hour time period within which the administration of the CSP must occur 
+2.2. Administration of immediate use compounds begins within 4 hours of the start of CSP 
+preparation or is promptly and appropriately discarded. 
+2.3. Other considerations are made, depending on the urgency of the patient care situation, to help 
+ensure the sterility of the immediate use CSP, including but not limited to: 
+• Ensure the area where immediate use compounding occurs is not located immediately 
+adjacent to a water source, under or around a high particle generating source (e.g., directly 
+under an air vent or next to a printer), or in a high traffic area.  
+• If the only area for preparation is near a sink, ensure a splash guard is installed to prevent 
+cross-contamination.  
+2.4. A Master Formulation Record is created for immediate use CSPs prepared for more than one 
+patient.  When these preparations are compounded, the Master Formulation Record is followed, 
+and a Compounding Record is created in a written or electronic format that  is retained and 
+readily accessible.  
+ 
+3. Roles & Responsibilities 
+3.1 The Designated Person(s) (DP): • Oversees training and competency assessment of personnel performing Immediate Use 
+Compounding; determine corrective action plans for competency deficiencies. 
+• Ensures ongoing compliance with this SOP.  
+• Collects and retains training and competency documentation for Compounding Personnel in 
+a readily retrievable format.   
+• Partners with other departments and health care professionals performing immediate use 
+compounding (e.g., nursing, anesthesiology) to ensure personnel who compound immediate 
+use sterile preparations receive appropriate education and training necessary to s afely 
+perform related job duties. Review immediate use training records every 12 months. 
+3.2 Personnel performing immediate use compounding: 
+• Successfully complete all required training and competencies prior to performing immediate 
+use compounding.   
+• Participate in ongoing training and competencies as determined by the DP. 
+ 
+4. Procedure 
+4.1 Training and Competency Assessments 
+• Personnel compounding immediate use CSPs are trained and demonstrate competency in the 
+skills and foundational knowledge required to perform their job duties prior to compounding 
+independently.  Training, knowledge assessments, and observed competencies ar e 
+documented, readily accessible, and include the following core skills:  
+o Immediate use CSP component definition and related requirements 
+o Hand hygiene, gloving, and garbing  
+o Selecting, cleaning, and staging of compounding area 
+o Calculations, measuring, and mixing  
+o BUD assignment, stability considerations, and storage conditions 
+o Aseptic technique and achieving and/or maintaining sterility 
+o Labeling conditions and requirements 
+o Documentation of the compounding process 
+• Successful or “passing” results for the observed Sterile Core Competencies and Knowledge 
+Assessment are: 
+ 
+Observation Validation Initial 
+Prior to Compounding 
+Independently 
+Ongoing 
+Every 12 Months or As 
+Needed 
+Competency-based 
+checklist with 100% 
+proficiency 
+USP<797> & 
+Sterile 
+Compounding 
+Principles 
+Knowledge Exam 
+> 80% cumulative 
+score 
+> 80% cumulative 
+score 
+ 
+ 
+• Observed Competency Assessments are performed initially and assessed every 12 months to 
+validate sterile practice and aseptic technique competency including:  
+o Hand hygiene, gloving and garbing 
+o Preparing and cleaning the compounding area 
+o Aseptic technique • Failure of observed competencies or knowledge assessments (requiring > 80% passing score) 
+results in retraining and reevaluation.  Repeated failures and/or a pattern of failures over time 
+are assessed and investigated by the Designated Person(s) or a designee.  A remediation plan 
+is developed up to, and including, formal corrective action and suspension of immediate use 
+compounding duties until required knowledge and skills have been successfully performed 
+under direct observation and by written or electronic assessments.  
+4.2 Immediate Use Compounding Procedure 
+• Select and prepare a work surface that is free of clutter and is sanitized with an approved EPA-
+registered one-step cleaner prior to starting the compounding process. 
+• Stage medications and supplies in such a way as to reduce the risk of introduction of particulate 
+matter or biological fluids, or mix-up with other conventionally manufactured products or CSPs 
+before, during, and after preparation of the CSP. 
+• Perform hand hygiene and don medical grade gloves at a minimum, don other personal 
+protective equipment (PPE) as available and the situation warrants.  Sanitize gloves with 70% 
+isopropyl alcohol (IPA) prior to compounding and as needed during compounding u p to 
+administration of CSP.  Change gloves if they become torn or punctured. 
+• Sanitize critical sites (e.g., vial stoppers, ampule neck, injection port of an IV bag) with sterile 
+70% isopropyl alcohol wipes prior to puncture or entry.  
+• Prepare CSPs in accordance with evidence -based information for physical and chemical 
+stability including, but not limited to, approved labeling mixing and storage requirements, 
+stability and compatibility studies and data.  
+• Use proper aseptic technique during CSP compounding manipulations. 
+• Assign the most conservative BUD to the CSP possible that does not exceed 4 hours from the 
+start of compounding.  If administration does not occur within the assigned BUD ( < 4 hours), 
+promptly and appropriately discard the CSP. 
+• Ensure single dose starting components are only used for one patient and dispose of unused 
+drug or components drawn from a single-dose container appropriately. 
+• When immediate use CSPs are compounded for more than one patient as a batch, refer to the 
+Master Formulation Record for compounding instructions and ensure a Compounding Record 
+is created, retained, and readily accessible. 
+• If the CSP(s) cannot remain in the direct line of site of the preparer from the time of 
+compounding until administration, label the CSP (or individual dosing units if prepared for 
+multiple patients) with the following: 
+Names and amounts of all active ingredients 
+Name or initials of the person who prepared the CSP 
+Date and time from start of CSP preparation  
+Exact 4-hour time period within which the administration of the CSP must occur. 
+• Prior to dispensing, perform a final visual verification of the CSP(s) and reject the preparation 
+if visual contamination  is found.  
+• Ensure administration of the CSP begins within 4 hours of the start of compounding.  Promptly 
+and safely discard of the CSP if administration does not occur within the 4-hour timeframe. 
+ 
+5. Definitions 
+5.1. Administration: The direct application of a sterile medication to a single patient by injecting, 
+infusing, or otherwise providing a sterile medication in its final form. 5.2. Aseptic technique: A set of methods used to keep objects and areas free of microorganisms and 
+thereby minimize infection risk to the patient. It is accomplished through practices that maintain 
+the microbe count at an irreducible minimum. 
+5.3. Beyond-Use Date (BUD):  The date and time after which a CSP shall not be used, stored, or 
+transported. The date is determined from the date and time the preparation is compounded. 
+5.4. Classified area: An area that maintains an air quality classification based on the ISO standards (see 
+also the definition for ISO class). 
+5.5. Component: Any ingredient used in the compounding of a preparation, including any active 
+ingredient, added substance, or conventionally manufactured product.  
+5.6. Compounded sterile preparation (CSP):  A preparation intended to be sterile that is created by 
+combining, admixing, diluting, pooling, reconstituting, repackaging, or otherwise altering a drug 
+product or bulk drug substance. 
+5.7. Conventionally manufactured product: A pharmaceutical dosage form, usually the subject of an 
+FDA approved application, and manufactured under current good manufacturing practice 
+conditions. 
+5.8. Critical site: A location that includes any component or fluid pathway surfaces (e.g., vial septa, 
+injection ports, and beakers) or openings (e.g., opened ampules and needle hubs) that are 
+exposed and at risk of direct contact with air (e.g., ambient room or HEPA filtered), moisture (e.g., 
+oral, and mucosal secretions), or touch contamination. 
+5.9. Designated person(s): One or more individuals assigned to be responsible and accountable for 
+the performance and operation of the compounding facility and personnel in the preparation of 
+CSPs. 
+5.10. Garb: Items such as gloves, garments (e.g., gowns), shoe covers, head and facial hair covers, 
+masks, and other items designed to reduce particle -shedding from personnel and minimize the 
+risk of contamination of CSP(s).  
+5.11. Hazardous drug (HD):  Any drug identified by at least one of the following six criteria: 
+carcinogenicity, teratogenicity or developmental toxicity, reproductive toxicity in humans, organ 
+toxicity at low dose in humans or animals, genotoxicity, or new drugs that mimic existing HDs in 
+structure or toxicity. 
+5.12. Immediate Use CSP:  CSP aseptically compounded outside of ISO classified air for direct and 
+immediate administration to a single patient with a maximum BUD of 4 hours from the initiation 
+of compounding. 
+5.13. IPA: Isopropyl alcohol. 
+5.14. PPE: Personal protective equipment. 
+ 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+ 
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review:                        11/2025 
+ 
+7.1 Initial version published by Wolters Kluwer 2022.  7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3 Reviewed with formatting changes 11/2024. 
+ 
+ 
+ 
+ 

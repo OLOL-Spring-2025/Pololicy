@@ -1,0 +1,95 @@
+OLOLRMC MAIN AND AFFILIATE LABORATORIES 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 1 of 2 
+LBA028 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA028 
+REAGENT HANDLING AND STORAGE 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 1/23/2024 2/15/2024 2/15/2024 
+Lab Administration Review J. Teague 2/2/2024 Origination Date 
+Laboratory Medical Director Review A Nunez 2/9/2024 3/17/15 
+ 
+ 
+PRINCIPLE 
+At least weekly, laboratory supply and reagent inventories are checked and ordered to 
+prevent unnecessary cessation or referral of laboratory services.  Reagents and other 
+supplies with a high-test volume will be ordered in duplicate or more, as required.  When 
+the container in use is empty, a second container is opened, and a replacement is ordered.  
+As inventory is received, stock is rotated by placing the most recently received supplies 
+toward the back, and the older inventory toward the front.  Supplies and reagents with 
+shorter expiration dates are used prior to ones with longer expiration dates. 
+ 
+PROCEDURE 
+A. Upon receipt, all reagents and supplies are labeled with the date of receipt. 
+B. Check all reagents and supplies for appropriate shipping temperature – i.e., if the 
+reagent is to remain cold, inspect for cold packs/dry ice and notify the department 
+supervisor of any discrepancies. 
+C. Reagents are stored and handled as recommended by the manufacturer.  Prepared 
+reagents are prepared as recommended by the manufacturer, properly stored, mixed 
+when appropriate and discarded when stability parameters are exceeded.   
+D. All reagents and supplies are to be placed in the designated storage areas immediately 
+– refrigerator, freezer, or room temperature storage. 
+E. Reagent Kits  
+1. If there are multiple components of a reagent kit, the lab will use components of 
+reagent kits only within the kit lot unless otherwise specified by the 
+manufacturer. 
+2. Recommendations of the manufacturer for the proper use of reagents and 
+controls in kit procedures are followed. 
+3. If there are multiple components of a reagent kit, all components of the kit 
+must be used within the expiration date printed on the container/vial. 
+F. For individually packaged reagents/kits, the monitoring of reagent quality and stability 
+is based on the volume of usage and storage requirements.  Processing of periodic “wet 
+controls” is used to validate reagent quality, storage maintenance and operator 
+technique. 
+G. As applicable and appropriate, all reagents, calibrators and aliquoted solutions must 
+be dated and properly labeled, with: OLOLRMC MAIN AND AFFILIATE LABORATORIES 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 2 of 2 
+LBA028 
+1. the contents and quantity (e.g., 10.0 mL bleach) 
+2. concentration or titer (e.g., 1:50 bleach solution) 
+3. storage requirements (e.g., refrigerate at 2-8°C) 
+4. date prepared or reconstituted. 
+5. expiration date 
+a. A new expiration date must be recorded if the opening of the container 
+changes the date, storage requirements, etc.  
+b.  Labeling with “date received” and “date opened “is useful but not 
+required.   
+6. Technical staff initials 
+H. Reagents and materials of substandard reactivity and deterioration may not be used. 
+I. When discovered, all expired reagents and supplies are to be removed from the 
+laboratory by discarding in the appropriate waste containers – biohazard, chemical 
+waste, or sink. 
+J. Prior to patient use, all new reagent lot numbers and/or shipments are validated with a 
+suitable reference material before or concurrently.  External QC materials tested on    
+the previous lot are used as the reference material. 
+K. Each reagent purchased or prepared is tested for expected biochemical results. 
+L. Acceptability Criteria for new lot/shipments received – QC results within range are 
+considered acceptable.  New lot/shipment may be released for use in patient testing. 
+M. Expiration dates  
+1. Reagents and other supplies may NOT be used past the expiration date printed 
+on the container/vial unless there is a written policy specifically exempting the 
+reagent and its use detailed in the policy. 
+2. Expiration dates are assigned to any reagents that do not have a manufacturer 
+provided expiration date.  The assigned expiration date is based on known 
+stability, frequency of use, storage conditions, and risk of contamination.   
+N. Storage requirements  
+Reagents must be stored as recommended by the manufacturer to prevent 
+environmentally induced alterations that could affect test performance.  If ambient 
+storage temperature is indicated, there must be documentation that this temperature has 
+been maintained and corrective action taken when tolerance limits are exceeded.   
+ 
+ 
+REFERENCES 
+CAP Checklist: COM.30450 
+CLSI EP26-A, User Evaluation of Between-Reagent Lot Variation, September 2013. 
+ 
+REVISIONS 
+3/17/15 (created), 1/23/2024. 
+ 
+ 
+ 

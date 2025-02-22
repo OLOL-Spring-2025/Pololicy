@@ -1,0 +1,707 @@
+ 
+PolicyROL HIMR22mber_Policy Name 
+1 
+ 
+RESPONSIBLE DEPARTMENT: 
+Health Information Management  
+SUBJECT:  
+Release of Information 
+PAGES: 
+15 
+REPLACES POLICY (NUMBER/DATE): 
+Policy # and date it was last effective 
+ORIGINAL EFFECTIVE 
+DATE:  
+June 1990  
+REVISIONS EFFECTIVE: 
+August 2020 
+POLICY NUMBER:  
+HIMR22 
+ 
+Purpose: 
+The purpose of this policy is to assure the sanctity of the communications between a patient and his/her health 
+care provider. 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+PolicyROL HIMR22mber_Policy Name 
+2 
+ 
+Policy: 
+It is the policy of the Health Information Management Department that all requests for health records 
+(excluding outpatient visits) including requests for patients currently under treatment, shall be directed to the 
+Health Information Management Department. All information in the medical record is confidential and the 
+release of information will be closely controlled. 
+ 
+I. A properly completed and signed authorization is required for release of all health information except: 
+ 
+A. As required by law 
+B. For release to another health care provider currently involved in the care of the 
+patient 
+C. For medical care evaluation 
+D. For research and education 
+E.  See Tau Center policy and procedure for substance abuse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+PolicyROL HIMR22mber_Policy Name 
+3 
+POLICY: 
+ 
+II. In keeping with the tenet of informed consent, a properly completed and signed authorization to release 
+patient information shall include at least the following data: 
+ 
+A. Patient name, date of birth and social security number (last 4 digits) to properly identify the 
+correct individual. 
+ B. Name of the Individual or institution that is to receive the data. 
+ C. Purpose of Disclosure 
+D. Specific time period to be covered and the extent or nature of information to be  released. 
+E. Date that consent is signed (NOTE: date of signature must be later than date of information 
+with the exception of short term and long term disability request for no more than 1 year from 
+the signature date.) 
+F. Signature of the patient or legal representative (original signature and/or only forms of 
+electronic signatures accepted if it has a DocuSign or E Sign under signature and dates are 
+required from attorneys unless it is stated that the copy serves as the original for releasing 
+information). 
+1. In the case of treatment given a minor without parental knowledge, the hospital shall 
+refrain from releasing the portion of the record relevant to this episode of care when 
+responding to a request for information for which the signed authorization is that of the 
+parent or the legal representative. An authorization by the minor will be required in this 
+instance.  
+2. Legal representative is a parent or legal guardian. Proof of legal guardianship must be 
+shown. 
+  3. If a minor is married, the marriage license must be shown. 
+  4. If a minor is emancipated, proof of emancipation must be shown.   
+  5. Incapacitated or mentally incompetent. 
+Legal guardian must show “power of attorney” or proof of “conservator” status. 
+   
+  6. Deceased Patients – Rule of Succession 
+ 
+For deceased patients an executor of the estate, informant on death certificate, spouse, 
+children, sibling or parent can sign release with appropriate legal documentation. 
+  
+ 
+III.  All requests for information shall be referred to a Supervisor or the Director/Manager of Health 
+Information Management. The diagnosis or other medical information shall never be released by 
+personnel on the nursing units or in ancillary department  
+ 
+IV.  In-house patients requesting to review their records will be referred to Medical Records.  The 
+request will be handled by established procedure, including notification of the attending physician. 
+(Reference OOHIM001) 
+ 
+V. Information released to authorized individuals/agencies shall be limited to that                        
+information to fulfill the purpose stated in the authorization. 
+  
+PolicyROL HIMR22mber_Policy Name 
+4 
+VI. Identification must be shown for those wishing to inspect/audit the records. Once the list or 
+description of records to be inspected has been received, Health Information Management 
+personnel will locate the records, provide portions of the record requested by review or entire 
+record if so requested and make the records accessible to the inspectors with necessary and 
+appropriate authorization.  During an onsite inspection, Health Information Management designee 
+will remain with the inspector(s) while the records are being inspected or reviewed electronically. 
+They will do so in order to assist in the review process and to ensure the security of the information 
+within the records under audit. 
+ 
+VII. Release of Information – Facsimile Transmission   
+A. Outgoing patient-related information for continuity of care may be faxed to the physician of 
+record without patient authorization when the physician supports the request for expedited 
+communication with a reasonable explanation of need.  
+B. Protected Health Information (PHI) will only be sent via fax when the request is made for 
+patient care purposes.  Any other requests for PHI to be received via fax shall be approved by 
+the Release of Information Supervisor or the Director/Manager of Health Information 
+Management. 
+C. The individual who sends the fax is responsible for documenting receipt of a fax verification 
+and placing a follow-up telephone call to the fax recipient to ensure that the fax was properly 
+routed.   
+D. A fax coversheet will be used when faxing PHI.  The cover sheet will contain a notice alerting 
+the recipient that the information is confidential.  The notice will contain instructions on action 
+to be taken if the information has been received in error.   
+E. In the event that a fax containing PHI has been misrouted, the sender of the fax shall contact the 
+unintended recipient and request either the return or destruction of the document.  Steps shall be 
+taken to remedy the problem that caused the misdirection.  The sender shall provide written 
+notice to the Privacy Officer that a misrouting has occurred.  Each of these steps shall be 
+documented in writing by the sender of the fax.   
+ 
+VIII. Release of Information – Telephone 
+Define what may be released over the telephone and to whom it may be released without a written 
+release of information in accordance with applicable regulations for  release of information. 
+ 
+A. General  
+1. Obtain from caller patient identifying information which includes full patient name and 
+date of birth; date and type of information requested; the caller’s name and telephone 
+number; and physician’s office or organization with which caller is associated. 
+2. Telephone release of information is generally restricted to admit or discharge date and 
+attending physician without supervisory approval. 
+ 
+B.  Physicians, Physicians’ Offices 
+1. Obtain patient identifying information and information requested from the 
+physician and the physician’s name and telephone number. 
+ 
+2. Any information released over the telephone should be released only on a call 
+back basis after supervisory approval.  
+PolicyROL HIMR22mber_Policy Name 
+5 
+ 
+IX. Release of Information – Information Received from Outside Facility 
+A.   Do not copy any portion of information received from an outside facility to  
+include with the medical record from Our Lady of the Lake Regional  
+Medical Center. 
+ 
+B.   Exception to this policy is: 
+If the information received from an outside source has been made a portion of our 
+medical record (i.e. the doctor sends copy of the H&P from his office to be included in 
+the record as the H&P), the document shall be placed within the appropriate portion of 
+the Our Lady of the Lake medical record and released according to policy. 
+ 
+X. Charges 
+A. Charges for copying will be limited to insurance companies, attorneys, patients, state 
+and federal agencies, and workmen’s compensation cases. 
+ 
+  B. Hospital employees will not be charged for their own chart copies. 
+ 
+XI. Following the authorized release of patient information, the signed authorization will be retained in 
+the health record with the notation of the information released, the date of release, and the 
+individual who released the information.   
+ 
+The facility may refuse to honor an authorization (faxed or hand-written) if there is reasonable 
+doubt as to the validity of the authorization. 
+ 
+Any questions or reservations that may arise should be referred to the Director/Manager of Health 
+Information Management. 
+ 
+X. Alcohol and Drug Abuse Records 
+A. Special care must be exercised in the release of information from alcohol and drug abuse 
+records. (Include drug overdoses.) Consent from the patient is necessary before releasing 
+any information. 
+ 
+  1. The consent must include the following eight points: 
+ 
+   a. Name of the program. 
+   b. Name of the organization to which disclosure is to be made. 
+   c. Name of the patient, date of birth and social security number. 
+   d. Reason for disclosure. 
+   e. Extent of information to be disclosed. 
+f. Statement that consent is revocable at any time up to what statement has already 
+been disclosed. 
+   g. Date consent signed. 
+   h. Signature of the patient or his legitimate agent. 
+  
+PolicyROL HIMR22mber_Policy Name 
+6 
+2. The regulations specify categories of persons to who limited disclosure of necessary 
+information may be made with consent. 
+  
+   a. Medical personnel to enable furnishing of services. 
+b. Central registries concerning types of drugs and dosages in order to prevent 
+multiple enrollments in drug therapy program (i.e., Methadone). 
+c. Patient’s family unless disclosure would be harmful to the patient. 
+d. Third party payers and funding sources only to the extent necessary to the 
+patient. 
+e. Employers and employment agencies for verification of status and treatment or 
+where the information is necessary to evaluate hazards to the patient or others. 
+f. Certain personnel in the criminal justice system where participation in a 
+treatment program is condition of the individual’s release from confinement, 
+suspension of sentence, etc.; with the patient’s consent, the scope of information 
+released my be unrestricted.  
+g. Other persons where it is certain that the patient’s consent was voluntary, 
+granting the request will not harm the patient-program relationship and granting 
+the request will not harm the patient. 
+   
+3. Approval/Denials of all requests for information will be handled by the Release of 
+Information contracted vendor staff or the Director/Manager of Health Information 
+Management. 
+   
+  4. Exceptions where no consent is required: 
+ 
+a. Release for consulting physicians. 
+b. Release to medical personnel in an emergency. 
+c. Qualified personnel for studies and research (without disclosure of identity). 
+d. Order by the court of competent jurisdiction which shows good cause. (Only 
+disclose information necessary for the purpose). 
+e. Release for continuity of care of the patient. 
+f. If there are any questions, consult the Director/Manager of Health Information 
+Management. 
+ 
+  5. When to require an authorization from the patient in a Nursing home: 
+ 
+a. If no mention is made in the Nurses note that the patient was transferred. 
+b. If the patient is no longer a resident of the home. 
+c. If the patient is sated as being a resident in the home but has been discharged 
+from the hospital more than 1 week. (Try to acquire proof that the patient went 
+directly to the home). 
+d. If the patient is transferred to a psychiatric facility, send only the 
+discharge/transfer form or information only as directed by the attending 
+physician. 
+  
+PolicyROL HIMR22mber_Policy Name 
+7 
+6. Limited information, which a physician and counselor determines, in writing, to be 
+harmful to the patient or another person, may be classified as confidential; therefore, 
+will not be accessible to the patient. 
+ 
+a. A patient may make a request to review his record to his counselor and 
+physician.  
+b. If a discussion of what is contained in the record is sufficient, that discussion 
+shall be documented in the patient record including: 
+  1. Type of request. 
+  2. Cause for request. 
+  3. Some detail about the extent of the discussion. 
+ 
+c. A written request, by the patient, is required when the patient request literal view 
+or obtained copies of his record. The patient’s counselor shall document, in the 
+patient record, what was done concerning the request. The attending physician 
+shall be notified of any request for medical records. 
+  
+d. The counselor may actually review with the patient the counselors section of the 
+record, while maintaining supervision since some information may need further 
+explanation. The medical portion of the record may be reviewed by the patient 
+under the supervision of the attending physician. Should the record contain 
+information classified as confidential, this part of the record will be removed 
+before the record is handed to the patient. 
+ 
+e. Specific data in the records may be released to others with written permission of 
+the patient. This permission will be in the form of consent for release of 
+information. The release of information shall contain the eight (8) points listed 
+under VIII a.1. 
+ 
+NOTE: Any questions which arise concerning release of information on TAU 
+Center patients are to be referred to the Supervisor of Release of Information, the 
+Director/Manager of Health Information Management. 
+ 
+Information is released by written authorization of the patient as defined by CFR 
+42 only. See Release of Information policy and procedure section for TAU 
+patients. 
+ 
+IX.  Access to electronic Records by Research or Monitoring Companies 
+ 
+1. Initial Setup 
+A. Research or Monitoring Companies should contact the Health Information Management department five 
+business days prior to research /study patients’ record review. 
+B. Notification can be given by telephone to the manager of the Health Information Management Department 
+at 765-6333. Information will be offered to include on company letterhead:   
+PolicyROL HIMR22mber_Policy Name 
+8 
+a) The monitoring company 
+b) The reviewer's name/identifying information 
+c) The date(s) of the review 
+d) Study/research patient's name, date of birth, social security number, specific date of service for 
+research, and signed patient informed consent with date informed consent was signed that coincides 
+with date of service in hospital (if not already on the medical record). 
+C. HIM will review the notification inclusions for appropriateness regarding authorization to release medical 
+information on the consent or other release of medical information document. If the aforementioned 
+criterion is not appropriate, a Health Information Management staff member will notify the requestor and 
+a signed authorization by the patient will need to be obtained before the record will be queued to the 
+requestor. If the latter has to be initiated the records will be available five business days a fter receipt of 
+the additional information. 
+2. Chart Access 
+A. Specific records requiring review will be in a special ChartMaxx grouping or made available through 
+Power Chart.  
+B. Special ChartMaxx or Power Chart in -service for utilization of system will be given the day of review 
+visit. 
+3. Review  
+A. HIM Manager will contact IS Security Department to request user ids and passwords for the reviewers. 
+B. The reviewers will be required to provide a driver's license or other picture identification and sign a 
+confidentiality statement before the code will be released. 
+C. The user ids and passwords will only be utilized by specific research or monitoring staff for the specific 
+day, or days of chart review. If the specific chart review is not completed in 5 business days, the HIM 
+director will be notified verbally with a status.  
+4. Maintaining Records 
+A. Research and Monitoring companies requesting to print or copy specific medical record will specify in 
+writing prior to patient discharge from hospital. (Specific requested information from the medical record 
+will be identified, exp. Labs, radiology reports, history/physicals, etc.). 
+B. Fees will be assessed for copying specific medical records, ONLY HIM staff can make copies of medical 
+records. 
+C. Fees will be assessed for storage of medical records if research need is different from HIM standards for 
+length of storage.   
+ 
+ 
+ 
+ 
+IX. General Guidelines: 
+ 
+ A. Ownership of the Medical Record  
+PolicyROL HIMR22mber_Policy Name 
+9 
+The medical record documents the cause of the patient’s illness and treatment during a 
+particular period and during any subsequent periods as an inpatient or outpatient. It is the 
+property of the hospital and the information in the record belongs to the patient. The medical 
+record is kept for the benefit of the patient, physician, and hospital. The medical record contains 
+information that is restricted by the confidential relationship that exists between the patient and 
+physician. That confidentiality is necessary so that the patient will feel free in giving the 
+physician all pertinent information required in order to treat the patient. 
+ 
+  The physical record belongs to the Medical Center. 
+ 
+  The content of the record belongs to the Patient. 
+ 
+  The medical record is a legal document. 
+ 
+ 
+ B. Release to Specific Agencies or Individuals 
+ 
+  1. Army, Navy and Air Force Bases: 
+Requests from branches of the Armed Forces must be placed in two categories: 
+ 
+a. Medical information requests for hospital or physician, when patient is being 
+treated, require no authorization. 
+ 
+b. Requests for medical information for personnel files, induction, discharge, or 
+any non-medical purpose requires proper authorization. 
+ 
+  2. Coroner 
+A death becomes a coroner’s case if death occurred “without medical attendance”, if the 
+decedent was not seen by his physician at anytime during the 36 hours preceding death. 
+However, the law gives the coroner full discretion in deciding what constitutes a 
+coroner’s case, and in order to investigate deaths involving violence or suspicious 
+circumstance, the coroner has the given authority to examine medical records of a 
+deceased person regardless of whether or not the death occurred in the hospital.  
+ 
+1. Obtain patient identifying information and information requested from the 
+coroner and the coroner’s name, parish, and telephone number. No information 
+should be released over the telephone except admit and/or discharge dates and 
+attending physician. 
+The team member is to request a fax number or mailing address and fax or mail 
+the requested information to the coroner. 
+ 
+2. If other information is requested refer the coroner to the Release of Information 
+contracted vendor staff for release. 
+  
+PolicyROL HIMR22mber_Policy Name 
+10 
+3. If a request is received after business hours, ER nursing service personnel (RNs 
+only) will print a copy of the requested record for the coroner.  The information 
+is only to be printed out of EPIC (coroner template) by designated staff 
+members. 
+ 
+Louisiana state law authorizes the coroner to receive any information from the medical 
+records which he/she deems necessary for the fulfilling of the coroner’s duties and 
+honored without consent requirements. 
+ 
+ 
+  3. Federal Bureau of Investigation (F.B.I.) 
+No specific medical data should be given to the police or F.B.I. other than the type of 
+accident, such as the automobile, industrial, etc., which needs no authorization. 
+However, do not give information regarding the condition of the patient or extent of 
+injuries. 
+  
+ The hospital is required to report only the information that the statute requires. 
+ 
+ If the statute does not specifically outline the information to be reported in a specific 
+case, the following may be released: 
+ 
+ a. The fact of the event 
+ b. The name of the patient involved 
+ c. The place where the event occurred, if applicable. 
+ 
+ 
+4. Food and Drug Administration Agents: 
+ The hospital may honor requests from Food and Drug Administration agents who are 
+discharging statutory duties in investigating either food contamination or adverse 
+reaction to drugs or patient medicines. Information from drug abuse patients may be 
+given to F.D.A. agents without patient authorization in such cases. Regulatory powers in 
+the investigation of drug abuse may well carry subpoena power. 
+ 
+5. Internal Revenue Department: 
+ A request for medical information from the Internal Revenue Department cannot be 
+honored without proper authorization from the patient. 
+ 
+6. Social Security, Welfare, Vocational Rehabilitation, Crippled Children 
+Association: 
+ Patient authorization is required to release medical information to the above 
+governmental agencies. 
+ 
+7. Veterans Administration Hospitals: 
+ For medical purposes, the procedure of releasing information is the same as to other 
+hospitals.  
+PolicyROL HIMR22mber_Policy Name 
+11 
+ 
+8. Public and private Health and Welfare Agencies: 
+ Both public and private health and welfare agencies may, with proper authorization, 
+request information on a patient’s present condition and on any plans for immediate or 
+future treatment to aid them in planning their client’s services. In such a case, the 
+responsible physician, or the Medical Social Services representative who is involved in 
+the case, should be consulted and asked to enter the appropriate information in the 
+medical record for release to a recognized agency. This information then becomes 
+available to other members of the professional staff concerned with the patient’s care 
+and treatment. 
+ 
+9. Family of Patient: 
+ Medical, privileged information may not be released to any member of the patient’s 
+family. Requests of this nature should be referred to the patient’s attending physician. 
+ 
+ 
+10. Workmen’s Compensation cases: 
+ Under Louisiana law, neither the patients employer nor an insurance company covering 
+the patient require an authorization if the case is stated to be for workmen’s 
+compensation. Exception: TAU Center patients. 
+ (See policy HIMR21) 
+ 
+11. Health Maintenance Organizations (HMO) and Insurance Companies 
+ The requested portions of the record may be copied and released if the HMO or 
+insurance company was identified at admission as the patient’s primary payer and 
+consent to release was signed upon admission. (Signed Inpatient Admission form 
+includes authorization to release information to the payer on claim benefits assigned to 
+the medical center.)  Special consent is required for substance abuse records and HIV 
+test results. 
+ 
+Telephone Request:  The only information which may be released to insurance company 
+inquiries per telephone are the admit or discharge date and the attending physician. Any 
+other request for information requires patient authorization. 
+ 
+11. Nursing Homes or Extended Care Facilities: 
+When a patient is transferred directly from the hospital to a nursing home or extended 
+care facility, information may be released without signed authorization. 
+ 
+ Information may not be released without signed authorization when the patient is 
+admitted to a nursing home or extended care facility directly from the patient’s home. 
+ 
+12.   Videotapes: 
+ 
+ Videotapes of patient care procedures are educational in nature and belong to the 
+physician.  Retention of videotapes are not the responsibility of the hospital, therefore, 
+videotapes are not considered an official part of the legal medical record.    
+PolicyROL HIMR22mber_Policy Name 
+12 
+ 
+ Videotapes arriving in the Health Information Management Department will be 
+forwarded to the physician performing the procedure. 
+ 
+ 
+ 
+13. Other Hospitals: 
+a. If a patient is transferred directly to another hospital, a summary of the hospital 
+Medical Record shall accompany the patient at the time of discharge. 
+ 
+1a. ER nursing service personnel (RNs only) will print a copy of the 
+emergency room record for the facility receiving the transferred patient.  The 
+information is only to be printed out of  EPIC (ER template) by designated 
+staff members. 
+  
+b. When the patient is not transferred directly to anther hospital, we require the 
+patient’s written authorization before releasing medical information to other 
+hospitals. However, in an emergency situation, it is necessary to release medical 
+information to authorized personnel on a “CALL BACK” basis. The hospital 
+requesting this information will be asked to mail or fax the patient’s authorization 
+immediately. 
+ 
+Emergency transmittal of patient related material to another facility may be released 
+with specific instructions from the Medical Record Director, Medical Records 
+Supervisors, Administrator on call, House Manager or Risk Manager. 
+   
+c. If it becomes necessary to go to a patient’s room to obtain an authorization, identify 
+yourself when entering the room and explain the need for obtaining the 
+authorization. 
+ 
+d. Health Information Management personnel should refrain from giving 
+interpretation, definitions, and opinions as to quality of care recorded in the 
+documents. 
+ 
+ 
+  14. Subpoenas for release of Medical Records 
+   (See policy HIMR28 – Subpoenas-Civil/Criminal) 
+The purpose is to respond appropriately to subpoenas in accordance with the Louisiana 
+Revised Statue 13:3715.1 (See Legal Manual) and/or CFR 42 for substance abuse 
+records and/or HIV test results. 
+ 
+15. Subpoenas requesting appearance of Medical Records Custodian 
+a. Federal district and circuit courts may themselves issue subpoenas for court 
+appearance or they may be issued through the U.S. Attorney’s office. Federal 
+subpoenas are valid if for appearance within 100 miles of the hospital. 
+  
+PolicyROL HIMR22mber_Policy Name 
+13 
+b. State circuit court may issue subpoenas for record to court or for discovery 
+proceedings. Circuit court subpoenas are valid for anywhere in the State of 
+Louisiana for court appearance but only for appearances within East Baton 
+Rouge Parish for discovery proceedings. 
+ 
+c. Probate and District courts may issue subpoenas for court appearance, but 
+generally not for discovery proceedings. If a probate or district court subpoena 
+for discovery proceedings is received the Director/Manager should contact the 
+hospital’s legal counsel to check the validity of the matter. Probate and district 
+court subpoenas are valid for appearances at courts anywhere in the State of 
+Louisiana. 
+ 
+d. For the protection of the hospital and its personnel, the physician, and the 
+patient, the medical record administrator is not obliged to present the record in 
+court or before any commission except upon a court order or a subpoena. In the 
+absence of a court order issued by the judge hearing the case in writing or 
+spoken form the bench, the consent of the patient must be given to release the 
+medical record. To secure the attendance of a witness, a properly issued 
+subpoena is served upon the witness demanding him to appear at a trial or other 
+proceeding and to give testimony. Medical records form hospitals are secured by 
+a subpoena duces tecum, which is served on the person having actual custody or 
+possession of the records and commands the witness to bring with him the 
+documents, paper, or books noted in the subpoena. 
+  
+e.  The subpoena will direct the custodian to appear with the record at certain 
+location, such as court, attorney’s office, physician’s office, or Health 
+Information Management Department. 
+ 
+f. Upon appearing in answer to subpoena, the witness will be required to testify as 
+to the identity, mode of preparation and whether the records were made in the 
+regular course of business, at or near a certain time, condition or event. Health 
+Information Management personnel may testify only to the identification of the 
+record. 
+ 
+    1. Case file number. 
+    2. Date of issuance. 
+    3. Designated signature of clerk. 
+    4. Originating in Louisiana. 
+5. Name of the person requesting subpoena and on whose behalf. 
+   
+17. Emergency Transport Services 
+ 
+a. If a patient is delivered via an emergency transport service, copies of the 
+patient’s record may be obtained by the emergency transport service for 
+billing purposes were rendered to that patient. A copy of the face sheet  
+PolicyROL HIMR22mber_Policy Name 
+14 
+will suffice for all billing information required by the emergency 
+transport services. 
+b. The authorization signed on admit by the patient shall suffice for 
+authorization to release records for billing purposes to the emergency 
+transport services. 
+18.      After Hours 
+ 
+1.  A verbal request for release of information outside of normal HIM Business hours shall be referred 
+to House Manager/Nursing Supervisor, as defined by each organization. 
+ 
+2. For non-emergent request, the requestor shall be instructed that release of information is handled 
+from 8:00AM to 4:00PM Monday – Friday and that any questions concerning the release of 
+information should be addressed to the ROI contracted vendor staff or a Supervisor or manager in 
+the HIM Department.  
+ 
+3. For emergency requests (i.e. Coroner, LOPA, Transfers, Reqests for other healthcare facilities, 
+PEC), the house manager/nurse supervisor shall release requested information through the HER 
+ROI workflow. 
+4. In extenuating circumstances, HIM Management will be contacted before releasing 
+Information. 
+ 
+          
+ 
+ 
+X. Administrative and Medical Staff Guidelines: 
+ 
+A. Release to Physicians  
+The following procedure will be followed when processing a request for medical record 
+information for members of the medical staff: 
+ 
+ 1.  The physician requests a copy of all or part of the patient’s medical record either 
+through verbal or written request. 
+ 
+ 2.  The HIM staff will review the patient’s medical record to determine the following: 
+ 
+a. The requesting physician was the attending or consulting  
+physician. 
+ 
+b.   The requesting physician is currently in partnership with the  
+attending or a consulting physician and assists the attending or consulting 
+physician in coordination of the patient’s care. 
+   
+ d. The requesting physician was a consulting or attending physician during a 
+prior or subsequent episode of care. 
+  
+PolicyROL HIMR22mber_Policy Name 
+15 
+e. The patient has been referred to the requesting physician, was cared for by 
+another member of their group, or the patient is now the requesting physician’s 
+patient. 
+ 
+3.  If the request meets one of the above criteria, the requested portions of the medical 
+record are faxed or mailed to the requesting physician’s office.  No authorization is 
+required. 
+ 
+ 4.  If the request does not meet the criteria stated above, the requesting physician’s 
+office is informed that a signed authorization for release of information is required from 
+the patient prior to releasing the medical records.   
+ 
+ In emergency situations, the information requested may, after verification of the identity 
+of the requestor, be released with a request that the patient’s authorization be forwarded 
+when available. 
+ 
+If a hospital or doctor’s office calls and requests information in a medical 
+emergency, obtain patient identifying information, requested medical 
+information needed, and the name, organization, telephone number and fax 
+number of the caller. 
+ 
+Any release, even in an emergency, should be on a call back basis only. If you 
+have any doubt about the legitimacy of the caller you may verify local telephone 
+numbers in the telephone directory and numbers of hospitals in the Louisiana 
+Hospitals manual and physicians in the Manual of Physicians. 
+ 
+5. A doctor is not allowed to examine the chart of a member of his family without 
+the patient’s attending physician’s approval. 
+ 
+6. Former members of the Medical Staff may be permitted free access to records of 
+cases in which they were involved whether as an attending physician or consulting 
+physician. 
+ 
+ C. Legal action against hospital, hospital employees or medical staff members: 
+ 
+The Medical Legal Secretary will report any legal action being taken against the hospital or any 
+of its employees to the Risk Manager. 
+ 
+D. Possession of the record should not be given to anyone unless the custodian of the medical 
+record is instructed to do so by the court or other official. The attorney initiating the subpoena 
+has no right to see the record until examination is ordered by the court. 
+ 
+E. Lawsuit – Hospital or Physician: 
+  
+PolicyROL HIMR22mber_Policy Name 
+16 
+ If it appears that litigation is intended against the hospital, medical information should not be 
+released until the Risk Manager has been notified. When a specific physician is involved, he 
+should be informed of the nature of the inquiry by Administration. 
+ 
+   
+ _____________________________________   ________________ 
+Ramona Fryer                                                                                        DateVP of Revenue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Policy Oversight by: 
+ 
+TITLE  
+ 

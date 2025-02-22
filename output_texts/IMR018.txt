@@ -1,0 +1,37 @@
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  Safety with Liquid Helium and Liquid 
+Nitrogen 
+Section:  MRI 
+Date of Origination:  6/1/94 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+2/24/03 
+01/15, 01/17, 5/19, 1/21, 3/23, 
+2/24 
+Serial Code:  IMR 018 
+    
+PURPOSE: 
+  To identify correct handling of liquid helium and liquid nitrogen in the MR area. 
+POLICY: 
+A. Under no circumstance should liquid helium and liquid nitrogen be 
+transferred into the magnet prior to installation of the quench pipe exhaust. 
+B. Under no circumstances should a container be brought into the magnet 
+area, unless it is known that it is made of non-ferrous material. It is 
+extremely dangerous to personnel and equipment to bring any ferrous 
+metal objects into the magnet area. Special non-ferrous metal objects are 
+available from the liquid gas suppliers and must be so specified and 
+appropriately labeled. 
+C. MRI systems with a superconductive magnet are equipment with a 
+QUENCH PIPE, which prevents evaporation of nitrogen and helium into 
+the examination room. 
+D. Properties of helium and nitrogen: 
+1. Odorless 
+2. Non-flammable 
+3. Non-poisonous 
+4. On evaporation, a cold mist is formed. Helium will rise and 
+nitrogen will descend to ground level. 
+5. Harmful for health as it will dilute the oxygen in the air. 
+ 

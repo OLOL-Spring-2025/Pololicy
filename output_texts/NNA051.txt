@@ -1,0 +1,83 @@
+NNA-051  
+Page 1 of 2 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Nursing Administration 
+Title: Physician Orders, Implementation of  
+Policy 
+Reference #: NNA-051 
+Supersedes #: 1994; 1997 
+Date of Origination: February 1988 Review Date:  July 8, 2024 
+Revision Date    March 5, 2019 
+ 
+PURPOSE: 
+To establish the standard implementation of physician orders in an efficient manner to facilitate and 
+expedite safe patient care. 
+ 
+ 
+POLICY: 
+A. Physician’s orders may be entered directly into the patient’s electronic medical record (EMR) by the 
+physician or mid-level provider or indirectly by designated hospital personnel (i.e. Nurse, 
+Pharmacist). 
+ 
+B. The use of verbal orders should be kept at a minimum and only used in an emergent situation (such 
+as a Code Blue or an emergency).  
+ 
+ 
+C. Orders written by mid-level providers will be entered as “signature required” to expedite the 
+physicians authentication process. 
+ 
+ 
+PROCEDURES: 
+1. Recording Verbal/Telephone (VO/TO) Orders 
+a. Verbal/Telephone orders will be received by authorized professionals within their scope of 
+practice, and immediately entered into the EMR or reduced to writing (on the physician’s 
+order form or other authorized document). Verbal orders should be kept at a minimum and 
+only used in emergent situations.  
+b. When accepting a verbal/telephone order, the authorized professional who is giving the 
+order should supply two patient identifiers.  Reasonable identifiers include patient name 
+and date of birth.  
+c. A verbal/telephone order will be verified by reading back the order to the prescriber. The 
+read back is documented by selecting the “Phone/Read Back” order type in the EMR, or by 
+writing “RB” with a written order. 
+d. In addition to the information required for a written or physician-entered computer (CPOE) 
+order, verbal/telephone orders shall include: 
+▪ The orders received. 
+▪ Date and time of the orders. 
+▪ Name and Credentials of the prescriber. 
+▪ Name and Credentials of the person receiving the orders. 
+ 
+2. Authentication (verification) of Verbal/Telephone Orders NNA-051  
+Page 2 of 2 
+ 
+a. Orders that are not entered or written by a prescriber shall be subsequently authenticated 
+(verified) and countersigned by the prescribing practitioner or other responsible 
+practitioner within the time period specified by medical staff rules and regulations and 
+state law. The specified time period for authentication is within 10 days.  
+b. Signature stamps are prohibited; if an order has a signature stamp the order must be 
+clarified. 
+ 
+3. Persons Who May Transmit Verbal/Telephone Orders 
+a. Nurses may accept verbal/telephone orders only from a licensed physician, dentist, or other 
+authorized mid-level prescriber. 
+ 
+ 
+4. Stat Orders are to be entered into the EMR or transcribed to the paper chart as soon as the nurse is 
+made aware of the order.  
+ 
+5. During each shift, it is the responsibility of the patient’s nurse to  
+a. Review the medical record for accuracy of electronic or written orders received. 
+6. Verify that transcribed orders are accurately entered into the EMR by verifying with the written 
+orders.   
+7. Order Clarification   
+a. An order clarification must be entered into the EMR by the authorized professional who clarifies 
+the order only after speaking with the prescriber.  The correction must never be made to the original 
+order. 
+ 
+ 
+REFERENCES: 
+ 
+Louisiana State Board of Nursing, Declaratory Statement on Transmission and Acceptance of Verbal 
+Orders, Edited:  December 6, 2006. 
+ 
+Our Lady of the Lake RMC, Medical Staff Rules & Regulations.  

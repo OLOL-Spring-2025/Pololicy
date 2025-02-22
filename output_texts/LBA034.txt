@@ -1,0 +1,271 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 1 of 6 
+LBA034 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA034 
+LABORATORY QUALITY CONTROL AND QUALITY ASSURANCE POLICY 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 8/23/2023 9/1/2023 9/1/2023 
+Lab Administration Review J Teague 8/25/2023 Origination Date 
+Medical Director Review A Nunez 8/26/2023 4/16/18 
+ 
+ 
+PRINCIPLE 
+Quality Control (QC) is performed to ensure the proper functioning of materials, equipment, and 
+methods in the Laboratory.  QC performance is defined and readily available to staff so that 
+unacceptable results and trends can be recognized in order to respond appropriately.  All QC is 
+tested in the same manner and by the same personnel as patient samples.  Each department in the 
+Laboratory maintains specific departmental procedures for Quality Control testing.   
+ 
+Quality Assurance (QA) is the systematic process of monitoring and evaluating various aspects 
+of the laboratory to ensure that specified requirements are consistently being met. QA may be 
+most referred to as “Supervisory Review”.  The Laboratory Quality Assurance program is under 
+the surveillance of Laboratory Administration including Department Supervisors, Senior 
+Technologists, Lab Managers, Lab Directors, Compliance Officers, Department Medical 
+Directors, and Laboratory Medical Director.   
+ 
+ 
+POLICY 
+I. Quality Control  
+A. Quality Control Performance 
+1. QC should be performed as defined prior to beginning patient testing. 
+2. Results should meet the defined acceptable criteria prior to beginning patient 
+testing. 
+3. When results fail to meet the defined acceptable criteria, corrective action 
+should be initiated. 
+B. Corrective action may include: 
+1. Repeating QC 
+2. Instrument Maintenance  
+3. Switching QC or reagent lots  
+C. All corrective actions should be thoroughly documented 
+D. Supervisory Staff should be notified of failed QC as applicable to assist with next 
+steps when QC failures cannot be resolved or when patient impact is suspected. 
+E. Investigation of Patient Impact OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 2 of 6 
+LBA034 
+ 
+1. Certain QC failures may warrant a lookback to determine if there was any 
+patient impact associated. 
+2. Lookback can include: 
+a. Repeating Testing once QC has met acceptability criteria 
+b. Patient Chart review - may be performed if there is no viable patient 
+specimen to repeat.  Patient Chart Review Form (LBA034-A) may be 
+used for this purpose. 
+F. If a test system becomes inoperable for any reason, the approved backup method 
+should be implemented.  If the test system does not have an approved backup method, 
+Supervisory Staff should be notified immediately to assist with deciding next steps.   
+1. Testing may be referred to the closest FMOL Health System Lab if testing is 
+available. 
+2. Testing may be referred to an approved external reference laboratory. 
+3. Significant delays in testing should be reported to Lab Administration, 
+including Lab Medical Director, to facilitate appropriate communication 
+with Hospital Leadership. 
+II. Quality Assurance  
+A. Laboratory records are reviewed daily, weekly, monthly, as needed, quarterly, or 
+annually as applicable.  Laboratory Records include but are not limited to temperature 
+logs, QC sheets, equipment maintenance, critical results notification/documentation, 
+corrected results notification/documentation, error logs, recall notifications, 
+intermediate test result forms, Patient Safety event log, and PI Monitors (see section 
+III). 
+B. Secondary review to verify completeness of records is performed as applicable and is 
+performed by supervisory staff provided that they did not perform the initial review. 
+C. Any control results exceeding defined acceptable limits that are discovered after 
+testing has been completed should be evaluated for potential patient impact (see 
+section IE). 
+D. Inappropriate corrections to documentation such as over-writing or scratching out 
+with multiple lines or squiggles should be noted as part of QA review. See also 
+LBA033-Document Correction. 
+E. Any deviations detected while performing QA review should be documented on the 
+appropriate log or form and forwarded to Lab Manager and/or Medical Director for 
+review as applicable.   
+F. Recalls 
+1. The laboratory will be notified of a recall through direct notification by the 
+supplier/manufacturer, through Recall Manager software used by the Health 
+System to disseminate recalls received at the system level, or both. 
+2. Upon notification of the Recall, the appropriate department or lab will: 
+a. Investigate for affected product 
+b. Follow instructions provided by the manufacturer 
+c. Determine potential patient impact OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 3 of 6 
+LBA034 
+ 
+d. Consult with Compliance Officer and Medical Director to determine 
+next steps if necessary.  Patient Chart Review or Physician notification 
+letters may be implemented. 
+3. All recalls will be forwarded to Lab Compliance Officer who will report to 
+Safety Committee and Quality Committee. 
+III. Performance Indicator (PI) Monitors - PI monitors are elements chosen from throughout 
+the laboratory spanning pre-analytic, analytic, and post-analytic phases of testing.  These 
+indicators monitor activities critical to patient outcome, have the potential to affect many 
+patients, or have been a recurring problem.  PI are monitored, compared against appropriate 
+benchmarks, and are reported monthly on the Laboratory PI Dashboard.  Monitors that fall 
+below acceptability criteria are addressed for overall quality improvement.  PI Monitor 
+findings are reported to the Lab Quality Committee and Hospital PI Committee.   
+A. The following Indicators are monitored and reported by OLOL Main Lab and 
+Affiliated Labs. 
+1. OLOL Main Lab 
+a. Pathology  
+• Patient Physician contacted prior to performance of Autopsy 
+• TAT from autopsy to preliminary report 
+• Postmortem findings correlate with pre-mortem clinical 
+findings and diagnosis 
+• TAT from start of autopsy to final report 
+• Pathologist concurrence on diagnosis after slide review 
+• Pathology report correlates with patient’s clinical history 
+• Pathology final diagnosis amendment after initial release 
+b. Microbiology/Molecular 
+• Positive Blood Culture Gram Stain resulting TAT 
+• Positive Blood Culture Gram Stain Notification TAT 
+• Positive CSF Gram Stain Notification TAT 
+• Positive CSF Culture Notification TAT 
+• Positive Meningitis Panel Notification TAT 
+• Blood Culture Contamination Rate 
+• Blood Culture Volume Monitoring  
+c. Hematology  
+• Inpatient and Outpatient critical value reporting time 
+• Emergency Room CBC turnaround time 
+d. Chemistry   
+• Inpatient and Outpatient critical value reporting time 
+• Emergency Room Troponin turnaround time 
+e. Transfusion Services 
+• Crossmatch to Transfusion Ratio 
+• Rejected Blood Bank Specimens OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 4 of 6 
+LBA034 
+ 
+• Wrong Blood in Tube Samples- incorrect patient ID for Blood 
+Bank Testing 
+• Blood Component Wastage (expired and wasted on floor). 
+• Transfusion Reaction percentage 
+• Serology critical result notification 
+f. Point of Care 
+• Glucose Reagent Monitoring  
+g. Specimen Collection  
+• Unlabeled, Mislabeled, Irretrievable Specimen rejections 
+• Barcode Scanner compliance 
+• Specimen Collector documented appropriately 
+h. Blood Donor/Distribution 
+• Residual Leukocyte Testing 
+ 
+2. Livingston Lab 
+a. Specimen Collection 
+• Unlabeled and Mislabeled Specimen rejections 
+b. Hematology and Chemistry 
+• Inpatient and Outpatient critical value reporting time 
+• Emergency Room CBC turnaround time 
+• Emergency Room Troponin turnaround time 
+c. Point of Care 
+• Glucose Reagent Monitoring 
+d. Microbiology (collection only) 
+• Blood Culture Volume Monitoring  
+• Blood Culture Contamination Rate 
+ 
+3. Assumption Lab 
+a. Specimen Collection 
+• Unlabeled and Mislabeled Specimen rejections 
+b. Hematology and Chemistry 
+• Inpatient and Outpatient critical value reporting time 
+• Emergency Room CBC turnaround time 
+• Emergency Room Troponin turnaround time 
+c. Point of Care 
+• Glucose Reagent Monitoring 
+d. Microbiology (collection only) 
+• Blood Culture Contamination Rate 
+• Blood Culture Volume Monitoring 
+ 
+4. North Baton Rouge Lab 
+a. Specimen Collection 
+• Unlabeled and Mislabeled Specimen rejections OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 5 of 6 
+LBA034 
+ 
+b. Hematology and Chemistry 
+• Inpatient critical value reporting time 
+• Emergency Room CBC turnaround time 
+• Emergency Room Troponin turnaround time 
+c. Point of Care 
+• Glucose Reagent Monitoring 
+d. Microbiology (collection only) 
+• Blood Culture Volume Monitoring  
+• Blood Culture Contamination Rate 
+ 
+5. Ascension Lab 
+a. Specimen Collection 
+• Unlabeled and Mislabeled Specimen rejections 
+b. Hematology and Chemistry 
+• Inpatient and Outpatient critical value reporting time 
+• Emergency Room CBC turnaround time 
+• Emergency Room Troponin turnaround time 
+c. Point of Care 
+• Glucose Reagent Monitoring 
+d. Microbiology 
+• Blood Culture Volume Monitoring  
+• Blood Culture Contamination Rate 
+e. Transfusion Services 
+• Crossmatch to Transfusion Ratio 
+• Blood/Product wastage 
+• Transfusion Reaction percentage 
+f. Pathology  
+• Pathologist concurrence on diagnosis after slide review 
+• Pathology report correlates with patient’s clinical history 
+• Pathology final diagnosis amended after initial release 
+ 
+6. Children’s Hospital Lab 
+a. Specimen Collection 
+• Unlabeled and Mislabeled Specimen rejections 
+b. Hematology and Chemistry 
+• Inpatient and Outpatient critical value reporting time 
+• Emergency Room CBC turnaround time 
+• Emergency Room Troponin turnaround time 
+c. Point of Care 
+• Glucose Reagent Monitoring 
+d. Microbiology 
+• Blood Culture Volume Monitoring  
+• Blood Culture Contamination Rate OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 6 of 6 
+LBA034 
+ 
+e. Transfusion Services 
+• Crossmatch to Transfusion Ratio 
+• Blood/Product Wastage 
+• Missing BB number specimen rejections 
+• Wrong blood in tube specimen rejections 
+• Transfusion Reaction percentage 
+f. Pathology  
+g. Pathologist concurrence on diagnosis after slide review 
+h. Pathology report correlates with patient’s clinical history 
+i. Pathology final diagnosis amended after initial release 
+ 
+ASSOCIATED POLICIES 
+Lab Quality Plan – Section 11: Indicators of Quality 
+ 
+REFERENCES 
+CAP standard – COM.10050-Procedure Manual Elements 
+ 
+REVISIONS 
+4/16/18 (created), 5/31/19, 4/29/2020, 8/23/2023 

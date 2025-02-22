@@ -1,0 +1,91 @@
+ 
+PH.2458_Electronic Prescribing 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Electronic Prescribing 
+PAGES: 
+2 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2458 (02/25/2020) 
+ORIGINAL EFFECTIVE 
+DATE: 02/17/2017 
+REVISIONS EFFECTIVE: 
+07/13/2020 
+POLICY NUMBER:  
+PH.2458 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy outlines that the pharmacy operating system is able to accept electronic prescriptions. 
+POLICY: 
+A. Pharmacy’s dispensing system supports electronic prescribing and is integrated with its drug 
+management system. Electronic prescribing serves to enhance information flow and promote quality and 
+safety.  [URAC CSCD 13] 
+ 
+B. Pharmacy electronic claims processing complies with the requirements of the National Council for 
+Prescription Drug Programs (NCPDP) standard claims transactions for pharmacy drug claims, eligibility, 
+benefit coordination and related pharmacy services.  
+ 
+C. The National Council for Prescription Drug Programs (NCPDP) standard transactions are the code set 
+standards under HIPAA for the retail pharmacy environment. As a member of the National Council for 
+Prescription Drug Programs, Inc. (NCPDP), the electronic prescribing system has applied NCPDP 
+standards and guidelines to its business practices and continues to closely monitor both NCPDP and 
+ANSI standards. 
+ 
+DEFINITIONS: 
+1. NCPDP (National Council for Prescription Drug Programs) is a not-for-profit, multi-stakeholder forum for 
+developing and promoting industry standards and business solutions that improve patient safety and health 
+outcomes, while also decreasing costs. The work of the organization is accomplished through its members who 
+bring high-level expertise and diverse perspectives to the forum.  
+2. ANSI (American National Standards Institute) oversees the creation, promulgation and use of thousands of 
+norms and guidelines that directly impact businesses in nearly every sector 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+7/13/2020 11:56 AM 
+ 
+ 
+PH.2458_Electronic Prescribing 
+2 
+PROCEDURE:  
+A. Pharmacy’s operating system has the capability to receive electronic Rx claims. The system offers the 
+safety of electronic prescriptions through an NCPDP SCRIPT-based interface with secure e- prescribe 
+systems.  
+B. The pharmacy operating system supports electronic prescribing and is integrated with the pharmacy’s 
+medical management system. The pharmacy is able to complete the following electronically: 
+1. Receive an e-prescription from the prescriber either directly from the EMR for providers within the 
+health system or through Surescripts for provides external to the health system;  
+2. Acknowledge receipt of an e-prescription with initial review of the prescription from the pharmacy 
+queue;  
+3. Request refills for a previously received prescription via electronic transmission; and  
+4. Receive a refill response in the queue of the pharmacy dispensing system. URAC CSCD 13] 
+ 
+C. Pharmacy electronic prescribing system includes:  
+1. A unique provider electronic identifier  
+2. Consistency with security standards   
+3. Promotes interoperability with internal and external sources  
+4. Produces alerts to the prescriber for undesirable or unsafe situations, such as drug-drug 
+interactions, drug-allergy interactions, drug-disease state interactions, or potentially 
+inappropriate dosing 
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• ACHC Standards: DRX5-18B 
+• URAC Standards: CSCD 13 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

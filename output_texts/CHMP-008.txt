@@ -1,0 +1,490 @@
+CHMP-008 
+Page 1 of 7 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Medications_Pharmacy 
+Subject:  Management of Non-Chemotherapeutic 
+Infiltration/Extravasation in Neonate & 
+Pediatric Patient 
+Section:  
+Medications_Pharmacy 
+Date of Origination:  January 31, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+May 4, 2022 
+June 7, 2024 
+Serial Code:  CHMP-008 
+  
+PURPOSE: 
+ 
+To facilitate the timely and effective management of infiltrations and extravasations. 
+ 
+DEFINITIONS: 
+ 
+Infiltration: inadvertent administration of nonvesicant solution or medication into surrounding tissue 
+Extravasation: inadvertent infiltration of vesicant solution or medication into surrounding tissue 
+Vesicants:  an agent capable of causing tissue damage when it escapes from the intended vascular 
+pathway into surrounding tissue  
+Phlebitis:  irritation of the vein wall 
+Warm compress:  is a dry warm compress which results in localized vasodilation and increased blood 
+flow which facilitates drug removal from the area of extravasation.  Application of a dry warm compress 
+for 20 minutes four (4) times per day for 1 or 2 days is generally recommended. 
+Cold compress:  is a cold compress which results in localized vasoconstriction and decreased blood flow 
+which restricts the spread of the drug extravasated and decreases pain and inflammation in the area. 
+ 
+POLICY: 
+ 
+A. Many non-cytotoxic (non-chemotherapeutic) agents have the potential to cause tissue damage if 
+infiltration or extravasation should occur.  The severity is based on the dose, concentration, site of 
+administration, and duration of exposure.  Hyperosmolar solutions and vasopressor agents often cause the 
+greatest damage.  These agents may have an antidote that can be administered within specified time 
+frame to limit tissue damage.  This policy is meant to guide the care team in proper management and 
+minimize tissue damage.  The physician retains all authority over ordering and altering the medical plan 
+based on clinical judgement.   
+ 
+B. Suspect extravasation if the patient has the following signs or symptoms: 
+1. Swelling, redness, blanching, blister formation, unexplained reduced IV flow rate, tightness, burning, 
+pain or aching. 
+ 
+C. Peripheral intravenous infiltration and extravasation documentation rows (PIVIE) will cascade in 
+electronic medical record (EMR) when an infiltration is documented. The infiltrated/extravasated area 
+should be measured and documented appropriately. These documentation fields can also be used for 
+documentation of infiltration/extravasations with central devices.   CHMP-008 
+Page 2 of 7 
+ 
+ 
+D. Suspected or confirmed infiltration/extravasation should be treated immediately if an antidote is 
+indicated.  See “procedures” for management below. 
+ 
+E. When necessary, consult wound care.   
+ 
+F. Surgery should be consulted for any concern of tissue necrosis.    
+       
+PROCEDURES: 
+A. Immediate management 
+1. Stop the infusion: At the first suspicion of extravasation, the drug infusion and IV fluids should 
+be stopped. 
+2. Do NOT remove the catheter/needle: The IV tubing should be disconnected, but the 
+catheter/needle should be left in place to facilitate aspiration of fluid from the extravasation site. 
+3. Aspirate fluid: To the extent possible, the extravasated drug solution should gently be removed 
+from the subcutaneous tissues by attaching a syringe to the hub.  It is important to avoid any 
+friction, pressure or massage to the area.  Aspiration of extravasated contrast media is not 
+recommended. 
+4. Do NOT flush the line: Flooding the infiltration site with normal saline or dextrose (5%) in an 
+attempt to dilute the drug solution is not recommended. 
+5. Remove the catheter/needle. 
+6. Outline the site: Mark the extravasation site (using a surgical felt pen, gently draw an outline on 
+the skin of the extravasation area).  Do not mark the skin for any neonate whose corrected ages is 
+less than 28 weeks. 
+7. Photograph: Photograph the area to identify progression or exacerbation or the tissue injury by 
+following the Clinical Photography policy OC 055 Clinical photography of wounds and pressure 
+ulcers and/or skin abnormalities.   
+8. Determine extravasated medication and volume: Estimate the amount of extravasated solution 
+that infused in the tissue and notify the physician at the time of the occurrence to obtain orders for 
+treatment. 
+9. Notify: Notify the house supervisor (as appropriate), provider, and parent/legal guardian of the 
+event. Document in EMR that the parent/legal guardian and provider have been notified. 
+10. Administer antidote: If indicated, administer the antidote (See Table 3). If the extravasated 
+medication is not listed in the table, then contact the pharmacy department to determine if an 
+antidote is needed. For the NICU, the physician/NNP will administer the antidote. 
+11. Compresses: If indicated, apply dry compress to area of extravasation (either cold or warm, 
+depending on vesicant extravasated) (See Table 4). 
+12. Elevate: The affected extremity should be elevated above the level of the heart for 24 to 48 hours 
+as directed by the physician.  
+13. Document: Document the occurrence in the EMR under the PIVIE Assessment (Peripheral IV 
+Infiltration and Extravasation) found in Flowsheets.  
+14. Safety event: Enter a safety event. 
+ 
+B. Extravasation Treatment Determination 
+1. Prior to an extravasation occurring be familiar with the risk of each medication infused (See Table 
+2). 
+2. Once an extravasation occurs, refer to Tables 3 and 4 for the preferred antidote and compress 
+recommended. If the extravasated medication is not listed, contact pharmacy for recommendations. CHMP-008 
+Page 3 of 7 
+ 
+3. In accordance with Table 2 if a extravasation occurs for a medication that is listed in the RED 
+column and there is a known antidote, it is recommended to discuss with the provider and 
+administer antidote as ordered. 
+4. In accordance with Table 2, if an extravasation occurs for a medication listed in either the 
+YELLOW or GREEN columns and there is a known antidote, it is recommended that the 
+physician consider the percentage of extravasation and clinical judgement to determine if the 
+antidote is ordered. 
+ 
+C. Antidote administration 
+1. Phentolamine (Regitine®):  Used for vasoactive extravasation and other medications as indicated     
+(See Table 3). 
+a. Treatment is most effective if given within 6 to 8 hours of extravasation. It should not be 
+administered if 12 or more hours have lapsed from the time of extravasation. 
+b. Retrieve prepared phentolamine (1 mg/mL) from pharmacy. 
+c. Clean extravasated site with chlorhexidine (unless allergy is present, then use alternate 
+antibacterial agent such as 70% alcohol or betadine). 
+d. Use a 25, 27 or 30-gauge ½ inch needle and insert at a 15° angle, bevel up inject 0.5 mL 
+subcutaneously in a circular pattern around the perimeter of the extravasation. 
+e. Use a new needle with each injection. 
+f. It may not be necessary to use all of the prepared phentolamine. The amount of the solution 
+used will vary with the size of the area of infiltrated tissue. 
+g. Erythema, pain, and hypotension may occur with administration. 
+h. If the dose is effective, normal skin color should return to blanched area within one hour. 
+ 
+2. Nitroglycerin (Nitro-Bid®) 2% topical ointment:  Used for vasoactive extravasation and other 
+medications as indicated when phentolamine is out of stock (See Table 3). 
+a. Apply 4 mm/kg up to one (1) inch strip to the site of ischemia; may repeat every 8 hours if 
+needed.  
+ 
+3. Hyaluronidase (Hylenex®):  Used for extravasation of concentrated electrolytes including parenteral 
+nutrition, mannitol, radio contrast media/dyes and other medications as indicated (See Table 3). 
+a. Treatment is most effective if given within 1 to 2 hours of extravasation and should not be 
+given after 3 hours. 
+b. Preparation is dependent upon the patient’s age (See Table 1). 
+ 
+Table 1: Hyaluronidase Dose and Concentration 
+Patient’s Age Hyaluronidase 
+Concentration 
+Who 
+Prepares 
+Doses 
+Who Administers 
+Doses Number of Doses Dose 
+Volume 
+Less than 1 year of 
+age 
+15 units/mL Central 
+Pharmacy 
+NICU: NNP/Provider 
+Other In-patient units: 
+Nurse 
+<1 month old: 4 
+>/=1 month old: 5 
+0.2 mL  
+(3 units) 
+Greater than or equal 
+to 1 year of age 
+150 units/mL Nurse Nurse 5 0.2 mL  
+(30 units) 
+ 
+c. Cleanse extravasated site with chlorhexidine (unless allergy is present, then use alternate 
+antibacterial agent such as 70% alcohol or betadine). CHMP-008 
+Page 4 of 7 
+ 
+d. Using a 25, 27 or 30-gauge ½ inch needle, inject 0.2 mL of the hyaluronidase solution 
+subcutaneously or intradermally in multiple sites around the perimeter of the infiltrated 
+area. 
+e. Use a new needle with each injection. 
+ 
+D. Post-event Documentation & Reporting 
+1. LDA Charting in EPIC 
+a. Select the appropriate IV site 
+b. Date and Time 
+c. PIV Removal reason (i.e. infiltration or extravasation) 
+d. Immediate interventions (i.e. include in comment) 
+e. Patient response (i.e. include in comment) 
+ 
+2. Document the occurrence in the PIVIE assessment of the flowsheets. 
+a. Calculate X: Measure the maximum extravasated area in centimeters from border to 
+border in lateral or vertical direction (Do not measure circumference). 
+b. Calculate Y: Measure the arm length (from axilla to fingertip) in centimeters. 
+c. Calculate % PIVIE: Divide X by Y and multiple by 100. 
+d. PIVIE Site Assessment: Document the swelling percentage and skin appearance. 
+e. PIVIE Agent: List the medication that was infusing at the time the extravasation occurred 
+or within the last 4 hours. 
+f. Previous 12 Hour Infusions: List any medications and fluids there were administered 
+within the last 12 hours. 
+g. Notifications: Document all personnel who were notified of event including, primary 
+services, wound care, pediatric surgery, plastics, and pharmacy as appropriate. 
+h. PIVIE Education: Document if parent or legal guardian education was provided. 
+ 
+3. Report the event utilizing the hospital’s electronic safety event system including: 
+a. The medication extravasated 
+b. The percentage of PIVIE calculated 
+c. All personnel notified 
+d. The antidote administered (if necessary) 
+ 
+4. Document the post event site and extremity assessments for infiltration/extravasation >/= 60%: 
+a. Create wound LDA. 
+b. Document reassessment at a minimum of 4 hours after event. 
+c. Continue to document reassessments at least once a shift until resolved. 
+d. If there are signs of compromised circulation (evidenced by change in extremity color, 
+decreased pulses, pain, lack of movement, swelling or tightness), neurovascular checks will 
+be performed every 15 minutes x 4 then every hour until circulation concern has resolved 
+and/or as directed by provider. CHMP-008 
+Page 5 of 7 
+ 
+Table 2: Children’s Hospital Medications That Have a Risk for Infiltration/Extravasation 
+ 
+Medications listed below are known to pose significant risk and have demonstrated to cause harm when 
+infiltration or extravasation occurs.    
+Touch, Look and Compare (TLC) 
+Should be performed before and after any medication administration regardless of risk. 
+If a medication is not on this list, contact the pharmacy. 
+RED 
+ 
+Higher Risk 
+ 
+(Consider the use of central access to reduce 
+the risk of harm should extravasation occur) 
+ 
+Acyclovir 
+Amiodarone 
+Calcium (all salt forms) 
+Dextrose (greater than 12.5%) 
+Dobutamine 
+Dopamine 
+Epinephrine 
+Hydroxyzine 
+Mannitol (20% and 25%) 
+Norepinephrine 
+Phenylephrine 
+PN (greater than 900 mOsm/L) 
+Potassium (greater than 60 mEq/L) 
+Promethazine 
+Sodium bicarbonate 
+Sodium chloride (1% or greater) 
+Vasopressin 
+ 
+Chemotherapy drugs 
+Yellow 
+ 
+Intermediate Risk 
+ 
+Acetazolamide 
+Amikacin 
+Amphotericin B (conventional) 
+Arginine 
+Ciprofloxacin 
+Dextrose (10% to 12.5%) 
+Diazepam 
+Doxycycline 
+Erythromycin 
+Fosphenytoin 
+Ganciclovir 
+Indomethacin 
+Lorazepam 
+Midazolam 
+Morphine 
+Ondansetron 
+Nafcillin 
+Nonionic radiology contrast 
+Pantoprazole 
+Phenobarbital 
+Phenytoin 
+PN (900 mOsm/L or less) 
+Potassium (60 mEq/L or less) 
+Vancomycin 
+Green 
+ 
+Lower Risk 
+ 
+Aminophylline 
+Amphotericin B (liposomal) 
+Ampicillin 
+Ampicillin/sulbactam 
+Cefazolin 
+Ceftazidime 
+Ceftriaxone 
+Clindamycin 
+D5LR 
+Dextrose (less than 10%) 
+Digoxin 
+Fentanyl 
+Furosemide 
+Gentamicin 
+Heparin 
+IVIG 
+Lactated Ringer’s 
+Levetiracetam  
+Lipids (fat emulsion) 
+Magnesium sulfate 
+Meropenem 
+Methylprednisolone 
+Normal saline 
+Oxacillin 
+Piperacillin/tazobactam 
+Tobramycin 
+Valproate 
+Note:   
+Any medication can cause tissue damage with an infiltration or extravasation and must be monitored 
+appropriately.   
+ CHMP-008 
+Page 6 of 7 
+ 
+Table 3: Preferred Antidote for Associated Medications 
+Phentolamine 
+(may use nitroglycerin 
+2% topical ointment if out 
+of phentolamine) 
+Hyaluronidase No Known Antidote 
+Dobutamine 
+Dopamine 
+Epinephrine 
+Norepinephrine 
+Phenylephrine 
+Vasopressin 
+Acyclovir 
+Aminophylline 
+Amiodarone 
+Arginine 
+Calcium (all salt forms) 
+Dextrose (greater than 10%) 
+Mannitol 
+Nafcillin 
+Phenytoin 
+Phosphate (only K+) 
+PN 
+Potassium (all salt forms) 
+Radio contrast media/dyes 
+Sodium bicarbonate 
+Sodium chloride (1% or 
+greater) 
+Vancomycin 
+Acetazolamide 
+Amikacin 
+Amphotericin B (conventional) 
+Amphotericin B (liposomal) 
+Ampicillin 
+Ampicillin/sulbactam 
+Cefazolin  
+Ceftazidime 
+Ceftriaxone 
+Ciprofloxacin 
+Clindamycin 
+Diazepam 
+Digoxin 
+Doxycycline 
+Erythromycin 
+Fentanyl 
+Fosphenytoin  
+Furosemide 
+Ganciclovir  
+Gentamicin 
+Heparin 
+Hydroxyzine 
+Indomethacin 
+IVIG 
+Levetiracetam 
+Lipids (fat emulsion) 
+Lorazepam 
+Magnesium 
+Meropenem 
+Methylprednisolone 
+Midazolam 
+Morphine 
+Ondansetron 
+Oxacillin 
+Pantoprazole 
+Phenobarbital 
+Piperacillin/tazobactam 
+Promethazine 
+Tobramycin 
+Valproate 
+ 
+Table 4: Preferred Compress for Associated Medications 
+Cold Warm Either Cold 
+or Warm No Recommendation 
+Aminophylline 
+Arginine 
+Calcium (all salt 
+forms) 
+Dextrose (greater than 
+10%) 
+Diazepam 
+Doxycycline 
+Mannitol 
+Nafcillin 
+Phosphate (only K+) 
+PN 
+Potassium (all salt 
+forms) 
+Sodium bicarbonate 
+Sodium chloride (1% 
+or greater) 
+ 
+Acyclovir 
+Amiodarone 
+Dobutamine 
+Dopamine 
+Epinephrine 
+Norepinephrine 
+Phenobarbital 
+Phenylephrine 
+Phenytoin 
+Vasopressin 
+Promethazine 
+Radio contrast 
+media/dyes 
+Vancomycin 
+Acetazolamide 
+Amikacin 
+Amphotericin B 
+(conventional) 
+Amphotericin B 
+(liposomal) 
+Ampicillin 
+Ampicillin/sulbactam 
+Cefazolin 
+Ceftazidime 
+Ceftriaxone 
+Ciprofloxacin 
+Clindamycin 
+Digoxin 
+Erythromycin 
+Fentanyl 
+Fosphenytoin 
+Furosemide 
+Ganciclovir 
+Gentamicin 
+Heparin 
+Hydroxyzine 
+Indomethacin 
+IVIG 
+Levetiracetam 
+Lipids (fat emulsion) 
+Lorazepam 
+Magnesium 
+Meropenem 
+Methylprednisolone 
+Midazolam 
+Morphine 
+Ondansetron 
+Oxacillin 
+Pantoprazole 
+Piperacillin/tazobactam 
+Tobramycin 
+Valproate 
+ CHMP-008 
+Page 7 of 7 
+ 
+Cross Referenced Policy: 
+OC 55 Clinical photography of wounds and pressure ulcers, and/or skin abnormalities 
+ 
+REFERENCES: 
+ 
+Cincinnati Children’s (2017).  Venous Infusion Extravasation Risk.  Retrieved 
+fromhttps://www.cincinnatichildrens.org/service/v/vascular-access/vat-form. 
+ 
+Ebsco Health Online Resource Extravasation Management in Infants & Children. 
+ 
+Infusion Nurses Society (2021).  Infusion Therapy Standards of Practice, 44(1S), S142-S145. 
+ 
+Infusion Nurses Society Vesicant Task Force (2017).  Development of an Evidence-Based List of Noncytotoxic 
+Vesicant Medications and Solutions.  Journal of Infusion Nursing, 40(1), 26-40.  
+ 
+Lexicomp (2022).  Hyaluronidase.  Retrieved from http://online. Lexi.com. 
+ 
+Lexicomp (2022). Management of Drug Extravasations. Retrieved from:       
+https://online.lexi.com/lco/action/doc/retrieve/docid/patch_f/4111. 
+ 
+Lexicomp (2022). Nitroglycerin. Retrieved from https://online.Lexi.com. 
+ 
+Lexicomp (2022).  Phentolamine.  Retrieved from https://online.Lexi.com. 
+ 
+Nickel, B. (2019).  Peripheral Intravenous Administration of High-Risk Infusions in critical Care:  A Risk-
+Benefit Analysis.  Critical Care Nurse, 39(6), 16-28.  
+ 
+University of Wisconsin Hospitals and Clinics (2015).   Guidelines for Non-Chemotherapeutic Agents:  
+Prevention and Treatment of Chemical Phlebitis and Extravasation of Peripherally Administered Non-
+Chemotherapeutic Agents – Adult/Pediatric – Inpatient Clinical Practice Guideline.  Retrieved from 
+https://www.uwhealth.org/cckm/cpg/medications/Extravasation-of-Non-Chemotherapeutic-Agents---
+Pediatric.Adult---Inpatient-15.05.13---new-links.pdf?download=true. 
+ 

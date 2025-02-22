@@ -1,0 +1,44 @@
+Our Lady of the Lake - ED Scripting for Collections 
+All phrases in quotes are to be stated exactly as written 
+ 
+ 
+O L O L  R M C  P a t i e n t  A c c e s s  E D  S c r i p t i n g  9 / 5 / 1 4        P a g e  1 | 2 
+ 
+“Good morning/afternoon Mr./Mrs./Ms. ________________.” Said with eye contact and a warm sincere 
+smile. 
+“My name is ________.  I am here to register you for your ER visit today.  Thank you for choosing Our 
+Lady of the Lake for your healthcare needs.”    Has the medical provider been in to see you?  If yes, -
+continue with registration.  If no tell the patient, “Once you have been seen by the medical provider, I 
+will come back and complete your registration.  Be certain to thank the patient for their time and wish 
+them well. 
+If yes: 
+• Verify Demographic and insurance information:  (action) 
+• Explain patient’s insurance benefits.  If patient will owe money, then proceed with scripting 
+below.  If patient does not owe money, skip to Section B below. 
+ “Now, let’s review what your benefits and how you want to pay those out-of-pocket expenses.”   
+• Your deductible of $_____   has/has not been met.   You have a deductible remaining of $_____.  
+Your ER copay of $__________   Would you like to pay for that on your credit card today?”  
+• If patient indicates difficulty paying ER copay ask for 75% down.  If they can’t pay that, ask 
+what amount they would be able to pay as a deposit.  If unable to get at least 25% down, refer 
+patient to financial counselor. Always maintain eye contact and a smile, be patient and 
+empathetic. 
+(self - Pay Patients) 
+• For uninsured/self-pay patients,  “we do offer a discount of 35%. If you are able to prompt pay 
+today, we offer an additional 10%.  Does that work for you?” 
+• “A couple of things to remember: You may receive bills in addition to your ER bill for services 
+rendered today.”  (Provide examples based on type of service patient is having)   
+I. ER Physician (billing) 
+II. CT/MRI/Nuc Med/US: Radiologist 
+III. LABS:  Pathologist 
+“And, remember, your final out-of-pocket expenses may differ in the end.”   
+ 
+SECTION B 
+“Do you have any questions I may answer for you today?” Our Lady of the Lake - ED Scripting for Collections 
+All phrases in quotes are to be stated exactly as written 
+ 
+ 
+O L O L  R M C  P a t i e n t  A c c e s s  E D  S c r i p t i n g  9 / 5 / 1 4        P a g e  2 | 2 
+ 
+“We have concluded your registration process.  Thank you for your time and for choosing Our Lady of 
+the Lake Regional Medical Center.  I hope I have been helpful and courteous and I do hope you feel 
+better soon.”  Remember to smile! 

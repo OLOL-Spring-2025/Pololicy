@@ -1,0 +1,201 @@
+ ECLS000 
+Page 1 of 5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Environment of Care Section: Fire Prevention 
+Title: Fire-Life Safety Management Plan 
+Policy 
+Reference #: ECLS000 
+Supersedes #:  
+Date of Origination: January 1, 1997 Review Date: 09/12/2023 
+Revision Date: 01/13/18; 12/27/19 
+ 
+PURPOSE: 
+ 
+The Life Safety Management Plan establishes procedures to support and maintain a fire-safe 
+environment of care. This plan defines the Fire Prevention Management activities for Our Lady of the 
+Lake Regional Medical Center (OLOL) and includes all locations at which OLOL operates.  
+ 
+POLICY: 
+ 
+Patients, personnel, visitors and property are protected through the safety features of the physical 
+structure, an active fire alarm system, automatic fire doors, automatic air shut down system, placement 
+of fire extinguishers, fire hose connections, fire plan and evacuation plans. OLOL will maintain 
+compliance with the Life Safety Code (LSC) 101 standards regarding structural requirements for fire 
+protection. When features of fire safety are compromised, Interim Life Safety Measures are 
+implemented to offset the risk. 
+ 
+The Code RED Safety and Response Plan articulates the hospital’s strategy to safeguard patients, 
+personnel and property from injury related to fire, smoke, or other products of combustion. The policy 
+includes information regarding the roles and responsibilities of staff, students, contractors, volunteers, 
+and licensed independent practitioners at the fire’s origin, away from the fire’s origin, and procedures 
+for evacuation.  
+ 
+PROCEDURE: 
+ 
+Responsibility  
+Plant Services Leadership is responsible for assessing and maintaining compliance with the Life Safety 
+Code (LSC) and coordinating action plans to address identified deficiencies when necessary.  Current 
+documentation demonstrating compliance with the LSC, including a current hospital wide Statement of 
+Conditions (SOC) is available in Plant Services. The responsibility for completing the eSOC is assigned 
+to the Director of Plant Services who has experience and education appropriate to performing LSC 
+assessment activities.  
+ 
+Department Leaders are responsible for monitoring their department’s life safety concerns in order to 
+protect patients, staff, visitors, and property.  Monitoring includes: Facility inspections, fire drills, and 
+fire safety training.  
+  ECLS000 
+Page 2 of 5 
+Life Safety Assessments 
+Building Life Safety Assessments are conducted at least annually by competent staff or contractors and 
+outside regulatory agencies.  Identified deficiencies are corrected in a timely manner.  These 
+assessments may include, but are not limited to, the following: 
+• Basic Building Information 
+• Facility construction drawings 
+• Fire hazard identification 
+• Means of egress compliance 
+• Fire detection and suppression equipment 
+• Emergency power 
+• Required fire/smoke separation 
+ 
+The use of Interim Life Safety Measures (ILSM) is required in construction areas or where identified 
+LSC deficiencies cannot be immediately corrected. ILSM applies to and is enforced with all personnel, 
+including contracted construction workers. Plant Services Leadership or designee is responsible for 
+identifying situations where life safety deficiencies exist, the degree of deficiency, and what specific 
+measures are required to minimize the effect of the deficiency. Plant Services Leadership or designee is 
+responsible for monitoring implementation of ILSM and acting when they are not observed. The 
+schedule of monitoring and documentation needs is determined on a per project basis.  All LSC and fire 
+protection deficiencies, failures, and user errors are reported to Plant Services. Plant Services Leadership 
+or designee is responsible for ensuring investigation of all reported LSC and fire protection deficiencies, 
+failures, and user errors. 
+ 
+Smoking Policy 
+Smoking is not permitted on any OLOL location. (see OrgOpsEC006, Tobacco Free Environment) 
+ 
+Orientation and Education 
+Orientation for the general life safety issues and fire prevention processes occurs in new staff 
+orientation. Department-specific issues and job-specific hazards are addressed in Departmental 
+orientation.  Staff also receive refresher training through annual education. 
+ 
+Unannounced fire drills are employed to assess staff knowledge and skill, and ability to participate in the 
+Code RED Safety and Response Plan. Drills are performed on each shift.  When deficiencies in staff 
+knowledge or skill are identified, the Department Manager is informed and is responsible for addressing 
+the issue with staff. Plant Services is responsible for addressing identified deficiencies regarding fire 
+safety equipment or building features.  
+ 
+Equipment 
+OLOL Plant Services is responsible for ensuring qualified contractors and staff complete the inspection, 
+testing, and maintenance of fire protection and life safety systems in accordance with the following: 
+ 
+a. Fire Protection Testing: 
+The testing of the fire alarm system and components complies with NFPA 72 standards and on a 
+routine schedule in accordance with the EOC standards.  Testing of the various components will 
+adhere to the following schedule: 
+  ECLS000 
+Page 3 of 5 
+Quarterly: Supervisory signal devices (including control valves; pressure supervisory; 
+pressure tank, pressure supervisory for a dry pipe, steam pressure; water level 
+supervisory signal initiating device: water temperature supervisory; and room 
+temperature supervisory) 
+Semi-Annual: Valve tamper switches and mechanical water-flow devices 
+Annually: Duct detectors, electromechanical releasing devices, heat detectors, manual fire 
+alarm pull stations, smoke detectors and occupant alarm devices (audible and 
+visual) 
+Off-site fire responder notification equipment 
+ 
+b. Water-based Automatic Fire Extinguishing Systems: 
+The testing and maintenance of the water-based automatic fire extinguishing systems complies with 
+NFPA 25 standards and testing is maintained on a routine schedule as outlined in accordance with 
+NFPA and EOC standards.  Testing of the various components adheres minimally to the following 
+schedule: 
+ 
+Monthly: Electric motor-driven fire pumps under no flow conditions 
+Quarterly: Fire department connections, water flow devices 
+Semi-Annual: Sprinkler valves 
+Annually: Fire pumps (water flow required) and drain tests at all system risers 
+ 
+c. Kitchen automatic fire extinguishing systems: 
+The testing and maintenance of kitchen automatic fire extinguishing systems complies with NFPA 
+17A and NFPA 96 standards.  Inspections of the systems are completed semi-annually. 
+ 
+d. Gaseous automatic fire suppression systems: 
+The testing of gaseous automatic fire suppression systems complies with NFPA 2001 and NFPA 12 
+standards.  Inspection, testing and maintenance of all gaseous automatic fire suppression systems to 
+include Halon and FM-200 Suppression systems.  Inspections of these systems are completed 
+annually. 
+ 
+e. Portable Fire Extinguishers: 
+OLOL Plant Services is responsible  
+• for the installation, maintenance, and testing of fire extinguishers in accordance with NFPA 
+10 and the Louisiana State Fire Marshals.   
+• for ensuring proper fire extinguishers are correctly mounted and clearly identified. 
+• to ensure that all fire extinguishers function properly, are inspected monthly and annually and 
+receive regular preventative maintenance in accordance with NFPA 10 and manufacturer 
+specifications. 
+ 
+f. Standpipe Systems: 
+Testing of maintenance of standpipe systems, both wet and dry, comply with NFPA 14 and NFPA 
+25 standards.  Testing of these components adheres minimally to the following schedule: 
+• Every 5 years - Standpipe hydrostatic and water-flow tests 
+• 5 years after install then every 3 years - Standpipe occupant hose hydrostatic tests  ECLS000 
+Page 4 of 5 
+ 
+g. Fire and Smoke Dampers: 
+Inspection and maintenance of fire/smoke dampers complies with NFPA 90A.   
+This includes: 
+• the identification and maintenance of all fire/smoke dampers to ensure proper operation 
+• inspection of all fire/smoke dampers to be completed after 1 year then every 6 years 
+• inspection of all fire/smoke dampers (dampers with fusible links removed are operated no 
+less than every four years to ensure full closure) 
+ 
+h. Horizontal and vertical sliding and rolling fire doors and shutters: 
+Testing and maintenance of horizontal and vertical sliding and rolling fire doors and shutters 
+complies with NFPA 80.  All rolling and sliding fire doors are tested annually to ensure proper 
+operation and full closure.  Deficiencies noted during inspections are corrected in-house or through 
+contract services. 
+ 
+i. Smoke Control Systems: 
+Engineered smoke control systems are tested and maintained in accordance with established 
+engineering principles as indicated in NFPA 92.  
+ 
+j. Fire Doors 
+The annual testing and inspection of fire/smoke doors to comply with NFPA 80 is completed by 
+qualified persons.  Periodic inspection of other doors is completed by trained Plant Services and 
+Environment of Care rounding staff. 
+ 
+k. Fire Fighter’s Emergency Elevator Operations 
+All elevators provided with firefighters’ emergency operation require a monthly inspection as stated 
+by ASME A17.1/CSA B44 with Phase I recall by use of the key switch and a minimum of one-floor 
+operation on Phase II.   
+ 
+Records and documentation demonstrating effective maintenance of fire safety equipment and building 
+features is available in Plant Services.  
+ 
+OLOL fire protection features include fire barriers with fire-rating based on the type of occupancy and 
+location within the facility. 
+ 
+Annual Evaluation 
+Data regarding Life Safety indicators including, but not limited, to the number of fires and the function 
+of signal and detection systems is collected and submitted to the Environment of Care Committee to 
+facilitate internal monitoring. Effectiveness of the Plan is evaluated annually and is submitted to the 
+Hospital Board through the Performance Improvement Leadership.  
+ 
+ 
+ 
+ 
+ 
+REFERENCES:  ECLS000 
+Page 5 of 5 
+Joint Commission Environment of Care and Life Safety Standards 
+National Fire Protection Association (NFPA) 101-2012, Life Safety Code 
+NFPA 10-2010, Standard for Portable Fire Extinguishers 
+NFPA 12-2011, Standard on Carbon Dioxide Extinguishing Systems 
+NFPA 14-2010, Standard for Installation of Standpipe and Hose Systems 
+NFPA 17A-2009, Standard for Wet Chemical Extinguishing System 
+NFPA 2001-2012, Standard on Clean Agent Fire Extinguisher Systems 
+NFPA 25-2011, Standard for the Inspection, Testing, & Maintenance of Water Based Fire Protection Systems 
+NFPA 72-2010, National Fire Alarm & Signaling Code 
+NFPA 80-2010, Standard for Fire Doors and Other Opening Protectives 
+NFPA 92-2012, Standard for Smoke Control Systems 
+NFPA 96-2011, Standard for Ventilation Control & Fire Protection of Commercial Cooking Operations 
+ 
+ 

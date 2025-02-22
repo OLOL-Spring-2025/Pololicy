@@ -1,0 +1,45 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center  
+Subject:  Maintenance of Blood Gas Computer 
+System Section: Blood Gas Lab 
+Date of Origination: April 1993 Signature: 
+Date of Last Revision:  August 24, 2022 Serial Code: RC9-18 
+         Reviewed: October 1, 2024 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to define and describe the procedures which must be followed 
+to maintain proper and safe operation of the Epic blood gas computer system, and protect 
+its components and data. 
+ 
+PROCEDURE: 
+Data Backup 
+The MIS department has specific guidelines to follow. This information can be obtained 
+from this department.  
+ 
+Program Backup 
+The MIS department has specific guidelines to follow. This information can be obtained 
+from this department. 
+ 
+Data/Program Restoration 
+The MIS department has specific guidelines to follow. This information can be obtained 
+from this department. 
+ 
+Protection of Equipment 
+A. The file server for the EMR is located in the MIS computer room.  Humidity and 
+temperature are controlled for equipment protection.  The file server is on the 
+hospital’s Uninterruptible Power Supply (UPS) to maintain service and protect it 
+from power drops and spikes.  The computer room has controlled access. 
+B. The PCs servicing each blood gas instrument are each on UPS units to protect them 
+and maintain their function. 
+ 
+Maintenance/Cleaning of Equipment Components 
+ The file server and its tape drive are cleaned and checked for gross mechanical 
+damage or deterioration on the schedule of the other file servers in the MIS 
+computer room.  This schedule and the records of maintenance are maintained in 
+MIS. 

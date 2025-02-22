@@ -1,0 +1,189 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LAB ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 1 of 4 
+LBA422 
+LABORATORY ADMINISTRATION MANUAL 
+LBA422 
+Lake Lab Services One-Click Procedure  
+        Date Issue  Date Effective Date 
+ Prepared/Revised By A Dufrechou 2/25/19 4/29/2019 4/29/2019 
+Blood Donor Service  and Core Lab Director Review J Teague 3/1/2019 Origination Date 
+Outreach Director Review E Landry 3/12/2019  
+Laboratory Medical Director Review A Harton 4/27/2019  
+ 
+ 
+Purpose 
+All patients coming into a patient service center (PSC) must be registered using One-Click registration 
+in Epic. The One-Click registration procedure is to standardize the laboratory registration process for 
+Outpatients ensuring correct patient information and laboratory orders. Patient orders placed in Epic can 
+be viewed in order inquiry. If a paper laboratory order is presented, the LSR will enter the orders into 
+Epic.  
+ 
+Procedure  
+ 
+I. Registration Process  
+ 
+A. All patients must present with photo identification and insurance.  
+1. If the patient is self-pay, payment must be arranged prior to draw.  
+ 
+B. Open “Patient Station”.  
+1. Search using the patient’s last name, first name, and date of birth.  If no patient found, 
+use first 3 of last, first. 
+2. For new patients, skip to step C.   
+3. For existing patients, skip to step D. 
+ 
+C. New Patient registration 
+1. Using Patient Station search using the patient’s last name, first name, date of birth, SSN, 
+and gender. Click New to create a new patient.  
+2. Click One-Click to schedule the patient’s lab draw appointment.  
+3. Select the earliest time slot available. 
+4. Select the appropriate response for the My Chart sign up.  
+5. From the interactive face sheet, verify the demographics, PCP, employment, and 
+patient contacts fields by clicking on the hyperlinks.  
+a. All yellow yield signs in the demographic section must be answered to proceed.  
+b.If the patient does not have a contact, enter Contact, No for the name and all 
+zeroes for the phone number. OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LAB ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 2 of 4 
+LBA422 
+c. If the patient is a minor, they must have a legal guardian listed as their primary 
+emergency contact.  
+d.If the patient does not have a PCP, choose the “No primary” option.  
+6. From the interactive face sheet, click Guarantor Demographics. Select “Pull Info” to 
+pull in the current patient’s demographics.  Use “All Information” for patients over 18.  
+a. The guarantor’s employment status is required. 
+b.If the patient is a minor, you can “Pull Info”, then “Other relationship” using the 
+parent or guardian’s information.  
+7. Click NEXT to move to the “Encounter Info tab” or “navigate to the “Encounter Info” 
+tab and answer the accident related question.  
+8. Using the NEXT button, navigate to the “Hospital Lab Info” tab.  If the submitter is a 
+non-FMOL provider, enter the submitter.  
+a. For a generic submitter, use Lake Lab Services Generic Account (1407).  
+9. Using the NEXT button navigate to the “Coverage Info tab” 
+a. To add insurance coverage click ADD.  
+b.Search the insurance name and select the corresponding insurance from the 
+provided list.  
+c. Select the Subscriber.  
+d.Complete the subscriber information form in the coverage wizard.  
+e. Click SEND.  
+f. Once the response is received, you will create coverage.  
+g.Select the corresponding insurance from the provided list.  Use the address on the 
+back of the insurance card to ensure that you have selected the correct one. 
+10. If the patient does not have insurance, select Self-Pay. Click NEXT. Enter occurrence 
+code with code 11 and today’s date. If the visit is pregnancy related, enter occupancy 
+code 10 and the LMP date. If there is an existing occurrence code, do not update the 
+code. Click NEXT.  
+11. Using NEXT navigate to “documents” tab.  Scan the patient’s Photo ID, Insurance card 
+and non-Epic orders. The patient will e-sign the hospital consent and Notice to Patient’s 
+rights. Change the status for the documents to receive with today’s date.  
+a. If a new HAR is created, the Notice to Patients Regarding Participating Provider 
+Status will need to be e-signed. This form will pop-up automatically.  
+12. Click NEXT two more times to return to the interactive face sheet.  
+13. Click Verify Patient. If any required fields are missing, the face sheet will give an error 
+message. Click on the update hyperlink to open the missing fields.  
+a. Once the missing fields are fixed, click “Fixed, try again”.  
+14. Click Verify Guarantor. If any required fields are missing, the face sheet will give an 
+error message. Click on the update hyperlink to open the missing fields.  
+a. Once the missing fields are fixed, click “Fixed, try again”.  
+15. Click Check In.  
+a. If the submitter field is left blank due to a FMOL submitter, click continue when 
+the error message appears.  
+ 
+D. Existing Patient registration 
+1. Select the appropriate response for the My Chart sign up.  
+2. From the interactive face sheet, verify the demographics, PCP, employment, and 
+patient contacts fields by clicking on the hyperlinks.  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LAB ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 3 of 4 
+LBA422 
+a. All yellow yield signs in the demographic section must be answered to proceed.  
+b.If the patient does not have a contact, enter Contact, No for the name and all 
+zeroes for the phone number.  
+3. From the interactive face sheet, verify the Guarantor Demographics by clicking on the 
+hyperlink.  
+a. The guarantor’s employment status is required. 
+b.If the patient is a minor, you can “Pull Info”  then “other relationship” using the 
+parent or guardian’s information.  
+4. Click NEXT and answer the accident related question.   
+5. Click NEXT to navigate to the “Hospital Lab Info” tab.  If the submitter is a non-FMOL 
+provider, enter the submitter.   
+a. For a generic submitter, use Lake Lab Services Generic Account (1407).  
+6. NEXT three more times.   Click NEXT to navigate to “Coverage Info” tab.  
+a. To add insurance coverage click ADD.  
+b.Search the insurance name and select the corresponding insurance from the 
+provided list.  
+c. Select the Subscriber.  
+d.Complete the subscriber information form in the coverage wizard.  
+e. Click SEND.  
+f. Once the response is received, you will create coverage.  
+g.Select the corresponding insurance from the provided list. Use the address on the 
+back of the insurance card to ensure that you have selected the correct one. 
+h.If there is an insurance error on the main demographic page, click the response 
+history.  Within the history, there is an alert message which explains what is 
+causing the error and how to correct it.  If you click the File Response button on 
+the lower left corner, the EMR will autocorrect the insurance error.     
+7. If the patient does not have insurance, select Self-Pay. Click NEXT. Enter occurrence 
+code with code 11 and today’s date. If the visit is pregnancy related, enter occupancy 
+code 10 and the LMP date. If there is an existing occurrence code, do not update the 
+code..  
+8. Click NEXT to navigate to Documents tab.  Scan the patient’s Photo ID, Insurance card 
+and non-Epic orders. The patient will e-sign the hospital consent (if necessary) and 
+Notice to Patient’s rights. Change the status for the documents to receive with today’s 
+date.  
+a. If a new HAR is created, the Notice to Patients Regarding Participating Provider 
+Status will need to be e-signed. This form will pop-up automatically.  
+9. Navigate back to Interactive Face Sheet.  
+10. Click Verify Patient. If any required fields are missing, the face sheet will give an error 
+message. Click on the update hyperlink to open the missing fields.  
+a. Once the missing fields are fixed, click “Fixed, try again”.  
+11. Click Verify Guarantor. If any required fields are missing, the face sheet will give an 
+error message. Click on the update hyperlink to open the missing fields.  
+a. Once the missing fields are fixed, click “Fixed, try again”.  
+12. On the patient’s interactive face sheet located in the middle of the page, right hand side is 
+an arrow. Click the arrow to expand the check list. 
+a. Review check list to make sure all information is complete 
+13. Click Check In. OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LAB ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 4 of 4 
+LBA422 
+a. If the submitter field is left blank due to a FMOL submitter, click continue when 
+the error message appears.  
+ 
+ 
+I. Entering Outpatient Laboratory Orders 
+ 
+A. Entering Non Epic Orders: 
+1. Paper orders must include the following information but not limited to: 
+▪ Patient’s Name 
+▪ Date of Birth  
+▪ Lab tests requested  
+▪ Diagnosis Codes  
+▪ Ordering Physician’s signature  
+2. Double click on the laboratory appointment.  
+3. Select Order Entry.  
+4. Enter all test codes or names for the paper order. 
+a. Click on each test hyperlink to update the status, expected date, and priority. 
+b. Specimen source and specimen type can be updated, if necessary.   
+c. Use the test catalog to find tests or follow-up with the physician’s office or the 
+laboratory departments to clarify orders.  
+5. Enter the diagnosis codes and associate them with the tests.  
+6. Sign orders using the physician’s name that has signed the paper order.  
+7. If fax order results are requested, you can use CC results if the doctor is in epic 
+a. Select CC results and type doctors name in CC recipients box and accept 
+8. If faxed results are requested, and the doctor is not in epic, add the requestor using 
+Specimen Inquiry. 
+a. This is done after the specimens are collected.  
+9. If a callback is requested, open Specimen Inquiry and add a follow-up task to the 
+specimen.   
+10. If an ABN is triggered, the phlebotomist will have the patient sign the form before 
+collection. The LSR will scan the completed ABN into the patient’s chart.  
+ 
+REVISIONS 
+2/25/19 (created) 
+ 
+ 
+  

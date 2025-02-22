@@ -1,0 +1,67 @@
+Sheet: ICP
+PROCEDURE / CDM MAINTENANCE FORM | nan | nan | nan | nan | nan | nan | nan | nan | nan | RMD/Finance Personnel | nan | nan | Signature/Date | nan | nan
+EMAIL FORM UPON COMPLETION TO Donna.Stockwell@ololrmc.com | nan | nan | nan | nan | nan | nan | nan | nan | nan | CDM Specialist ($0 - $5,000) | nan | nan | _____________________ | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | Revenue Manager ($5,001 - $10,000) | nan | nan | _____________________ | nan | nan
+DEPARTMENT(1) | nan |   | nan |  COST CENTER #    |   | nan | LOC.    | nan | nan | V.P Finance (>$10,001)  | nan | nan | _____________________ | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+DEPT. HEAD (2)  | nan |   | nan | EXTENSION    |   | nan | DATE (3) | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | TO BE | nan | nan | nan | nan | TO BE | nan | TO BE | nan | nan | TO BE | nan | nan
+nan | nan | nan | COMPLETED BY | nan | nan | nan | nan | COMP BY | nan | COMPLETED BY | nan | nan | COMP BY | nan | nan
+nan | nan | nan | DEPARTMENT | nan | nan | nan | nan | DEPART | nan | DEPART | nan | nan | DEPART | nan | nan
+(4) | (5) | nan | (6) | nan | (7) |  ******** (8) ********  | nan | (9) | (10) | (11) |  ********* (12) *********   | nan | (13) | (14) | (15)
+ ACT  | CDM | nan |   | nan | PROC. | INS | UB | CPT | CHG | EFF | G/L | CENTER | UNIT | UNIT | YEARLY QTY.
+CODE | CODE | nan | DESCRIPTION | nan | MIN | CODE | CODE | NO. | IND | DATE | KEY | NO. | COST | PRICE | nan
+  |   | nan |    | nan | nan | nan | nan |    |   | nan | nan |   |   |    | nan
+   |   | nan |   | nan | nan | nan | nan |   |   | nan | nan |   |   |    | nan
+  |   | nan |   | nan | nan | nan | nan |   |   | nan | nan |    |   |    | nan
+  |   | nan |    | nan | nan | nan | nan |   |   | nan | nan |   |    |   | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+  |   | nan |   | nan | nan | nan | nan |   |   | nan | nan |   |   |   | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nannan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+ADDITIONAL INFORMATION/NOTES:  | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Rev 01/11  | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+USE REV CODE 636 FOR HMO AND COMM UB FIELDS ON DRUG CHARGES GRETER THAN $200.00. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+FOR SELF ADMIN DRUGS USE 098 INS CODE, 250 UB CODE EXCEPT FOR MEDICARE B USE 259. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+FOR DRUGS USING CPT CODES (THROMBOLYTICS, CHEMO, ETC.)CHANGE MEDICARE B UB FIELDS TO 636. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+DEPARTMENT INSTRUCTIONS : | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+(1)   | ENTER DEPARTMENT NAME  | nan | nan | CC# = DEPARTMENT NUMBER | nan | nan | (10) | ENTER THE APPROPRIATE CHARGE INDICATOR: | nan | nan | nan | nan | nan | nan | nan
+nan | LOC. = SHOULD EQUAL YOUR LOCATION FOR CHANGE INPUT PURPOSES. | nan | nan | nan | nan | nan | nan |          1 - NO CHARGE     3 - FIXED CHARGE      4 - VARIABLE CHARGE  | nan | nan | nan | nan | nan | nan | nan
+nan |           ( I.E. TELEMETRY (4E) = CARE,    SURGERY = SUR ) | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | (11) | ENTER THE EFFECTIVE DATE OF THE PROPOSED ACTION. | nan | nan | nan | nan | nan | nan | nan
+(2)   | SIGN AND FORWARD THE FORM TO REVENUE MANAGEMENT FOR PROCESSING. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | (12) | FILL IN APPROPRIATE GL KEY AND DEPARTMENT NUMBER. | nan | nan | nan | nan | nan | nan | nan
+(3)   | DATE SUBMITTED FOR PROCESSING. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | (13) | ENTER THE COST FOR EACH UNIT OF THE PRODUCT.  IF THE PRODUCT IS BEING | nan | nan | nan | nan | nan | nan | nan
+(4)   | SELECT THE APPROPRIATE CODE & PLACE IN ACTION CODE COLUMN : | nan | nan | nan | nan | nan | nan | USED BY MORE THAN ONE PATIENT, THEN LIST ON A SEPARATE SHEET;  THE LIFE | nan | nan | nan | nan | nan | nan | nannan |           A - ADD     C - CHANGE    D - DELETE | nan | nan | nan | nan | nan | nan | OF EQUIPMENT AND EXPECTED FREQUENCY OF USE PER WEEK OR MONTH. | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+(5) | LIST THE EXISTING CDM CODE TO CHANGE OR DELETE. | nan | nan | nan | nan | nan | (14) | ENTER THE PRICE AS CALCULATED USUNG THE REVENUE MANAGEMENT DEPT  | nan | nan | nan | nan | nan | nan | nan
+  |   | nan | nan | nan | nan | nan | nan | CDM PRICING POLICY. | nan | nan | nan | nan | nan | nan | nan
+(6) | LIST DESCRIPTION OF THE PRODUCT OR SERVICE. | nan | nan | nan | nan | nan | nan | IF THE SUPPLY IS REUSABLE, THE FOLLOWING IS NECESSARY : | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan |          COST OF SUPPLY / MACHINE | nan | nan | nan | nan | nan | nan | nan
+(7) | ENTER PROCEDURE DURATION IN MINUTES, IF APPLICIABLE. (TSI PURPOSES). | nan | nan | nan | nan | nan | nan |          ESTIMATED LIFE | nan | nan | nan | nan | nan | nan | nan
+  |   | nan | nan | nan | nan | nan |   |          ESTIMATED ANNUAL USAGE | nan | nan | nan | nan | nan | nan | nan
+(8) | REV MGT. - INSERT THE APPROPRIATE INS CODE, UB04 CODE & VERIFY CPT#. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | (15) | ENTER THE ESTIMATED YEARLY UTILIZATION OF THE PRODUCT OR SERVICE. | nan | nan | nan | nan | nan | nan | nan
+(9) | THE DEPARTMENT MANAGER SHOULD ASSIGN THE APPROPRIATE CPT CODE. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+  |   | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+  |   | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan

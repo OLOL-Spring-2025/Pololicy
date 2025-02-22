@@ -1,0 +1,274 @@
+  
+  
+STANDARD OPERATING PROCEDURE 
+TITLE:  Veletri Administration 
+ 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRMC-SOP11 
+OWNER: Tim Cordes 
+EFFECTIVE DATE: December 31, 2020 REVIEW DATE: December 20, 2023 
+ 
+ 
+SOP No: OLOLRMC-SOP11  Page 1 of 6 
+ 
+Purpose:   
+To establish a standard operating procedure when administering Veletri (Epoprostenol).  To outline the 
+delivery system setup and medication administration process followed by Respiratory Therapists (RT). 
+ 
+Procedure:   
+When Veletri (Epoprostenol) is ordered, the Respiratory Therapist will verify the order, identify if Veletri is 
+ordered “per protocol” or not, and administer it as per order. The procedure steps below outline the process 
+for setting up the delivery system, operation of the syringe pump, and set up of the AeroNeb system.   
+ 
+1. Process for setting up of delivery system: 
+1.1. Set up of the Veletri medication delivery system will include a syringe pump, Aerogen controller, 
+Aerogen Solo, and Continuous nebulization tube set. 
+1.2. The pharmacy will deliver two syringes to the respiratory therapist at the time of the first dose .  Each 
+syringe will be received in a light protective cover.  The Respiratory Therapist will place one syringe in 
+the refrigerator. 
+1.3. Prior to loading medication onto  the syringe pump, the Respiratory Therapist (RT) must utilize two ID 
+processes to verify patient information.  RT must also validate that the concentration is correct based 
+on the patient’s ideal body weight.    
+1.4. There are two concentrations of Veletri. 
+1.4.1. 15,000ng/ml = 0.75 mg/50 mL 
+1.4.2. 30,000ng/ml = 1.5 mg/50 mL 
+1.5. The patient’s ideal body weight will determine which medication concentration should be ordered.   
+1.5.1. For patients with IBW < 65kg, the concentration to be ordered and administered is 0.75mg/50mL.    
+1.5.2. For patients with IBW > 65kg, the concentration to be ordered and administered is 1.5mg/50mL. 
+(See addendum) 
+Once the concentration and patient ID are validated, the Respiratory Therapist will assemble the 
+delivery system. 
+2. Set up of Syringe and tubing: (See images with steps 1 through 6 below for pictures of syringe set up) 
+2.1. Aerogen syringes will be delivered from the pharmacy in a light protective bag.   
+2.2. Remove the cap from the syringe.   Obtain Continuous nebulization tube set.  RT will make a hole at the 
+end of the bag to connect.   To have the ability to connect the leur lock of the tubing to the end of the 
+syringe – you must cut a hole in the light protective bag.  
+2.3 Lift the syringe barrel clamp holder up and turn to allow for the syringe to be placed on the base of the 
+pump. 
+2.4 Squeeze the syringe plunger release lever to extend the syringe plunger driver.  Ensure the arm is 
+extended enough to fit the entire length of the syringe.   
+   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE:  Veletri Administration 
+ 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRMC-SOP11 
+OWNER: Tim Cordes 
+EFFECTIVE DATE: December 31, 2020 REVIEW DATE: December 20, 2023 
+ 
+ 
+SOP No: OLOLRMC-SOP11  Page 2 of 6 
+ 
+2.5. Place the syringe on the pump and fold the light protective bag to ensure the syringe sits level on the 
+pump. 
+2.6. Slide the flange of the syringe into the syringe barrel flange clip.  Then, weave tubing through the tubing 
+holders to ensure the tubing is not kinked. 
+2.7. Squeeze the syringe plunger release lever and push it forward until it is flushed against the syringe 
+plunger.  Once it is flush, release the lever.  Be sure both holders of the lever are around the syringe 
+plunger. 
+2.8. Lock the syringe in place by turning and lowering the syringe barrel clamp on top of the syringe; Ensure 
+the clamp holds the syringe in place. 
+ 
+              
+                3.   
+3. Operation of the Syringe Pump. 
+3.1. Power on the syringe pump by depressing the blue power button (bottom left of the pump). 
+3.2.  Select “More,” then press #2 to select “mL/HR.”  Veletri has not been created in the drug library. 
+3.3. Confirm the selection of “ml/HR” by selecting “yes.” 
+3.4.  Select syringe model.  Press #3 for the B-D syringe. 
+3.5.  Select “confirm” after the selection of the B-D syringe. 
+3.6. Enter the rate in mL/HR – enter the # of mL/HR in accordance with the protocol based on IBW, dose , 
+and correct drug concentration. 
+3.7.  Once #mL/HR has been verified, select “ENTER.” 
+>>>>
+> 
+ 
+ 
+> 
+ 
+ >>>>
+> 
+ 
+ 
+> 
+ 
+ 
+>>>>
+> 
+ 
+ 
+> 
+ 
+ 
+>>>>
+> 
+ 
+ 
+> 
+ 
+ 
+6. 5. 4. 
+3. 2. 1.   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE:  Veletri Administration 
+ 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRMC-SOP11 
+OWNER: Tim Cordes 
+EFFECTIVE DATE: December 31, 2020 REVIEW DATE: December 20, 2023 
+ 
+ 
+SOP No: OLOLRMC-SOP11  Page 3 of 6 
+ 
+3.8. Prior to initiating delivery of medication, prime the continuous neb tubing. Select the Prime/Bolus 
+button with double arrows. Pressing the button once takes you to the priming screen.  Then, press and 
+hold the double arrow button until the medication reaches the end of the tubing.  The maximum 
+priming volume is 3.65 ml. 
+3.9. Once the tubing is primed, select EXIT to return to the delivery screen.  Tubing will be connected to the 
+AeroNeb once primed for delivery. 
+3.10. Ensure all settings are correct, then press the green single arrow button to start the infusion pump. At 
+this time, the infusing indicator lights should illuminate in a right-to-left sequence. 
+ 
+4. Connecting tubing to AeroNeb Solo and AeroNeb Pro-X controller: 
+4.1. Place the AeroNeb Solo and T -piece in the inspiratory limb on the dry side  of the heater.  Ensure that 
+the medication holding chamber is upright for proper nebulization.   
+4.2. Ensure that the AeroNeb Controller is plugged into  the electrical supply source  and that the control 
+module cable is connected to the AeroNeb.  
+4.3. Press the blue on/off button on the controller.  HOLD for at least 5 seconds to select continuous mode.  
+The green light will appear to indicate Continuous on the AeroNeb control module.  (Controller MUST 
+be plugged into an electrical outlet to operate in continuous mode) 
+4.4. Once Continuous neb tubing is primed, the tubing will be attached to the AeroNeb.  Remove the silicone 
+plug from AeroNeb and connect the leur lock of the medication tubing to the neb. The medication will 
+then drip into the medication holding chamber.  
+4.5. RT will label the tubing indicating the date when the tubing should be changed; tubing is validated for 
+use up to 7 days. 
+4.6. Every two hours, the RT will assess the patient and check that AeroNeb is nebulizing properly. RT will 
+review the volume of medication left to be infused. Assessments are to ensure proper medication 
+delivery and to evaluate the time for the next dose. 
+4.7.  RT will place one bacteria filter in line at the expiratory limb of the ventilator circuit.  
+4.8.  RT will change the filter every 4 hours AND as needed. 
+ 
+5. Changing Dose delivered: 
+5.1. Veletri is ordered to be delivered to the patient at a dose in ng/kg/min.  The OLOLRMC F Veletri Dosing 
+Chart will be used to determine the rate of medication delivery to deliver the desired dose in ng/kg/min 
+based on patient IBW and medication concentration. The rate of medication delivery is in mL/HR.   
+5.2. When the dose needs to be changed, the RT must change the rate.  To change the rate of medication 
+delivery, select “CHG RATE” on the pump by pressing the rate of medication delivery, and select “CHG 
+RATE” on the pump by pressing the yellow button. 
+5.3. Once the correct # is entered for mL/HR, select “ENTER.”  Ensure the flashing lights are moving left to 
+right, which indicates the pump is working to ensure continuous medication delivery. 
+ 
+    
+  
+STANDARD OPERATING PROCEDURE 
+TITLE:  Veletri Administration 
+ 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRMC-SOP11 
+OWNER: Tim Cordes 
+EFFECTIVE DATE: December 31, 2020 REVIEW DATE: December 20, 2023 
+ 
+ 
+SOP No: OLOLRMC-SOP11  Page 4 of 6 
+ 
+ 
+6. Process and Frequency for changing medication  
+6.1. The respiratory therapist will use the OLOLRMC Veletri Dosing Chart to set the rate on a pump, which 
+will administer Veletri at the desired dose based on the patient's IBW. (See Dosing Chart below) 
+6.2. Veletri is stable at room temperature for a maximum of forty-eight (48) hours and when covered in the 
+refrigerator for eight (8) days.   
+6.3. The medication syringe must be changed prior to running the medication out.   
+6.4. If the patient has medication left in the syringe at four (4) hours, the syringe must be changed and 
+replaced with a new syringe.  The previous syringe must be disposed of in the proper manner.   
+6.5. RT will remove the syringe from the refrigerator.   
+6.6. Scanning of medication: 
+6.7. RT will confirm the correct  two patient IDs as well as the correct concentration prior to administering 
+medication.   
+6.8. RT will scan the patient's armband, then scan the patient's armband, and then scan the medication. RT 
+will ensure all medication administration documentation is completed in the record prior to starting a 
+new syringe.   
+6.9. To change the syringe, press the RED stop button on the pump.   
+6.10. Remove the used syringe from the pump and set aside to be properly disposed of.   
+6.11. If medication is left in the syringe, RT should dispose of the syringe in a labeled medication box in the 
+medication room. 
+6.12. Press “Clear TVD ,” which is the total volume delivered. This will allow you to easily track how much 
+medication has been administered to the patient over time. 
+6.13. With a new syringe, ensure a small hole is cut at the end of the bag to connect the tubing with a syringe.  
+The new syringe must be uncapped and then connected to the tubing.   
+6.14. Load the new syringe onto the pump following the steps listed in 2.1. 
+6.15. The pump screen will revert to the “select a syringe” screen. 
+6.16. Select #3 for the B-D syringe.  Then select confirm to confirm the syringe type.  
+6.17. There will be a question to continue at the previous setting – if you are to deliver the same dose, then 
+the rate will be the same.  If so, select yes , then press the green button with the arrow to deliver 
+medication. 
+6.18. RT will send a medication request to the pharmacy at the time the syringe is used to ensure a dose is 
+always available in the refrigerator.  
+6.19. The pharmacy will deliver to the patient care unit,  and RT will ensure the medication is available in 
+the refrigerator.  
+ 
+7. Changing tubing 
+7.1. Aerogen Continuous nebulization tubing has been qualified for use for a maximum of 7 days. 
+7.2. Changing of tubing should be coordinated with the changing of the medication syringe.   
+7.3. When tubing is changed, RT should complete the priming process as described in 3.8.   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE:  Veletri Administration 
+ 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRMC-SOP11 
+OWNER: Tim Cordes 
+EFFECTIVE DATE: December 31, 2020 REVIEW DATE: December 20, 2023 
+ 
+ 
+SOP No: OLOLRMC-SOP11  Page 5 of 6 
+ 
+7.4. Tubing must be labeled and changed every 7 days.  RT must label the tubing , indicating the date the 
+tubing is due to be changed. 
+7.5. If, for any reason, the system is not functioning properly, is not able to connect to the syringe or neb, 
+or the tubing is not intact, the tubing must be changed at that time.   
+ 
+8. Documentation and charging for Veletri administration: 
+8.1. The respiratory therapist will assess the  Veletri every TWO hours to verify pump and nebulizer are 
+working correctly.  The assessment will include the following: 
+8.2. Heart rate 
+8.3. Respiratory rate 
+8.4. Breath sounds 
+8.5. SpO2 
+8.6. Documentation of the dose of Veletri patient received at the time of the assessment.  
+8.7. Review of the setup - ensure nebulization is occurring effectively. 
+8.8. Review the medication amount in the syringe and the time it needs to be changed. 
+8.9.  Documentation of the assessment will be completed every two hours in the patient's EMR.   
+8.10. Charging for the administration of Veletri will occur for the time given.  RT will document “Continuous 
+Neb 1st hour” for the first hour of medication administration. 
+8.11. The RT will document “Continuous Neb Subs hour” at the time of each two-hour assessment. 
+8.12. The RT will ensure that the total number of hours of use is documented prior to the end of the shift.   
+8.13. Day shift will document with the 1800 vent assessment the total number of hours Veletri was 
+administered for the shift, not including the 1st hour if started that day.  
+8.14. The night shift will document prior to midnight and with the 0600 -vent assessment , if  Veletri is 
+administered for the entire shift.  Night shift RT will document and charge 6 hours prior to midnight 
+and 6 hours at 0600. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE:  Veletri Administration 
+ 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRMC-SOP11 
+OWNER: Tim Cordes 
+EFFECTIVE DATE: December 31, 2020 REVIEW DATE: December 20, 2023 
+ 
+ 
+SOP No: OLOLRMC-SOP11  Page 6 of 6 
+ 
+ 
+For IBW < 65kg 
+For IBW > 65kg 

@@ -1,0 +1,46 @@
+ 
+Plant Services 
+ 
+ PS018 
+Page 1 of 1 
+Title: Medical Gas / Vacuum Systems  
+Revision Date: 02/05/20 
+Review Date: 07/15/18 
+Reference # PS018 Origin Date: May 1988 
+ 
+PURPOSE: 
+To provide a safe physical environment for patients, staff and visitors at all Our Lady of the Lake 
+Regional Medical Center (OLOL) network locations. 
+ 
+POLICY: 
+Our Lady of the Lake Regional Medical Center (OLOL) is equipped with medical gas and vacuum 
+systems which are monitored continuously with warning audible and visual alarms.  The medical gas 
+and vacuum systems have been installed and tested in accordance with current standards.  
+ 
+PROCEDURE: 
+ 
+Operations: 
+1. Inspections on medical gas panels, alarms, outlets, are conducted annually. 
+2. Hospital users of medical gases have panels installed to alert staff of low line pressure. If the alarm 
+sounds, notify Plant Services immediately. 
+3. Plant Services is designated to exchange medical gas cylinders, when needed. 
+4. Bulk stores of medical gases are stored in open spaces and secured by badge access or lock. 
+5. Tanks and valves are labeled, and fittings standardized to prevent cross connection. 
+ 
+Identification: 
+OLOL will identify all valves within the Medical gas/vacuum system, through use of unique signage, 
+according to applicable codes, standards,  and established safe practice.   Zone valves shall be located to 
+ensure visibility and ease of access and shall remain unobstructed. 
+1. Zone valves shall not branch from other zone valves, but rather should feed from main distribution 
+lines. 
+2. Signage on the zone valve box must identify the gas and area controlled. 
+3. Signage must be in accordance with current applicable standards. 
+ 
+Construction 
+Alterations or modifications to any primary medical gas system must be approved by Plant Services 
+leadership or designee.  Certification and cross checks must be performed by a certified outside 
+contractor before the modified section is put into services.  All lines are to be purged before use.  This 
+procedure is necessary to assure patient and pipeline safety. 
+ 
+REFERENCES: 
+National Fire Protection Association 99-2012 Chapter 5 

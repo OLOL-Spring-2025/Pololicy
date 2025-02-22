@@ -1,0 +1,438 @@
+AA-OR-012 
+Page 1 of 10 
+PURPOSE 
+To protect the rights of patients who receive investigational devices under an Investigational Device 
+Exemption (IDE); to ensure proper billing for investigational devices and related services, consistent 
+with Medicare National Coverage Decisions and rules of private payers; and to describe the process for 
+the receipt, storage, distribution, reconciliation, return, or authorized destruction of an investigational 
+device used in a clinical research study.   
+RESPONSIBILITY 
+A physician who wishes to use an investigational device is considered to be an investigator, and as such, 
+is responsible for protecting the rights, safety and welfare of subjects.  The investigator must conduct the 
+investigation in accordance with the signed agreement with the sponsor, the investigational plan, the 
+IDE regulations and other applicable Food & Drug Administration (FDA) regulations, and any 
+conditions of approval imposed by the Institutional Review Board (IRB) and the FDA.   
+This policy applies to all personnel involved in an investigational device clinical research study, to 
+include inventorying, storing, distributing, arranging for the return or destruction of an investigational 
+new device, study oversight and operations, or billing in connection with an investigational device 
+clinical research study.   
+SCOPE 
+Describes the steps followed to obtain endorsement of an investigational device clinical research study, 
+the steps followed to evaluate the risks imposed on research participants, the steps followed from the 
+time the investigational device is received on site until it is used during a clinical research study, 
+returned to the sponsor, or destroyed onsite at the sponsor’s request, as well as the guidelines established 
+for investigational device and related services billing.   
+BACKGROUND INFORMATION 
+For the protection of human subjects, the FDA classifies investigational devices as posing either 
+Significant Risk (SR) or Non-Significant Risk (NSR).  
+A SR device is defined as a device:  
+1. Intended as an implant and presents a potential for serious risk to the health, safety or welfare 
+of a participant.  
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Academic Affairs Section: Office of Research 
+Title: Investigational Device Exemptions (IDEs) 
+Policy Reference #: AA/OR/012 
+Supersedes #: 
+03/06 OrgClin/CR/006: 
+Billing for Investigational 
+Devices and Related 
+Services   
+Date of Origination: February 1, 2012 Last Review Date: May 21, 2020 
+Last Revision Date: May 21, 2020 AA-OR-012 
+Page 2 of 10 
+2. Purported or represented to be for use in supporting or sustaining human life and presents a 
+potential for serious risk to the health, safety or welfare of a participant.  
+3. For use of substantial importance in diagnosing, curing, mitigating, or treating disease, or 
+otherwise preventing impairment of human health and presents a potential for serious risk to 
+the health, safety or welfare of a participant; or  
+4. Which otherwise presents a potential for serious risk to the health, safety or welfare of a 
+participant.   
+A NSR device study is one in which the device(s) being used does not meet the criteria for significant 
+risk device, as described above.     
+The FDA classifies investigational devices into two categories:  Category A (experimental) or Category 
+B (non-experimental/investigational).  Once the FDA grants an IDE, the device may be used in clinical 
+trials as part of the pre-market approval process.  When the Center for Medicare and Medicaid Services 
+(CMS) is notified that a particular IDE has been determined to be a Category B device, it is reviewed, 
+and a coverage decision is made.   
+Investigational Devices which are classified as Category A devices, by the FDA, are not covered by the 
+Medicare Program.  Medicare coverage of services related to the provision of Category A devices is as 
+follows:   
+1. Services related to the provision of Category A devices where the clinical trial does not 
+diagnose, monitor or treat an immediately life-threatening disease or condition are not 
+covered by and must not be billed to the Medicare Program.   
+2. Services related to the provision of Category A devices where the clinical trial diagnoses, 
+monitors or treats an immediately life-threatening disease or condition are covered by and 
+may be billed to the Medicare Program when all the following conditions have been met:   
+a. Approval has been granted by Our Lady of the Lake Regional Medical Center’s 
+(OLOL’s) designated IRB.  
+b. Services are furnished to a subject who is participating in an FDA-approved clinical 
+trial; and  
+c. Proper notification has been submitted to OLOL’s Medicare Fiscal Intermediary (FI) 
+and approval has been received from the Medicare FI.   
+Investigational devices which are classified as Category B devices by the FDA, and services related to 
+the provision of such devices, are only covered by and may be billed to Medicare if the devices are 
+medically necessary for the subject to whom they are rendered and have been:   
+1. Approved by OLOL’s designated IRB.  
+2. Granted an FDA-approved IDE and Category B status.  AA-OR-012 
+Page 3 of 10 
+3. Furnished to a subject who is participating in an FDA-approved clinical trial; and  
+4. Proper notification has been submitted to OLOL’s Medicare FI, and approval has been 
+received from the Medicare FI.   
+Category B investigational devices and the services related to the provision of such devices that do not 
+meet the above requirements are not covered by and may not be billed to the Medicare Program.   
+Medicare will cover services related to a condition or complication that arises as a result of the use of a 
+non-covered Category A or Category B device.   
+OLOL may accept an investigational device from a manufacturer or research sponsor at no charge for 
+use in a clinical trial.  However, in such cases, the facility must not charge the subject or Medicare for 
+the device.  When the facility receives a device at no charge, the facility may bill Medicare for services 
+related to the provision of the device as long as the device meets all other Medicare coverage 
+requirements.   
+DEFINITIONS 
+1. Category A Device:  An innovative/experimental device for which “absolute risk” of the device 
+type has not been established (that is, initial questions of safety and effectiveness have not been 
+resolved and the FDA is unsure whether the device type can be safe and effective).  There is no 
+Medicare coverage, under any circumstances, for a Category A device; however, in certain 
+situations, Medicare will cover the cost of services related to the use of a Category A device.   
+2. Category B Device:  A device for which the underlying questions of safety and effectiveness of 
+that device type have been resolved by the FDA, or it is known that the device type can be safe 
+and effective because, for example, other manufacturers have obtained FDA approval for that 
+device type.   
+Medical Device:  The FDA defines a medical device as an instrument, apparatus, implement, 
+machine, contrivance, implant, in vitro reagent, or other similar or related article, including a 
+component part or accessory which is: recognized in the official National Formulary, or the 
+United States Pharmacopoeia, or any supplement to them.  
+Intended for the use in the diagnosis of disease or other conditions, or in the cure, mitigation, 
+treatment, or prevention of disease, in man or other animals, or  
+Intended to affect the structure or any function of the body of man or other animals, and which 
+does not achieve its primary intended purposes through chemical action within or on the body of 
+man or other animals and which is not dependent upon being metabolized for the achievement of 
+any of its primary intended purposes.  
+3. Immediately Life-Threatening Disease or Condition:  A stage of a disease in which there is a 
+reasonable likelihood that death will occur within a matter of months or in which premature 
+death is likely without early treatment.  The FDA has expanded the criteria of “life-threatening 
+condition” to include serious conditions such as sight-threatening and limb-threatening 
+conditions as well as other situations involving risk of irreversible morbidity.   
+4. Investigational Device:  Includes any device (approved or unapproved by the FDA) being used 
+in a clinical investigation or research using one or more subjects to determine the safety and/or 
+effectiveness of a device for a specific application or intended use.   AA-OR-012 
+Page 4 of 10 
+5. Investigational Device Exemption (IDE):  An application which, when approved by the FDA, 
+permits an investigational device (Category A or B) which would otherwise be subject to 
+marketing clearance, to be shipped lawfully for the purpose of conducting a clinical trial in 
+accordance with federal regulations.   
+6. 510(k) or PMN:  A Premarket Notification (PMN or 510(k)) to determine “substantial 
+equivalence.”  Device manufacturers submit a PMN or 510(k) application to the FDA when they 
+intend to introduce a device into commercial distribution for the first time, or reintroduce a 
+device that will be significantly changed or modified to the extent that its safety or effectiveness 
+could be affected.  Such change or modification could relate to the design, material, chemical 
+composition, energy source, manufacturing process, or intended use.  The FDA then determines 
+whether the device is equivalent to a device already approved, or whether a further study or 
+evaluation is required, including the need for an IDE.   
+7. Related Services (Services Related To):  All services furnished in preparation for the use of an 
+investigational device, services furnished contemporaneously with and necessary to the use of an 
+investigational device, and services furnished as necessary aftercare that are incident to recovery 
+from the use of the device.  For example, a surgical procedure to implant an investigational hip 
+implant is considered a related service.  
+ 
+PROCEDURES 
+Sponsors of the study are responsible for making the initial risk determination and presenting it 
+to the IRB. Name of device (trade name, common/usual name and classification number). Unless 
+the FDA has already made a risk determination for the study, the IRB must review the sponsor’s 
+SR or NSR determination for every investigational medical device and modify the determination 
+if the IRB disagrees with the sponsor. If the FDA has already made the determination SR or NSR 
+determination for the study, the agency’s determination is final. The FDA is available to help the 
+IRB when making its risk determination.  
+The determination of risk should be included in submission documents to the Office of Research 
+in order to conduct the feasibility review.  
+The Office of Research is responsible for notifying the Medicare FI prior to submitting claims 
+for Category B devices and related services, as well as covered services related to the provision 
+of Category A devices.  A letter must be sent to the Medicare FI, accompanied by the required 
+documentation.  The study may not start enrollment until notification of approval from the 
+Medicare FI has been received.   
+When a new study subject is enrolled in a study, it is the responsibility of the PI to send the New 
+Subject Enrollment Form to the Office of Research (See Research Feasibility policy).   
+Office of Research staff must identify any specific instructions from their Medicare FI and notify 
+Patient Financial Services of any FI interpretations which vary from the interpretations of this 
+policy.  Specific documentation from the FI related to the variance(s) must be obtained and 
+provided to Patient Financial Services and Revenue Management.   
+EXPANDED ACCESS TO UNAPPROVED DEVICES AA-OR-012 
+Page 5 of 10 
+There are four categories of expanded access to unapproved devices (See Appendix A):   
+1. Emergency use of investigational devices;  
+2. Compassionate use of investigational devices;   
+3. Treatment use of investigational devices; and  
+4. Continued access to investigational devices.   
+OLOL recognizes that occasionally the need will arise to use an investigational device in one of the 
+capacities listed above.  The use of an investigational device under these circumstances is regulated by 
+21 CFR Part 812, as well as the FDA’s “Guidance for the Emergency Use of Unapproved Medical 
+Devices.”  
+Emergency Use of Investigational Devices  
+The FDA recognizes that emergencies arise where an unapproved device may offer the only possible 
+life-saving alternative, but an IDE for the devices does not exist, or the proposed use is not approved 
+under an existing IDE, or the physician or institution is not approved under the IDE.  Using its 
+enforcement discretion, the FDA has not objected if a physician chooses to use an unapproved device in 
+such an emergency, provided that the physician later justifies to the FDA that an emergency existed.   
+Each of the following conditions must exist to justify emergency use of an unapproved medical device:   
+1. The patient is in a life-threatening condition that needs immediate treatment;  
+2. No generally acceptable alternative for treating the patient is available; and  
+3. Because of the immediate need to use the device, there is no time to use existing procedures to 
+get FDA approval for the use.   
+The FDA expects the physician to determine whether these criteria have been met, to assess the potential 
+for benefits from the unapproved use of the device, and to have substantial reason to believe that 
+benefits will exist.  The physician may not conclude that an “emergency” exists in advance of the time 
+when treatment may be needed based solely on the expectation that IDE approval procedures may 
+require more time than is available.  Physicians should be aware that the FDA expects them to exercise 
+reasonable foresight with respect to potential emergencies and to make appropriate arrangements under 
+the IDE procedures far enough in advance to avoid creating a situation in which such arrangements are 
+impracticable.   
+The FDA expects physicians to follow as many subject protection procedures as possible.  These 
+include:   
+1. Obtaining an independent assessment by an uninvolved physician;  
+2. Obtaining informed consent from the patient or a legal representative;  
+3. Notifying the OLOL Office of Research;  AA-OR-012 
+Page 6 of 10 
+4. Notifying the Institutional Review Board (IRB); and  
+5. Obtaining authorization from the IDE holder if an approved IDE for the device exists.   
+After the emergency use occurs, the treating physician is responsible for ensuring that certain follow-up 
+procedures occur.  If an IDE exists for the device, the physician should provide the IDE sponsor with 
+sufficient patient follow-up information to allow the sponsor to comply with the reporting requirements 
+of the IDE regulation.  If no IDE exists, the physician should submit a follow-up report on the use of the 
+device to the FDA.  This report should contain a summary of the conditions constituting the emergency, 
+patient protection measures that were followed, and patient outcome information.   
+Compassionate Use of Investigational Devices Intended for Serious Diseases 
+Unlike emergency use of an unapproved device, prior FDA approval is needed before compassionate 
+use occurs.  A physician intending to use an investigational device under the compassionate use rules 
+must work with the IDE holder/sponsor to obtain this approval.  The physician must provide the 
+following information:   
+1. A description of the patient’s condition and the circumstances necessitating treatment;  
+2. A discussion of why alternative therapies are unsatisfactory and why the probable risk of 
+using the investigational device is no greater than the probable risk from the disease or 
+condition;  
+3. An identification of any deviations in the approved clinical protocol that may be needed in 
+order to treat the patient; and  
+4. The patient protection measures that will be followed (as described in the previous section 
+“Emergency Use of Unapproved Medical Devices”).   
+If the FDA approves this use of the investigational device, the attending physician should devise an 
+appropriate schedule for monitoring the patient, taking into consideration the investigational nature of 
+the device and the specific needs of the patient.  The patient should be monitored to detect any possible 
+problems arising from the use of the device.  The IDE holder/sponsor must submit this information to 
+the FDA.   
+If any problems occurred as a result of device use, these should be reported as soon as possible to both 
+the FDA through the sponsor, and to OLOL’s designated IRB.   
+Treatment Use of Investigational Devices 
+These procedures are intended to facilitate the availability of promising new therapeutic and diagnostic 
+devices to desperately ill patients as early in the device development process as possible (i.e., before 
+general marketing begins, and to obtain additional data on the device’s safety and effectiveness).  These 
+procedures apply to patients with serious or immediately life-threatening diseases or conditions for 
+which no comparable or satisfactory alternative device exists.   
+Treatment use of an investigational device will be considered when:   AA-OR-012 
+Page 7 of 10 
+1. The device is intended to treat or diagnose a serious or immediately life-threatening disease 
+or condition;  
+2. There is no comparable or satisfactory alternative device available to treat or diagnose the 
+disease or condition in the intended patient population;  
+3. The device is under investigation in a controlled clinical trial for the same use under an 
+approved IDE, or all clinical trials have been completed; and  
+4. The sponsor of the controlled clinical trial is pursuing marketing approval/clearance of the 
+investigational device with due diligence.   
+The sponsor is responsible for submitting the application for treatment use to the FDA.   
+A licensed practitioner who receives an investigational device for treatment use under a treatment IDE is 
+an “investigator” under the IDE and is responsible for meeting all applicable investigator responsibilities 
+under 21CFR Parts 50, 56 and 812.   
+Continued Access to Investigational Devices 
+The sponsor of a clinical investigation is permitted to continue to enroll subjects while a marketing 
+application is being prepared by the sponsor and/or reviewed by the agency if there is:   
+1. A public health need for the device; or  
+2. Preliminary evidence that the device is likely to be effective and no significant safety concerns 
+have been identified for the proposed indication.   
+The continued enrollment of subjects in an investigation while a marketing application is being prepared 
+by the sponsor and/or reviewed by the FDA is known as an “extended investigation.”  Extended 
+investigations permit patients and/or physicians continued access to the devices while also allowing the 
+collection of additional safety and effectiveness data to support the marketing application or to address 
+new questions regarding the investigational device.   
+The sponsor is responsible for submitting the request for an extended investigation to the FDA.   
+REFERENCES 
+US Department of Health and Human Services (2013).  Code of Federal Regulations: 21 CFR Part 50, 
+Protection of Human Subjects.  Available from: 
+http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=50  
+US Department of Health and Human Services (2013).  Code of Federal Regulations: 21 CFR Part 54, 
+Financial Disclosure by Clinical Investigators. 
+http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=54  
+US Department of Health and Human Services (2011).  Code of Federal Regulations: 21 CFR Part 56, 
+Institutional Review Boards.  Available from: 
+http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=56   AA-OR-012 
+Page 8 of 10 
+US Department of Health and Human Services (2013).  Code of Federal Regulations: 21 CFR Part 312, 
+Investigational New Drug Application.  Available from:  
+http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?CFRPart=312  
+US Department of Health and Human Services (2013).  Code of Federal Regulations: 21 CFR Part 812, 
+Investigational Device Exemptions.  Available from:   
+http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfCFR/CFRSearch.cfm?CFRPart=812  
+US Department of Health and Human Services (2014).  Guidance on IDE Policies and Procedures: 50 
+FR 42866. Available from: 
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/ucm080202.h
+tm AA-OR-012 
+Page 9 of 10 
+Expanded Access Mechanisms for Unapproved Devices (Appendix A)  
+Expanded 
+Access 
+Mechanism  
+Regulatory 
+Authority 
+Criteria for Use  When 
+Can It 
+Be 
+Used? 
+Number of 
+Patients to be 
+Treated  
+FDA 
+Approval 
+Needed? 
+How is FDA Approval Obtained?  Patient Protection 
+Measures 
+Emergency 
+Use 
+"Guidance for 
+the Emergency 
+Use of 
+Unapproved 
+Medical 
+Devices" 
+50 FR 42866 
+21 CFR 
+812.35(a)  
+1. Life-threatening 
+condition‡;  
+2. No alternative; 
+and 
+3. No time to 
+obtain 
+FDA approval.  
+Before 
+or after 
+initiation     
+of 
+clinical 
+trial 
+ 
+Limited to one 
+patient 
+No; 
+submit 
+report to 
+FDA 
+following 
+device 
+use  
+Not applicable 1. Independent 
+assessment by 
+uninvolved doctor; 
+2. IRB chairperson's 
+concurrence; 
+3. Institutional 
+clearance; and 
+4. Informed consent  
+Compassio
+nate Use 
+21 CFR 
+812.35(a)  
+1. Serious 
+disease or 
+condition; and 
+2. No alternative.  
+During 
+clinical   
+trial  
+Individual 
+patient or 
+small groups 
+of patients  
+Yes IDE supplement with: 
+1. Explanation of circumstances constituting 
+need for the device; 
+2. Reasons alternatives not acceptable; 
+3. Deviations from protocol, if any; and 
+4. Patient protection measures.  
+1. Independent 
+assessment by 
+uninvolved doctor; 
+2. IRB chairperson's 
+concurrence; 
+3. Institutional 
+clearance; and 
+4. Informed consent.  
+Treatment 
+IDE 
+21 CFR 812.36  1. Life-threatening 
+or serious 
+disease; 
+2. No alternative; 
+3. Controlled 
+clinical trial; and 
+4. Sponsor 
+pursuing 
+marketing 
+During 
+clinical  
+trial  
+Wide access; 
+depends on 
+patient/ 
+physician need 
+ 
+Yes Treatment IDE supplement with: 
+1. Intended Use, protocol, and patient 
+selection criteria; 
+2. Rationale for treatment use; 
+3. Methods used to evaluate device use and 
+minimize risks; 
+4. Monitoring plan; 
+5. Summary of S&E data 
+6. Instructions for use and device labeling; 
+1. IRB approval and 
+2. Informed consent.  AA-OR-012 
+Page 10 of 10 
+approval.  7. Commitment to patient protection; 
+8. Investigator agreement; and 
+9. Price, if will be sold.  
+Continued 
+Access 
+"Continued 
+Access to 
+Investigational 
+Devices During 
+PMA 
+Preparation 
+and Review" 
+ 
+ODE Blue Book 
+IDE 
+Memorandum 
+#D96-1  
+1. Public health 
+need; or  
+2. Preliminary 
+evidence that 
+device will be 
+effective and  
+no significant 
+safety concerns.  
+After      
+end of 
+clinical  
+trial 
+Same rate of 
+enrollment as 
+study  
+Yes IDE supplement with: 
+1. Justification for extended study; 
+2. Summary of S & E data and risks posed by 
+the device; 
+3. Proposed enrollment rate; 
+4. Clinical protocol; and 
+5. Progress towards marketing approval.  
+1. IRB approval and 
+2. Informed consent.  
+ 
+ 

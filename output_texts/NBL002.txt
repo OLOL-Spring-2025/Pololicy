@@ -1,0 +1,528 @@
+ 
+ 
+ NBL-002 
+Page 1 of 13 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services Section: Blood 
+Title: 
+Blood Bank Specimen Collection, 
+Administration of Blood & Blood Products 
+and Management of Possible Adverse 
+Reactions  
+Policy 
+Reference #: NBL-002 
+Supersedes #: 88, 94, 96, 97 
+Date of Origination: February 26, 1988 Date Last 
+Reviewed:   April 12, 2024 
+Date Last Revised:    June 1, 2023  
+ 
+PURPOSE: 
+To provide guidelines for the safe administration of blood and blood products.  
+ 
+POLICY: 
+A. The collection of a properly labeled blood sample from the correct patient is critical to safe 
+blood transfusion. The person who draws the blood must identify the patient by comparing 
+the information on the request form (computer-generated label) with the information on the 
+patient hospital identification armband.  If there is any discrepancy between the two, the 
+sample must not be collected. 
+B. Patients requiring the administration of blood or blood products will be properly identified 
+and receive vigilant monitoring and care to minimize complications. 
+C. Standard safety precautions should be used when handling specimens, blood, and blood 
+products. 
+D. Re-labeling of Blood Bank samples is prohibited.  All samples are to be labeled in the 
+presence of   the patient, prior to leaving the bedside.  No exceptions will be made.   
+E. Patients requiring Emergent Transfusion may be transfused without a current Red Blood 
+Bank Armband or a collected Blood Bank Specimen. 
+F. Transfusion Reactions will be recognized, investigated, and treated immediately. 
+ 
+ 
+ 
+PROCEDURE: 
+A. EMERGENT TRANSFUSION 
+When blood or blood products are required for emergent transfusion, perform the following 
+steps:  
+1. Call to notify Transfusion Services regarding need for emergency release products. 
+Products can be made available immediately after they are requested.  
+ 
+ NBL-002 
+Page 2 of 13 
+ 
+2. NOT required at the time of emergency transfusion: 
+a. Current Blood Bank Armband 
+b. Current Blood Bank specimen 
+3. Provide the following information: 
+a. Patient Name and 2nd Identifier 
+b. Product(s) needed (rbc, ffp, platelets, and/or cryo) 
+c. Name of Physician authorizing the Transfusion 
+4. Transfusion Services team member will verify if patient already has products 
+assigned/crossmatched.  Products assigned/crossmatched to the patient are preferable 
+for transfusion and will always be given first. 
+5. Pick up product(s) from Transfusion Services using either a Blood Product request 
+form or a patient chart label.   
+6. Products will not be released from Transfusion Services without intended patient 
+identification. 
+7. No unit tags will be present on blood or blood products issued in an emergency. 
+8. Patient information will be matched using the Emergency Request for Blood/Blood 
+Products form issued with the products from Transfusion Services against Patient’s 
+Hospital Armband. 
+9. All patient transfusion information must be documented in the patient’s chart. 
+10. Patient sample should be acquired as soon as situation permits to allow emergency 
+released products to be crossmatched retrospectively. 
+11. The physician authorizing the emergency transfusion must order “Transfuse 
+Emergency Released Uncrossmatched Blood” as soon as possible after the event. 
+ 
+B. SPECIMEN COLLECTION FOR BLOOD BANK TESTING 
+1. Equipment/Supplies: 
+a. Adult and Children -  EDTA purple top tube (10 ml – 2 ml standard).  If multiple 
+specimens are collected each must be fully labeled including Blood Bank number. 
+b. Neonate (infant ≤4 months of age) - 2 mL EDTA or 2-3 microtainers from a heel 
+stick or venipuncture.  All specimens must be fully labeled including Blood Bank 
+number.  Specimen expiration will be 120 days from the patient’s date of birth.  
+For subsequent transfusion orders, a new specimen is not necessary as long as the 
+Red Blood Bank Armband is on the neonate for the entire admission unless: the 
+initial antibody screen is positive, or the infant received blood products containing 
+plasma which are ABO incompatible with the neonate.  Transfusion Services may 
+request additional sample if original has been exhausted.  
+c. Blood Bank Patient Identification System – provides additional positive sample 
+and patient identification.  
+ 
+ NBL-002 
+Page 3 of 13 
+ 
+i. Consists of Red blood bank identification band to be placed on the patient 
+with corresponding stickers to be placed on the specimen(s) at the time of 
+collection for any blood bank testing.  
+ii. Supplied by Transfusion Services 
+iii. The following orders require the use of the Blood Bank Patient 
+Identification System 
+• Type and Screen 
+• Draw and Hold 
+iv. Platelets, plasma and cryoprecipitate orders do not require the use of 
+Blood Bank Patient Identification System 
+2. Physician submits the prepare order for blood or a specific blood product, the amount 
+or number of units, and a type and screen (includes autologous), when indicated.  
+This order is transmitted to Transfusion Services via EMR order entry. 
+3. If patient does not have history in Transfusion Service’s computer system or an “in 
+lab” sample drawn at an earlier time, Transfusion Services may request a 
+confirmatory/second ABO sample to be drawn.  Per AABB standards, patients must 
+have 2 blood types from 2 separate phlebotomies before crossmatched Red Blood 
+Cells or Fresh Frozen Plasma can be given out for transfusion.  This sample may be 
+drawn in a 2 mL purple top labeled using 2 ID process.  It cannot be drawn at the 
+same time as the crossmatch sample.    
+4. Collect specimen. Perform the following before leaving the patient as part of the 
+collection: 
+a. Do not leave the bedside after starting the collection of your sample to get labels 
+or supplies.  Bring all supplies to the room.  
+b. If a computer-generated lab label is available, label the specimen tube(s) with that 
+label. Complete the collection electronically which will capture collector ID, date, 
+and time collected.  
+c. Attach a Blood Bank Identification System unique number to the tube. 
+d. If a computer-generated lab label is not available, the computer-generated chart 
+label or handwritten patient information is acceptable.  (Must have 2 pt. IDs) 
+Record Lawson id, date and time collected on the tube and attach Blood Bank 
+Identification System unique number to the tube. 
+e. Write initials and/or team member’s Lawson ID, date and time of draw on the 
+Blood Bank Patient Identification System armband insert, which is found on the 
+bottom of the Blood Bank Patient Identification System label sheet. 
+f. Remove the Blood Bank Patient Identification System insert from the label sheet 
+and place it in the red plastic armband sheath. 
+g. Secure the plastic Blood Bank Patient Identification System armband to the 
+patient’s wrist or ankle. Do not apply the band too tightly.  Allow ample slack.  
+Try to put the armband on the same arm as the hospital armband.  
+ 
+ NBL-002 
+Page 4 of 13 
+ 
+5. Blood and Blood Component Anticipated Turnaround Times 
+a. Routine Crossmatch – 2 hours from specimen receipt in Transfusion Services  
+b. Stat Crossmatch – 1 hour from specimen receipt in Transfusion Services  
+c. Trauma – Type O units immediately available; type A FFP immediately available 
+d. Crossmatch with Special Transfusion Needs: 
+i. Irradiated Blood – Add an additional 30 minutes to Crossmatch. 
+ii. Cytomegalovirus (CMV) Negative Blood/Platelets - Add an additional 1 
+hour to Crossmatch. 
+iii. Crossmatched Blood for Patients with Antibodies – Minimum 2 hours to 
+complete required work.  Complexity of patient antibodies is proportionate 
+to turnaround time. Transfusion Services will communicate expected 
+turnaround times for these patients. 
+e. Fresh Frozen Plasma – Requires Transfusion Services notification to begin the 
+thawing process.  30 minutes thaw time. 
+f. Leukocyte-Reduced Apheresis Platelets – 10-minute preparation time 
+g. Irradiated/Psoralen Platelets – Add an additional 30 minutes for irradiation. 
+h. Cryoprecipitate – 45-minute preparation time (requires thawing and pooling). 
+ 
+C. OBTAINING BLOOD/BLOOD PRODUCTS FROM TRANSFUSION SERVICES  
+1. Equipment/Supplies: 
+a. Blood Bank Product Request Form 
+b. Transfuse Orders 
+2. When a physician orders blood/blood products, the physician will select both a 
+prepare order for the blood bank and a transfuse order for the nurse.  These orders 
+will be entered into the electronic medical record (EMR). 
+3. In flow sheets, select the Blood flow sheet. Click “Add Col” and complete the Pre-
+Transfusion Documentation rows. When the blood is ready to be transfused, click the 
+“Release Transfusion Report: above the table of contents. This will open the 
+Transfuse Orders window. 3. In the Transfuse Orders report, click the “Release” link. 
+A blood release form prints for this first unit of blood and flow sheet row appear for 
+you to document transfusing that unit. 
+4. Complete a Blood Bank Product Request form each time products are obtained from 
+Transfusion Services. Blood Bank number must be recorded from patient’s Red 
+Blood Bank armband onto the Product Request form for Red Blood Cell issue. 
+5. Take the Blood Bank Product Request form to Transfusion Services.   
+6. Transfusion Services Personnel will use the Blood Bank product request to:  
+ 
+ NBL-002 
+Page 5 of 13 
+ 
+a. Enter the patient’s name into the Blood Bank Computer to access information 
+about patient product availability. 
+b. Locate the available product. 
+c. Using a barcode scanner, scan product barcodes. 
+d. Complete the procedure for releasing blood/blood product by recording the 
+transporter’s first and last name, location, physician, and BB #. 
+7. A copy of the Blood Bank unit tag is attached to the Blood Bank Product Request 
+form and is kept in Transfusion Services for 1week. 
+8. The product is released to the transporter. 
+9. Issuing Multiple Products 
+a. Transfusion Services will routinely issue one blood/blood product for only one 
+patient to one person.  According to Transfusion Services policy the exceptions 
+are: 
+i. Surgery – needed products will be released in coolers for 1 patient per 
+transporter. 
+ii. Bedside Procedure (Dialysis, RBC Exchange, Plasma Exchange, etc) – 
+needed products will be released in coolers for 1 patient per transporter. 
+iii. Actively bleeding patient in critical care unit or non-critical care unit – 
+needed products will be released in coolers for 1 patient per transporter. 
+iv. Inpatient Oncology – 1 transporter may pick up a single product for up to 
+3 patients provided there are 3 different transfusionists available to begin 
+the transfusions. 
+v. Off- site service facilities (ie. St. Jude, North Baton Rouge Infusion) – All 
+products requested for scheduled patients will be issued to the facility in 
+transport coolers. 
+b. Multiple units and/or products must be issued in a Cell Safe Transport Container 
+(“Cooler”) with a thermometer. Coolers are provided by Transfusion Services to 
+be used for transport and temporary storage of products. 
+c. Up to 6 units of blood and/or FFP can be issued in a single cooler packed with ice 
+bottles. 
+d. Coolers containing platelets and/or cryoprecipitate, packed with normal saline, 
+may not be combined with blood or FFP.  These products require Room 
+Temperature storage. 
+e. Temperature of Cell Safe Transport containers must be documented every 4 
+hours.  Transfusion Services personnel will contact the unit to read the 
+temperature and will notify nurse if action must be taken.  
+ 
+D. ADMINISTRATION OF BLOOD AND BLOOD PRODUCTS-ROUTINE PROCESS 
+Red Blood Cells, Platelets, Cryoprecipitate, and Fresh Frozen Plasma  
+ 
+ NBL-002 
+Page 6 of 13 
+ 
+1. Equipment/Supplies: 
+a. Transfusion Consent 
+b. Transfuse Orders 
+c. Sterile, pyrogen-free Blood administration set (with filter designed to retain 
+particle   potentially harmful to the recipient)  
+d. 150mL or 250mL 0.9% NaCl USP (Normal Saline) 
+e. Blood warmer, if needed 
+f. Thermometer and Blood pressure cuff 
+g. Adult Transfusion Documentation Record (NS-302A) or on the Pediatric 
+Transfusion Documentation Record (NS-302B). 
+2. In non-emergent situations, a Transfusion Consent must be obtained prior to the 
+administration of any blood or blood product.  A Transfusion Consent must be 
+obtained each time the patient is admitted to the hospital. 
+3. In an emergent situation, a physician’s order is required specifying the release of and 
+administration of blood which has not been cross matched to the patient. The 
+orderable in EMR is “Transfuse Emergency Released Uncrossmatched Blood”.  
+4. Do not remove the Red Blood Bank armband. If the clinical situation requires the 
+removal of the Blood Bank armband, contact Transfusion Services to verify that the 
+armband is outdated and can be removed and discarded. If the armband is not 
+outdated and the patient will be requiring a transfusion, the patient must be redrawn, 
+and a new armband applied. There is no way to securely re-attach this armband once 
+removed. 
+5. Blood and blood products may be administered via the following: 
+a. Adults: 
+i. Central venous access:  Administration via a central venous access is 
+acceptable.   
+ii. Administration via a Vas Cath requires a physician order. 
+iii. Peripheral IV:  Administration via an 18 to 20G catheter is preferred.   
+b. Children:  
+i. Central venous access: Administration via a Central venous access is 
+acceptable. 
+ii. Peripheral IV: Administration via 20-22G is preferred, though a 24 G may 
+be used. 
+6. To avoid mechanical lysis of cells, the pumping of undiluted blood through an access 
+smaller than 20 gauge is not recommended. 
+7. The only IV solution to be used with blood and blood products is 0.9% NaCl USP 
+(Normal saline).  This solution may be used to prime and flush blood administration 
+set, and to dilute blood. 
+8. No medications or other IV solutions are to be administered with blood and blood 
+products.  
+ 
+ NBL-002 
+Page 7 of 13 
+ 
+9. Autologous blood products must be used first.  
+10. Administration of blood and blood products should begin immediately upon arrival to 
+the clinical area.  If there will be a delay in administration, the blood/blood product 
+must be returned to Transfusion Services within 30 minutes of the time it was issued.  
+Transfusion Services will accept blood/blood products attached to tubing as long as it 
+is returned within this 30-minute timeframe.  Blood/Blood Products shall not be 
+stored for any amount of time in refrigerators on nursing units.   
+11. Blood tubing must be changed after the administration of two (2) units of blood/blood 
+products. 
+12. If using a blood warmer to administer blood these guidelines must be followed: 
+a. The temperature of the warming device should not exceed 42° C. 
+b. The blood should be administered in four (4) hours or less. 
+c. The reissue of warmed blood is prohibited. 
+13. Blood, including leukocyte-reduced and washed RBCs must be administered 
+completely within four (4) hours.  Platelets, Cryoprecipitate, and Fresh Frozen Plasma 
+are administered as fast as the patient can tolerate. 
+14. Preparation of patient and equipment: 
+a. Review physician order for transfusion. 
+b. Verify Consent for Transfusion has been signed.  Obtain consent if needed.  
+c. Explain procedure to patient and significant other(s) and allow for questions or 
+concerns. 
+d. Insert or verify patency of venous access.   
+e. Assess adult and pediatric patient’s temperature, blood pressure, pulse, and 
+respirations.  Document in medical record. 
+f. Click the “Release Transfusion Report and click the “Release” link. A blood 
+release form prints for the first unit of blood.  
+g. Complete Blood Bank Product Request form and send with transporter to 
+Transfusion Services. (Refer to section C.  Procedure for Obtaining Blood/Blood 
+Product from Blood Bank) 
+h. Assemble equipment and supplies.   
+i. Flush blood administration tubing with normal saline. 
+j. Verify patient and blood/blood product to physician’s order. 
+15. Patient identification: (performed at bedside) 
+a. Must be performed by either two RNs or one RN and one LPN.  
+i. One individual conducting the identification verification must be the 
+qualified RN who will administer the blood or blood component to the 
+patient.   
+ 
+ NBL-002 
+Page 8 of 13 
+ 
+ii. The second individual conducting the identification verification must be 
+qualified to participate in the process (i.e. RN, LPN) 
+b. These two staff members (named above) compare the patient’s name and date of 
+birth on the patient’s hospital armband with the patient’s name and date of birth 
+on the blood unit tag and if transfusing RBCs they must also compare the 
+patient’s unique Blood Bank Identification number on the blood unit tag and the 
+patient’s Red Blood Bank armband. 
+16. After issue and immediately before transfusion, the following information shall be 
+verified:  
+a. The intended recipient’s 2 independent identifiers, ABO group, and Rh type 
+b. The unit number, the unit ABO/Rh  
+c. The interpretation of crossmatch test, if performed 
+d. Special transfusion requirements are met, if applicable  
+e. The unit has not expired 
+17. Blood product verification: (performed at bedside) 
+a. With a Barcode Scanner 
+i. In the “Blood Product Administration Module”, scan the patient’s 
+wristband when prompted.  
+ii. Follow the on-screen prompts to scan the barcodes on the blood product. 
+After each barcode is scanned, the value will appear on the corresponding 
+field, which included 
+• Unit Number 
+• ABC CODABAR Registration Number 
+• Product Code 
+• Expiration Date 
+• Blood Type  
+iii. Verify the information on the administration window and click “Accept.”  
+b. Without a Barcode Scanner 
+i. In the “Blood Product Administration Module”, enter the numbers below 
+each barcode into the appropriate fields. Note that the barcodes are case 
+sensitive.  
+ii. Select an override reason in the “Reason for not scanning” field and click 
+“Accept.”  
+• The two staff members (named above) compare the donor number and 
+blood type on the blood unit tag with the blood product label.  Verify 
+the expiration date has not passed.  
+ 
+ NBL-002 
+Page 9 of 13 
+ 
+• Both staff members verifying patient and blood product must sign the 
+Blood Bank unit tag and record the start time on the tag.  All 
+identification attached to the unit shall remain attached until the 
+transfusion has ended.   
+18. Don appropriate protective attire. 
+19. Assess patient’s vital signs and document in EMR. 
+20. Examine the unit for blood clots. 
+21. Attach blood to blood administration tubing.  Close the clamp to normal saline.  Open 
+the clamp to   blood; slowly administer blood for the first 15 minutes.  
+22. The RN should remain with the patient for the first 15 minutes of the transfusion 
+observing for signs and symptoms of a transfusion reaction. (Specific written 
+instruction concerning possible adverse events shall be provided to the patient or a 
+responsible caregiver when direct medical observation or monitoring of the patient 
+will not be available after transfusion) 
+23. Adult recipients:  After 15 minutes, assess patient’s vital signs. 
+24. Child recipients: After 15 minutes and then hourly, assess patient’s vital signs.   
+25. If there is no evidence of a transfusion reaction after 15 minutes, the blood 
+transfusion rate may be increased as specified in the physician order. Upon 
+completion of transfusion, assess vital signs and document in EMR. 
+26. Document blood/blood product information and vital signs in the patient’s chart in 
+EMR.  
+27. Patient medical record shall include the transfusion order, documentation of patient 
+consent, name of component, donor unit number and ABO/Rh type, the date and time 
+of transfusion, pre and post transfusion vital signs, the amount transfused, 
+identification of the transfusionist, and, if applicable, related adverse events.   
+ 
+E. AFTERCARE: When the blood is absorbed 
+1. Flush the tubing with normal saline.  Resume previous IV orders or discontinue the 
+IV access. 
+2. Assess and document the patient’s temperature, blood pressure, pulse, and 
+respirations. 
+3. Document completion of the transfusion on the Blood Bank unit tag and in EMR or 
+on Transfusion Documentation Record  
+4. Affix the completed chart copy of the Blood Bank unit tag to the patient’s medical 
+record. 
+5. If no reaction has occurred, the empty blood bag and tubing is placed in a plastic bag 
+and disposed in the biohazard waste container. 
+  
+ 
+ NBL-002 
+Page 10 of 13 
+ 
+F. MANAGEMENT OF A SUSPECTED TRANSFUSION REACTION 
+1. Equipment/Supplies: 
+a. Thermometer 
+b. Stethoscope  
+c. Blood pressure (BP) sphygmomanometer or electronic BP machine  
+d. Transfusion Reaction Report form (from Transfusion Services) 
+e. Pulse oximeter, if indicated  
+f. Cardiac monitor, if indicated  
+g. Respiratory monitor, if indicated  
+2. Observe the patient during the transfusion of all blood products for the following 
+signs or symptoms: 
+a. Fever of two (2) degree Fahrenheit rise above baseline temperature.  (Baseline 
+temperature is defined as the temperature taken prior to the initiation of 
+transfusion.) 
+b. Rash 
+c. Anaphylactic shock 
+d. Pain or pressure in chest 
+e. Generalized bleeding 
+f. Hypotension 
+g. Oliguria or anuria 
+h. Flushing 
+i. Back or flank pain 
+j. Hematuria 
+k. Dyspnea 
+l. Pain at infusion site 
+m. Any other unusual symptoms 
+n. Symptoms of TRALI or TACO 
+i. TRALI- Transfusion-Related Acute Lung Injury 
+• TRALI is a syndrome clinically similar to adult respiratory distress 
+syndrome (ARDS) but usually resolves within 96 hours 
+• Presentation: dyspnea, fever, chills, cyanosis, hypotension, and new-
+onset bilateral pulmonary edema.  Symptoms arise within 6 hours of 
+transfusion.  
+ii. TACO- Transfusion- Associated Circulatory Overload 
+• Presentation: Hypertension is a typical feature.  Within 1 to 2 hours of 
+transfusion, patient may develop any or all of the following symptoms: 
+gallop, jugular venous distension, elevated central venous pressure, 
+dyspnea, orthopnea, new ST-segment and T-wave changes on 
+electrocardiogram, elevated BNP, and elevated serum troponin.  Rapid 
+improvement with diuresis is consistent with TACO. 
+• Patients identified by the ordering physician as being at increased risk 
+for TACO should have blood components administered slowly  
+ 
+ NBL-002 
+Page 11 of 13 
+ 
+(pediatric and geriatric patients, patients with severe anemia, and/or 
+patients with congestive heart failure or end-stage renal disease). 
+• Rates of 2 to 4 mL/minute and 1mL/kg of body weight per hour are 
+most common.  This may require dividing units for these patients to be 
+transfused at slower rates.  Total fluid input and output must be 
+monitored.  
+3. If the patient experiences any of these signs or symptoms, Transfusionist 
+(Nurse/CRNA/anesthesiologist) will initiate a suspected transfusion reaction 
+investigation. In order to facilitate timely and appropriate patient care the following 
+actions as well as steps 3-7 may be performed simultaneously by multiple team 
+members:  
+a. Stop the transfusion immediately, discontinue blood product, and assess the 
+patient. Disconnect the blood and tubing from the patient. 
+b.  Notify the patient’s physician of possible transfusion reaction, so that treatment, 
+if necessary, is not delayed. 
+i. All suspected transfusion reactions will be investigated by Transfusion 
+Services and reviewed by a Laboratory pathologist. 
+ii. Patient’s physician may wish to consult with a pathologist.  A pathologist 
+is available for consultation at all times and communication between 
+physicians can be facilitated by the Transfusion Services department. 
+c. Administer a new infusion of 0.9% NaCl injection, USP (normal saline) at a keep 
+open rate using different tubing. 
+d. In the Orders activity, search for “transfusion reaction” in the Place new order 
+field.  
+e. Select the “transfusion reaction evaluation” order and click “Accept” 
+f. Click Sign Orders 
+g. Mark “YES” for “Reaction?” on the Blood Bank Unit Tag and note the date and 
+time the transfusion was discontinued  
+h. Order and obtain a STAT Urinalysis (order name: Urinalysis-Transfusion Rxn) 
+i. Recheck all labels, forms, and patient identifiers to confirm that the unit was 
+intended for this recipient. (*Note-if product transfused during an emergent 
+situation Blood Bank armband or unit tag may not be available)   
+4. The RN notifies Transfusion Services to obtain Suspected Transfusion Reaction 
+Report.    Report must include the following information: 
+a. Date of reaction 
+b. Donor/Pool number of suspected unit 
+c. Time transfusion started and time discontinued 
+d. Blood product transfused  
+ 
+ NBL-002 
+Page 12 of 13 
+ 
+e. Amount of blood given 
+f. Patient vital signs Pre and Post transfusion: 
+i.  Temperature 
+ii. Blood Pressure 
+iii. Heart Rate 
+iv. Respiratory Rate 
+v. O2 Saturation 
+g. Symptoms 
+h. Diagnosis and medical history 
+i. History of previous transfusions 
+j. Medications 
+k. Documentation that the wristband ID and data on unit tag was checked for error 
+l. Signature of nurse completing the form 
+5. Collect post-reaction venipuncture sample (2-9 ml purple top vacutainer) labeled with 
+two patient identifiers and Blood Bank armband number written on the tube for 
+clerical check against the patient’s pre-transfusion reaction specimen in the 
+Transfusion Services department.  Where available, Transfusion Services will 
+immediately dispatch a phlebotomist for specimen collection.  
+6. Collect post-reaction urine specimen labeled with two patient identifiers. 
+7. Return the Suspected Transfusion Reaction Report along with the blood product and 
+all attached tubing to Transfusion Services (Blood Bank unit tag must remain 
+attached to the unit). 
+8. Order and collect a two-hour post-reaction urine specimen when 2 hours have passed 
+(order name: Urinalysis-Transfusion Rxn) 
+9. Assure the following is documented 
+a. In Flowsheets, select the “Blood” flowsheet 
+b. Add a column for the time when the reaction was noted 
+c. Enter “Yes” in the Suspected Reaction? Row 
+d. Complete the additional rows in the Suspected Transfusion Reaction group 
+e. Verification that blood product administered was the blood product the physician 
+ordered. 
+f. Verification that Transfusion Consent was obtained. 
+g. Vital signs obtained before transfusion, 15 minutes after the transfusion was 
+started, and when the transfusion was discontinued. 
+h. The time the transfusion was started, donor number, and rate of flow 
+i. The time blood/blood product was discontinued.  
+ 
+ NBL-002 
+Page 13 of 13 
+ 
+10. Suspected Transfusion Reaction findings will be submitted to a Laboratory 
+pathologist for review.  Final determination will be documented in patient’s EMR.  
+Once review is complete and final determination has been made, a patient safety 
+event will be entered by Transfusion Services supervisory staff for quality tracking 
+and trending purposes. 
+ 
+ 
+REFERENCES:    
+AABB Technical Manual, current edition.  
+AABB Standards for Blood Banking and Transfusion Services, current edition. 
+Arthur J. Silvergleid, M. (2008, October 17). UpToDate. Retrieved February 20, 2009, from 
+www.uptodate.com: www.utdol.com 
+Refer to facility designated on-line clinical reference 
+ 

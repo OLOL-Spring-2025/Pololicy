@@ -1,0 +1,39 @@
+__________________________________________________________________ 
+Policies and Procedures Manual Manual: Cardiovascular Lab 
+Our Lady of the Lake Regional Medical Center Chapter: CVL 
+Subject:  Environmental Controls / Monitoring Section: Administration 
+Date of Origination: August 11, 1988 Supersedes:  
+Date of Last Revision: 7/31/15 Serial Code: NCD 020 
+Date of Review:  7/31/21 
+ 
+Distribution:         Facilities Management and Cardiovascular Lab (CVL) 
+ 
+Formulated By:       Facilities Management / Cardiovascular Service Line 
+ 
+Purpose:             To maintain humidity and temperature levels in the EP/CVL Procedure 
+rooms at minimum requirements of the U.S. Public Health Service and 
+National Fire Protection Association. 
+ 
+ 
+Policy:             
+ 
+1. Cardiovascular Lab: 
+a. Room temperature will be kept between 68 to 73 degrees F. Humidity level will be 
+between 30% and 60% in the procedure room. Air exchange will be maintained at 
+20 exchanges per hour.   
+ 
+2. Electrophysiology Lab: 
+a. Room temperature will be kept between 68 to 73 degrees F. Humidity level will be 
+between 30% and 60% in the procedure room. Air exchange is positive and will be 
+maintained at 20 exchanges per hour. 
+ 
+Control panels measuring temperature, humidity, and pressure are located in each room.  Daily 
+checks are provided by the Facilities Office via Tracer Summit Control Monitor System in the 
+Plant Services Control Room.  Temperature and humidity are checked daily by Cath Lab personnel. 
+See Circulator checklist. 
+ 
+Alarms/Discrepancies 
+a. Temperature alarms will be set at +/- 5 degrees from the recommended parameter as 
+long as humidity parameters are sustained. 
+b. If an alarm sounds and does not correct itself within 60 minutes, Plant Services will be 
+notified. 

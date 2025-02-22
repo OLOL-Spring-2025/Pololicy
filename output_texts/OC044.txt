@@ -1,0 +1,171 @@
+OC-044 
+Page 1 of 4 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: Clinical 
+Title: Critical Values/Results Reporting Policy Reference #: OrgClin/044 
+Supersedes #:  
+Date of Origination: April 21, 2006 Last Review Date:  July 7, 2022 
+Last Revision Date:   August 8, 2024 
+ 
+Click on a link below to see those critical values/results 
+Blood Bank, Chemistry, EKG/ECHO, Hematology, Microbiology, Respiratory, Therapeutic Drugs 
+ 
+PURPOSE 
+To provide guidelines for the timeliness of reporting diagnostic critical results to the licensed healthcare 
+provider that can take action on the results. 
+ 
+DEFINITIONS 
+1. A physician/designee - is the on-call physician, physician assistant, nurse practitioner or physician 
+office nurse who has been permitted to accept the results immediately and relay to the ordering 
+physician. 
+2. Critical Value/Results – These are tests that have a defined upper or lower limit panic or critical 
+value or a critical finding that could significantly impact a patient’s well-being.  These are generally 
+considered to be the initial first-time diagnostic results that are considered to be immediately or 
+potentially life, limb or organ threatening, thus requiring an urgent response. 
+ 
+POLICY 
+Critical values/results are to be reported to the physician/designee within 60 minutes of being resulted.  
+ 
+PROCEDURES 
+ 
+Laboratory: 
+1. Laboratory personnel will immediately call the nurse responsible for the patient upon the 
+identification of all critical values/results. (OLOL Critical Values List)  
+2. The laboratory technologist will ask the nurse to read back the results to verify that they were 
+understood correctly. 
+3. Lab personnel will record the nurse’s first and last name, time and read back.   
+4. The nurse will initiate action based on existing protocols/orders or contact the physician/designee 
+within 60 minutes of receipt of the critical result.   
+5. The nurse will ask the physician/designee to read back the results to verify that they were understood 
+correctly. 
+6. The nurse will document in the medical record the test results received, the time the 
+physician/designee was notified, the read back of values/results and the orders received or the 
+actions taken per protocol/orders. 
+7. When the patient’s test results remain within the Critical Value range within a 48-hour period the 
+results are not called, unless requested by a physician. These results are documented with the 
+statement indicating results match previous test results. However, when a significant change in the 
+patient’s test results occurs within 48 hours the results are called. 
+ OC-044 
+Page 2 of 4 
+Critical Radiology Results 
+1. The radiologist will communicate critical results to the ordering physician/designee.  
+2. The radiologist will ask the physician/designee to read back the results to verify that they were 
+understood correctly.   
+3. The radiologist will document in the procedure report the person and the time of notification. 
+ 
+Critical Respiratory Results 
+1. The Respiratory Therapist will report critical respiratory results to the physician/nurse.   
+2. The Respiratory Therapist will either directly hand the results or phone the results to the 
+physician/nurse.   
+3. When phoning results, the therapist will ask the physician/nurse to read back the results to verify that 
+they were understood correctly. 
+4. The Respiratory Therapist will document, in the medical record, the time of notification, read back 
+of results and who was notified. 
+ 
+Critical Echocardiogram Results 
+1. The Study should be ordered as STAT 
+2. The cardiologist must be notified by the ordering physician to discuss indication. 
+3. The Echo tech will document in the medical record and notify the cardiologist when completed with 
+the preliminary report. 
+4. The cardiologist will contact the ordering physician once interpreted.  
+ 
+Critical EKG Results 
+5. When EKG results are obtained that match the defined critical values (OLOL Critical Values List) it 
+is to be immediately selected from file manager and printed.   
+6. The EKG tech will notify the patient’s physician, primary nurse, or charge nurse. The primary nurse 
+or charge nurse is then responsible for notifying the physician.  
+7. The clinician will document in the medical record the EKG results, time the physician/designee was 
+notified, and whether physician orders were received. 
+8. Any orders received will be read back to the physician/designee for verification. 
+9. Critical EKG values are to be communicated to the physician immediately, maximum of 15 minutes 
+from completion to relay of information.   
+10. If after two attempts, the ordering physician or designee cannot be reached, a Rapid Response should 
+be initiated. 
+11. If the patient exhibits acute symptoms, a code blue should be initiated while the call is being placed 
+to the physician.  
+12. EKG done in the clinic setting will follow policy OC021.  
+Critical Values / Results List- These are minimum guidelines. Situations, which do not fit these criteria, but 
+may reasonably be interpreted as critical situations, are to be handled the same as above.  
+ 
+Hematology Lab: 
+1. WBC less than 1000 or greater than 80,000/ul 
+2. Hemoglobin less than 6.1 gm/dl 
+3. Newborns Only (<6 months) – Hematocrit less than 20% 
+4. Platelets less than 20,000 or greater than 1,000,000/dl 
+5. Differential with Blasts   OC-044 
+Page 3 of 4 
+6. Prothrombin INR greater than 5.9 
+7. Fibrinogen less than 100 mg/dl 
+8. PTT’s of greater than100 seconds if it has been more than 24 hours since the last critical (greater 
+than 100) has been called. 
+9. All PTT’s of greater than 300 
+ 
+Chemistry Lab: (Adult- Alarm value if not matched within 2 days) 
+1. Calcium less than 6.6, or greater than 11.9 mg/ dl 
+2. Sodium less than 121, or greater than 159 mEq/ dl 
+3. Potassium less than 2.6, or greater than 5.9 mEq/ dl 
+4. CO2 less than 15, or greater than 41 mmol/ L 
+5. Glucose less than 50, or greater than 399 mg/ dl  
+6. BUN greater than 99 mg/ dl 
+7. Lactic acid greater than 3.9 mmol/L 
+8. Bilirubin greater than 14.9 mg/dl 
+9. Neonates only (0-29days) – Bilirubin greater than 14.9mg/dl  
+10. IntelliSep Index of Band 3 (high probability of sepsis) 
+ 
+Reactive Infections Disease Tests: (positive results) 
+  1.  HIV Antigen/Antibody Combo 
+  2.  Hepatitis A - IgM Antibody 
+   
+ 
+Therapeutic drug critical values 
+1. Acetaminophen greater than 70 microgram/ ml 
+2. Amikacin trough greater than 10 microgram/ ml 
+3. Carbamazepine greater than 20 microgram/ ml  
+4. Digoxin greater than 2.5 ng/ ml 
+5. Dilantin (aka Phenytoin) greater than 40 microgram/ ml 
+6. Gentamicin trough greater than 2 microgram/ ml 
+7. Lithium greater than 2.0 meq/ l 
+8. Phenobarbital greater than 60 microgram/ ml 
+9. Salicylate greater than 40 mg/ dl 
+10. Theophylline greater than 25 microgram/ ml 
+11. Tobramycin peak greater than 12 microgram/ ml 
+12. Tobramycin trough greater than 2 microgram/ ml 
+13. Tricyclics greater than 499 microgram/ ml 
+14. Valproic Acid (aka Depakene) greater than 200 microgram/ ml 
+15. Vancomycin trough greater than 25 microgram/ ml 
+ 
+Microbiology Lab (positive results) 
+1. Blood cultures 
+2. Any CSF findings  
+3. Respiratory AFB direct Smears  
+4. Probe and/or culture for M. tuberculosis  
+ OC-044 
+Page 4 of 4 
+Blood Bank - Serology Results (positive results) 
+1. Mycoplasma Pneumoniae 
+2. Reactive Spinal Fluid VDRL 
+3. Cryptococcal Antigen (CSF)  
+ 
+ 
+Respiratory Therapy 
+Blood gas values falling outside the noted values below. 
+1. pH less than 7.25 or more than 7.60 
+2. pCO2 less than 20mmHG or more than 60mmHG 
+3. pO2 less than 50 mmHG 
+4. Ionized CA++  less than .625 or greater than 1.7 mmol/L 
+ 
+Echocardiograms  
+1. Tamponade 
+2. Dissection 
+3. Cardiac Thrombus or mass not previously noted 
+ 
+ 
+EKG  
+1. Acute Myocardial Infarction 
+2. Heart Rate of 40 beats per minute or less for any reason 
+3. Sustained Ventricular Tachycardia 
+4. 2nd (Type II only) or 3rd degree Heart Block 
+5. Atrial Fibrillation with rapid ventricular response with rate of 120/minute or greater than 
+previously noted+ 
+6. Supraventricular Tachycardia 
+7. Left Bundle Branch Block 

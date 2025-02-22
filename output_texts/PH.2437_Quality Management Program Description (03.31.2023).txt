@@ -1,0 +1,529 @@
+ 
+PH.2437_Quality Management Program Description 
+1 
+ 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Quality Management Program Description 
+PAGES: 
+9 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2437 (07/13/2020) 
+ORIGINAL EFFECTIVE 
+DATE:  02/07/2017 
+REVISIONS EFFECTIVE: 
+03/31/2023 
+POLICY NUMBER:  
+PH.2437 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy outlines the pharmacy Quality Management Program (QMP). This policy is required for all pharmacies listed 
+with NCPDP as specialty pharmacy providers.  Pharmacies not listed with NCPDP as specialty pharmacy providers are 
+encouraged but not required to participate in and report through the QMP. 
+POLICY: 
+A. Quality Management Committee (QMC) is the quality oversight body responsible for monitoring the metrics and 
+progress in meeting quantifiable goals and overseeing improvement activities for the pharmacy. [URAC PMI 1-1 
+(b)]  
+B. The QMC: [URAC PMI 1-1 (a)] [URAC PMI 2-1 (a, b, c, d)] 
+1. Identifies metrics and quantifiable goals relevant to the program 
+2.
+ Collects accurate data for each metric 
+3. Monitors progress in meeting each quantifiable goal 
+4. Analyzes data and identifies performance trends for each metric at least annually 
+5. Includes the design and implementation of strategies to improve performance levels 
+DEFINITIONS: 
+Quality management is the act of overseeing all activities and tasks needed to maintain a desired level of excellence. 
+This includes creating and implementing quality planning and assurance, as well as quality control and quality 
+improvement. 
+PROCEDURE: 
+A. Organization Overview 
+1. The Governing Body has ultimate authority over the governance of the organization and its programs. 
+Responsibility for the overall leadership and management of the pharmacy is vested in OLOLH’s Senior 
+Director of Retail Pharmacy. This individual is accountable for all operations, for ensuring quality patient 
+care, for ongoing compliance with all local, state and federal regulations, and for the ongoing viability of the 
+pharmacy program. On behalf of the Governing Body, the Senior Director of Retail Pharmacy is responsible 
+for maintaining ongoing liaison among the Governing Body, professional advisors and the pharmacy staff. 
+The pharmacists are delegated day to day operational management.  The pharmacists report directly to the 
+Pharmacy Manager who in turn reports to the Director of Pharmacy. The Pharmacy Manager chairs the QMC 
+and provides oversight to the organization as a whole.  
+2. The QMP reports to and is approved by the Senior Director of Retail Pharmacy who in turn ultimately reports 
+to the Governing Body.  
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+3/31/2023 1:18 PM 
+ 
+ 
+PH.2437_Quality Management Program Description 
+2 
+ 
+B. Quality Management Program (QMP) Overview [URAC PMI 1-1 (b)] 
+1. The QMP helps to ensure the pharmacy meets its responsibilities to its contractors, consumers, and the 
+community through continuous and systematic assessment and improvement of program systems and 
+processes.  
+2. The QMP is the vehicle through which the pharmacy analyzes and responds to data collected by its medical 
+record system, claims data, operational performance monitoring, and other program measurement processes. 
+The purpose of the QMP is to systematically use performance information and data to improve clinical care, 
+training, support and outreach services.  
+3. The Quality Management Program Description (QMPD) outlines the QMP which promotes objective and 
+systematic measurement, monitoring and evaluation of services and implements quality improvement (QI) 
+activities based upon the findings. The QMPD defines the Quality Management structure and process, as well 
+as the role and responsibilities of the QMC, and other staff involved in the execution of the QMP. The 
+QMPD was approved, implemented and commenced in November 2017.  The QMC reviews the QMPD at 
+least annually and updates as necessary.  
+C. Program Scope & Structure [URAC PMI 1-1 (b)] 
+1. The scope and content of the QMP is designed to continuously monitor, evaluate and improve the clinical 
+care and service provided to consumers and providers by the pharmacy. Specifically, the QMP includes, but 
+is not limited to, the following responsibilities and monitoring of key performance measures:  
+a. Development and implementation of the Specialty Pharmacy program  
+b. Monitoring the Performance Improvement Plan  
+c. Implementation and monitoring of the Patient Management Program  
+d. Monitoring and evaluation of Adverse Drug Event Reporting  
+e. Evaluation of accessibility and availability of program representatives  
+f. Regulatory/Corporate compliance, including Fraud Waste and Abuse, current URAC and ACHC 
+accreditation standards and functions covered by URAC and ACHC Accreditation, Privacy and 
+Security including HIPAA, applicable state and federal regulations, etc. to include standards and 
+procedures to detect and take corrective action for non-compliant employees. Ensures the 
+organization conducts periodic reviews and analysis of its organizational structure, written policies, 
+and documented procedures to determine if there are any changes that impact compliance. Ensures 
+internal monitoring and auditing to ensure compliance with applicable laws and regulations. Reviews 
+or ensures the reviewer of the organization’s training and education on the compliance program. If 
+applicable ensures communication with delegation entities regarding changes impacting compliance.   
+g. Monitoring for violations regarding Code of Conduct and Conflict of Interest. 
+h. Establishment and implementation of mechanisms to promote collaboration, coordination and 
+communication across disciplines and departments within organization. 
+i. Oversight of marketing and sales materials in coordination with the marketing department. 
+j. Client (business-to-business) and consumer, provider and patient satisfaction surveys regarding 
+program services. 
+k. Management of consumer/patient complaints. 
+l. Tracking and follow-up processes for adverse incidents including, but not limited to those reported 
+by patients and/or caregivers to ensure consumer safety.  
+m. Identification, selection, and implementation, and tracking of Quality Improvement Projects (QIPs) 
+of action plans  
+n. Evaluation and oversight of the performance of delegated entities  
+o. Evaluation of resources to include computer resources, internal staffing etc. and other resources to 
+support day-to-day operations of the QMP  
+p. Evaluation of clinical decision support tools as appropriate  
+q. Monitoring and evaluation of billing and coding errors 
+r. Monitoring and evaluation of patient record accuracy 
+s. Collaboration with Pharmacy Benefits Managers to conduct quality management initiatives as 
+identified  
+PH.2437_Quality Management Program Description 
+3 
+D. Oversight and Authority [URAC PMI 1-1 (b)] 
+1. The day-to-day operation of the QMP is overseen by the pharmacy manager who is the Senior Clinical Staff 
+Person, a pharmacist and a member of the administrative team and Chair of the QMC. The ultimate authority 
+for the pharmacy QMP is delegated to the QMC. The QMP reports to the QMC which is chaired by the 
+Pharmacy Manager who performs oversight and guidance. 
+2. The Pharmacy Manager is responsible for: 
+a. Assisting with the overall development and implementation of the QMP,  
+b. Assisting in the identification of goals and related patient outcomes, and 
+c. Coordinating, participating in and reporting activities and outcomes. 
+E. Quality Management Committee (QMC) [URAC PMI 1-1 (b)] [URAC PMI 2-1 (b)] 
+1. The QMC is granted authority by the Governing Body and is responsible for the management of the QMP 
+including monitoring the progress in meeting each quantifiable goal. The QMC meets at least quarterly with 
+the purpose of improving services by monitoring processes, analyzing data, implementing interventions to 
+improve, and evaluating the effectiveness of those interventions. The QMC receives reports of all monitoring 
+and evaluation activities, maintains records of all committee meetings through minutes taken, which are later 
+reviewed and approved by the committee members. The QMC receives quarterly reports from the QMP. In 
+order to promote and establish interdepartmental collaboration, the multidisciplinary committee includes 
+administrative and clinical members and representatives who collaborate with participating providers/clients 
+and bring their input to the QMP and QMC as applicable. The QMC is comprised of content experts 
+including pharmacists, and if appropriate on an as needed basis A participating providers and/or other clinical 
+practitioners will be retained on a consultant basis on an “as needed” basis for participation in the QMC when 
+his/her subject matter expertise is required.  
+2. The QMC is responsible for the following activities: 
+a. To provide on-going reporting to the Senior Director of Retail Pharmacy  
+b. To provide guidance to staff on Quality Management priorities and projects  
+c. To review, evaluate and approve the QMPD annually  
+d. To establish long and short-term goals for the QMP  
+e. To review and approve Policies and Procedures at least annually 
+f. To measure and monitor the quality of the Patient Management Program (PMP) to ensure the 
+program follows evidence-based medicine practices in its development and reassessment All 
+education materials to be reviewed and authorized annually. Review and analysis of patient outcomes 
+related to formal Patient Management. 
+g. To approve selected corrective action plans [URAC PM 2-1 (d)] 
+h. To monitor and document action plans for progress in meeting goals [URAC PMI 2-1 (d)] 
+(1) The QMC uses a team approach for monitoring progress in meeting quality improvement 
+goals.  Members of the QMC are tasked with pulling reports for our measures and action 
+plans and presenting data during QMC meetings.  Data is reviewed month over month, 
+quarter over quarter as well as annually to determine if goals are being met.  Documentation 
+of this review is noted in the minutes of each QMC Meeting.  If goals are not being met the 
+QMC discusses appropriate actions to be taken to meet the goal. 
+i. To monitor and document the following key performance measures that are quantifiable and used to 
+establish acceptable levels of performance, including a baseline and at least an annual re-
+measurement 
+(1) Complaints  
+(2) Consumer Satisfaction  
+(3) Provider Satisfaction  
+j. Monitor access to services to include types of services offered, geographic area served, medication 
+accessibility and availability to consumers. To include monitoring availability of nurse evaluation 
+and education when indicated. Also, to include monitoring of staff responsiveness to telephone 
+activity and office operating requirements. Implement action plans as necessary to achieve and 
+maintain its pharmacy operations’ performance requirements.   
+k. Quality and safety of drug inventory and distribution  
+l. Implementation of activities designed to improve or correct identified problems, including reduction 
+of errors/adverse events/near misses, or meet acceptable levels of performance   
+PH.2437_Quality Management Program Description 
+4 
+(1) Plans to reduce errors or otherwise improve performance are implemented based on 
+measurement results.  The quality improvement activities in these plans can include 
+corrective action and preventive action processes. 
+(2) Evaluate the effectiveness of the QMP annually  
+m. When applicable, to receive and incorporate input from participating providers  
+3. The QMC will receive the following: 
+a. Reports on progress in meeting Quality Improvement Goals  
+b. Analyses of consumer complaints and appeals  
+c. Analyses of access to services to include phone access, measure performance against types of 
+pharmacy services offered, geographic area served and medication accessibility and availability to 
+consumers  
+d. Quality management audits to verify on-going monitoring of compliance with Customer Service, 
+Communication and Disclosure standards 
+e. Assessment reports of performance related to correct drug, directions, dosage, quantity, patient, 
+labeling to include proper handling and distribution. Assessment of error reporting frequency and 
+completeness to include near misses  
+f. Analyses of patient satisfaction surveys  
+g. Reports on ongoing compliance with URAC & ACHC standards 
+h. Reports on objectives and approaches utilized in monitoring and evaluation of Quality Management 
+activities  
+(1) The objective of our Quality Program is to continuously monitor and improve our 
+performance through the selection of performance metrics, as well as discussing quality 
+related topics and concerns during QMC meetings.  The approach used in monitoring quality 
+activities is a team approach where all data and topics are reviewed and discussed as a group 
+during QMC Meetings.  When goals are not being met the QMC will discuss and implement 
+appropriate actions to meet goals and objectives. 
+i. Tracking and trending of performance measures relevant to the scope of Specialty Pharmacy  
+j. Reports on implementation of action plans to improve or correct identified problems  
+(1) Action Plans are implemented when a goal is not consistently being met.  The QMC will 
+determine when an action plan is appropriate during QMC meetings and will designate a 
+member of the QMC to be responsible for the Action Plan and progress monitoring. 
+4. Reporting Requirements: 
+a. Telephone Performance Monitoring  
+(1) The pharmacy has developed mechanisms and processes to monitor, measure, and 
+continuously review, at least monthly, all incoming calls. This is to include at least the 
+following telephone performance indicators: Average abandonment rate and Average speed 
+of answer by a live person.  
+(2) On at least a quarterly basis, telephone performance metrics must be reported to the QMC.  
+b. Patient Safety Reporting 
+(1) On at least a quarterly basis, report aggregate findings, including adverse drug events, quality 
+related errors, medication errors and other patient safety related errors, to the QMC.  
+(2) On an annual basis the pharmacy manager reviews published safety literature for prevention 
+recommendations and best practices and shares with the QMC during one of the quarterly 
+meetings.  
+c. Pharmacy Operations Reporting  
+(1) Operations performance is reported quarterly to QMC  
+(2) The pharmacy implements action plans as necessary to achieve and maintain its pharmacy 
+operations’ performance requirements.  
+d. Quality and Error Management Reporting 
+(1) On at least a quarterly basis, report findings in the following areas to the QMC:  
+(a) Quality concerns:  
+(i) Quality and safety of drug medication inventory and distribution 
+(ii) Quality of service 
+(iii)  Complaint Reporting   
+PH.2437_Quality Management Program Description 
+5 
+(a) Reporting analysis of the complaints to the quality management committee 
+at least on a quarterly basis. This is to include reporting on complaint 
+resolution turnaround time. The goal is to respond to 95% of complaints 
+within seven days.   
+(b) Accuracy errors:  
+(i) Proactive risk assessment 
+(ii) Tracking of errors 
+(iii) Reporting of errors to internal and external entities as appropriate 
+(iv) Analysis of error data 
+(v) At least annual review of published safety literature for prevention 
+recommendations and best practices 
+(c) Billing and Coding errors 
+(d) Patient record accuracy 
+5. Annual QMP Report: 
+a. There is a comprehensive, written annual report that describes the quality and performance 
+improvement activities, findings and corrective actions that relate to the services provided.  
+b. The annual QMP Report will contain, at a minimum, the following items: 
+(1) Number of Specialty clients/patients receiving prescriptions 
+(2) Number of Specialty prescriptions dispensed 
+(3) Number of Specialty prescriptions dispensed per payer source 
+(4) Number of Specialty prescriptions dispensed incorrectly: 
+(a) Wrong client/patient 
+(b) Wrong drug 
+(c) Wrong address 
+(d) Wrong quantity 
+(5) Number of shipping/delivery errors: 
+(a) Prescriptions mailed with an incorrect address 
+(b) Prescriptions mailed with a correct address, but were not delivered to the correct 
+location 
+(6) Average delivery time 
+c. Number of complaints received and the average resolution time 
+d. Call center metrics 
+e. Satisfaction survey rates as a percentage of patients served 
+f. Senior Clinical Staff Role and Responsibilities [URAC OPIN 3-1 (a-ii, a-iii)] 
+(1) The pharmacy manager is the Senior Clinical Staff person. The Senior Clinical Staff person 
+is an individual who is responsible for providing guidance to the clinical operational aspects 
+of program and provides Quality Management oversight. This individual chairs the QMC 
+and is responsible for the oversight of clinical decision-making aspects of the program; 
+he/she also has periodic consultation with practitioners in the field. The Senior Clinical Staff 
+person is also responsible for ensuring the organization utilizes qualified clinicians who are 
+accountable to the organization for decisions affecting consumers. The Senior Clinical Staff 
+person is a pharmacist and holds a current, unrestricted clinical license in the state of 
+Louisiana. If the license is restricted, the pharmacy ensures the job functions of this 
+individual do not violate the restrictions imposed by the state licensure board. The Senior 
+Clinical Staff person has experience in direct patient care and possesses the qualifications to 
+perform clinical oversight of pharmacy services.  The Senior Clinical Staff person chairs the 
+QMC and the development and implementation of all clinical Action Plans. 
+6. Quality Management Resources  
+a. The pharmacy employs staff and other resources to provide the necessary support to the day-to-day 
+operations of the QMP. All staff take part in the execution of the QMP. Additionally, the table below 
+indicates staff who are designated to perform specific QMP tasks and coordinate and oversee Quality 
+Management activities to help ensure the QMP development and plan are enacted. 
+ 
+  
+PH.2437_Quality Management Program Description 
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. Improvement Activities and Action Plans [URAC PMI 2-1 (c, d)] 
+a. The pharmacy’s QMC identifies areas for improvement from its ongoing monitoring of key 
+performance measures. When an opportunity is identified and the QMC determines a formal quality 
+management process is warranted, the QMC will develop an action plan. Action plans will address 
+opportunities for either error reduction or performance improvement related to its Specialty 
+Pharmacy program services.  
+F. Quality Management Process Model 
+1. The QMC is responsible for selecting, implementing and monitoring the progress of all action plans. The 
+QMC utilizes the DMAIC (Define, Measure, Analyze, Improve, Control) process improvement model as 
+outlined in the below graph, to manage the action plans and ensure goals are met and maintained.  
+a. Action Plan Structure 
+(1) If the action plan is clinical in nature, then the pharmacy will involve senior clinical staff 
+person in judgments about the use of the clinical quality measures and clinical aspects of 
+performance. The QMC is responsible for gathering, documenting, and reporting all of the 
+following factors for each selected Action Plans: 
+(a) Clearly defined quantifiable measures  
+(b) Measurement of baseline performance  
+(2) Re-measurement of performance at least annually as compared to the baseline performance  
+(3) Creation of specific goals for performance that are an improvement over the baseline 
+performance  
+(4) Designed and established strategies for performance improvement  
+(5) Documented changes or improvements relative to the baseline measurement  
+(6) Established projected time frames for achievement of performance improvement goals  
+(7) Conduct a barrier analysis if performance goals are not met  
+G. Communication of Quality Management Activities 
+1. The pharmacy recognizes the need to involve the whole organization in Quality Improvement. In order to 
+promote quality throughout the organization, the progress on these action plans as well as other Quality 
+Management activities are routinely communicated to all staff through memos, staff meetings, and bulletins. 
+Members of the Quality Management Committee and organization staff are provided with regular updates on 
+action plan performance and quality program goals.  
+2. Customer Satisfaction  
+a. Customer Satisfaction is a high priority for the pharmacy; therefore, it conducts ongoing patient 
+satisfaction surveys through the use of kiosks and patient interviews. 
+H. Clinical Decision and Support Tools  
+1. Pharmacy staff members are trained to utilize several decision support tools to perform their daily tasks.  
+These resources include: 
+a. Pharmacy Dispensing Software 
+(1) All staff is trained on the use of pharmacy dispensing software, EMR for patient care, 
+customer care, prescription processing and fulfillment and adjudication of electronic claims. 
+b. Intranet 
+(1) All staff are trained to access the organizational Teamlink Intranet site for pertinent 
+department information and policies and procedures. 
+c. Reference Materials 
+(1) The pharmacy uses Lexicomp as a reference source.  
+d. Supervisor/Chain of Command 
+Staff Title Dedicated QM 
+ Pharmacy Manager 0.25 FTE 
+  Patient Assistance Technician 0.25 FTE 
+Pharmacist   0.25 FTE 
+Total Resources 0.75 FTE  
+PH.2437_Quality Management Program Description 
+7 
+(1) All staff are trained to utilize their supervisors and chain of command when they are unsure 
+of how to answer/handle a particular question/situation. 
+e. All employees are trained on compliance with regulatory and accreditation requirements including 
+the following:  
+(1) HIPAA 
+(2) URAC and ACHC Accreditation Training as appropriate to job function and including: 
+(a) Purpose of quality improvement activities 
+(b) Person responsible for coordinating quality improvement activities 
+(c) Outcomes resulting from previous performance improvement activities 
+(3) Fraud, Waste and Abuse Training 
+(4) Conflict of Interest Training 
+(5) Confidentiality Training  
+(6) Safety testing on equipment used in the work environment 
+(7) Emergency/Disaster Training 
+(8) Complaints and/or Grievance Procedures 
+(9) Infection Control Training 
+(10) Cultural Diversity 
+(11) Ethics Training 
+(12) Sexual Harassment 
+(13) Workplace and client/patient safety-including disaster planning 
+(14) OSHA (Right to Know Laws) 
+(15) Client/Patient Rights and Responsibilities 
+I. QMP Implementation [URAC PMI 2-1 (c)] 
+1. The pharmacy has implemented a systematic, evidence-based quality improvement process that includes: 
+a. The QMC will select performance indicators. 
+b. Definitions of performance indicators shall be outlined within the QMPD or within a policy 
+and procedure specific to the performance indicator. 
+c. See performance indicator grid below. 
+d. The QMC shall outline the frequency in which performance indicator data is reported to the 
+QMC. 
+(a) See performance indicator grid below. 
+e. Performance metrics are measured monthly and reported at least quarterly, with the 
+exception of Patient Satisfaction and Provider Satisfaction which are measured and reported 
+annually. 
+a. Measurement of process, errors/adverse events/near misses, satisfaction (of the 
+population served), complaints, access, or outcome trends performed using valid and 
+accurate measurement methods. 
+b. Analysis of process, errors/adverse events/near misses, satisfaction (of the population 
+served), complaints, access, or outcome trends to determine if defined performance 
+metrics are met. 
+c. Implementation of activities designed to improve or correct identified problems, 
+including reduction of errors/adverse events/near misses, or meet acceptable levels of 
+performance; [URAC PMI 2-1 (d)] 
+(1) The QMC shall approve and oversee action plans for any performance 
+indicators not meeting goals as well as any other area the QMC identifies as 
+needing improvement. 
+(2) Plans to reduce errors or otherwise improve performance are implemented 
+based on measurement results.  The quality improvement activities in these 
+plans can include corrective action and preventive action processes. 
+(3) The QMC shall evaluate the effectiveness of action plans on at least a quarterly 
+basis. 
+(4) Comparisons to baseline prior to the action plans are useful in demonstrating 
+progress and identifying the need for further action.  
+PH.2437_Quality Management Program Description 
+8 
+(5) When an action plan is not effective in nature, the QMC will review and revise 
+the action plan. 
+d. Periodic re-measurement of the level of performance for as long as necessary to ensure 
+sustained improvement. 
+2. The pharmacy includes data management within the QMC, whereby it: 
+a. Benchmarks its own performance; and 
+(1) The pharmacy benchmarks against its own performance data by setting goals 
+and reviewing data month over month and quarter over quarter on a scorecard 
+within the QMC meeting minutes. Data is then reviewed during the annual 
+QMC meeting and goals/benchmarks are reviewed, selected and/or updated for 
+the following year. [URAC PMI 2-1 (c)] 
+(a) Performance data is obtained by measure of errors/incidents/complaints, 
+satisfaction, access, or outcome trends referenced as Performance Indicators in 
+the grid below. 
+(b) Performance measures are analyzed to determine if goals are met. 
+(2) Wherever possible, valid comparison data should be used.  For comparison data 
+to be valid, the sample size needs to be enough to draw a valid conclusion. 
+(3) The pharmacy ensures data integrity for all data prior to being used or presented 
+to the QMC. 
+(4) Reports are collected prior to each QMC meeting and audited by a QMC 
+member who did not pull the report. The auditor has the opportunity to seek 
+clarification from the reporter. [URAC PMI 2-1 (a)] 
+(5) Th e QMC works closely with any external departments that produce reports, for 
+example phone statistics reports, to ensure the reports and any applicable 
+parameters are appropriately configured and generating accurate data. [URAC 
+PMI 2-1 (a)] 
+3. The pharmacy has selected the following metrics: [URAC PMI 1-1 (a)] [URAC PMI 2-1 (c)] 
+Goals are approved by the QMC and outlined within QMC meeting minutes. 
+Performance 
+Indicator 
+Description Reporting to 
+QMC 
+Measured P&P 
+Adverse Events All adverse events will be 
+tracked and reviewed for 
+trends and process 
+improvement opportunities. 
+Quarterly Monthly PH.2455 
+Average 
+Abandonment Rate  
+The percentage of calls 
+offered into a 
+communications network or 
+telephone system – i.e., 
+automatic call distribution 
+(ACD) system of a call 
+center – that are terminated 
+by the persons originating 
+the call before answer by a 
+staff person 
+Quarterly Monthly  PH.2449 
+Average Speed of 
+Answer 
+The average delay in 
+seconds that inbound 
+telephone calls encounter 
+waiting in the telephone 
+queue of a call center before 
+answered by a staff person. 
+Quarterly  Monthly  PH.2449 
+Patient Satisfaction  Patient Satisfaction Survey At least Annually At least Annually PH.2432 
+Distribution 
+Accuracy 
+Assesses the percentage of 
+prescriptions delivered to the 
+wrong recipient. (The 
+recipient may be either a 
+Quarterly  Monthly PH.2440  
+PH.2437_Quality Management Program Description 
+9 
+patient or a patient’s health 
+care provider.) 
+Medication 
+Dispensing Accuracy 
+Assesses the percentage of 
+prescriptions that the 
+organization dispensed 
+accurately.  
+Quarterly  Monthly  PH.2445 
+Near Misses  All near misses will be 
+tracked and reviewed for 
+trends and process 
+improvement opportunities.  
+Quarterly Monthly  PH.2445 
+Proportion of Days 
+Covered (PDC) 
+Adherence Metric based on 
+fill data 
+Quarterly  Monthly  PH.2465 
+Provider Satisfaction Satisfaction of 
+Providers/Prescribers will be 
+obtained via a survey. 
+At least Annually At least Annually PH.2430 
+Turn Around Time of 
+Complaints and 
+Errors 
+This measure is to be known 
+as Turn Around Time 
+(TAT). Data is aggregated 
+and trended to ensure: 
+(1) Timely response to 
+patients’ problems, 
+concerns, and complaints; 
+(2) Timely response to 
+errors, including dispensing 
+errors and shipping errors; 
+and (3) Timely response to 
+provider/prescriber 
+problems, concerns and 
+complaints.  
+Quarterly Monthly  PH.2464 
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: PMI 1-1, 2-1, OPIN 3-1 
+• ACHC Standards: DRX2-5A, DRX2-7A, DRX2-B, DRX5-5A, DRX6-1A, DRX6-1B, DRX6-1C, DRX6-1D, 
+DRX6-E, DRX6-1F, DRX6-1G, DRX6-2A, DRX6-3B, DRX6-3C, DRX6-3D, DRX6-3E, DRX6-3F, DRX6-3G, 
+DRX6-3I, DRX6-3J, DRX6-6A 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  

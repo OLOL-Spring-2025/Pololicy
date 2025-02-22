@@ -1,0 +1,89 @@
+Our Lady of the Lake Regional Medical Center  
+Policy Manual:  Pharmacy Section:  Medication Use, 
+Storage and Handling 
+Medications: Vinca Alkaloid Preparation 
+and Administration  
+Policy Reference #:  PH-03-31 
+Supersedes#:  NA 
+Review Date: 4/22/24 
+Date of Origination: 10/13/2015 
+Revision Date:  05/07/2018 
+ 
+Purpose: 
+To identify the vinca alkaloids as high alert medications and provide guidelines for the prescribing 
+and administration of these medications in patients with hematologic or solid tumor malignancies.  
+ 
+Definition: 
+1. Vinca Alkaloids: are drugs which bind to tubulin and inhibits microtubule formation, 
+therefore, arresting the cell at metaphase by disrupting the formation of the mitotic 
+spindle; it is specific for the M and S phases.  
+2. Vesicant: An agent that has the potential to cause blistering, severe tissue injury, or tissue 
+necrosis when extravasated.  
+3. Extravasation: Unintentional leakage (or Instillation) of fluid out of a blood vessel into 
+surrounding tissue 
+ 
+Prescribing: 
+1. Appropriate indications for use included:   
+A. Hematologic malignancies 
+B. Solid tumor malignancies 
+2. Verbal orders for initial vinca alkaloid chemotherapy will not be accepted.  
+3. Physicians’ orders must include all of the following to be processed.  
+A. Vinca Alkaloid 
+B. Total dose of medication 
+i. Note for vincristine the usual maximum does is 2mg, however this may 
+vary in some study protocols 
+C. Route of administration  
+i. Note for all vinca alkaloids route of administration is IV ONLY. 
+D. Rate of administration 
+E. Frequency of administration 
+F. Total course of therapy (i.e. duration of therapy)
+ 
+Dispensing: 
+1. Pharmacy will verify the appropriateness and dosing of all vinca alkaloids agents. 
+2. All doses of vinca alkaloids MUST be prepared by the pharmacy in minibags.  See below 
+for Lexi Comp preferred dilutions:  
+a. Vinblastine: The preferred administration is in Normal Saline (NS) or D5W as a short IV 
+infusion in a 25 to 50 mL minibag. b. Vinorelbine: The preferred administration is in NS or D5W diluted to a final concentration of 
+0.5 - 2 mg/mL (for IV bag) and administered as a short IV infusion. 
+c. Vincristine: Preferred administration is in NS or D5W as a short IV infusion in a 25 to 50 mL 
+minibag.  Specific protocols utilize a 24-hour continuous IV infusion rate (e.g., EPOCH). 
+d. Vincristine liposomal: Preferred administration is IV infusion over 1 hour; total volume of IV 
+bag is 100 mL (vinCRIStine liposomal plus normal saline).  
+3. Pharmacy will ensure that bag that is dispensed will contain the following phrase: “For 
+Intravenous use only.  Fatal if given by other routes.”  
+4. Pharmacy will ensure that all drugs are dispensed in appropriate concentrations and 
+appropriate containers.  
+5. Pharmacy will complete independent calculations as a pharmacy “double check” 
+a. A second pharmacist will verify the dosing 
+ 
+Administration: 
+1. Vinca alkaloids must not be transported through the pneumatic tube system. 
+2. Vinca alkaloids can only be administered by registered nurses that have completed the 
+appropriate antineoplastic/cytotoxic agent administration training.   
+3. Vinca alkaloids must undergo a “double check” procedure per nursing protocol/policy 
+prior to administration to the patient 
+4. Vinca alkaloids must be administered via intravenous route only. Note: inadvertent 
+intrathecal administration will result in death.  
+5. Intravenous: Preferred administration is as a short 5 to 10-minute infusion in a 25 to 50 
+mL minibag. If administration via minibag is absolutely not possible, may also be 
+administered as a slow (1-minute) push.  ISMP (Institute for Safe Medicine Practices) 
+strongly recommends against utilizing IV Push as an option with vinca alkaloids due to 
+errors of administration being reported causing serious and/or fatal harm to patients. 
+ 
+Monitoring: 
+The patient should be monitored as listed in the package insert. 
+• Since all Vinca alkaloids are considered vesicant, they should be monitored for 
+extravasations and infusion site irritation at all times.  
+• Refer to nursing policy NMO-001 and NO-002 - Chemotherapy (Cytotoxic agents), 
+Handling, Administration and Disposal; CHON-003 Chemotherapy (Cytotoxic agents) 
+Administration 
+Safety: 
+Nurses perform a double check on all vinca alkaloid agents prior to administration to the patient.  
+ 
+Special handling: 
+Hazardous agent: Use appropriate precautions for handling and disposal; avoid eye 
+contamination 
+ 
+References: 
+• Lexicomp: www.lexi.com  • ISMP Institute for Safe Medication Practices: 20 22 Targeted Medication Safety Best 
+Practices for Hospital 

@@ -1,0 +1,75 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 1 of 2 
+PHLIS002 
+ 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLIS002 
+PREPARATION FOR AM ROUNDS 
+       Date Issue  Date Effective Date 
+ Prepared/Revised By ZJA/LC 10/1/2017 10/1/2017 10/1/2017 
+Reviewed By LC 9/17/2019 Origination Date 
+Medical Director Review A Harton 9/22/2017 JAN 2006 
+ 
+PURPOSE: 
+To describe how to use the computer to assign patient draws for AM Rounds utilizing EPIC Hyperspace: Patient 
+Draw List 
+ 
+POLICY: 
+The night shift charge reviews and assigns the AM rounds for collection by the Phlebotomy Team.  The orders are 
+listed by priority, collection time, room number, name, and medical record number (MRN). 
+ 
+A. EPIC Order Release date/time 
+a. Released electronically  
+b. Done daily at 00:31 and 0505 
+B. Orders release for AM rounds at 00:31 and 0505 on the Patient Draw List. 
+C. Morning round are assigned utilizing EPIC Hyperspace via the “Patient Draw List”. 
+ 
+Timed Requests during the Morning Round 
+A. Timed requests ordered during the hours of 04:00 to 06:30 are included in Morning Rounds and drawn at the 
+time ordered 
+B. Any PTT, Cardiac Enzyme, Drug Level, or 6th floor timed Calcium order is to be drawn by the morning team 
+at the time ordered 
+ 
+Patient Draw List 
+A. In the Patient Draw list, click on the column header for the patient room number to sort orders 
+numerically by room number 
+B. The night shift Charge Tech assigns collections to night shift and morning shift phlebotomist scheduled 
+for the day. 
+C. The night shift Charge Tech is to print a Patient Draw List after all phlebotomist assignments have been 
+made  
+D. Place the printed list with the Morning Round Tally Report 
+ 
+Morning Rounds 
+A. Night shift personnel are dispatched to draw the Intensive Care units 
+a. CICU/SICU are drawn first 
+b. MICU/MSCC/TNCC/RCU/PCU are drawn next 
+c. Send down blood to the laboratory as each unit is completed 
+B. Day shift OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 2 of 2 
+PHLIS002 
+ 
+ 
+a. One Tech is sent to 5W 
+b. Remaining staff is sent to the 4th floor 
+i. 4S and 4N patients are drawn first 
+ii. 4E and 4W patients are drawn next 
+c. 5 floor is drawn  
+d. 6 floor is drawn 
+e. 3 floor is drawn 
+f. 3W and 1N are drawn after 06:30 
+C. Drawn samples are to be sent to the Laboratory Central Processing Department 
+D. All problem draw labels are placed in a redraw status or given to the Phlebotomy Operations Coordinator 
+or Charge Tech for reassignment. 
+ 
+REVISIONS 
+01/2006 (created); 10/1/2017 
+ 
+ 
+ 

@@ -1,0 +1,131 @@
+NSM012 
+Page 1 of 3 
+ 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Medication 
+Title: Thrombolytic IV Administration, Stroke 
+Policy 
+Reference #: NSM-012 
+Supersedes #:  
+Date of Origination: June, 2000 Review Date:   July 8, 2024  
+Revision Date: July 8, 2024  
+ 
+PURPOSE: 
+To provide guidelines for the administration of thrombolytic medications otherwise known as 
+alteplase (Activase) and tenecteplase (TNKase) in ischemic stroke patients. 
+ 
+  
+ 
+POLICY: 
+Critical Care Areas and Emergency Department RNs should be familiar with dosing, 
+administration and complications of thrombolytics.  The administration of thrombolytics shall be 
+done in accordance with the American Stroke Association/American Heart Association 
+(ASA/AHA) Guidelines for the Early Management of Adults with Acute Ischemic Stroke. 
+ 
+ 
+ 
+INDICATIONS: 
+Alteplase and tenecteplase are thrombolytics indicated for the management of acute ischemic 
+stroke in adults for improving neurologic recovery and reducing the incidence of disability.  IV 
+thrombolytics are recommended for selected patients who may be treated up to 4.5 hours from 
+onset of ischemic stroke symptoms.  Physicians should review the ASA recommended 
+indications and contraindications to determine eligibility.  
+ 
+ 
+  
+PROCEDURES: 
+ 
+Physician Order: 
+Thrombolytics can be given to acute ischemic stroke patients up to 4.5 hours after symptom 
+onset.   
+A. The alteplase dosing protocol for ischemic strokes will be utilized (0.9 mg/kg – max dose 
+of 90 mg) 
+B. The tenecteplase dosing protocol for ischemic strokes will be utilized (0.25 mg/kg – max 
+dose 25 mg) 
+      
+ 
+ NSM012 
+Page 2 of 3 
+ 
+Nursing Procedure: 
+A. Provide continuous cardiac monitoring 
+B. Establish separate IV access with at least two (2) saline locks; three (3) locks are 
+preferred. 
+C. Administer tenecteplase per Stroke Protocol. 
+    
+     Tenecteplase  
+1. Recommended dose is 0.25 mg/kg (maximum dose is 25mg) 
+2. Flush IV access with 0.9% sodium chloride (Normal Saline) prior 
+to administration 
+3. Medication is a one-time bolus. Administer dose over 5 seconds 
+4. Follow administration with 0.9% sodium chloride (Normal Saline) 
+flush to ensure full delivery of medication 
+D. Recommend Venipuncture:  use small gauge needles (23 or 25 
+gauge) for blood venipuncture.  Apply direct pressure for 20 to 30 
+minutes to venipuncture site. 
+E. Upon initiation of tenecteplase, the nurse must be in room observing 
+patient, obtaining vital signs, and performing neurological assessments.  
+This should be completed: 
+1.  every 15 minutes x 8 (2 hours), 
+2.  then every 30 minutes x 6 hours 
+3.  then hourly x 16.  
+4. Vital signs changed to routine frequency after 24 hours from IV 
+alteplase treatment start.  
+ 
+F. Perform a baseline neurological assessment prior to administration, and 60 
+minutes after tenecteplase bolus utilizing the National Institute Health 
+Stroke Scale (NIHSS); other assessment time intervals use the modified 
+NIHSS along with a reassessment of presenting symptoms with each vital 
+sign. The modified NIHSS includes items 1b, 1c (LOC), 2 (Gaze), 3 
+(Visual), 5 (Motor Arm), and 6 (Motor Leg), 8 (Sensory), 9 (Language), 
+11 (Extinction and Inattenion) from the full NIHSS. 
+G. Nursing documentation 
+1. Document patient assessment. 
+a. Blood pressure/vital signs per previously indicated 
+frequency (letter G) 
+b.  2 full NIHSS (before initiation and 60 minutes after bolus 
+dose), and 
+c.  modified NIHSS and reassessment of presenting 
+symptoms with each neurological check per previously 
+indicated frequency (letter F) 
+ 
+2. Document any bleeding and report to physician  
+            immediately. 
+      
+   
+ NSM012 
+Page 3 of 3 
+ 
+Indications/Contraindications Criteria:  
+As per referenced AHA/ASA Guidelines for the Early Management of Adults with Acute  
+Ischemic Stroke  
+ 
+ Important Points to Remember: 
+1. Assess frequently for presence of headache, changes in mental status, and 
+alterations in neurological status or other vital signs as these may be early 
+indicators of increased intracranial pressure or altered cerebral tissue 
+perfusion. 
+2. If concern for bleeding or acute change in mental status arises, infusion should 
+be paused, and physician should be contacted immediately. May restart 
+infusion per provider discretion. 
+3. Superficial bleeding can be successfully managed by direct pressure. 
+4. Surface or internal bleeding that results in fluid volume deficit or 
+hemodynamic compromise requires immediate and definitive emergency 
+action and medical intervention.   Discontinuation of the infusion with/without 
+blood product supplementation or reversal may be indicated (per discretion of 
+the provider) 
+     
+ 
+References:  
+ 
+Powers et al. (2019). Guidelines for the early management of patients with ischemic 
+stroke: 2019 update to the 2018 guidelines for the early management of acute stroke. A 
+Guideline for healthcare professionals from the American heart association/American 
+stroke association. Stroke, 50. doi: 10.1161/STR.0000000000000211 
+ 
+Wang, L., Hao, M., Wu, N., Wu, S., Fisher, M., & Xiong, Y. (2024). Comprehensive 
+Review of Tenecteplase for thrombolysis in Acute ischemic Stroke. Journal of the 
+American Heart Association. Cardiovascular and Cerebrovascular 
+Disease. https://doi.org/10.1161/jaha.123.031692 
+ 

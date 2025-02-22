@@ -1,0 +1,150 @@
+ ECUS000 
+Page 1 of 4 
+OUR LADY OF THE LAKE HEALTHREGIONAL MEDICAL CENTER 
+Policy Manual: Environment of Care Section: Utility Systems 
+Title: Utilities Management Plan 
+Policy 
+Reference #: ECUS000 
+Supersedes #:  
+Date of Origination: January 1, 1997 Review Date: 07/15/2023 
+Revision Date: 02/01/2018, 01/05/2020 
+ 
+PURPOSE: 
+ 
+The Utility Management Plan is established to promote a safe, controlled, comfortable environment in 
+which to provide patient care, as well as to assess and minimize risks associated with utility failures and 
+to ensure operational reliability of utility systems. The Plan applies to Our Lady of the Lake Health 
+Regional Medical Center (OLOL) and all locations where OLOL operates.  
+ 
+PROCEDURES: 
+ 
+Responsibility 
+The Senior Director of Facilities manages the planning, design, construction and commissioning of 
+utility systems. The construction and commissioning programs are designed to assure compliance with 
+codes and standards and to meet the specific needs of the occupants.  
+ 
+Criteria are identified for operating components of the  
+• utilities systems,  
+• life support systems,  
+• infection control systems,  
+• environmental support systems,  
+• communication systems, and  
+• equipment support systems.  
+ 
+Plant Services is responsible for setting maintenance standards and implementing a program of planned 
+maintenance to ensure a safe, comfortable environment.  
+ 
+Risk Assessments 
+The risk of utility failure is assessed proactively through a process that includes design, accurate 
+implementation, scheduled maintenance, monitoring, and continuous improvement of utility systems. 
+All components of the utilities system have operational plans that are addressed through utility system 
+policy and procedures, system / equipment operating manuals, and a preventative maintenance program. 
+Recommendations for upgrades or replacement of the systems are addressed through Administration as 
+part of the capital planning process.  
+ 
+Utility systems include: 
+• Electrical distribution 
+• Emergency power  ECUS000 
+Page 2 of 4 
+• Elevators 
+• Heating, ventilation, and air-conditioning 
+• Plumbing 
+• Boiler and steam 
+• Piped gases 
+• Vacuum systems 
+ 
+All components of the utilities management systems in the program are evaluated using criteria 
+developed from manufacturer’s recommendations, identified risk of failure, as well as experience. The 
+Sr. Director, Facilities is responsible for managing this process. Preventive Maintenance (PM), 
+inspection and testing of utility components are implemented on a schedule developed from 
+manufacturer’s recommendations, identified risk of failure, as well as experience as determined by the 
+ongoing assessment and improvement.  
+ 
+An accurate inventory of systems is maintained in the Computerized Maintenance Management System 
+(CMMS). Plant Services staff and contractors inspect, test and maintain critical components of the 
+inventory. Daily operations include scheduled rounds, adjustment of controls, preventive maintenance 
+and repair, as required. All equipment deemed high risk shall be denoted as such in the Utility 
+Management System. Plant Services will report PM completion percentages for high risk equipment to 
+the Environment of Care Committee. Documentation of utility system testing is maintained in Plant 
+Services. 
+ 
+Water Management 
+Management of pathogenic biological agents in water systems is accomplished by the combined efforts 
+of Plant Services, Infection Control and contract service. Infection Control monitors hospital lab culture 
+results to identify the incidence of pathogenic biological agents. If a case is identified, Infection Control 
+and Plant Services coordinate to test appropriate water systems including cooling towers, domestic hot 
+water and aerosolizing water systems. Regular preventive maintenance is completed on cooling towers, 
+domestic hot water and aerosolizing water systems. 
+ 
+Temperature, Humidity, and Air Pressures 
+Installation and maintenance of appropriate pressure relationships, air exchange rates, and filtration 
+efficiencies for ventilation systems that serve areas specially designed to control airborne contaminants 
+is managed by combined efforts of Plant Services and contract services that are managed by Plant 
+Services. Plant Services ensures continuous monitoring of pressure sensitive areas by managing a 
+schedule of regular observation of filter performance monitoring equipment, air pressure sensing 
+equipment, and airflow rate sensors.  
+ 
+Shutdowns 
+Critical utility system equipment and controls are labeled to facilitate mapping of the distribution of 
+systems for partial or complete emergency shutdown. Documentation that indicates the distribution and 
+location of each utility system, including controls for partial or complete shutdown are maintained in 
+Plant Services. 
+ 
+Orientation and Education 
+Utility system incidents, problems, failures, and user errors are documented and corrected. Significant 
+problems, failures and user errors and corrective actions are reported to the Environment for Care  ECUS000 
+Page 3 of 4 
+Committee for review. Plant Services will coordinate response to utility system failure which may 
+disrupt patient care, result in damage to property or cause an unsafe condition, or disruption of a major 
+utility service. The need for emergency repairs is reported to the Plant Services Control Room. 
+Employees are oriented to their response in Utility system failures through general hospital orientation 
+and annual education. 
+ 
+Emergency Power Systems 
+Back-up generators are in place and tested under appropriate load conditions to ensure reliable source of 
+emergency power to designated areas and utilities. Back-up sources for fuel also are in place. A list 
+indicating utilities and designated units, or patient care areas fed by the emergency generator is available 
+in Plant Services. Egress lighting is tested under prescribed schedules. Documentation of utility system 
+testing is maintained in Plant Services.  
+ 
+Medical Gas and Vacuum Systems 
+Scheduled preventive maintenance is performed to inspect, test and maintain critical operating 
+components of the piped medical gas system including:  
+• Master signal panel area alarms,  
+• automatic pressure switches,  
+• shutoff valves,  
+• flexible connectors, and  
+• outlets.  
+ 
+Inspection and testing of critical operating components of the piped medical gas system are implemented 
+through written agreement with medical gas system vendor and in-house preventative maintenance 
+program. Piped medical gas systems are tested when installed, modified, or repaired. Testing includes 
+cross-connection testing, piping purity testing, pressure testing. All testing is performed by a licensed 
+contractor. All testing and inspection are based on current NFPA recommendations, manufacturer’s 
+recommendations, and relevant regulatory requirements.  Supply valve and area shutoff valves of piped 
+medical gas systems are labeled and mapped. Documentation that indicates the distribution and location 
+of each utility system, including controls for partial or complete shutdown are maintained in Plant 
+Services.   
+ 
+Annual Evaluation 
+The annual evaluation of the Utility Systems Management Plan will include a review of the scope 
+according to the current Joint Commission standards to evaluate the degree in which the program meets 
+accreditation standards and the current risk assessment of the hospital.  The overall performance of the 
+program will be reviewed by considering compliance to each standard and element of performance.  The 
+overall effectiveness of the program will be evaluated in part by reviewing the outcomes of performance 
+improvement measures.  The performance and effectiveness of the Utility Systems Management Plan 
+will also be reviewed by the Environment of Care Committee.  Performance improvement results are 
+communicated to leadership through the Performance Improvement reporting structure. 
+ 
+ 
+ 
+ 
+  ECUS000 
+Page 4 of 4 
+REFERENCES: 
+The Joint Commission Environment of Care 02.05.01 
+National Fire Protection Association (NFPA):  
+ 99-2012 Healthcare Facilities Code 
+ 101-2012 Life Safety Code 
+ 72-2010 National Electric Code 
+ 

@@ -1,0 +1,41 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  Documentation and Tracking of Endocavity 
+Ultrasound Probes 
+Section:  Ultrasound 
+Date of Origination:  3/22 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+3/22, 3/23, 4/24 Serial Code:  IUS 007 
+  
+SOP Trophon 
+HLD.doc
+ 
+PURPOSE: To establish guidelines for the proper documentation and tracking of Endocavity 
+US probes used in the clinical setting.  
+ 
+POLICY: Authorized personnel will be able to verify that the US probe has completed the 
+HLD process.  At that point, the probe identifier # will be linked to patient exam 
+in the EMR for future tracking/retrieval if necessary.  
+ 
+PROCEDURE: 1.  Ultrasound Technologist ensures that probe has been disinfected by verifying 
+label that was placed on bag before removing. 
+ 2.  Technologist will enter CEID# from the probe into the EMR for current 
+patient.  
+ 3.  After Exam is ended, the technologist will complete HLD process for the 
+endocavity probe.  (See attached SOP for proper HLD process)  
+ 4.  Patient and Probe information can be retrieved either by patient exam or by 
+probe report run in EMR.  
+  A.  Patient/Probe Retrieval by exam 
+   a. Go to Chart Review by searching name or MRN 
+   b.  Select exam (US Transvaginal) 
+   c.  Scroll and select (Imaging End US Probe) 
+  2 
+  B.  Patient/ Probe Retrieval by report 
+   a.  Go to Report Library in EPIC 
+   b.  Select FM Imaging- US Probe Used Report and run 
+    
+** Please see attached SOP- HLD of Endocavity US Probes using Trophon** 

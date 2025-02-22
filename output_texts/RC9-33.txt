@@ -1,0 +1,76 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Standardization and Calibration  
+                of Thermometers Signature: 
+Date of Origination: June 25, 2013 Section: Blood Gas Lab 
+Date of Last Revision: October 1, 2024 Serial Code: RC9-33 
+Date of Last Review: October 1, 2024  
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+To ensure that thermometers are accurate and verified by calibration. 
+ 
+PROCEDURE: 
+STANDARDIZATION AND CALIBRATION OF THERMOMETERS 
+ 
+I.  PRINCIPLE 
+ 
+A. Thermometers used for measurement of refrigerator temperature and room 
+temperature should be calibrated and standardized to prevent inaccurate indication of 
+temperatures. 
+B. Each thermometer should be calibrated before initial use unless calibrated by the 
+manufacturer and annually thereafter or if there is any reason to suspect change or 
+damage. 
+C. Liquid-in-Glass Laboratory thermometers should be calibrated and standardized at a 
+temperature close to that required by the instrument for which they will be used. 
+ 
+II. MATERIALS 
+ 
+A. National Institute of Standards and Technology (NIST) –certified thermometer or 
+thermometer with NIST-traceable calibration certificate. 
+B. NIST Thermometer Calibration Log 
+C. NIST Certified Hygro-Thermometer 
+ 
+III. PROCEDURE- LIQUID IN GLASS THERMOMETERS 
+  
+A. Annually, a NIST certified liquid-in-glass thermometer will be borrowed from the 
+main lab. The liquid-in-glass thermometer will be used to verify the room 
+thermometer and refrigerator thermometer in each blood gas lab. 
+a. The liquid-in-glass thermometer will be placed into the refrigerator for ten 
+minutes. The temperature of both thermometers will be documented and 
+should be within 10C of each other. 
+b. The liquid-in-glass thermometer will be placed on the counter next to the room 
+thermometer for ten minutes. The temperature of both thermometers will be 
+documented and should be within 10C of each other. B. The following must be documented in the NIST Thermometer Calibration Log: 
+a. date of testing 
+b. thermometer location (refrigerator/room) 
+c. the temperature of both thermometers  
+d. initials of person conducting test 
+ 
+IV.     PROCEDURE – HYGROMETER THERMOMETER 
+ 
+A. Annually the NIST certified hygro-thermometer will be compared to the room digital 
+hygrometer thermometer. This is done by comparing both thermometers side-by-side 
+at room temperature. The humidity will be within 10% of each other. If the humidity is 
+not within range, the room digital thermometer will be replaced.  
+B. The following must be documented in the NIST Thermometer Calibration Log: 
+a. date of testing 
+b. thermometer location  
+c. the humidity of both thermometers  
+d. initials of person conducting test 
+ 
+V. RESULTS 
+ 
+A result is acceptable if the reading on a thermometer agrees with the NIST 
+thermometer within 10C for all thermometers and within 10% humidity for all 
+hygrometers. If the expected result is not achieved, the thermometer should be 
+returned to the distributor (if newly purchased), or discarded. 
+ 
+NOTE: Our Lady of the Lake Ascension purchases a new NIST-certified Hygro-
+Thermometer annually. 

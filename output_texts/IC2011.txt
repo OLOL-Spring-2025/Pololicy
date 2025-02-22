@@ -1,0 +1,332 @@
+ 1 
+Policies and Procedures Manual Manual:  Infection Control 
+Our Lady of the Lake Regional Medical Center Chapter: II 
+Subject:  Tuberculosis Infection Control Plan Section:  
+Date of Origination:  January 31,1997 Supersedes:  
+Date of Last Revision:  September 17, 2024 Serial Code: IC2011 
+Date of Last Review:    September 17, 2024 
+_______________________________________________________________________ 
+ PURPOSE:  
+The purpose of this document is to provide a comprehensive, integrated plan and written policy to prevent 
+or eliminate exposures to Mycobacterium tuberculosis (M. tb). 
+POLICY: 
+The Environment of Care and Infection Prevention and Control Departments are responsible for 
+establishing the policies and procedures to comply with the current recommendations to prevent or 
+eliminate exposures to tuberculosis (TB). Department Heads are responsible for the implementation of these 
+policies in their departments/units. 
+PROCEDURE: 
+Introduction 
+Mycobacterium tuberculosis is carried in airborne particles, known as droplet nuclei.  These particles can 
+be generated when persons with pulmonary or laryngeal tuberculosis (TB) sneeze, cough, speak, or sing. 
+Transmission of TB is a recognized risk in health-care facilities. Transmission is most likely to occur from a 
+patient with unrecognized pulmonary or laryngeal TB who are not on effective anti-tuberculosis therapy 
+and have not been placed in Airborne Precautions.  
+Persons with immunocompromising conditions have a greater risk for the progression of latent TB infection 
+to active disease.  HIV infection is the strongest known risk factor yet identified for the progression from 
+latent TB infection to active TB disease. 
+Implementation of this TB Control Plan requires risk assessment; early identification and isolation of 
+potentially infectious patients; effective engineering controls; an appropriate respiratory protection program; 
+and Health Care Worker TB education, counseling, screening, and evaluation.  
+Although eliminating the risk of TB transmission in the health-care facility may be impossible, adherence to 
+these guidelines should greatly reduce the risk to persons in these settings. 
+OLOL TB Risk Assessment  
+The organization reviews the Guidelines for Preventing the Transmission of Mycobacterium tuberculosis in 
+Healthcare Settings, 2005i Appendix C Risk Classifications to determine its TB exposure risk. This is 
+documented annually in the TB Risk Assessment.  2 
+Identification, Characteristics and Evaluation of Patients Who Have TB 
+A diagnosis of TB should be considered in any patient with persistent cough (i.e., a cough lasting for > 3 
+weeks) or other signs or symptoms compatible with TB (e.g., bloody sputum, night sweats, weight loss, 
+anorexia, or fever).   
+The probability of TB is higher among patients with: 
+o radiographic features or lab findings consistent with TB 
+o history of a positive PPD or interferon-gamma release assay test 
+o previous TB or recent exposure to TB 
+o past or current residence in or travel to an endemic area 
+o HIV and respiratory symptoms 
+In general, persons suspected or confirmed to have active TB should be considered infectious.  Patients 
+identified as having an increased risk for tuberculosis as defined by the criteria above should be placed in 
+negative pressure isolation immediately upon identification of these risks. 
+All patients with suspected or confirmed TB will be reported to the Health Department immediately so that 
+standard procedures for identifying and evaluation of TB contacts can be initiated. 
+Prioritizing Isolation Rooms for Infectious TB Patients 
+The negative air isolation rooms will be utilized for admission of the active or suspected TB patient. Other 
+conditions requiring isolation and patients not requiring isolation may use these rooms. However, the 
+suspected or confirmed TB patient placement will need to take priority.  The room will be vacated, as soon 
+as possible, when needed for these patients. 
+Managing Outpatients Who Have Possible Infectious TB 
+Triage of patients should include vigorous efforts to promptly detect patients with active TB. Patients with 
+signs or symptoms suggestive of TB should be evaluated and isolated promptly to minimize the time spent 
+in ambulatory care areas.  
+Such patients should have TB precautions applied while the diagnostic evaluation is being conducted. 
+1. Place patient in a separate waiting room. 
+2. Give the patient a surgical mask and instruction to keep it on. Patients should also be given tissues 
+and instructed to cover their mouth and nose when coughing or sneezing if they must remove their 
+masks to facilitate respiratory clearance. 
+3. Immediately institute TB precautions for known TB patients non-compliant with prescribed drug 
+therapy. 
+4. Avoid scheduling active TB patients at same site/time with severely immunocompromised or HIV+ 
+patients.  If this is not feasible, physically separate clinic/waiting areas. 
+5. Design and maintain ventilation of areas serving patients diagnosed with TB or high risk for TB to 
+reduce risk of transmission.  3 
+a. Ventilate waiting or treatment rooms with greater than or equal to 6 air exchanges per hour.  New 
+construction or renovation of existing health-care facility should be designed so that TB isolation 
+rooms achieve airflow of greater than or equal to 12 air exchanges per hour. 
+b. Use Airborne Infection Isolation Room (AIIR) for suspected TB cases. 
+c. Cough induction should be performed in a negative pressure area, allowing adequate time for 
+expelled air to be filtered and removed prior to use for another patient. 
+MANAGING INPATIENTS WHO HAVE POSSIBLE INFECTIOUS TB  
+1. Patients known to have active or suspected TB will be placed in Airborne Precautions in a AIIR. 
+2. The Medical Center will take appropriate measures to minimize the risk to health-care workers by 
+applying current knowledge and technology as recommended by Federal and State Health and/or 
+OSHA agencies. 
+Airborne Precautions for TB Patients 
+Patients who are placed in airborne isolation for TB should be educated about the mechanisms of  
+M. tuberculosis transmission.  They should be taught to cover their mouths and noses with a tissue when 
+coughing or sneezing, even while in the isolation room, to contain drops and droplets before they are 
+expelled into the air. 
+1. Airborne Precaution criteria: 
+a. Private room (may have anteroom) with the doors kept closed at all times except for entry and 
+exit. 
+b. AIIR maintained at negative pressure to adjacent areas. 
+c. AIIR with, at minimum, greater than or equal to 6 air changes per hour with at least 2 outside 
+exchanges hourly.  New construction or renovation of existing health-care facility should be 
+designed so that the AIIR achieve airflow of greater than or equal to 12 air exchanges per hour. 
+d. AIIR directly exhausted to the outside away from intake vents, people, and animals. 
+2. Healthcare workers entering the patient’s room shall wear a properly fitted particulate respirator 
+(PR). 
+3. When a patient who may have infectious TB is transported outside the AIIR, they should wear a 
+properly fitted surgical rated mask at all times. Persons transporting the TB patients do not need to 
+wear (PR) respirators outside the AIIR. 
+4. Healthcare workers who perform procedures that are likely to produce bursts of droplet nuclei, such 
+as bronchoscopy and administration of aerosolized Pentamidine (AP), should wear a PR.  All 
+designated areas, such as AIIR and bronchoscopy areas, shall be assessed for proper ventilation, 
+pressure, and exhaust when system modifications are necessary.   
+5. Direct admits or outpatients who are actively infectious should not mingle in public areas.  
+Appropriate communication should be made by the attending physician to the department providing  4 
+the service or to Admissions to minimize airborne transmission and to plan the placement and care 
+of the patient.  Patients should be instructed by their physician to wear a surgical rated mask prior to 
+entry and while in the Medical Center. 
+6. Precautions will continue until one of the following criteria are met: 1) three separate sputum 
+smears collected at least 8 hours apart with one being a morning sample are negative or 2) a 
+negative sputum tuberculosis PCR test. Isolation should be continued throughout hospitalization for 
+patients who have multidrug-resistant tuberculosis (MDR-TB) because of the tendency for 
+treatment failure or relapse that has been observed in such cases. 
+7. Before a TB patient is discharged from the hospital, collaboration with the public health authorities 
+should take place to ensure continuation of therapy. 
+Housekeeping 
+An EPA approved anti-tubercular disinfectant is used for routine, daily and terminal cleaning procedures in 
+TB isolation rooms.  
+Engineering Recommendations 
+Prevention of nosocomial TB transmission requires: 
+a) Greater than or equal to 6 air exchanges per hour.  New construction or renovation of existing 
+health-care facility should be designed so that AIIR rooms achieve airflow of greater than or 
+equal to 12 air exchanges per hour. 
+ b) Air to be directly exhausted to the outside. 
+ c)  Maintenance of negative pressure. 
+ d) The door of the room to remain closed to maintain negative airflow. 
+ e) The monitor to have a red and a green light or a ball indicator to indicate the current pressure 
+relation in the room.   
+Nursing is responsible for monitoring the negative pressure status daily when a patient requires negative 
+pressure airflow.  Nursing is also responsible for documenting in the patient's medical record that negative 
+pressure is maintained.  Contact Plant Services if the monitor has no light or the green light is on.  The 
+monitor will not alarm audibly. Plant services contracts an outside vendor to inspect the airflow annually.   
+COUGH INDUCING AND AEROSOL-GENERATING PROCEDURES: 
+Procedures that involve instrumentation of the lower respiratory tract or induce coughing can increase the 
+likelihood of droplet nuclei being expelled into the air. These cough-inducing procedures include 
+endotracheal intubation and suctioning, diagnostic sputum induction, aerosol treatments (e.g., pentamidine 
+therapy), and bronchoscopy. Other procedures that can generate aerosols (e.g., irrigation of tuberculous 
+abscesses, homogenizing or lyophilizing tissue, or other processing of tissue that may contain tubercle 
+bacilli) are also covered by these recommendations. 
+  5 
+Endoscopy Lab Procedures If performing procedures, i.e., bronchoscopy, in positive-pressure rooms 
+(such as operating rooms) is unavoidable, TB should be ruled out before the procedure. If bronchoscopy is 
+being performed for diagnosis of pulmonary disease that may include TB, it should be performed in a room 
+that meets TB isolation ventilation requirements. When ordered, post-bronchoscopy chest x-ray should be 
+done with a portable unit in the Endoscopy procedure room.  If patients must recover from sedatives or 
+anesthesia following procedures such as bronchoscopy, they should be monitored in a separate TB isolation 
+room, and not in recovery rooms with other patients. 
+Administration of Aerosolized Pentamidine 
+1. Patients should be screened for active TB before prophylactic therapy with aerosolized pentamidine 
+is initiated. 
+2. Before each subsequent treatment with aerosolized pentamidine, patients should be screened for 
+symptoms suggestive of TB. If such symptoms are elicited, a diagnostic evaluation for TB should 
+be initiated.  
+OTHER SELECTED AREAS: 
+ Operating Rooms 
+1. Elective procedures on patients with TB should be delayed, if possible, until the patient is no longer 
+infectious. 
+2. If surgical procedures must be performed: 
+a. They should be done in rooms with door closed and traffic at a minimum to reduce the 
+frequency of opening and closing the door. The core area between these rooms serves as the 
+anteroom with traffic flow through this area to the OR.   
+b. Procedures should be done when other patients are not present in the operating suite (e.g., 
+end of day) and when minimum number of personnel is present.   
+c. Airborne Precautions and isolation procedures should be followed during transport through 
+the halls. 
+d. The patient should not be taken to Pre-Op Holding or to PACU but should enter the 
+department from the side entrance and be transported directly to the Operating Room. 
+e. Limit the number of Healthcare Workers (HCWs) present in the room during the 
+extubation procedure when the risk of aerosol-generation is greatest.   
+3. A bacterial HEPA filter is to be placed on the patient's endotracheal tube or at the expiratory port of 
+the breathing circuit of the anesthesia machine when general anesthesia is being administered to 
+patient with possible TB, to reduce the risk of contamination of anesthesia equipment or discharge 
+of tubercle bacilli into the ambient air.  
+4. The pulmonary TB patient should be transported to a AIIR for post anesthesia care with a PACU 
+nurse in attendance. If a AIIR is not available, then the patient should be recovered in the Operating 
+Room.  6 
+5. When operative procedures (or other procedures requiring a sterile field) are performed on patients 
+who may have infectious TB, respiratory protection worn by the health-care worker should serve 
+three functions:  
+a. It should protect the surgical field from the respiratory secretions of the health-care workers. 
+b. It should protect the health-care worker from infectious droplet nuclei that may be expelled 
+by the patient or generated by the procedure.  
+c. If the patient has extra-pulmonary TB (outside the pulmonary system, i.e., bone or tissue), 
+then respiratory protection should be worn by HCWs in the OR for protection from 
+aerosolized particles from irrigations, Bovie, or laser plumes. 
+ Respirators with expiration valves and positive-pressure respirators do not protect the sterile field; 
+therefore, a respirator that does not have a valve and meets the criteria should be used. 
+6. The operating room should be unoccupied for 30 minutes after patient leaves the room. If the room 
+is to be cleaned during that time period all staff members should wear appropriate PPE (N95) and 
+doors should remain closed.   
+7. All OR rooms with a patient on airborne isolation (TB or otherwise) should undergo terminal 
+cleaning after the case is finished and the patient has left the room.   
+Autopsy Rooms 
+1. Infectious aerosols are likely to be present in autopsy rooms; such areas should be at negative 
+pressure with respect to adjacent areas, and the room air should be exhausted directly to the outside 
+of the building.  
+2. Respiratory protection should be worn by personnel while performing autopsies on deceased 
+persons who may have had TB at the time of death. 
+Laboratories 
+Laboratories in which specimens for mycobacteriologic studies (e.g., AFB smears and cultures) are 
+processed should be designed to conform to criteria specified by CDC and National Institutes of Health. 
+(See Laboratory specific policies and procedures.) 
+RESPIRATORY PROTECTION PROGRAM: 
+The OSHA respiratory protection standard requires that all respiratory protection devices used in the 
+workplace be certified by NIOSH. Personal respiratory protection should be used by a) persons entering 
+rooms in which patients with known or suspected infectious TB are being isolated, b) persons present 
+during cough-inducing or aerosol-generating procedures performed on such patients, and c) persons in other 
+settings where administrative and engineering controls are not likely to protect them from inhaling 
+infectious airborne droplet nuclei. 
+The use of the TB respiratory protective devices is limited to the health-care workers that are assigned to 
+work in the areas that have been given priority for isolation/treatment of the active or suspected TB patient.   7 
+1. Respiratory protective devices will have the ability to filter particles 0.3 micrometer in size with a 
+filter efficiency of > 95% (i.e., filter leakage of <5%). Respirators used will have the ability to be fit 
+tested, in accordance with OSHA standards. The current respirator used is the NIOSH N-95 
+respirator. 
+2. A proper seal between the respirator's sealing surface and the face of the person wearing the 
+respirator is essential for effective and reliable performance of any negative-pressure respirator. 
+Face-seal leakage can result from various factors, including incorrect face piece size or shape, 
+incorrect or defective face piece sealing-lip, beard growth, perspiration or facial oils that can cause 
+face piece slippage, failure to use all the head straps, incorrect positioning of the face piece on the 
+face, incorrect head strap tension or position, improper respirator maintenance, and respirator 
+damage. A powered air purification respirator may be worn in situations in which the health-care 
+worker is unable to wear a particulate respirator. (See Respiratory Care policies and procedures.)  
+3. In some settings, health-care workers may be at risk for two types of exposure: 
+a) inhalation of TB and  
+b) mucous membrane exposure to fluids that may contain Bloodborne pathogens. In 
+these settings, protection against both types of exposure should be used. 
+4. When operative procedures (or other procedures requiring a sterile field) are performed on patients 
+who may have infectious TB, respiratory protection worn by the health-care worker should serve 
+two functions: a) it should protect the surgical field from the respiratory secretions of the health-care 
+worker, and b) it should protect the health-care worker from infectious droplet nuclei that may be 
+expelled by the patient or generated by the procedure. Respirators with exhalation valves and most 
+positive-pressure respirators do not protect the sterile field. 
+5. Visitors to TB patients should be given surgical mask to wear while in isolation rooms and they 
+should be given general instructions on how to use their mask. 
+6. Surgical masks are designed to prevent the respiratory secretions of the person wearing the mask 
+from entering the air. To reduce the expulsion of droplet nuclei into the air, patient suspected of 
+having TB should wear surgical masks when not in TB isolation rooms. These patients do not need 
+to wear particulate respirators, which are designed to filter the air before it is inhaled by the person 
+wearing the respirator. Patients suspected of having or known to have TB should never wear a 
+respirator that has an exhalation valve, because this type of respirator does not prevent expulsion of 
+droplet nuclei into the air. 
+Medical Screening 
+1. Health-care workers should not be assigned a task requiring use of respirators unless they are 
+physically able to perform the task while wearing the respirator. Health-care workers are screened 
+for pertinent medical conditions at the time they are hired. 
+2. Prior to being fit-tested for respirators, health-care workers will be screened using a questionnaire 
+for pertinent medical conditions. The results of the screening will then be used to identify health-
+care workers who need further medical evaluation. Few medical conditions preclude the use of most 
+negative-pressure particulate respirators.    8 
+Fit-test Training 
+Health-care workers who wear respirators and the persons who supervise them should be informed about 
+the necessity of wearing respirators and the potential risks associated with not doing so. This training should 
+include: 
+ The nature, extent, and specific hazards of M. tuberculosis transmission. 
+ A description of specific risks for TB infection among persons exposed to M. tuberculosis, of any 
+subsequent treatment with INH or other chemoprophylactic agents, and of the possibility of active 
+TB disease. 
+ A description of engineering controls and work practices and the reasons why they do not eliminate 
+the need for personal respiratory protection. 
+ An explanation for selecting a particular type of respirator, how the respirator is properly 
+maintained and stored, and the operation, capabilities, and limitations of the respirator provided. 
+ Instruction in how the health-care worker wearing the respirator should inspect, put on, fit check, 
+and correctly wear the provided respirator (i.e., achieve and maintain proper face-seal fit on the 
+health-care worker's face). 
+ An opportunity to handle the provided respirator and learn how to put it on and wear it properly.  
+How to check the respirator face piece fit before each use. 
+  Instruction in how to recognize an inadequately functioning respirator. 
+During Multi-Disciplinary Orientation, Employee Health will fit test those new employees who may need 
+to wear an N95 respirator.  The fit testing records will be maintained in the employees’ files.  If an 
+employee fails fit testing, their manager will be notified and there will be another opportunity to re-fit test 
+again in 2 weeks during the next orientation week. 
+N95 respirator fit testing of eligible employees will be coordinated by the Employee Health Department. 
+Employee Health will monitor for compliance through annual TB skin testing and/or the Tuberculosis (TB) 
+Health Assessment form. Facial changes will also be monitored. 
+Respirator Inspection, Maintenance, and Storage 
+Manufacturer's instructions for inspecting and maintaining respirators should be followed to ensure that the 
+respirators continue to function properly. 
+Evaluation of Respiratory Protection Program 
+The program will be evaluated annually and revised as necessary based on the results of the evaluation. 
+Elements of the program that should be evaluated include work practices and employee acceptance of 
+respirator use. 
+TB Screening and Counseling of Employees 
+Prior to being employed by this facility, all prospective employees will be screened for TB (see Employee 
+Health procedure). PPD skin tests results will be recorded and reviewed by conversion rates by  9 
+Department/Unit and job category to determine groups that need more frequent testing. Any new PPD 
+conversions in employees will be referred to the Health Department or to their private Physician for follow-
+up.  
+Any employee who has a persistent cough (i.e., a cough lasting > 3 weeks), especially in the presence of 
+other signs or symptoms compatible with active TB (e.g., weight loss, night sweats, bloody sputum, 
+anorexia, or fever), should be evaluated promptly for TB. The employee should not return to the workplace 
+until a diagnosis of TB has been excluded or until the employee is on therapy and a determination has been 
+made that the employee is noninfectious. 
+Counseling will be offered to the employee regarding TB. Employee Health will counsel and inform the 
+immunocompromised employee of their increased risk of TB infection. As the best protection against 
+becoming infected, severely immunosuppressed employees should avoid exposure to M. tuberculosis.   
+The CDC protocol for investigating employee PPD test conversions and active TB in employees will be 
+used. 
+Compliance Monitoring 
+All employees must comply with the required protective measures and standards outlined in the TB Control 
+Plan.  
+1. It is the responsibility of the Department Head to: 
+a. Schedule each new employee to complete the Infection Control Orientation education offering. 
+The Department Heads and Supervisors will provide additional instructions in their work area on 
+the appropriate protective equipment and respiratory protective equipment. 
+b. Review annually the exposure class specific to the job classification held by the employee.  
+c. Schedule updates for staff annually or more frequently as necessary. 
+d. Identify, document, report and correct instances of noncompliance through appropriate channels 
+and/or disciplinary action.  The employee compliance to obtain the annual TB skin test or the 
+Tuberculosis (TB) Health Assessment form is in conjunction with the employee's performance 
+appraisal. 
+2. It is the responsibility of the employee to: 
+a. Be knowledgeable of the Exposure Control Plans for Bloodborne Pathogens and the TB Control 
+Plan including Airborne Isolation, use of personal protective equipment required for contact 
+tasks performed in their job classification. 
+b. Report concerns or instances of noncompliance to their Department Head, Infection Control, or 
+Employee Health. 
+c. Comply with all protective practices outlined in the TB Control Plan. Failure to comply with 
+these standards will subject the employee to this facility's disciplinary action process. 
+3. Monitoring is achieved through both formal and informal means, and instances of non-compliance 
+are documented and referred to the appropriate department or committee for investigation and 
+corrective action.  10 
+Post-Exposure Evaluation and Follow-Up Procedures 
+All on-the-job related exposures to employees are to be promptly reported and investigated. In the event of 
+employee exposure to a patient with undiagnosed TB occurs, potentially exposed employees will be 
+identified, notified, and followed according to the Employee Health policies and procedures.     
+References 
+ 
+i 2005 CDC Guidelines for Preventing the Transmission of Mycobacterium tuberculosis in Health-Care 
+Setting/MMWR, December 30, 2005/Vol.54/No. RR-17. http://www.cdc.gov/mmwr/pdf/rr/rr5417.pdf.  
+ 
+Tuberculosis Guidance for Public Health Professionals | Tuberculosis (TB) | CDC 

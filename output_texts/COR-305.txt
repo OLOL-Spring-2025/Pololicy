@@ -1,0 +1,128 @@
+1 
+ 
+  
+RESPONSIBLE DEPARTMENT:   
+Compliance 
+SUBJECT:   
+HIPAA Personal Representatives 
+NUMBER OF PAGES: 
+3 
+REPLACES POLICY (NUMBER/DATE): 
+EFFECTIVE 
+DATE:  September 
+23, 2013 
+ 
+REVISION DATE: 
+July 25, 2016 
+POLICY NUMBER: 
+COR - 305 
+ 
+SCOPE:  
+   Applies to Our Lady of the Lake Regional Medical Center (“OLOLRMC”) and its wholly 
+owned Sponsored Organizations (collectively referred to herein as “Entity”) that use, disclose, 
+create, receive, maintain or transmit Protected Health Information, as defined below.   
+PURPOSE:   
+   To serve as a guiding policy for ensuring compliance with the Health Insurance Portability and 
+Accountability Act of 1996 including all pertinent regulations (45 CFR Parts 160 and 164) 
+issued by the U.S. Department of Health and Human Services, as amended by Subtitle D of 
+the Health Information Technology for Economic and Clinical Health Act, Title XIII of 
+Division A and Title IV of Division B of the American Recovery and Reinvestment Act of 
+2009 (collectively referred to herein as “HIPAA Privacy Rules). 
+POLICY:   
+   Entity must, except in the case of an emancipated minor or an abuse, neglect, or 
+endangerment situation, treat a personal representative as the individual.  
+DEFINITIONS: 
+ “Covered Entity” means a health plan, health care clearinghouse, or a health care provider 
+who transmits any health information in connection with a transaction covered by HIPAA, 
+such as electronic claims submission. 
+“Entity” means OLOLRMC and its wholly owned Sponsored Organizations. 
+ “HIPAA Privacy Rules” means the privacy requirements in the Health Insurance Portability 
+and Accountability Act of 1996 including all pertinent regulations (45 CFR Parts 160 and 164) 
+issued by the U.S. Department of Health and Human Services as such statute and regulations 
+2 
+ 
+have been amended by Subtitle D of the Health Information Technology for Economic and 
+Clinical Health Act, Title XIII of Division A and Title IV of Division B of the American 
+Recovery and Reinvestment Act of 2009.  
+“Individually Identifiable Health Information” means information that is a subset of health 
+information, including demographic information collected from an individual that is created or 
+received by health care provider, health plan, employer, or health care clearinghouse, and 
+relates to the past, present, or future physical or mental health or condition of an individual, 
+the provision of health care to an individual, or the past, present, or future payment for the 
+provision of health care to an individual; and: (A) that identifies the individual; or (B) with 
+respect to which there is a reasonable basis to believe the information can be used to identify 
+the individual.  
+ “Protected Health Information” or “PHI” means all information, including demographic 
+data, that relates to an individual’s past, present or future physical or mental health or 
+condition, the provision of health care to an individual, or the past, present, or future payment 
+for the provision of health care to an individual, and that identifies an individual or for which 
+there is a reasonable basis to believe it can be used to identify an individual.  Individually 
+identifiable health information includes many common identifiers (e.g., name, address, birth 
+date, Social Security Number).  Individually identifiable health information in employment 
+records held by an Entity in its role as an employer is not PHI (e.g., employment-related 
+testing and employer health assessments.) 
+  “Sponsored Organizations” means an entity either wholly-owned by OLOLRMC, or a 
+subsidiary of an entity wholly-owned by OLOLRMC that is also a Covered Entity, as those 
+terms are defined in the HIPAA Privacy Rules. 
+“Team Member” means an Entity employee.  
+“Workforce Member” means team members, volunteers, trainees, and other persons whose 
+conduct, in the performance of work for the Covered Entity, is under the direct control of the 
+Covered Entity, whether or not they are paid by the Covered Entity. 
+PROCEDURE: 
+ADULTS AND EMANCIPATED MINORS: 
+If, in accordance with law, a person has the authority to make health care decisions for an adult or 
+an emancipated minor, Entity must treat this person as a personal representative, with respect to 
+medical information relevant to such personal representation. 
+ 
+UN-EMANCIPATED MINORS: 
+If, in accordance with law, a parent, guardian or other person acting in loco parentis  has the 
+authority to make health care decisions for an un-emancipated minor, Enity must treat this person 
+as a personal representative with respect to medical information relevant to such personal 
+representation.   
+ 
+Exceptions:  In the situations listed below, un -emancipated minors have the authority to make 
+healthcare decisions.  Therefore a personal representative would NOT have authority to act on 
+behalf of the un-emancipated minor. 
+  
+• The minor consents to health care service; no other consent to health care service is required 
+by law, regardless of whether the consent of another person has also been obtained; and the 3 
+ 
+minor has not requested that such person be treated as a personal representative. 
+ 
+• The minor, under Louisiana law, may obtain health care service without consent of a parent, 
+guardian, or other person acting in loco parentis, and the minor, a court, or another person 
+authorized by law consents to health care. (Pregnancy, HIV testing and treatment) 
+ 
+• A parent, guardian, or other person acting in loco parentis  consents to an agreement of 
+confidentiality between Entity and the minor with respect to health care service. 
+ 
+DECEASED INDIVIDUALS: 
+If in accordance with law an executor, administrator, or other person has authority to act on behalf 
+of a deceased individual or the individual’s estate, Entity  must treat this person as a personal 
+representative with respect to medical information relevant to such personal representation. 
+ 
+ABUSE, NEGLECT, ENDANGERMENT SITUATIONS: 
+Notwithstanding Louisiana law or any other requirement to the contrary, Entity may elect not to 
+treat a person as the personal representative of an individual if Entity has reasonable belief that: 
+ 
+• The patient has been or may be subjected to domestic violence, abuse, or neglect by this 
+person; or 
+• Treating this person as a personal representative could endanger the patient.   Entity may 
+exercise professional judgment and decide that it is not in the best interest of the patient to 
+treat this person as his/her personal representative. 
+ 
+Note: If a patient is a competent adult, he or she should be asked to sign all forms and make all 
+requests pursuant to HIPAA (an emancipated minor should be treated as an adult and can act on 
+his or her own behalf). 
+ 
+Note:  The last four digits of the current account number should be used as the patient’s 
+password/unique identifier. 
+ 
+REFERENCES: 
+• Health Insurance Portability and Accountability Act (HIPAA), Standards for Privacy 
+of Individually Identifiable Health Information - 45 CFR Parts 160 and 164 
+• Health Information Technology for Economic and Clinical Health Act, Title XIII of 
+the American Recovery and Reinvestment Act of 2009 
+ATTACHMENTS: 
+n/a 
+ 

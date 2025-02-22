@@ -1,0 +1,76 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 1 of 2 
+PHLIS005 
+ 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLIS005 
+SPECIMEN LABEL REPRINTING 
+       Date Issue  Date Effective Date 
+ Prepared/Revised By ZJA/LC 10/3/2017 10/3/2017 10/3/2017 
+Reviewed By LC 9/17/2019 Origination Date 
+Medical Director Review A Harton 9/22/2019 JAN 2006 
+ 
+PURPOSE: 
+Describe how to use the computer or Rover Device to reprint labels utilizing EPIC Hyperspace:  Specimen Label 
+Application 
+Addresses: 
+Supervisors 
+Venipuncture Charge Techs 
+Venipuncture Phlebotomists 
+ 
+POLICY: 
+1. Laboratory labels may be reprinted as necessary using EPIC Hyperspace or Rover Device 
+• Damaged or illegible laboratory labels are to be reprinted and submitted to the laboratory section 
+with the specimen 
+• Reprinted to various printer locations as necessary 
+• Reprinted when Unit Collect samples are delivered to the laboratory without the laboratory label 
+ 
+PROCEDURE:  EPIC Hyperspace 
+1.   Login to a computer terminal using Network ID and personal password 
+2. Open Internet Explorer to load Lakelink 
+3. Select the EPIC System Link 
+4. Select the EPIC Hyperspace icon and login with Network ID and personal password 
+5. Find the patient using the “Patient Station” Icon  
+6. Select “Open Chart” 
+7. From the left menu bar select “Specimen Inquiry” icon 
+8. Click on the Specimen ID hyperlink of the label that needs to be reprinted. 
+9. Select “Labels & Docs” icon.  
+10. In the pop-up box enter required information for “print new”/“reprint”.  Select “FMOLHS Specimen 
+CMPI Label”, “printer name”, and “copies”.   
+11. Enter the label printer name and the label type  
+12. Select the number of labels to reprint 
+13. Click print 
+ 
+PROCEDURE:  Rover Device 
+1. Enter 6565 on the Rover Device to access the Home Screen 
+2. Login to a Rover device using Network ID and personal password/passcode 
+3. Select the patient from your assigned draw list 
+4. On the patient summary screen, review the patient’s identification and specimen needed for collection. OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 2 of 2 
+PHLIS005 
+ 
+ 
+5. Review test and scheduled times of collection 
+6. Press “select at the top left-hand corner of the screen. 
+7. Select the orders of the test that are to be collected by tapping the button next to the test 
+8. Select the test tube icon at the bottom right of the screen 
+9. Select “reprint labels” and enter the number of extra labels to print 
+10. Select label type “FMOLHS Specimen CMPI Label”. 
+11. Select desired printer and press print. 
+ 
+Limitations of the Procedure 
+1. Verify that the correct patient specimen label has been printed by watching the patient name that appears 
+while the label is printing 
+2. Carefully remove the label(s) from the printer.  
+ 
+REVISIONS 
+01/2001 (created); 10/3/2017 

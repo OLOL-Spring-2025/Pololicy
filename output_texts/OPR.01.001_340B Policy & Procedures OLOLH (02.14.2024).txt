@@ -1,0 +1,627 @@
+1 
+OPR.01.001_340B Policy & Procedures Manual 
+ 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Operations 
+SUBJECT:  
+340B Policy & Procedures Manual 
+PAGES: 
+14 
+REPLACES POLICY (NUMBER/DATE): 
+OPR.01.001 (08/16/2023) 
+ORIGINAL EFFECTIVE 
+DATE: 04/19/2021   
+REVISIONS EFFECTIVE: 
+02/14/2024 
+POLICY NUMBER:  
+OPR.01.001 
+ 
+SCOPE: 
+Applies to Our Lady of the Lake Hospital and its wholly owned sponsored organizations (collectively “Hospital”). 
+PURPOSE: 
+To provide written policies and procedures that Hospital uses to oversee 340B Program operations, provide oversight of 
+contract pharmacies, and maintain a compliant 340B Program. 
+POLICY: 
+Section 340B of the Public Health Service Act (1992) requires drug manufacturers participating in the Medicaid Drug 
+Rebate Program to sign a pharmaceutical pricing agreement (PPA) with the Secretary of Health and Human Services. 
+a. This agreement limits the price that manufacturers may charge certain covered entities for covered outpatient 
+drugs.  
+The 340B Program is administered by the federal Health Resources and Services Administration (HRSA) in the 
+Department of Health and Human Services (DHHS).  
+Upon registration on the HRSA 340B Database as a participant in the 340B Program, Hospital: 
+a. Agrees to abide by specific statutory requirements and prohibitions. 
+b. May access 340B drugs. 
+The purpose of this policy is to facilitate efforts by Hospital to comply with all requirements and restrictions of Section 
+340B of the Public Health Service Act and any accompanying regulations or guidelines including, but not limited to, the 
+prohibition against Duplicate Discounts, and the prohibition against transferring drugs purchased under 340B to anyone 
+other than a patient of Hospital.  
+DEFINITIONS: 
+“340B Program” means the 340B Program is the program created under Section 340B of the Public Health Service Act 
+allowing for certain safety net providers to purchase covered drugs at substantially discounted pricing. 
+“Administer” means to give a medication to an individual, typically in a hospital or a clinic, based on a health care 
+provider’s order. 
+“AIDS Drug Assistance Programs (ADAP)” mean ADAP programs provide medication assistance to insured and 
+uninsured patients infected with HIV based on patient financial status. ADAP programs may benefit from the 340B 
+program by either direct purchase of drugs or through manufacturer rebate. 
+“Authorizing Official” means the Authorizing Official is the individual responsible for certifications to HRSA OPA 
+regarding the Hospital’s compliance with 340B Program requirements. 
+ 
+ 
+2/14/2024 10:30 AM 
+ 
+2 
+OPR.01.001_340B Policy & Procedures Manual 
+“Bank Identification Number (BIN)” means a unique number or code used by FFS and MCO plans, in conjunction with 
+a PCN and Group number to identify plan members. 
+“Child Sites” mean a Child Site is any site, such as a Provider-Based Clinic, which derives its Covered Entity status 
+from a “Parent” site and qualifies as an off-site outpatient location that is fully integrated into the DSH and would derive 
+its eligibility in one of two ways: 
+1. Listed as reimbursable on the most recently filed Medicare cost report and registered on HRSA’s 340B 
+Database. 
+2. A clinic that otherwise meets the criteria for inclusion on a reimbursable line on the cost report but is not yet 
+listed due to timing (i.e., cost report has not yet been filed that includes such location, but will be filed with that 
+location when appropriate) or other reason such as it not being customary to include such location as a separate 
+cost center on the cost report. 
+“Clean Site” means a Clean Site is a site where only patients who qualify as Eligible Patients entitled to Covered 
+Outpatient Drugs are treated, allowing for the Administration or Dispensing of Covered Outpatient Drugs purchased 
+under the 340B Program, exclusively. 
+“Contract Pharmacy” means a Contract Pharmacy is any retail pharmacy location which has entered into a signed 
+contract with Hospital to dispense drugs to qualifying Eligible Patients and do not qualify as “ship to” pharmacies. 
+“Covered Entity” is an entity that falls within one of the categories specified in the 340B Program statute as qualifying to 
+receive 340B Program pricing on their purchases of covered drugs. Hospital qualifies because it is a DSH hospital. 
+“Covered Outpatient Drug” means a covered outpatient drug is an FDA-approved prescription drug, an over the counter 
+(OTC) drug that is written on a prescription, a biological product that can be dispensed only by a prescription (other than 
+a vaccine, or FDA-approved insulin). Furthermore, such drugs must be separately payable under Medicaid. Hospital has 
+reviewed the drugs that are separately payable under Louisiana Medicaid, and which ones are not. Hospital will check 
+annually to determine whether there are any changes in Louisiana Medicaid drug payment rules and shall revise its list of 
+Covered Outpatient Drugs accordingly.  
+“Dispense” means to provide a medication, typically in a hospital or a clinic, for self-administration, based on a health 
+care provider’s order to be administered to a patient. 
+“Disproportionate Share Hospital (DSH)” means DSH hospitals are inpatient acute care hospitals that have a 
+disproportionate share adjustment of 11.75% or greater. 
+“Duplicate Discounts” mean Drug manufacturers are protected from duplicative discounts on covered outpatient drugs 
+provided to covered entities through the 340B program and to Medicaid via drug rebates for the same units. Duplicate 
+Discounts are not prohibited on Medicare or commercial utilization.  
+“Eligible Patient” means an individual meeting the following criteria:  
+a. the covered entity has established a relationship with the individual, such that the covered entity 
+maintains records of the individual's health care; and 
+b. within the prior 3 years, the individual has received health care services from a health care professional 
+who is either employed by the covered entity or provides health care under contractual or other 
+arrangements (e.g., referral for consultation) such that responsibility for the care provided remains with 
+the covered entity. 
+An individual will not be considered a patient of the covered entity if the only health care service received by the 
+individual from the covered entity is the dispensing of a drug or drugs for subsequent self-administration or 
+administration in the home setting. Furnishing Medication Management services shall be considered a health care service 
+that is more intensive than dispensing of a drug for purposes of the definition of “Eligible Patient.” 
+“Eligible Professional” means an Eligible Professional is a health care professional who is either employed by the 
+covered entity or provides health care under contractual or other arrangements (e.g., referral for consultation) such that 
+responsibility for the care provided remains with the covered entity. This definition includes but is not limited to 
+employed physicians, physicians with medical director agreements or who have other obligations to the Hospital, such as 
+furnishing services in service lines where there is no, or insufficient, capacity with respect to such service line among 3 
+OPR.01.001_340B Policy & Procedures Manual 
+Hospital’s integrated physicians. Eligible Professionals also includes nurse practitioners, physician assistants, registered 
+nurses, residents, and other healthcare professionals employed by, or contracted with (directly or through an employer 
+contracted with), the Hospital. Eligible Professionals are also pharmacists who provide Medication Management, 
+consultation, and other services at Hospital.  
+“Fee for Service Medicaid (FFS)” means Traditional Medicaid plan where providers are paid directly for covered 
+services received by Medicaid beneficiary. 
+“GPO Prohibition” means the Hospital participates in a Group Purchasing Organization (GPO). As such, the 340B 
+program requires that the Hospital, registered child sites, and owned pharmacies not dispense GPO-acquired drugs to 
+Eligible Patients qualifying for Covered Outpatient Drugs. 
+“Group Number” means a unique number or code used by FFS and MCO plans, in conjunction with a BIN and PCN to 
+identify plan members. 
+“Health Resources and Services Administration (HRSA)” means HRSA is the agency of the U.S. Department of Health 
+and Human Services that is responsible for the 340B Program.  
+“Inpatient Status” means a patient is designated as an inpatient when a physician, with appropriate privileges, writes an 
+order admitting the patient to an inpatient status.  
+“Managed Care Organizational (MCO)” means a service agreement between the State and a health plan for management 
+of services to Medicaid beneficiaries through a network of providers included in the organization’s network. 
+“Material Breach” means a Material Breach will be deemed to have occurred when, either during a routine audit, or 
+during an audit conducted in response to a particular instance of suspected noncompliance, it is determined after 
+reviewing a non-statistical sample of at least 20 transactions that there is an error rate of the greater of at least 20% or at 
+least $30,000 in value (measured by the difference between WAC and the 340B price for the ineligible utilization).  The 
+concept of “Material Breach” is relevant only when less than a 100% review of the applicable utilization is conducted.  
+“Medicaid Exclusion File (MEF)” means Covered entities are required to designate in the application process whether 
+340B drugs will be utilized for Medicaid patients. HRSA maintains this information in the Medicaid Exclusion File and 
+provides to state Medicaid programs. The purpose of this file is to exclude 340B drugs from Medicaid program rebate 
+invoices sent to manufacturers. This prevents drug manufacturers from providing Duplicate Discounts. 
+“Medication Management” shall mean the services described in Attachment A. 
+“Mixed Use Area” means a mixed-use area is a location that serves both outpatients and inpatients. These areas include 
+but are not limited to: Emergency Room, Surgery, Endoscopy, and Interventional Radiology.  
+“National Drug Code (NDC)” means the NDC is the identifying drug number maintained by the Food and Drug 
+Administration. NDCs are 11 digits, which is comprised of 3 components, including a labeler code, product code, and 
+package size code. 
+“Office of Pharmacy Affairs (OPA)” means OPA is a component of HRSA which provides administration of the 340B 
+Program. 
+“Outpatient Status” means Patients are considered outpatients if they are receiving emergency room services, 
+observation care or any other types of services in which the doctor hasn’t written an inpatient admission order. 
+“Parent Site” means Hospital’s main campus and any other inpatient areas included under the same Medicare provider 
+number.  
+“Prescribe” means to provide a prescription for a medication to an individual to be filled at an outpatient pharmacy. 
+“Processor Control Number (PCN)” means a unique number code used by FFS and MCO plans, in conjunction with a 
+BIN and Group number to identify plan members. 4 
+OPR.01.001_340B Policy & Procedures Manual 
+“Provider Based Clinic” means Medicare sets standards that “provider-based” departments or clinics must meet to 
+enable the entity to bill Medicare a facility fee under the outpatient prospective payment system.  
+“Split Billing Software” means this software is employed to manage the splitting of outpatient utilization eligible for 
+replenishment under the 340B Program from ineligible, inpatient utilization. It relies on the proper interfacing with 
+Hospital’s billing software system. 
+“UD Modifier” means Healthcare Common Procedure Coding System medical code (HCPCS) modifier defined as 
+Medicaid level of care 13, as defined by each state.  
+“Wholesaler Acquisition Cost (WAC)” means WAC is a reference to wholesale acquisition cost, which is the cost of a 
+drug that is not purchased through a special pricing program. A “WAC account” is an account through which Hospital 
+may purchase drugs that are not subject to GPO or 340B Program terms. Such purchases may nevertheless be subject to 
+their own discounted pricing terms. 
+PROCEDURE: 
+Eligibility and Database Maintenance 
+1. The Hospital qualifies as the following type of Covered Entity, as described in the 340B Program 
+statute:  
+Is a private, nonprofit hospital that has a contract with a state or local government to provide health care 
+services to low-income individuals who are not entitled to benefits under Title XVIII of the Social 
+Security Act or eligible for assistance under the state plan under this title.  
+2. The Hospital has a disproportionate share adjustment percentage greater than 11.75%. 
+3. The Hospital does not purchase covered outpatient drugs from a GPO.  
+4. The Hospital dispenses or prescribes 340B drugs for eligible patients.  
+5. Hospital ensures that the HRSA 340B Database is complete and accurate for all 340B eligible locations 
+including the Parent Site, off-site locations, and contract pharmacies. All off-site locations that use 340B 
+drugs will be registered in the HRSA 340B Database. 
+a. All main addresses, billing and shipping addresses, the authorizing official, and the primary 
+contact information are correct and up to date. 
+b. The Hospital annually reviews its 340B Database entry to determine its continued accuracy. 
+c. The Hospital informs HRSA of any changes to its information by updating the HRSA 340B 
+Database /Medicaid Exclusion File  
+d. Registration dates:  
+i. January 1–January 15 for an effective start date of April 1 
+ii. April 1–April 15 for an effective start date of July 1  
+iii. July 1–July 15 for an effective start date of October 1  
+iv. October 1–October 15 for an effective start date of January 1 
+6. The Hospital annually recertifies its information on HRSA’s 340B Database. Such recertification shall 
+entail the following: 
+Item Action Data Source Accountable Party 
+Disproportionate 
+Share Percentage 
+(DSH 
+Verify DSH Percentage accurate and above the limit set 
+by HRSA (>11.75%) 
+Cost Report Finance 
+Hospital/Clinic 
+Billing 
+Verify that the National Provider Identification (NPI) 
+Number(s) is(are) all entered in the database including 
+the retail pharmacies 
+Internal List Finance/Pharmacy 
+Clinic eligibility 
+verification 
+Verify accuracy of clinics listed, clinic addresses, suite 
+numbers and cost centers 
+Cost Report 
+Crosswalk 
+Cost Report Team 
+Medicaid Exclusion 
+File (MEF) 
+Verify all of the “carve in” locations appear on the 
+Medicaid Exclusion File (MEF)  
+OPA Database Pharmacy 5 
+OPR.01.001_340B Policy & Procedures Manual 
+Provider List Verify Provider List is Accurate  MSOW & 
+GME 
+Medical Staff Office 
+Medicaid Billing Verify that all Medicaid Billing numbers are listed 
+including retail pharmacies 
+Internal List Finance/Pharmacy 
+Medicaid Letter of 
+Understanding 
+Ensure that billing practices reflect the expectation of the 
+applicable State Medicaid program and that there is not a 
+chance for Duplicate Discounts 
+Medicaid Finance/Pharmacy 
+External Audit 
+Review 
+Discuss results of audit performed on contract pharmacy 
+and verify no issues are present 
+Audit Company Pharmacy 
+Internal Audit 
+Review 
+Discuss results of audits performed on 340b program and 
+verify no issues are present 
+Data Analysts Pharmacy 
+ 
+7. The Hospital will voluntarily withdraw from the 340B Program if its Medicare disproportionate share 
+adjustment percentage results in a disproportionate share percentage less than 11.75%.  
+Enrollment Procedure: New Outpatient Facilities 
+1. The Hospital determines that a new outpatient service or facility is eligible to participate in the 340B 
+Program. 
+a. The criteria used to include that the outpatient service must be fully integrated into the Hospital, 
+appear as a reimbursable service or clinic on the cost report, have outpatient drug use, and have 
+patients who meet the 340B patient definition. 
+2. The Hospital’s authorizing official, or designee, completes the online registration process during the 
+registration window. 
+a. The Hospital submits any updated Medicare cost report information, as required by HRSA.  
+Enrollment Procedure: New Contract Pharmacies 
+1. The Hospital has a signed contract pharmacy services agreement containing the essential compliance 
+elements in the Contract Pharmacy Guidance, in place between the entity and contract pharmacy prior to 
+registration on the HRSA OPA 340B Database. 
+2. Hospital’s authorizing official or designee completes the online registration during one of four 
+registration windows. 
+3. The Hospital begins using the contract pharmacy services arrangement only on or after the effective date 
+shown on the HRSA OPA 340B Database.  
+Patient Eligibility 
+1. Hospital only considers patients to qualify for Covered Outpatient Drugs if: 
+a. The patient qualifies as an Eligible Patient. 
+b. The patient is not (or imminently will not be) in Inpatient Status either at the time the 
+medication is Dispensed, Administered or Prescribed. 
+c. The patient is Dispensed, Administered, or Prescribed the Covered Outpatient Drug in either the 
+Parent Site or a Child Site.  
+d. The patient received services from an Eligible Professional.  
+Prohibits Duplicate Discounts 
+The Hospital has mechanisms in place to prevent Duplicate Discounts. 
+Medicaid Carve-In  
+1. Hospital dispenses or administers 340B purchased drugs to Medicaid patients AND subsequently bills 
+Medicaid for those 340B drugs (carve-in). 
+a. Hospital has answered “yes” to the question, “Will the covered entity dispense 340B purchased 
+drugs to Medicaid patients?” on the HRSA OPA 340B Database. 
+2. Hospital bills Medicaid per state Medicaid reimbursement requirements and state AIDS Drug Assistance 
+Program (ADAP) (if applicable).  6 
+OPR.01.001_340B Policy & Procedures Manual 
+3. The Hospital informs HRSA of any changes in its Medicaid Exclusion File information by updating the 
+HRSA 340B Database before the 15th of the month prior to the quarter when the change takes effect. 
+4. Hospital annually reviews its 340B Database Medicaid Exclusion File records.  
+Pharmacy Claims 
+1. Louisiana Medicaid FFS and MCO are required to utilize unique BIN, PCN, and Group Numbers to 
+identify prescription claims for Medicaid beneficiaries. Claims for Medicaid beneficiaries are billed 
+according to Louisiana Medicaid requirements as follows: 
+a. FFS claims at actual acquisition cost plus dispensing fee. 
+b. MCO claims at the contracted rate between the pharmacy provider and the MCO. 
+c. All FFS and MCO claims will include both indicators below: 
+NCPDP Field NCPDP Field Name NCPDP Value 
+420-DK Submission Clarification Code 20- 340B 
+423-DN Basis of Cost Determination 08-340B Disproportionate 
+Share Pricing 
+Physician Administered Claims 
+Louisiana 
+1. Providers shall submit the UD modifier to identify 340B drugs on outpatient physician administered 
+drug claims. This includes outpatient professional service 340B drug claims. Due to the cost to charge 
+methodology, outpatient hospital claims are excluded from the claim level indicator requirement. 
+a. CMS 1450/UB04: Enter UD Modifier immediately following drug HCPCS/CPT code in field 
+44. For example, HCPCS J1111 billed as J1111UD 
+b. CMS 1500: Enter HCPCS code in field 24C followed by the UD Modifier 
+c. 837I: Loop 2400 SV2 can send up to four modifiers SV202-3, SV202-4, SV202-5, and SV202-
+6. 
+d. 837P: Loop 2400 SV1 can send up to four modifiers in SV101-3, SV101-4, SV101-5, and 
+SV101-6. 
+Mississippi 
+1. Providers shall submit the UD modifier to identify 340B drugs on outpatient physician administered 
+drug claims.  
+2. Claims will be submitted at the usual & customary price (U&C)  
+AIDS Drugs Assistance Programs (ADAP) 
+1. Prescriptions for ADAP patients through a contract arrangement will be filled with a separately 
+maintained ADAP physical or virtual 340B inventory.  
+a. Uninsured patient prescriptions where the ADAP is the primary payer will be filled with 340B 
+inventory provided directly by the ADAP and separately maintained by the pharmacy.  
+b. Insured patients’ prescriptions will be filled with WAC inventory if the ADAP is billed as a 
+secondary payer. 
+Medicaid Carve-Out for Contract Pharmacies 
+1. Hospital’s contract pharmacies carve out Medicaid, and Hospital annually audits to ensure compliance 
+with this provision. 
+Program Integrity and Compliance with 340B Program requirements. 
+1. Hospital has established a 340B Oversight Committee that is responsible for the oversight of the 340B 
+Program, as follows:  
+a. Meets on a routine basis. 
+b. Reviews 340B rules, regulations, and guidelines to ensure consistent policies, procedures, and 
+oversight throughout the Hospital and across the Hospital system.  
+c. Identifies activities necessary to conduct comprehensive reviews of 340B compliance.  7 
+OPR.01.001_340B Policy & Procedures Manual 
+d. Ensures that the organization meets compliance requirements of program eligibility, patient 
+definition, 340B drug diversion, and Duplicate Discounts via ongoing multidisciplinary 
+teamwork.  
+e. Integrates departments such as information technology, legal, pharmacy, compliance, and 
+patient financial services to develop standard processes for contract/data review to ensure 
+program compliance.  
+f. Oversees the review process of compliance activities, as well as taking corrective actions based 
+on findings. 
+g. Assesses if audit results are indicative of a Material Breach 
+h. Considers ongoing refinements to compliance processes. 
+Ongoing Education and Training  
+1. Hospital will ensure that employees complete annual education and exhibit competency regarding 
+compliance with the 340B program. This education includes but is not limited to online learning, 
+training seminar, and other training from approved sources. 
+2. 340B key stakeholders complete initial basic training upon hire and annually thereafter. 
+3. Hospital provides educational updates and training, as needed, and conducts annual verification of 340B 
+Program competency.  
+4. Training and education records are maintained per organizational policy and available for review. 
+Prevention of Diversion 
+1. 340B Program inventory is procured and managed in the following settings:  
+a. Child Site administration 
+b. In-house and/or applicable acute pharmacies  
+c. Contract pharmacy 
+2. Hospital uses one of the following inventory methods:  
+a. Clean Sites 
+i. Stocks only 340B inventory.  
+b. Mixed Use Sites 
+i. Hospital relies on either.  
+ii. its Split Billing Software to maintain virtual inventory through replenishment; or 
+iii. where Split Billing Software has not been implemented, separate 340B and GPO stock. 
+iv. Where there is drug wastage, the Split Billing software is adjusted to remove that 
+utilization. 
+3. Hospital relies on several safeguards to determine that it is compliant with the GPO prohibition. This 
+includes:  
+a. the audit of the Split Billing Software programming;  
+b. the establishment of three accounts for WAC, GPO, and 340B for all of the distributors and 
+manufacturers from which Hospital purchases; and  
+c. auditing activities, including auditing of Clean Sites.  
+d. Arranges for earn-outs or repayments to manufacturers, where necessary 
+4. Certain outpatient sites are not subject to the 340B Program requirements. These sites all meet the 
+following criteria: 
+a. They are at a separate physical address from the Parent Site and Child Sites. 
+b. They have their own wholesaler accounts. 
+c. They are not registered in the HRSA OPA database. 
+d. The site maintains records indicating compliance with the requirement that its drugs are not 
+commingled with other sites’ drugs.  
+5. Hospital places 340B, GPO, and WAC drug orders, based on orders created from the Split Billing 
+Software where a virtual inventory system is employed. Otherwise, orders are placed based on the need 
+for drugs resulting from the depletion of stock.  
+a. An 11-digit to 11-digit NDC match is used to order 340B drugs.  8 
+OPR.01.001_340B Policy & Procedures Manual 
+b. Hospital also verifies that the multiplier established in the medical record matches the amount 
+accumulated and ordered for each product. 
+c. All such orders are maintained in a readily retrievable and auditable format. 
+6. Any manual exceptions created to the Split Billing Software are logged and the reasons are documented. 
+All such exceptions are subject to routine audit. 
+7. On a routine basis, purchasing records and dispensing records are reconciled.  
+340B Program Ongoing Compliance Review for the Parent Site and Child Sites 
+Diversion, as well as improper use of GPO drugs, are also prevented through Hospital’s internal monitoring 
+program.  
+1. Hospital develops an annual internal audit plan under the supervision of the 340B Oversight Committee, 
+which includes annual external audits and monthly internal reviews.  
+a. During internal review, Hospital selects records from a drug utilization file and then compares 
+the patient’s records pertaining to drug administration or dispenses to the manner in which such 
+administration or dispense was accumulated in the Split Billing Software.   
+b. Hospital also randomly selects Medicaid claims to validate that they have been completed in 
+accordance with the applicable State Medicaid program’s billing rules. 
+2. Hospital annually reviews as part of the recertification process the HRSA OPA 340B Database to ensure 
+the accuracy of the information for the Parent Site, Child Sites, and Contract Pharmacies.  
+3. Hospital annually reviews the Medicaid Exclusion File (MEF) to ensure the accuracy of the information 
+pertaining to Hospital.  
+4. The 340B Oversight Committee reviews the internal audit results and assesses if they indicate a Material 
+Breach.  
+Contract Pharmacy Compliance and Oversight 
+Hospital remains responsible for all 340B drugs used by its contract pharmacies. 
+1. Hospital has a written contract in place for each contract pharmacy location and registers each contract 
+pharmacy location with HRSA OPAIS prior to the use of 340B drugs at that site. 
+2. Hospital uses a replenishment model using an 11-digit to 11-digit NDC match. 
+3. Hospital implements a bill-to, ship-to arrangement with the contract pharmacies. 
+a. Each Contract Pharmacy orders 340B drugs based on 340B eligible use as determined by Split 
+Billing Software once a full package size at the 11-digit NDC has been achieved.  
+b. Invoices are billed to Hospital. 
+4. Contract Pharmacies enter into agreements with Hospital that comply with HRSA’s essential 
+compliance elements. 
+5. Covered Entity does not replenish drugs used for Medicaid patients with purchases under the 340B 
+Program.  
+6. Hospital validates through audit that Contract Pharmacies are complying with their agreements and are 
+only dispensing drugs replenished through the 340B Program to qualifying Eligible Patients. The 
+following elements will be included when conducting self-audits of contract pharmacies to ensure 
+program compliance: 
+a. Prescription is written in an appropriate site of care.  
+b. The patient qualifies as an Eligible Patient. 
+c. The prescription is written by an Eligible Provider or by a physician whom an Eligible Provider 
+referred to for consultation, where the Eligible Provider remained involved in the Eligible 
+Patient’s ongoing care.  
+d. An 11-digit NDC match can be documented for accumulation and/or replenishment of a 340B 
+Dispensation or Administration. 9 
+OPR.01.001_340B Policy & Procedures Manual 
+e. The payer is not a Medicaid program. 
+7. Hospital also engages independent auditors to conduct independent audits of each Contract Pharmacy 
+for compliance with the 340B Program requirements, including reviews of: 
+a. 340B eligibility.  
+b. 340B registration.  
+c. Documented policies and procedures.  
+d. Inventory, ordering, and record keeping practices for all 340B accounts.  
+e. Review of the listing in the Medicaid Exclusion File and its reflection in actual practices.  
+f. Testing of claims sample to determine any instance of diversion or Duplicate Discounts in a set 
+period of time.  
+Action on Audit Findings  
+This section defines Hospital’s policies for determining what further action is necessary when it learns of an 
+issue through audit or otherwise.  
+1. Hospital takes action on all findings occurring during any internal reviews or external audits, as well as 
+on any information that it receives that indicates a reasonable likelihood that there may be 
+noncompliance with 340B Program requirements. 
+2. If information is received outside of an audit that indicates a reasonable likelihood of noncompliance, 
+Hospital will structure an audit to determine whether such noncompliance has occurred. In any such 
+audit, a minimum of 20 transactions will be reviewed.  Transactions chosen to be in the sample reviewed 
+must logically relate to the potential noncompliance. Thus, if there are questions relating to whether 
+utilization in mixed used areas is properly being accumulated, only utilization from those mixed-use 
+areas will be evaluated. 
+3. Irrespective of whether an audit occurs on a routine basis or in response to specific information, Hospital 
+will repay or earn out any 340B Program-purchased drugs, whichever is more convenient, for any drugs 
+determined on audit to have been administered or dispensed to patients other than Eligible Patients. 
+4. Additionally, if the error rate on audit indicates a Material Breach, then a further review will be 
+performed. This review will either be an extrapolated review, or a 100% review, whichever is more 
+convenient. 
+5. A decision will be made by Pharmacy staff, in consultation with Legal, Compliance, and any other 
+applicable stakeholders, after such audit as to what sort of communication will be made to affected 
+manufacturers, including whether payment will accompany such communication. 
+6. Where there is evidence of a Material Breach or of willful or reckless conduct, Pharmacy staff, in 
+consultation with Legal, Compliance, and any other applicable stakeholders, will decide whether a letter 
+to HRSA will also be prepared that discloses the nature of the noncompliance, as well as the corrective 
+measures that have been undertaken.  
+Note: The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+STATUTORY/REGULATORY AUTHORITY: 
+• Public Law 102-585, Section 602, 340B Guidelines, 340B Policy Releases]. 
+• 340B Drug Pricing Program: Hospital Registration Instructions 
+(http://www.hrsa.gov/opa/files/hospitalreginfo.pdf) 
+• 340B Contract Pharmacy Guidelines 
+(https://www.gpo.gov/fdsys/pkg/FR-2010-03-05/pdf/2010-4755.pdf). 
+• State policy(ies) for 340B reimbursement/billing/duplicate discount prevention (state Medicaid manual, etc.) 10 
+OPR.01.001_340B Policy & Procedures Manual 
+• Apexus Tool: 340B Compliance and the Controlled Substance Ordering System (CSOS) may be used to articulate 
+compliance solutions in this area: 
+https://docs.340bpvp.com/documents/public/resourcecenter/340B_Compliance_CSOS.pdf 
+• Federal Register / Vol. 61, No. 165 / Friday, August 23, 1996 / Notices 
+https://www.gpo.gov/fdsys/pkg/FR-2010-03-05/pdf/2010-4755.pdf 
+• 340B University: Defining Material Breach Documentation Tool 
+https://docs.340bpvp.com/documents/public/resourcecenter/Establishing_Material_Breach_Threshold.pdf 
+• Federal Register / Vol. 75, No. 43 / Friday, March 5, 2010 / Notices  
+(https://www.gpo.gov/fdsys/pkg/FR-2010-03-05/pdf/2010-4755.pdf) 
+ATTACHMENTS:  
+Medication Management Scope and Example 
+ 
+Policy Oversight by: 
+ 
+President of Our Lady of the Lake Hospital, Inc. 
+  11 
+OPR.01.001_340B Policy & Procedures Manual 
+Attachment A 
+ 
+The following services are illustrative of the scope of a Medication Management encounter between a 
+pharmacist acting as an Eligible Professional and an Eligible Patient: 
+ 
+Initial Assessment and Onboarding (70 – 100 minutes)  
+See Exhibit 1 for completed de-identified copy of an initial assessment.  
+1. Create a personal medication record for the patient within the Covered Entity’s electronic medical 
+record. 
+2. Review the prescribed therapy for appropriateness of therapy and safe dosage.  
+3. Review whether the prescription order is correct based on what was prescribed by the physician 
+within the medical record, if available. 
+4. Review patient’s medical history for allergies, drug safety, and any potential drug-drug interactions.  
+5. Discuss the prescribed therapy with the patient including proper: 
+a. Adherence 
+b. Administration 
+c. Missed dose management 
+d. Storage 
+e. Safe handling and disposal 
+f. Duration of therapy 
+6. Discuss adverse symptoms, side effects, and symptom management so the patient is aware of what 
+to expect while on therapy.  
+7. Review patients’ disease and non-disease specific lab work to assess overall health. 
+8. Educate the patient on ways to mitigate side effects and provide recommendations.  
+9. Make an assessment for adherence risk and document any potential barriers 
+10. Perform wellness and lifestyle counseling including review of nutrition, diet and hydration, and up-
+to-date immunizations. 
+11. Perform a complete medication reconciliation. 
+12. Review the goals of therapy, and document that the patient agrees/understand the goals of the 
+therapy. 
+ 
+Cycle Check Ins (5 – 30 minutes) 
+Depending on the therapy and the individual patient’s needs, additional follow up encounters are performed. 
+As an example; 1st cycle check in (5-7 days post start), 2nd cycle check in (30 days post start), 60-day 
+check-ins, etc. During these calls, the pharmacist will: 
+1. Assess the patient’s adherence to therapy.  
+a. Ensure the patient is taking the medication as prescribed.  
+b. Record the number of units remaining (e.g., pills, syringes). 
+c. Review any potential barriers to adherence and counsel on how to overcome them. 
+d. Confirm the patient is aware of where to obtain refills. 
+e. Document if the patient has had any issues receiving refills. 
+f. Communicate/coordinate with the physician’s office and patient’s care team as needed. 
+2. Monitor adverse effects including but not limited to: injection site reactions, fever, allergic 
+reactions, chest pain, swelling in hands or feet, weight loss, and other. 
+a. Counsel patients on how to treat these or when to see their provider to assist. 
+3. Review with patient their progress towards goals of therapy. 
+4. Continuously monitor patient’s lab work to assess treatment efficacy and overall health. 
+5. Discuss the next appointment the patient has with the physician. 
+a. Communicate with the physician via email, phone, or direct messages within the medical 
+record, if necessary, based on clinical judgement. 
+b. Coordinate an appointment with the physician’s office or other healthcare provider, if 
+necessary, based on clinical judgement. 12 
+OPR.01.001_340B Policy & Procedures Manual 
+Clinical Interventions (5-30 minutes) 
+Patients may also call the clinical pharmacist hotline to speak with a clinical pharmacist or be referred by a 
+pharmacy liaison to speak with the clinical pharmacist. Based on the pharmacist’s clinical judgement, they 
+may communicate with the physician to coordinate an appropriate plan of action or coordinate emergency 
+services depending on the circumstance and clinical judgement.  
+  13 
+OPR.01.001_340B Policy & Procedures Manual 
+Exhibit 1 
+ 
+(ON2) PHARMACIST NEW START - Initial Assessment  
+Dx: Colon cancer  
+ 
+Tx prescribed: Xeloda 1500 mg (3x500mg) take 3 tablets PO twice daily 14/21d (+oxaliplatin +Avastin)  
+• Administration: Planning to take in morning and evening within 30 minutes of a meal and with full glass 
+of water  
+• Proper Handling/Disposal: Have anyone else administering medication wear gloves or transfer in a paper 
+cup or medicine cap, do not dispose in trash or down sink or toilet, use local disposal procedures  
+• Storage/Excursion: Store at RT  
+• Duration of therapy: Until progression or intolerable SE  
+• Emetogenic potential: Minimal to low  
+• Supportive ppx meds: Zofran, Compazine (nausea)  
+ 
+Adherence & Potential Barriers: Adherence predictor score=0, low likelihood for non-adherence, no issues 
+identified on call.  
+• Missed dose mgmt: Rvd missed dose mgmt to skip dose if missed; resume normal schedule, do not double 
+up. Write down missed dose for MD.  
+ 
+List Common, Serious SE & Mitigation Reviewed:  
+• NV: pre-medicate, eat bland foods/drink ginger ale, small meals, avoiding heavy/greasy foods  
+• Diarrhea: hydration importance, Imodium ppx, BRAT diet, avoid coffee, tea, EtOH, fatty/greasy foods, 
+sweets  
+• Hand-foot: use moisturizer 2-3x/day, avoid hot water/detergents/chemicals, reduce friction on feet/hands 
+via loose fitting shoes/gloves, appears 4-6 weeks after therapy  
+• Anemia/Fatigue: rest between activities, utilize naps, eat an adequate diet with proteins and calories, drink 
+plenty of fluids  
+• Dec appetite: eat foods that are high in protein/calories, eat smaller more frequent meals (4 -5 vs 2 -3), 
+Boost List Precautions Reviewed:  
+• Serious: call MD if fever >100.4, sore throat, chills or shakes, new pain, SOB, CP, cough, trouble 
+breathing, cardiotoxicity  
+ 
+S/Sx: No present sx of disease, doing well per pt at present recovering well from surgery.  
+Clinically Relevant, Abnormal Labs: 1/10/23  
+• CBC: WNL  
+• CHEM 7: BUN 7L  
+• CRCL/GFR: 82 ml/min  
+• LFTs/TBili: Alk phos 164H  
+• BP/HR: 128/86, 93  
+• Cancer Specific Biomarkers: CEA 44.7H 11/26/22  
+• Drug Specific Labs: CrCl, CBC, LFTs  
+ 
+Wellness/Lifestyle Counseling:  
+Nutrition: reports an improved diet and appetite after surgery and has worked herself back up a normal diet, 
+continues to have smaller meals throughout the day. Let know to continue and she has Boost on hand, 
+counseled on use if she feels like she needs nu trition or any further decline in appetite. Hydration: reports 
+an excellent hydration status and drinking plenty of water and carries bottle of water around with her. 
+Encouraged to continue. Exercise: reports she exercises via walking often and keeps track of steps with 
+daily goals. Let know this was great and to continue as exercise can have great health benefits during 
+therapy.  
+• Immunizations: COVID 4th booster and flu given this September, Shingles in the past year. Eligible for 
+pneumonia vaccine, counseled on talking with MD of getting at local pharmacy if interested.  
+ 14 
+OPR.01.001_340B Policy & Procedures Manual 
+Med Rec/Updated drug list: EMR inaccurate, medication changes reviewed with patient: ( -) Bentyl, ( -) 
+Hyoscyamine, (-) lorazepam, (-) promethazine, (-) pantoprazole, (-) Zoloft  
+DI Check: None clinically significant  
+Common DI & Dietary Avoidance: None  
+ 
+Goals of Therapy:  
+• Maintain or achieve remission, if applicable  
+• Reduce progression of disease (POD) and/or improve quality of life--penetration to peritoneum, positive 
+lymph nodes, multiple at least 5 liver lesions on R side, bilateral pulmonary nodules, some new. QOL is 
+good and fully active and functional.  
+• Mitigation of side effects--common/serious SE discussed above  
+• Promote optimal medication administration and adherence--importance of adherence and admin discussed 
+above  
+• Improve overall survival (OS) and progression free survival (PFS)  
+• Reduce tumor biomarkers, if applicable--CEA 44.7H 11/26/22  
+ 
+- Patient has agreed/understands to goals of therapy during education/counseling  
+ 
+Additional: I had a pleasant conversation with [patient] who has rcvd her Xeloda and is planning to get her 
+first dose of Oxaliplatin on 1/12/23 and begin taking her Xeloda 1/13/23. She has metastatic colon cancer 
+and PET scan 12/20/22 showed interval partial colectomy with penetration to peritoneum, positive lymph 
+nodes, multiple at least 5 liver lesions on R side, bilateral pulmonary nodules, some new. She has recovered 
+well from surgery and is fully functional and active at present. She has a statistical chance of cure with good 
+response and overall, very good performance status. Her CEA was elevated at 44.7 11/26/22 and will be 
+used as biomarker for response. Discussed proper admin of morning and evening 12 hours apart within 30 
+minutes of a meal, with water for 14/21d. Counseled on common/serious SE and given mitigation strategies. 
+Counseled on infection precautions and report to MD if having, wear mask and wash hands when going out 
+in public. She has ppx meds and not taking what is on med chart for most part. She was prescribed 
+pantoprazole from an admission, but is not taking and does not have reflux, let know to throw away if not 
+needed, as it has a DDI with Xeloda. Pt has trouble sleeping unrelated to cancer, has temazepam rx to be 
+picked up and couns eled on natural melatonin for sleep PRN if she wishes. She reports a good diet and 
+appetite that is improving, and she has smaller meals during the day and Boost on hand in case of declined 
+appetite. She has a very good hydration status and is walking for exercise, very motivated and tracks on 
+phone. She was appreciative of the call and welcomes future follow up from clinical team. Will push out 1 
+week from 1/13/23 start date for first cycle call. 
+ 

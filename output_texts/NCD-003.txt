@@ -1,0 +1,35 @@
+ 
+Policies and Procedures Manual Manual: Cardiovascular Lab 
+Our Lady of the Lake Regional Medical Center Chapter: CVL 
+Subject:  Removal / Disposal of Records Section: Administration 
+Date of Origination: February 23, 1996 Supersedes: 1997 
+Date of Last Revision: 7/31/21 
+Date of Review: 7/31/23 
+ 
+ Serial Code: NCD 003 
+ 
+          
+Distribution:        Cardiovascular Lab  
+ 
+Formulated By:       Cardiovascular Service Line 
+ 
+Purpose:            To provide guidelines regarding storage and removal of Cardiovascular Lab       
+records. 
+ 
+Policy:              Cardiovascular reports, hemodynamic pressure tracings, and images shall be 
+maintained for a period of 7 years. 
+ 
+Procedure:            
+ 
+Storage: 
+1. Hemodynamic tracings and reports are linked post procedure into Epic from Sensis.  To 
+ensure proper linking of procedures, a check is performed daily.  
+2. Cardiac & peripheral images are stored in Visage and Epic.  
+3. EP recordings are housed on GE server in Data Center @ OLOL. Images are transferred 
+to Visage pacs system. 
+ 
+ 
+Disposal: 
+  
+1.  Hemodynamic tracings and reports are housed in Epic. 
+2.  Cardiovascular images are stored in Visage for 7 years on all patients.  

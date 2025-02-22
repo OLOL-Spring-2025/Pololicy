@@ -1,0 +1,36 @@
+ 
+ 
+Plant Services 
+ 
+ PS009 
+Page 1 of 1 
+Title: Fire Alarm Response   
+Revision Date: 02/24/2024 
+Review Date: 09/30/2021 
+Reference # PS009 Origin Date: October 1988 
+ 
+PURPOSE: 
+Plant Services will be the responsible department to verify activation of fire warning devices. 
+ 
+PROCEDURES: 
+1. Upon audio/visual signal of fire alarm system, Plant Services shall respond immediately to zone 
+indicated. 
+ 
+2. Silence the alarm (silence button located on main panel). 
+ 
+3. Verify alarm status to dispatcher immediately. 
+ 
+4. Dispatcher will: 
+a. If fire is detected, notify PBX and dispatch additional manpower to the location for the 
+purpose of patient removal and fire suppression. 
+ 
+b. If fire is not detected and alarm is verified as false, dispatcher shall contact off premises 
+monitoring company (Acadian) via telephone giving the code “FIRE QUEST”. 
+1. Initiate reset procedure 
+2. Give all clear signal to PBX via telephone 
+ 
+c. Reset Procedures: 
+1. Acknowledge at the main panel. 
+2. Silence the main panel. 
+3. Reset the panel. 
+ 

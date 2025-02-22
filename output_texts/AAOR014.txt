@@ -1,0 +1,314 @@
+AA-OR-014 
+Page 1 of 9 
+ 
+SCOPE 
+This applies to all Principal Investigators (PI) and the Division of Academic Affairs, which includes the 
+Office of Research.   
+PURPOSE 
+To provide guidelines for determining which projects submitted to the Office of Research require 
+execution of a Data Use Agreement (DUA). 
+RESPONSIBILITY 
+The Office of Research is responsible for withholding endorsement until a fully executed Data Use 
+Agreement is received with project submissions that involve sharing Protected Health Information (PHI) 
+when there is otherwise no formal research agreement between Our Lady of the Lake Regional Medical 
+Center (OLOL) and the PI.  The PI is responsible for facilitating the DUA between OLOL and the user of 
+the data.  The Office of Research is responsible for approving and obtaining signatures on all DUAs.   
+DEFINITIONS 
+Covered Entity:  Under HIPAA, a covered entity is a health plan, a health care clearinghouse, or a health 
+care provider who transmits any health information in electronic form in connection with a HIPAA 
+transaction.   
+Disclosure:  To release, transfer, provide access to, or divulge PHI out of OLOL.  Disclosure also 
+includes providing information or access to another covered entity or health care component for purposes 
+other than original research for which the information was released.   
+Individual:  The person who is the subject of the identified PHI.  
+Data Use Agreement:  Written agreement between a covered entity or health care component and a 
+researcher requesting a disclosure of PHI contained in a limited data set.   
+Limited Data Set:  A subset of individual health information which has had certain direct identifiers 
+removed, but does contain other PHI which could potentially identify the individual, and is used for a 
+specific research purpose.  A limited data set is not considered de-identified data.   
+Protected Health Information (PHI):  Health information transmitted or maintained in any form or 
+medium which:  
+1. Identifies or could be used to identify an individual, and  
+2. Is created or received by a healthcare provider, health plan, employer or healthcare clearinghouse, 
+and  
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Academic Affairs Section: Office of Research 
+Title: Limited Data Use Agreement Policy Reference #: AA-OR-014 
+Supersedes #:  
+Date of Origination: February 1, 2012 Last Review Date: January 1, 2015 
+Last Revision Date: January 1, 2015 AA-OR-014 
+Page 2 of 9 
+ 
+3. Relates to the past, present or future physical or mental health or condition of an individual; the 
+provision of health care to an individual; or the past, present or future payment for the provision of 
+healthcare to an individual.   
+PHI Holder:  OLOL, the distributors of the PHI. 
+Recipient:  The PI and their designee(s) listed in the DUA who will receive the PHI.   
+Research:  The systematic investigation, including development, testing and evaluation designed to 
+develop or contribute to generalizable knowledge.   
+Use:  To employ, apply, utilize, examine or analyze PHI originating from, belonging to, or maintained by 
+OLOL.   
+PROCEDURE 
+Individual health information may be used or disclosed for the purpose of research as part of a limited 
+data set when a DUA is in place between the holder of the limited data set and the PI.  Before obtaining a 
+limited data set to be used in human participant research, PIs are required to request Office of Research 
+project endorsement by submitting the appropriate documents to the Office of Research for review and 
+endorsement.  DUAs are required when the OLOL PI is providing or receiving the limited data set.   
+Creating a Limited Data Set 
+All of the following identifiers for the individual and the individual’s relatives, employers or household 
+members must be removed to create a limited data set:   
+1. Names  
+2. Postal address information other than town/city, state, zip code 
+3. Telephone number  
+4. Fax number  
+5. Email address  
+6. Social security number (last 4 digits only may be used)  
+7. Medical record number  
+8. Health plan number  
+9. Account numbers  
+10. Certificate or license number  
+11. Vehicle identification/serial numbers, or license plate numbers  
+12. Device identification/serial numbers  AA-OR-014 
+Page 3 of 9 
+ 
+13. Universal resource locators (URLs)  
+14. Internet protocol addresses  
+15. Biometric identifiers, including finger and voice prints  
+16. Full-face photographs and comparable images  
+Data Use Agreement  
+A DUA must be in place between the holders of the PHI and the researcher who is the recipient of the 
+limited data set before the limited data may be obtained or shared.  The DUA must contain satisfactory 
+assurance the researcher will only use or disclose the limited data set for research purposes set forth in the 
+DUA.  The researcher/data recipient is not permitted to re-identify or contact the participants with the 
+disclosed information.   
+The DUA must meet the following requirements:   
+1. Establish the permitted uses or disclosures of the information by the researcher;  
+2. Establish who is permitted to use or receive the limited data set;  
+3. Provide the researcher will not use or further disclose the information other than as permitted by 
+the agreement or required by law;  
+4. Provide the researcher will use appropriate safeguards to prevent the impermissible use or 
+disclosure of the information;  
+5. Provide the researcher will report to the holder of the PHI any impermissible use or disclosure of 
+which she/he becomes aware;  
+6. Require the researcher to ensure any entity or institution to which the researcher provides the 
+limited data set agrees to the same restrictions and conditions;  
+7. Provide the researcher will not identify the information or contact the individuals; and  
+8. Provide the researcher will attempt to cure a breach or end a violation unsuccessfully, disclosure 
+of data to be the researcher will be terminated and the problem will be reported to the Office of 
+Research.   
+The DUA form is available on the Office of Research website.  Once the PI has provided the required 
+information on the DUA, it will be forwarded to the Office of Research via email for verification of 
+completion and required signatures.   
+A DUA must be completed as part of an Office of Research submission when the following conditions are 
+met:   
+1. There is no clinical trial agreement between OLOL and the receiving party covering release and 
+use of data;  
+2. Disclosure of data in a ‘limited data set;’  AA-OR-014 
+Page 4 of 9 
+ 
+3. Disclosure is for research purposes;  
+4. Individual patient authorization is not obtained; and  
+5. As part of an Office of Research endorsed protocol.   
+The completed DUA must be signed by a signatory official of OLOL, as well as the PI.   
+In the event an OLOL PI conducting investigator-initiated research leaves the organization, continued 
+access to the data may be appropriate as determined and endorsed on a case-by-case basis by the Office of 
+Research Director.  A DUA is required if the PI intends to share the data with non-OLOL individuals or 
+entities, or if the PI intends to access the data for a different research purpose.   
+REFERENCES  
+Centers for Disease Control (2013).  HIPAA privacy rule and public health: Special topics, Research. 
+http://www.hhs.gov/ocr/privacy/hipaa/understanding/special/research/  
+U.S. Government Printing Office (2014). Electronic code of Federal regulations: Subpart E—Privacy of 
+Individually Identifiable Health Information. Available from: http://ecfr.gpoaccess.gov/cgi/t/text/text-
+idx?c=ecfr&tpl=/ecfrbrowse/Title45/45cfr164_main_02.tpl 
+ AA-OR-014 
+Page 5 of 9 
+ 
+(Name of Covered Entity) 
+DATA USE AGREEMENT FOR LIMITED DATA SETS 
+ 
+This Data Use Agreement for Limited Data Sets (the “Agreement”) is made this ___day of ______, 201_ 
+by and between _______________________ (“Covered Entity”) and ___________________________ : 
+Use, Disclose, receive, transmit, maintain or create from, certain information in conjunction with 
+research; and 
+ WHEREAS, Covered Entity and Recipient are committed to compliance with the Health 
+Insurance Portability and Accountability Act of 1996 (“HIPAA”) and regulations promulgated thereunder 
+and the Privacy Rule as provided in 45 CFR Part 160 and 164 as may be amended; 
+ WHEREAS, the purpose of this Agreement is to satisfy the obligations of Covered Entity under 
+HIPAA and to ensure the integrity and confidentiality of certain information Disclosed or made available 
+to Recipient and certain information that Recipient Uses, Discloses, receives, transmits, maintains or 
+creates, from Covered Entity. 
+NOW, THEREFORE, in consideration of the foregoing recitals and other good and valuable 
+consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows 
+A. DEFINITIONS  
+Terms used but not otherwise defined in this Agreement shall have the same meaning as those terms in 
+the Privacy Rule. 
+1. Individual shall have the same meaning as the term “individual” in 45 CFR Sect. 164.501 of 
+the Privacy Rule and shall include a person who qualifies as a personal representative in 
+accordance with 45 CFR Sect. 164.502(g) of the Privacy Rule. 
+ 
+2. Limited Data Set shall have the same meaning as the term “limited data set” in 45 CFR 
+164.514(e) of the Privacy Rule. 
+3. Privacy Rule shall mean the Standards for Privacy of Individually Identifiable Information at 
+45 CFR Part 160 and Part 164, Subparts A and E, as amended from time to time. 
+4. Protected Health Information or PHI shall have the same meaning as the term “protected 
+health information” in 45 CFR Sect. 164.501 of the Privacy Rule, to the extent such 
+information is created or received by Data Recipient from Covered Entity. 
+5. Required by Law shall have the same meaning as the term “required by law” in 45 CFR Sect. 
+164.501 of the Privacy Rule. 
+B. DATA TO BE PROVIDED BY COVERED ENTITY 
+ 
+ 1.  Covered Entity shall provide Recipient a Limited Data Set in accordance with the HIPAA 
+Regulations and in accordance with Covered Entity policies and procedures.  The Limited Data Set 
+provided pursuant to this Agreement contains data acquired from:   
+ 
+ and related to:  
+ 
+ 2.  The Limited Data Set shall include the data fields specified by the parties from time to time, 
+which are the Minimum Necessary to reasonably accomplish the Authorized Purposes identified in 
+Section (D)(2) of this Agreement.  For the purpose of this Agreement and consistent with the HIPAA 
+Regulations,  
+ 
+“Minimum Necessary” is defined as that protected health information that is “reasonably AA-OR-014 
+Page 6 of 9 
+ 
+necessary to achieve the purpose of the disclosure” and is disclosed to only “Those 
+persons or classes of persons, as appropriate, in its workforce who need access to 
+protected health information to carry out their duties.” 
+C. LIMITED DATA SET 
+1.        A Limited Data Set is defined as a subset of PHI that excludes the  
+direct identifiers listed below and as such all direct identifiers must be removed for the individual and 
+relatives, employers or household members of the individual. 
+ 2.        The direct identifiers are as follows: 
+1. Names 
+2. Postal address information, other than town or city, State or zip code 
+3. Telephone numbers 
+4. Fax numbers 
+5. Electronic mail addresses 
+6. Social Security numbers 
+7. Medical record numbers 
+8. Health plan beneficiary numbers 
+9. Account numbers 
+10. Certificate/license numbers 
+11. Vehicle identifiers and serial numbers, including license plate numbers 
+12. Device identifiers and serial numbers 
+13. Web Universal Resource Locators (URLs) 
+14. Internet Protocol (IP) address numbers 
+15. Biometric identifiers, including finger and voice prints 
+16. Full face photographic images and comparable image 
+D. PERMITTED USES AND DISCLOSURES 
+ 1. Recipient agrees to use and disclose the Limited Data Set solely for the research protocol 
+entitled: _________________________________________________________________  
+ 
+Protocol No.: __________________. 
+ 
+ 2.   Recipient agrees to limit the use and disclosure of the Limited Data Set to the  
+following purposes (“Authorized Purposes”):   
+ 
+ 
+ 3. Permitted Users:  The following individuals or class of individuals (including Recipient) 
+are permitted to use/receive the Limited Data Set for the Authorized Purposes consistent with the 
+assurances and obligations set forth in this Agreement and applicable law:   
+ 
+ 
+ 4. Recipient acknowledges that such individuals have a need to access the Limited Data Set 
+to carry out their duties according to the research protocol.   
+ 
+E. ASSURANCES   
+ 1. Recipient shall not Use or Disclose the Limited Data Set other than as permitted by this 
+Agreement or as otherwise Required by Law.   
+ 2. Recipient shall use appropriate safeguards to prevent Use or Disclosure of the  AA-OR-014 
+Page 7 of 9 
+ 
+Limited Data Set other than as permitted by this Agreement or Required by Law.  
+ 3.   Recipient shall report to the Covered Entity Compliance Officer any Use or  
+Disclosure of the Limited Data Set of which it becomes aware that is not permitted by this Agreement or 
+Required by Law within ten (10) days of its discovery;  
+ 4. Recipient shall require all Permitted Users that receive or have access to the Limited Data 
+Set to agree in writing to the same restrictions and conditions on the use and/or disclosure including use 
+of appropriate safeguards of the Limited Data Set that apply to Recipient under this Agreement and under 
+applicable law.  
+ 5. Recipient shall ensure that all Permitted Users agree not to use the information in the 
+Limited Data Set to identify  or contact any individuals who are the data subjects in the Limited Data Set 
+or his/her relatives, employers or household members.   
+ 6.   Recipient shall ensure that electronic information is secured consistent with HIPAA 
+requirements and Covered Entity policies and procedures. 
+ 
+F. TERM, TERMINATION AND BREACH 
+ 1. Term:  The term of this Agreement shall be effective as of ____________ (“Effective 
+Date”) and shall continue for so long as Recipient retains the Limited Data Set, unless sooner terminated 
+as set forth in this Agreement.  
+ 2. Termination by Recipient.  Recipient may terminate this Agreement at any time by 
+notifying the Covered Entity and returning or destroying the Limited Data Set. 
+ 3.   Termination by Covered Entity.  Covered Entity may terminate this Agreement at any time 
+by providing thirty (30) days prior written notice to Recipient.    
+ 4.    Termination For Breach.  Covered Entity shall provide written notice to Recipient within 
+ten (10) days of any determination that Recipient has breached a material term of this Agreement.  
+Covered Entity shall afford Recipient an opportunity to cure said alleged material breach upon mutually 
+agreeable terms.  Failure to agree on mutually agreeable terms for cure within thirty (30) days shall be 
+grounds for the immediate termination of this Agreement by Covered Entity. 
+ 5.   Effect of Termination.  The terms and conditions of this Agreement shall survive any 
+termination of this Agreement until Recipient destroys or returns all Limited Data Sets provided pursuant 
+to this Agreement (including copies or derivative versions thereof) and sends written notice to Covered 
+Entity of the destruction of the Limited Data Sets. 
+ 6.  Should this Agreement be terminated for any reason, including, but not limited to  
+Recipient’s decision to cease use of the Limited Data Set data, Recipient agrees to destroy or return all 
+Limited Data Set data provided pursuant to this Agreement (including copies or derivative versions 
+thereof).   
+ 
+G. MISCELLANEOUS 
+ 1. Notices 
+  Any notice permitted or required as provided for herein shall be in writing and to  
+  the contact and address as noted below or as may be provided by either party to  
+  the other in writing from time to time.   
+  Notice to Covered Entity shall be to:   
+Name:    K. Scott Wester, Chief Executive Officer  
+Address: Our Lady of the Lake Hospital, Inc.  
+    5000 Hennessy Boulevard  
+               Baton Rouge, Louisiana  70808 AA-OR-014 
+Page 8 of 9 
+ 
+                
+  Notice to Recipient shall be to:   
+Name:     ___________________ 
+Address: ___________________ 
+   ___________________ 
+ 
+ 2. Change in Law.  The parties agree to negotiate in good faith to amend this Agreement to 
+comply with changes in federal law that materially alter either or both parties’ obligations under this 
+Agreement.  Provided however, that if the parties are unable to agree to mutually acceptable 
+amendment(s) by the compliance date of the change in applicable law or regulations, either Party may 
+terminate this Agreement as provided in Section E. 
+ 3.   Interpretation.  The terms of this Agreement shall be construed to give effect to applicable 
+federal interpretative guidance regarding HIPAA and the Privacy Rule.  Any ambiguity in this Agreement 
+shall be resolved to permit Covered Entity to comply with the HIPAA and the Privacy Rule.   
+ 4. No Third Party Beneficiaries.  Nothing in this Agreement shall confer upon any person 
+other than the parties and their respective successors or assigns, any rights, remedies, obligations or 
+liabilities whatsoever. 
+ 5. Governing Law.  This Agreement shall be governed by, and construed in accordance with, 
+the laws of the State of Louisiana without regard to its choice of law principles.  Any action or 
+proceedings regarding this Agreement shall be instituted and conducted  
+in East Baton Rouge Parish.   
+ 6.   Survival.  The obligations of the Recipient under Sections D and E of this Agreement shall 
+survive the termination of this Agreement.   
+ 
+ 
+Signature page to follow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EXECUTION.  By their signature below, each of the following represent that they have authority to 
+execute this Agreement and to bind the party on whose behalf their execution is made.   
+ 
+Our Lady of the Lake Hospital, Inc.    Recipient 
+Name:  K. Scott Wester    Name: _____________________________ 
+Title:  President and C.E.O.    Title:  ______________________________  
+ 
+Signature:  ___________________________ Signature:  __________________________ 
+ 
+ 
+ 
+ 

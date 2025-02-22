@@ -1,0 +1,146 @@
+CHON-001 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Oncology 
+Subject:  Chemotherapy Extravasation Protocol Section:   
+Date of Origination:  June 22, 2009 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+April 8, 2022 
+October 6, 2023 
+Serial Code:  CHON-001 
+  
+PURPOSE: 
+To provide pertinent information regarding the proper procedure for the management of extravasation of 
+cytotoxic drugs 
+ 
+DEFINITIONS: 
+Some chemotherapeutic agents are considered vesicants and may cause serious tissue damage if they leak into 
+tissue outside of the vein (extravasate).  Extravasation is the inadvertent administration of a vesicant into the 
+surrounding tissues that can cause pain, burning, inflammation, necrosis, sloughing, and / or ulceration of the 
+tissue.  Irritants are those agents that can inflame tissue but will not cause tissue necrosis if extravasation 
+occurs; reactions range from mild erythema and burning to pain and inflammation at the injection site.  Flare 
+reactions may include erythema, urticaria, and phlebitis along the vein.  The degree of tissue damage related to 
+an extravasation is dependent upon the vesicant potential of the agent and the concentration and quantity of 
+drug extravasated. 
+ 
+INDICATIONS - RECOGNITION OF EXTRAVASATION: 
+1. Patient complains of burning, stinging, pain, or any acute change at the insertion site. 
+2. Induration, erythema, swelling at the injection site, coolness to touch, or blanching site.  Frequent 
+examination of IV site is essentially important in patients who are unable to report pain, such as patients in a 
+coma or infants. 
+ 
+POLICY:  
+The extravasation protocol should be initiated as soon as an extravasation of a vesicant/irritant is suspected. 
+ 
+Initiate the following steps in the event of any extravasation of a chemotherapeutic agent: 
+1.   Stop the administration of the chemotherapy infusion.  
+2.   Put on chemotherapy PPE to minimize personal exposure to any chemotherapeutic agent in blood. 
+3. Withdraw as much drug from the site as possible through the existing needle and IV tubing then discontinue 
+the IV access. 
+4. Elevate and immobilize the site. 
+5. Notify the physician at the time of the occurrence and obtain orders for treatment. 
+6. Confirm with the physician if an antidote is indicated and administer if necessary. 
+7. Apply warm or cool compresses for 15 minutes at least 3-4 times a day for the first 24-48 hours. (See chart 
+below as a reference) 
+8. Do not rub or press on the area. 
+9. Observe the site for pain, erythema, induration, and/or necrosis. 
+10. Document the following: 
+a. Date CHON-001 
+Page 2 of 3 
+b. Time 
+c. Type of access 
+d. Location of access 
+e. Drug sequence 
+f. Drug administration technique 
+g. Approximate drug amount extravasated 
+h. Patient response 
+i. Appearance of the site 
+j. Physician notification 
+k. Follow up measures 
+l. Document the incident according to institutional policy.  Notify risk management, if indicated. 
+m. A safety event should be completed through the electronic events reporting system.  
+11. If the patient is an ambulatory patient, and the antidote requires a multi-day treatment, which falls on the 
+weekend or a holiday, the patient will be admitted to the hospital for the subsequent treatment. 
+ 
+Drug Name Classification Application Suggested Antidote if 
+applicable  
+Arsenic trioxide None or Irritant None None 
+Asparaginase (all forms) None  None None 
+Bleomycin None or Irritant Cold None 
+Busulfan Irritant Cold None 
+Carboplatin Irritant (>10 mg/ml) Cold None or Sodium 
+Thiosulfate or Dimethyl 
+Sulfoxide 
+Carmustine Irritant or Vesicant Cold None 
+Cisplatin  
+Vesicant (greater than 0.4 
+mg/ml)  
+Cold Sodium Thiosulfate or 
+Dimethyl Sulfoxide 
+• Indicated only for volumes 
+greater than 20 ml at greater 
+than 0.4mg/ml 
+Cyclophosphamide Irritant Cold Sodium Thiosulfate 
+Cytarabine None None None 
+Dacarbazine Irritant or Vesicant Cold Sodium Thiosulfate 
+(concentrated dacarbazine) or 
+Dimethyl Sulfoxide  
+Dactinomycin Vesicant Cold None 
+Daunorubicin Vesicant Cold  
+Dexrazoxane (now preferred 
+over Dimethyl Sulfoxide) IV 
+• Do not use Dimethyl 
+Sulfoxide and 
+Dexrazoxane together. 
+Doxorubicin Vesicant Cold Dexrazoxane (now preferred 
+over Dimethyl Sulfoxide)  
+• Do not use Dimethyl 
+Sulfoxide and 
+Dexrazoxane together. 
+Docetaxel Irritant or Vesicant Cold None 
+ 
+Etoposide Irritant or Vesicant Warm Hyaluronidase  CHON-001 
+Page 3 of 3 
+ 
+Fluourouracil Irritant Cold None or Dimethyl 
+Sulfoxide 
+Idarubicin Vesicant Cold Dexrazoxane (now preferred 
+over Dimethyl Sulfoxide) 
+• Do not use Dimethyl 
+Sulfoxide and 
+Dexrazoxane together. 
+Ifosfamide Irritant Cold None vs Dimethyl 
+Sulfoxide 
+Irinotecan Irritant Cold None 
+Melphalan Irritant or Vesicant Cold Sodium Thiosulfate 
+Methotrexate  None None None 
+Mitomycin Vesicant Cold Sodium Thiosulfate or 
+Dimethyl Sulfoxide 
+ 
+Mitoxantrone  Irritant or Vesicant Cold Dexrazoxane (now preferred 
+over Dimethyl Sulfoxide) 
+• Do not use Dimethyl 
+Sulfoxide and 
+Dexrazoxane together. 
+Nelarabine None  None None 
+Oxaliplatin Irritant or Vesicant  
+DO NOT APPLY 
+COLD 
+Corticosteroids may 
+decrease inflammation. 
+Paclitaxel Irritant or Vesicant Cold Hyaluronidase 
+Topotecan Irritant Cold None 
+Vinblastine Vesicant Warm Hyaluronidase 
+Vincristine Vesicant Warm Hyaluronidase 
+Vinorelbine Vesicant Warm Hyaluronidase 
+ 
+ 
+  
+REFERENCES: 
+Herring, R.A, (ED.). (2019) The Pediatric Chemotherapy and Biotherapy Curriculum. (4th ed.). pg. 186     
+Glenview, IL: Association of Pediatric Hematology/Oncology Nurses. 
+ 

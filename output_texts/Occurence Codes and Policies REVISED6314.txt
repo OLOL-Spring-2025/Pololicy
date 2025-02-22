@@ -1,0 +1,154 @@
+POLICIES  AND PROCEDURES  MANUAL  MANUAL:  PATIENT ACCESS   
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER  CHAPTER :   
+SUBJECT : OCCURRENCE CODE POLICY & PROCEDURE  SECTION :   
+DATE OF ORIGINATION :  MAY MAY 2014 SUPERCEDES:       
+DATE LAST 
+REVIEWED : JAN 2018 
+ 
+ 
+ 
+   
+SERIAL 
+CODE:  
+ 
+ 
+ 
+SCOPE:  
+OLOL Account Billing & Patient Access Departments. 
+PURPOSE:  
+To ensure that appropriate occurrence codes are utilized at the point of registration to 
+define significant events, insurance coverage conditions, monetary, or clinical data that may 
+affect payer processing and payment of the claim. 
+POLICY:   
+Each Access Associate will obtain the nature of the visit from each patient and/or patient 
+representative and utilize the appropriate occurrence codes.  
+PROCEDURE: 
+Access Services personnel will obtain information during the interview process to determine the 
+applicable Occurrence codes and input this information into the patient account via Cerner. 
+ 
+Occurrence Codes – These fields define a specific event relating to the claim that may affect 
+payer processing.  The codes are used to determine liability, coordinate benefits, and administer 
+subrogation clauses in benefit programs. 
+ 
+ 
+Occurrence Code 01 – Accident WITH Liability Coverage – this code and corresponding date 
+indicate the date of any accident for which there is primary liability coverage.  This code 
+identifies an injury or illness that resulted from an accident.   
+ 
+Do not use occurrence code 01 -  Louisiana Law [LRS 22:1871] requires the 
+healthcare provider bill the patient’s available healthcare coverage or if no 
+coverage, list as Private Pay.  
+ 
+Please refer to Occurrence Code 05 for all motor vehicle accidents (MVA). If 
+the patient states that he/she has auto insurance, enter the auto insurance 
+information in comments field. The ASR can scan the front and back of auto insurance card in the documents as a reference.  The auto insurance is NOT 
+selected as the insurance plan. 
+ 
+ 
+Occurrence Code 02 – No-Fault Insurance Involved-including auto accident/other – this 
+code and corresponding date refer to any accident, in a state with no-fault liability laws; i.e., 
+there is a legal basis for settlement without admission or proof of guilt.  This code indicates that 
+the injury or illness involves primary liability coverage.   
+ 
+Do not use 02 - Louisiana is not a No-Fault state. 
+ 
+ 
+Occurrence Code 03 – Accident-Tort Liability – do not use 
+ 
+ 
+Occurrence Code 04 – Accident-Employment-Related – this code and corresponding date 
+indicate that the accident relates to a verified work related accident.   
+ 
+ 
+Occurrence Code 05 – Accident WITHOUT Liability Coverage –  
+This code identifies an injury or illness that resulted from an accident.    
+This code and corresponding date indicate the date of any accident for which 
+there is NO primary liability coverage or when liability coverage is prohibited 
+by state law.   
+Louisiana Law [LRS 22:1871] requires the healthcare provider bill the 
+patient’s available healthcare coverage or if no coverage, list as Private Pay.  
+ 
+The use of an accident code (05) also requires that the accident hour be reported. 
+NOTE*** During the registration process, if the registrar selects the Medicare I-
+plan as primary and uses Occurrence code 05, then the UB Comment fields will be 
+required. The MSP Questionnaire (MSPQ) will need to be completed correctly.  
+ 
+ 
+Occurrence Code 06 – Crime Victim – this code and corresponding date indicate that the 
+patient’s medical condition resulted from an alleged criminal action committed by one or more 
+parties and must be accompanied by the date of the occurrence. 
+ 
+ 
+Medical Condition Codes 
+09 – Start of Infertility Treatment Cycle – this code and corresponding date 
+indicate the start of the infertility treatment cycle. 
+10 – Last Menstrual Period – this code and corresponding date indicate the last 
+menstrual period and apply only when the patient is being treated for a maternity 
+related condition. 
+11 – Onset of Symptoms/Illness – this code and corresponding date indicate the 
+date the patient first became aware of the symptoms or illness being treated.  This code is required in conjunction with the billing of all outpatient therapies, such as 
+OT, PT, ST, and CR. 
+ 
+Insurance Related Codes 
+17 – Date Outpatient Occupational Therapy Plan established or last reviewed 
+– this code and corresponding date indicate the date a plan was established or last 
+reviewed for Occupational therapy 
+18 – Date of Retirement of Patient/Beneficiary – this code and corresponding 
+date indicate the date of retirement for the patient/beneficiary.  Use of this code 
+notifies Medicare that the patient/beneficiary is not a working-aged person, and 
+that Medicare is the primary payer. 
+19 – Date of Retirement of Spouse – this code and corresponding date indicate 
+the date of retirement for the patient’s spouse. Use of this code notifies Medicare 
+that the patient/beneficiary’s spouse is not a working-aged person, and that 
+Medicare is the primary payer. 
+29 – Date Outpatient Physical Therapy Plan Established or Last Reviewed – 
+this code and corresponding date indicate the date a plan of treatment for 
+outpatient physical therapy was established or last reviewed. 
+30 – Date Outpatient Speech Therapy Plan Established or Last Reviewed - 
+this code and corresponding date indicate the date a plan of treatment for 
+outpatient speech therapy was established or last reviewed. 
+32 – Date Beneficiary notified of intent to bill (procedures or treatments) – 
+this code or corresponding date indicate the date the patient was notified by the 
+hospital that the requested level of care (diagnostic procedures or treatments) is not 
+considered reasonable and necessary by Medicare.  If you are submitting a claim at 
+the beneficiary’s request, in addition to this occurrence code, report condition code 
+20, Beneficiary requested billing. 
+35 – Date Treatment started for Physical Therapy – this code and 
+corresponding date indicates the date services were initiated for physical therapy. 
+41 – Date of first test for preadmission testing – this code and corresponding 
+date indicate when the first outpatient diagnostic test was performed as a part of 
+the preadmission testing.  This code may be used only if a date of admission was 
+scheduled prior to the administration of the test(s). 
+44 – Date treatment started for Occupational Therapy – this code and 
+corresponding date indicate when Occupational therapy services were initiated. 
+45 – Date Treatment started for Speech Therapy – this code and corresponding 
+date indicate when Speech therapy services were initiated. 
+46 – Date Treatment started for Cardiac Rehabilitation – this code and 
+corresponding date indicates when cardiac rehabilitation services were initiated. 
+ 
+ 
+Occurrence Span Codes and Dates – UB04/92 Form Locator 36. These span codes and dates 
+identify an event relating to the claim that may affect payer processing.  These codes 
+identify occurrences that happen over a span of time.  Report the code, the beginning 
+(“from”) date and the ending (“through”) date associated with the reported occurrence 
+span code.  
+70 – Qualifying Stay Dates – this code and corresponding dates indicate the “from” and 
+“through” dates of at least a 3-day hospital stay (excluding the day of discharge or death) 
+that qualifies the patient for Medicare payment of the SNF services billed on the claim.  
+This code is required on a SNF or Swingbed claim and the dates in this statement period 
+must indicate at least a 3-day hospital stay. 
+ 
+71 – Prior Stay Dates – this code and corresponding dates indicate the “from” and 
+“through” dates provided by the patient for any hospital stay that ended within 60 days of 
+the current hospital or SNF admission. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+REFERENCES: CMS, MSP Billing instructions 11/3/2006. 
+ 

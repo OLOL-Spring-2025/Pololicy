@@ -1,0 +1,80 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 1 of 2 
+LBA401 
+LABORATORY ADMINISTRATION MANUAL 
+LBA401 
+LABCORP PROCESSES 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 6/11/2020 7/22/2020 7/22/2020 
+Lab Administration Review J. Teague 7/21/2020 Origination Date 
+Laboratory Medical Director Review A Harton 7/10/2020 6/11/2020 
+ 
+ 
+I. SCOPE: 
+To provide guidance on LabCorp processes for specimens received into OLOLRMC and 
+Affiliate Laboratories. 
+II. POLICY: 
+Upon receipt of LabCorp specimens into the laboratory, collection, handling, processing, and 
+requisitioning is performed in accordance with the specifications of LabCorp. 
+III. PROCEDURES: 
+A. Patient Demographic Update Procedure: 
+Incoming interface updates for patient demographics will not process into Epic 
+Beaker. The updates will create an error message that will default into a work queue 
+which will be resolved with the assistance of LabCorp personnel when needed. To 
+update patient demographics such as patient name, gender, and date of birth, use the 
+Requisition Entry application. 
+1.  Enter the Beaker Specimen ID in the Specimen Inquiry application and then 
+select the Requisition Hyperlink. 
+2. Select Requisition Entry, update the necessary information, and then Accept 
+to close the activity. 
+3. Enter the Beaker Specimen ID into Result Entry and then select Result 
+Correction Authorization. 
+4. Upon authorization, open the specimen in Result Entry by selecting Edit. 
+5. Prior to final verification of the result, ensure that the information is updated 
+and correct. 
+6. An updated result message will be sent to LabCorp. 
+B. Test Cancellation Procedure:  
+Test cancellations from LabCorp do not interface into Epic Beaker. If LabCorp test 
+requests interface into Epic Beaker and are not performed, the test requests must be 
+manually cancelled with a reason for the cancellation. 
+C. Additional Testing Requests (Add-On Testing) Procedure: 
+Additional testing requests will interface into Epic Beaker using the same patient 
+account but will be assigned a different Specimen ID from the original specimen. OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+Page 2 of 2 
+LBA401 
+Additional testing requests placed in the Epic Beaker Specimen Update application 
+will add the tests to the original specimen ID. 
+D. Undefined Test Requests Procedure:  
+If not orderable in Epic Beaker, an invalid test code mapping or a new test code will 
+generate an interface error message when the test requests are interfaced from 
+LabCorp. Interface error messages will default into a work queue which will be 
+resolved with the assistance of LabCorp personnel when needed. Specimens received 
+into the laboratory without orders will be handled using the Downtime Procedure 
+below. 
+E. LabCorp Interface Downtime Procedure: 
+If the interface between LabCorp and Epic Beaker are not communicating (interface 
+downtime), the specimens on the LabCorp manifest will not be listed in Epic Beaker. 
+Follow the outlined process below if the interface is not functioning. 
+1. Notify LabCorp and FMOLHS Information Systems. 
+2. Specimens that have limited stability are to be registered to the LabCorp 
+Clinical Account and testing performed immediately.  
+3. Downtime Specimen numbers will be created for any tests that need to be 
+performed.  This number must be entered in order for the report to cross back. 
+4. Specimens that do NOT have limited stability can be prepared for storage (i.e., 
+centrifuged, aliquoted, etc.) and then stored appropriately for future testing. 
+5. When test requests are downloaded, testing is to be performed; therefore, the 
+interface must be monitored regularly for updates. 
+6. Any test requests placed during downtime are to be sequestered into an 
+assigned location. 
+7. For extended downtime procedures, requested tests on the manifest will be 
+registered to the LabCorp Clinical Account and testing performed. 
+8. Print patient reports for all patients included on the manifest. 
+NOTE: Please refer to Lab Policy LBA016 – Computer Downtime for detailed 
+instructions on managing all lab downtimes both expected and unexpected. 
+ 
+IV. REVISIONS: 
+6/11/2020 (created) 

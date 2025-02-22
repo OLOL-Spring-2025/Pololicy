@@ -1,0 +1,255 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Hazardous Drug Training and Safety 
+Program 
+Policy Reference #: PH0551 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for the Hazardous Drug Safety and Training Program where 
+Hazardous Drugs (HDs) are handled within FMOLHS Baton Rouge Market Pharmacies.  
+1.2. Harm to healthcare personnel from occupational exposure to HDs can occur throughout the 
+medication-use process including receipt, storage, transport, compounding, administration, 
+disposal, and spill control. Types of occupational exposure to HDs can include dermal absorption, 
+mucosal absorption, inhalation, injection, and ingestion. 
+1.3. Damage to healthcare workers from HDs can include but are not limited to chromosomal 
+aberrations, reproductive toxicities, and organ toxicities.  
+1.4. Healthcare workers can experience either an acute exposure and/or long-term exposure over an 
+entire career.  Proper HD training, use of Personal Protective Equipment (PPE), and use of 
+environmental controls are mechanisms used to limit occupational exposure to HDs and to limit  
+HD contamination to the healthcare environment.  
+1.5. FMOLHS Baton Rouge Market Pharmacies may exempt some dosage forms of HDs from full USP 
+<800> containment strategies and work practices (as long as they are not Active Pharmaceutical 
+Ingredients (API) or antineoplastic drugs requiring manipulation (beyond counting or 
+repackaging)) if an Assessment of Risk (AoR) is performed. 
+2. Policy  
+2.1 FMOLHS Baton Rouge Market Pharmacies maintain an organization specific list of HDs based on 
+the National Institute of Occupational Safety and Health List of Antineoplastic and Other 
+Hazardous Drugs in Healthcare Settings, 2016 (NIOSH List). The organizational list is maintained 
+by the Designated Person (DP) and is reviewed at least annually. Any new medications added to 
+inventory and/or formulary at FMOLHS Baton Rouge Market Pharmacies  are included on the 
+organization specific HD list if the drug has simila r structure and/or mechanism of action to 
+NIOSH list drugs.   
+2.2 All personnel who handle HDs, not exclusively compounding personnel, receive training and 
+demonstrate competency in the required procedures for the safe handling of HDs before performing any job duties independently. Job duties that require HD training include receiving, 
+stocking, labeling, packaging, transport, administration, cleaning, and transport of HD products 
+or HD waste.   
+• Training is specific to job duty  
+• Cleaning includes:  areas associated with HD preparation or storage, HDs administration 
+areas, patient rooms, and bodily fluids from patients receiving HDs. 
+2.3 Compounding personnel complete all required trainings, competencies, and assessments 
+associated with sterile and/or nonsterile compounding prior to initiating training, competencies, 
+and assessments for HD sterile and/or nonsterile compounding.  
+2.4 Safety Data Sheets (SDS) are available for all drugs on the organizational HD list.  
+ 
+3. Roles & Responsibilities 
+3.1 The Designated Person (DP): 
+• Ensures job-specific competency and documentation of competency for personnel handing 
+HDs within FMOLHS Baton Rouge Market Pharmacies. Personnel who may handle HDs within 
+the organization include, but are not limited to: pharmacy personnel, engineering, nursing, 
+certified nursing assistants, environmental services, and transport. 
+• Ensures all HDs are identified per the NIOSH list and maintains the organizational list of HDs 
+specifically handled at this facility.  
+• Provides immediate access to the SOPs, USP <800> and supporting Chapters and supporting 
+regulations, and other expert documentation to perform job duties successfully and safely. 
+3.2 Personnel who handle HDs or work in the HD compounding and /or storing environment: 
+• Understand the fundamental job-specific practices and precautions for handling HDs 
+• Continually evaluate procedures and the quality of the final HDs to prevent harm to patients 
+and personnel handling HDs. 
+• Follow all procedures for handling HDs to minimize HD exposure to personnel. 
+• Follow all procedures for handling HDs to minimize contamination of the work and patient 
+care environment. 
+4.  Procedures 
+4.1 Organizational List of Hazardous Drugs: 
+• The DP oversees and validates the creation of an organizational list of HDs and dosage forms 
+handled at FMOLHS Baton Rouge Market Pharmacies by comparing drugs on the NIOSH list 
+of Hazardous Drugs to the formulary and identifies drugs that are on both the NIOSH list and 
+on formulary.  
+o DP performs this review annually.   
+• New drugs that are added to formulary at FMOLHS Baton Rouge Market Pharmacies that are 
+either identified as hazardous per the manufacturer or have similar structure and/or 
+mechanism of action to other drugs already on the NIOSH list, are added to the organizational 
+list of HDs.  • Handle all drugs on the organizational HD list with full USP <800> precautions unless an AoR 
+defines specific drug and dosage form handling instructions.    
+• Train all personnel that handle HDs at FMOLHS Baton Rouge Market Pharmacies on the 
+organizational list of HDs and how to access organizational HD list ; training is specific to 
+individual job duties. 
+ 
+ 
+HD Training and Competency: 
+4.2 All personnel entering controlled compounding spaces first comply with all aspects of USP <797> 
+and <795> including but not limited to hand hygiene and garbing policies, conduct in controlled 
+spaces, and personnel training and competencies.  
+4.3 Hazardous Drug training and competency evaluation based on job specific requirements: 
+ 
+ 
+Training and Competency Criteria  
+ Organization
+al HD List 
+Job-
+specifi
+c HD 
+SOPs 
+Require
+d PPE 
+and use 
+Deactivation, 
+decontamination
+, and cleaning  
+HD 
+compoundin
+g techniques 
+Containmen
+t 
+engineering 
+controls 
+HD 
+Exposur
+e 
+respons
+e 
+HD Spill 
+Managemen
+t 
+HD 
+Disposa
+l  
+HD 
+Compoundin
+g personnel x x x x x x x x x 
+Inventory, 
+Receiving, 
+and 
+Stocking 
+Personnel 
+x x x x  x x x x 
+Pharmacy 
+Cleaning 
+Personnel x x x x  x x x x 
+Labeling, 
+Packaging, 
+and 
+Transport 
+Personnel 
+x x x    x x  
+Engineering 
+and/or 
+Maintenance 
+Personnel  x x   x    
+Other 
+personnel 
+and/or 
+visitors 
+  x      x 
+4.4 Successful or “passing” results for the HD Core Competencies and Knowledge Assessment per 
+job-specific competencies and assessments are: 
+• Validation of USP <800> safe HD handling principles knowledge exam with >80% 
+• Observation through a competency-based checklist with 100% proficiency 
+4.5 When requested, FMOLHS Baton Rouge Market Pharmacies provide options of alternate duty 
+for personnel required to handle HDs under the following circumstances: 
+• Females who are pregnant  • Females who are breastfeeding 
+• Personnel actively trying to conceive 
+ 
+Hazardous Drug Safety Program: 
+4.6 Hazardous Drug Risk Acknowledgement: 
+• All personnel who handle HDs in any capacity at FMOLHS Baton Rouge Market Pharmacies 
+read and electronically acknowledge the HD Risk Sign Off form in SoleSource® Simplifi 797®. 
+The HD risk acknowledgement occurs prior to performing any HD handling activities and 
+annually. This HD Risk Acknowledgement includes: 
+o Understanding that HDs are used at FMOLHS Baton Rouge Market Pharmacies. 
+o Awareness that HDs have risks associated with them and those risks are understood by 
+the individual. 
+o Agreement that HD training has been provided to the individual and all tests, 
+competencies and assessments have been completed and passed.  
+o Attestation that all HD SOPs associated with job-specific duties have been provided to the 
+individual, those SOPs are understood by the individual and the individual has been 
+afforded the opportunity to ask questions and have questions answered.   
+4.7 NIOSH List of Hazardous Drugs Acknowledgement:  
+• All personnel who handle HDs in any capacity at FMOLHS Baton Rouge Market Pharmacies 
+read and electronically acknowledge the NIOSH List Review Acknowledgement  form. The 
+NIOSH List Review & Sign -off occurs prior to performing any HD handling activities and 
+annually. This sign-off includes: 
+o Understanding that NIOSH list drugs are used at FMOLHS Baton Rouge Market 
+Pharmacies. 
+o Awareness that an organizational list of NIOSH list drugs exists at the FMOLHS Baton 
+Rouge Market Pharmacies and the individual knows where to find an up-to-date copy of 
+the list.  
+o Awareness that NIOSH list drugs have risks associated with them and those risks are 
+understood by the individual. 
+ 
+Hazardous Drug Exposure Follow-Up Plan:  
+4.8 The FMOLHS Baton Rouge Market Pharmacies’  HD exposure follow-up plan serves as a plan to 
+assess personnel who have experienced an acute exposure to HDs.  
+4.9 The following actions are taken by FMOLHS Baton Rouge Market Pharmacies  during the HD 
+exposure follow-up plan: 
+• A post-exposure examination is performed: 
+o Physical exam is tailored to the type of exposure and focuses on the involved area as well 
+as other organ systems commonly affected. 
+o Treatments and laboratory studies follow as indicated and are guided by FMOLHS Baton 
+Rouge Market Pharmacies’ emergency protocols. 
+• An assessment of the extent of exposure is conducted confidentially and an incident report is 
+completed.  
+o Develop and document action plan to determine source of exposure and/or prevent 
+additional exposure of personnel.  o Compare performance of engineering controls to applicable standards. 
+o Verify and document all engineering controls in proper operating condition. 
+o Verify and document the involved personnel complied with all applicable SOPs. 
+o Review SOPs for the use of proper PPE and review employee training and compliance with 
+PPE use and SOPS.  
+o Review Quality Assurance audits of personnel work practices and compliance.  
+o Ensure all required PPE is available for personnel. 
+• Provide and document a follow -up medical survey to demonstrate the implemented plan is 
+effective.  
+• Ensure any exposed personnel receive confidential notification of any adverse health effect. 
+Offer alternative duty or temporary reassignment. 
+ 
+5. Definitions 
+5.1 Active Pharmaceutical Ingredients (API): Any substance or mixture of substances intended to be 
+used in the compounding of a drug preparation, thereby becoming the active ingredient in that 
+preparation and furnishing pharmacological activity or other direct effect in the diagnoses, cure, 
+mitigation, treatment, or prevention of disease in humans and animals or affecting the structure 
+and function of the body. 
+5.2 Assessment of Risk (AoR) : Evaluation of risk to determine alternative containment strategies 
+and/or work practices. 
+5.3 Containment Primary Engineering Control (C-PEC): A ventilated device designed and operated to 
+minimize worker and environmental exposures to HDs by controlling emissions of airborne 
+contaminants. 
+5.4 Containment Secondary Engineering Control (C-SEC): The room with fixed walls in which the C -
+PEC is place. It incorporates specific design and operational parameters required to the contain 
+the potential hazard within the compounding room.  
+5.5 NIOSH: National Institute of Occupational Safety and Health 
+5.6 Safety Data Sheets (SDS): An informational document that provides written or printed material 
+concerning a hazardous chemical. The SDS is prepared in accordance with the HCS. 
+5.7 Trace HD Waste : Materials that have come into contact with or may contain only a residual 
+amount of HD. Usually less than 3% of HD material by weight.   
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc. <795> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.3 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version. 
+6.4 NIOSH List of Antineoplastic and Other Hazardous Drugs in Healthcare Settings, 2016 -161. 
+Retrieved 12/2022.  
+6.5 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 6.6 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22.   
+ 
+ 
+ 
+ 
+ 
+7. Approval and Review Summary 
+ 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 

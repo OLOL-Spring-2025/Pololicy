@@ -1,0 +1,146 @@
+OUR LADY OF THE LAKE ASCENSION   
+ 
+POLICIES AND 
+PROCEDURES: 
+  
+PLANT OPERATIONS 
+EFFECTIVE DATE: 
+  
+2/09 
+NUMBER:    
+STELPLT395 
+SUBJECT: 
+PNEUMATIC TUBE SYSTEM 
+Page 1 of 2 
+Reviewed/Revised: 
+12/09, 12/11, 8/12, 6/15, 3/18, 10/19, 7/21 
+APPROVED BY: 
+Justin Brown 
+    
+  
+  
+  
+Applies to:       
+  
+All departments 
+ 
+Pneumatic Tube System 
+ 
+I. LOCATIONS: 
+Main Control PC (Plant Operations Office) 
+Main Equipment Room Surgery (Semi Sterile Corridor) 
+Station 110  -  Emergency Room 
+Station 111  -  Laboratory 
+Station 112  -  ICU 
+Station 113  -  Surgery Holding                           . 
+Station 120  -  Pharmacy 
+Station 121  -  Nurse Station Telemetry 
+Station 122  -  Charge Nurse Station 
+Station 123  -  Medicine Hall 1 (Alert Station only) 
+Station 124  -  Medicine Hall 2 (Alert Station only) 
+Station 125  -  Surgery Hall (Alert Station only) 
+ 
+II. DESCRIPTION: 
+Computer controlled electro-pneumatic tube system for the purpose of distributing 
+medications and lab specimens throughout the facility. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+POICIES AND PROCEDURES – CONTINUED                                          Page 2 of 3 
+PNEUMATIC TUBE SYSTEM 
+ 
+ 
+ 
+ 
+III. OPERATION: 
+A. Load specimen into carrier ENSURE that latches are closed  
+     completely. 
+B.  Set carrier onto dispatcher with latches sealed, 
+C.  Using the keypad, send carrier to your selected destination station#. 
+ 
+IV. WHEN THIS SYSTEM FAILS: 
+A. The house supervisor /or/ the plant operations personnel will go to the main 
+control PC in the plant operations office and will first log-in by entering the user 
+name (admin) and password (admin) into the system page of the Swisslog 
+operating program. 
+B. Next, go to the event log page to determine what caused the system to fail. 
+C. After determining that the cause of the problem has been cleared /or/ an attempt 
+needs to be made to resume operation of the system – clear the event log item(s) 
+/or/ clear all. 
+D. The system should be restored to operation. 
+E. In the event that there is still a problem and the system is still down – call the 
+(oncall) plant operation personnel to return to the hospital and further investigate 
+the failure. 
+F. Problem still persists: Plant Operations will call for SwissLog Customer Service: 
+1-800-396-9666, Account # 11063. 
+ 
+V. CLEANOUT  PROCEDURE: 
+When spillage of liquid occurs within the pneumatic tube system, the station sending 
+the carrier and receiving station involved should be noted. Also, the contents of the 
+broken container should be noted to aid in proper cleanup. 
+ 
+The entire system or part of the system may require shutdown to prevent transferring 
+the spillage to the entire system. 
+ 
+After identifying the segment of the system involved when the spillage occurred, sign 
+off the zone. If the carrier was enroute from one zone to another, both zones should 
+be signed off and the interzone pipes cleaned out. 
+ 
+To aid in cleanup a standard carrier can be used with the TransLogic cleanout 
+container. The cleanout container provides a means of getting cleaning solution to the 
+inside of the transmission lines and the carrier acts as a swab in the cleanout 
+operation. 
+ 
+ 
+POICIES AND PROCEDURES – CONTINUED                                          Page 3 of 3 PNEUMATIC TUBE SYSTEM 
+ 
+ 
+ 
+Add water mixed with a suitable cleaning agent to the container, to within a quarter 
+inch of the holes. Install the bottle cap and hand tighten. 
+ 
+Insert the container in the carrier. Be sure carrier is properly closed and latched. 
+Holding the carrier in the vertical position, take it to the sending station where the 
+spillage occurred. Place the container in the dispatcher. 
+ 
+With the system or zone turned off, go to diagnostics and set up the same air path 
+which existed when the spillage occurred. When the carrier and container are in the 
+horizontal position, the cleaning solution will be automatically dispensed. 
+ 
+Send the carrier to the destination station involved when leakage occurred. Be sure to 
+have someone at this station to remove the carrier upon arrival in the receiver. 
+(Horizontal position of the carrier will continue to dispense cleaning solution in the 
+station receiver) 
+ 
+It may be necessary to repeat this procedure several times in the affected line. It may 
+also be necessary to extend this procedure to more than just two stations. It depends 
+on the quantity of the transactions occurring after the spillage. 
+ 
+After running the cleaning carrier through the line several times, remove the container 
+and the carrier and continue to send the empty carrier in the affected transmission 
+line. The carrier wear bands will pick up the excess cleaning solution from the line. 
+Occasionally remove the carrier from the system and towel dry the wear bands to 
+speed up drying time.  
+ 
+NOTE 
+ 
+1. A slight amount of cleaning solution remaining in the transmission line will not 
+affect the system’s operation. 
+ 
+2.  Remember, good judgment is required in the clean-up after any accident. Use the 
+same precaution in the selection of a cleaning agent that would be used if the 
+spillage occurred on the floor. Sticky solutions should be avoided. One 
+recommended solution is a 10% bleach solution. 
+             
+ 
+ 
+6/15 added swiss log acct # 
+3/18 No Changes 
+10/19 Name Change 
+7/21 No Change 

@@ -1,0 +1,209 @@
+ 
+Respiratory Therapy: Oxygen Therapy Protocol 
+ 
+Approved by Respiratory Informatics and PAC  
+August 2016 
+ 
+1 Formatted: Left
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter:  
+Subject:  Oxygen Therapy Protocol Section: Patient Care Therapy 
+Date of Origination: January 1996 Supersedes:  
+Date of Last Revision:  May 17, 2017September 1, 2015 Serial Code: RC7-18 
+Date of Last Review:  May 28, 2018 May 17, 2017September 1, 2015  
+ 
+I. Purpose: To implement a physician-approved plan for the management of the patient’s 
+supplemental oxygen in order to provide oxygen therapy to patients. 
+ 
+II. Protocol:  Specific guidelines for the Respiratory Care Practitioner to utilize the 
+following protocol to evaluate, treat, and monitor appropriate oxygen administration for 
+all non-mechanically ventilated patients.   
+A. Patient Type - all patients currently receiving oxygen will be evaluated 
+B. Clinical Area- All patient care areas. 
+C. Oxygen therapy devices - Oxygen therapy should be started at the lowest possible 
+levels to maintain SpO2 92% or SpO2 >89% for chronic pulmonary disease, unless 
+otherwise ordered and specified by the physician. The respiratory therapist will 
+choose the appropriate oxygen delivery device for the patient according to FiO2 
+need and inspiratory flow. Devices include the following: 
+a. Low flow nasal cannula 
+b. High flow nasal cannula 
+c. Venturi mask 
+d. Non-rebreathing mask 
+e. Trach collar 
+f. Face tent  
+g. Aerosol mask 
+  
+III. Indications for Oxygen Therapy  
+A. Indications for Oxygen Therapy include: 
+a. Documented hypoxemia (PaO2 <60mmHg or SpO2 as defined below) 
+b. An acute care situation usually associated with hypoxia (e.g. pulmonary 
+edema, drug overdose, or carbon monoxide poisoning). 
+c. Clinical signs or symptoms of hypoxia (e.g. tachycardia, tachypnea, dyspnea, 
+cyanosis, diaphoresis, confusion, anemia, or chest pain). 
+d. Acute myocardial infraction with continuing pain, arrhythmias, or congestive 
+heart failure. 
+e. Immediate post-operative period (Post Anesthesia Room) until the patient is 
+awake and vital signs are stable. 
+f. Adult respiratory distress syndrome 
+g. Acute pulmonary embolism 
+h. Acute asthma 
+Formatted: Font: Not Bold
+Formatted: Indent: Before:  -0.3", Numbered + Level: 1 +
+Numbering Style: I, II, III, … + Start at: 1 + Alignment: Right
++ Aligned at:  0.05" + Indent at:  0.3"
+Formatted: Indent: Before:  -0.05"
+Formatted: Indent: Before:  -0.3", Tab stops:  -1", Left
+Formatted: Snap to grid
+Formatted: Automatically adjust right indent when grid is
+defined, Numbered + Level: 2 + Numbering Style: A, B, C, …
++ Start at: 1 + Alignment: Left + Aligned at:  0.19" + Indent
+at:  0.44", No widow/orphan control, Adjust space between
+Latin and Asian text, Adjust space between Asian text and
+numbers
+Formatted: Complex Script Font: 10 pt, Don't snap to grid
+Formatted: Indent: Before:  0.56",  No bullets or numbering 
+Respiratory Therapy: Oxygen Therapy Protocol 
+ 
+Approved by Respiratory Informatics and PAC  
+August 2016 
+ 
+2 Formatted: Left
+i. Acute exacerbations of COPD 
+j. Acute pneumonia 
+k. Newborn respiratory distress syndrome 
+l. Other medical/surgical emergencies including: 
+1. Head and blunt chest trauma 
+2. Hepatic failure 
+3. Acute pancreatitis 
+4. Shock - septic, hemorrhagic, cardiogenic, etc. 
+5. Post-seizure 
+6. Aspiration pneumonitis 
+  
+IV.  Clinical Responsibilities: 
+A. Adult patients  
+a. Initiation of Protocol:  All patients admitted to the hospital with oxygen 
+orders will be placed on the protocol unless the physician states otherwise. 
+Once the initial order received, the respiratory therapist will assess the 
+patient, and the therapist will decide which oxygen delivery device (if any) 
+will be used, based on the protocol.  Any patient with SpO2 < 92% may be 
+placed on O2 starting with nasal cannula @ 2 lpm or as needed            to 
+maintain SpO2 > or = 92%. 
+b. Titration - The respiratory therapist will titrate the flow rate and FiO2 to 
+maintain SpO2 >92% or for patients with a diagnosis of COPD, the 
+acceptable SpO2 will be >89% or as specified by the physician. During the 
+titration period, if the patient exhibits persistent difficulty maintaining 
+acceptable SpO2 > or = 92%, (or as per specific SpO2 physician order) the 
+respiratory care practitioner will immediately place the patient back on their 
+last FiO2 setting, which met criteria. The result will be documented in the 
+patients’ EMR. 
+c. Weaning: Whenever weaning a patient on supplemental oxygen, always wait 
+a minimum of 15 minutes after any FIO2 changes before performing a 
+follow-up pulse oximeter reading. Once SpO2 is > or = to 92% or to SpO2 
+as specified by physician on room air for 24 hours, the order oxygen may be 
+discontinued. The patients may have their oxygen therapy discontinued if 
+the following criteria are met: 
+1. Able to maintain SpO2 > 92% on room air for 24 hours (or specific 
+SpO2 per physician orders) 
+2. Vital signs have remained stable.  
+3. While a patient is receiving oxygen therapy, a SpO2 will be 
+performed at least once per day, and more often as a patient’s 
+condition warrants it. These will be documented in the patient’s 
+EMR. 
+d. Patients with home oxygen. The oxygen protocol will apply until the oxygen 
+is weaned to the prescribed home setting. 
+Formatted: Font: Bold, Complex Script Font: 12 pt, Snap to
+grid
+Formatted: Indent: Before:  1.44",  No bullets or numbering 
+Respiratory Therapy: Oxygen Therapy Protocol 
+ 
+Approved by Respiratory Informatics and PAC  
+August 2016 
+ 
+3 Formatted: Left
+  
+B. Pediatric patients 
+a. Initiation of protocol -All pediatric patients on respiratory therapy will be 
+monitored to maintain SpO2 greater than 94% or as specified by physician 
+orders.  
+b. Titration- Adjustments in FiO2 will be made by the Respiratory Therapist, 
+while maintaining SpO2 at or above.  The lowest possible flow will be used 
+for the above criteria.  Optimally, a SpO2 will be obtained prior to initiation 
+of O2 therapy.  If during titration the patient is unable to maintain an 
+acceptable SpO2 of 95%, return to previous liter flow that met criteria 
+c. Weaning – Oxygen therapy will be weaned as tolerated for SpO2 > 94%.  
+The patient may have his/her O2 discontinued if patient able to maintain 
+SpO2 and status remains stable.   
+  
+V. Guidelines/Warnings: 
+A. If O2 requirements reach > 50% physician/nurse will be notified of SpO2 and O2   
+setting.  If patient has history of COPD, SpO2 should be maintained > or = 89% or 
+as specified by physician 
+ 
+B. Do not continue weaning process if patient develops: 
+a. A pulse greater than 120 bpm, or if adjustment of FI02 results in a pulse 
+increase of 20 bpm 
+b. Significant EKG change, e.g. onset of arrhythmias or ischemic morphology 
+c. A change in sensorium occurs, e.g. confusion, lethargy, etc. Notify physician 
+of change in patient’s condition 
+d. If patient demonstrates an increase in work of breathing 
+e. Clinical signs and symptoms of low oxygenation as listed above. 
+ 
+ NOTE:  If patient is not tolerating FIO2 titration, procedure, return patient to previous 
+FiO2, as clinically indicated, reassess patient, and continue the titration procedure if 
+possible. If FiO2> 50%, it is required to contact physician for further instructions.  
+ 
+          
+ 
+ 
+ 
+ 
+PURPOSE: 
+The purpose of this policy is to implement a physician -approved plan for the 
+management of the patient on supplemental oxygen. However, it must be noted that this 
+protocol should not take precedence over good clinical judgement. 
+ 
+POLICY: 
+Formatted: Indent: Before:  0.86",  No bullets or
+numbering, Tab stops: Not at  0.86"
+Formatted: Indent: Before:  0.86",  No bullets or
+numbering, Tab stops: Not at  0.86"
+Formatted: Indent: Before:  0.31", Tab stops: Not at  -1" 
+Respiratory Therapy: Oxygen Therapy Protocol 
+ 
+Approved by Respiratory Informatics and PAC  
+August 2016 
+ 
+4 Formatted: Left
+A. Initiation of Protocol 
+All patients admitted to the hospital with oxygen orders will be placed on the 
+oxygen protocol unless the physician states otherwise. The protocol will be in 
+place upon the input of oxygen orders. Once the initial order is received, the 
+respiratory therapist will assess the patient, and the therapist will decide which 
+oxygen delivery device (if any) will be used  to maintain an SpO2 >92% . Pulse 
+Oximetry will be used to determine the SpO2 measurement. W hen oxygen 
+devices are changed or flow settings and FiO2 settings change per protocol, the 
+respiratory therapist may modify the original oxygen order per protocol.  If the 
+FiO2 requirements consistently increase and/or exceeds 50%, the physician will 
+be notified of the patient’s oxygen requirements.   
+ 
+B. Discontinued Oxygen Therapy 
+Once the patient has been weaned to room  air per protocol, and remains on room 
+air for 24 hours and maintains an SpO2 >92%, then the oxygen protocol will be 
+discontinued.  
+ 
+C. Oxygen Protocol and COPD Patients 
+Once the order for oxygen has been placed in Cerner by the physician, the patient 
+will be placed on oxygen at the prescribed rate, and the respiratory therapist will 
+titrate the flow rate and FiO2 to maintain SpO2 >92%.  For patients with a 
+diagnosis of COPD, the acceptable SpO2 will be >89%.  
+ 
+D. Oxygen Protocol and Patients on Home Oxygen 
+All patients who are currently using home oxygen will have a single room air 
+pulse oximeter reading performed. In the event that the room air saturation is 
+greater than 92%, the physician will be notified. The oxygen protocol will apply 
+until the oxygen is weaned to the prescribed home setting.  
+ 
+Whenever weaning a patient on supplemental oxygen, always wait a minimum of 15 
+minutes after any FIO2 changes before performing a follow -up pulse oximeter 
+reading.          

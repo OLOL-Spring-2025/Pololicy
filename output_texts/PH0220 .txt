@@ -1,0 +1,110 @@
+ Policy Reference Number 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Patient Care 
+Services 
+Title: Clozapine Dispensing & Monitoring  Policy Reference #: PH-02-20 
+Supersedes #:  
+Date of Origination: April 24, 2014 Last Date Reviewed: 3/13/2024 
+Last Date Revised: 07/17/2023 
+ 
+PURPOSE: 
+To ensure Our Lady of the Lake Regional Medical Center is compliant with the monitoring and 
+reporting requirements outlined by the Clozapine Risk Evaluation and Mitigation Strategy (REMS) 
+Program as required by the Food and Drug Administration (FDA). 
+ 
+DEFINITIONS:  
+The Clozapine REMS Program provides a centralized point of access for prescribers and pharmacies to 
+enroll and manage patients on clozapine as well as certify before prescribing and dispensing clozapine. 
+The purpose of the Clozapine REMS Program is to minimize the risk of severe neutropenia associated 
+with the use of clozapine.    
+ 
+POLICY: 
+I. The inpatient pharmacy is enrolled in the Clozapine REMS Program which allows the pharmacy 
+to purchase and dispense clozapine. In compliance with the Clozapine REMS program, the pharmacy 
+staff must enroll in the program to complete required eligibility checks before dispensing clozapine. 
+ 
+II. Psychiatrists with privileges at the hospital and psychiatric residents must be certified with the 
+Clozapine REMS Program to prescribe clozapine.  
+ 
+III. Patients must be enrolled in the Clozapine REMS Program to receive clozapine while inpatient. 
+ 
+A. If a patient is not enrolled and the provider is not a psychiatrist, a consult to psychiatry or 
+a certified prescriber must be initiated by the ordering prescriber to enroll the patient before they 
+are eligible to receive clozapine.  
+ 
+IV. Prescribers ordering clozapine for the continuation of patient’s home therapy while receiving 
+inpatient care will not be required to become certified with the Clozapine REMS program if the patient 
+is already enrolled in the program.  
+ 
+V. Pharmacists must complete an eligibility check through the program website or by calling the 
+contact center prior to dispensing clozapine. Patients prescribed clozapine as a continuation of home 
+therapy must be registered in the Clozapine REMS Program. Pharmacist must complete an eligibility 
+check through the program website or by calling the contact center prior to dispensing clozapine. 
+A. Effective November 19, 2021, FDA temporarily suspended certain Clozapine REMS 
+Program requirements. While this guidance is in effect, FDA does not intend to object if: 
+Commented [CE1]: Added per Dr. Tynes 
+Commented [CE2]: Added per Dr. Tynes 
+Commented [MBL3]: I think Dr. Tynes wanted this 
+reworded so that it didn’t sound like a psychiatry consult 
+needed to be placed on every clozapine patient, unless that is 
+what the beginning of the sentence is serving. If that’s the 
+case, ignore this comment 😊 
+Commented [CE4R3]: So if the patient is not enrolled in the 
+program, then the patient will need to be enrolled by 
+psychiatry or the ordering physician will have to become 
+certified to prescribe.  
+Formatted: Font color: Auto Policy Reference Number 
+Page 2 of 2 
+1. Pharmacists dispense clozapine without a REMS dispense authorization (RDA) 
+that checks for patient enrollment and an updated Patient Status Form. 
+2. Pharmacists may use their clinical judgement to dispense clozapine if a patient is 
+not yet enrolled in the modified REMS or if a Patient Status Form hasn't been submitted. 
+3. Prescribers should continue to use the Patient Status Form as appropriate and 
+submit the form monthly. 
+4. Wholesalers ship clozapine to pharmacies and health care settings without 
+confirming enrollment in the REMS. 
+B. Abrupt discontinuation of clozapine can result in significant complications for patient 
+treatment. Health care professionals should use their clinical judgment with regard to prescribing 
+and dispensing clozapine to patients with an absolute neutrophil count (ANC) within the 
+acceptable range. 
+ 
+ 
+VI. Pharmacists will use the “Clozapine REMS Eligibility Fact Sheet for Inpatient Pharmacist” 
+issued by the Clozapine REMS Program as guidance in determining the appropriateness in dispensing 
+clozapine.  
+ 
+A. If the eligibility check is not successful, the pharmacist must contact the prescriber and/or 
+psychiatrist. A certified prescriber must then enroll the patient in the Clozapine REMS program 
+using the Clozapine REMS Program website to continue with therapy. 
+ 
+B. If the eligibility check warrants applying clinical judgement, the pharmacist will contact 
+the prescribing physician to either consult psychiatry or to get prior approval before dispensing 
+the medication.  
+ 
+VII. A baseline complete blood count (CBC) with differential must be ordered prior to dispensing 
+clozapine. If a baseline CBC with differential is not ordered, a pharmacist will order one to be obtained 
+within 24 hours of clozapine being ordered. If ANC is not received within 24 hours, contact prescribing 
+physician for clinical judgement on whether to dispense or not.  
+ 
+VIII. Pharmacy will monitor the absolute neutrophil count (ANC) in accordance with the ANC 
+monitoring schedule as outlined by the Clozapine REMS Program. Pharmacy can report the results by 
+using the program website or calling the contact center. 
+ 
+IX. The inpatient pharmacy will maintain electronic monitoring forms for all patients receiving 
+clozapine therapy. Monitoring forms will be documented in patient chart by opening an intervention 
+under the “Evaluation of High Risk” type and attaching to the clozapine order. 
+ 
+REFERENCES: 
+ 
+Clozapine REMS Program. www.clozapinerems.com. Accessed January 26, 2022  
+ 
+SUPPORTING DCOUMENTS 
+ 
+Clozapine REMS Eligibility Fact Sheet for Inpatient Pharmacist  
+Formatted: Font color: Auto
+Formatted: Font color: Auto
+Formatted: Font color: Auto
+Formatted: Outline numbered + Level: 2 + Numbering
+Style: A, B, C, … + Start at: 1 + Alignment: Left + Aligned at:
+ 0.5" + Indent at:  0.5"

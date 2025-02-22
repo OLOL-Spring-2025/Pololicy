@@ -1,0 +1,106 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Patient Care 
+Subject:  Pulmonary Function Testing  
+Date of Origination: September 1984 Supersedes:  
+Date of Last Revision: February 1, 2024 Serial Code: RC10-3 
+Date of Last Review:  February 1, 2024 
+          
+FORMATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY:  
+Respiratory Care 
+ 
+POLICIES: 
+A. Pulmonary Function Studies will be available in labs located on the OLOL main 
+campus and Ascension Campus. Testing is available Mon - Fri from 7a to 3p 
+excluding holidays at OLOL, and Monday-Thursday7a to 3p at Ascension 
+Campus. Patients will be scheduled during hours that the lab is open.  
+B. Pulmonary Function Tests may be ordered by faxing an order to the pulmonary 
+function lab or placing the order electronically in the EMR.  Respiratory Therapy 
+or central scheduling will call the patient and schedule the testing time with the 
+patient in an appropriate time slot. At that time, the respiratory therapists or 
+scheduler will give the patient pre-testing instructions specific to the tests that will 
+be performed. If a patient arrives at the lab more than 30 minutes after the 
+scheduled time, the patients test may not be able to be performed due to the 
+constraints of the schedule.  In this event, the patient will be rescheduled at a later 
+date.  
+C. Tests may be cancelled if the patient does not follow the pre-testing instructions. 
+D. The respiratory therapist in the PFT lab will charge the patient according to 
+procedures in EPIC.  
+E. The following testing and/or treatment may be performed in the PFT lab when 
+ordered by a physician: 
+1. Complete PFT with Body Box  
+2. Complete PFT with Nitrogen Washout  
+3. Simple PFT without Bronchodilator  
+4. Complete Spirometry  
+5. Bronchial Provocation  
+6. 6 Minute Walk  
+7. IOS  
+8. ABG  
+9. Sputum inductions  
+10. Nebulized medication treatments  
+11. Cardiopulmonary Exercise Testing (OLOL Main Only) 
+12. Maximal Inspiratory Pressure (MIP)  
+13. Maximal Expiratory Pressure (MEP)  
+14. HAST Testing (Ascension Campus Only) 15. Fraction of Exhaled Nitric Oxide (FeNO) 
+F. For inpatients, when a Complete PFT is ordered, the following procedures will be 
+performed 
+a. FVC  
+b. MVV 
+c. DLCO 
+d. Lung Volumes 
+e. SVC 
+f. FRC 
+G. For outpatients, when a Complete PFT is ordered, the following procedures will 
+be performed 
+a. FVC 
+b. SVC 
+c. MVV (OLOL Main and Ascension Campus) 
+d. DLCO 
+e. MIP/MEP (at physician request – OLOL Main and Ascension) 
+f. Lung Volumes (OLOL Main and Ascension Campus) 
+g. Plethysmography 
+ 
+ 
+H. When a Complete PFT is performed, if any value within the FVC maneuver is 
+less than 100% of the predicted value, then the respiratory therapist will 
+administer a bronchodilator, and then repeat the FVC maneuver 15 minutes after 
+medication is administered.  This will be the process followed unless otherwise 
+ordered by the physician. 
+I. For all MDI medications, a holding chamber will be issued to each patient for 
+single patient use, and a common canister MDI will be used. The MDI will be 
+cleaned with alcohol prep pads before and after medication administration.  
+Proper hand washing will be performed before and after patient treatment. For 
+replacement of MDI, the PFT lab personnel will send a request to pharmacy.  
+Once the PFT lab receives the replacement MDI, a label is placed on the canister 
+stating the date it is opened.  The MDI will expire one year after opening the MDI 
+or the expiration date on the canister, whichever occurs first. The MDI will be 
+stored at room temperature and in a secured location.  
+J. For Complete PFT, a bronchodilator will be administer after the first FVC.  
+1. At the Regional Medical Center, the bronchodilator to be used will be 
+albuterol via MDI, 2 puffs with a holding chamber.  
+2. At Lake Ascension Campus, the  bronchodilator to be used for pre/post 
+testing will be Terbutaline 2mg per nebulizer administered by PFT lab 
+personnel. At the regional campus,  
+K. A physician from Pulmonology will be available for questions or direction during 
+testing hours. CCMS can be reached at 765-5864. 
+L. All adult studies will be sent to a pulmonologist from CCMS, Baton Rouge 
+Clinic, Ascension MOB or LSU to interpret. If a study is completed on a pediatric 
+patient, it will be sent to the Pediatric Pulmonary LPG clinic for interpretation. 
+The PFT will be recorded and interpreted in the patient’s EMR.  
+Commented [ASA1]: Different process at Ascension, we use 
+terbutaline M. The respiratory therapist will notify the ordering physician for any 
+contraindication. The physician may then decide if the test should be conducted or 
+not. Absolute contraindication includes a patient with an artificial airway or 
+diagnosis of any airborne infectious disease.  Including, but not limited to 
+tuberculosis, chicken pox and shingles. Contraindications to Pulmonary Function 
+Testing include the following: 
+1. Recent Myocardial Infarction or Stroke 
+2. Increased ICP 
+3. Chest Pain 
+4. Suspected Tuberculosis  
+5. Recent Eye Surgery 
+6. Dementia or confusion 
+ 

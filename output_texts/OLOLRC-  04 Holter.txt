@@ -1,0 +1,136 @@
+Holter SOP Respiratory Therapist: 
+RMC, Ascension, Livingston, North, Assumption 
+Order and Patient Data entry: 
+1. Order placed by provider. (3-7 day or 8-15 day) 
+2. Therapist reviews for accuracy in EPIC profile 
+3. Locate Body Guardian Mini EL and check date located on the side of the box. Please make sure 
+that device has not been shelved longer than 30 days, if so, this device should be charged or 
+another device should be used for testing.  
+4. Remove three serial labels located in setup box, these labels are used for device tracking and 
+departmental logs.  
+5. Enroll patient in Preventice Portal, https://secure.preventice.com/, or 
+http://www.preventice.com/ 
+6.  please user Patient view Login located at top right of user window.
+ 
+a. Type your Username and Password and click Login. 
+b. Click the Enrollment tab
+ 
+c. *Enter the physician and patient information. Required fields are marked in yellow. * 
+7. In the Patient Device Information section, make the following selections: 
+•  Service Type: Holter.  
+• Device: Body Guardian Mini. 
+• Hook-up Location: Home or Office. Always Select OFFICE 
+• Delivery Type: Given to Patient or Send to Patient. 
+• Serial Number: Select or type the serial number for the device, if applicable. 
+• Deploy Duration: Duration of the study. 
+8. Complete the remaining fields, as appropriate. 
+9. Click Enroll 
+10. Click Save & Enroll 
+11. If any required fields are empty, Patient View displays a message. Enter any missing. 
+12. information and click Submit. 
+*** If a physician is new or not found in drop “Ordering Physician” a NPI will be needed for the 
+Physician, this information can be found on https://npiregistry.cms.hhs.gov/ 
+Patient set-up: 
+ 
+1. If hair is present, remove hair where the patient will place the Strip or the electrodes. 
+Apply Strip or electrodes only to intact, clean skin. Do not apply over open wounds, 
+lesions, infected, or inflamed areas. If you have skin allergies, hypersensitivities, or 
+experience skin irritation while wearing the monitor, consult your doctor to select the 
+most appropriate option. 
+2. Thoroughly clean the area with soap and water. Dry the area completely. 
+• Important: Do not abrade the skin. Do not use Nu Prep, alcohol wipes, or any solution not 
+provided in the Preventice box. 
+3. Do not apply any lotions or oils. 
+4. Attach the Body Guardian Mini monitor to the Strip. 
+• Place the Strip on a flat surface. 
+• Slide the monitor into the black molding on the Strip until the micro-USB connector on the Strip 
+is inserted completely into the monitor. 
+• Ensure the connector on the Strip is inserted completely into the monitor. There should be no 
+space showing between the black molding and the monitor. 
+• Vertical placement (recommended) 
+•  
+• Note Ensure the uppermost arrow on the Strip on your chest is pointing up. 
+• One finger below the Jugular Notch 
+Horizontal placement 
+If you are placing the monitor horizontally, place the right side of the Strip near the center of the chest 
+over the sternum: 
+ 
+ 
+5. Apply the Strip 
+• Hold the monitor and Strip assembly and peel away backing (1) from the Strip. 
+• Important: When removing the adhesive backing, make sure there are no folds or wrinkles in 
+the patch, as this will damage the patch and prevent it from working properly. 
+• Place the portion of the Strip with the adhesive exposed flat on your chest in one of the 
+placement locations. 
+• Slowly peel away backing (2) from the Strip as you press the Strip flat on your chest. Press the 
+entire surface of the Strip against the skin to ensure it adheres.  
+o Caution: Apply only to intact, clean skin. Do not apply over open wounds, lesions, 
+infected, or inflamed areas. If you have skin allergies, hypersensitivities, or experience 
+skin irritation while wearing the monitor, consult your doctor to select the most 
+appropriate options. 
+ 
+Power on the monitor: 
+1. Press the power button once to power on the Body Guardian Mini 
+ 
+If contact between the Strip or electrodes and the patient's skin is satisfactory: 
+The monitor makes a quick series of three rising beeps and the green light blinks every 5 seconds. 
+This means you are successfully monitoring. 
+ 
+ 
+If contact between the Strip or electrodes and the patient's skin is NOT satisfactory: 
+The monitor alerts you with two beeps every second. If this occurs revisit the previous steps to ensure 
+that: The monitor is securely attached to the Strip, Bridge or ECG lead set, The Body Guardian Mini is 
+properly placed and securely adhered to the patient's chest. 
+2. Power on the monitor by pressing and releasing the center button on the monitor once. 
+ 
+3. If the monitor does not beep twice every one second, you are successfully monitoring. 
+ 
+Patient notes/Education: 
+• The accessories (Strips, Bridge, and ECG lead set) are waterproof and can safely be submerged in 
+water as deep as three feet. The monitor is waterproof when plugged into an accessory that 
+does not leave the micro-USB port exposed. The micro-USB port should not be exposed to 
+water. You do not need to remove Body Guardian Mini when showering or bathing. If you are 
+swimming in water deeper than three feet, remove the monitor. If micro-USB connector on an 
+unattached monitor is exposed to water, open air dry for at least 1 hour before reattaching to a 
+strip, lead set or charger. 
+• If you feel symptoms related to why your monitor was prescribed, such as dizziness, chest pain, 
+or shortness of breath, press the Body Guardian Mini button once until you hear a beep. You 
+can also manually record in the patient diary (located in setup box), write the date, time, 
+and any symptoms that you experienced. When you finish monitoring, return the patient diary 
+with the monitor. 
+• Once setup is complete, please instruct the patient on how to send the device back to 
+Preventice: 
+ 
+1. Place all equipment into shipping box. 
+2. Call 888-500-3522 for pickup at patient’s residence (preferred method) 
+3. Any UPS or FedEx (no USPS) 
+4. Failure to return device will result in additional charges billed to the patient. 
+5. Please write the day on estimated Holter completion on the outside of BOX 
+prior to patient leaving, this ensures Preventice knows the length of the study 
+ordered.  
+6. Educate on turning off device prior to closing box and shipping.  
+7. If there are any issues with device, please make sure that the Patient contacts 
+the customer service number to trouble shoot device. (888-500-3522) 24/7 
+service is provided.  
+ 
+Therapist will complete the charges in EPIC, under flowsheet
+ 
+ 
+ 
+ 
+Once the Holter report is processed by Preventice and the report is ready to be read by a cardiologist,  
+Kelly.Gondron@fmolhs.org, Kelly SaizanGondron, at LCA will link the report to an order in EPIC and 
+assign to cardiologist. 
+FOR PRACTICE ADMINISTRATION USERS: 
+Billing:
+ 
+ 
+*You can Filter as needed within excel, note that the CPT code reference column will need to be 
+expanded to see all billable codes for each patient.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

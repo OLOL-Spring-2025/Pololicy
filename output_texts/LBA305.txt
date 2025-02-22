@@ -1,0 +1,96 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 1 of 2 
+LBA305 
+LABORATORY ADMINISTRATION MANUAL 
+LBA305 
+ 
+PATIENT REPORTING  
+ 
+PURPOSE  
+To describe the process of reporting patient data using the computer system at OLOL. 
+ 
+ 
+PROCEDURE 
+Upon completion and verification by the laboratory staff, laboratory results appear in the 
+EPIC computer system and are available for review in the patient’s chart by the clinical 
+staff.  Anatomic pathology reports and certain referral lab results are interfaced into 
+EPIC.  Reports are faxed/printed to physician offices as requested.   Cumulative reports 
+can be found in the patient’s medical record.  When required, a complete copy of 
+archived patient results may be reprinted and will include original reference ranges and 
+interpretive comments, including any flags or footnotes that were present in the original 
+report, including the time and date of the original report. 
+ 
+Outpatient and outreach patient reports are interfaced into the Atlas system or autofaxed 
+by the computer system to printers or fax machines that have been verified to be secure 
+lines.  In addition, doctor report hard copies are mailed to physician offices and clinics 
+when requested. 
+ 
+All manual and automated results are checked against reportable range and critical value 
+criteria before each test is accepted and reported by the computer.  System data tables are 
+set up to detect alert values before results are reported.  All results are checked against a 
+defined reportable range, feasible limits, and critical values for the test in question.  It is 
+ensured that the appropriate number of decimal places are present.  The ranges are set up 
+when each individual laboratory tests is built.  These ranges can be found on the data map 
+for each test.  The computer system audits the trail of this process. 
+ 
+The system provides for commenting on specimen quality that may compromise the 
+accuracy of analytic results such as hemolysis, lipemia, and hypercoagulation.  Certain 
+tests are set up to autoverify by the system if the results fall within set parameters.  Tests 
+that do not autoverify are reviewed by authorized personnel who then verify the accuracy 
+of the input data before final acceptance.  In the event of critical or aberrant results, 
+appropriate actions are taken. 
+ 
+When multiple identical analyzers are used, they are uniquely identified so that test 
+results may be appropriately traced back to the appropriate instrument.   
+ 
+Periodic compliance audits are performed to verify that patient results are accurately 
+transmitted from the point of data entry to the point of reporting.  Calculations, 
+algorithms, and/or rules involving reportable patient results are rechecked and 
+documented to ensure accuracy.  Calculations which are performed on patient data by the 
+computer system are reviewed monthly within the chemistry and hematology department, OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 2 of 2 
+LBA305 
+or when a system change is made that may affect calculations.  All calculated values are 
+reviewed at least every two years. 
+ 
+REVISIONS 
+10/2009 (created), 3/15/15, 10/4/17 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    By    Date 
+ Prepared/Revised D. Leger 10/4/17 
+Blood Donor Service Director Review D Gremillion 10/13/2017 
+Core Lab Director Review J Teague 10/12/2017 
+Outreach Director Review E Landry 10/16/2017 
+Medical Director Review A Harton 10/7/2017 
+ Effective Date 10/16/2017 
+ Origination Date 10/2009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

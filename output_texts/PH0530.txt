@@ -1,0 +1,413 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: BUD Determination and Stability 
+Considerations 
+Policy Reference #: PH0530 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised: 5/29/2024 
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for the determination and assignment of beyond use dating 
+(BUD) for Compounded Sterile Preparations (CSP) prepared within FMOLHS Baton Rouge Market 
+Pharmacies.  
+1.2. BUD limits are intended to help prevent patient harm resulting from microbial proliferation and 
+contamination of CSPs.   BUDs are determined by evaluating the chemical stability of the CSP 
+components or formulation, storage conditions, starting components (sterile vs. non -sterile), 
+sterile processing approach, and type of sterile compounding area where the CSP is prepared. 
+1.3. Expiration dates and BUDs are not interchangeable terms or concepts and medication 
+administration terms cause confusion around the definition and application of BUDs assigned to 
+compounded sterile preparations.  
+Expiration date is the time during which a manufactured product can be expected to meet the 
+requirements of the USP –NF monograph, if one exists, or maintain expected quality 
+provided it is kept under the specified storage conditions; applies to all conventionally 
+manufactured products, active pharmaceutical ingredients (API), and added substances. 
+BUD is the date, or hour and date, after which the administration of a CSP cannot begin. BUDs are 
+not intended to limit administration time; applies to all CSPs and stock solutions made by 
+Compounding Personnel.  
+Hang time or administration time  refers to the amount of time during which a CSP or 
+conventionally manufactured product (e.g., pre-mix, large volume parenteral solution) may 
+be infused before which the tubing or medications needs to be changed due to stability 
+considerations. Hang time is not determined by USP <797> and is considered out of scope 
+for this policy. 
+1.4 This policy denotes the BUD assignment for all CSPs compounded at FMOLHS Baton Rouge Market 
+Pharmacies. 
+Refer to Immediate-Use Compounding policy for the procedures pertaining further information 
+about the requirements and definition of Immediate Use Compounding  2. Policy 
+ 
+2.1 Every CSP is labeled with a date, or date and hour, after which administration of the 
+      medication cannot occur (i.e., BUD).  BUDs are:  
+      Based on anticipated storage conditions 
+      Determined from the time compounding begins  
+     Not allowed to exceed the shortest remaining expiration date of any of the commercially 
+     available or compounded components used in the preparation of the CSP. 
+     Consider one day equivalent to 24 hours 
+ 
+Maximum BUDs differ for Immediate Use, Category 1, and Category 2 CSPs  and, at no time, are 
+extended beyond those stated in USP <797>; adapted from Tables 12 and 13 of USP <797>.   
+ 
+• Controlled 
+Room 
+Temperature 
+• [20oC to 25oC] 
+• Refrigerated 
+Temperature 
+• [2oC to 8oC] 
+• Frozen 
+Temperature 
+• [-25oC to -
+10oC] 
+• Immediate Use CSPs  
+Aseptically processed CSPs from only 
+sterile starting components • < 4 hours • < 4 hours 
+• Not 
+Applicable 
+• Category 1 CSPs  
+o Aseptically processed CSPs from only 
+sterile starting components  • < 12 hours • < 24 hours • Not 
+Applicable 
+• Category 2 CSPs - not requiring sterility testing 
+o Aseptically processed CSPs from 
+ONLY sterile starting components • 4 Days • 10 Days • 45 Days 
+o  
+BUDs are assigned by Compounding Personnel with consideration for factors that could impact the 
+CSP quality or sterility including, but not limited to: 
+Chemical and physical stability of the components and/or formulation 
+Container closure system and compatibility with the final preparation and storage conditions 
+Compounding environment in which the CSP is prepared 
+Aseptic processing and sterilization method 
+Sterility of starting components 
+Whether or not sterility testing is performed (if applicable) 
+Storage conditions   
+When the chemical or physical stability of the CSP is shorter than the maximum BUD, the most 
+conservative dating becomes the BUD.   
+Chemical stability is based on available manufacturer’s data, published literature, and industry 
+references.  
+Packaging is selected for the CSP to preserve sterility, chemical stability, and potency. 
+CSPs stored under or moved to different storage conditions before they are used assume the new 
+shorter BUD of the storage condition(s) which does not to exceed the original BUD placed on the 
+CSP at the time of preparation BUDs are not additive; administration is initiated before the BUD is exceeded or the CSP is 
+promptly and appropriately discarded 
+Once a CSP has been stored under a new storage condition requiring a shorter BUD, the CSP is 
+used within the shortened timeframe 
+Storage conditions per USP <659> Packaging and Storage Requirements:  
+Controlled Room Temperature: 20oC to 25oC  
+Refrigerated: 2oC to 8oC  
+Frozen: -25oC to -10oC   
+Multiple-dose CSPs, including topical ophthalmic CSPs, meet the following criteria:  
+Prepared as Category 2  
+Preserved unless prepared specifically for a sterile topical application (including ophthalmic use). 
+Preservatives are appropriate for the dosage form, intended patient population, and route 
+of administration. 
+Non-preserved topical CSPs are only prepared for a single patient and labeled with a Discard by 
+Date (or “in-use” date) 
+Dispensed in a multi -dose container closure system that has been evaluated for and conforms 
+with container closure integrity testing (per USP <1207>; except for sterile multi -dose 
+topical applicators such as eye droppers) 
+Assigned a maximum BUD per USP <797> (see Section 2.2) and labeled with a Discard by Date as 
+follows: 
+• Multi-Dose CSPs  
+• Maximum BUD  
+• (from compounding 
+date) 
+• Discard By Date  
+• (or “in-use” time once 
+opened) 
+• Nonaqueous multi-dose 
+CSPs 
+• Per USP <797> BUDs 
+• (see Section 2.2) 
+• No longer than 28 Days* or 
+the Labeled BUD  
+• (whichever is shorter) 
+• Non-preserved aqueous 
+multi-dose CSPs for topical 
+use 
+• Per USP <797> BUDs 
+• (see Section 2.2) 
+• No longer than: 
+• 24 hours stored at room 
+temp OR  
+• 72 hours if stored 
+refrigerated 
+*28 Days at room temperature or storage temperature per manufacturer’s specifications 
+Conventionally manufactured sterile products or components used in the preparation of CSPs adhere 
+to the following BUDs, use and storage requirements: 
+• Conventionally Manufactured Products & Components 
+ • Expiration 
+Date 
+• Use and Storage Conditions 
+• Single-dose 
+containers 
+• 12 hours • Punctured and entered within an ISO Class 5 
+PEC 
+• Stored per labeled storage conditions  
+• Ampule  • Discard 
+immediately 
+after use 
+• Punctured and entered within an ISO Class 5 
+PEC 
+ • Conventionally Manufactured Products & Components 
+ • Expiration 
+Date 
+• Use and Storage Conditions 
+• (or  open 
+plastic luer 
+lock vials) 
+• Multi-dose 
+containers 
+• 28 days 
+• (unless otherwise 
+specified by 
+manufacturer’s 
+labeling) 
+• Punctured and entered within an ISO Class 5 
+PEC 
+• Stored per labeled storage conditions 
+• Pharmacy 
+bulk 
+packages 
+• Per 
+manufacturers 
+labeling 
+• Punctured and entered within an ISO Class 5 PEC 
+• When manufacturer provides a shorter 
+expiration time after puncture or entry, use the 
+shorter dating and clearly label on packaging 
+• Proprietary 
+bag & vial 
+systems 
+• Docking and activation for immediate use – is NOT considered 
+compounding (no BUD assignment required) and can be performed in 
+a non-classified area. 
+• Docking for future activation and use – performed in an ISO Class 5 
+PEC and assigned a BUD that does not exceed the BUD specified in the 
+manufacturer’s labeling. 
+ 
+ 
+ 
+ 
+CSPs compounded as components for use in other CSPs are initially assigned BUDs per USP <797> (see 
+Section 2.2) and adhere to the following BUDs, use, and storage conditions once entered or 
+punctured for use in a Final CSP; the BUD of the Final CSP is not impacted by the component 
+CSP.  
+o CSPs Compounded as a Component in a Final CSP 
+ • BUD of 
+Component CSP 
+Once Punctured 
+• BUD of Final 
+CSP Using 
+Component 
+• Use and Storage 
+Conditions of Component 
+• Preserved  
+• multi-dose 
+Component 
+CSP 
+• No longer than 
+28 Days or the 
+Component 
+BUD 
+• (whichever is 
+shorter) 
+• Per USP <797> 
+• (not impacted by 
+the Component 
+BUD) 
+• Punctured and entered 
+within an ISO Class 5 PEC 
+• Stored per conditions 
+intended for the initial 
+BUD o CSPs Compounded as a Component in a Final CSP 
+ • BUD of 
+Component CSP 
+Once Punctured 
+• BUD of Final 
+CSP Using 
+Component 
+• Use and Storage 
+Conditions of Component 
+• Single-Dose 
+& CSP 
+Stock 
+Solutions 
+• < 12 Hours or 
+the Component 
+BUD 
+• (whichever is 
+shorter) 
+• Per USP <797> 
+• (not impacted by 
+the Component 
+BUD) 
+• Punctured and entered 
+within an ISO Class 5 PEC 
+• Stored per conditions 
+intended for the initial 
+BUD  
+• Remainder is discarded 
+ 
+3. Roles & Responsibilities 
+      3.1 The Designated Person(s): 
+Ensures all CSPs compounded at FMOLHS Baton Rouge Market Pharmacies are assigned the 
+correct and appropriate BUD by careful consideration and research pertaining to 
+component and final CSP stability, sterility of components and sterilization method used (if 
+appropriate), container closure system, and compounding conditions 
+Ensures Master Formula Records (MFRs) and/or IV Workflow Systems have the correct BUD, CSP 
+storage, and drug stability information and instructions 
+Ensures Compounding Personnel are educated on how to accurately determine and document 
+BUDs and storage conditions for CSPs and conventionally manufactured and compounded 
+components used in compounding Final CSPs 
+Ensures individuals (e.g., practitioners, patients, caregivers, other support staff) transporting, 
+storing, or administering mediations understand how to interpret and/or adjust BUDs if 
+conditions warrant 
+3.2 Compounding Personnel 
+Determine and properly record the BUD on the immediate product label and affix all appropriate 
+auxiliary labels confirming required storage conditions 
+Conduct all aseptic manipulations in an ISO 5 environment and store CSPs and components 
+appropriately 
+4. Procedures 
+ 
+4.1 Immediate Use Compounds 
+See Immediate-Use Compounding policy for the conditions that must be met to utilize immediate 
+use dating 
+4.2 Category 1 Compounded Sterile Preparations  
+Determine the appropriate BUD for Category 1 CSPs (refer to Section 2.2 adapted from Table 12 
+of USP <797>).  Category 1 CSPs meet the following criteria: 
+Compounded in a Segregated Compounding Area (SCA) 
+Compounded in a certified ISO Class 5 Primary Engineering Control (PEC)  
+Compounded aseptically by qualified Compounding Personnel 
+Compounded using only sterile starting components    
+Stored in conditions associated with the assigned BUD  At the direction and discretion of the Designated Person(s), assign Category 1 CSP BUDs to 
+preparations made in a sterile compounding suite under the following circumstances 
+including:  
+Assign Category 1 BUDs to all compounds prepared in a sterile suite when facilities and/or 
+environmental conditions are out-of-specification.   
+Sterility and endotoxin testing is not required for Category 1 CSPs  
+4.3 Category 2 Compounded Sterile Preparations 
+Determine and assign the appropriate BUD for Category 2 CSPs (refer to Section 2.2 adapted from 
+Table 13 of USP <797>). Category 2 CSPs meet the following criteria: 
+Compounded in a cleanroom suite 
+Compounded in an ISO Class 5 PEC located in ISO Class 7 Buffer Room 
+Compounded aseptically by qualified Compounding Personnel 
+Aseptically processed utilizing sterile and/or non-sterile starting components  
+ 
+4.4 Preserved Multi-dose CSPs: 
+If a multi-dose CSP meets the requirements of antimicrobial effectiveness testing per USP <51>, 
+the maximum BUD does not exceed the assigned BUD or 28 days from initial puncture, 
+whichever is shorter. 
+4.5 Topical Ophthalmic CSPs (and other non-preserved topical CSPs): 
+Preserved topical ophthalmic CSPs with proven antimicrobial effectiveness testing results per USP 
+<51> are assigned a maximum BUD of 28 days. 
+Non-preserved topical ophthalmic CSPs are assigned a maximum BUD of 28 days but must carry 
+the following BUD adjustment labeled on the CSP container: "Discard 24 hours after first 
+opening when stored at controlled room temperature or after 72 hours when stored under 
+refrigeration".    
+4.6 CSPs Compounded as a Component or Stock Solution: 
+When the CSP component or stock solution is stored according to its originally assigned BUD and 
+only punctured or entered in an ISO 5 PEC for use in a Final CSP: 
+Preserved, multi-dose component CSPs can be used for up to 28 days  
+Single-dose (non-preserved) component CSPs or stock solution can be used for up to 12 hours 
+or the originally assigned BUD, whichever is shorter.  Any remaining CSP from the 
+original component or stock solution is discarded. 
+Final CSPs compounded from multi -dose, single-dose, or stock solution CSPs are assigned BUDs 
+consistent with USP <797> (refer to Section 2.2); the BUD of the component CSP does not 
+affect the determination of the BUD for the Final CSP. 
+ 
+ 
+ 
+4.7 Epidural, intrathecal and intraventricular CSPs: 
+Due to the highly sensitive nature and potential life -threatening impacts of medication 
+administered via these routes, CSPs prepared for administration do not exceed the 
+following:   
+• Epidural, intrathecal, 
+or intraventricular CSPs 
+• Controlled 
+Room 
+Temperature 
+• [ 20°C - 25°C] 
+• Refrigerated 
+Temperature 
+• [2°C- 8°C] 
+• Frozen 
+Temperature 
+• [-25°C - -
+10°C] • Epidural or Intrathecal • <24 hours • <24 hours • NA 
+• Intraventricular • <8 hours • <8 hours • NA 
+ 
+4.8 Proprietary bag and vial systems: 
+Docking of proprietary bag and systems for FUTURE activation and administration is considered 
+compounding and is compounded in an ISO Class 5 PEC. BUD assignment does not exceed 
+the BUD stated in the manufacturer’s labeling. 
+Docking and activation of proprietary bag and vial systems for IMMEDIATE administration is not 
+considered sterile compounding and is not assigned a BUD.  
+4.9 Conventionally Manufactured Products, APIs, and Components used in CSPs 
+BUDs for entered or punctured commercially manufactured products used to compound a CSP do 
+not exceed the values listed in Section 2.9.   
+Inspect for damage or visible defects to the packaging or the product prior to use. 
+Puncture or enter in an ISO Class 5 PEC.  
+Commercially manufactured products are stored per the labeled instructions. When storage 
+temperature and/or condition deviations are known or suspected, consult with the 
+Designated Person(s) or the manufacturer’s healthcare support line. Discard the produc t if 
+data validating the safety and stability of the medication under the excursion conditions 
+cannot be attained.  
+5. Definitions 
+ 
+Administration: The direct application of a sterile medication to a single patient by injecting, infusing, 
+or otherwise providing a sterile medication in its final form.   
+Beyond-Use Date (BUD):  The date and time after which a CSP shall not be used, stored, or 
+transported. The date is determined from the date and time the preparation is compounded.  
+Category 1 CSP: A CSP that is assigned a BUD of 12 h or less at controlled room temperature or 24 h 
+or less refrigerated that is compounded in accordance with all applicable requirements for 
+Category 1 CSPs in this chapter.  
+Category 2 CSP : A CSP that may be assigned a BUD of greater than 12 h at controlled room 
+temperature or greater than 24 h refrigerated that is compounded in accordance with all 
+applicable requirements for Category 2 CSPs in this chapter.  
+Category 3 CSP : A CSP that may be assigned a BUD exceeding the limits in Table 13 for Category 2 
+CSPs and is compounded in accordance with all applicable requirements for Category 3 CSPs in 
+this chapter. 
+Component: Any ingredient used in the compounding of a preparation, including any active 
+ingredient, added substance, or conventionally manufactured product.   
+Compounded sterile preparation (CSP):  A preparation intended to be sterile that is created by 
+combining, admixing, diluting, pooling, reconstituting, repackaging, or otherwise altering a drug 
+product or bulk drug substance.  
+Conventionally manufactured product: A pharmaceutical dosage form, usually the subject of an FDA 
+approved application, and manufactured under current good manufacturing practice conditions.  Immediate Use CSP: CSP aseptically compounded outside of ISO classified air for direct and immediate 
+administration to a single patient with a maximum BUD of 4 hours from the initiation of 
+compounding.  
+Stability: The extent to which a product or preparation retains physical and chemical properties and 
+characteristics within specified limits throughout its expiration or BUD. 
+6. Related Policies, Documents, References 
+ 
+United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+United States Pharmacopeial Convention, Inc. <7> Labels and Labeling for Products in Other 
+Categories, Expiration Date and Beyond Use Date. Current version. 
+United States Pharmacopeial Convention, Inc. <51> Antimicrobial Effectiveness Testing. Current 
+version. 
+United States Pharmacopeial Convention, Inc. <71> Sterility Testing. Current version. 
+United States Pharmacopeial Convention, Inc. <85> Bacterial Endotoxin Testing. Current version. 
+United States Pharmacopeial Convention, Inc. <659> Packaging and Storage Requirements. Current 
+version. 
+United States Pharmacopeial Convention, Inc. <788> Particulate Matter in Injections. Current version. 
+United States Pharmacopeial Convention, Inc. <789> Particulate Matter in Ophthalmic Solutions. 
+Current version. 
+United States Pharmacopeial Convention, Inc. <1163> Quality Assurance in Pharmaceutical 
+Compounding. Current version. 
+United States Pharmacopeial Convention, Inc. <1207> Package Integrity Evaluation – Sterile Products. 
+Current version. 
+United States Pharmacopeial Convention, Inc. <1225> Validation of Compendial Procedures. Current 
+version. 
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2024 
+ 
+Initial version published by Wolters Kluwer 2022.  
+Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+Reviewed 11/2024 with no changes. 
+ 

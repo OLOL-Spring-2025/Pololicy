@@ -1,0 +1,124 @@
+OC-017 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: Clinical 
+Title: Patient Chart Documentation Policy Reference #: OrgClin-017 
+Supersedes #: AD/B/047; OC-008 
+Date of Origination: June, 2000 Last Review Date:  September 9, 2024 
+Last Revision Date:  February 28, 2022 
+ 
+KEYWORDS: Hold the Ctrl key and click on a link below to view that information 
+General Information;  Handwritten Documentation;  Documentation Errors;  Electronic Patient 
+Documentation;  Electronic Order Entry;  Incorrect Physician Orders;   
+PURPOSE 
+The purpose of this policy is to define procedures associated with Patient Chart Documentation apply to 
+facilities located within the Baton Rouge Market of the Franciscan Missionaries (BR Market FMOLHS) 
+of Our Lady Health System (FMOLHS) which includes: Our Lady of the Lake Regional Medical 
+Center, Our Lady of the Lake Ascension,  Our Lady of the Lake Children’s Hospital, Our Lady of the 
+Lake Livingston, and Our Lady of the Lake North Baton Rouge . BR Market FMOLHS documentation 
+standards, universal to all disciplines that document in the patient’s medical record.   
+ 
+POLICY 
+A. All handwritten entries into the patient’s medical record must meet the minimum standards listed in 
+the procedures section below. 
+B. Stamped signatures are not acceptable on any medical record. If a signature stamp is found on any 
+medical record documentation, the physician must be contacted for clarification. The person 
+clarifying the order will document the clarification as a telephone order.  
+C. Documentation of errors and omissions should be corrected as close to the time of the occurrence or 
+the event(s) as possible. 
+ 
+PROCEDURES 
+ 
+General Information 
+1. The patient chart is a legal document; it provides a current, concise description of the patient's 
+status with minimal duplication of information.   
+2. The patient chart serves as a communication tool among disciplines. 
+3.  Entries into the patient chart should be made at the time the event occurred.          
+EXCEPTION: Entries into the patient chart beyond the time the event occurred must be 
+identified as such, with appropriate date and time of occurrence, and time of late entry. 
+ 
+Standard for Handwritten Documentation: BR Market FMOLHS are paper-light facilities. Electronic 
+documentation/order entry will be used first. In the event of technology downtime, the Downtime 
+process will be followed. 
+1. No original part of the patient’s medical record is to be discarded under any circumstances. 
+2. Charting entries are made in permanent black ink. 
+3. The “Do Not Use” abbreviations and symbols are not to be used in any handwritten OC-017 
+Page 2 of 3 
+documentation (see Org/Clin/061 for prohibited abbreviations and symbols). 
+4. Each page of documentation (including front and back of duplex forms) must be labeled with 
+the patient’s full name, date, and medical record number. 
+5. Each entry will include the date and time. 
+6. All entries must have times and dates. All pages must be dated.  
+7. The writer of the entry is clearly identifiable. All clinical documentation is signed with the first 
+initial, last name, and credentials of the person making the entry.  
+i. Licensed personnel are to use the sur-name that appears on his/her current license.  
+8. The entry is legible to health care providers other than the writer. Illegible entries will require 
+follow-up clarification. 
+i. Illegible physician orders, signatures, or use of any BR Market FMOLHS 
+prohibited abbreviations in an order will be clarified by contacting the ordering 
+physician. 
+ii. The clinician will document the clarified order on the physician order sheet prior to 
+carrying out the order, except in patient emergency situations. 
+iii. A copy of the “Illegible Orders” along with the clarification order will be sent to 
+the Medical Staff office. 
+9. Late entries are to be documented by a notation of “Late Entry” or “Addendum” with the time 
+and date. Do not attempt to insert entries between the lines of previous documentation. 
+10. Documentation will reflect assessment, planning, intervention (including patient and family 
+education), and evaluation of the patient. 
+11. The documentation system will provide a format in which information can be easily retrieved 
+for audit and/or research purposes. 
+12. Departmental guidelines for each documentation form are to be followed. 
+ 
+Documentation Errors 
+1. Documentation errors made on a manual entry during the patient's visit are corrected manually 
+by: 
+i. Draw a single line through the error 
+ii. Write "void" or "in error" above the entry 
+iii. Record the correct information 
+iv. Record the date (month, day, year), time and signature (first initial, last name and 
+credentials) of individual noting. 
+2. Documentation omissions that need to be added to the manual record during the patient's visit 
+are done by recording the entry after the last entry in the current documentation form. The entry 
+should be labeled “Late Charting”, record the date (month, day, year), time and signature (first 
+initial, last name and credentials) of individual noting. 
+3. An incorrect entry should be lined through once. The individual making the error will initial and 
+date next to the error and add notation regarding why the error was made, such as "wrong 
+chart", etc. 
+4. Do not attempt to erase an error. Liquid paper (white-out) or any other means to completely OC-017 
+Page 3 of 3 
+erase an entry is strictly forbidden as a method of correcting errors in the medical record. 
+ 
+Electronic Patient Record 
+1. To correct a mistake in filed flowsheet data, whether it was manually entered or recorded 
+through a device, select the value that you want to change and enter the new value. A record of 
+the change appears in the Show Audit section of the Details report.  
+2. Documentation errors and omissions/corrections that are noted more than 48 hours after the 
+time the information was collected, but prior to patient discharge, require notification and 
+approval by Risk Management and Health Information Management (HIM) supervision before 
+a correction is made in the legal record. Staff will need to notify their department manager to 
+begin this process. 
+3. Charting for another caregiver is allowed during official computer downtime. Managers may be 
+required to chart for another caregiver under special technical circumstances as designated by 
+Clinical Information Services. During procedures, nurses may document for a physician (i.e., 
+circulating nurse, Endoscopy, Code Blue). 
+ 
+Incorrect Electronic Order Entry 
+In the event that an order was entered in the electronic medical record in error, the physician should be 
+notified, the facts related to the event documented and a safety report completed. Also, the affected 
+department should be notified to correct charges. 
+1. If an error is noted prior to the order being carried out: “Void” the incorrect order. 
+2. If an error is noted after an order has been carried out: 
+i. For single-event order(s) that have been carried out, the order is completed, and no 
+action may be taken to change that order.   
+ii. For ongoing active orders (i.e. with an ongoing frequency), the order should be 
+“voided.”  The “void” action will remove any uncharted prior or future tasks related to 
+this order.  
+ 
+Incorrect Physician:  If the wrong physician has been entered as being responsible for the doctor's order 
+and has not been previously corrected, the individual discovering the error should report it to a 
+Supervisor in the Health Information Management (HIM) Department. 
+ 
+ 
+REFERENCES: 
+1. TJC Standard RC.01.03.01 EP 2 
+ 

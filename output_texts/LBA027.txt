@@ -1,0 +1,122 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 1 of 3 
+LBA027 
+LABORATORY ADMINISTRATION MANUAL 
+LBA027 
+ 
+INSTRUMENT CORRELATIONS 
+ 
+ 
+PURPOSE 
+This procedure defines the requirement for instrument-to-instrument and instrument-to-
+method correlation. 
+ 
+ 
+PRINCIPLE 
+If the lab uses more than one instrument/method to test for a given analyte, the 
+instruments/methods must be checked against each other as least twice per year for 
+correlation of results.  This applies to tests performed on the same or different instrument 
+makes/models or by different methods.  This comparison includes all non-waived 
+instruments/methods.  There should be an attempt to have samples that span the low, 
+mid-point and high values. 
+ 
+Quality control data may be used for this comparison for tests performed on the same 
+instrument platform, with both control materials and reagents of the same manufacturer 
+and lot number.    
+ 
+Otherwise, the use of human samples (whole blood, serum, plasma, urine, etc.), rather 
+than commercial controls is preferred to avoid potential matrix effects.  The use of pooled 
+patient samples is acceptable since there is no change in matrix.  In cases when 
+availability or pre-analytical stability of patient specimens is a limiting factor, alternative 
+protocols based on QC or reference materials may be necessary, but the materials used 
+should be validated to have the same response as fresh human samples for the 
+instrument/method involved.   
+ 
+This requirement applies to instruments/methods accredited under the same CLIA 
+number only.   
+NOTE: Respiratory blood gas instruments must be correlated against lab  
+ analyzers at Livingston and Assumption Community Hospitals. 
+ 
+**Each department has specific procedures applying to this process.  See individual 
+department manuals for instruments compared and acceptable limits of each analyte.    
+ 
+ 
+SPECIMEN 
+Commercial QC material or Fresh human samples (whole blood, serum, plasma, urine, 
+etc.) 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 2 of 3 
+LBA027 
+CALCULATION:%Diff  =    Instrument #2 result   -  Instrument #1 result      X  100 
+      Instrument #1 result 
+ 
+ 
+PROCEDURE 
+Using QC material:  Quality control data may be used for this comparison for tests 
+performed on the same instrument platform, with control and reagent materials of the 
+same manufacturer and lot number.  Obtain high, normal and low QC results from each 
+analyzer.  Follow directions below starting with step 3. 
+ 
+Using fresh samples: 
+1. Obtain fresh samples for testing.   
+• There should be an attempt to have samples that span the low, mid-point 
+and high values. 
+2. Run tests on both instruments/methods, designating one as the primary. 
+• If stability of specimens is an issue, split samples between 
+instruments/methods. 
+• If stability is not an issue, it is acceptable to run on one instrument/method 
+at a time. 
+3. Record data on appropriate logs 
+4. Review for acceptability.   
+• Acceptable limits are established by departments using data obtained from 
+CMS guidelines, CAP total allowable error, published reference 
+documents, and/or analysis of lab data.  Typical ranges are in per cent, but 
+departments may establish numerical ranges for ease in reviewing.  Refer 
+to departmental-customized logs.   
+• Corrective action is performed and documented.  Corrective action may 
+consist of troubleshooting both analyzers, running controls, and repeating 
+this procedure with fresh specimens.  Calibration of one or both analyzers 
+may be necessary. 
+• After corrective action, the correlation is repeated and documented. 
+5. The Instrument Correlation is reviewed/signed by the section supervisor and 
+stored with departmental QC material. 
+ 
+ 
+REFERENCES 
+CAP Accreditation Checklists 2014: URN.25925, TRM.31450, CHM.13800, 
+IMM.34500, HEM.28000, POC.07568, MIC.11027. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 3 of 3 
+LBA027 
+ 
+    By    Date 
+ Prepared/Revised A. Landry 3/17/15 
+Blood Donor Service Director Review D Gremillion 5/15/2015 
+Core Lab Director Review J Teague 3/30/2015 
+Outreach Director Review E Landry 4/1/2015 
+Medical Director Review A Harton 6/13/2015 
+ Effective Date 6/24/2015 
+ Origination Date 3/17/15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

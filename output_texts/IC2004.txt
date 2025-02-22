@@ -1,0 +1,694 @@
+ 1 
+Policies and Procedures Manual Manual: Infection Control 
+Our Lady of the Lake Regional Medical Center Chapter: II 
+Subject:  Exposure Control Plan OSHA Section:  
+Bloodborne Pathogens 29CFR Part 1910.1030 
+Date of Origination: May 1994 Supersedes:  
+Date of Last Revision: March 31, 2023 Serial Code: IC2004 
+Date of Last Review: March 31, 2024 
+_______________________________________________________________________ 
+ 
+PURPOSE: 
+The purpose of the Bloodborne Pathogens Standard is to eliminate or reduce occupational 
+exposure to Hepatitis B Virus (HBV), Hepatitis C Virus (HCV), Human 
+Immunodeficiency Virus (HIV), and other bloodborne pathogens that employees may 
+encounter during their work activities. This Bloodborne Pathogen Exposure Control Plan 
+is intended to meet the requirements of the Occupational Safety and Health 
+Administration's (OSHA) Bloodborne Pathogens Standard; Final Rule 29 CFR 
+1910.1030, as well as the Needlestick Safety and Prevention Act. 
+ 
+POLICY: 
+Introduction 
+OLOLRMC has implemented this Exposure Control Plan to minimize occupational 
+exposure to diseases transmitted by the bloodborne route. This is accomplished by 
+providing a safe working environment through the practices of: 
+    I. Exposure determination 
+   II. Methods of compliance - Standard precautions 
+  III. Engineering and work practice controls 
+  IV. Personal protective equipment 
+   V. Housekeeping  
+  VI. Hepatitis B vaccination and post-exposure follow-up 
+ VII. Communication of hazards to employees 
+VIII. Recordkeeping 
+ 
+Program Review 
+The Environment of Care Committee and the Infection Prevention and Control 
+Department are primarily responsible for this plan and its maintenance, update, and 
+annual review as well as conducting periodic monitoring for policy compliance. Each 
+Department Head or Manager is responsible for the implementation of this Exposure 
+Control Plan in their departments. 
+A copy of this Exposure Control Plan is accessible to all employees. 
+The Exposure Control Plan shall be reviewed and updated at least annually and whenever 
+necessary to reflect new or modified tasks and procedures which affect occupational 
+exposure and to reflect new or revised employee positions with occupational exposure.  
+  2 
+ 
+The review and update of this plan shall also:  
+• Reflect changes in technology that eliminate or reduce exposure to bloodborne 
+pathogens; and  
+• Document consideration and implementation of appropriate commercially available 
+and effective safer medical devices designed to eliminate or minimize occupational 
+exposure. 
+ 
+PROCEDURE: 
+I. EXPOSURE DETERMINATION 
+Each Department Head is responsible for classifying tasks performed in their areas of 
+responsibility according to the OSHA job classifications. The OSHA I and II job 
+classifications have been combined on the “At Risk” list to provide full protection to all 
+employees who have either normal or unplanned exposure to blood or body fluids as part 
+of their routine job tasks.  Body fluids mean ALL secretions and excretions, except 
+sweat, (regardless of whether they contain visible blood), non-intact skin, and mucous 
+membranes. 
+Human Resources, Employee Health, and Infection Prevention will assist Department 
+Heads with the monitoring of the “At Risk” list of all job titles by department in which 
+employees in those job classifications have occupational exposure. This exposure 
+determination shall be made without regard to the use of personal protective equipment.  
+The following is a list of tasks and procedures or groups of closely related tasks and 
+procedures in which the potential for occupational exposure exists:    
+ 
+Exposure Prone Tasks: 
+▪ Administering intravenous fluids and medications 
+▪ Blood glucose determination  
+▪ Direct patient care 
+▪ Environmental cleaning of patient care areas 
+▪ Flushing intravenous and arterial lines 
+▪ Handling all biohazard, medical wastes 
+▪ Handling contaminated or dirty linen 
+▪ Handling contaminated sharps and sharps containers 
+▪ Handling contaminated medical equipment 
+▪  Performing and assisting in endoscopic, laparoscopic, invasive, and surgical 
+procedures 
+▪ Phlebotomy 
+▪ Starting, changing, and discontinuing all intravenous and arterial lines 
+▪ Transporting patients 
+▪ Transporting or handling specimens 
+▪ Ventilator care 
+▪ Wound care 
+ 
+Each new employee's job title and the tasks and procedures that they will perform are 
+checked against the Job Classification on the “At Risk” list. Employee Health refers to 
+this list to assign new employees needing OSHA Bloodborne Pathogens Training and 
+Hepatitis B Vaccination.   3 
+If the employee is transferring from one job to another within our facility, the job 
+classifications pertaining to their new position are also checked against the list. Based on 
+this "cross-checking", the new job classification, which will bring the employee into 
+occupational exposure situations, is identified. 
+ 
+II. METHODS OF COMPLIANCE - STANDARD PRECAUTIONS 
+Standard Precautions apply to (1) blood, (2) all body fluids, secretions, and excretions 
+except sweat, regardless of whether or not they contain visible blood, (3) non-intact skin, 
+and (4) mucous membranes.  Standard Precautions are designed to reduce the risk of 
+transmission of microorganisms from both recognized and unrecognized sources of 
+infection in the hospital. Use Standard Precautions for the care of all patients.  Standard 
+Precautions merges the major features of Universal (Blood and Body Fluid) Precautions 
+(designed to reduce the transmission of bloodborne pathogens) and Body Substance 
+Isolation (designed to reduce the transmission of pathogens from moist body substances).  
+ 
+III. ENGINEERING AND WORK PRACTICE CONTROLS 
+A. Engineering and work practice controls shall be used to eliminate or minimize 
+employee exposure. Where occupational exposure remains after institution of these 
+controls, personal protective equipment shall also be used. 
+B. Engineering controls shall be examined and maintained or replaced on a regular 
+schedule to ensure their effectiveness.  
+1. Handwashing - refer to the Handwashing Policy, IC2005. 
+2. Spill clean-up - All department heads and supervisory personnel are responsible 
+for ensuring that their employees are prepared to properly respond to spills of 
+potentially infectious materials such as blood/body fluids in their work area. Each 
+department will always maintain proper spill clean-up equipment. If necessary, 
+due to the volume of the spill, notify the Housekeeping Department to disinfect 
+the area. 
+Standard Precautions will be employed in all circumstances by the person(s) 
+cleaning the spill.  Decontamination and cleaning materials shall include but not 
+be limited to EPA registered disinfectant, and other appropriate cleaning 
+equipment (i.e., cleaning cloths, towels, etc.). 
+Hands alone will not pick up broken glassware.  The use of mechanical means 
+such as brooms, brushes, dustpans, tongs, or forceps will be employed. 
+a) The department where the spill occurs will be responsible for the clean-up 
+initially using a hospital approved germicidal solution.  Spill clean-up will be 
+done by employees trained in the use of Standard Precautions.  
+b) The area involved in the spill will be restricted to patient, visitor, and staff 
+traffic passage until the clean-up/disinfecting efforts are completed. 
+c) Assemble materials and equipment to include such items as wet floor signs, 
+gloves, cleaning cloths, paper towels, hospital-approved germicide, biohazard 
+bags, clear plastic bag for linens contaminated with infectious waste. Put on 
+protective clothing as required.  4 
+d) Remove bulk amount of blood/body fluid with an absorbent rag or paper towel 
+and dispose of in appropriate receptacle. Place linen in soiled linen bag and 
+soiled paper towels in biohazard bag. The area can then be cleaned with a 
+hospital-approved germicidal solution. 
+e) If necessary, after the bulk amount of blood/body fluid has been removed, 
+notify the Housekeeping Department to disinfect the area. 
+f) Remove PPE and dispose of properly. 
+g) Wash hands. 
+3. Sharps Injury and Blood and Body Fluid Exposure Prevention - Care will be 
+taken to prevent injuries when using needles, scalpels, and other sharp 
+instruments or devices, when handling sharp instruments after procedures, when 
+cleaning used instruments, and when disposing of used needles.  Puncture-
+resistant containers (needle boxes) are located in patient rooms as well as key 
+areas in all clinical departments.   
+a) Use available safer medical devices, such as sharps with engineered sharps 
+injury protection or needleless systems, for withdrawing body fluids, accessing 
+a vein or artery, or administering medications or other fluids.  Safer medical 
+devices are those with a built-in safety feature or mechanism that effectively 
+reduces the risk of an exposure incident.  For purposes of this plan, an 
+"available" safer medical device includes only devices whose use, based on 
+reasonable judgment in individual cases, will not jeopardize patient or 
+employee safety or be medically contraindicated. 
+b) Never recap used needles, or otherwise manipulate them using both hands, or 
+use any other technique that involves directing the point of a needle toward any 
+part of the body; when absolutely necessary, use either a one-handed "scoop" 
+technique or a mechanical device designed for holding the needle sheath. 
+c)  Do not bend, break, or otherwise manipulate used needles by hand.  Do not 
+remove used needles from disposable syringes by hand, unless a situation 
+exists which necessitates using a syringe to draw blood and transfer the 
+collected blood into a test tube before disposing of the contaminated syringe.  
+In such a situation, a syringe with engineered sharps injury protection must be 
+used.  Removal of the safety-engineered needle must be accomplished after 
+activation of the safety feature and using safe work practices (including use of 
+mechanical means of removal whenever possible).  Transfer of the blood from 
+the syringe to the test tube must be done using a needleless blood transfer 
+device. 
+d) Place used disposable syringes and needles, scalpel blades, and other sharp 
+items in appropriate puncture-resistant containers, which are located as close as 
+practical to the area in which the items were used.  Place reusable syringes and 
+needles in a puncture-resistant container for transport to the reprocessing area. 
+e) When OLOL employee and physician exposures occur, the employee should 
+notify their supervisor immediately, call Lake Line Direct (765-5253) to speak 
+to the Nurse Navigator, complete a Safety Event form, and contact Employee  5 
+Health department on the next business day for follow-up. (See EH1006 for 
+further instruction). 
+For Non-OLOL Employees: Refer to the non-employee blood and body fluid 
+policy (See EH1007 for further instruction). 
+f) Work Area Restrictions - Eating, drinking, applying cosmetics or lip balm, and 
+the handling of contact lenses are prohibited in work areas where there is a 
+reasonable likelihood of occupational exposure. This includes laboratory work 
+areas, patient and treatment rooms, nursing units, and other patient care areas. 
+These areas will be called "potentially contaminated areas" and should be 
+identified in department-specific written procedures. Personnel are to eat and 
+drink in areas designated for these purposes (clean areas such as cafeteria, 
+lounges, break rooms, and other areas deemed at low risk for contamination). 
+A risk assessment of central nursing stations is conducted to determine if 
+beverages with lid coverings may be allowed in these areas. In addition, food 
+and drink shall not be kept in refrigerators, freezers, shelves, or bench tops 
+where blood or other potentially infectious materials are kept. 
+g) Procedures - All procedures involving blood or other potentially infectious 
+materials shall be performed in such a manner as to minimize splashing, 
+spraying, spattering, and generation of droplets of these substances (e.g., 
+cleaning contaminated instruments, irrigation). Mouth pipetting or suctioning 
+of blood or potentially infectious material is prohibited. 
+h) Specimen Handling - All containers used to contain specimens of blood or 
+other potentially infectious materials shall prevent leakage during collection, 
+handling, storage, transport, or shipping. Since Standard Precautions are 
+utilized in this facility, there is no need to label each specimen with a biohazard 
+symbol; however, the containers must be recognizable as specimen containers. 
+Biohazard labels must be attached to carriers designed to transport multiple 
+specimens. If the outsides of the specimen containers are soiled with blood or 
+other potentially infectious materials, the primary containers must be placed in 
+a secondary container that prevents leakage during all phases of handling. The 
+secondary container (trays and coolers) shall also be puncture resistant. If the 
+transport container becomes contaminated, the person identifying the leakage 
+shall promptly clean up the spill according to protocol. 
+i) Contaminated Medical Equipment - Handle used patient care equipment soiled 
+with blood, body fluids, secretions, and excretions in a manner that prevents 
+skin and mucous membrane exposures, contamination of clothing, and transfer 
+of microorganisms to other patients and environments. All equipment which 
+may become contaminated during use shall be examined prior to servicing or 
+shipping and shall be decontaminated as necessary and when possible. Prior to 
+sending equipment that may be contaminated to Bio-Med or after initiating 
+service call, it shall be decontaminated with hospital approved disinfectant. 
+When it is not possible or feasible to decontaminate the equipment, the parts 
+that are contaminated must be labeled with a biohazard symbol stating which 
+portions may be contaminated. Those who perform maintenance on potentially 
+contaminated equipment must observe Standard Precautions and wear 
+appropriate PPE when handling contaminated equipment. If it is necessary to  6 
+ship equipment that has not been decontaminated to a manufacturer, the 
+company representative or the manufacturer must be notified of the biohazard 
+prior to shipping and appropriate labels must be affixed to the equipment. 
+Reusable equipment is not to be used for the care of another patient until it has 
+been cleaned and reprocessed appropriately. Single-use items are to be 
+discarded properly.  Any single-use items under consideration for third party 
+reprocessing will be approved by the Infection Prevention and Control 
+Department. 
+j) Pregnant Healthcare Workers - Pregnant healthcare workers are not known to 
+be at greater risk of contracting HIV infection than healthcare workers who are 
+not pregnant; however, if a healthcare worker develops HIV infection during 
+pregnancy, the infant is at risk of infection resulting from prenatal transmission.  
+Because of this risk, pregnant healthcare workers will be especially familiar with 
+and strictly adhere to precautions to minimize the risk of HIV transmission. 
+k) Invasive or Exposure Prone Procedures - Healthcare workers who perform 
+invasive or exposure prone procedures will adhere to Standard Precautions 
+vigorously to minimize the risk of transmission of bloodborne pathogens from 
+infected patients to HCWs and vice versa. 
+1) An invasive procedure is defined as a procedure involving puncture or 
+incision of the skin, or insertion of an instrument or foreign material into 
+the body, including but not limited to, percutaneous aspirations, biopsies, 
+cardiac and vascular catheterizations, endoscopies, angioplasties, and 
+implantations, and excluding venipuncture and intravenous therapy. 
+2) Characteristics of exposure prone procedures include digital palpation of a 
+needle tip in a body cavity or the simultaneous presence of the HCW's 
+fingers and a needle or other sharp instrument or object in a poorly 
+visualized or highly confined anatomic site. 
+3) Standard Precautions will be the minimum precautions for ALL such 
+invasive or exposure-prone procedures: 
+• All health care workers who participate in exposure prone or 
+invasive procedures will routinely use appropriate barrier 
+precautions to prevent skin and mucous membrane contact with 
+blood and other body fluids of all patients. 
+4) Gloves and surgical masks will be worn for invasive or exposure prone 
+procedures. 
+5) Protective eyewear or face shields will be worn for procedures that 
+commonly result in the generation of droplets, splashing of blood or other 
+body fluids. 
+6) Gowns or aprons made of materials that provide an effective barrier will be 
+worn during procedures that are likely to result in the splashing of blood or 
+other body fluids.   
+7) All health-care workers who perform or assist in vaginal or cesarean 
+deliveries will wear gloves and gowns when handling the placenta or the 
+infant until blood and amniotic fluid have been removed from the infant's 
+skin and will wear gloves during post-delivery care of the umbilical cord.  7 
+8) If a glove is torn or a needlestick or other injury occurs, the glove must be 
+removed, and a new glove replaced as promptly as patient safety permits; 
+the needle or instrument involved in the incident must also be removed 
+from the sterile field. 
+l) Laboratory Procedures - Blood and other body fluids from ALL patients should 
+be considered infectious.  To supplement the Standard Precautions as previously 
+listed, the following precautions are required for health care workers in clinical 
+laboratories. 
+1) All patient specimens are considered infectious.   
+2) All specimens of blood and body fluids must be put in a well-constructed 
+container with a secure lid to prevent leakage during transport.  Care will 
+be taken when collecting each specimen to avoid contaminating the 
+outside of the container and the laboratory form if accompanying the 
+specimen. 
+3) All persons processing blood and body fluid specimens (e.g., removing 
+tops from vacuum tubes) will wear gloves.  Masks and protective eyewear 
+will be worn if mucous/membrane contact with blood or body fluids is 
+anticipated.  Gloves will be changed, and hands washed after completion 
+of specimen processing. 
+4) For routine procedures, such as histologic and pathologic studies or 
+microbiologic culturing, a biological safety cabinet is not necessary.  
+However, biological safety cabinets (Class I or II) will be used whenever 
+procedures are conducted that have a high potential for generating 
+aerosolized droplets.  These include activities such as blending, sonicating, 
+and vigorous mixing. 
+5) Mechanical pipetting devices will be used for manipulating all liquids in 
+the laboratory.  Mouth pipetting will not be done. 
+6) Use of needles and syringes will be limited to situations in which there is 
+no alternative, and the previous recommendations for preventing injuries 
+with needles/sharps will be followed. 
+7) Laboratory work surfaces should be decontaminated with an appropriate 
+chemical germicide after a spill of blood or other body fluids and when 
+work activities are completed.  With large spills of cultured or 
+concentrated infectious agents in the laboratory, the contaminated area 
+will be flooded with a liquid germicide before cleaning, and then 
+decontaminated with fresh germicidal chemical.  Gloves will be worn 
+during the cleaning and decontaminating procedures.  Refer to LBA201 
+Exposure Control plan. 
+8) Contaminated materials used in laboratory tests are decontaminated before 
+reprocessing or placed in bags and disposed of in accordance with 
+institutional policies for disposal of infectious waste.  Refer to  
+Management of Infectious Medical Waste (Regulated Waste), IC2006, for 
+specific details.  8 
+9) Scientific equipment that has been contaminated with blood or other body 
+fluids should be decontaminated and cleaned before being internally 
+repaired or transported to the manufacturer.  (See Contaminated Medical 
+Equipment section in this policy) 
+10) All persons should wash their hands after completing laboratory activities 
+and remove protective clothing before leaving the laboratory.   
+m) Autopsy Procedures - In addition to the Standard Precautions as previously 
+listed, the following precautions must be used by persons performing 
+postmortem procedures: 
+1) All persons performing or assisting in postmortem procedures must wear 
+gloves, masks, protective eyewear, gowns, and/or aprons, which create an 
+effective barrier. 
+2) Instruments and surfaces contaminated during postmortem procedures will 
+be decontaminated with an appropriate chemical germicide. 
+n) Blood Donor Area  
+1) Employees outside the volunteer blood donor area, who perform 
+phlebotomy, venipuncture or who initiate IV therapy shall wear gloves, at 
+a minimum, for personal protection. 
+2) Employees who perform phlebotomies in the volunteer blood donation 
+area shall wear gloves, at a minimum, for personal protection.  
+ 
+IV. PERSONAL PROTECTIVE EQUIPMENT 
+A. Provision. When there is a risk of occupational exposures, personal protective 
+equipment (PPE) such as, but not limited to gloves, gowns, lab coats, face shields, 
+masks, or respirators, will be provided at no cost to employees. PPE will be chosen 
+based on the anticipated exposure to blood or other potentially infectious materials. 
+The protective equipment will be considered appropriate only if it prevents blood or 
+other infectious material from passing through or reaching worker’s clothing, skin, 
+eyes, mouth, or other mucous membranes under normal conditions of use and for the 
+duration of time which the protective equipment will be used. It is the responsibility 
+of the employee to inform the manager/supervisor of difficulty or inability to 
+obtain/use specific PPE so that an alternative solution may be determined. 
+B. Use. All personnel who may have occupational exposure are required to use personal 
+protective equipment when they have reasonable anticipation of exposure. The only 
+exception is in rare circumstances when, in the employee's professional judgement, a 
+specific instance would have prevented the delivery of care or would have posed an 
+increased hazard to the safety of the worker or co-worker.  
+C. Accessibility. Appropriate PPE in proper sizes shall be readily accessible in the work 
+area or issued to employees. Persons with allergies or other conditions limiting the 
+ability to use certain PPE shall be evaluated by Employee Health to determine the 
+appropriate solution. 
+D. Cleaning, Laundering, and Disposal. PPE shall be provided, replaced, cleaned, 
+repaired, laundered, and/or disposed of at no cost to employees. Any time PPE is 
+penetrated by blood or other potentially infectious materials, the garments shall be  9 
+removed immediately, or as soon as feasible, in a manner which prevents contact with 
+intact and non-intact skin, and mucous membranes and placed in the soiled linen. 
+(This does not include personal clothing items.)  Standard Precautions will be used 
+when handling all laundry. All PPE must be removed prior to leaving the work area. 
+If personal protective equipment fails to protect against the soiling of employee 
+personal clothing, the PPE is not appropriate for the tasks being performed. 
+Laundering of personal clothing items will be addressed on a case-by-case basis. The 
+same care shall be exercised in the handling of contaminated personal clothing as the 
+PPE handling described above. 
+E. Gloves – Gloves shall be worn when contact with blood, mucous membranes, non-
+intact skin, or other potentially infectious material is likely. Disposable gloves must 
+be removed and replaced as soon as practical, when contaminated or as soon as 
+feasible if they are torn, punctured, or when the barrier properties are compromised. 
+With the exception of reusable utility gloves, gloves should never be washed or 
+decontaminated for reuse. Utility (heavy-duty reusable) gloves are to be 
+decontaminated with approved solution following the last use of the shift. However, 
+they must be discarded if they are cracked, torn, punctured, or exhibit other signs of 
+deterioration. Disposable gloves are for single use only. A variety of gloves, 
+including powderless and hypoallergenic gloves are available. Employees with 
+known allergies to latex gloves must notify Employee Health of their condition to 
+determine the appropriate alternative gloves. 
+F. Masks, Eye Protection, Face Shields – Masks in combination with eye protection 
+devices, such as goggles, glasses, or face shields, shall be worn whenever splashes, 
+sprays, spatter, or droplets of blood or other potentially infectious materials may be 
+generated and eye, nose, or mouth contamination can be reasonably anticipated. 
+Reusable goggles or face shields should be cleaned with a hospital-provided 
+decontamination solution or disinfectant wipe by the user.  
+G. Gowns, Aprons, Other Protective Body Covering – Appropriate protective 
+clothing shall be worn in occupational exposure situations. The type and 
+characteristics will depend upon the task and degree of exposure anticipated. In all 
+circumstances the garment chosen will not allow blood or other potentially infectious 
+materials to pass through to the skin or mucous membranes of the person. All used 
+coverings shall be disposed of in appropriate receptacles after use. 
+H. Surgical Caps or Hoods, Shoe Covers, or Boots – Additional protective clothing 
+shall be worn when gross contamination of the head or feet is reasonably anticipated 
+(e.g., autopsies, orthopedic procedures). 
+I. Resuscitation Devices – Barrier devices shall be used in place of mouth-to-mouth 
+resuscitation. Following use, such items if reusable, will be decontaminated. Those 
+devices that are disposable will be discarded in the appropriate receptacle. 
+ 
+V. HOUSEKEEPING 
+A. All facilities are maintained in a clean and sanitary condition. Housekeeping is 
+responsible for determining and maintaining written cleaning and decontamination 
+schedules based on the type of surface to be cleaned, type of soil present, and tasks or 
+procedures being performed in the area.  10 
+B. All equipment and environmental and working surfaces shall be cleaned and 
+decontaminated after contact with blood or other potentially infectious materials. 
+Housekeeping will ensure that adequate procedures for the routine care, cleaning, and 
+disinfection of environmental surfaces, beds, bedrails, bedside equipment, and other 
+frequently touched surface are being followed. 
+C. Contaminated work surfaces shall be decontaminated immediately or as soon as 
+feasible with an appropriate disinfectant: 
+• After completion of procedures 
+• When surfaces are overtly contaminated following any spill of blood or other 
+potentially infectious materials 
+• At the end of the work shift, if the surface may have become contaminated since 
+the last cleaning. 
+D. Protective coverings, such as plastic wrap, aluminum foil, or imperviously backed 
+absorbent paper used to cover equipment and environmental surfaces, shall be 
+removed and replaced as soon as feasible when they become overtly contaminated or 
+at the end of the work shift if they may have become contaminated during the shift. 
+E. All bins, pails, cans, and similar receptacles intended for reuse which have a 
+reasonable likelihood for becoming contaminated with blood or other potentially 
+infectious materials shall be inspected and decontaminated on a regularly scheduled 
+basis and cleaned and decontaminated immediately or as soon as feasible upon visible 
+contamination. 
+F. Broken glassware which may be contaminated shall not be picked up directly with the 
+hands. It shall be cleaned up using mechanical means, such as a brush and dustpan, 
+tongs, or forceps. 
+G. Reusable sharps that are contaminated with blood or other potentially infectious 
+materials shall not be stored or processed in a manner that requires employees to 
+reach by hand into the containers where these sharps have been placed. 
+Handling of Trash 
+Standard Precautions will be used in handling all patient trash. There will be no Isolation 
+trash set up in the Isolation rooms. All patient trash is to be handled the same. 
+1.  Patient trash/wastes that must be placed in Bio-Hazard Bag trash include: 
+• Liquid or semi-liquid blood or other potentially infectious materials. 
+• Contaminated items that would release blood or other potentially infectious 
+materials in a liquid or semi-liquid state if compressed. 
+• Items that are caked with dried blood or other potentially infectious materials 
+and are capable of releasing these materials during handling. 
+• Contaminated sharps (use puncture-resistant container), and  
+• Pathological and microbiological waste containing blood or other potentially 
+infectious material. 
+2.  Trash/wastes that meet the above definition from patient care areas include items 
+grossly soiled with infectious organisms such as purulent dressings, wound dressings 
+containing blood, bags (receptacles), and tubings/filters. Contain this type of trash in a 
+plastic bag in the patient room, then place into the red bag trash in the soiled utility room. 
+3.  Disposal of all regulated waste shall be in accordance with applicable regulations.   11 
+Regulated Waste. 
+Contaminated Sharps Discarding and Containment. 
+1.  Contaminated sharps shall be discarded immediately or as soon as feasible in 
+containers that are: closable; puncture resistant; leak-proof on sides and bottom; and 
+labeled or color-coded in accordance with OSHA standard. 
+2.  During use, containers for contaminated sharps shall be: 
+• Easily accessible to personnel and located as close as is feasible to the immediate 
+area where sharps are used or can be reasonably anticipated to be found (e.g., 
+laundry). 
+• Maintained upright throughout use, and 
+• Replaced routinely and not be allowed to overfill. 
+3. When moving containers of contaminated sharps from the area of use, the container 
+shall be: 
+• Closed immediately prior to removal or replacement to prevent spillage or 
+protrusion of contents during handling, storage, transport, or shipping. 
+• Placed in a secondary container if leakage is possible. The second container shall 
+be:  closable, constructed to contain all contents and prevent leakage during 
+handling, storage, transport, or shipping, and labeled or color-coded. 
+4. Reusable containers shall not be opened, emptied, or cleaned manually or in any other 
+manner which would expose employees to the risk of percutaneous injury. 
+ 
+Linen 
+Handle, transport, and process used linen soiled with blood, body fluids, secretions, and 
+excretions in a manner that prevents skin and mucous membrane exposures and 
+contamination of clothing and that avoids transfer of microorganisms to other patients 
+and environments. There will be no linen hamper set up in isolation rooms. All patients’ 
+linen will be handled the same using Standard Precautions. 
+1.  Contaminated linen is to be bagged at the location where it is used and will not be 
+sorted or rinsed in the location of use. 
+2.  Employees who have contact with contaminated linen will wear protective gloves and 
+other appropriate personal protective equipment. 
+ 
+3.  The standard cloth bags will be used for the majority of soiled linen. Whenever 
+contaminated linen is wet and presents a reasonable likelihood of soak-through or of 
+leakage from the bag, the linen is to be first placed in a plastic bag; and then the plastic 
+bag is to be placed inside the cloth bag for transport to prevent soak-through and /or 
+leakage of fluids to the exterior.  
+ 
+VI. HEPATITIS B VACCINATION AND POST-EXPOSURE FOLLOW-UP  
+See the Hepatitis B Vaccination Program policy (EH1004) and the Employee Blood and 
+Body Fluid Exposure policy (EH 1006). 
+ 
+VII. COMMUNICATION OF HAZARDS TO EMPLOYEES 
+A. Labels and Signs: 
+Labeling with the biohazard symbol or the use of red bags or containers is used to 
+warn employees of potential hazards. The universal biohazard symbol must always be  12 
+used in conjunction with the word "biohazard". The warning labels must be orange-
+red or predominantly so, with lettering and symbols in a contrasting color. 
+1.  The following items must be labeled appropriately as biohazard: 
+a) Contaminated equipment 
+b) Containers of regulated waste 
+c) Refrigerators and freezers to store blood or other potentially infectious materials 
+d) Sharps disposal containers 
+e) Containers used to store, transport, or ship blood or other potentially infectious 
+materials (e.g., blood drawing trays) 
+f) Containers used to transport items contaminated with blood or other potentially 
+infectious materials 
+2.  Labeling is not required for: 
+a) Transfusion related equipment including containers of blood, blood components, 
+and blood products labeled as to their contents and released for transfusion or 
+other clinical use because they have been screened for HBV, HCV, and HIV 
+prior to their release. 
+b) Individual containers of blood or other potentially infectious materials that are 
+placed in secondary labeled containers during storage, transportation, shipment, 
+or disposal. 
+c) Specimen containers: Standard Precautions are utilized when handling all 
+specimens. 
+d) Laundry bags: Standard Precautions are used when handling all laundry. 
+B. Information and Training: 
+Training regarding occupational hazards and required personal protective measures 
+will be provided to all new employees at general orientation for employees with risk 
+of occupational exposures. As part of department specific orientation, employees with 
+risk of occupational exposure will receive job specific training prior to beginning 
+activities that may place them at risk of occupational exposure. Retraining must occur 
+on an annual basis within one year of the original training date. Department managers 
+must ensure that each employee with risk of exposure receives annual training. An 
+individual knowledgeable on the subject matter must conduct the training. Training 
+content must include: 
+1. An accessible copy of the regulatory text of OSHA standard 29 CFR Part 
+1910.1030, Bloodborne Pathogens Standard. 
+2. A general explanation of the epidemiology and symptoms of bloodborne 
+pathogens. 
+3. An explanation of the modes of transmission of bloodborne pathogens. 
+4. An explanation of the exposure control plan and the means by which the 
+employee can obtain a copy of the written plan. 
+5. An explanation of how tasks and other activities that may involve exposure to 
+blood or other potentially infectious materials can be recognized. 
+6. An explanation of methods that will prevent or reduce occupational exposure, 
+including appropriate engineering controls, work practices, PPE, and the 
+limitations of each. 
+7. Information on the types, proper uses, location, removal, handling, 
+decontamination, and disposal of PPE. 
+8. An explanation of the basis for selection of PPE.  13 
+9. Information on the HBV vaccine including efficacy, safety, method of 
+administration, the benefits of being vaccinated, and that the vaccination will be 
+offered free of charge through the Employee Health Department. 
+10. Information on the appropriate actions to take and persons to contact in 
+emergency involving exposures to blood or other infectious materials. 
+11. An explanation of the procedure to follow if an exposure incident occurs, 
+including the method of reporting the incident and the medical follow-up that will 
+be made available. 
+12. Information on the post-exposure evaluation and follow-up that the employer is 
+required to provide for the employee following an exposure incident. 
+13. An explanation of the signs, labels and/or color-coding used to identify hazards. 
+ 
+VIII. RECORDKEEPING  
+A. Medical Records: 
+A medical record must be established and maintained for each employee with the 
+potential for occupational exposures. These records will include: 
+1. The employee's name and employee number, which can be cross-referenced to 
+obtain the employee's social security number. 
+2. A copy of the employee's Hepatitis B vaccination status, including the date of all 
+Hepatitis B vaccinations and any medical records related to the employee's ability 
+to receive the vaccinations. 
+3. A copy of all results of examinations, medical testing, and follow-up procedures 
+that have been compiled as the result of occupational exposures. 
+Employee medical records will be maintained confidentially in the Employee 
+Health Department. Contents of the medical record will not be disclosed or 
+reported without the employee's written consent to any person within or 
+outside the workplace except as required by law. Employees can access their 
+medical records by requesting access through the Employee Health Nurse. 
+Medical records may also be released to anyone having written consent of the 
+employee. Worker’s compensation medical records must be maintained for 
+the duration of employment plus 30 years. 
+ 
+B. Sharps Injury Log 
+Employee Health will establish and maintain a sharps injury log for the recording of 
+percutaneous injuries from contaminated sharps. The information in the sharps injury log 
+shall be recorded and maintained in such manner as to protect the confidentiality of the 
+injured employee. The sharps injury log shall be maintained for the period required by 
+OSHA. The sharps injury log shall contain, at a minimum: 
+1. The type and brand of device involved in the incident, 
+2. The department or work area where the exposure incident occurred, and 
+3. An explanation of how the incident occurred. 
+ 
+ 
+C. Training Records: 
+Training records may be maintained indefinitely but minimally for three years from the 
+date of training. Training records will include the following information:  14 
+1. The date of training sessions. 
+2. The content or summary of the training sessions. 
+3. The name and qualifications of persons conducting the training. 
+4. The names and job titles of all persons attending training sessions. 
+Training records shall be provided to the employer or employee representative upon 
+request for examination or copying. 
+ 
+D. Transfer of Records  
+OLOLRMC will comply with requirements involving transfer of records. If a facility 
+ceases to do business and there is no successive employer to receive and retain the 
+records for the prescribed period of time, the facility's administration must notify the 
+Director of the National Institute for Occupational Safety and Health (NIOSH) at least 
+three months before the records are scheduled for disposal. NIOSH may request that the 
+records be forwarded to them to be maintained for the duration of the prescribed period 
+of time. 
+ 
+ 
+Definitions - For purposes of this policy the following shall apply: 
+ 
+“Bio-hazard” means infectious agents or hazardous biological materials that present a 
+risk or potential risk to the health of humans, animals or the environment. 
+"Blood” means human blood, human blood components, and products made from human 
+blood. 
+"Bloodborne Pathogens" means pathogenic microorganisms that are present in human 
+blood and can cause disease in humans. These pathogens include, but are not limited to, 
+Hepatitis B virus (HBV), Hepatitis C Virus (HCV), and human immunodeficiency virus 
+(HIV). 
+"Clinical Laboratory" means a workplace where diagnostic or other screening 
+procedures are performed on blood or other potentially infectious materials. 
+"Contaminated" means the presence or the reasonably anticipated presence of blood or 
+other potentially infectious materials on an item or surface. 
+"Contaminated Laundry" means laundry which has been soiled with blood or other 
+potentially infectious materials or may contain sharps. 
+"Contaminated Sharps" means any contaminated object that can penetrate the skin 
+including, but not limited to, needles, scalpels, broken glass, broken capillary tubes, and 
+exposed ends of dental wires. 
+"Decontamination" means the use of physical or chemical means to remove, inactivate, 
+or destroy bloodborne pathogens on a surface or item to the point where they are no 
+longer capable of transmitting infectious particles and the surface or item is rendered safe 
+for handling, use, or disposal. 
+“Engineering Controls” means controls (e.g., sharps disposal containers, self-sheathing 
+needles, safer medical devices, such as sharps with engineered sharps injury protections 
+and needleless systems) that isolate or remove the bloodborne pathogens hazard from the 
+workplace.  15 
+"Exposure Incident" means a specific eye, mouth, other mucous membrane, non-intact 
+skin, or parenteral contact with blood or other potentially infectious materials those 
+results from the performance of an employee's duties. 
+"Handwashing Facilities" means a facility providing an adequate supply of running 
+potable water, soap and single use towels or hot air-drying machines or alcohol-based 
+waterless hand sanitizers. 
+"HBV" means Hepatitis B virus. 
+"HIV" means human immunodeficiency virus. 
+“Needleless Systems” means a device that does not use needles for: 
+(1) The collection of bodily fluids or withdrawal of body fluids after initial venous or 
+arterial access is established. 
+(2) The administration of medication or fluids or 
+(3) Any other procedure involving the potential for occupational exposure to 
+bloodborne pathogens due to percutaneous injuries from contaminated sharps. 
+"Occupational Exposure" means reasonably anticipated skin, eye, mucous membrane, 
+or percutaneous contact with blood or other potentially infectious materials that may 
+result from the performance of an employee's duties. 
+"Other Potentially Infectious Materials" means: 
+(1) The following human body fluids: semen, vaginal secretions, cerebrospinal fluid, 
+synovial fluid, pleural fluid, pericardial fluid, peritoneal fluid, amniotic fluid, saliva in 
+dental procedures, any body fluid that is visibly contaminated with blood, and all body 
+fluids in situations where it is difficult or impossible to differentiate between body fluids;  
+(2) Any unfixed tissue or organ (other than intact skin) from a human (living or dead); or  
+(3) HIV-containing cell or tissue cultures, organ cultures, and HIV- or HBV-containing 
+culture medium or other solutions; and blood, organs or other tissues from experimental 
+animals infected with HIV or HBV. 
+"Percutaneous" means piercing mucous membranes or the skin barrier through such 
+events as needlesticks, human bites, cuts, and abrasions. 
+"Personal Protective Equipment (PPE)" is specialized clothing or equipment worn by 
+an employee for protection against a hazard. General work clothes (e.g., uniforms, pants, 
+shirts or blouses) are not intended to function as protection against a hazard and are not 
+considered personal protective equipment. 
+"Regulated Waste" means liquid or semi-liquid blood or other potentially infectious 
+materials; contaminated items that would release blood or other potentially infectious 
+materials in a liquid or semi-liquid state if compressed; items that are caked with dried 
+blood or other potentially infectious materials and are capable of releasing these materials 
+during handling; contaminated sharps; and pathological and microbiological wastes 
+containing blood or other potentially infectious materials.  16 
+“Sharps with Engineered Sharps Injury Protections” means a non-needle sharp or a 
+needle device used for withdrawing body fluids, accessing a vein or artery, or 
+administering medications or other fluids, with a built-in safety feature or mechanism that 
+effectively reduces the risk of an exposure incident. 
+"Source Individual" means any individual, living or dead, whose blood or other 
+potentially infectious materials may be a source of occupational exposure to the 
+employee. Examples include, but are not limited to, hospital and clinic patients; clients in 
+institutions for the developmentally disabled; trauma victims; clients of drug and alcohol 
+treatment facilities; residents of hospices and nursing homes; human remains; and 
+individuals who donate or sell blood or blood components. 
+"Sterilize" means to use a physical or chemical procedure to destroy all microbial life, 
+including highly resistant bacterial endospores. 
+“Standard Precautions" is an approach to infection control. Standard Precautions apply 
+to (1) blood, (2) all body fluids, secretions, and excretions except sweat, regardless of 
+whether they contain visible blood, (3) nonintact skin, and (4) mucous membranes.  
+Standard Precautions are designed to reduce the risk of transmission of microorganisms 
+from both recognized and unrecognized sources of infection in the hospital. Use Standard 
+Precautions for the care of all patients.  Standard Precautions merges the major features 
+of Universal (Blood and Body Fluid) Precautions (designed to reduce the transmission of 
+bloodborne pathogens) and Body Substance Isolation (designed to reduce the 
+transmission of pathogens from moist body substances).  
+"Work Practice Controls" means controls that reduce the likelihood of exposure by 
+altering the manner in which a task is performed (e.g., prohibiting recapping of needles 
+by a two-handed technique). 
+ 
+ 
+Reference: 
+US Department of Labor, Occupational Safety and Health Administration, / 1910.1030 - Bloodborne 
+pathogens, https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1030 

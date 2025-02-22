@@ -1,0 +1,583 @@
+ 
+ 
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling Page 1 of 9 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Complaints, Adverse Drug Reactions & 
+Recall Handling 
+Policy Reference #: PH0546 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 12/02/2024 
+Last Date Revised: 5/10/2024 
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for documenting, assessing risk of patient harm, and 
+determining response urgency and approach for quality related complaints and adverse drug 
+reactions (ADRs) concerning Compounded Sterile Preparations (CSPs) prepared within FMOLHS 
+Baton Rouge Market Pharmacies. The policy also provides the procedures to rapidly implement 
+a CSP recall when serious patient harm is known or suspected.   
+1.2. Complaints and reports of ADRs can come from a variety of sources including, but not limited to, 
+patients, caregivers, prescribers/providers, regulatory bodies, or other healthcare related 
+source.  
+1.3. CSP recalls are initiated based on the severity of risk of serious or life -threatening patient harm 
+associated with product quality -related issues, with special consideration given to risk 
+assessment of high-risk patient populations and routes of administration, including: 
+• Reported serious or life-threatening ADR due to CSP quality 
+• Failure of CSP release tests (e.g., sterility, endotoxin, purity, potency) when results are 
+received after dispensing 
+• Manufacturer recall of components, containers or supplies used during sterile 
+manipulations and processing of dispensed CSPs 
+• Facilities, sterile compounding equipment, or engineering control failures detected after 
+CSPs are compounded and dispensed and that present a substantial risk of compromising 
+CSP sterility, endotoxin burden, potency, or similar quality attribute 
+1.4. CSP complaint and ADR handling and quality related product recalls are performed according to 
+regulatory and statutory requirements for Louisiana. 
+2. Policy  
+2.1. CSP related complaints and ADRs are promptly logged and documented electronically in 
+RLDatix®.  
+2.2. Adverse reactions with known or highly suspected potential to cause patient harm are reported 
+to the Designated Person (DP) or Pharmacy Manager immediately upon receipt. The reported  
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling   Page 2 
+of 9 
+ 
+event is reviewed within 2 hours of receipt of report by the Designated Person (DP) or a member 
+of Pharmacy management or leadership if the DP is unavailable. CSP recall procedures, if needed, 
+are initiated within 4 hours of review. 
+2.3. Complaints or concerns about CSPs are reviewed within 2 business days of receipt of the report 
+by the Designated Person (DP). Based on a risk assessment, an investigation and appropriate 
+corrective actions, up to and including CSP recall, are initiated in a timely manner.  
+2.4. If a CSP recall is initiated, the following actions are required: 
+• Immediate notification of the prescriber regarding the CSP quality failure with the potential 
+to cause patient harm 
+• Recall of unused dispensed CSPs and quarantine of stock remaining in the pharmacy 
+• Investigation to determine if other CSP lots are affected and recalled if necessary 
+• Risk severity and recall urgency assessment 
+• Determination of the distribution and disposition of affected CSPs 
+• Determination of the patients and corresponding prescribers in receipt of affected CSPs 
+• Documentation and disposal of recalled CSPs 
+• Investigation and determination of reason for quality failure  
+• Implementation of corrective action plan and verification of its effectiveness 
+2.5. Serious or life -threatening adverse events potentially associated with the quality of CSPs are 
+reported to the FDA and Louisiana Board of Pharmacy per the laws and regulations of the 
+jurisdiction in which the CSP was compounded and/or where the patient was treated. 
+2.6. Investigations are conducted, and corrective action plans are implemented in response to ADRs 
+or complaints regarding CSP quality. The extent of investigations and corrective action plans are 
+consistent with the deviation and consider historical trends.  
+3. Roles & Responsibilities 
+3.1 The Designated Person(s) (DP): 
+• Performs timely review  and risk assessment of all reports of CSP -related complaints or 
+adverse drug reactions. 
+• Leads investigations and corrective action plan development, implementation, and follow 
+up to corrective action plans related to CSP complaints and adverse reactions.  
+• Partners with Pharmacy Leadership, Compliance and Administration when serious or 
+potentially life-threatening ADRs are reported to:  
+o Finalize the risk assessment 
+o Initiate CSP recalls procedures including prescriber and patient notifications, CSP 
+retrieval and destruction, investigation and root cause analysis, and corrective actions  
+o Notify appropriate regulatory bodies per policy 
+o Conduct in process and post recall assessments to determine the effectiveness of 
+corrective actions and resulting reduction in patient risk 
+3.2. Compounding Personnel: 
+• Complete initial documentation per policy of complaints and ADRs reported directly to or 
+received by the individual from a patient, caregiver, provider, or similar source. 
+• Notify DP or Pharmacy Leadership of reports of suspected or known serious ADRs 
+immediately upon receiving a report.  
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling   Page 3 
+of 9 
+ 
+• Participate in investigations and corrective actions as directed by the DP. 
+3.3. Pharmacy Leadership: 
+• Partners with the DP to conduct risk assessment and response urgency assessment for 
+serious or potentially life-threatening ADRs associated with CSPs. 
+• Ensures recall process complies with all Federal, State, and Accrediting body procedural and 
+reporting requirements. 
+4. Procedures 
+4.1. Adverse Drug Reaction (ADR) and Complaint Receipt & Documentation 
+• When a known or suspected serious or life -threatening ADR or quality -related complaint 
+associated with a CSP is received, immediately notify the DP or Pharmacy Manager, if the 
+DP is not available.  
+• Document all reported ADRs and CSP quality related complaints RLDatix® within 24 hours of 
+receipt of report. Initial document at time of report includes: 
+Information to Collect ADR Complaint 
+Date and time of report ✓ ✓ 
+Name of person submitting report (if other than the patient), 
+relationship to the patient and contact information ✓ ✓ 
+Patient name or unique identifier (e.g., medical records number 
+or similar) and contact information ✓ ✓ 
+Prescriber name, address, phone number, email, and/or other 
+contact method, if available ✓  
+Date of occurrence (and occurrence time, if available) ✓  
+CSP name or unique identifier (e.g., prescription or order 
+number), lot number, and expiration date ✓ ✓ 
+Description of exact nature of the ADR or complaint ✓ ✓ 
+Description of known or suspected patient harm (e.g., illness, 
+injury, death), if applicable ✓  
+Description of any healthcare related intervention or follow up as 
+a result of reported event ✓  
+• During the subsequent investigation and response, document the following for ADRs and 
+CSP quality-related complaints: 
+o Results of the investigation 
+o Corrective action plan or response 
+o Verification of corrective action plan effectiveness, if applicable 
+4.2. Risk Severity Assessment & Response Urgency Determination 
+• Designated Person reviews reports and initiates a risk assessment to CSP quality related 
+ADRs and complaints in a timely manner based on the severity of the initial ADR or 
+compliant report ranging from: 
+o Serious or life-threatening patient harm: reviewed within 2 hours  
+o Low to moderate risk of patient harm: reviewed within 2 business days of report. 
+• Use the Risk Severity Assessment & Response Urgency Decision Matrix to determine 
+investigation and if a CSP recall is warranted and the timeframes for prescriber and patient 
+notification as well as physical collection of CSPs.  
+  
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling   Page 4 
+of 9 
+ 
+ 
+ 
+Risk Severity Assessment & Response Urgency Decision Matrix 
+Conditions Examples Investigation 
+Timeframe 
+MD/Patient 
+Notification 
+Timeframe 
+Product 
+Recall 
+Timeframe 
+HIGH RISK CONDITIONS & RESPONSE URGENCY: 
+CSP(s) 
+defect/failure 
+with HIGH RISK of 
+Patient Harm 
+AND/OR 
+CSP(s) dispensed 
+to HIGH RISK 
+Patient 
+Populations 
+AND/OR 
+CSP(s) 
+administered via 
+a HIGH RISK 
+route of 
+administration  
+HIGH RISK CSP Defects or Failures: 
+• Known or Suspected Adverse Reaction 
+associated with a CSP 
+• CSP quality issue (e.g., identify, purity, 
+potency, etc.) 
+• Facilities, engineering control, or 
+equipment failure with the potential to 
+impact CSP sterility, endotoxin burden, or 
+other quality attribute* 
+• Recall of CSP component* 
+High Risk Patient Populations: 
+• Pediatric 
+• Geriatric 
+• Critically Ill 
+• Immunocompromised 
+ 
+HIGH RISK Route of Administration: 
+• Intrathecal 
+• Epidural 
+• Intracranial 
+• Intraventricular 
+• Via Central Line* 
+• Topical or Intraocular Ophthalmic* 
+ 
+Initiated 
+within  
+2 hours  
+of notification 
+of CSP failure 
+ 
+Preliminary 
+Investigation 
+Results within  
+5 business 
+days 
+ 
+Final 
+Investigation 
+Results within  
+2 weeks 
+Outbound calls & 
+emails Initiated 
+within  
+4 hours  
+of notification of 
+CSP failure 
+(continued at 
+least daily until 
+MD or 
+representative 
+reached or CSP 
+BUD exceeded) 
+ 
+ 
+Within  
+4 hours of 
+notification 
+& in 
+conjunction 
+with 
+MD/patient 
+notification 
+effort 
+LOW TO MODERATE RISK CONDITIONS & RESPONSE URGENCY: 
+CSP(s) 
+defect/failure 
+with LOW to 
+MODERATE RISK 
+of Patient Harm  
+AND/OR 
+Compounding 
+Personnel, 
+Facilities, and/or 
+Equipment 
+Failures 
+LOW to MODERATE RISK Defects or 
+Failures: 
+• Incomplete and/or nondocumented 
+release inspections, tests, or final 
+Pharmacist verification 
+• CSP failure of release inspections or tests 
+not impacting the CSP purity, potency, 
+sterility, or endotoxin burden (e.g., 
+appearance, pH) 
+• Recall of CSP component* 
+ 
+Compounding Personnel, Facilities, and/or 
+Equipment Failures: 
+• Compounding personnel evaluation 
+and/or competency failure or delinquency 
+• Facilities (e.g., SEC/PEC) certification 
+failure or delinquency   
+• Environmental controls or equipment 
+calibration or maintenance delinquency  
+• Facilities, environmental controls, or 
+equipment operational failures (e.g., 
+Initiated 
+within  
+2 business 
+days  
+of notification  
+ 
+Preliminary 
+Investigation 
+Results within  
+7 business 
+days 
+ 
+Final 
+Investigation 
+Results within  
+2 weeks 
+ 
+If patient harm 
+risk deemed 
+likely, escalate to 
+HIGH RISK 
+timeframes 
+ 
+If patient harm 
+risk deemed 
+unlikely but 
+possible,  
+outbound calls & 
+emails Initiated 
+within  
+3 business days  
+of notification  
+ 
+ 
+If patient 
+harm risk 
+deemed 
+likely,  
+escalate to 
+HIGH RISK 
+timeframes 
+ 
+If patient 
+harm risk 
+deemed 
+unlikely but 
+possible,  
+within  
+3 business 
+days of 
+notification 
+& in 
+conjunction 
+with 
+MD/patient  
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling   Page 5 
+of 9 
+ 
+Conditions Examples Investigation 
+Timeframe 
+MD/Patient 
+Notification 
+Timeframe 
+Product 
+Recall 
+Timeframe 
+extended power outages or functioning 
+out-of-specification) 
+• Actionable microbiological air & surface 
+sampling results** 
+• Noncompliance with other USP <797> or 
+<800> regulatory requirements 
+ 
+notification 
+effort 
+*Impacted CSPs are identified and assessed when information is received regarding individual CSP component recalls or 
+serious facilities, engineering control, or equipment failures are detected. 
+**Risk of actionable microbiological air and/or surface sampling is based on organism, quantity, location(s), and historical 
+trends and potential risk of CSP contamination.  
+4.3. Identification of Affected CSPs  
+• Initial Investigation: 
+o Based on the data and CSP description received from the report, identify the CSP and 
+lot number.  
+o If the CSP was part of a batch, identify the disposition of the remaining dose units.  
+o If the exact CSP or CSP batch cannot be immediately determined, determine the 
+timeframe and potentially suspect CSPs compounded during that timeframe meeting 
+the description of the CSP in question. Include all suspected CSPs in the investigation 
+and recall. 
+• Broader Investigation: 
+o Once the CSP/CSP batch in question has been determined, expand the investigation 
+to determine if additional CSPs are potentially impacted by the same quality issue.  
+o Consider researching CSPs compounded within the same timeframe:  
+• By the same compounder  
+• In the same PEC 
+• With the same compounding equipment, components, or supplies 
+• Sterilized via the same method (if applicable) 
+o Consider performing analytical testing onsite or via an analytical testing lab on any 
+undispensed doses of CSPs identified as potentially having the same/similar quality 
+issue identified in the reported CSP/CSP batch  
+4.4. Identification and Notification of Affected Patients & Providers 
+• Once the CSPs in question have been determined, refer to workflow or compounding system 
+to identify patients and corresponding provider(s) who have received CSPs from the lot(s) 
+in question. 
+• Recall notifications include:  
+Prescriber 
+• Clear statement of recall 
+• Description of recalled CSP (e.g., active ingredients, lot #, dosage form, packaging, 
+intended use, BUD) 
+• Reason for recall / potential for patient harm 
+• Name(s) of corresponding patients receiving CSP 
+• Information on potential side effects or patient harm to monitor for in CSPs that have 
+been administered 
+• Instructions for how recalled CSPs should be disposed of or returned 
+• Recall contact information for communication and return of recalled CSP(s)  
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling   Page 6 
+of 9 
+ 
+Prescriber 
+• MedWatch reporting information 
+4.5. Collection, Disposal, & Documentation of Recalled CSPs 
+• Create a Recall Log  of all CSPs under recall and record the disposition of all dose units 
+including dispensed and undispensed dose units. 
+• Collect and quarantine unadministered doses:   
+Undispensed 
+dose units: 
+• Immediately quarantine during the initial investigation to prevent 
+additional dispensing of dose  
+Dispensed dose 
+units that have 
+not been 
+administered: 
+• Attempt to retrieve doses via courier or prepaid shipping method; 
+alternatively, provide dose destruction instructions that are 
+compliant with drug disposal laws and regulations.  Refer to drug 
+disposal policy for additional information. 
+• Log and quarantine retrieved doses. 
+• Log disposition (e.g., disposed of by patient, unable to contact) of 
+unretrieved doses. 
+Dispensed and 
+previously 
+administered 
+dose units: 
+• Record the dose administration on the Recall Log, if possible, 
+collect and document information pertaining to date and time of 
+administration for future reference 
+• Hold collected doses in quarantine until the end of the investigation or as determined by 
+the Designated Person. 
+• Dispose of or destroy quarantined doses per drug disposal policy. 
+• Log the disposal or destruction date, method, and person responsible in the Recall Log. 
+4.6. Investigation & Corrective Action 
+• Conduct a thorough and timely investigation of all potential or suspected contributing 
+factors to the reported ADR or CSP quality-related complaint including, but not limited to: 
+Area of Compliance Investigation Considerations 
+Facilities & 
+Engineering 
+Controls  
+(PECs / SECs; HEPA Filters; 
+airflow & exhaust 
+systems) 
+• Semi-annual certifications & detailed report 
+• Technical or mechanical review of systems 
+• HEPA filter efficacy review 
+• External contributor factors (e.g., power surge) 
+• Trends 
+Environmental 
+Controls  
+(HVAC-controlled 
+Temperatures & 
+Humidity; Pressure 
+Differentials) 
+• Current maintenance, calibration, certification reports 
+• Technical or mechanical review of system 
+• External contributor factors (e.g., power surge) 
+• Trends 
+Personnel 
+Competencies, 
+Conduct, & 
+Compounding 
+Performance 
+• Personnel training and competency assessment records  
+• QA Audits of SOP & documentation compliance 
+• CSP QC testing 
+• Trends 
+Cleaning, 
+Disinfecting, & 
+• Cleaning logs, agent selection, dwell times 
+• Cleaning procedures  
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling   Page 7 
+of 9 
+ 
+Area of Compliance Investigation Considerations 
+Application of 
+Sporicidal Agents 
+• Personnel training and competency assessment records  
+• QA Audits 
+• Trends 
+Environmental 
+Monitoring  
+(Viable Air &/or Surface 
+Sampling) 
+• All of the areas of compliance shown above 
+• Materials movement & cleaning 
+• Personnel and visitor behaviors 
+• External contributing factors (e.g., particle generating 
+activities occurring immediately outside compounding area) 
+• Types, locations, & quantities of actionable organisms 
+• Trends 
+Sterile Equipment, 
+Components, & 
+Supplies 
+• COAs demonstrating compliance with specifications 
+• For equipment, maintenance, calibration, & certification 
+records 
+• Manufacturer recalls 
+• Personnel training and competency assessment records  
+• Trends 
+CSP Quality and/or 
+Release Testing 
+Results 
+• Release testing policies & procedures 
+• Compounding process, equipment, components, supplies  
+• Personnel training and competency assessment records  
+• Trends 
+ 
+• As described above, consider if CSP quality-related issue(s) potentially affects other CSPs. 
+• Determine immediate remediation to reduce the risk of further CSP quality issues until the 
+investigation can be concluded including, but not limited to: 
+o Halt of sterile compounding operations 
+o Restriction of sterile compounding operations 
+o Reclassification of compounding areas and reduction to the corresponding BUDs and 
+compounding restrictions for an SCA or non -classified immediate use compounding 
+area, as appropriate; refer to the Beyond Use Dating and Stabilities Considerations 
+policy and Immediate Use Compounding policy for further information.  
+o Remove or retrain compounding (or support) personnel involved 
+• After the investigation has concluded, finalize, and implement the corrective action plan. 
+Corrective actions address known and suspected deficiencies in all aspects of the sterile 
+compounding operation. 
+• Provide staff communication about the deficiencies and corrective action plan. Involve staff 
+in the implementation of the corrective actions when appropriate. 
+• During and after the completion of the corrective actions, collect data and information that 
+allows for evaluation of the effectiveness of the actions taken. 
+• If the corrective actions taken fully resolve the quality issue, ensure the process is fully 
+documented, including the validations performed afterwards.  
+• If the corrective actions have not been fully effective, continue or renew the investigation 
+and determine additional or enhanced corrective actions. 
+4.7. Serious or life-threatening ADR Reporting  
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling   Page 8 
+of 9 
+ 
+• Report serious or life -threatening ADRs to FDA Consumer MedWatch and/or similar 
+regulatory body per policy and in accordance jurisdictional laws. MedWatch contact 
+information:  
+o Toll-free line: 1-800-332-1088 
+o To report online: www.fda.gove/medwatch/report.htm 
+o Information: www.fda.gov/reportinghelp 
+ 
+5. Definitions 
+5.1. Oversight: The review, monitoring, and supervision of actions taken by personnel, bearing 
+responsibility for those actions, and being available for consultation if and when needed even if 
+not physically present. 
+5.2. Quality assurance (QA): A system of procedures, activities, and oversight that ensures that the 
+compounding process consistently meets quality standards.  
+5.3. Quality control (QC): The sampling, testing, and documentation of results that, taken together, 
+ensure that specifications have been met before release of the CSP. 
+5.4. Release inspection and testing:  Visual inspection and testing performed to ensure that a 
+preparation meets appropriate quality characteristics. 
+5.5. Specification: The tests, analytical methods, and acceptance criteria to which any component, 
+CSP, container closure system, equipment, or other material used in compounding CSPs must 
+conform to be considered acceptable for its intended use. 
+5.6. Verify: To confirm that a method, process, system, or equipment will perform as expected under 
+the conditions of actual use. 
+6. Related Policies, Documents, References 
+6.1. United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2. United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 12/2025 
+7.1. Initial version published by Wolters Kluwer 2023.  
+7.2. Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3. Revised 05/2024 (formatting only). 
+7.4. Reviewed with no changes 12/2024. 
+   
+USP 797 Complaint, Adverse Drug Reactions, & CSP Recall Handling   Page 9 of 9 
+ 
+ATTACHMENT ONE: Recall Log 
+List each lot number and dose separately. 
+ 
+CSP 
+Name 
+Lot # Exp 
+Date 
+Dose 
+Dispensed? 
+ 
+Dose 
+Quarant’d? 
+Patient 
+Name 
+Contact Date & 
+Method 
+Prescriber 
+Name 
+Contact 
+Date & 
+Method 
+Dose 
+Admin’d? 
+Dose 
+Returned? 
+Date Destroyed Method Witness 
+              
+              
+              
+              
+              
+              
+ 
+ 
+ 

@@ -1,0 +1,70 @@
+ 
+ 
+Plant Services 
+ 
+ PS028 
+Page 1 of 2 
+Title: Line Isolation Monitors  
+Revision Date:  
+Review Date: 09/30/2021 
+Reference # PS028 Origin Date: March 2018 
+ 
+POLICY: 
+Our Lady of the Lake Regional Medical Center (OLOL) Plant Services shall maintain, test run, and 
+render to a state of preparedness at all times the Emergency Generator(s)  at any location where OLOL 
+operates. 
+ 
+PROCEDURES: 
+NO LOAD RUN: Weekly the emergency generator(s) will be started for testing the initial startup and 
+batteries.  The battery cells shall also be tested for specific gravity ensuring a state of readiness of the 
+engine set. This run time must be logged along with the below information requested.  
+ 
+The following information is recorded on each no load run: 
+• Hose conditions 
+• Belt conditions 
+• Coolant levels 
+• Oil levels  
+• Fuel levels  
+• Battery cable conditions 
+• Block heater working 
+• Main breakers closed  
+• Any leaks are repaired or evaluated for future scheduled attention. 
+• Initial start is documented. 
+ 
+Startup procedures shall include a pre and post run inspection. Actual start up shall be manual. 
+ 
+FULL LOAD RUN: Plant Services shall test run the Emergency Generator under load conditions for a 
+period not less than 30 minutes each month. 
+ 
+Startup of generators shall be by simulated power failure. This power failure is caused by manually 
+causing an outage on a single ATS switch which is rotated every month.  
+ 
+Once the initial ATS swaps under load, all additional ATS (including any fire pumps) on the EPS are 
+manually forced to swap load to the generator.    
+ 
+The following information is recorded on each full load run: 
+• Transfer time (Under 10 seconds per code) 
+• Current  
+ 
+Plant Services 
+ 
+ PS028 
+Page 2 of 2 
+• Power  
+• Voltage  
+• Engine readings 
+• Specific gravity test on batteries (monthly requirement)  
+ 
+All discrepancies shall be noted on log form and be corrected immediately.  Any failures are corrected 
+or Interim Life Safety Measure (ILSM) is implemented. 
+ 
+Each generator inspection (weekly) and load test (monthly) is documented and kept in the hospital’s 
+regulatory records. 
+ 
+REFERENCES: 
+National Fire Protection Association (NFPA) 99-2012 Edition, Healthcare Facilities Code Handbook 
+Section 6.4 and 6.5 
+Joint Commission, EC.02.05.03 and EC.02.05.07 
+ 
+ 
+ 

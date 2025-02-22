@@ -1,0 +1,229 @@
+ 
+PURPOSE: 
+The purpose of this policy is to outline the requirements for the administration of medications. 
+ 
+DEFINITIONS: 
+Scheduled medications: includes all maintenance doses administered according to a standard, repeated 
+cycle of frequency (e.g., q4h, QID, TID, BID, daily, weekly, monthly, annually). 
+Time-critical scheduled medications:  medications where early or delayed administration of 
+maintenance doses of greater than 30 minutes before or after the scheduled dose may cause harm or 
+result in substantial sub -optimal therapy or pharmacological effect.   Some medications defined as time -
+critical may require a narrower window and this will be called out specifically in this policy 
+Non-time critical scheduled medication s: medications for which a longer or shorter interval of time 
+since the prior dose does not significantly change the medication’s therapeutic effect or otherwise cause 
+harm. 
+High-alert medications:  medications that bear a heightened risk of causing significant patient harm 
+when they are used in error. 
+ 
+POLICY: 
+A. Medications are administered upon a physician's or allied health provider's order and must be 
+verified by pharmacy prior to their administration by use of the Medication Administration Record 
+(MAR) and/or original Physician's Orders. Administration of each medication dose must be 
+documented on the MAR.  If a scheduled medication is not administered, the clinician must 
+document “not given” and the reason  it was not administered . Registered nurses (RNs)  licensed 
+practical nurses (LPNs) and licensed independent practitioners (LIPs) can administer medications at 
+this facility.  Respiratory care professionals may administer medications for inhalation therapy 
+and/or treatments. Imaging professionals may administer medications for the purposes of imaging 
+that are within their scope of practice. 
+B. Licensed practical nurses may NOT administer the following medications: 
+1. IV push medications 
+2. IV Chemotherapeutic agents 
+3. IV Investigational medications 
+4. TPN (Total Parental Nutrition) 
+5. Oral Chemotherapy  
+C. Nursing shall utilize bedside barcode administration (BCMA) scanning technology to verify the 
+patient and the medication prior administration.  Intravenous admixtures shall further require IV 
+OUR LADY OF THE LAKEREGIONALMEDICALCENTER 
+Policy Manual: Patient Care Services/Nursing Section: Medication 
+Title: Medication Administration 
+Policy 
+Reference #: NMA-024 
+Supersedes #:  
+Date of Origination: July 11, 2006 Review Date:   9/01/2024 
+Revision Date: August 8, 2018 autoprogramming technology to program IV pumps with the correct infusion parameters.   While 
+these are safety features, they must not replace visual verification.  
+D. The “Five Rights” must be observed when administering medication: 
+1. Right patient 
+2. Right time 
+3. Right medication 
+4. Right dose 
+5. Right route of administration 
+E. The nurse should observe the complete administration of medications  with the exception of the 
+following preparations that require extend times for complete administration: 
+1. Intravenous infusions  
+2. Ingestion of bowel or radiology preparations  
+F. When orders for medications requiring intravenous (IV) administration are received, an IV catheter 
+will be placed to allow administration to patients without existing IV access. 
+G. The clinician is expected to know the action of each medication prior to administration and to 
+observe the patient for signs of therapeutic effect, signs of  toxicity and any adverse effects. The 
+Clinician is expected to use best clinical judgment on whether to call the physician, based on harm 
+or potential for harm. 
+H. Medications administered within the health care facility shall be administered according to standard 
+medication administration time schedules.  
+ 
+PROCEDURES: 
+ 
+1. Medications defined as Time Critical that should be administered 30 minutes before or after 
+scheduled administration times are defined as follows: 
+a. Immunosuppressive Agents 
+b. Anticonvulsants (indicated for epilepsy) 
+c. Parenteral Antimicrobials 
+d. Pyridostigmine (Mestinon) 
+e. Scheduled Opioids 
+2. Medications defined as Time Critical that should be administered directly before the patient eats are 
+defined as follows: 
+a. Short-acting insulin (Novolog, Humalog, Apidra) 
+b. Pancrealipase products 
+ 
+3. Medications that should be administered that should be administered 60 minutes before or after 
+scheduled administration times are defined as follows: 
+a. Digoxin 
+b. Warfarin 4. All other medications should be given according to the timeframes in following table: 
+ 
+Scheduled Time Goal for Timely Administration 
+Daily, Weekly, Monthly medications  Within 2 hours before or after the scheduled 
+time 
+Medications prescribed more frequently than 
+daily, but no more frequently than every 4 
+hours (BID, TID, Q4H, Q6H, etc) 
+Within 1 hour before or after the scheduled 
+time 
+Medications prescribed more frequently than 
+every 4 hours 
+Within 25% of the dosing interval 
+Q1 hour:  +/- 15 minutes 
+Q2 hour:  +/- 30 minutes 
+Q3 hour:  +/- 45 minutes 
+ 
+ 
+5. Exemptions to “Standard Medication Administration Time Schedules”: 
+a. Initial doses, Loading doses, “STAT”, “On-Call”, Timed or Sequenced doses, PRN 
+medications. 
+b. For initial doses, the following turn-around times have been defined: 
+i. STAT: 30 minutes 
+ii. STAT (for drugs that must be mixed, i.e., large volume IV and IV 
+piggyback/syringe): 45 minutes 
+iii. Routine: 2 hours 
+c. Respiratory Therapists are excluded from this policy since medication administration times 
+are defined in departmental policy. 
+6. Medication administration times may be altered based on current clinical practice and/or the 
+professional judgment of the Physician, Pharmacist, Nurse or other allied healthcare provider for the 
+following reasons: 
+a. When special lab tests are to be done, medications due at that particular time may be omitted 
+or postponed with appropriate documentation on the MAR 
+i. Physician must be notified if a scheduled medication is postponed or omitted. 
+b. If the patient is off the unit at the time of a scheduled administration and the medication has a 
+frequency of “Daily”, the dose may be given at the time the patient returns with a reason for 
+the late administration documented in the patient’s record and a medication safety event is 
+not necessary.    
+c. If the patient is off the unit at the time of a scheduled administration and the medication has 
+been prescribed with a more frequent administration schedule, then pharmacy should be 
+consulted to determine if administering the medication late is appropriate.  If it is determined 
+that the dose may be given, then a medication safety event is unnecessary. 
+d. Times may also be altered to accommodate the patient’s request to take their medications on 
+the same schedule as they do at home. Pharmacy will change the permanent dosing schedule 
+upon a request by the nurse indicating patient’s home med schedule/preference. Physicians may also designate times that do not match the standard dosing schedule and those times 
+should be given as directed by the physician. 
+e. Patient’s medication dosing times who are receiving scheduled tube feedings may require 
+adjusting, particularly for medications that are affected by food consumption. The Nurse and 
+Pharmacist should consult and make changes to the dosing plan for medication 
+administration that coincides with scheduled tube feeding orders.  
+7. Patient identification should be done prior to administering any medication. The patient wrist band 
+as well as medications to be administered should be barcode scanned prior to administering the 
+medication in areas where this technology is available.  The following procedures should be 
+observed prior to the administration of any medication in all areas: 
+a. Verify the medication selected matches the order and label. 
+b. Visually inspect the medication for particulates, discoloration, or other loss of integrity. 
+c. Verify the medication has not expired. 
+d. Medications should be identifiable up to the point of administration. Medication in an 
+unmarked container should not be administered.  
+e. Resolve any concerns about the medication with the prescriber and/or staff involved with the 
+patient’s care. 
+f. Before administering a new medication, assure that the patient and/or family is informed 
+about any potential clinically significant adverse drug reactions (ADRs) or other concerns 
+regarding administration of a new medication. 
+8. When a tablet needs to be cut, a patient specific tablet cutter will be used.  
+9. When a tablet needs to be crushed, a patient specific pill pouch with Silent Knight Pill crusher will 
+be used. (1 Tablet per pouch). 
+10. Partial doses must never be saved for future use including, but not limited to, oral liquids, single 
+dose injections and tablets.  Only multidose products may be saved for future doses (i.e. inhalers, 
+ointments, creams, eye drops, ear drops, etc) 
+11. Tablets and capsules removed from unit dose packaging must not be returned to supply.  
+ 
+MEDICATION ERRORS & ADVERSE DRUG REACTIONS (ADRs) 
+a. Any error in medication administration is to be reported to the nurse manager or designee 
+immediately and should be reported as soon as possible to the practitioner who ordered the 
+medication.   If harm is suspected, the pharmacy should also be notified. 
+b. A medication safety event should be filled out as soon as possible, refer to Policy OO-GN-019. 
+c. For allergic reactions, other adverse drug reactions, medication errors or drug incompatibilities 
+which result in harm or need for continued monitoring, refer to Policy OO-GN-019. 
+ 
+ 
+HIGH RISK/HIGH ALERT MEDICATIONS  
+Certain medications designated as High Risk/High Alert and should be handled and administered in 
+accordance with the High Risk Policy PH-03-10.   
+GUIDELINES FOR TRANSPORTING MEDICATIONS FROM THE Automated Dispensing 
+Cabinet (ADC) TO THE PATIENT 
+ 
+1. Transport medications in their original unit-dose package.   
+2. Secure Transport 
+a. Hand-carry a single patient’s medication for one administration time directly to the 
+patient’s bedside 
+b. If during a single medication administration time more than one patient’s medication 
+must be transported, use computers on wheels, mobile carts, or workstations on wheels 
+with labeled patient-specific drawers and the ability to lock if unattended. 
+3. Medications may be placed in a plastic bag and labeled with the patient’s label.  
+4. Ensure medications transported from the ADC are in a ready-to-use form for administration. 
+5. Open packages at the patient’s bedside.  The only exception may be for medications that need to 
+be crushed, measured, or wasted. 
+ 
+SELF-ADMININSTERED MEDICATIONS:  
+The self-administration of medications by patients shall be in accordance with this policy. 
+1. REQUIREMENT FOR AN ORDER 
+Self-administration of medications is permitted only upon the specific order of an authorized 
+responsible prescribing physician or allied health provider. 
+2. LIMITS ON MEDICATIONS THAT MAY BE SELF-ADMINISTERED 
+Self-administered medications shall be limited to medications that can be self-administered 
+with little risk to the patient (e.g., Teaching inhalers, PCA Pumps, lozenges, and throat spray). 
+3. SUPERVISION BY A MEMBER OF THE PROFESSIONAL STAFF 
+A member of the licensed professional staff shall supervise self-administration of medications 
+with the exception of PCA’s, Throat Sprays and Lozenges     
+4. RECORDING SELF-ADMINISTERED MEDICATION 
+The nurse will record the patient’s self-administration in the Medication Administration 
+Record with a note that it was administered by the patient. 
+5. PATIENT INSTRUCTION 
+The patient shall be instructed on the self-administration of medications.   Instructions shall 
+include the purpose of the medication, how to administer the medication, the expected action 
+of the medication, and signs and symptoms of adverse reactions. 
+Persons who administer medications but are not staff members are determined to be 
+competent at medication administration before being allowed to administer medications. 
+6. WRITTEN INSTRUCTIONS 
+Written instructions for self-administration of medications shall be provided when necessary. 
+References 
+ 
+1. ISMP. Guidelines for timely medication administration: response to the CMS “30-minuterule.” 
+ISMP Medication Safety Alert! 2011;16(1):1-4. Available at: 
+www.ismp.org/Newsletters/acutecare/articles/20110113.asp. 
+2. ISMP. Special report: patient safety risk.CMS 30-minute rule for drug administration needs 
+revision. ISMP Medication Safety Alert!2010;15(18):1-6. Available at: 
+www.ismp.org/Newsletters/acutecare/articles/20100909.asp. 3. ISMP. CMS 30-minute rule may result in unintended consequences. ISMP Nurse Advise-ERR. 
+2010;8(7):1-2. Available at: 
+www.ismp.org/newsletters/nursing/issues/NurseAdviseERR201007.pdf. 
+4. ISMP. ISMP survey on the impact of the CMS 30-minute rule. ISMP Nurse Advise-
+ERR.2010;8(7):3. Available at: 
+www.ismp.org/newsletters/nursing/issues/NurseAdviseERR201007.pdf. 
+5. ISMP. Final Acute Care Guidelines for Timely Administration of Scheduled Medications posted 
+on ISMP website. ISMP Medication Safety Alert!2011;16(10):1,3. Available at: 
+www.ismp.org/Newsletters/acutecare/articles/20110519.asp. 
+6. ISMP ® 2008 Guidance on the Interdisciplinary Safe Use of Automated Dispensing Cabinets 
+7. Lippincott  Procedures: Oral drug administration Revised August 12, 2016 
+8. Lippincott Procedures: Safe medication administration practices, general Revised November 11, 
+2016 
+9. National Patient Safety Agency (NPSA).Rapid response report NPSA/2010/RRR009: Reducing 
+harm from omitted and delayed medicines in hospital. February 2010. Available at: 
+www.nrls.npsa.nhs.uk/resources/type/alerts/?entryid45=66720.  
+10. Policy NMO001 – Chemotherapy (Cytoxic agents), Handling, Administration and Disposal 
+ 
+  
+ 
+ 

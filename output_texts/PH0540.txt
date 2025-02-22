@@ -1,0 +1,201 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Master Formula & Compounding Records Policy Reference #: PH0540 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the documentation elements and record keeping requirements for Master 
+Formulation Records and Compounding Records for Compounded Sterile Preparations (CSPs) 
+prepared for within FMOLHS Baton Rouge Market Pharmacies.   
+1.2. In addition to USP <797> Pharmaceutical Compounding – Sterile Preparations requirements, 
+FMOLHS Baton Rouge Market Pharmacies follow all regulations issued by the Louisiana Board 
+of Pharmacy, including record keeping and record retention. 
+1.3. Master Formula and Compounding Records create a detailed and reproduceable compounding 
+procedure and historical record of each CSP compounded ensuring patients receive a 
+consistent, high quality CSPs. The Compounding Record also provides the documentation 
+framework to quickly implement a recall or patient review if needed. 
+• A Master Formula Record (MFR) is a detailed procedural record describing how a unique 
+CSP is prepared, verified, packaged, and labeled.  A MFR provides a precise roadmap 
+allowing any compounder to, without assistance or interpretation, prepare a consistent and 
+replicable CSP each time. 
+• A Compounding Record (CR) documents each instance of CSP compounding including 
+specifics about the manufacture, measurement, and use of Active Pharmaceutical 
+Ingredients (APIs), added substances, supplies, and dispensing devices in the preparation 
+and quality control of the final dosing or yield unit(s).    
+2. Policy  
+2.1 A Master Formula Record (MFR) is created for each unique Category 1, 2 and Immediate-Use CSP 
+formulation when one or both of the following conditions exist: 
+• CSPs prepared for more than one patient (i.e. batch compounding or repackaging) 
+• CSPs prepared from one or more nonsterile ingredient(s) or component(s) 
+2.2 MFRs include at least the following per USP <797>:  • Name, strength or activity, and dosage form of the CSP 
+• Identities and amounts of all ingredients, active and inactive; if applicable, relevant 
+characteristics of components (e.g. particle size, salt form, purity grade, solubility) 
+• Type and size of container closure system(s) 
+• Complete instructions for preparing the CSP, including equipment, supplies, a description of 
+the compounding steps, and any special precautions (e.g., hazardous material handling 
+instructions) 
+• Physical description of the final CSP 
+• Beyond use dating (BUD) and storage requirements 
+• If applicable, calculations  or conversions  to determine and verify quantities and/or 
+concentrations of components and strength or activity of API 
+• Stability reference source for the CSP 
+• Quality control (QC) procedures (e.g., pH testing, filter integrity test, refractive index, visual 
+inspection, sterility and endotoxin testing, sterilization cycle validation) and expected results 
+• Other information as needed to describe the compounding process and ensure repeatability  
+• Labeling requirements 
+2.3 Two (2) qualified compounding personnel including IV Pharmacists, Designated Person(s), and/or 
+Pharmacy Manager, review and sign-off on all new or revised MFRs and associated calculations 
+prior to initial use.   
+2.4 A Compounding Record (CR) is created for all Category 1 & 2 CSPs and for Immediate Use batched 
+or repackaged CSPs intended for use in more than one patient and compounded according to an 
+MFR.   
+2.5 CRs include at least the following per USP <797>: 
+• Name, strength or activity, and dosage form of the CSP  
+• Date and time of preparation of the CSP  
+• Assigned internal identification number (e.g., prescription, order, or lot number)  
+• A method to identify the individuals involved in the compounding process and individuals 
+verifying the final CSP  
+• Name of each component including Active Pharmaceutical Ingredients (APIs), excipients, 
+and other added substances 
+• Vendor, lot number, and expiration date for each component  used in the preparation of 
+CSPs (e.g., APIs, excipients, diluents, components, containers, and each sterilizing filter or 
+biological indicator used during sterilization for CSPs)  
+• Weight or volume of each component  
+• Strength or activity of each component  
+• Total quantity compounded  
+• Final yield (e.g., quantity, containers, number of units)  
+• Assigned BUD and storage requirements  
+• Results of QC procedures (e.g., visual inspection, filter integrity testing, pH testing, sterility 
+and endotoxin testing, sterilization cycle validation) 
+If applicable: 
+• MFR reference (if retained separately) 
+• Calculations and conversions made to determine and verify quantities and/or 
+concentrations of components, if applicable 2.6 MFRs and CRs are retained and readily accessible for review. 
+3. Roles & Responsibilities 
+3.1 The Designated Person (DP):  
+• Ensures MFRs are created, reviewed, and approved for each unique CSP formulation prepared 
+for more than one patient (including repackaging) or prepared from one or more nonsterile 
+starting components. 
+• Provides education and communication for new or revised MFRs and CRs to compounding 
+personnel. 
+• Ensures CRs are completed, retained, and readily accessible for required CSPs.   
+• Ensures MFRs and CRs meet minimum documentation standards.  
+ 
+3.2 Compounding Personnel: 
+• Follow the exact specifications and directions in the MFR and ensure complete and accurate 
+documentation within the CR. 
+4. Procedures  
+4.1. Creation and Revisions of Master Formula Records (MFRs) 
+• Submit requests for new or revised MFRs to the Designated Person. 
+• The Designated Person reviews the request to determine the feasibility and viability the 
+requested formulation including, but not limited to: 
+o Supporting references for the formulation, CSP stability and BUD, and compounding 
+methods and techniques  
+o Availability and cost of needed ingredients, dispensing devices, equipment, and supplies 
+o BUD assignment, storage, transport, and labeling requirements 
+o Quality control procedures and tests based on the dosage form, route/location of 
+administration, and drug stability 
+o Impact to workflow and staffing 
+• If the request is approved, the DP or a qualified designee creates (or revises) the MFR.   
+• An independent review of the MFR is conducted by two compounding personnel with the 
+appropriate expertise.  Both the MFR author and reviewer(s) sign off on the final MFR 
+version prior to use.  
+• The DP or designee provides education and communication about the new/revised MFR 
+with an effective date to Sterile Compounding Personnel. 
+• The DP retains a revision history of the MFR. 
+4.2. Creation of Compounding Records (CRs) 
+• Compounding personnel creates a CR for all Category 1 and 2 CSPs and for immediate use 
+compounds made for more than one patient.   
+• CRs are allowed in the following formats that are fully compliant with the CR documentation 
+requirements stated above in section 2.5.  
+o Prescription or medication order 
+o Electronically stored medication order stored and readily retrievable from a workflow 
+management system, ACD, or similar equipment. o MFR designed to allow for the manual or electronic entry of the information needed to 
+complete the CR 
+o Standalone CR 
+4.3. Use of MFR and CR 
+• Prior to starting the compounding process, compounding personnel review the MFR and 
+compounding procedure in detail; initiate the CR; complete and record all required 
+calculations; and confirm necessary ingredients, devices, equipment, and supplies are 
+readily available. 
+• Update the CR during the preparatory, compounding, and QC processes to ensure accurate 
+and complete documentation of the compounding process.    
+• Ensure all components of the CR are complete and accurate including, but not limited to: 
+o Formulation Name 
+o Name/ID, manufacturer (or wholesaler), lot number, expiration, weight/volume, and 
+strength of each API and added substance incorporated into the CSP 
+o Calculations and conversions, if applicable 
+o Final yield (including total quantity compounded, number of containers, and/or number 
+of final dose units) 
+o Results of QC procedures and tests (e.g., final yield unit weight/volume, pH, tonicity 
+adjustments), if applicable and verifying Pharmacist’s initials. 
+• Validate the CSP label, prescription or med order and Master Formulation Records and 
+Compounding record are consistent and conform with each other. 
+• Ensure signatures or initials of the compounder(s) and verifying Sterile Pharmacist are 
+written or electronically stamped on each CR. 
+• Ensure compounding date, BUD, and assigned internal ID number are written or 
+electronically stamped on each CR. 
+• Submit final CR to the DP if not electronically documented in the IVWS or Compounding 
+System for final review and approval prior to storage in a readily retrievable format. 
+5. Definitions 
+5.1 Active pharmaceutical ingredient (API): Any substance or mixture of substances intended to be 
+used in the compounding of a preparation, thereby becoming the active ingredient in that 
+preparation, and furnishing pharmacological activity or other direct effect in the diagnosis, cure, 
+mitigation, treatment, or prevention of disease in humans and animals or affecting the structure 
+and function of the body.  
+5.2 Added substance: An ingredient that is necessary to compound a preparation but is not intended 
+or expected to cause a pharmacologic response if administered alone in the amount or 
+concentration contained in a single dose of the compounded preparation. The term is used 
+synonymously with the terms: inactive ingredient, excipient, and pharmaceutical ingredient. 
+5.3 Beyond-Use Date (BUD):  The date and time after which a CSP shall not be used, stored, or 
+transported. The date is determined from the date and time the preparation is compounded. 
+5.4 Category 1 CSP: A CSP that is assigned a BUD of 12 hour or less at controlled room temperature 
+or 24 hour or less refrigerated that is compounded in accordance with all applicable 
+requirements for Category 1 CSPs in USP 797.  5.5 Category 2 CSP: A CSP that may be assigned a BUD of greater than 12 hours at controlled room 
+temperature or greater than 24 hours refrigerated that is compounded in accordance with all 
+applicable requirements for Category 2 CSPs in USP 797.  
+5.6 Category 3 CSP: A CSP that may be assigned a BUD exceeding the limits for Category 2 CSPs and 
+is compounded in accordance with all applicable requirements for Category 3 CSPs in USP. 
+5.7 Compounded sterile preparation (CSP): A preparation intended to be sterile that is created by 
+combining, admixing, diluting, pooling, reconstituting, repackaging, or otherwise altering a drug 
+product or bulk drug substance.  
+5.8 Compounding: The process of combining, admixing, diluting, pooling, reconstituting, 
+repackaging, or otherwise altering a drug or bulk drug substance to create a sterile medication. 
+5.9 Container closure system: Packaging components that together contain and protect the dosage 
+form. This includes primary packaging components and secondary packaging components if the 
+latter are intended to provide additional protection. 
+5.10 Designated Person (DP) is one ore more individuals assigned to be responsible and accountable 
+for the performance and operation of the facility and personnel for the preparation of CSPs. 
+5.11 Final yield /Final yield unit : The total number of containers prepared at the end of the 
+compounding process prior to release testing. 
+5.12 Quality assurance (QA): A system of procedures, activities, and oversight that ensures that the 
+compounding process consistently meets quality standards.  
+5.13 Quality control (QC): The sampling, testing, and documentation of results that, taken together, 
+ensure that specifications have been met before release of the CSP. 
+5.14 Release inspection and testing:  Visual inspection and testing performed to ensure that a 
+preparation meets appropriate quality characteristics. 
+5.15 Repackaging: The act of removing a sterile product or preparation from its original primary 
+container and placing it into another primary container, usually of smaller size without further 
+manipulation 
+5.16 Workflow management system: Technology comprised of hardware and software that allows 
+for automation to assist in the verification of components of, and preparation of, CSPs and to 
+document components and processes. 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version. 
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 7.1 Initial version published by Wolters Kluwer 2022.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 

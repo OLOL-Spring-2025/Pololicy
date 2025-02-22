@@ -1,0 +1,149 @@
+ Policy PH-03-32 
+Page 1 of 4 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: 
+Medication Use, 
+Storage, and 
+Handling 
+Title: 
+Medications: Glucarpidase for Toxicity 
+from High Dose Methotrexate in Adult 
+Patients 
+Policy Reference #: PH-03-32 
+Supersedes #: N/A 
+Date of Origination: February 2019 Last Date Reviewed: 02/03/2025 
+Last Date Revised: 2/17/2024 
+ 
+POLICY: This policy will serve to outline the criteria for use, ordering, administration, and monitoring of 
+glucarpidase following toxicity from high dose methotrexate in adults. 
+ 
+STATEMENT OF PURPOSE:  Glucarpidase (Voraxaze®) is a recombinant carboxypeptidase-based bacterial 
+enzyme that hydrolyzes methotrexate, an antifolate utilized in the treatment of various malignancies, into 
+inactive metabolites. Glucarpidase is approved for the treatment of elevated serum methotrexate levels (> 1 
+µmol/L), in the setting of renal dysfunction and delayed methotrexate clearance in both children and adults. 
+This procedure seeks to ensure appropriate ordering, dosing, administration, and monitoring of adult inpatients 
+who require therapy with glucarpidase.  Glucarpidase is on formulary with restrictions for use; it is not stocked 
+as it is a high-cost medication.   
+ 
+DEFINITIONS:  
+• High Dose Methotrexate- doses greater than or equal to 1 gram/m2.  This list is not all-inclusive, but 
+examples of treatment plans with high dose methotrexate include: 
+o IP Lymphoma High-Dose Methotrexate (8000 mg/m2) 
+o IP Lymphoma High-Dose Methotrexate (3500 mg/m2) 
+o IP/OP Lymphoma High Dose Methotrexate + Rituximab 
+o IP ALL Hyper CVAD Even Cycle 
+o IP ALL R-Hyper CVAD Even Cycle 
+• Prescribing Physician – Attending oncology physician ordering glucarpidase. 
+ 
+ 
+PROCEDURE: 
+I. Criteria for glucarpidase use in adult patients (a, b, c, d, and e must be present or occur)  
+a. Patient is receiving leucovorin and aggressive intravenous hydration with urine alkalinization (to 
+maintain urine pH of greater than or equal to 7) should be maximized based on the particular 
+chemotherapy regimen and on patient-specific factors.  
+b. The patient’s medications should be reviewed by the prescribing physician and any drugs which 
+are known to interfere with methotrexate clearance or which are known to be nephrotoxic should 
+be discontinued prior to considering glucarpidase use.   
+c. Any third-spacing (pleural effusion, ascites, etc.) must be corrected by prescribing physician. 
+d. Moderate to severe renal impairment must be present as evidenced by at least one of the 
+following: 
+i. An increase in serum creatinine from baseline of 100% or greater or a serum creatinine of 
+greater than or equal to 1.5 times the upper limit of normal  Policy PH-03-32 
+Page 2 of 4 
+ii. An abrupt decline in urine output (to less than 0.5 mL/kg/hour for at least 4 hours) 
+e. Elevated serum methotrexate levels as follows:  
+i. For High Dose Methotrexate infusions of less than or equal to 24 hours, Methotrexate 
+level is: 
+Greater than 50 micromole/L at 24 hours from START of methotrexate infusion or  
+Greater than 30 micromole/L at 36 hours from START of methotrexate infusion or  
+Greater than 10 micromole/L at 42 hours from START of methotrexate infusion or  
+Greater than 5 micromol/L at 48 hours from START of methotrexate infusion.  
+ii. If the initial serum methotrexate level is close to the threshold for being considered 
+elevated, or if there is uncertainty as to the timing or accuracy of the measured level and 
+glucarpidase is considered, a second “STAT” methotrexate serum level may be requested 
+by a Clinical Pharmacist.   
+ 
+ 
+ 
+ 
+ 
+ 
+Oncologist.  2018; 23(1):52-61. 
+ 
+  Policy PH-03-32 
+Page 3 of 4 
+ 
+II. Ordering 
+a. Only an attending oncology physician may order glucarpidase.  
+b. Glucarpidase order must be placed within 50 hours of START of methotrexate infusion 
+i. Glupcarpidase is less effective when given after more than 60 hours of exposure to high-
+dose methotrexate.  It takes 12-14 hours to receive shipment of medication. 
+c. Glucarpidase use is indicated for patients who received high-dose methotrexate (doses greater 
+than or equal to 1 gram/m2). 
+d. Glucarpidase administration must occur in the inpatient setting.   
+e. Only one dose of glucarpidase may be ordered for each patient per cycle of high-dose 
+methotrexate.  
+f. Glucarpidase will not be stocked or ordered prior to meeting criteria in section I (a,b,c,d,e) above 
+III. Dosing 
+a. The dose of glucarpidase is 50 units/kg given as a single IV bolus. 
+b. Each vial of glucarpidase contains 1000 units; the dose will be rounded to the nearest vial size. 
+IV. Administration 
+a. Glucarpidase should be administered as a single bolus intravenous dose given over 5 minutes. 
+b. Leucovorin doses MUST be held for at least 2 hours prior to and 2 hours after glucarpidase 
+administration. 
+i. Leucovorin is a substrate of glucarpidase and if administered too closely to the 
+glucarpidase dose, the efficacy of glucarpidase will be greatly reduced.  
+c. The intravenous line must be flushed with 0.9% normal saline before and after glucarpidase 
+administration. 
+d. The most common adverse reactions (incidence >1%) with glucarpidase are paraesthesias, 
+flushing, nausea and/or vomiting, hypotension, and headache. 
+e. Leucovorin dosing should resume 2 hours after administration of glucarpidase. 
+f. Aggressive intravenous hydration with or without urine alkalinization (to maintain urine pH of > 
+7), should continue throughout the administration of glucarpidase. 
+V. Pharmacy Ordering 
+a. Available to receive within 12-14 hours regardless of time order is placed.  The emergency 
+Voraxaze number is 1-844-293-0007.  GPO-692085 WAC-692111 340B-692104. 
+b. Order based off of prescribed dose of 50 units/kg, round to nearest vial of 1000 units. 
+c. Hand-off to pharmacy team to be alert for order and to prepare dose as soon as received. 
+d. Dose is delivered to nurse with signature verification upon receipt.  Policy PH-03-32 
+Page 4 of 4 
+ 
+VI. Monitoring 
+a. Following glucarpidase administration, serum methotrexate levels should be obtained at 48 hours 
+post-administration, and every 24 hours after that until the serum methotrexate level reaches less 
+than or equal to 0.1 µmol/L. 
+i. Serum methotrexate levels drawn within 48 hours of glucarpidase administration may not 
+accurately reflect the actual methotrexate level as the particular assay utilized may also 
+be measuring the inactive methotrexate metabolite. High-performance liquid 
+chromatography (HPLC) is one assay utilized in the measurement of methotrexate 
+concentrations which is not affected by prior glucarpidase administration. 
+b. Leucovorin dosing should remain the same as the pre-glucarpidase leucovorin dosing for the first 
+48 hours following glucarpidase administration. 
+c. Adjustments to leucovorin dosing should be made beginning 48 hours after glucarpidase 
+administration, and any dose adjustments should be based on measured serum methotrexate 
+levels. 
+d. Leucovorin dosing should not be discontinued based on a single serum methotrexate level below 
+the leucovorin treatment threshold. Therapy with leucovorin should continue until the serum 
+methotrexate concentration has been maintained below the leucovorin treatment threshold for a 
+minimum of 3 days. 
+e. All pertinent labs should continue to be monitored at least daily until the serum methotrexate 
+concentration has been maintained below the leucovorin treatment threshold for a minimum of 3 
+days. These labs include, but are not limited to: BUN, SrCr, potassium, phos, calcium, CO2, 
+magnesium, and uric acid.  
+  
+REFERENCES: 
+ 
+1. Voraxaze® (glucarpidase) injection for intravenous use. Product information. BTG International. 
+January 2012. 
+2. Cavone, JL, Yang, D, Wang, A. Glucarpidase intervention for delayed methotrexate clearance. Ann of 
+Pharm.2014;48(7):897-907. 
+3. Howard, SC, McCormick, J, Pui, C, et al. Preventing and managing toxicities of high-dose methotrexate. 
+The Oncologist.2016;21:1471-82. 
+4. Trifilio, S, Ma, S, Petrich, A. Reduced-dose carboxypeptidase-G2 successfully lowers elevated 
+methotrexate levels in an adult with acute methotrexate-induced renal failure. Clin Adv in Hem & 
+Onc.2013;11(5):322-5. 
+5. Widemann, BC, Schwartz, S, Jayaprakash, N, et al. Efficacy of glucarpidase (carboxypeptidase G2) in 
+patients with acute kidney injury after high-dose methotrexate therapy. 
+Pharmacotherapy.2014;34(5):427-39.   
+ 
+ 

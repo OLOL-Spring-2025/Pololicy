@@ -1,0 +1,48 @@
+ 1 
+Policies and Procedures Manual Manual:  Infection Control 
+Our Lady of the Lake Regional Medical Center Chapter:  II 
+Subject:  Disinfection and Sterilization Section:  
+Date of Origination:  September 1996 Supersedes:  
+Date of Last Revision:  April 23, 2018 Serial Code: IC2002 
+Date of Last Review:   March 31, 2024 
+_______________________________________________________________________ 
+  
+PURPOSE: 
+To assist clinical departments in the selection and proper use of disinfectants. 
+ 
+POLICY:  
+Medical devices and patient care equipment are to be disinfected or sterilized according to the 
+manufacturers’ guidelines. 
+ 
+PROCEDURE: 
+Instruments and items for patient care are to be divided into three categories using the Spaulding 
+Classification System, based on the degree of risk of infection involved in the use of the items.  The three 
+categories of items are critical, semi-critical, and noncritical. 
+ 
+1. Critical medical devices or patient-care equipment are items that enter normally sterile tissue or the 
+vascular system through which blood flows.  These items require high level disinfection and 
+sterilization. 
+A. Examples:  Surgical instruments, cardiac catheters, implants, and ultrasound probes used in sterile 
+body cavities 
+B. Method: Steam, gas, and sporocidal chemical sterilization 
+ 
+2. Semi-critical medical devices or patient-care equipment are items that come in contact with mucous 
+membrane or nonintact skin.  These items require high-level disinfection. 
+A. Examples: Endoscopes, Respiratory Equipment, Specula and Anesthesia equipment 
+B. Method: Sporicidal chemical high-level disinfection 
+ 
+3. Noncritical medical devices or patient-care equipment are items that come in contact with inta ct skin 
+but not mucous membrane.  These items require low-level disinfection. 
+A. Examples: Blood pressure cuffs, bedpans, bed rails, and bedside tables 
+B. Method: Chemical exposure to low-level disinfectants (an EPA-registered disinfectant/detergent) 
+ 
+ 
+ 
+ 
+ 
+References:  
+ Guideline for Disinfection and Sterilization in Healthcare Facilities, 2008. Recommendations of CDC and the Healthcare Infection 
+Control Practices Advisory Committee. https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/  
+        
+Jinadatha, C MD; APIC (2018 February 23). Cleaning, Disinfection, and Sterilization. http://text.apic.org/toc/basic-principles-of-infection-prevention-
+practice/cleaning-disinfection-and-sterilization, Revised 2020 December 21 

@@ -1,0 +1,83 @@
+NIV-004 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Patient Care Services 
+Title: Parenteral Nutrition (PN) 
+Policy 
+Reference #: PH-02-21 
+Supersedes #:  
+Date of Origination: October, 1996 Review Date: 03/24/2024 
+Revision Date: 2/20/2020 
+ 
+PURPOSE:  To provide pertinent information regarding the administration of parenteral nutrition 
+ 
+DEFINITIONS:   
+ 
+Parenteral Nutrition:  for the purposes of this document, refers to customized parenteral nutrition.  The 
+term parenteral nutrition will not be used to refer to pre-mixed intravenous nutrition products (e.g.  
+Clinimix). 
+ 
+POLICY: 
+ 
+A. Prescribing 
+a. When consulted by prescribers, the Pharmacy department and Nutrition services shall be 
+responsible for initiating and monitoring parenteral nutrition. 
+b. Pharmacists ordering parenteral nutrition will consult with nursing to confirm central line access 
+prior to entering orders.  If central access is not available, the pharmacist shall contact the 
+prescriber to discuss additional measures. 
+c. Basic serum chemistries should be current (within 24 hours).  If chemistry results are not current, 
+a stat order will be entered. Basic serum chemistries should be re-drawn at a minimum of every 
+72 hours while the patient is receiving PN until the patient is at goal nutrition and is stable on 
+regimen for at least one week. Once achieved, basic serum chemistries may be drawn at a 
+minimum of 1-2 times weekly. 
+d. Parenteral nutrition orders for adult patients are to be entered into the electronic medical record 
+by 1300 daily.  The standard hang time is 2000. 
+i. Orders for new PN and orders for changes to existing PN received after 1300 will be 
+processed to hang at 2000 the following day.  
+ii. If the PN infusion has been completed prior to the next scheduled 2000 infusion, a 
+physician’s order must be obtained to hang an alternative fluid (e.g. Dextrose 10%, 
+Clinimix®) until the next PN infusion can be prepared and delivered for the standard 
+2000 hang time. 
+iii. Should any component of the PN currently infusing be changed, including but not 
+limited to electrolytes removed and/or decreased, a new order shall be entered into the 
+electronic medical record with the necessary changes.  This order should also include 
+an interim fluid such as Dextrose 10% or Clinimix® with a prescribed rate until the 
+modified PN order can be hung at the next standard hang time of 2000. 
+e. All PN orders must be entered into the electronic medical record.  During downtime procedures, 
+a pre-printed order form should be used. 
+f. Continued use beyond the initial PN order requires a new PN order daily. 
+g. A maximum dextrose concentration of 10% may be used for peripheral PN. NIV-004 
+Page 2 of 2 
+h. The pharmacist should contact the prescriber to replace electrolytes when they are out of range.  
+i. The pharmacist should contact the prescriber to clarify the need for concurrent fluids while the 
+TPN is hanging. 
+ 
+B. Preparation 
+a.   Parenteral nutrition solutions are to be prepared and dispensed by the Our Lady of the Lake 
+(OLOL) inpatient pharmacy.   
+b. Parenteral nutrition with volumes greater than 500mL will have 50mL of overfill. 
+ 
+C. Administration 
+a. Intravenous parenteral nutrition is to be administered only by a registered nurse. 
+b. Parenteral nutrition solution along with the administration set and filter shall be infused               
+and discarded within 24 hours of the administration set being attached. 
+c. An IV pump is required to administer the therapy. 
+d. The parenteral nutrition catheter line shall not be used for central venous pressure monitoring.  
+e. When no other route can be obtained for IV piggyback or IV push medications, compatibility 
+should be verified with pharmacy prior to administration. 
+ 
+ 
+ 
+ 
+REFERENCES: 
+Ayers, P., Guenter, P., Holcombe, B., & Plogsted, S. (2014). The A.S.P.E.N. parenteral nutrition 
+handbook. United States of America: American Society for Parenteral and Enteral Nutrition. 
+  
+Infusion Nurses Society. (2011). Infusion nursing standards of practice.  Journal of Infusion Nursing, 
+34(1S).  
+ 
+Mosby’s Nursing Skills: Central Parenteral Nutrition. Adapted from Perry AG, Potter PA & Ostendorf, 
+WR. (2014). Clinical nursing skills & techniques, ed 8, St. Louis: Mosby.Mueller, C.M. (Ed.). (2017). 
+The ASPEN Adult Nutrition Support Core Curriculum, 3rd Edition. Silver Spring, MD: American 
+Society for Parenteral and Enteral Nutrition. 
+ 

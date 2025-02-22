@@ -1,0 +1,113 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 1 of 3 
+LBA014 
+LABORATORY ADMINISTRATION MANUAL 
+LBA014 
+ 
+LAB MANUAL ORDERS AND CHARGING 
+ 
+ 
+PURPOSE 
+Process for computer ordering and charging of manual orders by Core Lab staff. 
+ 
+ 
+EQUIPMENT/MATERIALS 
+Our Lady of the Lake Regional Medical Center Management Information System 
+ 
+ 
+CLINICAL PATHOLOGY/CORE LAB 
+Core Lab will move all manually ordered test(s) to a computer order within 72 hours.  
+Exceptions are documented by adding a follow-up task in Epic and resolved by Outreach 
+Daily (M-F business work day) 
+ 
+When a test is ordered by a physician that is not orderable in EPIC: 
+• The order is placed in the computer system as a Laboratory Manual Order, with the 
+test name entered at the prompt.  If Lab receives the order on a Manual Requisition 
+(paper order) in the Core Lab, Outreach Processing, Referrals staff, or core lab staff 
+will enter the Laboratory Manual Order in the computer system. 
+• The order is written on the Manual Charge sheet with the following information: 
+1. Patient name 
+2. Medical Record Number 
+3. Date of Service 
+4. Test name 
+5. CPT codes 
+6. Test cost from Reference Lab 
+7. If culture: source/site 
+• The Manual Charge sheet is given to Outreach Director daily (M-F business work 
+day) for appropriate billing. 
+ 
+ 
+SPECIAL PROCEDURES 
+• HEMATOLOGY- FLOW CHARGE   (Outreach patients) 
+1.  Physician orders a Flow Consult (order entered by floor or by  
+Outreach registration) 
+2.  Pathologist reviews clinical data and orders appropriate panel 
+ 3.  Heme stains and analyzes specimen and reports results  
+ 4.  Heme tech makes copy of patient info for Outreach Account Administrator to  
+         manually charge appropriate panel when necessary. 
+  
+  -  OLOL patients:   OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 2 of 3 
+LBA014 
+o Heme Supervisor or Sr. Tech orders Flow Panel  
+     requested by Pathologist  
+-  SUBMITTERS: 
+o PGL requests- have Outreach register patient with an 
+OLOL encounter 
+o Lane Memorial specimens- Heme Supervisor or Sr. Tech 
+calls to inform them which panel was processed 
+o Baton Rouge General specimens: 
+- Path at BRG sends over sample and patient info with 
+orders for appropriate panel 
+- Report sent to BRG Path to interpret  
+o St. Elizabeth specimens- Heme Supervisor or Sr. Tech 
+calls to inform them which panel was processed 
+ 
+ 
+• HUMAN TISSUE (TRANSFUSION SERVICE ONLY) 
+-  Human tissue is distributed to surgery in the computer system or on manual  
+   requisitions.  Upon completion of the surgical case, unused tissue is returned to  
+   Tissue Bank in the computer or on manual form if specially ordered.  If a  
+   special ordered product was ordered on a case-by-case basis and used, the tissue  
+   will be manually charged the following working day by designated personnel or  
+   supervisory personnel.  
+ 
+• MISCELLANEOUS SERVICES CHARGES (TRANSFUSION SERVICE 
+ONLY) 
+-  Miscellaneous services provided by Transfusion Services require manual  
+   charges by qualified personnel.  Patient antibody workups performed by  
+   reference laboratories, the purchase of rare donor blood and transportation of  
+   blood and blood products by yellow cab require manual charge entry.  
+ 
+ 
+EMPLOYEE EDUCATION 
+All employees who perform these tasks will be trained initially and receive annual 
+training by reviewing the order protocol as competency documentation which includes: 
+who may order tests, type of tests, duplicate testing, cancelling tests, request for credits, 
+charge viewer, CPT, CDM, how to handle manual orders, documentation of ordering. 
+ 
+ 
+REVISIONS 
+6/2010 (created), 3/2015, 8/2017 
+ 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 3 of 3 
+LBA014 
+    By    Date 
+ Prepared/Revised D. Leger 8/2/17 
+Blood Donor Service Director Review D Gremillion 10/13/2017 
+Core Lab Director Review J Teague 10/12/2017 
+Outreach Director Review E Landry 10/16/2017 
+Medical Director Review A Harton 10/7/2017 
+ Effective Date 10/16/2017 
+ Origination Date 6/2010 
+ 
+ 
+ 
+ 

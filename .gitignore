@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#all of the original .doc and such files
+OneDrive Feb 12 2025/
+converted_pdfs1/
+output_texts2/
+converted_pdfs/

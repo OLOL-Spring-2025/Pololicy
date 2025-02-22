@@ -1,0 +1,1655 @@
+ 
+ 
+ 
+ 
+ 
+D ECON TAMINATION AND TREATMEN T 
+OF 
+THE RADIOACTIVELY CONTAMINATED 
+PATIEN T(S) 
+ 
+AT 
+ 
+OUR LAD Y OF THE LAKE REGION AL 
+MED ICAL CEN TER 
+ 
+ 
+ 
+Effective Date: 10/24 TABLE OF CONTENTS 
+ 
+1 10/24 
+ 
+ 
+Section  Page 
+1 PURPOSE 3 
+2 PREREQUISITES 3 
+3 GENERAL 4-9 
+ 3.1 ACTION LEVEL 4 
+ 3.2 RADIATION ACCIDENT PATIENT 4 
+ 3.3 SUPPORT SERVICES 5 
+ 3.4 NOTIFICATION 6 
+ 3.5 CLEANUP OF REA 7 
+ 3.6 PATIENT TRANSFER TO DEFINITIVE CARE 7 
+ 3.7 HANDLING MULTIPLE VICTIMS 7 
+ 3.8 POST ACCIDENT CRITIQUE 9 
+4 PROCEDURE 9 
+ATTACHMENT 1 CHARGE NURSE (OR DESIGNEE) 11 
+ATTACHMENT 2 PHYSICIAN 12 
+ATTACHMENT 3 DECON NURSE 13 
+ATTACHMENT 4 BUFFER ZONE NURSE 14 
+ATTACHMENT 5 CIRCULATION NURSE 16 
+ATTACHMENT 6 HOUSEKEEPING PERSONNEL 17 
+ATTACHMENT 7 SECURITY PERSONNEL 18 
+ATTACHMENT 8 RADIATION SAFETY OFFICER 19 
+ATTACHMENT 9 NUCLEAR MEDICINE TECHNICIANS / 
+RADIATION PROTECTION TECHS 
+ 
+20 
+ATTACHMENT 10 RADIOLOGY DEPARTMENT 24 
+ATTACHMENT 11 DATA INFORMATION SHEET 25 
+ATTACHMENT 12 RADIATION EMERGENCY AREA (REA) 
+DIAGRAM 
+26 
+ATTACHMENT 13 AMBULANCE ARRIVAL DIAGRAM 27 
+ATTACHMENT 14 DRESS OUT PROCEDURE 28 
+ATTACHMENT 15 PERSONNEL DOSIMETRY LOG 29 
+ATTACHMENT 16 PERSONNEL SURVEY ANATOMICAL 
+DIAGRAM 
+30 
+ATTACHMENT 17 PATIENT EXIT PROCEDURE 31 
+ATTACHMENT 18 STAFF EXIT PROCEDURE 32 
+ATTACHMENT 19 SAMPLE COLLECTION 33 TABLE OF CONTENTS 
+ 
+2 10/24 
+ 
+ 
+ATTACHMENT 20 GUIDELINES FOR PATIENT 
+DECONTAMINATION 
+35 
+ATTACHMENT 21 EVALUATION AND MANAGEMENT OF 
+THE IRRADIATED PATIENT 
+40 
+ATTACHMENT 22 INTERNAL CONTAMINATION 44 
+ATTACHMENT 23 LUDLUM MODEL 3 OPERATIONAL CHECK 45 
+ATTACHMENT 24 REFERENCES 46  
+3 10/24 
+ 
+1. PURPOSE 
+ 
+The purpose of this procedure is to describe the response of Our Lady of 
+the Lake Regional Medical Center to an injured and radioactively 
+contaminated patient. The procedure will describe the responsibilities of 
+the hospital staff, the set-up of the Radiation Emergency Area, notification 
+protocols, and equipment and supplies, decontamination and 
+contamination control techniques. 
+Our Lady of the Lake Regional Medical Center is a support hospital for the 
+River Bend Nuclear Power Station and has agreed to provide medical care 
+to patient(s) who sustained injuries and who may be contaminated and/or 
+overexposed to ionizing radiation. 
+ 
+2. PREREQUISITES 
+ 
+2.1 If the patient is from the River Bend Nuclear Station, then the plant 
+will place a notification call to the hospital emergency department. 
+Prior to sending a contaminated patient to the hospital, plant 
+personnel shall perform the following: 
+• Administer emergency medical care. 
+• Notify the hospital and provide appropriate information; 
+description of injuries, contamination status, number of patients, 
+vital signs and estimated time of arrival. 
+• Decontaminate the patient to the extent compatible with the 
+injury. 
+• Assign a radiation protection technician to accompany the patient 
+to the hospital. 
+2.2 If the patient is a member of the general public who has evacuated 
+the River Bend area, the patient may arrive unannounced.  
+4 10/24 
+ 
+3. GENERAL 
+3.1 ACTION LEVEL 
+This plan is activated by the initial notification of the Emergency 
+Department of the impending arrival of a 
+contaminated/overexposed patient. This procedure may also be 
+activated by the unannounced arrival of a contaminated patient. 
+3.2 RADIATION ACCIDENT PATIENTS 
+ 
+Patients involved in a radiation accident are sent to a hospital because 
+of a physical injury or illness that may be complicated by the presence 
+of radioactive materials. Since radiation injuries are not immediately 
+life threatening, primary attention should always be directed at 
+traumatic life-threatening injuries. Concurrently or as soon as the 
+patient is medically stable, the patient should be decontaminated. 
+Radiation accident patients can be classified as an external exposure 
+case, contamination case or combination of both. 
+ 
+External Exposure 
+An external exposure is one in which the injured person is exposed to 
+a radiation source that is not in contact with his body. An example of 
+an external exposure is a patient that receives an x-ray. 
+In the absence of contamination this type of patient (irradiated patient) 
+does not present a health hazard to the hospital staff and can be 
+handled and treated as any other emergency department admission. 
+ 
+Contamination 
+A contaminated patient is an individual who has sustained a physical 
+injury and has radioactive materials (particles or liquid) on his clothing, 
+body and/or in wounds. The first priority is patient stabilization 
+followed by decontamination. Decontamination is the removal of the 
+contaminated material: i.e. removing clothing and/or washing the 
+contaminated area.  
+5 10/24 
+ 
+3. GENERAL (Continued) 
+ 
+Contamination is seldom a hazard to attending personnel. The presence 
+of adequate procedures to prevent the spread of contamination and 
+protect personnel will minimize exposure to attending staff. 
+ 
+EXPOSURE CONTAMINATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3. SUPPORT SERVICES 
+REAC/TS 
+In the event that the patient has incurred excessive radiation exposure 
+and/or internal contamination, the services of REAC/TS (Radiological 
+Emergency Assistance Center and Training Center) in Oak Ridge, TN can 
+be called upon. This assistance may include direct consultation with 
+REAC/TS and/or transfer of the patient to a radiological definitive care 
+center for specialized treatment as determined necessary by the patient’s 
+condition. 
+ 
+REAC/TS (865) 576-1005 (24 hours) 
+(865) 576-3131 (days) 
+ 
+LDEQ 
+In addition to REAC/TS, the Louisiana Department of Environmental 
+Quality (LDEQ) should be contacted concerning any overexposures to 
+radiation. LDEQ can provide technical guidance and assistance to 
+hospital emergency departments for the treatment and decontamination of 
+contaminated injured persons. 
+ 
+LDEQ (225) 219-0941 (24 hours) 
+ 
+6 10/24 
+ 
+ 
+3.4. NOTIFICATION 
+ 
+3.4.1 The notification call regarding a contaminated injured patient shall 
+be directed to the Emergency Department Charge Nurse. The 
+Charge Nurse shall complete the Data Information Sheet, 
+Attachment 10. 
+ 
+3.4.2 If the notification call is not received over the River Bend Hospital 
+Hotline (blue phone), then the Charge Nurse shall place a return 
+call to River Bend Station to validate the initial call. To reach the 
+Control Room dial (225) 381-3600 extension 2299 on commercial 
+phone, or dial 101 on the River Bend Station Hospital Hotline (blue 
+phone). 
+ 
+3.4.3 The Charge Nurse (or Designee) shall notify the following 
+personnel and direct them to the appropriate sections of this 
+procedure: 
+ 
+a) Emergency Department Charge Nurse Attachment 1 
+b) Physician(s) Attachment 2 
+c) Nursing Personnel Attachments 3-5 
+d) Housekeeping Attachment 6 
+e) Security Attachment 7 
+f) Hospital Radiation Safety Officer Attachment 8 
+g) Nuclear Medicine Technicians Attachment 9 
+h) Administration Section 4.11 
+i) Public Relations Officer Section 4.12 
+The following personnel will be notified if needed: 
+a) Respiratory Therapy 
+b) Laboratory 
+c) Radiology (if needed) 
+d) Pharmacy  
+7 10/24 
+ 
+ 
+3.5. CLEANUP OF REA 
+ 
+3.5.1 Clean-up and disposal of waste material should be performed by 
+Nuclear Medicine / radiation protection technicians (RPT's) or 
+designated personnel. 
+ 
+3.5.2 Personnel involved in clean-up activities should don appropriate 
+protective clothing. 
+ 
+3.5.3 The hospital areas requiring clean-up should be isolated (i.e. 
+doors shut, roped off and security posted) until the clean-up 
+personnel arrive and complete the job. 
+ 
+3.5.4 Make necessary arrangements to store contaminated material 
+until such time that transportation of such material can be made. 
+3.5.5 Removal and disposal of the radioactive waste is the 
+responsibility of River Bend if the patient originates from the River 
+Bend Station. For all other patients, the responsibility for removal 
+and disposal of radioactive waste is that of the State (LDEQ) 
+authority. 
+ 
+3.6. PATIENT TRANSFER TO DEFINITIVE CARE CENTER 
+ 
+3.6.1. If it is determined by the attending physician that the patient 
+will require transfer to a definitive care center for evaluation and 
+long term care, Radiological Emergency Assistance Center and 
+Training Center (REAC/TS) will be advised. 
+(865)576-1005 (24 hrs) or (865) 576-3131 (days) 
+3.6.2. Arrangements can be coordinated through the River Bend 
+Emergency Planning Department. 
+ 
+3.7 HANDLING MULTIPLE VICTIMS 
+3.7.1. Multiple injuries occurring at River Bend Station would be 
+managed by utilizing the principles of disaster planning. These 
+include triage at all levels of care and primary attention to life- 
+threatening injuries. Radiation exposure and contamination 
+should receive secondary consideration.  
+8 10/24 
+ 
+ 
+3.7.2. Local EMS should institute triage principles with primary 
+attention to life-threatening injuries. Patients should be 
+evacuated to a higher level of care in the following order: 
+Major trauma 
+Severe acute radiation syndrome 
+Symptomatic exposures to radiation 
+Asymptomatic over-exposures to radiation 
+Difficult contamination problems 
+ 
+3.7.3. Minimum decontamination should include the removal of 
+contaminated clothing. If time, permits and patients' medical 
+condition warrant, further decontamination can be 
+accomplished prior to transport. Every contaminated patient 
+sent to the hospital should be accompanied by a radiation 
+protection technician. Less seriously injured victims should 
+be completely decontaminated at the plant and be transported 
+to the hospital in a "clean" ambulance. 
+ 
+3.7.4. Patients with real or suspected over-exposures and no 
+associated trauma or illness should be handled as follows: 
+Symptomatic: decontaminate at the plant site, and admit to 
+the hospital for observation, evaluation and treatment. 
+Asymptomatic: decontaminate at the plant site, and identify 
+for observation and evaluation at plant site or as an out- 
+patient at the hospital. 
+ 
+3.7.5. The hospital triage team should dress in protective clothing. 
+The REA should be set up to receive multiple contaminated 
+and injured patients. In order to expand the REA to 
+accommodate multiple contaminated and injured patients, the 
+buffer zone can be used as an additional 
+treatment/decontamination area. In this manner, at least three or 
+four patients can be simultaneously treated in the expanded REA. 
+An imaginary buffer zone can then be established in the hallway 
+near the Emergency Department to act as a control point 
+between contaminated and clean areas of the hospital. 
+ 
+3.7.6. Upon arrival of the ambulance the triage team should 
+evaluate the medical and contamination status of the 
+patient(s). Non-contaminated patients should be directed to 
+a clean area. The most seriously injured brought into the 
+decontamination/treatment room. If more than one patient 
+requires immediate care, then they should be brought into the 
+expanded REA for treatment. However, if possible, the less 
+seriously injured should remain in the ambulance.  
+9 10/24 
+ 
+ 
+3.7.7. Hospital personnel and plant radiation protection technicians 
+should be assigned to begin decontamination in the ambulance. 
+Contaminated clothing can be removed and collected and 
+contaminated areas can be wiped with a damp cloth. If 
+decontamination cannot be completed, the areas should be 
+covered with plastic or cloth. 
+ 
+3.7.8. The Decon Table should be used for patients with extensive 
+contamination. Patients with localized contamination can be 
+decontaminated using large waste containers, basin, 
+shampoo tray, wet towels or other methods to contain wash 
+water. 
+ 
+3.7.9. After the patients have been treated and decontaminated, the 
+REA should be closed off; radiation protection personnel should 
+survey and decontaminate hospital supplies, equipment, 
+ambulance and the area prior to releasing it for routine usage. 
+ 
+3.8 EMS MONITORING AND DECON 
+ 
+EMS crews will be monitored and decontaminated at pre-designated 
+emergency worker monitoring and decontamination stations (EWMDS). 
+Contact LDEQ for a list of available EWMDS. 
+ 
+3.9 Post Incident Critique 
+ 
+Within 72 hours, a post incident critique should be conducted as part of an 
+ongoing mechanism to assure the quality of the management and care of 
+the injured/ill contaminated patient. 
+All appropriate parties involved, in any and all aspects of the case, should 
+be in attendance. A place and exact time will be determined and agreed 
+upon. 
+   
+10 10/24 
+ 
+ 
+ 
+4 PROCEDURE 
+ 
+4.1 Emergency Department Charge Nurse (or designee) 
+ 
+4.1.1 The Emergency Department Charge Nurse should use 
+Attachment 1 as a guideline. 
+ 
+4.2 Physician 
+ 
+4.2.1 The Physician should use Attachment 2 as a guideline. 
+ 
+4.3 Decon Nurse 
+ 
+4.3.1 The Decon Nurse should use Attachment 3 as a guideline. 
+ 
+ 
+ 
+ 
+  
+11 10/24 
+ 
+4. PROCEDURE (Continued) 
+ 
+4.4 Buffer Zone Nurse 
+ 
+4.4.1 The Buffer Zone Nurse should use Attachment 4 as a 
+guideline. 
+ 
+4.5 Circulation Nurse 
+ 
+4.5.1 The Circulation Nurse should use Attachment 5 as a 
+guideline. 
+ 
+4.6 Housekeeping 
+ 
+4.6.1 Housekeeping personnel should use Attachment 6 as a 
+guideline. 
+ 
+4.7 Security 
+ 
+4.7.1 Security personnel should use Attachment 7 as a guideline. 
+ 
+4.8 Radiation Safety Officer / Nuclear Medicine Representative 
+ 
+4.8.1 The Radiation Safety Officer / Nuclear Medicine Rep should 
+use Attachment 8 as a guideline. 
+ 
+4.9 Nuclear Medicine Technicians / Radiation Protection Technicians 
+ 
+4.9.1 The Nuclear Medicine Technicians / Radiation Protection 
+Technicians should use Attachment 9 as a guideline. 
+ 
+4.10 Radiology 
+4.10.1 The Radiology Department should use Attachment 10 as a 
+guideline. 
+4.11 Administration 
+ 
+4.11.1 If necessary, hospital administration should ensure that a 
+responsible hospital representative is available to address any 
+media concerns. 
+ 
+4.12 Public Relations Officer 
+ 
+4.12.1 If necessary, designate and prepare an area to address the 
+media. Ensure a representative from the utility is available. 
+River Bend Emergency Planning (225) 378-3310  
+12 10/24 
+ 
+ATTACHMENT 1 CHARGE NURSE (OR DESIGNEE) 
+ 
+Prior to Patient Arrival 
+ 
+1. Ensure internal notifications are made. 
+ 
+2. Provide the physician with Attachment 2. 
+3. Direct maintenance/ER staff to set up the REA using Attachment 12. 
+4. Assign nursing staff to respective positions. 
+• Decon nurse (inside REA) 
+• Buffer zone nurse (outside REA) 
+• Circulation nurse (outside REA) 
+5. Direct the following personnel to don protective clothing and dosimetry. 
+• Physician (if inside the REA) 
+• Decon nurse 
+• Buffer zone nurse 
+ 
+NOTE 
+The hospital Radiation Safety Officer should be notified of 
+anyone reaching 200 mR during the event. 
+ 
+The staff exposure limit is 1000 mR as read on their dosimeter. 
+6. Ensure Radiation Emergency Area (REA) is set up. 
+ 
+7. Ensure appropriate equipment and supplies are available in the REA 
+for medical treatment. 
+ 
+Patient Arrival 
+ 
+1. Provide guidance and directions to team members. 
+ 
+2. Ensure appropriate medical equipment and supplies are available. 
+3. Ensure proper staffing is available for handling non-contaminated 
+patients.  
+13 10/24 
+ 
+ATTACHMENT 2 PHYSICIAN 
+ 
+Prior to Patient Arrival 
+NOTE: 
+In the absence of the hospital Radiation Safety Officer, 
+the Physician should also perform Attachment 8 
+1. Obtain briefing from Charge Nurse. 
+ 
+2. Ensure that the REA treatment room is prepared by maintenance/ER staff 
+(ropes/signs, decontamination equipment, etc.) 
+ 
+3. If entering the REA, don protective clothing and dosimetry in accordance 
+with Attachment 14, Dress Out procedure. 
+NOTE: 
+The hospital Radiation Safety Officer should be notified of 
+anyone reaching 200 mR during the event. 
+The staff exposure limit is 1000 mR as read on their dosimeter. 
+4. In the event of multiple patients, ensure that additional staff is notified. 
+ 
+5. Ensure that additional physician coverage is available for the emergency 
+department. 
+Patient Arrival 
+1. Obtain information regarding the patient’s medical condition and 
+contamination status from EMS and radiation protection technician 
+accompanying patient. 
+ 
+2. Direct and/or perform necessary medical treatment. 
+3. Ensure radiation surveys are performed by nuclear medicine technician / 
+radiation protection technician. 
+4. Direct and/or obtain samples of the contaminated area in accordance with 
+Attachment 19, Sample Collection. 
+ 
+5. Direct and/or perform patient decontamination in accordance with 
+Attachment 20, Guidelines for Patient Decontamintation. 
+ 
+6. Direct and/or perform transfer of patient from REA to appropriate section 
+of the hospital in accordance with Attachment 17, Patient Exit Procedure. 
+ 
+7. Exit REA and remove clothing in accordance with Attachment 18, Staff 
+Exit Procedure  
+14 10/24 
+ 
+ATTACHMENT 3 DECON NURSE 
+ 
+NOTE: 
+Decon Nurses are located in the Decon Room (REA) and are 
+responsible for treatment and decontamination. 
+ 
+May be required to assist in preparing the REA. 
+(Refer to Attachment 6, Housekeeping Responsibilities) 
+ 
+Prior to Patient Arrival 
+ 
+1. Obtain briefing from Charge Nurse. 
+ 
+2. Don protective clothing and dosimetry in accordance with Attachment 14, 
+Dress Out Procedure. 
+ 
+NOTE: 
+The hospital Radiation Safety Officer should be notified of 
+anyone reaching 200 mR during the event. 
+ 
+The staff exposure limit is 1000 mR as read on their dosimeter. 
+3. Obtain stretcher/decon table top and be prepared to meet arriving 
+ambulance. 
+ 
+Patient Arrival 
+ 
+1. Meet patient at ambulance entrance and perform clean team transfer. 
+ 
+2. Assist attending physician in patient assessment and stabilization. 
+ 
+3. Obtain radiological samples from contaminated area in accordance 
+with Attachment 19, Sample Collection. 
+ 
+4. Perform decontamination of patient in accordance with Attachment 20, 
+Guidelines for Patient Decontamination. 
+ 
+5. Perform patient exit procedures in accordance with Attachment 17. 
+ 
+6. Exit REA and remove protective clothing in accordance with Attachment 
+18.  
+15 10/24 
+ 
+ATTACHMENT 4 BUFFER ZONE NURSE 
+ 
+NOTE: 
+May be required to assist in preparing the REA. 
+The Buffer Zone Nurse is located in the Buffer Zone (clean area) 
+and does not handle contaminated patients unless required to 
+enter the Decon Room for assistance. 
+Prior to Patient Arrival 
+ 
+1. Obtain briefing from Charge Nurse. 
+ 
+2. Conduct radiological briefing: 
+• Do not eat, drink, smoke, chew, touch your face, etc. while working 
+around potential radiological contamination. 
+• Contamination limit is 300 CPM 
+• Survey at 1 inch from the surface at a rate of 2-3 inches per second. 
+• Instruct monitored staff to report dosimetry every 15-30 minutes. 
+• Remind staff of notification limits and exposure limits: 200 mR notify the 
+RSO of the exposure, at 1000 mR leave the area immediately and then 
+notify the RSO of the exposure. 
+ 
+3. Don protective clothing and dosimetry in accordance with Attachment 14, 
+Dress Out Procedure. 
+ 
+NOTE: 
+The hospital Radiation Safety Officer should be notified of 
+anyone reaching 200 mR during the event. 
+ 
+The staff exposure limit is 1000 mR as read on their dosimeter. 
+4. Ensure personnel entering REA wear protective clothing and dosimetry. 
+ 
+5. Distribute Dosimeters of Legal Record (DLRs), finger rings and self- 
+reading dosimeters and document using Attachment 15, Personnel 
+Dosimetry Log. 
+ 
+6. Periodically (every 15-30 minutes) record the dosimeter readings for 
+each person in the REA using the Personnel Dosimetry Log. 
+ 
+Patient Arrival 
+ 
+1. Record the medical data. 
+ 
+2. Transfer clean materials/supplies into the REA.  
+16 10/24 
+ 
+ATTACHMENT 4 BUFFER ZONE NURSE (continued) 
+ 
+3. Control entrance and exit of personnel and supplies at the control point 
+entering the REA. 
+4. Ensure that no person or article exits the REA unless a radiological survey 
+is performed. 
+ 
+5. Record results of radiation surveys using Attachment 16, Anatomical 
+Diagram. Information should include survey results, location and 
+time of day. 
+ 
+6. Assist in patient exit procedure in accordance with Attachment 17. 
+7. Do not enter treatment room unless requested by the attending physician. 
+ 
+8. Remove clothing in accordance with Attachment 18. 
+ 
+9. Collect dosimeters and record readings. This task may be 
+performed by a nuclear medicine technician.  
+17 10/24 
+ 
+ATTACHMENT 5 CIRCULATION NURSE 
+ 
+NOTE: 
+Should life threatening conditions arise, care of the patient takes 
+precedence over taking the time to dress out in protective clothing. 
+In that instance, wearing of dosimetry is the minimum requirement. 
+ 
+Circulation Nurse is located outside the REA and is not 
+required to dress in protective clothing or wear dosimetry. 
+1. Circulation Nurse is responsible for obtaining supplies from 
+Emergency Department and transferring the supplies to the Buffer 
+Zone Nurse. 
+ 
+2. If additional personnel are required in the REA, the Circulation Nurse 
+should don protective clothing and dosimetry prior to entering the REA.  
+18 10/24 
+ 
+ATTACHMENT 6 HOUSE KEEPING PERSONNEL 
+ 
+Prior to Patient Arrival 
+ 
+1. Upon notification, obtain the Radiation Emergency Area (REA) equipment 
+and supplies and begin preparation of the area in accordance with 
+Attachment 12. 
+ 
+2. Remove any unnecessary equipment from the REA. 
+ 
+3. Obtain radiation emergency supplies and stage in the REA. 
+ 
+4. Stage REA in accordance Attachment 12, to include the following: 
+ 
+• Stanchions, 
+• Rope and signs 
+• Step off pad, 
+• Wall procedure charts 
+• Waste receptacles 
+• Anti-Contamination clothing removal procedure  
+19 10/24 
+ 
+ATTACHMENT 7 SECURITY PERSONNEL 
+ 
+Prior to Patient Arrival 
+ 
+1. Place Herculite, ropes, signs and stanchions at the ambulance receiving 
+area using Attachment 13, Ambulance Arrival Diagram. 
+ 
+Patient Arrival 
+1. Direct ambulance to designated receiving area. 
+2. Secure ambulance with rope and stanchions. 
+3. Restrict access to ambulance area by unauthorized personnel. 
+4. Ensure ambulance personnel remain until a nuclear medicine 
+technician / radiation protection technician clears them for release. 
+5. Direct non-contaminated patients to alternate Emergency 
+Department entrance.  
+20 10/24 
+ 
+ATTACHMENT 8 RADIATION SAFETY OFFICER 
+ 
+NOTE: 
+During the management of contaminated injured/ill cases, 
+the hospital Radiation Safety Officer will be in charge. 
+ 
+The Nuclear Medicine Techs (or River Bend RP Techs) are in a support 
+position and are under the lead of the RSO. 
+The Physician may have both the Physician and the 
+Radiation Safety Officer duties. 
+1. Ensure the monitoring of the ambulance, ambulance equipment and 
+personnel 
+ 
+2. Assume overall responsibilities of radiation safety of the involved 
+personnel and patient. 
+ 
+3. Direct the Nuclear Mecicine Techs (and/or RP techs) to provide 
+immediate assistance as required. 
+ 
+4. When notified that any staff member reaches the exposure limit of 
+1000 mR, ensure that the individual is replaced. 
+ 
+5. Refer to Section 3.5, Cleanup of REA. 
+ 
+NOTE: 
+Hospital Radiation Safety Officer and plant Nuclear Medicine Techs/RP 
+Techs will follow hospital and plant standard practice during radiological 
+surveys.  
+21 10/24 
+ 
+ATTACHMENT 9 NUCLEAR MEDICINE TECHNICIANS / RP TECHS 
+ 
+NOTE: 
+During the management of contaminated injured/ill cases, 
+the hospital Radiation Safety Officer will be in charge. The Nuclear Medicine 
+Techs and River Bend Radiation Protection Techs are in a support position 
+and are under the lead of the RSO. 
+If the patient originates from River Bend Station, plant RP technicians 
+will accompany the patient. These technicians can carry out the below 
+responsibilities. 
+ 
+Prior to Patient Arrival 
+If the patient is coming from River Bend, a Radiation Protection Technician (RPT #1 ) 
+will accompany the patient(s) in the ambulance and bring appropriate instrumentation 
+with him to the hospital. If staffing permits, a second Radiation Protection Technician 
+(RPT # 2) will arrive at the hospital in a separate vehicle and assist in the duties 
+outlined below: 
+NOTE: 
+Hospital Radiation Safety Officer and Nuclear Medicine Techs / Plant RP 
+Techs will follow hospital and plant standard practice during radiological 
+surveys. 
+Ludlum Model 3 prestaged at OLOL RMC Nuclear Medicine department by 
+River Bend Station should have an operational check performed per 
+Attachment 23 prior to use. 
+Survey readings above 300 counts per minute (or 0.1 mR/hr) are considered 
+to be contamination. 
+Patient Arrival 
+Technician #1 
+ 
+1. Do not interfere with or delay patient care. 
+2. If patient is not accompanied by RBS RP Tech, perform whole body 
+survey of patient 
+3. Provide radiation status report to the medical staff; location of 
+contamination and survey readings. 
+4. Ensure medical team is wearing protective clothing and dosimeters. 
+ 
+5. Don hospital protective clothing; as appropriate.  
+22 10/24 
+ 
+ATTACHMENT 9 NUCLEAR MEDICINE TECHNICIANS / RP TECHS 
+(continued) 
+ 
+6. Provide advice and guidance to attending staff regarding radiation 
+exposure and protective actions. 
+ 
+7. Upon completion of medical treatment, initiate decontamination 
+procedures to include: 
+ 
+a) Complete whole body survey. Provide results to Buffer Zone Nurse 
+(or Buffer Zone Nuclear Medicine Technician). 
+ 
+b) Ensure samples from contaminated areas are obtained and 
+properly labeled. 
+ 
+c) Provide guidance regarding decontamination techniques. 
+ 
+d) Perform frequent surveys of ER staff’s hands. 
+ 
+8. Provide direction regarding contamination control methods. 
+ 
+9. Ensure patient exit procedure is performed using Attachment 17. 
+ 
+a) Prior to transfer of patient, survey ER staff’s hands and direct them 
+to remove outer gown and outer set of gloves. 
+ 
+b) Instruct Decon Team not to step on white floor covering during the 
+patient exit. 
+ 
+c) Prior to transfer of patient to clean stretcher, perform final survey of 
+patient and affected area, including the back of the patient. 
+10. Assist staff in removal of protective clothing and use of step-off pad in 
+accordance with Attachment 18. 
+11. Survey and decontaminate the hospital REA and equipment and supplies 
+as required. (Refer to Section 3.5, Cleanup of REA). 
+ 
+NOTE: 
+If contamination was the result of a River Bend event, then contact River 
+Bend for disposition of waste. If not, then contact LDEQ. 
+12. Perform an inventory of hospital equipment and supplies and contact 
+Emergency Planning to arrange for replacements.  
+23 10/24 
+ 
+ATTACHMENT 9 NUCLEAR MEDICINE TECHNICIANS / RP TECHS 
+(continued) 
+ 
+NOTE: 
+If ambulance and paramedics are secured by hospital security personnel, 
+then one technician can perform both responsibilities. Coordinate with 
+security. 
+ 
+Survey readings above 300 counts per minute (or 0.1 mR/hr) are considered 
+to be contamination. 
+Technician #2 
+ 
+1. Survey ambulance personnel. Provide them with guidance if 
+decontamination is required. Decontamination can be performed in the 
+REA. 
+2. Collect ambulance personnel dosimetry. 
+3. Survey ambulance and equipment. Decontaminate, if extent of 
+contamination is limited or secure the ambulance and contact River Bend 
+Station or LDEQ for decontamination. 
+ 
+4. Coordinate the ambulance clearance procedure with the following: 
+▪ Radiation Safety Officer (RSO) or, 
+▪ Paramedic or, 
+▪ Staff RN 
+ 
+5. Monitor route of travel from ambulance to REA and decontaminate as 
+necessary. 
+ 
+6. Assist Buffer Zone Nurse at Control Point. 
+ 
+7. Perform surveys of articles leaving the Decon Room. 
+ 
+8. Assist Buffer Zone Nurse with recording of radiation survey results. 
+ 
+9. Assist Buffer Zone Nurse with patient exit procedure in accordance with 
+Attachment 17. Ensure personnel entering the REA to assist in patient 
+transfer take appropriate precautions. Direct Buffer Zone personnel not to 
+walk into the Decontamination Area. 
+ 
+10. Assist Technician #1 with staff exit procedure in accordance with 
+Attachment 18 
+. 
+11. Survey patient and attendants as they exit the REA.  
+24 10/24 
+ 
+ 
+12. Collect dosimetry (may be done by Buffer Zone Nurse). 
+ 
+13. Survey and decontaminate hospital REA. (Refer to Section 3.5, Cleanup 
+of REA). 
+ 
+14. Survey and decontaminate hospital equipment and supplies. 
+ 
+15. Collect and control radioactive waste and contact River Bend Station or 
+LDEQ for disposition.  
+25 10/24 
+ 
+ATTACHMENT 10 RADIOLOGY DEPARTMENT 
+ 
+NOTE: 
+Upon receipt of notification by Charge Nurse of incoming injured or ill 
+contaminated patient the radiological technician on duty will perform the 
+following procedure as necessary: 
+Prior to Patient Arrival 
+ 
+1. Ensure x-ray equipment is in operating order and is located in near the 
+buffer zone. 
+ 
+2. If necessary, don protective clothing in accordance with Attachment 14. 
+ 
+Patient Arrival 
+ 
+Upon request for x-ray, determine if procedure is to be handled from 
+(clean) buffer zone or (potentially contaminated) REA. 
+ 
+X- ray procedure performed from Buffer Zone 
+ 
+1. Position machine outside of the REA. 
+2. Have REA personnel position patient near doorway. 
+3. Bag x-ray cassette (plastic bag) and hand into room. 
+4. After x-ray is taken, a person in the REA will hold the bagged 
+cassette in one hand and pull down the bag with the other hand. 
+5. As the cassette is handed to the Buffer Zone Nurse it will be 
+radiologically monitored. 
+6. The bag remains in the REA room. 
+ 
+ 
+X- ray procedure performed in the REA room 
+ 
+1. Roll clean white herculite into the REA. 
+2. Bag x-ray cassette 
+3. Roll x-ray machine into the REA (on clean pathway). 
+4. Perform appropriate x-rays. 
+5. As machine exits room at control point it will be monitored. 
+6. As the cassette is handed to the Buffer Zone Nurse it will be 
+radiologically monitored. 
+7. The bag remains in the REA room. 
+8. Have Nuc Med Tech or RP Tech perform hand and foot survey prior to 
+leaving REA.  
+26 10/24 
+ 
+ATTACHMENT 11 DATA INFORMATION SHEET 
+ 
+1. Date and Time of Call:   
+2. Person Calling: 
+Name of Caller:  
+Telephone Number:  
+ 
+NOTE: If call is received over the River Bend Hospital Hotline (blue 
+phone) a return call to the plant is NOT necessary to validate 
+the information. If contacted directly by ambulance crew use 
+established communications protocols used with ambulance 
+crews. 
+3. Accident: 
+Number of Patients:  
+Extent of Injuries:   
+ 
+ 
+ 
+Name of individual:  
+4. Contamination Status: 
+ 
+ 
+ 
+ 
+ 
+5. On-site Decon Efforts:  
+ 
+6. Expected Time of Arrival:   
+27 10/24 
+ 
+KEY 
+Stretcher = 
+ 
+ 
+ 
+Wall Chart = 
+ 
+ 
+Rad Waste = 
+ 
+ 
+Radiation Warning Sign = 
+Stanchion(post) = 
+Rad Rope = 
+ 
+Anti-Contamination Clothing 
+Removal Procedure 
+ATTACHMENT 12 
+ 
+Trauma 3 
+Radiation Emergency Area (REA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PYXIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sink Cabinet 
+Radiological Eqmt and Supplies 
+Headwall 
+Step 
+Off 
+Pad  
+28 10/24 
+ 
+ATTACHMENT 13 
+ 
+Ambulance Arrival Area 
+ 
+KEY 
+ 
+Radiation Warning Sign = 
+Rad Rope = 
+ 
+Metal Stanchion = 
+ 
+Ground Tarp = 
+  
+ 
+ 
+29 10/24 
+ 
+ATTACHMENT 14 DRESS OUT PROCEDURE 
+ 
+NOTE 
+Personnel may dress out in blood-borne pathogen 
+clothing (CDC compliant) in lieu of the pre-packaged kits. 
+Double gowns and gloves are required. 
+ 
+Steps for dressing out in pre-package kits: 
+ 
+1. Obtain dress out kit from REA supply cabinet. 
+2. Don shoe covers over pant leg. 
+3. Clip DLR on scrub top or shirt. 
+4. Put on finger ring dosimeter with detecting element at palm 
+surface. 
+5. Don first gown and secure with attached straps. 
+6. Don first set of gloves. 
+7. Don second gown and secure with attached straps. 
+8. Clip self-reading dosimetry to gown. 
+11. Don second set of gloves. 
+12. Don mask and cap.  
+30 10/24 
+ 
+PERSONNEL DOSIMETRY LOG 
+ 
+ 
+NAME 
+Date / Time 
+Issued 
+ 
+DLR # 
+Self- 
+Reading 
+Dosimeter 
+# 
+Dosimeter Readings  
+Comments  
+Initial 
+ 
+1 
+ 
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+             
+30 10/24 
+ 
+PERSONNEL SURVEY ANATOMICAL DIAGRAM 
+ 
+PATIENT’S NAME  SURVEY TIME   
+ 
+ 
+ 
+ 
+ 
+TYPE OF METER USED   
+(Model and serial number) 
+Average background cpm    
+DISTANCE: Skin to Probe:  (inches) 
+ 
+31 10/24 
+ 
+ATTACHMENT 17 PATIENT EXIT PROCEDURE 
+ 
+1. Prerequisite 
+ 
+a. Patient is decontaminated and/or a decision is made to 
+transfer the patient to appropriate hospital service. 
+ 
+b. Change gloves and remove outer garment. 
+ 
+2. Procedures 
+ 
+a. Buffer Zone personnel should bring a stretcher into the REA. 
+b. Perform survey of patient, including the back of the patient, prior to 
+transfer to the clean stretcher. 
+c. Transfer the patient from decon table to the clean stretcher. The 
+Buffer Zone personnel can assist in the transfer. 
+d. Transport the stretcher out of the REA. 
+ 
+CAUTION 
+The decon team members should not walk on the clean floor covering. 
+The Buffer Zone personnel should not walk off the white floor covering. 
+Ensure the stretcher does not roll off the white floor covering. 
+e. If necessary, survey patient and stretcher at exit point from room 
+(Nuclear Medicine / RP Technician discretion).  
+32 10/24 
+ 
+ATTACHMENT 18 STAFF EXIT PROCEDURE 
+ 
+1. Prerequisite 
+ 
+a. Place large lined waste container (32 gallon) at the REA exit. 
+ 
+b. Designate sequence of staff exit. Exit one person at a time. 
+ 
+c. Nuclear Medicine / Radiation Protection personnel should control 
+the exit protocol and remind personnel of the sequence for 
+removing protective clothing. 
+ 
+d. Nuclear Medicine / Radiation Protection technician located in REA 
+should assist in removing attendant’s protective clothing. 
+ 
+2. Procedure 
+ 
+NOTE 
+Place all items in waste container inside the REA. 
+ 
+a. Remove outer set of gloves. 
+ 
+b. Remove self-reading dosimeter and give to Radiation Protection 
+Technician outside of the REA. 
+ 
+c. Remove outer gown. 
+ 
+d. Remove mask. 
+ 
+e. Remove cap. 
+ 
+f. Remove second gown, from inside out. 
+ 
+g. While facing into the REA, remove shoe covers and step on to the 
+step-off pad as they are removed. Cut along front seam, if 
+necessary. 
+ 
+h. Remove second set of gloves. 
+ 
+i. Nuclear Medicine / Radiation Protection technician should perform 
+a full body survey of every staff member exiting the REA. 
+ 
+h. Return DLR to Buffer Zone Nurse or Nuclear Medicine / RP 
+Technician.  
+33 10/24 
+ 
+ATTACHMENT 19 SAMPLE COLLECTION 
+ 
+A. General 
+ 
+The collection of samples from contaminated areas is a prerequisite for a 
+thorough evaluation of the radiological status of the patient. Samples should be 
+obtained prior to patient decontamination. The sample collection kit should be 
+used. Once labeled, return the sample to the kit. The Nuclear Medicine 
+Technician will provide samples to LDEQ for analysis. If the patient is from 
+River Bend, then the radiation protection technician will take samples to the 
+plant for analysis. 
+ 
+B. Principles 
+ 
+1. The objectives of sample collection are: 
+ 
+a. To evaluate the amount and composition of the radioactive 
+contaminants on or in the body. 
+b. To obtain data with regard to the patient's exposure. 
+c. To supply information on the biological injury inflicted by the 
+radiation exposure. 
+ 
+2. A sample with an unidentified source (location, time taken) cannot be 
+evaluated properly. Ensure that all samples are properly collected, 
+stored and labeled. 
+ 
+3. Obtain samples from the contaminated area as identified by the radiation 
+protection technician during the survey of the patient. 
+ 
+C. External Contamination Sample: 
+ 
+1. Intact Skin: Use a cotton tip swab, moisten with a few drops of water and 
+swab the contaminated area. Place swab in a separate container and 
+label with time and location. 
+ 
+2. Wound: Use either one of the following methods: 
+ 
+a. For large wounds with visible blood or wound fluid, obtain a few cc 
+sample using an eye dropper or syringe; transfer to bottle and 
+label. 
+b. For superficial wounds, rub gently with cotton swabs; return to 
+tube and label. 
+c. For wounds with visible dirt or debris, remove with cotton tip or use 
+tweezers; transfer sample to small glass vial and label. 
+d. Save the primary dressing in a plastic bag.  
+34 10/24 
+ 
+ATTACHMENT 19 SAMPLE COLLECTION (continued) 
+ 
+ 
+D. Internal Contamination Samples: 
+ 
+1. Body Orifices: Wet cotton tip swab with a few drops of water or saline 
+and swab each nostril, ear and mouth with a separate swab.  Place in 
+container and label with time and location. 
+ 
+2. In cases where internal contamination is suspected: 
+• Collect initial urine sample and subsequent 24 hour urine. 
+• Collect fecal samples for first 72 hours. 
+• For further instruction, seek advice from the radiation protection 
+personnel, LDEQ, and REAC/TS. 
+ 
+E. External Exposure Samples 
+ 
+In cases of a total body exposure: 
+ 
+1. Obtain 10cc of blood for complete blood count and differential. Record 
+time these samples were taken. Call REAC/TS for further instructions. 
+ 
+2. Obtain 10cc of blood in a sterile heparinized tube for radiation 
+cytogenetic study. Sample should be chilled not frozen. Call REAC/TS 
+prior to obtaining sample. 
+ 
+3. Contact LDEQ for additional guidance.  
+35 10/24 
+ 
+ATTACHMENT 20 GUIDELINES FOR PATIENT DECONTAMINATION 
+ 
+1. Definition 
+ 
+Decontamination is the physical removal of the contaminant from the patient; 
+i.e. clothing, intact skin, wound or body orifices. 
+ 
+2. Objective 
+ 
+a. To remove the contamination to reduce exposure to the patient. 
+b. To minimize exposure to the attending staff and prevent contamination of 
+hospital personnel. 
+c. To prevent the spread of contamination beyond the REA. 
+ 
+3. Prerequisites 
+ 
+a. Emergency medical care and patient stabilization should be performed 
+prior to decontamination. 
+b. Collect samples of the contaminated areas. 
+ 
+4. Documentation 
+ 
+Record decontamination efforts including decontamination method, solutions 
+used, location of contamination, number of washings and skin condition. 
+ 
+5. Decontamination Supplies 
+ 
+The REA equipment and supplies include a Decontamination Kit; solutions, 
+applicators and contamination control articles. 
+ 
+6. Decontamination Priorities 
+ 
+a. Wounds 
+b. Body Orifices 
+c. Intact skin 
+ 
+NOTE 
+Priorities may be altered if prohibitive degrees of 
+contamination are in/on any of the above locations. 
+Simultaneous decontamination of multiple areas may be performed.  
+36 10/24 
+ 
+ATTACHMENT 20 GUIDELINES FOR PATIENT DECONTAMINATION 
+     (Continued) 
+ 
+7. Preparation 
+ 
+a. Cut away clothing, roll the clothing from inside to out to avoid cross 
+contamination of the skin. Discard in lined waste container. 
+b. Obtain a complete body survey to identify contaminated areas. 
+c. Collect samples from each contaminated site. 
+d. Check the effectiveness of the decontamination by multiple radiation 
+surveys. 
+e. Protect "clean areas" (non-contaminated areas) by covering with water 
+proof drapes. 
+ 
+8. Decontamination of Wounds 
+ 
+a. In general, use standard wound treatment/cleaning protocol. 
+b. Cover or drape adjacent clean areas using steri-drape or waterproof 
+towels (i.e. "Chux") and secure with surgical tape. 
+c. Items that can be used in decontamination: 
+1) Irrijet and Saline 
+2) Betadine sponges (i.e. Cliniscrub) 
+3) Soft brushes (i.e. E-Z Prep) or Gauze Pads, soak in Betadine or 
+Saline. 
+d. Suggested sequence of decon solutions: 
+1) Saline 
+2) Betadine 
+3) Hydrogen Peroxide (3%) 
+ 
+NOTE 
+Proceed to next solution if levels have not decreased after three washings. 
+Decon to background radiation levels (< 300 cpm) unless medically 
+contraindicated. 
+e. If wound cannot be completely decontaminated, cover with dressing and 
+seek guidance from radiation protection personnel and LDEQ and/or call 
+REAC/TS. 
+f. Following decontamination effort, dress wound and cover with waterproof 
+dressing (i.e. Steri-drape). Secure with surgical tape. 
+g. Discard materials in lined waster container. 
+i. Following each decontamination effort, survey area and record results.  
+37 10/24 
+ 
+ATTACHMENT 20 GUIDELINES FOR PATIENT DECONTAMINATION 
+     (Continued) 
+ 
+9. Decontamination of Body Orifices 
+ 
+a. Decontaminate area surrounding orifices. 
+b. Prevent cross contamination of clean areas using waterproof drape. 
+c. Gently clean orifice using wet swab. 
+d. Eyes 
+1) Rinse with a stream of water from nose to temple direction. 
+e. Ear Canal 
+1) Gently swab with cotton tip swab moisten with Saline. 
+2) Rinse with Saline. 
+3) Suction may be required. 
+f. Nostrils 
+1) Turn head to side (if possible) 
+2) Use cotton tip swab moistened with Saline. 
+3) Suction may be required. 
+4) Instruct patient not to swallow, if possible. 
+ 
+10. Decontamination of Intact Skin 
+ 
+a. Protect non-contaminated adjacent skin areas by covering with 
+waterproof drapes (i.e. "Chux"). Secure using surgical tape. 
+b. The following articles can be used to apply the various decontamination 
+solutions. 
+1) Soft scrub brushes (i.e. E-Z scrub) 
+2) Decon Pads 
+3) Gauze Packs (4" x 4") 
+4) Solution Bowls 
+c. General Decontamination Guidelines 
+1) Proceed to next solution if radiation levels have not decreased after 
+three washings. 
+2) Decon to background radiation levels (<100 cpm) unless medically 
+contraindicated (i.e. skin irritation, reddening.) 
+3) Proceed from highest contamination level to lowest. 
+Simultaneously washing of contaminated areas can be performed.  
+38 10/24 
+ 
+ATTACHMENT 20 GUIDELINES FOR PATIENT DECONTAMINATION 
+     (Continued) 
+ 
+d. Decontamination Method 
+1) Rinse area for approximately one minute using lukewarm water or 
+Saline. 
+2) Wash area with lukewarm water and a mild soap or Betadine. 
+3) Rinse off with copious amounts of water. 
+4) Blot dry using disposable towel. 
+5) Survey area and repeat. If level has decreased, continue using 
+same method (i.e. soap and water). If level has not decreased 
+after three washings proceed to next step. 
+6) Wash area using Phisoderm. Apply with E-Z scrubs or gauze 
+pads. Rinse and blot dry. If level has not decreased after three 
+washings and skin is not irritated or reddened, proceed to next 
+step. 
+7) Wash area using Hydrogen Peroxide (3%). Apply with scrub 
+brush or gauze pads. If level has not decreased after three 
+washings proceed to next step. 
+8) Gently apply Clorox (5%) using gauze pads or cotton tip 
+applicator. Rinse with water. If radiation level has not decreased 
+after three washings and skin is not irritated or reddened proceed 
+to next step. 
+9) Make a paste of tide and corn meal or use Boraxo soap. Apply 
+with decon pad. Rinse and blot dry. 
+ 
+CAUTION 
+Care should be executed not to abrade the skin excessively. 
+10) If radiation levels have not decreased after three washings consult 
+with radiation protection personnel and LDEQ regarding the health 
+hazard of the fixed contamination and/or call REAC/TS for 
+consultation. 
+10) Following completion of decontamination effort, apply skin lotion 
+(i.e. Aloe Vista) to affected area. 
+11) If fixed contamination is present, cover area with a dressing (i.e. 
+Tegaderm Transparent Dressing) and label area with 
+contamination level.  
+39 10/24 
+ 
+ATTACHMENT 20 GUIDELINES FOR PATIENT DECONTAMINATION 
+     (Continued) 
+ 
+11. Decontamination of Hair 
+ 
+a. Protect clean areas using waterproof drapes (i.e. "Chux"). 
+b. Shampoo area with mild shampoo (i.e. Johnson and Johnson Shampoo). 
+c. Thoroughly rinse hair. 
+d. If necessary, repeat several times. 
+e. If contamination persists, clip affected area. 
+f. Localized hair contamination (i.e. leg) may require hair to be clipped or 
+shaved (i.e. Shave Prep Kit). 
+ 
+12. Nail Bed Decontamination 
+a. For contamination under nails, clip nails with nail clipper and wash area 
+with Phisoderm and E-Z Scrub. 
+ 
+13. Contamination Control Guidelines 
+a. Discard all material in lined waste containers. 
+b. Change gloves frequently. 
+c. Prevent cross contamination of clean areas using waterproof drapes. 
+d. Rinse hands before handling/touching clean areas. 
+e. Respect established traffic flow patterns and control points. 
+f. Wear appropriate protective clothing. 
+g. Contain contamination to the REA. 
+i. Request frequent radiation surveys of suspected contaminated areas. 
+j. Do not pass supplies out of REA without a survey.  
+40 10/24 
+ 
+ATTACHMENT 21 EVALUATION AND MANAGEMENT OF THE 
+IRRADIATED PATIENT 
+ 
+The following is a summary of information on the effects of total body and local 
+irradiation. 
+ 
+A. Definition 
+The patient who has received a less than supra lethal total body or partial body 
+exposure to a source of penetrating ionizing radiation will exhibit symptoms 
+which are not devastating or life threatening. During the emergency phase he 
+will require non aggressive symptom treatment. Supra lethal exposures may 
+require aggressive treatment for CNS and cardiovascular collapse. 
+B. Procedure 
+1. Obtain a detailed history to include type of radiation exposure accident. 
+circumstances, extent of exposure, position of source to the individual. 
+ 
+2. Perform a physical and take photographs. Pay attention to skin lesions, 
+nausea and vomiting and their relationship to the time and duration of 
+exposure. 
+ 
+C. Hematopoietic Signs and Symptoms 
+For Total Body Gamma or X-Ray Radiation delivered over a short period of time 
+(hours). 
+ 
+Dose: Effect on Exposed Persons: 
+ 
+5,000 mrad (0.05 Gy.) No detectable injury or symptoms. 
+ 
+50,000 mrad (0.5 Gy.) Asymptomatic; Detectable minor depression of white 
+cells. 
+ 
+100,000 mrad (1 Gy.) May produce prodromal symptoms (nausea, 
+vomiting, fatigue) in about 10 - 20% of persons within 
+2 days. 
+ 
+450,000 mrad (4.5 Gy.) Prodromal symptoms, followed by a latent period of 
+1 - 3 weeks when moderately severe illness 
+develops, due to infection and bleeding. Most people 
+require hospitalization. Expect 50% mortality if 
+untreated. 
+ 
+600,000 mrad (6 Gy.) More serious degree of the illness described above. 
+Approaching 100% lethality without medical 
+treatment.  
+41 10/24 
+ 
+ATTACHMENT 21 EVALUATION AND MANAGEMENT OF THE 
+IRRADIATED PATIENT (continued) 
+ 
+D. Gastrointestinal Signs and Symptoms 
+ 
+For Total Gamma or X-Ray Radiation delivered over a short period of time 
+(hours). 
+ 
+Dose: Effects on Exposed Persons: 
+ 
+>1,000 - 3,000 rad (10 - 30 Gy.) Immediate and profuse onset of nausea, 
+vomiting and diarrhea followed by a short or 
+no latent period. 
+ 
+Death is probable due to massive 
+denuding of the GI tract and 
+accompanying septicemia, 
+dehydration and electrolyte 
+imbalance. 
+ 
+E. Cardiovascular/CNS Signs and Symptoms 
+ 
+For Total Body Gamma or X-Ray Radiation delivered over a short period of time 
+(hours). 
+ 
+Dose: Effect on Exposed Persons: 
+ 
+>3,000 rad (30 Gy.) Death in 24 to 48 hours due to vascular 
+collapse. Immediate nausea, vomiting, 
+anorexia and prostration and irreversible 
+hypotension. 
+42 10/24 
+ 
+ATTACHMENT 21 EVALUATION AND MANAGEMENT OF THE 
+IRRADIATED PATIENT (continued) 
+Local Exposure 
+1. Definition 
+ 
+A localized exposure is an irradiation of a small area on volume of body 
+such as face or extremities. Localized irradiation injury will seldom 
+produce, initial signs and symptoms with the exception of brief exposure 
+to very high (000's rem) doses. Radiation damage to the area can 
+continue to occur over weeks and months producing ulcerations and 
+chronic radiodermatitis. 
+ 
+2. Skin 
+ 
+Erythema may occur within the first 24 - 48 hours with doses in excess of 
+1500 rads. Erythema may fade after the first week and return in second 
+and third weeks. 
+ 
+3. Hair 
+ 
+Temporary hair loss occurs with doses in the range of 300 - 500 rads 
+approximately 2 to 3 weeks after the exposure. It takes approximately 
+700 rads for permanent hair loss. 
+ 
+4. Eye 
+ 
+The lens is a most sensitive area, about 200 rad of X or gamma radiation 
+will produce initial cataract formations in about 10% of those so exposed. 
+A cataract can develop as early as 2 or 3 months after a very high 
+exposure. 
+ 
+5. Gonads 
+ 
+The spermatagonia B cells are among the most radiosensitive cells. 
+Oligospermia can occur with doses as low as 15 rad. It is usually seen 
+with 100 rad and above. Permanent sterility may occur with doses in the 
+range of 600 - 1,000 rads.  
+43 10/24 
+ 
+ATTACHMENT 21 EVALUATION AND MANAGEMENT OF THE 
+IRRADIATED PATIENT (continued) 
+F. Laboratory Tests for Evaluation of Irradiated Patient 
+ 
+1. Complete blood count with differential and platelet count. 
+Frequency: 3 - 4 times a day until a better estimate of dose is obtained. 
+ 
+Significance of Absolute Lymphocyte Count* to the Prognosis 
+Lymphocyte Count (nadir) Significance and Prognosis 
+Over 2,000/cu mm Normal range; no significant injury expected; 
+prognosis good. 
+ 
+1,200 - 1,500 Significant but probably non-lethal injury has 
+occurred; prognosis good. 
+ 
+Less than 1,200 Serious injury; prognosis guarded. 
+ 
+Less than 500 Possible lethal injury; prognosis poor. 
+ 
+Less than 100 Lethal injury if left untreated. 
+ 
+*When taken within the first 48 hours of an acute whole-body exposure. 
+ 
+2. Chromosome Analysis 
+ 
+Obtain 10 cc heparinized preservative free blood and chilled (not frozen). 
+In addition, obtain a control sample from a non exposed person. 
+ 
+Call REAC/TS prior to drawing blood for analysis.  
+44 10/24 
+ 
+ATTACHMENT 22 INTERNAL CONTAMINATION 
+ 
+The following is a brief summary on internal contamination treatment. Consult 
+references for detailed information. 
+ 
+4. Definition 
+ 
+Internal contamination occurs when the radioactive material is inhaled, ingested 
+or absorbed through the skin or wound. Percutaneous absorption is not a major 
+concern except in the case of iodine or tritium radionuclides. 
+ 
+B. Procedure 
+ 
+5. Identify the contaminate, amount and kind of each isotope present. This can 
+be calculated using data from radiation surveys and smears, analyses of 
+bioassay samples and whole body counts. 
+ 
+2. The dose calculations will determine whether the amount absorbed 
+requires immediate treatment. Consult with health physicist or REAC/TS. 
+ 
+3. Treatment is targeted to reducing absorption and incorporation of the 
+radionuclide and to hasten the elimination of the contaminant. 
+ 
+Examples of treatment include: 
+ 
+a. Purge the GI tract with emetics and cathartics. 
+b. Inhibit intestinal absorption of some radionuclides with antacid and 
+alginates.. 
+c. Promote urinary excretion with diuretics. 
+d. Block incorporation of radionuclides in a particular organ using a 
+stable element that saturates the organ. An example is potassium 
+iodide which will reduce the uptake of radioactive iodine. 
+ 
+6. Treatment protocols should be discussed with a radiation medicine physician 
+prior to being initiated.  
+45 10/24 
+ 
+ATTACHMENT 23 Ludlum Model 3 Operational Check  
+ 
+INITIAL/DATE 
+1. Perform an operational check on the survey meter.   
+1.1 Verify meter is within calibration date. 
+1.2 If not installed, insert batteries into the survey meter. 
+1.3 If not attached, attach detector to meter. 
+1.4 If installed, remove detector plastic cover. 
+1.5 Set “AUD” toggle switch to ON to turn on speaker. 
+1.6  Set response toggle switch to S for slow response 
+(recommended). 
+1.7 Turn meter switch to BAT. Verify needle lies within BAT TEST 
+range on meter display. Check or replace batteries, as necessary. 
+1.8 Perform instrument source check. 
+a. Obtain check source provided with instrument. 
+b. Meter switch should be turned to X10 scale. 
+c. Using provided check source, place the check source 
+(centered) firmly against the detector with the writing on the 
+face of the check source towards the detector. It will take 
+60 seconds for the meter to reach and stabilize on the 
+highest reading. 
+d. If reading is within the specified range of 14,500 – 17,500 
+cpm (1450 – 1750 on the meter face on X10 scale), the 
+meter is good to use. If meter reading is outside this 
+range, do NOT use meter and notify appropriate person. 
+1.9 Perform Ludlum 3 survey meter alarm check. 
+a. Turn meter switch to X0.1 scale. 
+b. Move detector towards source and verify increase in audible 
+clicks and needle response. 
+2. Take background reading by setting the meter switch to X0.1 
+scale. Observe and record the average background reading.   
+Note: Normal background ranges from 30 to 60 counts per minute. 
+  
+46 10/24 
+ 
+ATTACHMENT 24 REFERENCES 
+ 
+ 
+ 
+1. American Medical Association. A Guide to Hospital Management of Injuries 
+Arising from Exposure to or Involving Ionizing Radiation. Chicago, IL, 1984. 
+ 
+2. American College of Radiology. Radiation Accidents. Reston, VA, 1989. 
+ 
+3. American College of Radiology. Medical Research, A Guide to Good Practice, 
+Reston, VA, 1985. 
+ 
+4. Hubner KF and Fry SA eds.: Medical Basis for Radiation Accident 
+Preparedness. Elsevier North Holland, Inc., 1980. 
+ 
+5. ICRP, The Principles and General Procedures for Handling Emergency and  
+Accidental Exposures of Workers. Publication 28, Volume 2 No. 1, Vienna, 
+Austria, 1978. 
+6. IAEA. Manual on Early Medical Treatment of possible Radiation Injury. Safety 
+Series No. 47. Vienna, Austria 1978. 
+7. Linnemann, Roger E., A Systems Approach to the Initial Management of 
+Radiation Injuries. In: Boyd, DR, Edlich, RF and SH Micik eds.: Systems 
+Approach to Emergency Medical Care. Appleton-Century-Crofts, Norwalk, CT 
+1983. 
+ 
+8. Linnemann, Roger E., Radiation Injuries: Current Emergency Therapy". 
+Editors: Richard Edlich and Daniel Spyper; and Aspen Publication, Rockville, 
+MD 1985. 
+ 
+9. Linnemann, Roger, E., Soviet Medical Response to the Chernobyl Nuclear 
+Accident. Journal of the American Medical Association, Volume 258, No. 5, pgs. 
+637-643, August, 1987. 
+ 
+10. National Council on Radiation Protection and Measurement: Management of 
+Persons Accidentally Contaminated with Radionuclides, Report 65, Washington, 
+DC 1980. 
+ 
+11. Shleien B: Preparedness and Response in Radiation Accidents. U.S. 
+Department of Health and Human Services, HHS Publication, August 1983 

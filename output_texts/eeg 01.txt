@@ -1,0 +1,51 @@
+eeg 01 1 
+Departmental Policies and Procedures Manual Manual: Neurophysiology 
+Our Lady of the Lake Regional Medical Center Chapter: Operational 
+Subject: Services and Operation  
+Date of Origination: May 9, 2007 Supersedes: EEG/CL/001-019 
+                     EEG/OP/001 to 014 
+Date of Last Revision: Serial Code:  EEG-01 
+Date of Last Review:  Mar 9 2010  
+ 
+ 
+Purpose:  
+ 
+The purpose of this policy is to outline the services provided by the Neurophysiology department and the 
+operation of this department. 
+ 
+Policy:  
+ 
+The neurophysiology department will be open Monday through Friday 0700-1700, excluding 
+weekends and holidays.  There will be a technician on-call during all off duty hours.  Patient Care 
+Services and the PBX operators can contact the on-call technician.  To initiate a call back of a technician  
+the order for the test must be written as; STAT, ASAP, Call technician out, or specify that the test must  
+be complete by a certain time. 
+ 
+Neurophysiology provides both inpatient and outpatient services.  All outpatients must be registered by  
+outpatient registration/admissions prior to service being provided.  In all instances no testing will be  
+performed without a verified order. 
+ 
+For inpatients, all routine tests ordered prior to 1600 on normal working days will be completed the same  
+day.  Other tests that are not STAT will be completed by the following working day. 
+ 
+The Neuromedial Center May utilize OLOLRMC neurodiagnostic equipment while monitoring Neuro - 
+Surgical cases.  The Neuromedical Center is responsible for ensuring proper competency of he  
+technicians and all technical support relating to these cases and the equipment involved. 
+ 
+Procedure:  
+ 
+The Neurophysiology Department Performs all testing in accordance with OLOL policies, procedures,  
+manufacturer recommendations and in accordance with the American Society for Electro -Neuro- 
+Diagnostic Technicians. The following tests are performed by this department: 
+ 
+EEG 
+Long Term Epilepsy Monitoring 
+Intra-operative monitoring 
+Visual Evoked Response (VER) 
+Brainstem Auditory Evoked Response (BAER) 
+Posterior Tibular/Peroneal Lumbar Somatosensory Evoked Potential (Lower SSEP) 
+Median Nerve Somatosensory Evoked Potential (Upper SSEP) 
+Electrical Cerebral Inactivity 
+Hyperventilation Provocation 
+Photonic Stimulation 
+ 

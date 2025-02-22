@@ -1,0 +1,617 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Out of Specification Events Impacting 
+Sterile Facilities, Controls & Systems 
+Policy Reference #: PH0545 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 5/9/2024 
+Last Date Revised: 5/9/2024 
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for managing power and airflow systems disruptions 
+creating out of specification conditions for sterile facilities, engineering controls, and 
+environmental controls where Compounded Sterile Preparations (CSP) are prepared within 
+FMOLHS Baton Rouge Market Pharmacies.  
+1.2. The ability to maintain a state of control within classified and controlled sterile compounding 
+areas is essential to maintaining CSP sterility and stability.  Sterile facilities and systems are key 
+factors in establishing and maintaining consistent airflo w, pressure differentials, and SEC and 
+storage area conditions including:  
+• Facilities: Compounding area design and construction; HEPA filter placement and function; 
+HVAC (heating, ventilation, and air conditioning), exhaust, and supply fan systems 
+• Engineering Controls: SEC and PEC placement and contribution to airflow 
+• Environmental Controls : Pressure differential, temperature, and humidity monitoring 
+systems 
+1.3. Planned and unplanned maintenance, power surges/outages, system malfunction, and natural 
+disasters impact the proper functioning the sterile facilities and systems and can have significant 
+impact to the ability to maintain ISO Class 5 PEC function; requisi te pressure differentials 
+between adjacent areas; requisite temperature and humidity of SEC and storage areas; and 
+proper airflow and HEPA filter contribution to removing airborne contamination. 
+1.4. This policy primarily addresses situations that create out of specification (OOS) conditions in 
+classified sterile suites consisting of positive and/or negative pressure areas; however, sections 
+addressing remedial actions for PEC OOS conditions are direct ly applicable to PECs located in 
+SCAs and Allergy Extract Handling Areas (AEHAs).   
+2. Policy  
+2.1. Sterile compounding facilities, engineering controls (PECs and SECs), and environmental control 
+systems are maintained in good working order and undergo appropriate and timely certifications, calibrations, and accuracy validations per regulations and manufacturer recommendations. Refer 
+to Facilities and Engineering Controls policy. 
+2.2. Required pressure differentials and air exchanges per hour within classified areas are maintained 
+at the following levels: 
+MINIMUM REQUIREMENTS PER ISO CLASSIFIED AREA  
+SEC type  ISO class  Pressure Differential  
+(in “w.c.”)  
+Air Changes Per 
+Hour (ACPH)  
+Temperature & 
+Relative Humidity 
+SCA  Unclassified  N/A  N/A  
+< 20°C & 
+o < 65% 
+(Recommended for 
+employee comfort) 
+C-SCA  Unclassified  -0.01 to -0.03  ≥ 12  
+Non-HD 
+cleanroom suite  
+Ante room: ISO 8  0.02  ≥ 20*  
+Buffer room: ISO 7  0.02  ≥ 30*  
+HD cleanroom 
+suite  
+Ante room: ISO 7  
+Buffer room: ISO 7  
+Ante to Buffer: 0.02  
+HD Buffer: -0.01 to -0.03  ≥ 30  
+*At least 15 ACPH must come from the room HVAC system; the remainder can come from PECs located in the room 
+2.3. PECs that contribute to the required air exchanges and airflow within the respective SEC are left 
+on and remain operational continuously.  
+2.4.  Controlled storage area and device temperatures are maintained at the following levels: 
+• Controlled Room Temperature: 15°C - 25°C  
+• Refrigerated Temperature: 2°C - 8°C  
+• Frozen Temperature: -25°C to -10°C  
+2.5. Environmental control systems are monitored via continuous monitoring systems and trigger 
+alarms and alerts to key personnel including the Designated Person(s) (DP) and on -duty IV 
+Pharmacists when conditions deviate from required values. 
+2.6. When power outages or system malfunctions impact PECs, SECs, drug storage locations, or the 
+airflow systems (e.g., HVAC, exhaust and/or supply fans) supporting these controlled areas, 
+immediate action is taken to protect the integrity of CSPs, components, and the state of control 
+within the controlled compounding areas.  
+2.7. Until normal operations can be restored and appropriate remediation occurs (as described in this 
+policy), compounding areas and BUDs assigned to CSPs are subject to the following changes, at 
+the discretion of the Designated Person(s) (DP):  
+AREA(S) IMPACTED 
+BY POWER &/OR 
+SYSTEM DISRUPTION 
+IMPACT TO STERILE SUITE 
+CLASSIFICATION &  
+BUDS UNTIL RESOLVED 
+IMMEDIATE ACTIONS 
+PEC(s) Only Sterile Suite: no change 
+unless pressure 
+differentials not 
+maintained 
+CSP BUDs: No change* 
+HD BUDs: No change*  
+• Immediately halt compounding in affected PEC* ➔ 
+OK to compound in functioning PECs  
+• Record time of OOS event 
+• Confirm HD Buffer Room maintains negative 
+pressure within expected range 
+SEC(s) Only 
+(ante & buffer 
+rooms) 
+Sterile Suite: Segregated 
+Compounding Area (SCA) 
+• Continue compounding CSPs; note change to 
+Category 1 BUDs^ 
+• Record time of OOS event, pressure differentials, 
+temperature & humidity in all areas AREA(S) IMPACTED 
+BY POWER &/OR 
+SYSTEM DISRUPTION 
+IMPACT TO STERILE SUITE 
+CLASSIFICATION &  
+BUDS UNTIL RESOLVED 
+IMMEDIATE ACTIONS 
+CSP BUDs^: < 12 hr room 
+temp & < 24 hr 
+refrigerated 
+HD BUDs: N/A* 
+• Halt compounding in HD buffer room* 
+PECs & SECs  
+(Full sterile suite) 
+Sterile Suite: Unclassified area 
+CSP BUDs*: < 4 hr room temp 
+& < 4 hr refrigerated 
+HD BUDs*: N/A* 
+• Halt all compounding 
+• Record time of OOS event, pressure differentials, 
+temperature & humidity in all areas 
+* If emergency compounding performed in nonfunctiong PECs, use Immediate Use Compounding BUD of ≤ 
+4 hour BUD (compounding in a non-ISO Class 5 environment). 
+^ If docking proprietary bag and vial systems for future activation, may continue to utilize BUD included in 
+the manufacturer’s labeling, as long as activity occurs within functioning ISO 5 PEC.  
+2.8. Before the resumption of normal compounding operations, the Designated Person(s) validates 
+all impacted systems and equipment have been restored to normal function, appropriate 
+remediation has occurred and validated, and a state of control has been restore d to the 
+compounding environment.  
+2.9. PECs and/or SECs may need to be recertified before use if the outage or systems disruption 
+exceeds 24 hours. If normal operations are restored more quickly, recertification is at the 
+discretion of the Designated Person(s). 
+2.10. Out of specification events impacting facilities, engineering controls, environmental controls, or 
+drug storage areas are investigated, and appropriate corrective actions are taken. These efforts 
+can occur concurrently with the immediate remediation effort s required to restore the sterile 
+suite to a state of control and normal function. Corrective action efficacy is validated, and all 
+aspects of the investigation, corrective actions, and efficacy validation is documented and 
+retained in a readily accessible format. 
+3. Roles & Responsibilities 
+3.1. Designated Person(s) (DP): 
+• Oversee and coordinate personnel, supporting departments, vendors, and subject matter 
+experts (if needed) to expeditiously and safely restore impacted systems and areas. 
+• In partnership with Pharmacy Management, conduct an impact assessment to 
+compounding operations and BUD assignments. 
+• Determine, coordinate, & communicate situational assessment and alternative 
+compounding arrangements to impacted personnel, prescribers, and patients (as needed) 
+for extended OOS events. 
+• After repairs, system restoration, and remediation efforts have occurred, confirm impacted 
+areas (e.g., sterile suite) have been returned to a state of control and authorize resumption 
+of normal compounding operations and BUD assignments.  
+• Lead OOS event investigation and corrective plan design, implementation, and validation; 
+review and complete documentation and retain in a readily retrievable format. 
+• Provide status updates and postmortem analysis and report/presentation as needed. 
+3.2. Compounding Personnel: • Immediately contact DP and/or Supervising Pharmacist when power and/or systems 
+disruptions occur that impact the proper functioning of PECs, airflow within the sterile suite, 
+pressure differentials, temperature, and/or humidity. 
+• Rapidly implement immediate actions as described in this policy and as directed by the DP 
+and/or Supervising Pharmacist in response to power or system disruptions impacting 
+normal operations within the sterile compounding areas. 
+• Support all efforts to minimize actions that could contribute to the decline in the state of 
+control within the sterile suite, such as unnecessary entry/exit of the compounding areas 
+during OOS events 
+• Consult the DP and/or Supervising Pharmacist as needed. 
+3.3. On-duty IV Pharmacist (or proxy for DP): 
+• When the DP is not immediately available, assume all DP responsibilities in coordinating the 
+initial response and efforts to restore normal compounding operations as quickly and safely 
+as possible. 
+• Ensure available compounding personnel understand the immediate impact to the 
+compounding operation, ability to compound CSPs, BUDs (if appropriate), and role and 
+responsibilities as the OOS event is addressed. 
+• Ensure the Facilities Department, external vendor(s), or other critical systems contacts are 
+notified immediately; continue communication and coordination with these entities until 
+the technical and/or mechanical issues have been restored and power and/or systems are 
+restored to normal function. 
+• When power and/or systems are restored, ensure compounding staff understands the 
+required remedial activities (e.g., cleaning, microbial sampling) that need to occur as 
+described in this policy. 
+• When a hand -off to the DP or alternative Supervising Pharmacist occurs, provide a full 
+debrief of actions taken, individuals contacted, and events that have occur to restore normal 
+operations and ensure continuity in patient care. 
+4. Procedures 
+Managing Power Outages or Disruptions  
+4.1. PEC Only: When the power to a PEC is turned off or if a power surge or outage (e.g., cutover to 
+generator power) disrupts power to a PEC while SEC systems remain functional:  
+• Stop compounding activities immediately in the impacted PEC(s) and restore power to the 
+PEC(s) as soon as possible. 
+• Notify DP or Supervising Pharmacist. 
+• Determine disposition of CSPs and components inside the PEC at the time of the power 
+disruption (see table below). 
+• Once the power is restored, allow the PEC to run for 30 minutes or for the timeframe stated 
+by the manufacturer to restore the ISO Class 5 environment. 
+• Fully clean and disinfect all interior surfaces of PEC with an appropriate cleaning agent after 
+the designated run time (above) and prior to resuming compounding activities as described 
+below.  OUTAGE 
+TIMEFRAME 
+CLEANING OF PEC 
+INTERIOR 
+{{30 MINUTES}} AFTER POWER 
+RESTORED 
+HANDLING OF 
+COMPONENTS 
+HANDLING OF AFFECTED 
+CSPS 
+< 1 hour Sporicidal disinfectant 
+followed by sIPA; 
+observe dwell times 
+Date & store 
+components per policy 
+ 
+Single use 
+components:  
+< 12 Hour BUD 
+ 
+Multi-dose 
+components:  
+< 28 Days BUD 
+ 
+Accessed 
+components:  
+Discard (spiked 
+bags or vials with 
+attached tubing or 
+transfer sets) 
+Completed: remove from 
+hood and label; BUD 
+unaffected 
+ 
+Partially compounded or “in-
+process” CSPs: discard or 
+complete compounding as 
+an Immediate Use CSP (< 
+4-hour BUD) 
+ 
+Uncompounded batched 
+CSPs (components): move 
+to another PEC or sanitize 
+and compound after power 
+is restored to PEC and it is 
+cleaned 
+1 to 24 
+hours Sporicidal disinfectant 
+followed by sIPA; 
+observe dwell times 
+> 24 hours Triple clean followed by 
+sIPA; observe dwell 
+times 
+• When an outage extends beyond 24 hours, consider recertifying the PEC(s). 
+• Investigate the OOS power outage event, implement corrective actions, and verify the 
+corrective actions have been effective. Document all aspects of the investigation, corrective 
+action plan, and data collected to verify effectiveness. Retain documentation in a readily 
+retrievable format and location. 
+4.2. SEC and/or Airflow Systems (i.e., HVAC system, exhaust fans, and/or supply fans) Only: When 
+the power to the SEC(s) and/or HVAC system is disrupted (impacting airflow and air exchanges, 
+pressure differentials, and/or temperature and humidity) while essential equipment including 
+PECs, powered by emergency power (e.g., “red outlet” devices), remain functional:  
+• Note the time of the power and/or HVAC system outage, pressure differentials at all doors, 
+and temperature and humidity readings in all rooms 
+• Notify DP or Supervising Pharmacist 
+• Restrict or halt movement into/out of sterile suite and minimize entry/exit between rooms 
+in the sterile suite; post signage at sterile suite entry points  (e.g., ante room and pass -
+through doors with access to non-classified areas) 
+• Contact the Facilities Dept. or external systems vendors for initial assessment 
+• The sterile suite is reclassified as a Segregated Compounding Area (SCA) with non-classified 
+air upon prolonged loss of the required pressure differentials within the sterile suite and/or 
+with the external non -classified areas. Consequently, compounding operations are 
+impacted as follows until the issue is resolved and the sterile suite is returned to a state of 
+control. 
+o Nonhazardous CSP compounding: can continue per Category 1 CSP requirements and 
+BUDs including max BUDs of < 12 hours stored at controlled room temp or < 24 hours 
+stored at refrigerated or frozen temps 
+o Hazardous CSP compounding : is halted immediately since air adjacent to and pulled 
+directly into the externally vented PECs is considered non-classified air. 
+• Determine disposition of HD CSPs and accessed components inside the PEC at the time of 
+the power disruption: 
+o Completed: remove from hood and label; BUD unaffected o Partially compounded or “in -process” CSPs: discard or complete compounding as an 
+Immediate Use CSP (< 4-hour BUD) 
+o Uncompounded batched CSPs (components): place components in a sanitized bin with 
+the compounding paperwork; sanitize and compound after power is restored and sterile 
+suite has been restored and components cleaned or move to an alternative 
+compounding room/site to complete 
+o Accessed Components: discard hanging bags or vials that are accessed with transfer 
+or other tubing. 
+• Continue to monitor the pressure differentials, temperature and humidity for each room if 
+restoration is expected within 1 -2 hours from the loss of power and/or airflow and 
+nonhazardous compounding continues during that timeframe. 
+• If the power outage or airflow system downtime is expected to continue for >2 hours, 
+relocate compounding operations during the outage if possible (after consultation with the 
+DP and/or Supervising Pharmacist) 
+• Once the sterile room systems have been returned to normal function and pressure 
+differentials at all entry/exits have been restored, document the time systems are restored 
+and the pressure differentials, temperature, and humidity in all areas of the steri le suite. 
+Continue to document pressure differentials, temperature, and humidity until they have 
+returned to required ranges. 
+• Before returning to normal compounding operations, perform remedial cleaning and 
+microbial air & surface sampling as shown in the table below. Remedial cleaning is 
+performed by trained and fully garbed personnel. 
+OUTAGE 
+TIMEFRAME 
+CLEANING OF SECS (AND PECS) 
+AFTER POWER & HVAC SYSTEMS ARE FULLY RESTORED 
+MICROBIAL AIR &/OR 
+SURFACE SAMPLING 
+< 1 hour  • If sterile suite access was restricted (e.g., no or 
+minimal entry/exit) – remedial cleaning not 
+necessary  
+• If sterile suite access was NOT restricted: conduct 
+daily cleaning of sterile suite with an EPA-
+registered disinfectant cleaner (i.e. clean & 
+disinfect surfaces and floors in SECs) 
+Per DP 
+1 hour ->  
+24 hours 
+• Conduct monthly cleaning of sterile suite with a 
+sporicidal disinfectant (i.e. clean & disinfect all 
+surfaces, floors, walls, & ceilings in SECs and 
+PECs)* 
+Surface sampling – all 
+PEC & SECs per 
+sampling map  
+Air sampling – per DP 
+> 24 hours • Triple clean sterile suite & PECs* Surface  sampling – 
+all PEC & SECs per 
+sampling map  
+Air sampling – per DP 
+*Refer to Cleaning & Disinfecting Sterile Compounding Areas policy for cleaning procedures and 
+cleaning agent selection. 
+• When an outage extends beyond 24 hours, consider recertifying the suite. 
+• DP determines if normal BUDs can be resumed pending microbial air and surface sampling 
+results. 
+• Investigate the OOS power outage event, implement corrective actions, and verify the 
+corrective actions have been effective. Document all aspects of the investigation, corrective 
+action plan, and data collected to verify effectiveness. Retain documentation in a readily 
+retrievable format and location. 4.3. Entire Sterile Suite (PECs, SECs, & airflow systems) : When power is disrupted to both the SEC 
+and all PECs (e.g., total facility power outage or shutdown): 
+• Note the time of the power outage 
+• Halt compounding operations temporarily while the severity and potential duration of the 
+situation is assessed; notify the DP and/or Supervising Pharmacist immediately.  
+• If urgent compounding must occur, use Immediate Use Compounding BUDs of < 4 hours 
+until the compounding suite (including hoods) have been cleaned and restored to normal 
+operations.  
+OUTAGE 
+DURATION 
+PROCEDURE 
+Time of Event ->  
+5 min 
+• Halt compounding operations and note the time of the power outage  
+• Contact DP and/or Supervising Pharmacist 
+• Contact Facilities Dept or external systems vendors for initial assessment 
+• Restrict or halt movement into/out of sterile suite and minimize entry/exit 
+between rooms in the sterile suite; post signage at sterile suite entry points (e.g., 
+ante room and pass-through doors with access to non-classified areas) 
+• Determine disposition of CSPs and accessed components inside of hoods  
+o Completed CSPs: remove from hood and label; BUD unaffected 
+o Partially compounded individual CSPs: discard or complete compounding as 
+an Immediate Use CSP (< 4-hour BUD) 
+o Uncompounded batched CSPs (components) : place components in a sanitized 
+bin with the compounding paperwork;  sanitize and compound after power is 
+restored and sterile suite has been restored and components cleaned or move 
+to an alternative compounding room/site to complete 
+o Accessed components: Discard (e.g., spiked bags or vials with attached tubing 
+or transfer sets) 
+• Start assessment and prioritization of pending compounds in anticipation of an 
+extended outage 
+5 min ->  
+15 min  
+• Nonessential compounding staff exit sterile suite without doffing garb (doffing 
+occurs outside of sterile suite) and take completed CSPs and compounding 
+paperwork out of the compounding room 
+• Complete paperwork and note time compounding was halted and CSP disposition 
+on Compounding Record (CR); used downtime procedures for compounding 
+documentation entered into computer-based systems (if appropriate) 
+• In coordination with the DP or Supervising Pharmacist, essential compounding 
+personal (i.e., lead IV RPH and/or technician) continue to wind down operations 
+inside sterile suite 
+• Follow up on status of repairs and outage 
+15 min ->  
+30 min 
+• If outage is expected to extend beyond a reasonable timeframe, consider 
+relocating highly temperature sensitive medications to alternative storage 
+devices (refer to section 4.4) 
+•  Essential personnel exit sterile suite without stopping to doff garb; remove any 
+other paperwork, labels, or medication necessary for relocated compounding 
+operations and/or alternative storage 
+Ongoing until 
+resolution 
+• Reentry to the sterile suite is restricted to necessary activities (e.g., such as 
+relocating equipment, supplies, components, or stored medications) and 
+personnel (e.g., supervised repair personnel, essential compounding personnel)  
+ 
+• Continue to monitor the pressure differentials, temperature and humidity for each room if 
+restoration is expected within 1-2 hours from the loss of power and/or airflow. • If the power outage or airflow system downtime is expected to continue for >30 minutes, 
+relocate compounding operations during the outage if possible (after consultation with the 
+DP and/or Supervising Pharmacist)  
+• Continue to monitor drug storage location temperatures and relocate stored components 
+and CSPs when storage locations no longer maintain the required temperature; refer to 
+section 4.4. 
+• Once the sterile room systems have been returned to normal function and pressure 
+differentials at all entry/exits have been restored, document the time systems are restored 
+and the pressure differentials, temperature, and humidity in all areas of the sterile suite. 
+• Before returning to normal compounding operations, perform remedial cleaning and 
+microbial air & surface sampling as shown in the table below. Remedial cleaning is 
+performed by trained and fully garbed personnel. 
+OUTAGE 
+TIMEFRAME 
+CLEANING OF SECS (AND PECS) 
+AFTER POWER & HVAC SYSTEMS ARE FULLY RESTORED 
+MICROBIAL AIR &/OR 
+SURFACE SAMPLING 
+< 1 hour  • If sterile suite access was restricted (e.g., no or 
+minimal entry/exit) – remedial cleaning is 
+determined by DP 
+• If sterile suite access was NOT restricted: 
+conduct daily cleaning of sterile suite (i.e. clean 
+& disinfect surfaces and floors in SECs) 
+Per DP 
+1 hour ->  
+24 hours 
+• Conduct monthly cleaning of sterile suite (i.e. 
+clean & disinfect all surfaces, floors, walls, & 
+ceilings in SECs and PECs)* 
+Surface sampling – all 
+PEC & SECs per 
+sampling map  
+Air sampling – per DP 
+> 24 hours • Triple clean sterile suite & PECs* Surface  sampling – all 
+PEC & SECs per 
+sampling map  
+Air sampling – per DP 
+*Refer to Cleaning & Disinfecting Sterile Compounding Areas policy for cleaning procedures 
+and cleaning agent selection. 
+• When an outage extends beyond 24 hours, consider recertifying the suite. 
+• DP determines if normal BUDs can be resumed pending microbial air and surface sampling 
+results. 
+• Investigate the OOS power outage event, implement corrective actions, and verify the 
+corrective actions have been effective. Document all aspects of the investigation, corrective 
+action plan, and data collected to verify effectiveness. Retain documentation  in a readily 
+retrievable format and location. 
+4.4. Drug Storage Device Power Outages & Temperature Excursions 
+• Record the time of power outage 
+• Record the temperature of each affected device when the outage occurred 
+• Restrict or halt device access and post signage on the device(s) 
+• Contact Facilities Dep artment or external device technicians immediately if the source of 
+the outage or temperature excursion is unknown or if outage extends beyond 30 minutes. 
+If source of excursion is known (e.g., refrigerator door left open too long while stocking), 
+monitor device temperature f or 15 minutes and contact Facilities Department or external 
+vendor if needed. • Continue to monitor device temperature and if/when device exceeds or is soon expected to 
+exceed acceptable temperature deviation, relocate products to alternative storage 
+locations meeting the required storage conditions. 
+TYPE/PURPOSE OF DEVICE EXPECTED TEMP 
+RANGE 
+DRUG RELOCATION 
+TRIGGER(S) 
+CSP Controlled Room Temperature Drug Storage 
+Area 20°C - 25°C + 5°C for no more 
+than 30 minutes 
+Investigation Drug Service (IDS) Controlled Room 
+Temperature Drug Storage Area 20°C - 25°C + 5°C; move if trigger 
+is reached 
+CSP Storage Refrigerator 2°C - 8°C + 5°C for no more 
+than 30 minutes 
+Investigation Drug Service (IDS) Refrigerator 2°C - 8°C  + 5°C; move if trigger 
+is reached 
+CSP Storage Freezer -25°C to -10°C + 5°C for no more 
+than 30 minutes 
+IDS Freezer -25°C to -10°C  + 5°C; move if trigger 
+is reached 
+ 
+• If drug storage device (or area) excursions exceed these general guidelines, quarantine 
+affected CSPs and components until the Designated Person(s) or Supervising Pharmacist can 
+determine if the temperature excursion (e.g., both the maximum temp excursion 
+documented and the duration of the OOS conditions) has de graded the quality of the 
+individual items. 
+ 
+Troubleshooting Power Outages or System Disruptions 
+OOS EVENT IMPACTING 
+STERILE COMPOUNDING 
+AREA OR SYSTEM 
+TROUBLE SHOOTING 
+PEC loss of power • Check power switch & power source to ensure device is on and 
+receiving power 
+• Check if PEC is plugged into an emergency backup power source 
+• Check to see if power generator test is occurring or other facility 
+test or emergency operation that would temporarily disrupt power 
+to the emergency backup power supply 
+SEC loss of power • Check fuse with Facilities Department or fuse box (if smaller 
+facility) 
+• Check to see if power generator test is occurring or other facility 
+test or emergency operation or procedure that would temporarily 
+disrupt the main facility power supply 
+• Contact power company 
+HD PEC alarm • Confirm sash is at the appropriate height to ensure ISO Class 5 
+airflow and environment inside PEC and ensure proper PEC 
+function 
+• Check PEC power switch & power source to ensure device is on and 
+receiving power OOS EVENT IMPACTING 
+STERILE COMPOUNDING 
+AREA OR SYSTEM 
+TROUBLE SHOOTING 
+• Confirm externally ventilated exhaust fan(s) have power and are 
+working normally 
+• Contact certification vendor 
+HD exhaust system 
+alarm 
+• Confirm HD PEC is operating properly and is not in an alarmed 
+state 
+• Confirm alarm system wiring and back up power source (if 
+applicable) have not been dislodged and are connected and 
+functioning properly 
+• Confirm externally ventilated exhaust fan(s) have power and are 
+working normally 
+• Contact certification vendor 
+Pressure differential 
+alarm 
+• If alarm has just gone off, allow ~ 1 minute with the door closed to 
+determine if the pressure stabilizes and returns to normal range 
+(doors open for an extended period of time will sound alarm) 
+• Determine if door is shutting tightly (if not, pressure differential 
+may be impacted) 
+• Check to see if pressure gauge is powered 
+• Check if pressure gauge requires replacement of internal board, 
+other IT component, or battery back up 
+• Confirm HVAC system is working properly and pressure readings in 
+the rest of the sterile suite are within range  
+• Check to make sure return vents (low to ground) are not blocked 
+• Check to make sure return vent cover is free of dirt and fibers; 
+consider removing outer grate to check cleanliness of internal 
+register) 
+Temperature or 
+humidity alarm – 
+rooms or areas 
+• If alarm has just gone off, allow ~ 2-3 minutes with adjacent doors 
+closed to determine if the temperature and/or humidity stabilizes 
+and returns to normal range 
+• Confirm HVAC system is working properly and pressure 
+differentials, temperature, and humidity in the rest of the sterile 
+suite are within range 
+Temperature gauge – 
+refrigerators & 
+freezers 
+• Check power switch & power source to ensure device is on and 
+receiving power 
+• Confirm monitoring device is positioned correctly and is 
+functioning properly (e.g., wires and power and/or batteries are 
+operational 
+• If a continuous monitoring device is also installed in the 
+refrigerator and/or freezer, determine if it is also in alarm (if alarm 
+is from an autonomous gauge) 
+• Confirm monitoring device is glycol-based (more accurate reading) 
+and has been maintained per manufacturer’s specifications  
+• If alarm has just gone off, allow ~ 2-3 minutes with the door closed 
+to determine if the temperature stabilizes and returns to normal 
+range (doors open for an extended period of time will sound alarm) OOS EVENT IMPACTING 
+STERILE COMPOUNDING 
+AREA OR SYSTEM 
+TROUBLE SHOOTING 
+• Determine if door is shutting tightly (if not, pressure differential 
+may be impacted) 
+4.5. Refer to the Quality Assurance and Quality Control policy  for procedures related to 
+investigations and corrective action plans. 
+5. Definitions 
+5.1. Classified area: An area that maintains an air quality classification based on the ISO standards 
+required in this chapter (see also the definition for ISO class).   
+5.2. Cleanroom suite (aka sterile suite or IV room): A classified area that consists of both an anteroom 
+and buffer room.  
+5.3. Component: Any ingredient used in the compounding of a preparation, including any active 
+ingredient, added substance, or conventionally manufactured product. Compounded sterile 
+preparation (CSP): A preparation intended to be sterile that is created by combining, ad mixing, 
+diluting, pooling, reconstituting, repackaging, or otherwise altering a drug product or bulk drug 
+substance Related Policies, Documents, References 
+5.4. Designated person(s): One or more individuals assigned to be responsible and accountable for 
+the performance and operation of the facility and personnel as related to the preparation of CSPs 
+5.5. ISO class: An air-quality classification from the International Organization for Standardization 
+5.6. Negative-pressure room: A room that is maintained at lower pressure than the adjacent spaces, 
+and therefore the net airflow is into the room 
+5.7. One-step disinfectant cleaner: A product with an EPA-registered (or equivalent) claim that it can 
+clean and disinfect a nonporous surface in the presence of light to moderate organic soiling 
+without a separate cleaning step 
+5.8. Oversight: The review, monitoring, and supervision of actions taken by personnel, bearing 
+responsibility for those actions, and being available for consultation if and when needed even if 
+not physically present 
+5.9. Primary engineering control (PEC) : A device or zone that provides an ISO Class 5 air quality 
+environment for sterile compounding. 
+5.10. Positive-pressure room: A room that is maintained at higher pressure than the adjacent spaces, 
+and therefore the net airflow is out of the room 
+5.11. Secondary engineering control (SEC): The area where the PEC is placed (e.g., a cleanroom suite 
+or an SCA). It incorporates specific design and operational parameters required to minimize the 
+risk of contamination within the compounding area.  
+5.12. Segregated compounding area (SCA): A designated space, area, or room that is not required to 
+be classified and is defined with a visible perimeter. The SCA must contain a PEC and is suitable 
+for preparation of Category 1 CSPs only 5.13. Sporicidal disinfectant: A chemical or physical agent that destroys bacterial and fungal spores 
+when used in sufficient concentration for a specified contact time. It is expected to kill all 
+vegetative microorganisms 
+5.14. Unclassified space: A space not required to meet any air cleanliness classification based on the 
+ISO 
+6. References 
+6.1. United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2. United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 5/2025 
+7.1. Initial version published by Wolters Kluwer 2023. 
+7.2. Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3. Revised 5/2024 (formatting changes only). 
+ 
+ 
+ 

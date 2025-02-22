@@ -1,0 +1,142 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 1 of 3 
+LBA026 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA026 
+INFECTIOUS DISEASE REPORTING 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 3/8/2021 5/13/2021 5/13/2021 
+Lab Administration Review J Teague 4/8/2021 Origination Date 
+Laboratory Medical Director Review A Harton 4/12/2021 3/2015 
+Laboratory Medical Director Review A Nunez 4/19/2021  
+ 
+ 
+PRINCIPLE 
+Due to their transmittable nature, certain diseases and/or conditions are reportable to the 
+Infection Control Officer and various government agencies.  Reporting requirements are 
+determined by the class into which they are categorized.  Regardless of the reporting 
+method used, laboratory personnel shall follow all Health Insurance Portability and 
+Accountability Act (HIPAA) guidelines to protect the medical record of the patient. 
+ 
+PROCEDURE 
+I. Refer to Louisiana Administrative Code (LAC) Title 51, Public Health – Sanitary 
+Code [LAC 51 (Public Health - Sanitary Code), Part II, Chapter 1, §105] for the lists 
+of all Class Diseases/Conditions to be reported. 
+ 
+A. Class A Diseases/Conditions:  Reporting is required within 24 hours  
+Class A diseases/conditions are of major public health concern because of the  
+      severity of disease and potential for epidemic spread.  Such diseases must be      
+      communicated immediately upon detection of a case, a suspected case, or a  
+      positive laboratory result.  All cases of rare or exotic communicable diseases,  
+      unexplained death, unusual cluster of disease and all outbreaks shall be  
+      reported. 
+ 
+B. Class B Diseases/Conditions:  Reporting is required within 1 business day 
+Class B diseases/conditions are of major public health concern because of the  
+      potential for epidemic spread.  Such diseases must be communicated by the  
+      end of the next business day upon detection of a case, a suspected case, or a  
+      positive laboratory result. 
+ 
+C. Class C Diseases/Conditions:  Reporting is required within 5 business  
+Days Class C diseases/conditions are of significant public health concern.   
+Such diseases must be communicated by the end of the work week upon  
+detection of a case, a suspected case, or a positive laboratory result. 
+ 
+D. Class D Diseases/Conditions:  Reporting is required within 5 business  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 2 of 3 
+LBA026 
+Days 
+ 
+II. Results of reportable infectious diseases are forwarded to the state of Louisiana using  
+      the time frame defined in the Sanitary Code.  One of the following 3 methods are used. 
+ 
+A. Automatic Reporting to State (primary system of reporting): Reportable 
+disease test results from this lab are automatically sent to the state through the  
+electronic reporting system.   
+B. Manual Reporting to State: Test results from this lab are manually sent to the  
+        state by fax or mail.   
+C. On-line Reporting to State (backup system): If a report is not automatically  
+      sent to the state through electronic reporting system, then reporting should be  
+             performed through IDRIS.  Class A disease reporting should be called within 24     
+                   hours to the Infectious Disease Epidemiology Program at 1-800-256-2748. 
+ 
+III. Responsible Parties that routinely report results to OPH. 
+A. Infection Control 
+B. Microbiology 
+C. Referrals 
+D. Blood Distribution Center 
+ 
+IV. Reporting to Healthcare providers 
+All lab results are available electronically to healthcare providers immediately upon 
+verification.  Additionally, Epic EMR functionality provides physicians the opportunity 
+to receive inbox notifications when patients’ lab results are available. Infectious 
+Disease results are not manually/verbally called by the laboratory unless the test has 
+been classified as “critical” by OLOLRMC Main and Affiliate Labs.  See LBA018-
+Critical Values.  
+ 
+V. Reference Lab Results 
+Reference Labs used by OLOLRMC Main and Affiliate Labs will be in compliance 
+with and adhere to reporting requirements and strive to abide by laboratory reporting 
+requirements for each state health department regarding reportable disease conditions.  
+Clients shall be responsible for compliance with any state-specific statutes concerning 
+reportable conditions, including but not limited to birth defects registries or 
+chromosomal abnormality registries.  This may also include providing patient 
+address/demographic information.  Referral Laboratory reporting does not replace the 
+client/physician responsibility to report as per specific state statutes.  
+ 
+VI. Reporting of Bioterrorism organisms to CDC  
+A. Diseases associated with Bioterrorism are classified as Class A  
+Diseases/Conditions on the State Sanitary Code (attachment A).  These are  
+reported by the lab to the state and by the state to the Centers for Disease  
+Control (CDC).  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 3 of 3 
+LBA026 
+B. The State of Louisiana reports to CDC using software compliant with the 
+federal Healthy Initiatives.  Refer to CDC Reportable Disease website at 
+http://wwwn.cdc.gov/nndss   
+ 
+VII. Sanitary Code changes 
+A. The state Sanitary Code is occasionally updated by the state.  Because the lab  
+         does not always receive notification of this, the lab and infection control will  
+      monitor the state website for the most current version.  
+B. If changes involve new diseases/conditions, an IS ticket is opened to update  
+            reporting. 
+ 
+VIII. Lab Test Menu changes  
+If the lab adds, deletes, or changes methodology of a test from the lab test menu that 
+is listed as a state reportable disease/condition on the current Sanitary Code, an IS 
+footprint ticket is entered by the lab requesting this test be added/deleted/modified 
+from the list of reportables. 
+ 
+IX. Infection Control Department 
+Please refer to the Infection Control Policies found on TeamLink IC4004 and 
+attachments 
+ 
+ASSOCIATED POLICIES 
+LBA018 – Critical Values 
+LBA203 – Guidance for Specimen Collection, Transport, Testing and Submission for 
+Patients with Suspected Infection with Ebola Virus Disease or Other Special 
+Communicable Disease 
+IC4004 – Reportable Diseases, Reporting of 
+IC2013 – Special Communicable Disease Management Plan 
+REFERENCES 
+Louisiana Department of Health (LDH), Office of Public Health (OPH), Infectious 
+Disease Epidemiology Program. 
+http://www.dhh.louisiana.gov/index.cfm/subhome/16 
+State of Louisiana Division of Administration, Louisiana Administrative Code Title 51: 
+LAC 51 (Public Health - Sanitary Code), Part II, Chapter 1, §105 
+CAP Standards: GEN.41316, GEN.20374 
+REVISIONS 
+3/23/15 (created), 9/27/17, 10/23/2020, 3/8/2021 
+ 
+ 
+ 
+ 
+ 

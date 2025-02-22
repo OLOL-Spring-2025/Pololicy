@@ -1,0 +1,134 @@
+ Policy Reference Number 
+Page 1 of 4 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services Section: Patient Care 
+Title: Pressure Injury Prevention Protocol 
+Policy Reference #: NPC-151 
+Supersedes #:  
+Date of Origination: January 2018 Last Date Reviewed: October  23, 2023 
+Last Date Revised: January 2018 
+ 
+PURPOSE: 
+To establish a standardized program for the prevention and management of Hospital Acquired pressure 
+injuries of admitted patients at Our Lady of the Lake Regional Medical Center. 
+ 
+DEFINITIONS:   
+• Pressure Injury: A pressure injury is localized damage to the skin and underlying soft tissue usually over 
+a bony prominence or related to a medical or other device. The injury can present as intact skin or an 
+open ulcer and may be painful. The injury occurs as a result of intense and/or prolonged pressure or 
+pressure in combination with shear. The tolerance of soft tissue for pressure and shear may also be 
+affected by microclimate, nutrition, perfusion, co-morbidities and condition of the soft tissue. 
+• Stage 1:  Non-blanchable erythema of intact skin 
+Intact skin with a localized area of non-blanchable erythema, which may appear differently in darkly 
+pigmented skin. Presence of blanchable erythema or changes in sensation, temperature, or firmness may 
+precede visual changes. Color changes do not include purple or maroon discoloration; these may indicate 
+deep tissue pressure injury. 
+• Stage 2:  Partial-thickness skin loss with exposed dermis 
+Partial-thickness loss of skin with exposed dermis. The wound bed is viable, pink or red, moist, and may 
+also present as an intact or ruptured serum-filled blister. Adipose (fat) is not visible and deeper tissues 
+are not visible. Granulation tissue, slough and eschar are not present. These injuries commonly result 
+from adverse microclimate and shear in the skin over the pelvis and shear in the heel.  This stage should 
+not be used to describe moisture associated skin damage (MASD) including incontinence associated 
+dermatitis (IAD), intertriginous dermatitis (ITD), medical adhesive related skin injury (MARSI), or 
+traumatic wounds (skin tears, burns, abrasions). 
+• Stage 3: Full-thickness skin loss 
+Full-thickness loss of skin, in which adipose (fat) is visible in the ulcer and granulation tissue and epibole 
+(rolled wound edges) are often present. Slough and/or eschar may be visible. The depth of tissue damage 
+varies by anatomical location; areas of significant adiposity can develop deep wounds.  Undermining and 
+tunneling may occur. Fascia, muscle, tendon, ligament, cartilage and/or bone are not exposed. If slough 
+or eschar obscures the extent of tissue loss this is an Unstageable Pressure Injury.  Policy Reference Number 
+Page 2 of 4 
+• Stage 4: Full-thickness skin and tissue loss 
+Full-thickness skin and tissue loss with exposed or directly palpable fascia, muscle, tendon, ligament, 
+cartilage or bone in the ulcer. Slough and/or eschar may be visible. Epibole (rolled edges), undermining 
+and/or tunneling often occur. Depth varies by anatomical location. If slough or eschar obscures the 
+extent of tissue loss this is an Unstageable Pressure Injury. 
+• Unstageable: Obscured full-thickness skin and tissue loss 
+Full-thickness skin and tissue loss in which the extent of tissue damage within the ulcer cannot be 
+confirmed because it is obscured by slough or eschar.  If slough or eschar is removed, a Stage 3 or Stage 4 
+pressure injury will be revealed. Stable eschar (i.e. dry, adherent, intact without erythema or fluctuance) 
+on the heel or ischemic limb should not be softened or removed. 
+• Suspected Deep Tissue Injury: Persistent non-blanchable deep red, maroon or purple discoloration 
+Intact or non-intact skin with localized area of persistent non-blanchable deep red, maroon, purple 
+discoloration or epidermal separation revealing a dark wound bed or blood-filled blister. Pain and 
+temperature change often precede skin color changes. Discoloration may appear differently in darkly 
+pigmented skin.  This injury results from intense and/or prolonged pressure and shear forces at the bone-
+muscle interface.  The wound may evolve rapidly to reveal the actual extent of tissue injury, or may 
+resolve without tissue loss. If necrotic tissue, subcutaneous tissue, granulation tissue, fascia, muscle or 
+other underlying structures are visible, this indicates a full thickness pressure injury (Unstageable, Stage 3 
+or 4). Do not use DTPI to describe vascular, traumatic, neuropathic, or dermatologic conditions. 
+ 
+Additional Pressure Injury Definitions: 
+• Medical Device Related Pressure Injury: 
+This describes an etiology. 
+Medical device related pressure injuries result from the use of devices designed and applied for 
+diagnostic or therapeutic purposes. The resultant pressure injury generally conforms to the pattern or 
+shape of the device. The injury should be staged using the staging system. 
+• Mucosal Membrane Pressure Injury:  Mucosal membrane pressure injury is found on mucous 
+membranes with a history of a medical device in use at the location of the injury. Due to the anatomy of 
+the tissue these ulcers cannot be staged. 
+• NPUAP: National Pressure Ulcer Advisory Panel, one of the leading panels of medical professionals 
+who study, contribute to, and recommend the standard of practice for pressure injuries. 
+• POA: Present On Admission, a term used to define whether an ulcer/injury was identified as being 
+present when the patient was admitted to the acute care facility.  This must be documented in the 
+patient record within 24 hours of admission. 
+• Hospital Acquired: An injury whose initial occurrence started after admission to the hospital facility. 
+• Community Acquired: An injury whose initial occurrence started prior to admission to the hospital 
+facility. 
+• Never Event : A hospital acquired injury staged as a Stage III, Stage IV or Unstageable  Policy Reference Number 
+Page 3 of 4 
+ 
+POLICY: 
+I. Skin Assessment 
+A. Admission 
+a. The RN will complete a head-to-toe skin assessment within the first 8 hours of 
+hospitalization and document findings in the Admission Assessment. 
+b. A 2nd Nurse Skin Assessment is also required within the first 8 hours of admission. 
+c. Any skin breakdown or Present on Admission pressure injury noted should be 
+reported to the physician. WOC nurse should also be consulted. The Braden Risk 
+Assessment tool is to be completed on all patients on admission. The Braden is used 
+for the adult population. The Braden Q is used for the Children’s Hospital. 
+d. Any adult patient with Braden Score less than or equal to 18 will have the Pressure 
+Injury Prevention Protocol implemented.  
+B. Ongoing 
+a. Head to toe skin assessment of the skin should be completed by the nurse at the 
+beginning of every shift and with change of condition or procedures such as bathing, 
+wound care, and preparation for transfer.  
+b. The Braden is completed every shift on all acute care inpatients, patients with score 
+of 18 or less will have the POC for skin integrity and Pressure Injury Prevention 
+Protocol implement, if not done previously. 
+c. The Braden Q is completed weekly for all patients whose score is above 22. It is 
+completed daily for those scoring at or below 22. 
+II. Patient/ Family Education 
+• In addition to patient/family education provided by the bedside nurse: 
+• A pressure injury prevention video is available is on the bedside patient education program via 
+the television in the patient’s room Patient and family education are available via the WOC 
+nursing department.  
+III. Discharge 
+• WOC nurse will assess for continual ongoing care of any patient with a wound on discharge, and 
+will provide treatment recommendations as needed.  
+ 
+REFERENCES: 
+European Pressure Injury Advisory Panel and National Pressure Injury 
+Advisory Panel. Prevention and treatment of pressure injuries: quick reference 
+guide. Washington DC: National Pressure Injury Advisory Panel; 2009. 
+Institute for Healthcare Improvement. Pressure Injury Prevention. Retrieved at www.ihi.org 
+National Database of Nursing Quality Indicators. Guidelines for Data Collection on the American 
+Nurses Association’s National Quality Forum Endorsed Measures: Pressure Injuries.  
+Retrieved at www.nursingquality.org 
+National Database of Nursing Quality Indicators. Pressure Injury Training.  Retrieved at 
+www.nursingquality.org/NDNQIPressureInjuryTraining 
+National Pressure Injury Advisory Panel. Pressure Injury Prevention Points. Retrieved at 
+www.npuap.org  2007.  Policy Reference Number 
+Page 4 of 4 
+Wound, Ostomy, and Continence Nurses Society. Guideline for Prevention and Management of 
+Pressure Injuries 6/1/2010. Retrieved at www.wocn.org 
+Acute and Chronic Wounds. Current Management Concepts, 4th ed., R.A. Bryant, D. P. Nix 2007.  
+ 
+National Pressure Ulcer Advisory Panel (2007). Pressure Ulcer Prevention Points. Retrieved October 7, 
+2014, from http://www.npuap.org/wp-content/uploads/2012/03/PU_Prev_Points.pdf 
+ 
+Institute for Healthcare Improvement (2011). How-to-Guide: Prevent pressure ulcers. Cambridge, MA. 
+ 
+Refer to facility designated on-line clinical reference 
+ 

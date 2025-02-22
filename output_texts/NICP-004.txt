@@ -1,0 +1,73 @@
+NICP-004 
+Page 1 of 2 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Neonatal Intensive Care 
+Administration 
+Subject:  Thermoregulation of the Neonate Section:  Patient Care 
+Date of Origination:  October 23, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+ 
+August 23, 2024 
+Serial Code:  NICP-004 
+  
+PURPOSE: 
+The purpose of the policy is to provide a standard approach for nursing management of the newborn thermal 
+environment. 
+POLICY: 
+It is the policy of the Neonatal unit that temperature in the neonates should be measured via the axillary route.  For 
+full term neonates the temperature should be 36.5° C – 37.4° C (97.7° F – 99.5° F).   
+ 
+Infants on radiant warmers must be maintained on patient control mechanism with a temperature probe.  A 
+reflective patch should cover the temperature probe. 
+Infants on Omni Bed or incubator may be cared for in either patient-controlled mode or air-controlled mode.  
+Infants weighing less than 1500 grams should be maintained on patient-controlled mode.  
+ 
+PROCEDURE: 
+A.  Initiation of Thermoregulation 
+1. On admission, identify the appropriate bed for the infant based on weight and physiologic needs. 
+2. For infants on radiant warmer or incubator, monitor temperature hourly frequently during stabilization.  
+Assess the need for humidification for infants weighing less than 1,200 grams or younger than 30 – 32 
+weeks gestation. 
+3. If a temperature probe is required to maintain axillary temperature between 36.5° C and 37.5° C, secure 
+the probe to the infant with a reflective probe cover.  Probe site should be rotated every 12 hours. 
+4. Keep portholes on incubator closed except when providing direct patient care.  Work through portholes 
+whenever possible without opening the incubator door.   
+5. For infants weighing less than 1,200 grams particularly when humidity has been added to the incubator 
+or Omni Bed, the heat boost feature of the Giraffe Omni Bed may be used to further maintain and 
+conserve environment heat.  
+ 
+B.  Weaning from the incubator or Omni Bed 
+1. When the infant is medically stable, they may be dressed with a cap, shirt, and diaper. 
+2. Start weaning temperature at 38° C and wean by 0.5° C with touch times as tolerated. 
+3. Once at 28° C open crib top.  Maintain at 28° C for 24 hours and then may transition to open crib. 
+4. When a premature infant has an order from physician or NNP or can maintain a stable axillary  
+      temperature, weighs more than 1,500 grams, exhibit 5 days of consistent weight gain, and has a stable  
+      incubator temperature, the infant may be weaned from the incubator.       
+3.  Once the infant has transitioned to the open crib, it should be maintained in a draft-free area. 
+4.  Check temperature hourly after placing infant in open crib until two consecutive readings of 36.5° C  
+     axillary is obtained. NICP-004 
+Page 2 of 2 
+ 
+5.  Add additional blankets if necessary. 
+6.  If infant temperature is lower than 36° C more than 1 hour after adding second blanket, consider  
+     returning to incubator. 
+a. Reconsider weaning to an open crib after 24 – 72 hours of stable temperature based on 
+physician/NNP order. 
+7.  Do not bathe infant on first day in open crib. 
+8.  On second and third day in open crib:  Assess & document temperature with each touch time and  
+      perform daily weight.  Report any weight loss to physician/NNP. 
+ 
+See Ebsco Health Online Resource Hypothermia Management in A Newborn 
+  
+REFERENCES:   
+ 
+ 
+Roychoudhury, S. & Yusuf, K.  (2017).  Thermoregulation:  Advances in Preterm Infants.  NeoReviews, 18(12), 
+e692-e702; DOI: https://doi.org/10.1542/neo.18-12-e692 
+ 
+Beauman, S.S & Bowles, S. (2019).  Policies, Procedures, and Competencies for Neonatal Nursing Care (6th 
+Ed).  National Association of Neonatal Nurses. 

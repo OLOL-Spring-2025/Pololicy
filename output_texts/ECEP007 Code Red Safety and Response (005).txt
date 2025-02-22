@@ -1,0 +1,755 @@
+ ECEP007 
+Page 1 of 15 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Environment of Care Section: A 
+Title: Code RED Safety and Response Plan  
+Policy 
+Reference #: ECEP007 
+Supersedes #: FP-101 
+Date of Origination: June 2000 Review Date: 6/05;12/16;12/09;11/11; 
+715;9/17;4/18 
+Revision Date: 02/20/2019; 01/29/2020; 
+03/02/2021; 07/22/2024 
+ 
+PURPOSE: 
+To ensure the safety of patients, visitors, and team members in the event of a fire or to the conditions 
+that indicate the presence of a fire. To prepare staff to appropriately respond to the danger fires present 
+by addressing aspects of fire prevention, preparedness, control, and education.  To delineate authority, 
+responsibilities, and procedures to follow in the event of a fire. 
+ 
+POLICY: 
+In the event of a fire, all staff will follow Our Lady of the Lake Regional Medical Center’s (OLOL) 
+written Code RED Safety and Response Plan along with location specific plans to guide prevention, 
+preparation, and proper response to fires. Each location’s Code RED Safety and Response Plan will be 
+used in conjunction with the Emergency Operations Plan (ECEP001). 
+ 
+Contractors, students, licensed practitioners, and volunteers are to follow the instruction of unit manager 
+or designee. 
+ 
+The OLOL Code RED Safety and Response Plan will also be used for fire drills.  Fire drills will 
+evaluate fire safety equipment, fire safety building features, and staff response to fire. 
+ 
+Each OLOL department will have their own Department Specific Code RED Safety and Response Plan. 
+ 
+ 
+The Code RED Safety and Response Plan is maintained and evaluated annually by the Safety Officer and 
+Plant Services Director or designee in conjunction with the Environment of Care Committee. 
+ 
+PROCEDURES: 
+ 
+FIRE PREVENTION 
+ 
+One of the most important ways we can help prevent fires is through surveillance. Routine inspections 
+can uncover both potential fire hazards and safety hazards. Through the use of routine surveillance, 
+anyone can discover fire hazards before a fire actually occurs.  Routine surveillance of various areas of 
+the hospital includes: 
+a. Departmental Safety Rounding 
+b. EOC Rounding 
+ 
+The person who uses a piece of equipment on an everyday basis is in the best position to discover 
+something wrong with that piece of equipment. Area leaders ensure all staff are properly trained in the 
+use of equipment.  Staff should know not only how to use the equipment, but also how to recognize and  ECEP007 
+Page 2 of 15 
+report equipment, which is not working properly, and how to know if the equipment poses a fire or 
+safety hazard. Each supervisor must take steps to eliminate reported hazards promptly. 
+ 
+A. Exit Ways – Do not permit obstruction of aisles, doorways, stairwells or allow their use as 
+storage places. 
+ 
+B. Fire Doors – The proper operation of fire doors is necessary to protect or isolate one section of 
+the building from another, thus providing protection to other areas and persons within the 
+building.  Keep all fire doors properly closed, except those equipped to close automatically.  Fire 
+doors wedged or propped open are of no value in preventing the spread of fire. 
+ 
+C. Electric Heaters and Toasters – (see ECSF013 Electrical Equipment) 
+ 
+D. Smoking and Smoking Materials 
+Our Lady of the Lake (OLOL) and all affiliates are SMOKE FREE.  Inform others about our 
+SMOKE FREE policy.  Stop violators tactfully.  Know and understand the Hospital’s SMOKE 
+FREE policy and make sure it is enforced in your area. (see OOEC006 Tobacco Free 
+Environment) 
+ 
+E. Electrical Hazards 
+Check outlets, cords, and appliances for signs of wear and tear.   
+ 
+F. Combustible Material Build-Up 
+A build-up of rubbish, waste, used rags, etc., offers fire a place to grow. Good housekeeping 
+habits, such as keeping work areas clean and free of trash, reduce the risk of fire.  This oversight 
+includes improper storage of equipment, waste, etc.  
+ 
+G. Flammable Liquids – (Such as acetone, alcohol, benzene, chafing fuels, and ether) limit the 
+amount on hand to a minimum working supply.  These items should be labeled and properly 
+stored and secured. 
+ 
+FIRE CONTROL 
+ 
+A. Building Design and Construction 
+a. Fire and Smoke Compartments are identified by the red tag on the top of the door frame 
+and/or on Life Safety Plans. 
+ 
+1. Fire Compartments 
+Fire compartments are well-defined spaces within the building which separate one area 
+from another.  Fire compartments consist of fire-resistant walls, ceilings, floors, and doors 
+with specifically timed fire ratings which inhibit the spread of fire for the stated period of 
+time. These compartments also restrict the movement of smoke. 
+ 
+2. Smoke Compartments  
+Smoke compartments are areas within the building consisting of smoke barriers on all 
+sides, including the top and bottom, which inhibit the passage of smoke to other areas. 
+ 
+Fire Alarm Systems may include components such as audio-visual alarms, annunciation panels,  ECEP007 
+Page 3 of 15 
+smoke detectors, manual pull stations, and gaseous clean agents.  Manual pull stations are 
+located throughout the facility, at the entrance to all stairwells, near hospital exits and along 
+other travel routes. 
+ 
+The system may be activated in the following ways: 
+1. Smoke reaching a smoke detector. 
+2. Heat contact with a sprinkler head. 
+3. Manual activation of the pull station. 
+4. A mechanical malfunction. 
+5. A significant change in sprinkler system water pressure. 
+ 
+When a smoke detector, manual pull station, or sprinkler head is activated, the alarm site is 
+displayed on the fire alarm annunciator panel which is found in areas that are staffed 24-hours a 
+day (and in other areas based on each location).  The display specifies the location and equipment 
+which originated the alarm. At the same time, the Code RED audio and visual alarms will 
+activate.   
+ 
+The alarm light will remain illuminated until cleared and reset by Plant Services or designee.  
+The alarm will only be silenced as directed by the proper authority. All alarms will be reset after 
+the cause of the alarm is investigated and verified to be safe. 
+ 
+Notification: 
+1. Upon receiving the notification of the fire and location, the designated person will clearly 
+announce three times: “Code RED, location”. 
+2. The designated person will call the Administrator on Call (AOC) to notify them of the event.  
+3. Once the fire incident has been resolved, the designated person will clearly announce three 
+times: “All Clear Code RED, location”. 
+ 
+ 
+FIRE SUPPRESSION 
+ 
+A. Automatic fire suppression systems are in areas based on the need of that location.  These 
+may include: 
+1. Automatic water sprinkler system has sprinkler heads located throughout most of the 
+facility.    
+2. Gaseous Systems, such as those near Computer Servers 
+3. Preaction Systems, such as those near Imaging equipment 
+4. Dry Chemical Systems, such as those near kitchen equipment 
+5. Foam Systems, such as those at Helicopter Landing Pads 
+ 
+B. The fire pump status is displayed on the fire panel. 
+ 
+C. Sprinkler control valves are always open.  If closed, a trouble alarm will be displayed on the 
+fire alarm panel. 
+ 
+ 
+D. Portable fire extinguishers are located throughout the facility.   
+1. Know where the nearest fire extinguisher is located. In general, they will be near  ECEP007 
+Page 4 of 15 
+exits and along hallways. In office areas, they will be near work areas or near doors 
+leading out to hallways.  
+2. Portable extinguishers require human intervention to work. Staff should know how 
+to handle a portable fire extinguisher. All are encouraged to become familiar with 
+locating, supporting, and properly operating a fire extinguisher.  Fire extinguishers 
+can be hard to handle, heavy, and a bit bulky.  To successfully employ a fire 
+extinguisher, staff should be aware of the extinguisher’s physical characteristics. 
+3. There are specific areas that require specific types of fire extinguishers.  These areas 
+include:  
+• MRI areas – Nonferrous (non-magnetic) 
+• Kitchen areas – K type 
+• Anesthetizing areas – CO2 
+• Helipads – AB 
+ 
+To understand how a fire extinguisher works, it will be helpful to understand some of the basic 
+chemistry of fire.  The factors necessary to sustain a fire are: 
+ 
+ 
+ 
+ 
+ 
+All these factors must be present in order to have a fire. If any of these 
+three factors are removed, the fire will go out. Modern fire extinguishers 
+work by either removing the heat or the oxygen. 
+ 
+ 
+ 
+ 
+ 
+To help remember these steps, think of the four-step “P.A.S.S.” Procedure:  
+P =  PULL 
+Hold the extinguisher upright and pull the pin. This unlocks the operating lever so you can discharge 
+the chemical. 
+ ECEP007 
+Page 5 of 15 
+ 
+A =  AIM LOW 
+Point the extinguisher nozzle at the base of the fire. 
+ 
+S =  SQUEEZE 
+Squeeze the lever to discharge the chemical. 
+ 
+S =  SWEEP 
+Sweep the nozzle from side to side.  Move slowly forward toward the fire, keeping the extinguisher 
+aimed at the base of the fire. Sweep back and forth until the flames appear to be out. 
+ 
+It is essential to aim the extinguisher accurately at the base of the fire and to move the extinguisher back 
+and forth slowly in a sweeping motion. It is equally important to hold the extinguisher upright.  
+Extinguishers will not work properly when tilted or turned upside down. 
+ 
+FIRE SAFETY TRAINING PROGRAM 
+ 
+Staff shall have specific responsibilities during Fire Emergencies — both drills and actual fires.  
+ 
+This education and training may be accomplished through: 
+a. General Orientation 
+b. Department Orientation 
+c. Annual In-Services 
+d. Fire Drills 
+e. Department-Specific Training 
+ 
+Code RED Safety training will include, at minimum the following: 
+• How to initiate a Code RED 
+R Rescue 
+A Alarm 
+C Confine 
+E Extinguish / Evacuate 
+• Locations of Exits and Fire/Smoke Compartments 
+• Specific roles of staff related to fire response at and away from the fire including cooperation 
+with firefighting authorities 
+• The location of medical gas shut off valves and who has authority to designate shut off 
+• Location and proper use of equipment for transporting patients between Fire/Smoke 
+Compartments (during horizontal and vertical evacuations) 
+• Location and proper use of fire-fighting equipment and manual pull-stations 
+• Specific departmental responsibilities in preparation for emergency evacuation 
+• Anything that makes the department unique from a life safety standpoint  
+• The location of the emergency exits, evacuation routes and destinations   
+There are different responses for “AT THE SCENE” and “AWAY FROM THE SCENE “locations. 
+1. At the Scene 
+• Did staff initiate RACE (Rescue. Alarm. Confine. Extinguish/Evacuate)? 
+• Alarm pulled. 
+Formatted: Not Highlight ECEP007 
+Page 6 of 15 
+• Operator or 911 called. 
+• All doors and windows closed by staff. 
+• Confirm fire doors automatically closed. 
+• Patients and visitors moved to safety and reassured. 
+• Simulated use of fire extinguisher. 
+• Did staff understand PASS (Pull. Aim. Squeeze. Sweep.) ? 
+• Did staff identify those with authority to turn off Medical Gases? 
+• Hallways cleared with carts and equipment moved out of hallways and other high traffic 
+areas. 
+• Did staff station someone at elevators? 
+• Preparation for building evacuation. 
+ 
+2. Away From the Scene 
+• Windows and doors closed. 
+• Patients and visitors remain in their rooms.  Other visitors directed to Lobby areas. 
+Visitors in Cafeteria may remain until otherwise notified. 
+• Confirm Fire doors automatically closed. 
+• Hallways cleared with carts and equipment moved out of hallways and other high traffic 
+areas. 
+• Await further instructions. 
+ 
+FIRE DRILLS AND EVALUATION 
+ 
+Code RED Drills are held once per quarter for each shift in healthcare occupancies. Drills are 
+conducted quarterly in all Ambulatory Health occupancies.  Drills are conducted annually in all free-
+standing buildings classified as business occupancy.   
+ 
+Code RED Drill Evaluations:  
+1. Ensure adjacent, above, and below departments are observed during a Code RED drill. 
+2. Evaluate the staff’s knowledge and response to fire situations. 
+ 
+All drills are 100% unannounced and are conducted and evaluated using the procedures below. 
+ 
+A. It is the responsibility of all Directors, Nurse Managers, Supervisors and staff to become familiar 
+with these procedures. 
+B. Available staff are to participate in CODE RED Drills. 
+C. Staff are to know the location of fire alarms and fire extinguishers. Clinical personnel are also to 
+know the location of medical gas valves. 
+D. The Safety Officer or designee is responsible for conducting drills and evaluating the results.  
+E. All critical care areas will participate only to the extent that it does not interfere with patient care. 
+F. Code RED drills will be conducted as if there were an actual fire. 
+G. Drills are activated by staff receiving a card which indicates “You are now in a Code RED drill” 
+or by verbal communication.  
+H. Areas not directly involved will secure their immediate area and continue their duties. 
+Formatted: Not Highlight ECEP007 
+Page 7 of 15 
+I. Drill Evaluations include fire safety equipment and building features and staff response 
+J. Smoke compartments immediately adjacent, above, and below the unit where the mock fire is 
+conducted shall be observed. Other randomly selected smoke compartments may be observed and 
+evaluated as necessary. 
+K. Elevators are not used during drills unless it affects the care of a patient. It is to be explained to 
+visitors that “The hospital is conducting an emergency exercise to ensure your safety”. 
+L. There are different responses for “AT THE SCENE” and “AWAY FROM THE SCENE 
+“locations. 
+ 
+Code RED Drill Evaluation  
+A. Evaluators may be selected prior to each drill by the Safety Officer or designee. 
+B. Evaluators may meet before the drill to review procedures, discuss specific activities to note, and 
+to receive their assignments. 
+C. A blank evaluation report will be distributed prior to the drill. 
+D. When the drill is complete (after the “All Clear” has been sounded), return the completed 
+evaluation form to the Safety Officer or designee. 
+ 
+Departments must score a 75% or better to pass the drill.  If department fails to receive a passing score, 
+it will be followed up with additional Code RED training. 
+ 
+A summary of Code RED drill results will be reported to the Environment of Care Committee and 
+department leadership. 
+  
+CODE RED RESPONSE TEAM 
+See Location Specific Appendices 
+ 
+EVACUATION 
+See Department Specific plans and Evacuation Plan ECEP003 
+ 
+RECOVERY 
+See Emergency Operations Plan ECEP001 
+ 
+RESPONSIBILITY MATRIX 
+See Location Specific Appendices 
+ 
+REFERENCES: 
+The Joint Commission, Environment of Care.02.03.01 and 02.03.03 
+National Fire Protection Association (NFPA) Life Safety Code 101 
+ 
+SUPPORTING DOCUMENTS/ATTACHMENTS 
+Business Occupancy Code RED Drill Evaluation 
+Healthcare Occupancy Code RED Drill Evaluation 
+ 
+ 
+  ECEP007 
+Page 8 of 15 
+Appendix A 
+ 
+Facility:   Our Lady of the Lake Regional Medical Center 
+ 
+ 
+Address:   
+ 
+5000 Hennessey Blvd, Baton Rouge, LA 
+ 
+Fire Alarm Systems 
+The Fire Alarm Annunciator Panel is located at PBX, which is staffed 24-hours a day.  When a smoke 
+detector, manual pull station, or sprinkler head is activated anywhere in the hospital, the alarm site is 
+displayed on monitors located in PBX and Plant Services.  The display specifies the location which 
+originated the alarm and whether it is a fire alarm or sprinkler alarm.  At the same time, the Code RED audio 
+and visual alarms will activate.  
+The alarm light will remain illuminated until cleared and reset by Plant Services.  They will be silenced by 
+Plant Services as directed by the proper authority. All alarms will be reset in Plant Services after the cause of 
+the alarm is investigated. 
+ 
+Notification: 
+1. Upon receiving the notification call of the fire and location, the PBX page operator will clearly 
+announce three times: “Code RED, location”. 
+2. The PBX operator will call the Administrator on Call (AOC) to notify them of the event.  
+3. Once Plant Services has informed PBX that the fire incident has been resolved, the PBX 
+operator will clearly announce three times: “All Clear, Code RED, location”. 
+ 
+Fire Suppression System 
+ 
+A. Automatic water sprinkler system, with sprinkler heads located throughout most of the facility. The 
+sprinklers are spontaneous; they are activated automatically whenever the environment reaches 
+critical mass due to heat.  However, a few areas are serviced by other types of fire suppression 
+systems which are automatically activated whenever a temperature sensing device reaches a certain 
+temperature.: 
+ 
+Information Systems Gas System 
+Radiology Preaction System 
+Kitchen (Ovens & Stoves) Dry Chemical System 
+Helipad Foam System 
+ 
+B. Portable fire extinguishers are located throughout the facility.  Know where the nearest fire 
+extinguisher is located. In general, they will be near exits and along hallways. In office areas, they 
+will be near work areas or near doors leading out to hallways.  
+ 
+CODE RED RESPONSE TEAM 
+1. Staff from the following areas will respond immediately to the location of all fire alarms: 
+• House Manager 
+• Plant Services 
+• Security  
+• Respiratory Therapist (only clinical areas) 
+Formatted: Font: 14 pt, Complex Script Font: 14 pt ECEP007 
+Page 9 of 15 
+a. When possible, responders from departments within the building will bring a fire extinguisher. 
+b. Plant Services will radio to the control room if additional assistance is needed in responding to 
+the fire.  
+c. If no fire or smoke is discovered, Plant Services staff will continue examining location to 
+determine the release of alarm. 
+d. The Code RED Response Team will remain in location awaiting further instructions from the 
+Fire Department or designee. 
+e. If evacuation is needed, the House Manager will advise the AOC immediately. 
+ 
+OLOL Main Campus – Responsibility Matrix  
+ 
+Department/ Staff Job Function/Responsibility 
+Administrator on Call 
+(AOC) / House 
+Manager  
+▪ Assume the role as Incident Commander. 
+▪ Activate appropriate Hospital Incident Command System positions to respond to 
+a fire. 
+▪ Assess the need to evacuate the threatened area. 
+▪ Obtain additional resources as needed. 
+Switchboard (PBX) ▪ Clearly announce, “Attention, please.  A fire alarm in the hospital has been 
+activated.  Please remain in your current location and await further instruction”. 
+Then announce three times, “Code RED, location”.  
+▪ Clearly announce, three times, on the overhead paging system “All Clear, Code 
+RED, location”. 
+Code RED Response 
+Team 
+▪ Upon notification of the “Code RED” all designated Code RED Response Team 
+members will report to the affected area. 
+Security ▪ Send staff to the affected area to manage access, crowd, and traffic control. 
+Plant Services ▪ Send staff to the affected area. 
+▪ Alert the control room of additional assistance when needed. 
+▪ Assess and determine when and if all fire incidents have been resolved. 
+▪ Notify the PBX operator when all fire incidents have been resolved to announce 
+an “All Clear”. 
+AFFECTED:   
+Staff / Departments 
+▪ Pull the nearest manual pull station. 
+▪ Designate someone to call PBX to report a Code RED and the location. 
+▪ Rescue all patients, visitors, staff and guests from immediate danger. 
+▪ Close all doors in the area/department. 
+▪ Shut off oxygen valves, ONLY if instructed to do so by the Unit Manager, 
+Charge Nurse, House Manager, Respiratory Therapist, or designee. 
+▪ Attempt to extinguish the fire by using proper techniques. 
+▪ Evacuate the area ONLY if instructed to do so by the Incident Commander or 
+Fire Department Personnel. 
+▪ Remain at your station unless otherwise instructed. 
+ADJACENT 
+AREAS: 
+▪ Ensure all smoke compartment doors have closed in the area/unit. 
+▪ Prepare to assist the neighboring unit with evacuation, when needed. 
+All Other Staff / 
+Departments 
+▪ Ensure all smoke compartment doors have closed in the area/unit. 
+▪ Direct all visitors and guests to the closest designated safe area in an evacuation.  ECEP007 
+Page 10 of 15 
+Appendix B 
+ 
+Facility:   OLOL Livingston 
+ 
+ 
+Address:   
+ 
+5000 O’Donovan, Walker, LA 
+ 
+Fire Alarm Systems 
+The main Fire Alarm Annunciator Panel is in the data closet across from the 1st floor elevators.  When a 
+smoke detector, manual pull station, or sprinkler head is activated anywhere in the hospital, the alarm site is 
+displayed on smaller annunciator panels in the 1st floor elevator lobby and at the Emergency Department 
+nurse’s station.  The display specifies the location which originated the alarm and whether it is a fire alarm or 
+sprinkler alarm.  At the same time, the Code RED audio and visual alarms will activate.  
+The alarm light will remain illuminated until cleared and reset by Plant Services.  They will be silenced by 
+Plant Services as directed by the proper authority. All alarms will be reset in Plant Services after the cause of 
+the alarm is investigated. 
+ 
+Notification: 
+1. Upon identification of the alarm/event activation location, the designated team member will 
+clearly announce three times: “Code RED, location”. 
+2. The designated team member will call the Administrator on Call (AOC) to notify them of the 
+event.  
+3. Once Plant Services/facility leadership has confirmed the incident has been resolved, the 
+designated team member will clearly announce three times: “All Clear, Code RED, location”. 
+ 
+Fire Suppression System 
+ 
+A. Automatic water sprinkler system with sprinkler heads located throughout most of the facility. The 
+sprinklers are spontaneous; they are activated automatically whenever the environment reaches 
+critical mass due to heat.  However, a few areas are serviced by other types of fire suppression 
+systems which are automatically activated whenever a temperature sensing device reaches a certain 
+temperature.: 
+ 
+Information Systems Gas System 
+Radiology Preaction System 
+ 
+B. Portable fire extinguishers are located throughout the facility.  Know where the nearest fire 
+extinguisher is located. In general, they will be near exits and along hallways. In office areas, they 
+will be near work areas or near doors leading out to hallways.  
+ 
+CODE RED RESPONSE TEAM 
+1. Staff from the following areas will respond immediately to the location of all fire alarms: 
+• House Manager 
+• Plant Services 
+• Security  
+• Respiratory Therapist (only clinical areas) 
+Commented [RSA1]: What types of fire suppression 
+systems are at Livingston? 
+Formatted: Font: 14 pt, Complex Script Font: 14 pt ECEP007 
+Page 11 of 15 
+a. When possible, responders from departments within the building will bring a fire extinguisher. 
+b. Plant Services will radio to the control room if additional assistance is needed in responding to 
+the fire.  
+c. If no fire or smoke is discovered, Plant Services or designee will continue examining location to 
+determine the release of alarm. 
+d. The Code RED Response Team will remain in location awaiting further instructions from the 
+Fire Department or designee. 
+e. If evacuation is needed, the House Manager will advise the AOC immediately. 
+ 
+OLOL Livingston – Responsibility Matrix 
+ 
+Department/ Staff Job Function/Responsibility 
+Administrator on Call 
+(AOC) / House Manager  
+▪ Assume the role as Incident Commander. 
+▪ Activate appropriate Hospital Incident Command System positions to respond 
+to a fire. 
+▪ Assess the need to evacuate the threatened area. 
+▪ Obtain additional resources as needed. 
+Designated Team 
+Member 
+▪ Clearly announce, three times, “Code RED + Location”.  
+▪ Clearly announce, three times, on the overhead paging system “All Clear, 
+Code RED, location”. 
+Code RED Response 
+Team 
+▪ Upon notification of the “Code RED” all designated Code RED Response 
+Team members will report to the affected area. 
+Security ▪ Send staff to the affected area to manage access, crowd and traffic control. 
+Plant Services ▪ Send staff to the affected area. 
+▪ Alert the control room of additional assistance when needed. 
+▪ Assess and determines when and if all fire incidents have been resolved. 
+▪ Notify the designee of when all fire incidents have been resolved to announce 
+an “All Clear”. 
+AFFECTED:   
+Staff / Departments 
+▪ Pull the nearest manual pull station. 
+▪ Designate someone to report a Code RED and the location. 
+▪ Rescue all patients, visitors, staff and guests from immediate danger. 
+▪ Close all doors in the area/department. 
+▪ Shut off oxygen valves, ONLY if instructed to do so by the Unit Manager, 
+Charge Nurse, House Manager, Respiratory Therapist, or designee. 
+▪ Attempt to extinguish the fire by using proper techniques. 
+▪ Evacuate the area ONLY if instructed to do so by the Incident Commander or 
+Fire Department Personnel. 
+▪ Remain at your station unless otherwise instructed. 
+ADJACENT AREAS: 
+ 
+▪ Ensure all smoke compartment doors have closed in the area/unit. 
+▪ Prepare to assist the neighboring unit with evacuation, when needed. 
+All Other Staff / 
+Departments 
+▪ Ensure all smoke compartment doors have closed in the area/unit. 
+▪ Direct all visitors and guests to the closest designated safe area in an 
+evacuation. 
+Commented [RSA2]: What happens if further assistance is 
+needed? 
+Commented [RSA3]: What’s the procedure for Livingston? 
+Commented [RSA4]: Who provides additional assistance?  
+Is this when they contact the main plant services control 
+room? 
+  ECEP007 
+Page 12 of 15 
+Appendix C 
+ 
+Facility:   OLOL Ascension 
+ 
+ 
+Address:   
+ 
+1125 Louisiana 30 W, Gonzales, LA 
+Fire Alarm Systems 
+The Fire Alarm Annunciator Panel is located in Plant Services.  When a smoke detector, manual pull station, 
+or sprinkler head is activated anywhere in the hospital, the alarm site is displayed on panels located in Plant 
+Services, next to the Security Desk and next to the PBX Operator at the Main Entrance.  The display 
+specifies the location which originated the alarm and whether it is a fire alarm or sprinkler alarm.  At the 
+same time, the Code RED audio and visual alarms will activate.  
+The alarm light will remain illuminated until cleared and reset by Plant Services.  They will be silenced by 
+Plant Services as directed by the proper authority. All alarms will be reset in Plant Services after the cause of 
+the alarm is investigated. 
+ 
+Notification: 
+1. Upon receiving the notification call of the fire and location, the PBX page operator will clearly 
+announce three times: “Code RED, location”. 
+2. The PBX operator will contact the Gonzales Fire Department by calling 9-911 
+3. The PBX operator will contact Plant Services at extension 5025 
+4. If during the day shift, the PBX operation will notify the Administrator or Designee and 
+Nursing Director or Designee. 
+5. Once Plant Services, Administrator, or Nursing Supervisor has informed PBX that the fire 
+incident has been resolved, the PBX operator will clearly announce three times: “All Clear 
+Code RED”. 
+ 
+Fire Suppression System 
+ 
+A. Automatic water sprinkler system has sprinkler heads located throughout most of the facility. The 
+sprinklers are spontaneous; they are activated automatically whenever the environment reaches 
+critical mass due to heat.  The kitchen’s cooking areas are also serviced by a Dry Chemical System.  
+The system is automatically activated whenever a temperature sensing device reaches a certain 
+temperature. 
+ 
+B. Portable fire extinguishers are located throughout the facility.  Know where the nearest fire 
+extinguisher is located. In general, they will be near exits and along hallways. In office areas, they 
+will be near work areas or near doors leading out to hallways.  
+   
+CODE RED RESPONSE TEAM 
+1. Staff from the following areas will respond immediately to the location of all fire alarms: 
+• Nursing Administration / House Supervisor 
+• Plant Services 
+• Security  
+• Unit Director / Supervisor 
+Formatted: Font: 14 pt, Complex Script Font: 14 pt ECEP007 
+Page 13 of 15 
+a. When possible, responders from departments within the building will bring a fire extinguisher. 
+b. Plant Services will radio to the control room if additional assistance is needed in responding to 
+the fire.  
+c. If no fire or smoke is discovered, Plant Services will continue examining location to determine 
+the release of alarm. 
+d. The Code RED Response Team will remain in location awaiting further instructions from the 
+Fire Department or designee. 
+e. If evacuation is needed, the Nursing Administration / House Supervisor or designee will advise 
+the AOC immediately. 
+ 
+OLOL Ascension – Responsibility Matrix 
+ 
+Department/ Staff Job Function/Responsibility 
+Administrator on 
+Call (AOC) / 
+Nursing 
+Administration / 
+House Manager  
+▪ Assume the role as Incident Commander. 
+▪ Activate appropriate Hospital Incident Command System positions to respond to a 
+fire. 
+▪ Assess the need to evacuate the threatened area. 
+▪ Obtain additional resources as needed. 
+Switchboard (PBX) ▪ Clearly announce, “Attention, please.  A fire alarm in the hospital has been 
+activated.  Please remain in your current location and await further instruction”. 
+Then announce three times, “Code RED + Location”.  
+▪ Clearly announce, three times, on the overhead paging system “All Clear, “Code 
+RED, location”. 
+Code RED 
+Response Team 
+▪ Upon notification of the “Code RED” all designated Code RED Response Team 
+members will report to the affected area. 
+Security ▪ Send staff to the affected area to manage access, crowd and traffic control. 
+Plant Services ▪ Send staff to the affected area. 
+▪ Alert the control room of additional assistance when needed. 
+▪ Assess and determine when and if all fire incidents have been resolved. 
+▪ Notify the PBX operator when all fire incidents have been resolved to announce an 
+“All Clear”. 
+Affected areas: ▪ Pull the nearest manual pull station. 
+▪ Designate someone to call PBX to report a Code RED and the location. 
+▪ Rescue all patients, visitors, staff and guests from immediate danger. 
+▪ Close all doors in the area/department. 
+▪ Shut off oxygen valves, ONLY if instructed to do so by the Unit Manager, Charge 
+Nurse, House Manager, Respiratory Therapist, or designee. 
+▪ Attempt to extinguish the fire by using proper techniques. 
+▪ Evacuate the area ONLY if instructed to do so by the Incident Commander or Fire 
+Department Personnel. 
+▪ Remain at your station unless otherwise instructed. 
+Adjacent areas: ▪ Ensure all smoke compartment doors have closed in the area/unit. 
+▪ Prepare to assist the neighboring unit with evacuation, when needed. 
+All Other Staff / 
+Departments 
+▪ Ensure all smoke compartment doors have closed in the area/unit. 
+▪ Direct all visitors and guests to the closest designated safe area in an evacuation.  ECEP007 
+Page 14 of 15 
+Appendix D 
+ 
+Facility:   OLOL Children’s Hospital 
+ 
+ 
+Address:   
+ 
+8300 Constantin Blvd, Baton Rouge, LA 
+ 
+Fire Alarm Systems 
+The Fire Alarm Annunciator Panel is located at PBX, which is staffed 24-hours a day.  When a smoke 
+detector, manual pull station, or sprinkler head is activated anywhere in the hospital, the alarm site is 
+displayed on monitors located in PBX, Plant Services, and Nurse Stations.  The display specifies the location 
+which originated the alarm and whether it is a fire alarm or sprinkler alarm.  At the same time, the Code RED 
+audio and visual alarms will activate.  
+The alarm light will remain illuminated until cleared and reset by PBX.  They will be silenced by PBX as 
+directed by the proper authority. All alarms will be reset in PBX after the cause of the alarm is investigated. 
+ 
+Notification: 
+1. Upon receiving the notification call of the fire and location, the PBX page operator will clearly 
+announce three times: “Code RED, location”. 
+2. The PBX operator will call and/or page the Administrator on Call (AOC) to notify them of the 
+event and radio to Plant Services (when available) for status.  
+3. Once Plant Services, House Manager, or Security has informed PBX that the fire incident has 
+been resolved, the PBX operator will clearly announce three times: “All Clear, Code RED, 
+location”. 
+ 
+Fire Suppression System 
+ 
+A. Automatic water sprinkler system has sprinkler heads located throughout most of the facility. The 
+sprinklers are spontaneous; they are activated automatically whenever the environment reaches 
+critical mass due to heat However, a few areas are serviced by other types of fire suppression systems 
+which are automatically activated whenever a temperature sensing device reaches a certain 
+temperature.: 
+ 
+Radiology Preaction System 
+Kitchen (Ovens & Stoves) Dry Chemical System 
+ 
+B. Portable fire extinguishers are located throughout the facility.  Know where the nearest fire 
+extinguisher is located. In general, they will be near exits and along hallways. In office areas, they 
+will be near work areas or near doors leading out to hallways.   
+CODE RED RESPONSE TEAM 
+1. Staff from the following areas will respond immediately to the location of all fire alarms: 
+• House Manager 
+• Plant Services 
+• Security  
+ 
+a. When possible, responders from departments within the building will bring a fire extinguisher. 
+Formatted: Font: 14 pt, Complex Script Font: 14 pt ECEP007 
+Page 15 of 15 
+b. Plant Services, Security, or House Manager will radio PBX if additional assistance is needed in 
+responding to the fire.  
+c. If no fire or smoke is discovered, Plant Services, House Manager, or Security staff will continue 
+examining location to determine the release of alarm. 
+d. The Code RED Response Team will remain in location awaiting further instructions from the 
+Fire Department or designee. 
+e. If evacuation is needed, the House Manager will advise the AOC immediately. 
+OLOL Children’s Hospital – Responsibility Matrix  
+ 
+Department/ Staff Job Function/Responsibility 
+Administrator on Call 
+(AOC) / House Manager  
+▪ Assume the role as Incident Commander. 
+▪ Activate appropriate Hospital Incident Command System positions to respond 
+to a fire. 
+▪ Assess the need to evacuate the threatened area. 
+▪ Obtain additional resources as needed. 
+Switchboard (PBX) ▪ Clearly announce, “Attention, please.  A fire alarm in the hospital has been 
+activated.  Please remain in your current location and await further 
+instruction”. Then announce three times, “Code RED”.  
+▪ Clearly announce, three times, on the overhead paging system “All Clear, 
+“Code RED, location”. 
+Code RED Response 
+Team 
+▪ Upon notification of the “Code RED” all designated Code RED Response 
+Team members will report to the affected area. 
+Security ▪ Send staff to the affected area to manage access, crowd and traffic control. 
+Plant Services ▪ Send staff to the affected area. 
+▪ Alert the control room of additional assistance when needed. 
+▪ Assess and determine when and if all fire incidents have been resolved. 
+▪ Notify the PBX operator when all fire incidents have been resolved to 
+announce an “All Clear, Code RED and Location”. 
+AFFECTED AREAS:   
+Staff / Departments 
+▪ Pull the nearest manual pull station. 
+▪ Designate someone to call PBX to report a Code RED and the location. 
+▪ Rescue all patients, visitors, staff and guests from immediate danger. 
+▪ Close all doors in the area/department. 
+▪ Shut off oxygen valves, ONLY if instructed to do so by the Unit Manager, 
+Charge Nurse, House Manager, Respiratory Therapist, or designee. 
+▪ Attempt to extinguish the fire by using proper techniques. 
+▪ Evacuate the area ONLY if instructed to do so by the Incident Commander or 
+Fire Department Personnel. 
+▪ Remain at your station unless otherwise instructed. 
+ADJACENT AREAS: 
+ 
+▪ Ensure all smoke compartment doors have closed in the area/unit. 
+▪ Prepare to assist the neighboring unit with evacuation, when needed. 
+All Other Staff / 
+Departments 
+▪ Ensure all smoke compartment doors have closed in the area/unit. 
+▪ Direct all visitors and guests to the closest designated safe area in an 
+evacuation. 
+  

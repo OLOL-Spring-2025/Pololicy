@@ -1,0 +1,177 @@
+NMA-016 
+Page 1 of 5 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Medication Admin. 
+Title: Patient Controlled Analgesia (PCA) 
+Policy 
+Reference #: NMA 016 
+Supersedes #:  
+Date of Origination: November 1988 Last Review 
+Date:  October 1, 2024 
+Last Revision Date: October 1, 2024 
+ 
+     
+Purpose: 
+To ensure that Patient Controlled Analgesic Pumps are used in an effective, safe, secure, 
+controlled manner and monitored by the nurse. 
+ 
+Policy: 
+Medications for the management of pain may be administered via Patient Controlled Analgesia 
+(PCA) Pump.  This technique permits self-administration as well as continuous programmed 
+dosages of narcotics to help alleviate pain.  PCA orders must be obtained from the physician, and 
+must specify drug, concentration and dosing schedule.   
+ 
+Applies To: 
+Licensed personnel who have documented knowledge and skills in PCA therapy.  
+ 
+Procedure 
+I. General Information 
+A. PCA is administered through a peripheral or central line. 
+B. An authorized provider must order PCA therapy, the analgesic and the dosage 
+parameters.   
+C. Sedatives and narcotics active on the electronic medical record at the time the 
+PCA is initiated must be clarified prior to being used in conjunction with the 
+PCA.  Whenever possible, these medications should be discontinued or held until 
+the PCA is discontinued. 
+D. PCA by proxy (nurse or patient representative pushing the PCA button) is not 
+allowed except as ordered when analgesic infusion therapy is being used in 
+Palliative Care (refer to policy NMA-025: Palliative Care Analgesic Infusion 
+Therapy).     
+E. Registered nurses may initiate, program, change parameters, change cartridges 
+and tubings, and administer bolus doses via the PCA pump as ordered by the 
+physician.  
+F. Two nurses, one being a registered nurse, must verify orders, programming of 
+pump, bolus doses, volume remaining, and waste as evidenced by documentation 
+of a witness in the electronic medical record (EMR).  NMA-016 
+Page 2 of 5 
+ 
+G. If pain is not relieved, two nurses, one being a registered nurse, will assess the 
+pump functioning to include proper programming, connections, and kinked 
+tubing. 
+H. LPNs may verify parameters, verify bolus doses and witness wastes.  A LPN may 
+also monitor the patient with PCA therapy to include documentation in the EMR.  
+A LPN may change a cartridge if the dosage and original order have been verified 
+by a registered nurse. 
+I. Patients on PCA therapy will be monitored for respiratory depression using 
+Continuous Pulse Oximetry and continuous Capnography (ETCO) except while 
+the patient is ambulating. Unless otherwise specified by the physician, the low O2 
+saturation (SpO2) alarm limit shall be set at 90% for adults and 92% for pediatric 
+patients.  Unless otherwise specified by the physician, the low ETCO2 alarm limit 
+shall be set at 30mmHg and the high alarm limit shall be set at 55mmHg for adult 
+and pediatric patients.          
+J. PCA cartridges must be changed every 72 hours and tubing must be changed 
+every 96 hours.                          
+                               
+II. Obtaining the pump 
+A. Order the PCA pump from central supply.   
+B. Central supply will deliver the pump.  
+C. The PCA cartridges will be located in the automated dispensing machine on the 
+nursing unit whenever possible. They will come from main pharmacy when not in 
+the automated dispensing machines. 
+D. For pump loading, priming and programming, refer to manufacturer’s user 
+manual. 
+ 
+III. Patient Education 
+A. Prior to the initiation of the PCA pump therapy, educate the patient and the family 
+regarding the purpose and use of the device. 
+B. Minimal education requirements include: 
+1. Medication type 
+2. Dosage 
+3. Frequency of use 
+4. Use of the patient injection device (bolus cord). 
+5. Instruction to the family not to push the injection device for the patient 
+because they cannot judge the sedation/relief level of the patient. 
+6. Information on pump timing between doses. 
+7. Instruction to family and/or patient regarding the availability of other 
+educational materials such as the Patient Handbook.  NMA-016 
+Page 3 of 5 
+ 
+C. The nurse initiating the PCA pump will document patient education in the EMR. 
+IV. PCA Initiation and Documentation 
+A. Upon initiation of PCA therapy and with every cartridge change, the nurse shall 
+document the following components in the patient’s EMR:  
+ 1. Pain assessment 
+ 2. PCA Settings (witness must verify settings) 
+  a. PCA Medication 
+  b. Concentration 
+  c. Continuous Basal Rate (if applicable) 
+  d. Patient Bolus (PCA dose on pump) (if applicable) 
+  e. Lockout Interval 
+  f. Hourly Dose limit 
+ 3. Sedation 
+  a. Sedation Scale: Pasero Opioid-induced Sedation Scale (POSS) 
+  b. Respiratory pattern  
+  c. Oxygen Saturation (SpO2) 
+  d. End Tidal CO2 (ETCO2) 
+B. Routine patient monitoring, shall be documented at the following intervals: 
+a. Every hour for the first four hours of therapy 
+b. Then every four hours 
+C. Documentation should also include the following from each previous hour in the 
+corresponding time column:   
+a) Vital signs 
+b) pain 
+c) sedation scale 
+d) respiratory status 
+e) ETCO2 
+f) SPO2 
+g) number of given doses 
+f) number of attempted doses 
+ 
+  
+D. For a PCA dose change or bolus, two nurses, one being an RN, will review the physician 
+order, change the program on the pump, and document the new settings to include the 
+witness verification in the EMR. Routine PCA monitoring and documentation are to be 
+resumed every hour for 4 hours, then every 4 hours. 
+E. At each hand-off, two nurses, one being an RN, must verify and document PCA settings 
+and volume remaining, to include electronic documentation of a witness. NMA-016 
+Page 4 of 5 
+ 
+F. When the bag/cartridge is changed, two nurses, one being the RN, must verify and 
+document the new medication being hung, the pump settings, and volume remaining. 
+Verification by the witness is documented in the EMR.  
+G. In the event of patient deterioration (adverse change in sedation score), the frequency 
+of patient monitoring shall be increased to: 
+a) Every 15 minutes for the next hour 
+b) Every hour for the next 4 hours 
+c) Then every 4 hours if stable 
+ 
+V. Discontinuing Pump 
+A. The order to discontinue PCA therapy must be received from a physician. 
+B. The nurse will verify that all history has been recorded, including the current 
+hour’s therapy. 
+C. Remove narcotic from the pump. 
+D. Any remaining medication must be removed from the cartridge or bag and wasted 
+by the nurse in the controlled substance disposal container in the presence of a 
+witnessing nurse.  The nurse will document the volume remaining (waste 
+amount), in addition to the witness verification, in the EMR. (see policy PH-09-12 
+Waste and Witness of Waste).     
+E. If there is a discrepancy of more than 10% between the volumes remaining in the 
+patient record and the actual amount wasted, notify the charge nurse and follow 
+hospital protocol for narcotic discrepancy. 
+F. Place used pump with all cords in the soiled utility room for return to Central 
+Supply. 
+ 
+VI. Patient undergoing surgery with current PCA pump therapy 
+A. The unit nurse must be sure that all documentation in the EMR is current before sending the 
+patient to surgery. 
+B. The PCA pump will not be stopped before a patient is received in pre-op. 
+C.  The pump will be discontinued by the pre-op nurse, when imminent departure of the patient 
+to the OR/ procedure room is established. The ICU nurse will discontinue the pump in a 
+similar manner when OR and anesthesia staff are performing a direct transfer to the operating 
+room. 
+D.  The pre-op nurse/ICU nurse shall discontinue the pump, waste the remaining narcotic in the 
+controlled substance disposal container in the presence of a witnessing nurse, and document 
+on the PCA flow sheet in the EMR. The procedural nurse may be asked to assist with 
+narcotic volume assessment. 
+E.  Pre-op/ICU nurse shall return the discontinued pump to Central Supply. 
+F. If PCA therapy is restarted, the PACU nurse will restart.  
+ NMA-016 
+Page 5 of 5 
+ 
+References: 
+Policy NMA-025: Palliative Care Analgesic Infusion Therapy  
+Policy OC060 Controlled Substance Monitoring 
+Refer to facility designated on-line clinical reference  
+ 
+ 

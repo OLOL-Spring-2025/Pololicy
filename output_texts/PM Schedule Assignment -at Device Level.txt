@@ -1,0 +1,125 @@
+Approved
+Standard Operating Procedure
+Document #: TMX-SOP-0036 Revision: 9
+Document Type: TMX Effective Date: Apr 8, 2021
+Department: CE Service Origination 
+Date:
+Apr 1, 2015
+Title: PM Schedule Assignment (at Device Level)
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 3
+1.PURPOSE -- SCOPE
+It is TRIMEDX policy that all TRIMEDX managed clinical equipment is set to a 
+compliant and environmentally appropriate PM Schedule. The following should 
+be consulted when setting a PM Schedule:
+1. Federal, State, and Local regulations and Accreditation Agency standards
+2. Manufacturer's Requirements and/or Recommendations
+3. Equipment Management (EM) Score, Alternative Equipment Management 
+(AEM) Schedule, Manufacturer (MFR) Schedule, and Default Maintenance 
+Program (as applicable)
+4. Customer Preference with appropriate rationale
+2.REFERENCE DOCUMENTS
+2.1. Attachment 2: CMMS Database PM Schedule Assignment Algorithm
+2.2. Attachment 3: Device Maintenance Program Assignment
+2.3. TMX-SOP-0028 Request for PM Schedule Change
+3.DEFINITIONS
+3.1.CMMS – Software that centralizes maintenance information and 
+facilitates the processes of maintenance operations.
+4.ABBREVIATIONS
+4.1. PM – Preventative Maintenance
+4.2. CMMS – Computerized Maintenance Management System
+4.3. QRC – Quality & Regulatory Compliance Department
+5.RESPONSIBILITIES
+5.1.Site Manager
+5.1.1. Ensure all devices are set to a compliant PM schedule (Refer to 
+Compliance with Applicable Regulations and Accreditation Standards 
+Policy)
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0036 Revision: 9
+Document Type: TMX Effective Date: Apr 8, 2021
+Department: CE Service Origination 
+Date:
+Apr 1, 2015
+Title: PM Schedule Assignment (at Device Level)
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 3
+5.1.2. Guide continuous discussion and manage feedback from customer 
+to create awareness and understanding regarding PM Schedules
+5.2.Technicians 
+5.2.1. Notify Manager of increase in repairs, incidents, or concerns 
+regarding a particular model/description
+5.3.QRC 
+5.3.1. Review / resolve questions presented by TRIMEDX associates 
+regarding PM Schedules
+5.3.2. Continuously review Federal, State, and Local regulations and 
+Accreditation Agency standards to ensure compliance is maintained 
+when assigning maintenance / PM Schedules
+6.PROCEDURE
+6.1.Device PM Schedule Setting: 
+6.1.1. The Computerized Maintenance Management System (CMMS) 
+sets the device-level PM Schedule 
+6.1.1.1. For Regulated Sites, the device-level PM Schedule will be 
+set based on the developed algorithm specific for regulated 
+states. (Attachment 2: CMMS Database PM Schedule 
+Assignment Algorithm)
+6.1.1.2. For Non-Regulated Sites, the device-level PM Schedule will 
+be set based on the Default Maintenance Program. (Refer to 
+AEM and Default Maintenance Program Assignment Policy and 
+Procedure)
+6.2.Device Maintenance Program Setting: 
+6.2.1. The CMMS database calculates a Device Maintenance Program 
+for each device based on the following: 
+6.2.1.1. The device's primary and secondary PM Schedule(s)
+6.2.1.2. The AEM Schedule(s)
+6.2.1.3. The MFR Schedule(s) 
+6.2.1.3.1. Refer to AEM and Default Maintenance Program 
+Assignment Policy and Procedure and Attachment 3: 
+Device Maintenance Program Assignment).
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0036 Revision: 9
+Document Type: TMX Effective Date: Apr 8, 2021
+Department: CE Service Origination 
+Date:
+Apr 1, 2015
+Title: PM Schedule Assignment (at Device Level)
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 3 of 3
+6.3. It is the site's responsibility to provide manufacturer recommended 
+maintenance information to the QRC for any model in the CMMS 
+database where the MFR Schedule is blank.
+6.4. It is the site's responsibility to have the manufacturer procedures on 
+site for all equipment. 
+6.4.1. If manufacturer procedures are unavailable, procedures for like-
+and-kind equipment or industry best practice standards can be 
+used.  If no procedures are available, a generic procedure can be 
+developed by qualified personnel (received OEM/third-party or on-
+the-job training for model or like-and-kind equipment), must be 
+documented, and available upon request
+6.5.Site Manager must ensure that all device-level PM Schedules are 
+compliant with applicable Federal, State, and Local regulations and 
+Accreditation Agency standards. (Refer to Compliance with Applicable 
+Regulations and Accreditation Standards Policy)
+6.5.1. If the PM Schedule needs updated per regulations, Request for PM 
+Schedule Change Policy and Procedure should be followed
+7.QUALITY RECORDS
+8.PROCESS FLOWCHART
+None.
+END OF DOCUMENT
+COPY

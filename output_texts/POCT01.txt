@@ -1,0 +1,791 @@
+ 
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 1 of 15 
+ 
+       
+                                          
+POINT OF CARE TESTING PROCEDURE MANUAL 
+POCT01 
+WHOLE BLOOD GLUCOSE MONITORING –  
+NOVA STATSTRIP® HOSPITAL METER SYSTEM  
+Prepared/Revised By: Origination Date:    Revision Date: Effective Date: 
+ K. Vetter 8/5/2021 2/7/2025 2/10/2025 
+ 
+PURPOSE: 
+To set forth uniform testing and quality control procedures for waived whole blood glucose testing 
+wherever Point of Care testing is performed.  
+ 
+PRINCIPLE: 
+The StatStrip® Glucose Hospital Meter System is intended for Point of Care multiple patient use for 
+quantitative determination of glucose in capillary finger stick, venous whole blood, arterial whole 
+blood, neonate arterial whole blood, and neonate heel stick specimens throughout all hospital and all 
+professional healthcare settings, including patients receiving intensive medical intervention/therapy 
+otherwise considered as critically ill.  
+ 
+This system should only be used with single-use, auto-disabling lancing devices when performing a 
+capillary finger stick or neonate heel stick.  
+ 
+This method is not intended for use with neonate cord blood specimens or for the screening or 
+diagnosis of diabetes mellitus but is indicated for use in determining dysglycemia.  
+ 
+The Test Strip is designed with an electrode that measures glucose levels. Glucose (sugar) in the 
+blood sample mixes with reagent on the test strip that produces an electric current. The amount of 
+current that is produced depends on how much glucose is in the blood. The glucose result is displayed 
+on the screen of the meter. The test strips are calibrated against plasma. 
+ 
+SPECIMEN: 
+ One drop of fresh, whole blood 
+a. Capillary fingerstick, neonate heel stick, neonate arterial whole blood, venous whole blood 
+and arterial whole blood. 
+b. Sample size is 1.2 µL 
+c. To minimize the effect of glycolysis, venous or arterial blood samples need to be performed 
+within 30 minutes of sample collection to prevent inaccurate results. 
+d. Alternate site testing (earlobe, forearm, etc.) is NOT allowed. 
+e. The following anticoagulant is acceptable (do not use any other anticoagulants for meter 
+testing): 
+a. Lithium Heparin 
+f. Refer to Limitations Section below for other specimen/testing limitations.   
+ 
+     Capillary Precautions: 
+a. Caution should be exercised when testing capillary whole blood due to potential pre -
+analytical variability in capillary specimen collection.  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 2 of 15 
+ 
+b. A capillary specimen relies upon an adequate, non -compromised blood flow. The 
+healthcare provider must be aware that a capillary specimen glucose result may not always 
+be the same as an arterial or venous specimen, especially when the patient’s condition i s 
+rapidly changing. 
+c. If the capillary specimen glucose result is not consistent with a patient’s clinical signs and 
+symptoms, glucose testing should be repeated with either an arterial or venous specimen 
+on the StatStrip meter. 
+d. When performing a capillary heel stick glucose test on a neonate, caution should be 
+exercised to ensure adequate blood flow to the heel. Consider unswaddling the neonate, 
+massaging and/or warming the heel prior to specimen collection. 
+ 
+EQUIPMENT / REAGENTS / SUPPLIES: 
+ 
+EQUIPMENT: 
+Nova StatStrip® System 
+A. Nova StatStrip Meter 
+a. The meter has wireless connectivity to the HIS. 
+b. The meter uses a touch screen for menu navigation and data entry. 
+c. The meter provides audible feedback of user inputs and has a built -in barcode for 
+scanning. (do not stare into laser light or point towards anyone’s eyes when scanning) 
+d. The meter stores patient test data, quality control test data, linearity test data, etc. 
+e. Store meter at 15º C to 40º C 
+f. Use meter between 10% to 90% relative humidity 
+B.  Battery  
+a. Battery powered: 3.7 V Li Polymer battery (rechargeable/replaceable) 
+b. When the Battery LOW symbol displays on the screen, place the meter into the Docking 
+Charging Station 
+C. Docking/Charging Station 
+a. An LED indicator light on the right shows the status of battery: amber indicates charging 
+and green indicates fully charged. 
+REAGENTS: 
+A. StatStrip® Glucose Hospital Meter Test Strips 
+a. Store at 1-30°C.  Do not freeze. 
+b. Use test strips between 10-90% relative humidity  
+c. Store strips in the same tightly capped vial in which they were packaged. Never transfer test 
+strips to plastic bag, pocket, or any other secondary container. Replace cap immediately after 
+removal of test strip to protect test strips from humidity. 
+d. Unopened test strips are stable until the expiration date on the test strip container. 
+e. Once opened, test strips are stable when stored properly for up to 6 months or until the 
+manufacturer’s expiration date printed on the vial, whichever comes first. 
+f. The 6mth Expiration Date MUST be written on the vial when first opened or the manufacturer’s 
+expiration date printed on the vial is acceptable if it comes first.  
+B. StatStrip® Glucose Control Solutions, Level 1 and Level 3 
+a. Store at room temperature below 30°C.  Do not refrigerate or freeze.  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 3 of 15 
+ 
+b. Once opened, glucose controls are stable for 3 months or until the manufacturer’s expiration 
+date printed on the bottle, whichever comes first. 
+c. The 3mth Expiration D ate MUST be written on both bottles when first opened  or the 
+manufacturer’s expiration date on the bottle is acceptable if it comes first. 
+C.  StatStrip® Glucose Linearity Test Kit, 5 linearity solutions with varying glucose levels.    
+a. Store at room temperature below 86°F (30°C).  Do not refrigerate or freeze. 
+b. Linearity solutions are stable for 3 months after bottles are opened or until the expiration date 
+printed on the bottles, whichever comes first.4 
+c. The 3mth Expiration Date MUST be written on the box when first opened  or the 
+manufacturer’s expiration date on the box is acceptable, if it comes first. 
+d. The linearity test kit is stored in the Lab for use by the POC Coordinator. 
+ 
+SUPPLIES: 
+Cotton balls or Gauze pads  
+B.  Alcohol Wipes 
+C.  Personal Protective Equipment, gloves 
+D.  Hospital approved disinfectant wipes 
+E.  Hospital approved disposable single use lancet device 
+ 
+ 
+CALIBRATION:  N/A 
+ 
+LINEARITY TESTING: 
+Linearity tests are performed by the Point of Care Coordinators or other designee before a blood 
+glucose meter is put into use  for the first time .  The linearity results of each StatStrip® meter are 
+charted and reviewed by POCC.  Linearity testing is a means of testing the StatStrip® system’s ability 
+to give correct readings through a broad range of glucose levels.  
+ 
+ 
+QUALITY CONTROL:  
+A. The StatStrip® glucose meters require two levels of quality control testing. 
+B. QC results will display as “Pass” or “Fail”. 
+C. Control tests are performed at the following times: 
+1. Every 24 hours, when in use 
+2. Training of new operators 
+3. Before using the StatStrip® Meter for the first time. 
+4. If a patient test has been repeated and the blood glucose results are still lower or higher 
+than expected 
+5. If there are indications that the system is not working properly 
+6. Whenever problems (storage, operator, instrument) are identified or anytime there i s 
+concern the accuracy of the meter may have been affected by rough handling (such as 
+dropping the meter). 
+ 
+ 
+ 
+ 
+ 
+  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 4 of 15 
+ 
+ 
+QUALITY CONTROL TESTING PROCEDURE: 
+A. Use proper PPE including gloves. 
+B. Assemble equipment and reagents. 
+C. Confirm that strips and controls are not expired, and discard date is written on both controls.  
+D. Follow the appropriate steps below for quality control testing for both StatStrip® Glucose Control 
+Solutions, Level 1 and Level 3: 
+STEP ACTION 
+1 Wake Up meter: 
+-Touch screen or insert test strip 
+2 From Home screen, press the Login soft key at the bottom middle of screen 
+3 The Enter Operator ID screen displays. 
+-Press the Scan soft key to scan name badge barcode or enter OID manually on keypad 
+4 From the Patient Test screen, press the QC soft key. 
+5 The Enter Strip Lot screen displays. Scan the Test Strip vial barcode.  
+To scan the barcode, press the Scan soft key. 
+ 
+Note: If the Strip Lot Number is invalid, the screen displays the invalid number with “is not 
+a valid Strip Lot # Try again.” 
+6 The Enter QC Lot screen displays. Enter the QC lot number. To scan the barcode, press the 
+Scan soft key. 
+ 
+Note: If the QC Lot Number is invalid, the screen displays the invalid number with “is not a 
+valid QC Lot Try again.” 
+7 The Insert Strip screen displays. Insert a Test Strip as shown on the screen.  
+8 With the test strip correctly inserted, the Apply Sample screen displays. 
+9 Gently mix the StatStrip® Glucose Control Solution before each use. 
+10 Discard the first drop of control solution from the bottle to avoid contamination.  
+11 Place a drop of control solution from the bottle at the end of the test strip until the solution is 
+drawn into the well of the test strip. When enough sample has been drawn into the strip, an 
+audible beep is sounded by the meter. 
+12 Recap the control solution. The Testing Sample screen displays. The screen shows a clock 
+with seconds remaining below the clock. 
+13 When the meter completes the test, the QC Result screen displays result as either PASS or 
+FAIL 
+14 Remove the strip manually or use the ejector button on the back of the meter to eject the strip 
+directly into a biohazard container. 
+15 To add a comment to the result, press the Comment soft key. 
+16 To accept the result, press the Accept soft key 
+ 
+Note: Acceptable control assay ranges are printed on the Glucose Control Solutions vial 
+label. If a QC test does not fall within the specified range, verify that the StatStrip® Glucose 
+Hospital Meter Test Strips and Control Solutions are not past their expiration dates. Repeat 
+the test with a new strip. If the second test fails, inspect and clean the meter. If the third test 
+fails, contact the Laboratory Point of Care Department.  
+     
+  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 5 of 15 
+ 
+ 
+E. QC Expected Results: 
+The Nova StatStrip® Glucose Control Solution should produce results that fall within the range of 
+results printed on the label. If the control solution test result is outside the range (is either higher or 
+lower), the meter and/or test strip may not be working as a system. If quality control testing falls 
+outside of acceptable limits with “FAIL” displaying, immediate corrective action must be taken. 
+ 
+.Possible Reason for “QC Fail” Corrective Action 
+Test done incorrectly Make sure that instructions have been carefully 
+followed 
+Strips have been damaged  Get new strips 
+Strips are expired Get a new vial of test strips 
+Controls are expired Get new controls 
+Controls are contaminated- cloudy not clear Get new controls 
+Unknown Failure – Glucose Meter may not 
+be working properly 
+Follow these steps: 
+1. Repeat testing using new controls – If 
+failed 
+2. Repeat testing using new reagent strips – 
+If failed 
+3. Bring the meter to the lab in exchange 
+ 
+The StatStrip® glucose meter will NOT allow patient testing until both levels of control are within 
+acceptable limits. 
+ 
+     .     
+PATIENT TESTING PROCEDURE:  
+A. Only testing personnel trained in the use of the NOVA StatStrip ® Glucose Meter are 
+allowed to perform patient testing. They must successfully complete all required training 
+and annual competency to remain certified  in the NOVA system. Testing Personnel must 
+under no circumstances provide their ID to enable another team member to perform 
+testing. 
+B. Ensure meter is clean before patient testing. 
+C. Use proper PPE – Use gloves. Wear a new pair of clean gloves for testing each patient. Wash 
+hands thoroughly with soap and water before putting on a new pair of gloves and performing the 
+next patient test. Hand hygiene must be performed before and after each procedure. 
+D. Assemble equipment and reagents 
+E.   Confirm patient identity, using the 2ID or 3ID (pediatrics) process. (See Patient Identification 
+Policy- OrgClin/018) 
+F.   Explain the test procedure to the patient. 
+G.   Follow the appropriate steps below for patient testing: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 6 of 15 
+ 
+ 
+ 
+STEP ACTION 
+1 Wake Up meter: 
+-Touch screen or insert test strip 
+2 From Home screen, press the Login soft key at the bottom middle of screen 
+3 The Enter Operator ID screen displays. 
+-Press the Scan soft key to scan name badge barcode or enter OID manually on keypad 
+ 
+4 From the Patient Test screen, press the Accept soft key. 
+5 The Enter Strip Lot screen displays. Enter or scan the strip lot number. 
+7 The Enter Patient ID screen will display. 
+8 From the Enter Patient ID screen, enter the Patient ID by scanning the patient’s armband. 
+ 
+Note: To scan the patient ID, press the Scan soft key on the screen. Then scan the patient’s 
+barcode with the bottom of the meter. The patient’s ID can also be entered manually by 
+using the numeric keypad. Enter CSN on patient’s armband for Patient ID, NOT MRN. 
+9 Once the Patient’s ID has been entered, verify Patient Information (Name and DOB) on 
+screen. Press Accept soft key. 
+• If msg “Is Not a Valid Patient ID” displays on meter, but the CSN is correct on the 
+screen and Patient identity is confirmed. Press Downtime Override soft key to 
+continue with patient testing 
+10 The Insert Strip screen displays. Insert a test strip as shown on the meter screen. 
+ 
+Note: Do Not dose test strip with blood prior to sticking it in meter. 
+11 Follow Single Use Lancet/Fingerstick Procedure: 
+• Rotate fingers and puncture sites for patients having multiple blood glucose tests. 
+• Clean puncture site area with alcohol pads and let dry thoroughly after cleaning.  
+• Holding hand downward, massage finger with thumb toward tip to stimulate blood 
+flow.   
+• Use a new single use lancet to puncture the finger.  When using lancet on infant only 
+heel may be punctured. 
+• Never use a lancet if the protective cap has been removed or the Trigger button is 
+depressed. 
+• Squeeze the finger to form a drop of blood. Wipe away the first drop of blood with 
+gauze or cotton ball, then squeeze the finger again to form a second drop of blood. 
+• Discard lancet in appropriate biohazard sharps container  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 7 of 15 
+ 
+12 The Apply Sample screen should be displaying. When the blood drop appears, touch the 
+end of the test strip to the blood drop until the well of the test strip is full and the meter 
+beeps.  
+ 
+Note: At the time of dosing the strip it is very important to hold the meter horizontal to 
+keep any liquid from getting into the strip port.  
+ 
+Warning: The test strip must fill completely upon touching the blood droplet. If the test 
+strip does not fill completely, do not touch the test strip to the blood droplet a second 
+time. Discard the test strip and repeat the test with a new strip.  
+13 The test results will appear in 6 seconds. 
+ 
+Note: Do not remove the test strip while the countdown is in progress. 
+14 Remove the strip manually or use the ejector button on the back of the meter to eject the strip 
+directly into a biohazard container. 
+15 To accept the result, press the Accept soft key. 
+To reject the result, press the Reject soft key. 
+• Reject result if Error has been made during patient testing 
+• Add a Comment to document reject reason 
+• Then repeat test procedure using new test strip. 
+To add a comment, press the Comment soft key. 
+ 
+Abnormal results Display as: 
+Note:  ↑ displays for abnormal high result              ↓ displays for abnormal low 
+        ↑↑ displays for critical high value                 ↓↓ displays for critical low value 
+ 
+16 When patient testing is completed, the StatStrip® Glucose Hospital Meter System should be 
+cleaned and disinfected after use prior to testing with a new patient. 
+17 Remove gloves and wash hands thoroughly with soap and water and/or hand sanitizer. 
+18 Place meter in docking station when finished. This ensures proper charging, downloading of 
+results and ability to locate meters.  
+ 
+ 
+Questionable Patient Results: 
+       If a patient result is unexpected or not consistent with the patient’s history and clinical 
+presentation see table below for corrective action: 
+ 
+STEP ACTION 
+1 Perform Quality Control using the same meter and test strips 
+2 If quality control test results are within range, repeat the patient test using the same 
+test strips and meter, selecting a different collection site 
+3 If quality control test results are not within range, contact POC department with 
+issue. 
+4 Repeat patient testing using another meter and test strip vial that have passed 
+routine quality control testing  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 8 of 15 
+ 
+5  If patient results are to be compared between the Nova StatStrip® meter and lab 
+glucose, samples should be collected within 10 minutes of each other 
+• Collect sample in a properly labeled green top tube  
+• Order a stat blood/serum glucose 
+• Send to the laboratory for testing 
+ 
+Result Review Procedure: 
+All results can be recalled and reviewed: Patient Results, QC Results, and Linearity Results. The 
+Review Results screen can be sorted by ID, Time/Date, or Type. Follow the appropriate steps 
+below for result review: 
+ 
+STEP ACTION 
+1 From the Patient Test screen, press the Review soft key. 
+2 The Review Result screen displays. 
+3 Select how to sort the results by pressing ID, Time/Date, or Type. 
+4 Select the result that you want to review. 
+ 
+Note: The scroll bar shows the position in the results field: beginning, middle, end.  
+5 Press the Page Down or Page Up soft key to scroll through the stored results. 
+Press the View soft key to view the selected result. 
+Press the Previous soft key to view the previous result. 
+Press the Next soft key to view the next result. 
+ 
+ 
+RESULTS: 
+ 
+Reportable (linear) range for NOVA StatStrip® meter: 10 - 600 mg/dL     
+ 
+See table below for age specific reference and critical ranges: 
+ 
+ 
+ 
+                          
+ 
+ 
+    
+ 
+ 
+ 
+Result Interpretation: 
+o All Critical Results must be confirmed by repeat testing.  A repeat test is a test performed 
+within 15 minutes of the initial test.  
+o Results greater than 600 mg/dL are displayed as “HI”. Report as >600 mg/dL 
+o Results less than 10 mg/dL are displayed as “LO”. Report as <10 mg/dL.  
+o All Out of Reportable Range Results must be confirmed by repeat testing.  
+o If result is still out of reportable range order a STAT laboratory glucose test to 
+verify POC glucose result. 
+ 
+Age Range Normal Reference Range 
+(mg/dL) 
+Critical Range  
+(mg/dL) 
+0 – 1day 45 – 60 <40 or > 180 
+>1day – 28days 60 – 100 <60 or > 180 
+>28days – 3mo 60 – 100 <60 or > 300 
+>3mo – 18years 60 – 100 <60 or > 400 
+18years and up 70 – 100 <70 or > 400  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 9 of 15 
+ 
+ 
+o Caution is advised in the interpretation of critical neonate blood glucose value .   
+Laboratory glucose testing should be performed to confirm critical neonate NOVA 
+StatStrip® whole blood test result. 
+o Physician Notification:  Critical r esults and Out of  Reportable Range results require 
+physician notification be documented in the patient’s medical record. 
+o Comment Required for all Critical results and Out of Reportable Range results. 
+o Results within normal range are displayed in Blue. 
+o Results outside the normal range are displayed in Red. 
+o A Single up arrow (↑) is displayed for a result if the value is higher than the upper end of 
+the normal range but within the critical range. 
+o A Double up arrow (↑↑) is displayed for a result if the value is higher than the upper end 
+of the critical range.  
+o A Single down arrow (↓) is displayed for a result if the value is lower than the lower end 
+of the normal range but within the critical range. 
+o A Double down arrow (↓↓) is displayed for a result if the value is lower than the lower 
+end of the critical range.  
+ 
+REPORTING RESULTS: 
+Whole blood glucose test results along with the reference ranges, date, time, Name and ID of the 
+testing personnel, and the meter number will be transferred from the Nova StatStrip meter to the 
+Automated Data Management System via specialized software and hardware. The Laboratory Point 
+of Care Coordinators or other designee manage the data. It is then transferred to the HIS into the 
+patient’s electronic medical record. 
+  
+A.  Wireless Data Transfer 
+ 1.  Results will be automatically transferred wirelessly if a wireless connection is  
+      available upon completion of the test.   
+ 2.  Wireless connectivity can be confirmed by the presence of wifi four bar icon at the top of 
+the screen which indicates connection and strength.       
+ 3.  If a wireless connection is not available the meter will send the results automatically as  
+      soon as the connection is available. 
+ 4.  The meter connects to the ADT (Admit, Discharge, Transfer) feed every 10 minutes  
+      and sends and receives data even if it is turned off. 
+ 
+B.  Wired Data Transfer 
+ 1.  If the Wireless Transfer is not available results can still be transferred into the  
+      Patient’s EMR (electronic medical record) by docking the meter in the designated  
+      Hardwired Charging/Docking Station. 
+2. While the meter is docked in the designated Hardwired Charging/Docking Station it will    
+connect to the ADT feed every 10 minutes to send and receive data. 
+3. Wireless Downtime Protocol:   
+If WIFI is DOWN , please find Yellow Labeled “Downloader” - Hard Wired 
+Charging/Docking Stations  located throughout the facilities  by reviewing the Nova 
+StatStrip Wireless Downtime Protocol: 
+• Go to Teamlink -> Policies -> Lake -> Laboratory -> Point of Care  
+Testing -> POCT01-JA-1 Nova StatStrip Wireless Downtime Protocol
+   
+ 
+  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 10 of 15 
+ 
+ 
+CLEANING /DISINFECTION OF METER: 
+A.  Clean and disinfect after each patient use following this protocol to ensure effective cleaning and 
+disinfection. The meter must also be cleaned  and disinfected  whenever it becomes visibly  
+contaminated with blood or other materials.  
+B.  Gloves are to be worn while cleaning.  
+C.  Make sure the test strip is removed from the meter.  Lay the meter on a flat surface prior to 
+cleaning and disinfecting. 
+Acceptable Cleaning and Disinfecting Materials: 
+ Nova Biomedical recommends the use of Clorox Healthcare Bleach Germicidal Wipes, EPA 
+Registration #6769-12, or any disinfectant product with EPA Registration #67619-12.  However, 
+hospital approved disinfection materials are acceptable for use according to NOVA CIB NO: 01-
+21ss (which states any disinfectant product included in both EPA List D or List N may be used  
+provided the institution perform validation testing to ensure the alternate selection does not have 
+a detrimental effect on the meter’s surface or performance) 
+• PDI Sani-Cloth Bleach Wipes EPA Registration #9480-8 
+D.  Warning: To ensure proper disinfection it is important to clean the meter (Step 1) prior 
+disinfecting the meter (Step2) 
+ 1. Clean the Meter 
+• Remove a fresh germicidal wipe from canister 
+• Wipe the external surface of the meter thoroughly with the wipe. Discard wipe in 
+appropriate biohazard container. 
+2.  Disinfect the Meter 
+• Using a new fresh germicidal wipe, thoroughly wipe the surface of the meter (top, 
+bottom, left and right sides) a minimum of 3 times horizontally followed by 3 times 
+vertically avoiding the bar code scanner and electrical connector.  
+• Gently wipe the surface area of the test strip port making sure that no fluid enters the 
+port.  
+3. Observe surface contact time.  
+• Ensure the meter surface stays wet for the contact time specified on the hospital 
+approved germicidal wipe, which is longer than the manufacturer’s requirement of 1 
+minute.  Allow to air dry for 1 minute. 
+       4. Dispose of wipe and gloves in a standard biohazard container. 
+ 5. Wash and sanitize hands following hospital approved guidelines and put on a fresh set of 
+gloves before proceeding to perform testing on the next patient. 
+ 
+WARNING: Do not allow liquid to enter the strip port connector or allow pooling of liquid on 
+the touch screen. If liquid does get into the strip port or connector, immediately dry the 
+components with a dry cloth or gauze.  
+WARNING: Do not spray the meter directly with solutions as this could cause the solution to 
+enter the case and damage the electronic components.  
+ 
+ 
+ 
+  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 11 of 15 
+ 
+ 
+WARNING: Do not immerse the meter or hold the meter under running water.  
+WARNING: Cleaning and disinfection may in rare cases damage the meter. Damage may include 
+plastic housing cracks, cloudiness or frosting of the display, response issues with the 
+display, battery compartment fluid leakage, or test port damage. Signs of meter 
+performance deterioration may include failure to recover proper control solution results 
+or the inability to perform a blood glucose test. If you observe damage due to cleaning 
+and disinfection, stop using the meter and contact POCT Department to investigate. 
+ 
+PROCEDURE NOTES: 
+• Do not stare into the Laser light or point it towards anyone’s eyes while scanning a barcode. 
+• Touchscreen: 
+• It is recommended to use only your fingers to touch the screen. Using sharp -edged 
+objects can damage or disable the meter. 
+• A PDA-style pen may be used as a replacement for finger input.  
+• Battery Hazards: 
+• All rechargeable Lithium batteries have a finite useful life that will vary depending 
+upon use and handling conditions. A Lithium battery exhibiting any of the following 
+conditions should be immediately removed from use and properly disposed of in 
+accordance with local regulations.  
+o Has exceeded its expiration date 
+o Swelling, cracking, or damage to the battery case 
+o Leakage 
+o Failure to hold a proper charge 
+• The Lithium battery may present a fire or chemical burn hazard, if mistreated. Do not 
+disassemble, heat above 100ºC (212ºF), or incinerate. 
+• The battery provided should not be treated as household waste. To ensure the used 
+battery is treated properly, remove the used battery from the meter and hand over to 
+the used battery to the applicable collection point for the recycling of electrical and 
+electronic equipment.   
+ 
+• Troubleshooting: 
+Meter Screen Alerts Possible solution 
+Battery Low Change the battery or place the meter onto the 
+Charging/Docking Station. 
+Analysis Canceled  The test has been canceled, repeat the test with a 
+new strip in place until the result is displayed on 
+the screen.  
+Temperature Meter will only work within the temperature 
+range of 59ºF to 104ºF (15ºC to 40ºC). Return the 
+meter to an environment within the specified 
+temperature range of 59ºF to 104ºF (15ºC to 
+40ºC). 
+Bad Sample Insert a new strip and rerun the test. If the error 
+code persists, perform the test using an alternate 
+test strip vial or alternate method. 
+Replace Strip Occurs after insertion of strip or occurs during 
+analysis. Insert another strip and retest. If the  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 12 of 15 
+ 
+error code persists, perform the test using an 
+alternate method. 
+Flow Error The specimen was incorrectly drawn into the test 
+strip due to either insufficient or incorrect sample 
+application. Repeat the test with a new strip. If 
+the error code persists, perform test using an 
+alternate method. 
+Transfer Failed: 
+Connection Not Allowed or 
+Connection Broken 
+Server refuses to allow dialog with meter or 
+connection to server was broken. Please check 
+the network settings, status of your network, or 
+contact your administrator for assistance.  
+Transfer Failed: 
+Transfer Incomplete 
+The meter was removed before data transfer was 
+complete. Please re-dock the meter. 
+ 
+•    If meter is still malfunctioning: 
+▪ Remove the meter from service and use a different meter. 
+▪ Bring down the broken meter to Laboratory in exchang e for a Lab Loaner 
+meter to use. Complete the Lab Loaner form (POCT01-A). 
+▪ Send a sample to the Laboratory for testing.  
+•    Contact information for POCT Department is in every Nova StatStrip Case. Contact 
+POCT Department during normal business hours with any POCT issues. 
+• Dropped Meter: 
+▪ Run both levels of Quality Control before returning meter to service. 
+▪ If Quality Control fails, remove meter from service and bring to Laboratory. 
+ 
+LIMITATIONS: 
+a. The system has not been evaluated for use with neonate venous blood. 
+b. Blood source – Use only whole blood. Do not use serum or plasma. 
+c. Specimens – Only fresh whole blood or whole blood collected in lithium heparin collection 
+devices should be used for arterial and venous specimens. 
+d. Fluoride, EDTA, Sodium, and Ammonium blood collection devices should not be used for 
+arterial and venous specimens. 
+e. Temperature and humidity extremes – Test results may be inaccurate when test strips are 
+stored outside of the storage and handling conditions. 
+f. Altitudes above 15,000 feet (4500 meters) above sea level have not been evaluated. 
+g. Do not immerse meter under water when cleaning/disinfecting 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 13 of 15 
+ 
+ 
+INTERFERENCES: 
+The StatStrip Glucose Hospital Meter System exhibits NO interference from the following list of 
+drugs or physiological conditions commonly found in patients in intensive care settings with complex 
+medical conditions and drug regiments up to the following concentration levels: 
+ 
+Tested  
+Interfering Substances  
+Tested  
+Concentration Level  
+ 
+Acetaminophen  
+ 
+20.0 mg/dL  
+ 
+1.323 mmol/L  
+Acetoacetate  51.0 mg/dL  5 mmol/L  
+Acetone  69.7 mg/dL  12 mmol/L  
+Acyclovir  0.6 mg/dL  0.027 mmol/L  
+Albuterol  0.06 mg/dL  0.0025 mmol/L  
+Amitriptyline  0.06 mg/dL  0.0022 mmol/L  
+Amoxicillin  5 mg/dL  0.137 mmol/L  
+Ampicillin  0.8 mg/dL  0.0229 mmol/L  
+Ascorbic Acid  22.5 mg/dL  1.278 mmol/L  
+Atropine  0.01 mg/dL  0.000346 mmol/L  
+Beta-hydroxybutyrate  166.6 mg/dL  16 mmol/L  
+Bilirubin  29.3 mg/dL  0.5 mmol/L  
+Captopril  0.6 mg/dL  0.0276 mmol/L  
+Carbamazepine  1 mg/dL  0.0423 mmol/L  
+Cefaclor  35 mg/dL  0.952 mmol/L  
+Cholesterol  1000 mg/dL  25.86 mmol/L  
+Cimetidine  5 mg/dL  0.198 mmol/L  
+Citric Acid  384.3 mg/dL  20 mmol/L  
+Creatinine  6 mg/dL  0.53 mmol/L  
+Digoxin  0.3 mg/dL  0.0038 mmol/L  
+Diltiazem  0.1 mg/dL  0.0024 mmol/L  
+Dopamine  20 mg/dL  1.306 mmol/L  
+Enalapril  0.5 mg/dL  0.0133 mmol/L  
+Ephedrine  1 mg/dL  0.0605 mmol/L  
+Ethanol  399.9 mg/dL  86.8 mmol/L  
+Famotidine  0.042 mg/dL  0.0012 mmol/L  
+Fluconazole  2 mg/dL  0.0653 mmol/L  
+Fluoxetine Hydrochloride  2 mg/dL  0.0647 mmol/L  
+Fructose  500 mg/dL  27.75 mmol/L  
+Furosemide  3 mg/dL  0.0907 mmol/L  
+Galactose D(+)  500 mg/dL  27.75 mmol/L  
+Galactose-1-Phosphate  500 mg/dL  19.22 mmol/L  
+ 
+Glycerol  500 mg/dL  54.30 mmol/L  
+Heparin  1.2 mg/dL  N/A  
+Hydrochlorothiazide   2 mg/dL  0.0672 mmol/L  
+Hydrocortisone  20 mg/dL  0.552 mmol/L  
+Ibuprofen  48.0 mg/dL  2.33 mmol/L  
+Ketoprofen  6 mg/dL  0.236 mmol/L  
+Lactose  500 mg/dL  14.61 mmol/L  
+Lansoprazole  20 mg/dL  0.542 mmol/L  
+L-dopa  5 mg/dL  0.25 mmol/L  
+Levofloxacin  1.8 mg/dL  0.0498 mmol/L  
+Lidocaine  0.7 mg/dL  0.0299 mmol/L  
+Lisinopril  0.5 mg/dL  0.0123 mmol/L  
+Maltose D(+)  500 mg/dL  14.61 mmol/L  
+Mannitol  6000 mg/dL  329.4 mmol/L   
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 14 of 15 
+ 
+MaltotetrioseD(+) 
+Maltotetraose D(+)  
+240 mg/dL 
+240 mg/dL  
+4.76 mmol/L 
+3.6 mmol/L  
+Mannose  500 mg/dL  27.75 mmol/L  
+Methy-dopa  1.0 mg/dL  0.042 mmol/L  
+Metoprolol Tartrate Salt  1.8 mg/dL  0.0673 mmol/L  
+N-acetylcysteine  81.6 mg/dL  5 mmol/L  
+Naproxen  40 mg/dL  1.74 mmol/L  
+Nifedipine  0.02 mg/dL  0.00058 mmol/L  
+Norepinephrine  10 mg/dL  0.591 mmol/L  
+Nortriptyline Hydrochloride  0.02 mg/dL  0.00076 mmol/L  
+Olanzapine  0.02 mg/dL  0.00064 mmol/L  
+Pancuronium bromide  0.4 mg/dL  0.0070 mmol/L  
+Penicillin  72 mg/dL  2.02 mmol/L  
+Phenytoin  2.5 mg/dL  0.099 mmol/L  
+Prednisone  1 mg/dL  0.0279 mmol/L  
+Propofol  3.2 mg/dL  0.18 mmol/L  
+Propranolol Hydrochloride  0.3 mg/dL  0.012 mmol/L  
+Ranitidine hydrochloride  1 mg/dL  0.032 mmol/L  
+Salicylate  120.0 mg/dL  7.50 mmol/L  
+Sodium Chloride  
+Deviation from a normal sodium or 
+chloride level  
+ 
+234 mg/dL  
+ 
+40 mmol/L  
+Sodium Nitroprusside dihydrate  0.05 mg/dL  0.0019 mmol/L  
+Sorbitol  500 mg/dL  27.45 mmol/L  
+Sucrose  500 mg/dL  14.61 mmol/L  
+Sulfamethoxazole  1.5 mg/dL  0.059 mmol/L  
+Tetracycline  30 mg/dL  0.675 mmol/L  
+Theophylline  2 mg/dL  0.111 mmol/L  
+Tolazamide  45 mg/dL  1.45 mmol/L  
+Tolbutamide  50 mg/dL  1.85 mmol/L  
+Triglyceride  1500 mg/dL  16.9 mmol/L  
+Uric Acid  23.5 mg/dL  1.4 mmol/L  
+Vancomycin hydrochloride hydrate  3 mg/dL  0.021 mmol/L  
+Verapamil Hydrochloride  0.1 mg/dL  0.0022 mmol/L  
+Warfarin  1.2 mg/dL  0.039 mmol/L  
+Xylose  500 mg/dL  33.3 mmol/L  
+   
+Hematocrit  20% and 70%   
+Oxygen  All concentrations   
+pH  6.6 and 8.0   
+   
+   
+ 
+ 
+  
+   
+   
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+POCT01 – WBG Nova StatStrip    Page 15 of 15 
+ 
+ 
+REFERENCES: 
+StatStrip® Glucose Hospital Meter System IFU, current. 
+StatStrip® Glucose Hospital Meter Test Strips package insert, LPN 55873H 2020-01 
+Nova StatStrip® Glucose Control Solution Level 1 package insert, LPN 41749P 2018-02 
+Nova StatStrip® Glucose Control Solution Level 3 package insert, LPN 43281L 2018-02 
+Nova StatStrip® Glucose Linearity Kit package insert, LPN 41750J 2018-02 
+ 
+ 
+VERSIONS: 
+8/5/2021 (created), 2/7/2025 
+ 
+ 
+ 

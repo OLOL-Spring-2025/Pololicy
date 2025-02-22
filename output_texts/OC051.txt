@@ -1,0 +1,123 @@
+ 
+OC 051/ LaPOST  
+1 
+ 
+RESPONSIBLE DEPARTMENT: 
+Organizational / Clinical  
+SUBJECT:  
+LaPOST (Louisiana Physician Orders for Scope 
+of Treatment) 
+PAGES: 
+3 
+REPLACES POLICY DATED: 
+ 
+EFFECTIVE DATE:  
+6/30/2012  
+REVIEW DATE: 
+ March 29, 2024 
+SYSTEM POLICY NUMBER:  
+OC051 
+ 
+SCOPE: 
+Applies to Our Lady of the Lake Hospital, Inc. (“OLOL”) and its wholly owned sponsored organizations (collectively 
+referred to herein as “Entity”) that propose and adopt Facility wide policies. 
+POLICY: 
+• A LaPOST document can be completed on a qualified patient regardless of age. 
+• The LaPOST document translates a patient’s end of life wishes and goals into physician’s order which can transfer 
+across health care settings.  The LaPOST document is recognized as a physician order.  The treating MD will need to 
+enter orders in the Electronic Medical Record (EMR) that are consistent with what is noted on the LaPOST 
+document. 
+• The LaPOST document must be signed by a physician, and by the patient, or if the patient lacks decision making 
+capacity the patient’s personal health care representative. The form is not valid without the signature of the physician 
+and the patient or the patient’s healthcare representative. 
+• At each presentation to the ER and/ or hospitalization, the LaPOST document should be reviewed by the treating 
+physician or mid-level provider with the patient and/or the patient’s personal health care representative.   
+• When more than one version of the LaPOST exists, the most recent version will be honored. 
+• The patient is to keep the original LaPOST document; a copy of the document is scanned and received in the EMR 
+under the Advanced Care Planning.  If upon discharge an original of the LaPOST document is found in the medical 
+record, Health Information Management will mail the original document to the patient if the patient was discharged 
+alive. 
+ 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+OC 051/ LaPOST  
+2 
+• As a Catholic health care institution, OLOLRMC strives to be a community of respect, love, and support to patients 
+and residents and their families as they face the reality of death.  The Medical Center takes guidance from the Ethical 
+and Religious Directives (ERDs) for Catholic Health Care Services, 5th Edition, United States Conference of 
+Catholic Bishops, 2018.  The ERDs state several spiritual and ethical priorities of taking faithful care of dying 
+patients and their families, and of evaluating Advance Care Planning documents such as LaPOST.  (a) A task of 
+medicine and health care is to care even when it cannot cure.  (b) Catholic health care avoids the use of non-
+beneficial or burdensome technology that offers no reasonable benefit to patient or resident. (c) Staff must not 
+withdraw technology with the intention of causing death. (d) Euthanasia and physician-assisted dying are not 
+permitted.  (e) In principle there is the presumption for food and fluids if the benefit outweighs the burden to the 
+patient or resident. (f) Patients and residents should be kept as free of pain as possible. (g) Pain suppressing or 
+alleviating medicine that may indirectly shorten a person’s life is permitted so long as the intent is not to hasten 
+death. (Ethical and Religious Directives for Catholic Health Care Services.) 
+DEFINITIONS: 
+• Advance Directive: A patient’s written instructions that explain his/her wishes for health care if the patient has a 
+terminal and irreversible condition or is in a continual profound comatose state (Living Will) and/or a document 
+identifying the person who the patient desires to make medical decisions if the patient is unable to do so or chooses 
+not to (Power of Attorney for Health Care.) 
+• LaPOST: A standardized form which documents the qualified patient’s wishes for end of life care into a physician 
+order. 
+• Personal Health Care Representative: A person who has authority in accordance with Louisiana law to act on 
+behalf of an individual who is an adult or an emancipated minor in making decisions related to health care because 
+of incapacity. 
+• Qualified Patient:  Patient diagnosed as having a life-limiting and irreversible condition by the attending physician 
+or personal physician of the patient. 
+PROCEDURE: 
+1. For Patients Presenting to the Emergency Department with a Completed LaPOST: 
+A. Health care providers are to follow LaPOST orders until the ED physician reviews the LaPOST form and 
+incorporates the content of LaPOST into the care and treatment plan of the patient. 
+B. The ED physician may issue new orders consistent with the most current information available about the 
+patient’s health status, medical condition, treatment preferences and goals of care. The reasons for any deviation 
+from the LaPOST should be documented in the EMR.  
+C. Discussions with the patient and/or the patient’s personal health care representative regarding the LaPOST 
+document and related treatment decisions will be documented in the EMR.   
+D. A copy of the current LaPOST form will be scanned in the EMR if not already present.  The original LaPOST 
+form will be returned to the patient.   
+2. For Patients Admitted to the Hospital with a completed LaPOST: 
+A. The nurse will document in the EMR the existence of a LaPOST during the initial patient assessment. 
+B. Health care providers are to follow LaPOST orders until the admitting physician reviews the LaPOST form and 
+incorporates the content of the LaPOST document into the care and treatment plan of the patient, as appropriate.   
+OC 051/ LaPOST  
+3 
+The physician should document his review of the LaPOST in the EMR. 
+C. The admitting physician may issue new orders consistent with the most current information available about the 
+patient’s health status, medical condition, treatment preferences and goals of care. The reasons for any deviation 
+from the LaPOST should be documented in the EMR.  
+D. Discussions with the patient and/or the patient’s personal health care representative regarding the LaPOST 
+document and related treatment decisions will be documented in the EMR.   
+E. A copy of the current LaPOST form will be scanned into the EMR, if not already present, under ACP.  The 
+original LaPOST form will be returned to the patient.   
+3. Completing LaPOST with a Patient: 
+A. When a patient is identified by the physician or mid-level provider as appropriate for having a LaPOST, the 
+physician or mid-level provider will have the discussion with the patient or with the patient and/or the patient’s 
+personal health care representative to explain the LaPOST form.  These conversations will be documented in the 
+EMR. 
+B. After reviewing the LaPOST document with the patient and/or the patient’s surrogate decision maker, the 
+physician will sign the document along with the patient or if the patient is unable, the patient’s surrogate 
+decision maker. If the patient’s personal health care representative is not readily available to sign the document, 
+two licensed health care professionals can take verbal consent; both will need to document this on the form. 
+C. Once the LaPOST document is completed, a copy will be scanned into the EMR under ACP and the original 
+LaPOST will be returned to the patient. 
+ 
+4. Voiding a LaPOST: 
+A. If a LaPOST document is no longer valid due to a patient changing treatment preferences or a change in the 
+patient’s health status or medical condition, the LaPOST can be voided.  To void a LaPOST, draw a line through 
+Sections A through D and write “VOID” in large letters.  Sign and date this line.  A copy of the voided LaPOST 
+will be scanned into the EMR. 
+Note:  The information described herein does not create any legal rights and OLOL reserves the right to deviate from, 
+revise or eliminate this policy, at any time, in its sole discretion. 
+STATUTORY/REGULATORY AUTHORITY: 
+• Louisiana Regulatory Statue. 40:1155.1 through 40:1155.6. 
+• Ethical and Religious Directives for Catholic Health Care Services, 6th Edition; United States 
+Conference of Catholic Bishops, 2018. 
+ATTACHMENTS:  
+• N/A 
+ 
+ 

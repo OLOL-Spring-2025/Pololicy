@@ -1,0 +1,128 @@
+ 
+Admitting  
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Access Services  
+SUBJECT:  
+Patient Identification 
+PAGES: 
+2 
+REPLACES POLICY DATED: 
+ 
+EFFECTIVE DATE: 
+January 2015   
+REVISION DATE: 
+Jan 2018 
+SYSTEM POLICY NUMBER:  
+FIN.04.022 
+ 
+SCOPE: 
+Applies to all departments that register patients for services. 
+PURPOSE: 
+To ensure identification accuracy for all patients to FMOL, allowing for proper medical record 
+assignment, testing, procedures and /or surgeries performed.  To provide a consistent 
+systematic process, assuring the correct identity of the patient and the correct selection of the 
+Medical Record Number and avoiding duplication.   
+ 
+POLICY: 
+All persons presenting for services at FMOL or its affiliates are identified and admitted with the 
+correct identifiers and medical record number. 
+ 
+DEFINITIONS: 
+ 
+PROCEDURE: 
+1. Patient’s identity must be established upon admit, using both active and passive 
+methods.  
+2. Registrar will obtain the adult patient’s driver’s license or state-issued identification.  
+3. Registrar will ask the patient or designee if he/she had ever had services at the current 
+facility or its affiliates. 
+4. Registrar will ask the patient for his/her legal name and will verify it against the driver’s 
+license or state-issued identification for adults, or verify with family members for minors.  
+Registrar will  compare the name on file at the facility  and by using the legal name 
+provided if different from state DL or ID.   
+5. Registrar will ask the patient for his/her social security number  and search for the 
+patient by the SSN.  NOTE:  If a potential HIPAA privacy issue exists at the point 
+of registration, the registrar will ask for the last 4 digits of the SSN instead of the 
+entire SSN.  Once the patient has been pulled up by the social security number, the 
+registrar will verify the patient’s name and date of birth. If the social security number is 
+not found, the registrar will c heck to make sure he/she has entered the numbers 
+ 
+Admitting  
+correctly and then will search another way (see Next Option). 
+i.  If the patient is already in the system with the social security number – follow 
+the P & P on admitting a patient already in the system. 
+6. Next Option: If unable to pull the patient up by social security number, the registrar will 
+search by the patient’s last name and first name. Once the patient has been pulled 
+up by this method, the registrar will verify the date of birth and address. 
+i.  If the patient is already in the system – follow the P & P on Admitting a 
+patient already in the system 
+7. Next Option: if unable to pull the patient up by his/her name, the registrar will use 
+partial name, remove all but a few letters of the first name and trying to pull the patient 
+up again. Again, once the patient has been pulled up by this method, the registrar will 
+verify the patient’s date of birth and address. 
+8. If unable to pull the patient up; the registrar will ask patient if he/she could have been 
+listed under a different name. 
+NOTE:  The registrar must make all the attempts to identify a patient in the system 
+prior to moving on to the next option. 
+ 
+9. If still unable to pull the patient up you , the registrar will add the patient as a new 
+patient. 
+10. In the case of an unresponsive patient , the patient will be admitted using the driver’s 
+license information when available or family/acquaintances when possible.   If not 
+available, the patient must be admitted as a John/Jane Doe, placing the current date as 
+the date of birth.  “Change” will be listed in the address field and the hospital phone 
+number.  The registrar must follow up and update the information at the first 
+opportunity. 
+11. Admissions must make every effort to properly identify each and every patient on 
+admit. 
+ 
+ 
+ 
+Patient’s SS# Patient’s Name Patient DOB Actions taken 
+Listed in the database Match information provided by 
+patient 
+Match information provided by 
+the patient 
+• Proceed with patient 
+registration following 
+the Admitting a 
+Patient Already in 
+System P&P 
+Not listed in database Match information provided by 
+patient 
+Match information provided by 
+patient 
+• Verify & Add the 
+patient’s social 
+security number to 
+account. 
+• Follow the 
+Demographic Change 
+P&P 
+Listed in the database Partial name listed Match information provided by 
+the patient 
+• Verify & Update 
+patient’s name 
+• Follow Name Change 
+P&P and Demographic 
+Update P&P 
+Listed in the database Match information provided by 
+patient 
+Does not match information 
+provided by patient. 
+• Verify & Update 
+patient’s DOB 
+• Follow Demographic 
+Change P&P 
+Not listed in database Not listed in database Not listed in database • Add a new patient. 
+Patient unresponsive Patient unresponsive Patient unresponsive • Click Anonymous 
+(system will pre-
+populate alias and 
+dob) 
+• Once ID verified; 
+Follow Name Change 
+P&P and Demographic 
+Update P&P   
+Admitting  
+ 

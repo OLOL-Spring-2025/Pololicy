@@ -1,0 +1,95 @@
+ PH-02-11 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: 
+Medication Use, 
+Storage and 
+Handling 
+Title: Orders: Adverse Drug Reactions Policy Reference #: PH-23-17 
+Supersedes #: PH-14-03C 
+Date of Origination: 08/01/1997 Last Date Reviewed: 2/28/24 
+Last Date Revised: 0505/09/2018 
+ 
+PURPOSE 
+To outline the reporting, monitoring and evaluation of Adverse Drug Reactions (ADR). 
+POLICY 
+All suspected possible Adverse Drug Reactions will be reported by physicians, pharmacists, nurses and 
+other healthcare professionals prescribing, dispensing or administering medications within Our Lady of 
+the Lake Regional Medical Center. Adverse Drug Reactions will be investigated by the Pharmacy 
+Department. Unusual and rare events shall be reported to the Food  and Drug Administrations (FDA), 
+Institute for Safe Medication Practices (ISMP), or other appropriate body. 
+PROCEDURE 
+A.  Definition: as per American Society of Health-Systems Pharmacists (ASHP) 
+The definition of an ADR in any unexpected, unintended, undesired, or excessive response to a 
+drug that:   
+1. Requires discontinuing the drug (therapeutic or diagnostic) 
+2. Requires changing the drug therapy 
+3. Requires modifying the dose (except for minor dosage adjustments) 
+4. Necessitates admission to the hospital 
+5. Prolongs stay in the hospital 
+6. Necessitates supportive treatment 
+7. Significantly complicates diagnosis 
+8. Negatively affects prognosis 
+9. Results in temporary or permanent harm, disability, or death. 
+ 
+B. Identification of ADRs 
+The program may include a concurrent surveillance system: 
+• Based on the reporting of suspected ADRs by pharmacists, physicians, and nurses.  PH-02-11 
+Page 2 of 3 
+• Monitoring the use of “tracer” drugs that are used to treat common ADRs.  
+• An ADR can also be identified retrospectively by medical record abstraction. 
+C. Adverse Drug Reaction Reporting 
+1. The prescriber will be contacted immediately in the event of a potential ADR. 
+2. Medical, nursing and pharmacy personnel are responsible for reporting suspected ADRs that 
+meet the above definition and reporting criteria. If a medication administration error causes an 
+ADR, the event shall be reported using the hospital’s patient safety event reporting tool  
+3. When appropriate, actual ADRs shall be documented in the patient’s medical record according 
+to policy OO-GN-019 Safety Event (Incident or Variance) Reporting.  
+4. Adverse Drug Reaction reports will be compiled and reported to the Pharmacy and 
+Therapeutics Committee with trends noted and recommendations for improvement as 
+applicable. 
+D. Classification of Adverse Drug Reactions 
+Category Description 
+A Circumstances exist with capacity to cause an event/error or variance in care (A Good Catch) 
+B Event/error and/or an omission occurred BUT DID NOT reach the patient/resident. 
+C Event/error reached the patient/resident BUT caused NO harm. 
+ 
+D Event/error increased the need for monitoring/intervention BUT caused NO harm. 
+*E Event/error increased the need for treatment/intervention AND caused TEMPORARY harm. 
+*F Event/error that contributed to or resulted in TEMPORARY harm AND required initial or 
+prolonged hospitalization. 
+ 
+*G Event/error that contributed to or resulted in PERMANENT harm AND required initial or 
+prolonged hospitalization. 
+*H Event/error that required intervention necessary to sustain life. 
+ 
+*I Event/error that contributed to or resulted in DEATH (UNEXPECTED DEATH) 
+X Death not related to an event
+ 
+ PH-02-11 
+Page 3 of 3 
+Not 
+Known 
+There is not enough information available to assign a Severity Category for this event.  
+ 
+ 
+REFERENCES: 
+Institute for Safe Medication Practices; www.ISMP Adverse Drug Reactions 
+American Society of Health-System Pharmacists: Adverse Drug Reaction Monitoring and Reporting. 
+MM 07.01.03 EP1.  The hospital has a written process to respond to actual or potential adverse drug 
+events, significant adverse drug reactions, and medication errors.  The Joint Commission Medication 
+Management Standards 
+MM 07.01.03 EP2.  The hospital has a written process addressing prescriber notification in 
+the event of an adverse drug event, significant adverse drug reaction, or medication error.  The Joint 
+Commission Medication Management Standards 
+MM 07.01.03 EP3.  The hospital complies with internal and external reporting requirements 
+for actual or potential adverse drug events, significant adverse drug reactions, and medication errors.  
+The Joint Commission Medication Management Standards 
+MM 07.01.03 EP5.  The hospital implements its process for responding to adverse drug 
+events, significant adverse drug reactions, and medication errors.  The Joint Commission Medication 
+Management Standards 
+MM 07.01.03 EP6.  Medication administration errors, adverse drug reactions, and medication 
+incompatibilities as defined by the hospital are reported to the attending physician or clinical 
+psychologist, immediately when possible, and as appropriate to the organization-wide performance 
+improvement program.  The Joint Commission Medication Management Standards 
+ 

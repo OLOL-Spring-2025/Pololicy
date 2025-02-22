@@ -1,0 +1,86 @@
+ 1 
+ 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Environment  
+Title: Medical Equipment in Perioperative 
+Areas 
+Policy Reference #: SOS051 
+Supersedes #:  
+Date of Origination: 10/21/2024 Review Date:  
+Revision Date: 11/11/2024 
+ 
+ 
+PURPOSE: 
+To establish guidelines for the perioperative process on safe and effective use of medical 
+equipment in the operating room (OR) and procedural areas. 
+POLICY: 
+1. Equipment Verification: 
+All medical equipment must be verified for functionality and cleanliness before each use in 
+the operating room. This includes inspecting all electrical equipment, including loaned 
+equipment, for signs of wear (e.g., frayed cords, strain relief) and damage before each use. 
+2. Extension Cord Usage: 
+When using an extension cord, ensure it is the proper length and plug it directly into a 
+power source. Under no circumstances should extension cords be connected to another 
+extension cord or a relocatable power tap (RPT) to another RPT. 
+3. Consultation with Biomedical Engineers: 
+Consult with biomedical engineers when introducing any new equipment or to predetermine 
+which equipment can be safely accommodated by the portable outlet, ensuring 
+compatibility and safety standards are met. 
+4. Alarm Verification: 
+Verify that clinical and alert alarms are audible before beginning procedures. No audible 
+alarms should be turned off without proper consultation and documentation. Any changes to 
+clinical alarm settings (e.g., high or low limits) must be communicated to all relevant team 
+members. 
+5. Cord Management: 
+Arrange cords in a manner that prevents damage and minimizes trip and fall hazards. All 
+cords should be secured and organized to maintain a safe operating environment. 
+6. Training and Use: 
+Only trained and authorized personnel are permitted to operate medical equipment in the 
+OR. Staff must complete all required training sessions and demonstrate competency before 
+being allowed to use specific devices. All devices must be used in accordance to the 
+manufacturers IFU or other such recommendations that ensure safe patient outcomes.   2 
+7. Cleaning and Disinfection: 
+Strict adherence to infection control protocols is required when using medical equipment. 
+This includes using sterile covers, proper cleaning, and disinfection of reusable equipment, 
+as well as the disposal of single-use items according to hospital policy. All items shall be 
+disinfected with hospital approved products according to the manufacture’s specifications,  
+8. Maintenance and Calibration: 
+Regular maintenance and calibration of all medical equipment must be performed according 
+to established schedules by biomed. Part of the “before each use” inspection will consist of 
+reviewing any PM stickers or other expiration dates. Staff should report any concerns 
+regarding equipment performance to the biomedical engineering department promptly. 
+9. Tagging, Removing, and Reporting Defective Devices: 
+Any medical equipment identified as defective, or malfunctioning must be immediately 
+tagged with a “Red Maintenance Repair Tag” to prevent its usage. Note the problem on the 
+tag.  
+Any supply attached or connected to the device is identified as defective, or malfunctioning 
+must be immediately sequestered and logged for review. If necessary, contact risk and the 
+device manufacturer. 
+Remove the defective device from the OR. Report it to the appropriate supervisor. Start a 
+service work order with biomedical engineering department for further evaluation and 
+repair. 
+ 
+Red Maintenance Repair Tag  
+ 
+*A yellow tag indicates repairs are in progress.  
+*The green tag indicated that the repairs were complete.  
+ 
+ 
+ 3 
+10. Incident Reporting: 
+Follow the same process for defective devices along with isolating any device involved in 
+the incident.  
+Any incidents involving equipment malfunction, adverse events, or near misses must be 
+reported through the hospital’s incident reporting system. Include details of the defect and 
+any potential patient safety concerns. An investigation, as warranted, will be conducted to 
+determine the cause and prevent future occurrences. 
+11. Records: 
+A log of all medical equipment used in each patient procedure must be maintained in the 
+EMR. The CEID number will be used to track the device. Other pertinent information to 
+document might include: the type of equipment, operator names, and any issues 
+encountered during the procedure. 

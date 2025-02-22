@@ -1,0 +1,254 @@
+ NOP-033 
+Page 1 of 5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Medication 
+Title: Automated Dispensing Cabinets (ADC) 
+Policy 
+Reference #: NOP-033 
+Supersedes #: 5/02 
+Date of Origination: July 1997 Review Date:  March 13, 2023 
+Revision Date: October 14, 2024 
+ 
+PURPOSE: 
+The Automated Dispensing Cabinets  (ADC) will provide a secure limited access storage  area for 
+medications, automate the documentation of medication dispensing and to  provide a tracking system for 
+inventory control and drug utilization . Accountability for medications , accura cy of  documentation and 
+efficiency with patient care will be enhanced by this system. 
+ 
+POLICY: 
+A. Nursing, Pharmacy, Respiratory and Anesthesia will use the ADC System point -of-use medication 
+system for the primary distribution of medications. 
+B. Staff may access the ADC on any unit to which they are assigned, including units to which they float. 
+C. Users will use AD (AD) login and passwords, login ID’s and passwords are confidential. Disclosure 
+of System Access Codes is grounds for immediate termination of employment. 
+D. The Basic user tutorial on the use of the ADC will be taken during orientation with any unit specific 
+training necessary to be conducted by the Unit Manager or designee. 
+E. BioID (e.g., fingerprint identification) is the only acceptable method of accessing an ADC with 
+exceptions granted only by the Senior Director of Pharmacy or Nursing Administration .  During 
+BioId downtimes and for exemptions, staff  will use AD login and passwords.  L ogin ID’s  and 
+passwords are confidential, and any disclosure of system access c odes is grounds for immediate 
+termination of employment. 
+  
+DEFINITIONS: 
+Medication Waste: is defined as all or part of a medication that is not in its original sealed package and not 
+administered to a patient. 
+Blind Stockout:  is defined as a stockout that occurs where the ADC unit still thinks the pocket should 
+have medication, but in fact the pocket is empty.  The system will not notify pharmacy of this situation 
+and require intervention by the user to report to pharmacy. 
+BioID:  refers to the measurable physical characteristics of the user’s “fingerprint” that can be 
+automatically checked by the ADC unit and is used to allow users to logon to the system verifying their 
+identity. 
+Controlled Substance:  a drug or chemical substance whose possession and use are regulated under the 
+Controlled Substances Act designated as Schedules I through V depending on the potential for abuse.  
+Drugs may receive a more stringent designation by State Law or  the hospital may choose to designate a 
+drug as a controlled substance. 
+ 
+Critical Override:  is defined as a setting on the ADC units all medications are available via override.  This 
+is turned on only in the event of a downtime. 
+  NOP-033 
+Page 2 of 5 
+Profile Driven ADC:  an automated dispensing cabinet that is linked to the electronic medical record.  
+These devices require the patient orders to be verified before medications are removed with the exception 
+of those medications that are on the hospital approved override list.    
+ 
+PROCEDURES/GUIDELINES: 
+ 
+System Access Codes 
+1. Once employees have started their initial orientation process, FMOLHS IS identifies Pyxis users by 
+their job role and add their name to the Pyxis AD folder, this list is then sent to the Pharmacy Rx 
+Administrator, by FMOLHS IS.  
+2. Pharmacy staff then grant the user access based on their job title and area of work.  The user name and 
+password for Pyxis will be the same as the network user ID and password.  If the team member is not 
+in the system and was not on the list provided by FMOLHS IS, the team member  should contact 
+FMOLHS IS Help Desk. 
+3. Clinical students, upon IS receiving documentation from instructors , will  follow same process as 
+above. 
+4. Individuals may have different levels of access assigned to them  based on the role in the organization 
+and scope of practice .  This will be determined by  the Pharmacy Department in conjunction with the 
+Medication Use Committee.  
+ 
+BioID 
+1. Once the user has successfully logged in the first time, the system will ask them to establish their 
+BioID.  A user’s password can only be used in the following situations: 
+a) The BioID reader on the device fails necessitating pharmacy to convert device to password. 
+b) The user has documentation verified by pharmacy  director that none of the user ’s fingers can 
+be read by the BioID reader  
+2. In the event that the BioID fails, the nurse manager or charge nurse shall contact the pharmacy 
+supervisor to set the device to password  and if users do not remember their password,  they should call 
+FMOLHS IT to have their AD password reset. 
+ 
+Termination/Resignation of Employees 
+Upon termination and removal of user’s AD account, user will no longer have Pyxis access.  This happens 
+automatically upon removal of user AD account by provisioning. 
+ 
+Stocking of the ADC (Replenishment) 
+1. The Pharmacy Department will be responsible for maintaining adequate inventory of all medications 
+in ADC.  However, the proper removal & returns of medication is essential to the maintenance of 
+inventory.   
+2. Users will be required to verify controlled substance inventory with each medication removal and non-
+controlled substance inventory when the ADC count indicated medication is at or below PAR level. 
+3. Inventory levels will be checked daily via the medication c arousel software and  a picklist will be 
+generated.  A list of medications will be dispensed by the carousel, checked by a pharmacist and 
+delivered to the unit ADCs. 
+4. If a medication supply is depleted, a stock out label is generated immediately by  the carousel and the 
+medication is picked.  After the pharmacist checks the stockout, it should be delivered as soon as 
+possible so that the ADC is restocked. 
+5. In the event the ADC runs out of a medication, the Pharmacy Department will supply the needed 
+medication by restocking the ADC or by dispensing a patient specific dose in the main pharmacy that 
+is generated through the EPIC Pharmacy Application. 
+6. If the hospital computer system is down, staff will follow computer downtime policies and procedures. 
+  NOP-033 
+Page 3 of 5 
+Non-Stocked Medications 
+1. Medications (which are not controlled substances) that are not stocked in the ADC can be obtained by 
+requesting that the medication be added to the ADC. 
+2. Medications that are not routinely stocked in the ADC will be supplied to the patient care unit by the 
+Pharmacy fill process.    
+3. Any one-time doses of controlled substance not stocked in the ADC can be obtained from the 
+Pharmacy via the C-II safe.  
+a. The authorized person obtaining the medication shall sign the controlled drug receipt as 
+provided by the C-II safe system.  
+b. Administration of the medication shall be recorded in the patient's medical record.  
+c. All wastage of this controlled medication dose shall be witnessed by an authorized person and 
+recorded in ADC. 
+ 
+Stock and/or Inventory Level Changes 
+Additions, deletions, and/or any changes to the ADC stock levels can be made by the Pharmacy 
+Department in conjunction with the Nurse Manager. 
+ 
+Smart Remote Managers 
+On units that have medications stored in a refrigerator with a Pyxis Remote Manager, it will be the 
+responsibility of the Pharmacy Department to monitor the temperature and act on any temperature 
+deviations. 
+ 
+Patient Information 
+1. The patient’s name and medical record number should appear on the ADC census list.  This 
+information is obtained via the hospital’s Admission, Discharge, and Transfer interface with the Pyxis 
+ES Server. 
+2. If patients do not appear on the ADC census list, the nurse/charge nurse should call the FMOLHS IT 
+help desk to have the ADC Interface checked. 
+3. Until the interface is re -established, the nurses will need to manually add patients to the ADC Census 
+list to obtain medications. 
+ 
+Returning Medications 
+1. Any medication removed from the ADC that is in its original intact package and not administered to 
+the patient will be returned to the original pocket  and/or original machine it was removed from .  In 
+some circumstances, when single dispense drawers are used on a unit (mini drawers) or a medication 
+is returned to a device from which it was not originally removed, the device will require the user to 
+return the medication to the return bin.  Pharmacy will routinely empty the return bin to ensure that the 
+medication was returned to the bin. 
+2. Multiple medications may be returned during one transaction  by selecting multiple medications for 
+return.   
+3. Two nurses are required to return a controlled substance so as to document a witness for the return. 
+4. Operating Room - unused controlled substance vials  
+a. All unused controlled substance vials obtained from the ADC must be returned to the ADC 
+by the Anesthesiologist/CRNA.  
+b. Unused controlled substance  vials are not to be left in Surgery Rooms or in Anesthesia 
+Trays. 
+ 
+Wasting Medications 
+1. If all or part of a medication originally taken from the ADC has been wasted it must be documented at 
+the ADC by using the “Waste Med ” option.  Two licensed personnel are required while wasting a 
+controlled substance so as to document a witness for the wasted medication.  NOP-033 
+Page 4 of 5 
+2. The wasted medication must be documented at the time the medication is wasted. 
+3. Under no circumstances will the unused medication be stored for future administrations. 
+4. The medication wasted shall not be left in the original container and shall be wasted in a manner so 
+that it cannot be retrieved. 
+a. Example 1 – a morphine 5 mg vial is used to draw up a 2 mg dose to be administered to 
+the patient.  The remaining medication must be removed from the vial and discarded  in 
+controlled substance medication disposal container in the presence of a witness.   
+b. Example 2 – Fentanyl patches must be removed from patient prior to placing a new patch.  
+The old patch must be folded together and discarded in the controlled substance medication 
+disposal container. 
+5. When a controlled substance is received from the main pharmacy and the full dose is not administered 
+to the patient , a record of this waste must still be  recorded in the ADC  and witnessed by a second 
+licensed practitioner per pharmacy policy.  
+6. Non-controlled medications do not have to be recorded when wasted. 
+ 
+Undocumented Waste 
+When controlled substances are removed from Profile Driven ADCs, the ADC software matches the dose 
+ordered against the dose removed.  If the dose removed exceeds the ordered dose and the user fails to 
+waste the excess drug upon removal, the system tracks that there is undocumented waste that must be 
+reconciled.  It is the user’s responsibility to ensure that all waste is documented in the system and 
+compliance will be tracked.  Users failing to account for all waste will be subject to disciplinary action. 
+ 
+Override Medication 
+1. No nurse shall routinely bypass the profile screen and dispense via override in the ADC.  To do so 
+bypasses patient safety checks.   
+2. Override access to medications should only occur when immediate access to medications is needed for 
+emergent conditions related to pain, patient comfort (nausea, vomiting, etc), or other indications 
+requiring immediate treatment.  While this practice is discouraged, the patient’s condition should 
+dictate the use of the override function and treatment should not be delayed in the presence of an 
+appropriate condition. 
+3. If a medication is removed on override prior to a pharmacist review, the nurse must verify the 5 
+medication rights and assess the patient for allergies before administration (right patient, right drug, 
+right dose, right route, and right time). 
+4. The list of medications approved for override will be reviewed annually by the Medication Utilization 
+Committee.   
+ 
+Discrepancy Reports 
+1. Each time a controlled substance  is removed from the ADC during dispensing a blind count is 
+required. If the count does not match the quantity believe d to be correct by the ADC a discrepancy is 
+created.  
+2. A discrepancy icon will be displayed on the ADC whenever there is an unresolved controlled 
+substance discrepancy. (See ADC Discrepancy Procedures below.) 
+3. Any discrepancies involving an unscheduled (not a controlled substance) med ication will auto-resolve 
+when the correct amount or count is entered. 
+4. On the next day cycle, a discrepancy report will print a list of all discrepancies occurring during the 
+previous 24 hours.   
+5. Pharmacy will review all resolved and unresolved discrepancies for the previous 24 -hour period and 
+the nurse manager will be notified of open discrepancies. 
+ 
+ADC Discrepancy Procedures 
+1. A discrepancy should be resolved at the time of discovery.  NOP-033 
+Page 5 of 5 
+2. Any unresolved controlled substance discrepancy shall be reported to the charge nurse and/or charge 
+pharmacist.  Any controlled substance discrepancy not discovered at the time of occurrence must be 
+resolved before shift change while the nurse discovering the error is still on duty. 
+3. Discrepancies must be corrected in the ADC.  
+4. All discrepancies must be resolved at the ADC with the resolution line being recorded and witnessed.   
+5. Any unresolved discrepancy must be reported to the nurse manager or the house manager and a  
+medication safety event report must be completed prior to shift completion.  
+6. The nurse manager or the house manager must report all unresolvable discrepancies to the Director of 
+Pharmacy.  
+7. All un resolvable discrepancies must be reviewed by the Nursing & Pharmacy  and appropriately 
+documented. 
+8. Personnel who repeatedly cause discrepancies will be re -inserviced and/or have other appropriate 
+disciplinary action taken. 
+ 
+Controlled Substance Counts 
+A weekly controlled substance inventory of each ADC must be performed each nursing unit in order to 
+detect variances in a timely manner. 
+ 
+Individual ADC Downtime Procedures 
+Symptom:  ADC hardware failure or catastrophic loss of emergency power. 
+1. ADC units are connected to the hospital’s emergency power system. 
+2. Keys to allow access to the ADC units in case of emergency will be kept in the key management 
+system (Keywatcher) located in the main pharmacy. 
+3. In the event of a single ADC failure, the pharmacy supervisor or charge pharmacist will route the 
+patient area of the affected device to the nearest ADC to allow the unit’s patients to populate the 
+nearby ADC unit.  The patient’s profiles will be available in the nearby station allowing normal 
+vending procedures. 
+4. If the Pyxis must be unlocked to dispense medications , a Pharmacist will be available at the Pyxis to 
+dispense needed doses.  
+ 
+Pyxis ES Server or Intranet Downtime   
+1. The ADC units will remain functional but will not communicate with the server.   
+2. The ADC units will automatically go on critical override after a defined period of time. 
+3. In the event the machines fail to switch over to “critical override”, pharmacy can manually convert 
+each station to “critical override” by going to each machine and switching them manually.   
+4. An audit should be conducted for the time period of the override to determine any inappropriate 
+activity. 
+ 
+EMR Downtime or Interface Delay/Downtime 
+1. In the event of an EMR Downtime, Interface Downtime or Interface Delay, the ADC units will remain 
+functional.   However, they will no longer receive patient information nor mediation updates.   After a 
+defined period of time, the ADCs will switch to “critical override”.   
+2. In the event the devices fail to go on “critical override”, pharmacy can place the ADCs on “critical 
+override” through the Pyxis ES Server manually.   
+3. Once the system is back and operational, the ADCs will automatically switch back to regular 
+operation.  However, if the devices were manually put on “critical override”, they will require 
+someone to manually place them back in to “profile driven” mode.   
+4. An audit should be conducted for the time period of the override to determine any inappropriate 
+activity. 

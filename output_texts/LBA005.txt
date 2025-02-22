@@ -1,0 +1,275 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 6 
+LBA005 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA005 
+LABORATORY OPERATIONS OVERVIEW 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 6/15/2020 7/14/2020 7/14/2020 
+Lab Administration Review J Teague 6/19/2020 Origination Date 
+Laboratory Medical Director Review A Harton 6/21/2020 2/1989 
+ 
+ 
+ 
+ORGANIZATION 
+Our Health System, Franciscan Missionaries of Our Lady Health System (FMOLHS), 
+encompasses Our Lady of the Lake Regional Medical Center (OLOLRMC) Main 
+Laboratory and OLOLRMC Affiliate Laboratories. The following laboratories are 
+considered Sister Facility laboratories within the FMOLHS system, but are not managed 
+by OLOLRMC Laboratory Administration: 
+• Our Lady of Lourdes Laboratory (including the Affiliates Heart Hospital of 
+Lafayette and Lourdes Womens and Childrens) – Lafayette, La 
+• St. Francis Medical Center Laboratory – Monroe, La 
+• Our Lady of the Angels Laboratory – Bogalusa, La 
+• St. Dominic’s Laboratory - Jackson, Ms 
+ 
+LABORATORIES 
+OLOLRMC Main and Affiliate Laboratories are bound by the Laboratory Administration 
+Policies and Quality Plan of OLOLRMC Main Lab.  Delegation of Authority for all labs 
+can be found in LBA020-Delegation of Authority. 
+The following Affiliate Laboratories function as departments of OLOLRMC Main Lab:   
+• OLOL Livingston Laboratory  
+• OLOL North Baton Rouge Laboratory 
+• OLOL Children’s Hospital Laboratory 
+• OLOL Lab at Breast and Gyn Cancer Pavilion – Physician’s Office Lab 
+• Assumption Community Hospital Laboratory – Managed by OLOLRMC Lab 
+Administration by Contract 
+• OLOL Ascension Laboratory 
+ 
+LOCATIONS 
+OLOL Laboratory and Affiliate Laboratories are located on-site of their respective 
+facility.  
+ 
+HOURS OF OPERATION 
+Hospital Laboratories provide clinical services at all times, twenty-four hours per day, 
+seven days per week. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 6 
+LBA005 
+ 
+Physician’s Office Laboratories provide clinical services during routine business hours of 
+Physician’s Office operation. 
+ 
+OUTREACH BUSINESS 
+FMOLHS is in partnership with LabCorp, a Nationally recognized laboratory, who 
+provides testing for FMOLHS Outpatient specimens.  
+ 
+STAFFING 
+The laboratory is appropriately staffed with Medical Technologists, Medical Laboratory 
+Technicians, Medical Laboratory Assistants, and Venipuncture Technicians at all times.  
+Pathologists, Administrative Staff, and support staff members are available on-site or on-
+call. 
+ 
+The laboratory is staffed to process all specimens on the day of receipt.  Staffing levels 
+are monitored using labor statistics to ensure appropriate staffing levels.  Increased 
+volume can be processed using PRN employees or overtime.  Decreased volume can 
+result in reducing staff levels.   
+ 
+CLIA REQUIREMENTS 
+• The requisition, report, and record of patient testing must contain the following 
+information: (CLIA ’88 and COLA) 
+o Name and address of the requesting entity  
+o Test(s) requested 
+o Pertinent clinical information 
+o Patient name 
+o Unique patient ID 
+o Date and time the specimen(s) were collected 
+o Test results with unit of measure and reference ranges 
+o Identification of the testing analyst  
+o Address of the testing lab 
+ 
+SPECIMEN IDENTIFICATION 
+• Positive patient identification must be accomplished before any specimen is 
+collected.   
+o All inpatients must be identified using verbal verification and matching 2 
+IDs of specimen collection labels to armband. (See policy- OrgClin018)   
+o All outpatients must be identified by verbal verification and matching 
+name and DOB to lab test request, insurance card, or demographic sheet.   
+• Labeling is to be completed prior to leaving patient's presence 
+• Collection information, including collector identification, must be documented for 
+each specimen collected.  This information is routinely captured electronically in 
+the computer system when specimen collection is performed.  When electronic 
+documentation is unavailable, information will be written on specimen using 
+Downtime or Manual processes (See policy LBA016-Computer Downtime). 
+• Labels should be applied straight and smooth and not extend beyond tube. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 3 of 6 
+LBA005 
+• Microtainer labels should form a "flag". 
+• Only 1 label per tube.   
+• Always label the container, not the lid.  
+• Additional Labels for “add-on” testing should be placed on tubes directly under 
+patient name to enable access to view both names.   
+• Patient ID is verified at each step of specimen journey. 
+• All specimens must have a label attached, which provides proper identification of 
+the patient and specimen.   
+• Specimens are to remain labeled at all times and when aliquoting a specimen the 
+patient’s 2 IDs must be re-checked before pouring off the specimen.  (See policy: 
+LBA029) 
+ 
+SPECIMEN COLLECTION 
+Outreach: LabCorp Phlebotomists are available at draw sites located throughout the 
+community to collect outpatient specimens. 
+ 
+Inpatient: OLOL Phlebotomists are available to collect inpatient specimens. 
+ 
+Specimens are collected in accordance with age appropriate methodologies and minimum 
+sample requirements. 
+ 
+Members of the phlebotomy team have been instructed to attempt drawing a patient no 
+more than twice.  Draw assignments for patients not drawn because of difficulty in 
+obtaining the sample and/or patients not present on the floor for drawing will be returned 
+to the working Draw List with a comment stating why sample is not collected, the name 
+of the nurse notified, and the time of notification. 
+ 
+The laboratory uses minimum draw vacutainer and micro-sample collection containers to 
+reduce unnecessarily large blood draw volumes.  All lab sections share blood samples 
+when multiple tests are ordered.  Re-stick requests are also coordinated to reduce 
+unnecessary large blood volumes and the number of venipunctures.   
+ 
+ 
+TESTING ORDERS 
+Laboratory specimens are analyzed only at written or electronic request of an authorized 
+healthcare provider, or by submitting the universal downtime form when the Computer 
+Information System is not operational.    
+ 
+For verbal orders the laboratory staff must perform a read-back for confirmation of 
+accuracy and then solicit written or electronic authorization for the verbal orders within 
+10 days.   
+ 
+Please refer to policy: LBA504-Laboratory Compliance Orders for Tests and Services for 
+specific instruction on Verbal or Add-on orders.  
+ 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 4 of 6 
+LBA005 
+ 
+ORDER CLASSIFICATIONS 
+Prioritization of specimen collection/reporting is determined by the order classification. 
+Order priorities are generally based upon the desired time of collection, not the time that 
+the test will be performed.   
+  
+• STAT Tests- Test results that are urgently needed for the diagnosis or treatment 
+of the patient. Highest priority.  Used to identify "potential life-threatening 
+condition."  STAT samples are collected immediately and reported within one 
+hour of receipt in lab.  
+o There may also be a need for certain locations with high risk patients to 
+require expediting of specimens on a regular basis as a “STAT”. 
+▪ ECU 
+o STAT testing should be limited to critical patient needs. 
+ 
+• ASAP (As Soon As Possible) - Test results that are needed as soon possible for 
+the diagnosis or treatment of the patient. As-soon-as-possible orders are the 
+second tier of priority.  ASAP's are collected and reported within two hours of 
+order. 
+ 
+• TODAY/ROUTINE - Tests that are collected and batched for efficiency and cost 
+effectiveness. These results are not needed on an immediate basis for diagnosis or 
+treatment.  To be collected after other priority specimens and reported within 4 
+hours of order. 
+ 
+• AM - To be collected by the established schedule for each unit and reported 
+within 2 hours of collection.   
+ 
+• TIMED - Orders specifying collection at a specific time usually coordinated with 
+medication schedules, procedures, or processes.  Timed requests are reported 
+within two hours of order. 
+ 
+ 
+REPORTING TEST RESULTS 
+• Do not report results until all QC and Preventive Maintenance requirements are 
+met for the procedure being performed. 
+• Do not report results that exceed reportable/linearity limits. 
+• All test results are entered into the Computer System by interface or manually.  
+• Test reporting follows all applicable federal and state reporting regulations. 
+• Test results are reported in  a format determined by the test manufacturer  and are 
+meaningful to the test being performed.   
+o When results obtained are larger than that of what is required, results shall 
+be rounded to the last significant digit. 
+o Rounding Rules: 
+▪ When the digit following the last significant digit is less than 5, the 
+number remains unchanged. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 5 of 6 
+LBA005 
+Example 1.64 is rounded to 1.6 
+▪ When the digit following the last significant digit is greater than or 
+equal to 5, the digit to be retained is increased by 1. 
+Example 1.66 is rounded to 1.7 and 1.65 is rounded to 1.7 
+ 
+ 
+CRITICAL VALUES 
+• Abnormal values meeting established criteria or any other clinical test result that 
+requires urgent response are immediately reported by telephone to the appropriate 
+Physician/designee and documentation is noted. (See policy: LBA018) A read-back 
+for confirmation of accuracy is also performed and documented in the computer. 
+(OrgClin044-Critical Results Reporting) 
+• All critical/panic values are verified by repeat testing as necessary. 
+ 
+ 
+ERRONEOUS RESULT/CORRECTED REPORT (See policy: LBA024) 
+• Notification to the ordering physician and any physician that has received the 
+patient results must be made as soon as the error/result is discovered and 
+documented. 
+• When possible, rerun the sample and/or redraw the patient or patients involved as 
+necessary to obtain correct results. 
+• Print a copy of the original report then correct the result in the computer system.  
+Any results corrected in the computer system will state that the result is a 
+corrected result.  It will include the previous result along with the date and time 
+that the previous result was verified.  
+• Document all actions of erroneous results including:  
+o Physician/designee notified with date and time of notification 
+o Patient info with dates and times of event  
+o Individuals involved 
+o Why the erroneous result was reported and not discovered prior to 
+reporting.   
+• Enter Patient Safety Event in Electronic Patient Safety Reporting Software and 
+submit all documentation and copies of original and corrected report to the 
+department supervisor. 
+• Lab Supervisor will review and discuss at department huddle for follow-up or 
+additional training of staff as needed. 
+• Corrections will be monitored on Correction reports pulled from the LIS.  
+ 
+ 
+NOTIFICATION WHEN TESTING IS DELAYED 
+The section responsible for the delay of patient reporting will notify (and document) the 
+appropriate person(s) regarding the circumstances leading to a significant delay in the 
+timely reporting of lab results. The policy for notification when testing is delayed was 
+developed with the input of Nursing Leadership.  (See policy: LBA008) 
+ 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 6 of 6 
+LBA005 
+TEST RESULT REPORTS 
+The laboratory utilizes EPIC Information System for reporting results.  All patient results  
+will be transmitted into EPIC and will be available to providers for review. 
+ 
+PROHIBITED PRACTICES 
+Licensed practitioners (physicians, physician assistants, nurse practitioners, registered 
+nurses or any lab staff) shall not order/run/result laboratory tests on themselves.   
+ 
+ 
+REVISIONS 
+2/1989 (created), 3/2015, 6/2017, 4/4/19, 6/15/2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,64 @@
+POLICIES AND PROCEDURES MANUAL Manual:  Access 
+Services/Business 
+Office 
+Our Lady of the Lake Regional Medical Center Chapter:    
+Subject:  Accepting Payments by Telephone Section:    
+Date of Origination:  January 2016 Supersedes: n/a 
+Date Last Revised or 
+Reviewed:  Jan 23, 2018 
+ 
+ Serial Code:    
+ 
+PURPOSE: 
+ 
+To define the process for accepting check or credit card payments over the phone for services 
+received or scheduled services at OLOL; ensuring compliance with the Electronic Fund Transfer 
+Act (EFTA); 15 U.S.C § 1693 et seq – implemented via Federal Reserve Regulation E – 12 CFR 
+§ 1005.10(b).   
+ 
+DEFINITIONS: 
+ 
+• Electronic Fund Transfer Act (EFTA) regulates automated clearinghouse (ACH) systems 
+and telephone billing payment plans. 
+• Regulation E provides a basic framework that establishes the rights, liabilities, and 
+responsibilities of participants in electronic fund transfer systems such as automated teller 
+machine transfers, telephone bill payment services, point-of-sale (POS) terminal transfers 
+in stores, and preauthorized transfers from or to a consumer’s account. 
+• Electronic fund transfer (EFT) generally refers to a transaction initiated through an 
+electronic terminal, telephone, computer, or magnetic tape that instructs a financial 
+institution either to credit or to debit a consumer’s asset account. 
+ 
+POLICY: 
+ 
+Patient payments may be accepted over the telephone.  Such payments include credit, debit and 
+check-by-phone transactions.  The facility will comply with provisions of the EFTA when 
+accepting these payments over the telephone. 
+ 
+PROCEDURES: 
+ 
+• All Patient Access and Business Office employees will be in-serviced on the  FirstData® 
+procedures for processing patient payments by telephone. 
+• Patient Access and Business Office staff must include the following scripting when 
+initiating a one-time patient payment by phone: o “Mr. /Mrs. /Ms. _________ you are authorizing Our Lady of the Lake Regional 
+Medical Center to use information from your check/debit card (include 
+account/routing numbers) to make a one-time electronic fund transfer from your 
+account in the amount of $________ for payment of services received on (date of 
+service) or for upcoming services to be performed on (date of service).  Indicate 
+your agreement by stating yes.”   
+• The Patient Access or Business Office personnel will document the patient’s consent in 
+the patient account notes, as proof of authorization for the one-time transaction by the 
+patient. 
+• When establishing a patient payment plan for services rendered or scheduled, an initial 
+payment is required to establish the payment plan.  Recurring payments or payment plans 
+can be authorized by telephone with the added language: 
+o The amount of the recurring transaction; 
+o The timing (including start date), number, and/or frequency of the electronic fund 
+transfers, or other similar reference to the patient’s account; 
+o A telephone number for patient inquiries that is answered during normal business 
+hours; and 
+o The date of the patient’s oral authorization. 
+• Should the patient request confirmation of the payment arrangement in writing, an 
+authorization form outlining the arrangements should be provided; to include amount, 
+date(s) of future transaction, and length of agreement.     
+• The signed agreement will be scanned into the patient’s financial record. 
+ 

@@ -1,0 +1,352 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 1 of 6 
+LBA016 
+LABORATORY ADMINISTRATION MANUAL 
+LBA016 
+ 
+COMPUTER DOWNTIME 
+ 
+ 
+POLICY 
+Downtimes are managed as specified in the FMOLHS Downtime Policy and Procedure 
+developed through a collaborative effort of Information Systems, Nursing, and Ancillary 
+staff.  Extended downtimes are planned several weeks ahead of scheduled time and may 
+be scheduled on weekends or nights.  These time frames are scheduled to avoid peak 
+activity times, to minimize effects on patient care and to allow for maximum support 
+from software and hardware vendors.  Users are notified of downtimes by e-mail to 
+directors and supervisors prior to the scheduled downtime, by overhead announcements, 
+and by TeamLink announcements.  The reactivation of the Computer system is 
+announced over the speaker system. 
+ 
+Orders for tests during downtime reach the lab on standard “Miscellaneous Order Forms” 
+(NS-205 available in Central Supply) by tube system, faxing or hand delivery.  The forms 
+are labeled with preprinted patient information stickers or manually written to include all 
+necessary information.  Patient information must include patient name, Medical Record 
+Number, DOB, location, tests ordered, priority of tests, ordering physician, and any other 
+pertinent information.   
+ 
+Specimens are collected, labeled, and delivered to the laboratory’s Central Processing 
+Department.  Tests are performed, manually resulted, and instrument printouts are 
+attached to the downtime order forms.  Results are faxed, or called, if necessary, and then 
+filed alphabetically for easy retrieval.  The filed results are located in each respective 
+laboratory section until the computer system is reactivated.  
+ 
+When the computer system is reactivated, personnel from all laboratory sections result 
+the tests ordered before the downtime, and order and result the tests that were received on 
+manual requisitions reflecting the actual times of collection.  After all sections are caught 
+up from downtime, tests on new admits are ordered and resulted and work lists cleared.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 2 of 6 
+LBA016 
+HOSPITAL PROCESS AND RESPONSIBILITIES:   
+NURSE COLLECT 
+LABS 
+Previous orders: collect specimen and apply the pre-
+printed label available on unit.                         
+ 
+New orders:  complete all data on Misc. Order Form; 
+apply label to specimen; send to lab with Misc. Order 
+Form 
+        X 
+ 
+ 
+ 
+ 
+         X 
+ 
+ALL ORDERS Nursing will enter all orders that have NOT BEEN 
+faxed or requested on a Misc. order form  
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FUNCTION DOWNTIME PROCEDURE RESPONSIBILITY 
+NURSE ANC 
+LAB ORDERS 
+(Fax number 3019) 
+STAT AND TIMED: Unit will call lab to notify of 
+order and prepare Misc. Order form for phlebotomist 
+to pick up just prior to drawing the specimen.  Be 
+sure all Misc. Order forms are labeled with patient ID 
+information.   
+ 
+Stat and timed results will be reported to the ordering 
+dept. 
+ 
+OTHER THAN STAT AND TIMED: Unit will list 
+on Misc. form and hold on floor.  If the computer 
+comes back on line by 2000, nursing will enter 
+orders. 
+           If the computer is still down at 2000, nursing 
+will fax the miscellaneous forms and lab will enter 
+these when the system is available. 
+ 
+PREVIOUSLY ENTERED ORDERS – unscheduled 
+downtimes. Note: If downtime occurs in the evening, 
+lab will distribute forms for "Previously entered lab 
+orders" by 2200.  Nursing will list the next day lab on 
+this form for pickup by 0100. 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+X OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 3 of 6 
+LBA016 
+ 
+LABORATORY PROCEDURE: 
+ 
+I. DOWNTIME MATERIALS 
+ 
+A.  Open the Computer Downtime Box.  Downtime box located in Chemistry 
+ 
+B.  Each Department will retrieve appropriate log sheets and specimen labels.   
+ 
+II. INPATIENT PROCESS 
+ 
+A. Specimens With Exisiting Lab Test Labels Printed Prior To Downtime  
+ 
+1. Collection of Samples: 
+a. Venipuncture draws patient and labels with Specimen ID label, 
+phlebotomist’s initials and time of draw. 
+b. Samples are delivered to Central Processing.  
+ 
+2. Processing Samples: 
+a. Central Processing records collection information, types of 
+specimens received, and the time received in lab on Downtime 
+Specimen Receipt Log (LBA016-B). 
+b. Central Processing delivers samples to appropriate department.  
+ 
+3. Samples in Department: 
+a. Department logs in the samples on the Departmental Downtime 
+Specimen Log (LBA016-A)  (record patient name, MRN, tests 
+ordered and specimen ID number) 
+b. Program specimen ID numbers into instrument and run tests.  
+Follow departmental rules on repeats, critical, and resticks. 
+c. Fax report to the correct location and document on manual 
+order form or results. 
+d. If critical value, call nurse, report result, and document 
+readback by: RN, date and time on the manual order form or 
+results. 
+e. File results in the department’s folder. 
+ 
+4. Computer Recovery: 
+a. Central Processing receives specimens in the receiving activity 
+in Epic from the information recorded on the Downtime 
+Specimen Receipt Log.  
+b. Each department transmits results from instruments or 
+manually enters results. 
+c. Techs verify results as needed, add comments, and 
+Communication Logs recorded during the downtime, as OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 4 of 6 
+LBA016 
+necessary.  Result corrections may occur to allow the addition 
+of comments to results that have autoverified. 
+ 
+B. Labs Not Ordered In Computer- Manual Order Forms 
+ 
+1. Collection of Samples: 
+a. Nurse calls Venipuncture department to request a patient draw 
+and faxes orders to Venipuncture.   
+b. Venipuncture Tech reports to unit, gathers manual order form, 
+and patient chart labels. 
+c. Venipuncture Tech completes 2ID process using patient chart 
+labels compared to patient armband. 
+d. Venipuncture Tech draws samples, labels them with chart 
+labels and includes initials and date/time of draw.  Also 
+document initials, date and time of draw on the manual order 
+form. 
+e. Venipuncture Tech delivers samples to Central Processing. 
+ 
+2. Processing Samples: 
+a. Central processing records what specimens received and 
+date/time on manual order form.     
+b. Central Processing makes copies of manual order forms for 
+each department.       
+c. Central Processing delivers specimens and manual order form 
+to department. 
+   
+3. Samples in Department 
+a. Department logs specimen into department on Departmental 
+Downtime Specimen Log (LBA016-A) (record patient name, 
+MRN, tests ordered) 
+b. Department assigns Specimen ID to the specimen- document 
+on log (NOTE: All Micro and BB samples should be taken 
+directly to - Do not assign downtime specimen ID numbers to 
+Micro or BB samples) 
+i. Place one Specimen label on tube. 
+ii. Place one specimen label on Departmental Downtime 
+Specimen log. 
+iii. Place one specimen label on manual order form.  
+c. The departments program numbers and tests into instrument. 
+d. When running tests, follow departmental rules on repeats, 
+critical, and resticks. 
+e. Fax reports to the correct location - document on manual order 
+form or results. 
+f. If a critical value occurs - call nurse, report result, and 
+document readback by:  RN, date and time on the manual order 
+form or results.  OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 5 of 6 
+LBA016 
+g. File orders and results in the department’s folder. 
+h. Forward shared specimens to the next department once testing 
+is complete in your area. 
+ 
+4. Computer Back Up – Downtime Ends 
+a. Department checks in Patient Station to see if patient is 
+registered. 
+b. Select the appropriate encounter.  
+c. In the Order Entry tab and place the orders from the manual 
+forms.  
+d. In the Order Inquiry tab, select the orders and collect the 
+specimens in Epic. 
+e. Receive the specimen into the lab.  
+f. Department transmits results from instruments or manually 
+enters results if instrument is not interfaced.  
+g. Verify results as needed - add comments, read backs and 
+communications recorded during the downtime, as necessary.  
+May have to use result correction to add comments to results 
+that have autoverified. 
+ 
+III. OUTPATIENT PROCESS- CORE LAB STAFF:      
+ All orders in Atlas should cross to EPIC when it is brought back up- if not then 
+OLOL employees must re-order the tests in EPIC.  Outreach staff will attempt to 
+cancel duplicate orders that occur during recovery from downtime.   
+     
+A. Processing Samples: 
+1. Outreach staff receives samples (if this department available) - if not 
+during normal hours skip to step 3. 
+2. Records what specimens received, time and date on the requisition 
+and the Outreach Log. 
+3. Deliver samples to central processing. 
+4. Central Processing records what types of tubes received and time 
+received in lab onto the manual requisition, if not already present. 
+5. Central Processing makes copies of manual order forms for each 
+department. 
+6. Central Processing delivers specimens and manual order form to 
+department. 
+ 
+B. Samples in Department 
+1. Department logs specimen into department on Departmental 
+Downtime Specimen Log (LBA016-A) (record patient name, FIN#, 
+tests ordered) 
+2. Department assigns Specimen ID to the specimen- document on log 
+(NOTE: All Micro and BB samples should be taken directly to -Do not 
+assign downtime specimen ID numbers to Micro or BB samples) 
+a. Place one Specimen label on tube. OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 6 of 6 
+LBA016 
+b. Place one specimen label on Departmental Downtime 
+Specimen log. 
+c. Place one specimen label on manual order form.  
+3. The departments program numbers and tests into instrument. 
+4. When running tests, follow departmental rules on repeats, critical, and 
+resticks. 
+5. Fax reports to the correct location - document on manual order form 
+or results. 
+6. If a critical value occurs - call nurse, report result, and document 
+readback by:  RN, date and time on the manual order form or results. 
+7. File orders and results in the department’s folder. 
+8. Forward shared specimens to the next department once testing is 
+complete in your area. 
+ 
+C. Computer Back Up – Downtime Ends 
+1. Atlas orders cross into EPIC or Outreach Registration registers 
+patients and places orders. 
+2. Outreach staff will deliver the requisitions and specimen ID labels to 
+the  appropriate departments once the tests are ordered.     
+3. Department transmits results from instruments or manually enters 
+results if instrument is not interfaced.  
+4. Verify results as needed - add comments, read backs and 
+communications recorded during the downtime, as necessary.  May 
+have to use result correction to add comments to results that have 
+autoverified. 
+ 
+              
+REVISIONS 
+2/2012 (created), 3/2015,8/2017 
+ 
+ 
+    By    Date 
+ Prepared/Revised D. Leger 8/9/17 
+Blood Donor Service Director Review D Gremillion 10/17/2017 
+Core Lab Director Review J Teague 10/16/2017 
+Outreach Director Review E Landry 10/17/2017 
+Medical Director Review A Harton 10/17/2017 
+ Effective Date 10/18/2017 
+ Origination Date 2/2012 
+ 
+ 
+ 
+ 

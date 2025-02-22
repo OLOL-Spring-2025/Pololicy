@@ -1,0 +1,251 @@
+Approved
+Standard Operating Procedure
+Document #: TMX-SOP-0011 Revision: 4
+Document Type: TMX Effective Date: Sep 1, 2018
+Department: CE Service Origination 
+Date:
+Sep 1, 2018
+Title: Temporary Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 8
+1.PURPOSE -- SCOPE
+To define process for management of temporary equipment through all 
+necessary steps from entry into facility to removal.
+It is the policy of TRIMEDX that all equipment managed or serviced by TRIMEDX 
+is accurately inventoried and entered into the CMMS as appropriate.
+NOTE: TRIMEDX does not endorse nor recommend the use of patient-owned 
+equipment within any medical facility. If local policy dictates its use, patient 
+owned equipment will be managed in accordance with the policy of each facility.
+2.REFERENCE DOCUMENTS
+3.DEFINITIONS
+3.1.Temporary Equipment: Equipment brought into the facility and intended 
+for short-term use. Typically, the length of time equipment resides in 
+facility is not to exceed duration of one Alternative Equipment 
+Management (AEM) PM cycle or one year. Temporary equipment can be 
+classified as loaner, rental, demo, patient-owned or physician-owned.
+3.1.1.Loaner: Medical equipment that is provided under an arrangement 
+based on lending, normally provided by a manufacturer or vendor and 
+typically for short-term use
+3.1.2.Rental: Medical equipment that is provided under an arrangement 
+based on rent-for-use and typically for short-term use
+3.1.3.Trial: Medical equipment that is provided under an arrangement 
+based on trying, testing or demonstrating, normally provided by a 
+manufacturer or vendor and typically for short-term use
+3.1.4.Patient-owned: Equipment brought into the facility by the patient 
+for the patient's use and not owned by the facility. Examples - Patient-
+owned medical equipment such as CPAP's, BiPAPs, and Ventilators, 
+etc. Patient owned personal equipment such as Laptops, curling 
+irons, fans, hair dryers, etc.
+4.ABBREVIATIONS
+5.RESPONSIBILITIES
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0011 Revision: 4
+Document Type: TMX Effective Date: Sep 1, 2018
+Department: CE Service Origination 
+Date:
+Sep 1, 2018
+Title: Temporary Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 8
+5.1.TRIMEDX Technicians
+5.1.1. Will perform a visual inspection and an electrical safety inspection 
+(ESI) on all temporary equipment prior to clinical use:
+5.1.1.1. In the case of a two-pronged device where an ESI cannot be 
+done, a visual inspection will take place to ensure the physical 
+integrity of the device and the power cord and to confirm it is a 
+double insulated device.
+5.1.2. Will place the appropriate TRIMEDX label(s) on all temporary 
+equipment in the proper location;
+5.1.3. Are responsible for timely, accurate, and appropriate entry and 
+retirement of temporary equipment included in the CMMS;
+5.1.3.1. Verifies that temporary equipment entered into the CMMS 
+passes the incoming inspection and is appropriately 
+documented;
+5.1.3.2. Assigns appropriate Temporary CEID, and Temporary 
+device status/substatus in the CMMS for temporary equipment; 
+and
+5.1.4. Locates temporary equipment upon work order task generation or 
+during annual inventory revalidation to determine status/disposition 
+and updates CMMS appropriately
+5.2.TRIMEDX Site Leadership
+5.2.1. Will ensure completion of ESI and appropriate labeling on all 
+temporary equipment prior to clinical use;
+5.2.2. Responsible for ensuring timely, accurate, and appropriate entry 
+and disposition of temporary equipment included in the CMMS 
+database;
+5.2.2.1. Provides timely review and approval of all temporary 
+equipment incoming inventory and disposition work orders;
+5.2.2.2. Verifies that all temporary equipment in CMMS has an 
+appropriate Temporary CEID and Temporary status;
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0011 Revision: 4
+Document Type: TMX Effective Date: Sep 1, 2018
+Department: CE Service Origination 
+Date:
+Sep 1, 2018
+Title: Temporary Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 3 of 8
+5.2.2.3. Verifies that an appropriate Preventative Maintenance (PM) 
+schedule is assigned to all temporary equipment;
+5.2.2.4. Assigns and approves appropriate temporary equipment 
+coverage and strategy in CMMS; and
+5.2.2.5. Ensures appropriate management and disposition of 
+temporary equipment from the CMMS
+5.3.Quality/Regulatory Associates
+5.3.1. Responsible for, through periodic audits, evaluating the compliance 
+to this procedure
+5.4.Client Services
+5.4.1. Establishes amendments to reflect any coverage changes for 
+temporary devices, i.e. a change from temporary to hospital-owned
+6.PROCEDURE
+6.1.Clinical/Biomedical Engineering is notified of temporary equipment 
+received into the facility for clinical use.
+6.2.If equipment is patient-owned: Refer to local hospital policy if a local 
+policy exists. If not, use this policy as the primary guide. Perform an 
+electrical safety inspection (ESI) (refer to acceptable exception noted 
+under TRIMEDX Technicians Responsibilities section above) and tag 
+equipment with TRIMEDX "Approved for Use" label. If hospital policy 
+dictates entry into CMMS database, follow the "All other temporary 
+devices" instructions below.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0011 Revision: 4
+Document Type: TMX Effective Date: Sep 1, 2018
+Department: CE Service Origination 
+Date:
+Sep 1, 2018
+Title: Temporary Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 4 of 8
+6.3.If equipment will be in facility for a few hours or less than one day: 
+Perform a visual inspection and an ESI (unless it is a two-prong device, 
+which warrants visual inspection of the cord to make sure it is double 
+insulated and intact) , tag equipment with TRIMEDX "Approved for Use" 
+label, document and track on a Service Request WOT (see Performance 
+Verification Policy).
+6.3.1. The device should be tracked to ensure the device has left within 
+the same day that it arrived. If the device crosses over 24 hours, then 
+the equipment should be added to inventory (see Performance 
+Verification Policy)
+6.4.All other temporary equipment: Enter into the CMMS database as 
+outlined per TRIMEDX Incoming Inventory Policy/Process with the 
+following exceptions:
+6.4.1. Enter the following via the RSQ Incoming Inventory Wizard:
+6.4.1.1. Enter CEID as 'T' + Model Name/Serial Number(I.E. 
+TFP5000/105999);
+6.4.1.2. Select Equipment Status as "Temporary";
+6.4.1.3. Select Substatus as either "Loaner, Rental, Patient-Owned 
+or Demo";
+6.4.1.4. Enter Actual Cost $0.00;
+6.4.1.5. Under the Coverage and Strategy Tab
+6.4.1.5.1. Enter 'None' under Warranty Type
+6.4.1.5.2. Delete the dates in Warranty Start Date and Warranty 
+End Date
+6.4.2. Complete information on TRIMEDX Temporary Device sticker and 
+place on equipment.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0011 Revision: 4
+Document Type: TMX Effective Date: Sep 1, 2018
+Department: CE Service Origination 
+Date:
+Sep 1, 2018
+Title: Temporary Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 5 of 8
+6.4.3. When PM work order tasks generate or when conducting annual 
+inventory revalidation, locate temporary equipment.
+6.4.3.1.If equipment is no longer in facility: Follow TRIMEDX 
+Disposition of Equipment Policy/Process.
+6.4.3.2.If equipment cannot be located or is in use by a patient: 
+Follow TRIMEDX Equipment Could Not Locate or In Patient Use 
+Policy/Process.
+6.4.3.3.If equipment ownership is changing to hospital-owned:
+6.4.3.3.1. Remove temporary label;
+6.4.3.3.2. Assign CEID number and Affix Equipment I.D. (CEID) 
+label;
+6.4.3.3.3. Within CMMS equipment record:
+6.4.3.3.3.1. Change device status from "temporary" to "active";
+6.4.3.3.3.2. Update Sub-status
+6.4.3.3.3.3. Update actual cost;
+6.4.3.3.3.4. Update install date;
+6.4.3.3.3.5. Update warranty information;
+6.4.3.3.4. Ensure appropriate PM is performed and documented, if 
+required;
+6.4.3.3.5. Affix completed PM label; and
+6.4.3.3.6. Notify Client Retention of equipment status and 
+ownership change.
+6.4.3.4.If equipment is not retired and ownership is not 
+changing:
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0011 Revision: 4
+Document Type: TMX Effective Date: Sep 1, 2018
+Department: CE Service Origination 
+Date:
+Sep 1, 2018
+Title: Temporary Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 6 of 8
+6.4.3.4.1. Ensure PM is performed and documented, if required
+7.QUALITY RECORDS
+8.PROCESS FLOWCHART
+9.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0011 Revision: 4
+Document Type: TMX Effective Date: Sep 1, 2018
+Department: CE Service Origination 
+Date:
+Sep 1, 2018
+Title: Temporary Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 7 of 8
+Appendix A: Additional Resources
+END OF DOCUMENT
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0011 Revision: 4
+Document Type: TMX Effective Date: Sep 1, 2018
+Department: CE Service Origination 
+Date:
+Sep 1, 2018
+Title: Temporary Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 8 of 8
+COPY

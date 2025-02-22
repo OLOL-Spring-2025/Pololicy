@@ -1,0 +1,117 @@
+NIV-024 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Medication 
+Title: Intravenous Therapy, Adult Peripheral 
+Policy 
+Reference #: NIV-024 
+Supersedes #: NIV008, NIV010 
+Date of Origination: September 19, 2006 Review Date:  May 1, 2024 
+Revision Date:  March 24, 2023 
+ 
+PURPOSE:   
+To provide safe, aseptic vascular access for fluid administration for a short period of time. 
+ 
+POLICY:   
+    
+Managing the IV site and Tubing: 
+1. Peripheral IVs will be evaluated every 4 hours for appearance and condition of the site in the adult 
+patient.  The site should be changed every 96 hours for standard peripheral IV insertions and every 
+144 hours for ultrasound-guided insertions, unless there is a physician order to continue. If signs of 
+infiltration, inflammation or the integrity of the site has been compromised, the site should be 
+immediately discontinued and restarted in another location.  
+2. If the IV site is not labeled, and the initiation date cannot be determined, the site should be changed. 
+If the IV site was placed by an outside facility or is an emergency medical services (EMS) field IV, 
+the site should be changed within 24 hours. 
+3. For an ultrasound-guided IV, if the technique was not documented, the IV site should be changed at 
+96 hours.  
+4. Pharmacy is responsible for the admixture of intravenous solutions except in emergencies as 
+indicated in each unit’s scope of service 
+5. IVPB medications may be administered via an intermittent IV device and / or via a compatible IV 
+fluid.  Registered Nurses or Licensed Practical Nurses may administer IVPBs. 
+ 
+Procedure for Managing IV Therapy: 
+Standard IV Insertion 
+1. Consider the condition of the vein and the proposed infusion when selecting a site. 
+2. Utilize aseptic technique by cleansing the skin for 30 seconds with 2% chlorhexidine solution 
+and allowing it to air dry for 30 seconds. 
+3. Holding the skin and vein taut, perform the venipuncture and thread the catheter. 
+4. Secure the catheter and remove stylet. 
+5. Filters are not routinely required for IV solutions except when issued by the pharmacy for a 
+particular medication (e.g., Mannitol, Dilantin) 
+6. Dress the site 
+a. A transparent semi-permeable membrane dressing is preferred for IV sites.  Gauze should 
+not be placed under the transparent dressing 
+b. When the patient is allergic to a transparent dressing or has fragile skin, sterile gauze may 
+be used and secured with paper tape or stockinette. 
+c. Label the site with date, leaving the insertion site clear for assessment. 
+Ultrasound-guided IV Insertion  NIV-024 
+Page 2 of 3 
+1. Only performed by nurses with documented competency 
+Maintenance 
+1. Dressing Change  
+ 
+a. Gauze dressing will be changed every 48 hours.  
+b. When dressing is compromised, it must be changed immediately. Re-label the site with 
+the original catheter insertion date and time, leaving the insertion site clear for 
+assessment.  
+2. IV tubing is changed based on the type of solution infusing or if contamination is suspected. 
+3. Needless injector caps are to be changed with each tubing change. 
+ 
+IV Tubing Time Limitations 
+IV catheter Change every 96 hours 
+Primary and Secondary tubing Change every 96 hours 
+TPN or Intralipids tubing Change every 24 hours 
+Blood tubing Change after each unit or after 4 hours. If more than 1 unit 
+can be infused in 4 hours, the set can be used for both units. 
+Propofol Tubing Change every 12 hours 
+ 
+4. IV infusates should be changed as follows: 
+IV Solution Time Limitation 
+Primary and secondary infusions with or 
+without additives 
+Change every 24 hours 
+TPN and Lipid combinations Change every 24 hours 
+Lipids (Emulsions alone) Change every 24 hours 
+Whole Blood, Packed Red Blood Cells 
+(Packed RBCs), Washed RBCs, Leukocyte 
+Reduced RBCs)  
+Single unit infuses no longer than 4 hours 
+ 
+5. Label IV tubing and solution with date and time it is hung and date and time it is to be changed. 
+6. Medication Preparation – Spiking Intravenous (IV) Bags in Advance of Administration 
+a. The infusion must be started in 1 hour of spiking the bag unless the bag was spiked in an 
+ISO 5 environment. 
+b. When a bag is spiked and the infusion is immediately begun, the spiking of the bag is 
+considered part of the administration process. 
+c. If the bag is spiked and then sorted for later use, it is considered to be part of preparation. 
+ 
+7.   Maintaining system sterility: 
+a. Follow aseptic technique when accessing a port on the IV tubing. 
+b. Cover the exposed end of IV tubing with a sterile cap when not in use. 
+c. Avoid attaching the exposed end of the IV tubing to a port on the same tubing when not 
+in use. 
+ 
+Documentation 
+1. Include the following: 
+a. Date and time of insertion 
+b. Vein location 
+c. Insertion technique NIV-024 
+Page 3 of 3 
+d. Number of unsuccessful attempts 
+e. Catheter gauge  
+ 
+ 
+References: 
+ 
+Perry, AG & Potter, PA (2021). Clinical nursing skills & techniques, 10th ed. St. Louis: Mosby. 
+ 
+Centers for Disease Control and Prevention. (2017). "Guidelines for the prevention of intravascular 
+catheter-related infections" [Online]. Accessed March 1, 2023 via the Web at 
+http://www.cdc.gov/hicpac/pdf/guidelines/bsi-guidelines-2017.pdf 
+ 
+Infusion Nurses Society. (2021). Therapy Standards of Practice.). Journal of Infusion Nursing, 34(4).  
+ 
+Refer to facility designated on-line clinical reference 
+ 
+ 

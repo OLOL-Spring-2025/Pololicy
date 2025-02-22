@@ -1,0 +1,79 @@
+ 
+Sanitary Code - State of Louisiana 
+Part II - The Control of Disease 
+LAC 51:II.105: The following diseases/conditions are hereby declared reportable with reporting requirements by Class:  
+ 
+Class A Diseases/Conditions - Reporting Required Within 24 Hours 
+Diseases of major public health concern because of the severity of disease and potential for epidemic spread - Report by telephone  immediately upon recognition that a case, a suspected case, or a 
+positive laboratory result is known; In addition, all cases of rare or exotic communicable diseases, unexplained death, unusual cluster of disease, and all outbreaks shall be reported. 
+ 
+Acinetobacter spp., carbapenem-resistant C. sake, C. parapsilosis, C. catenulata,  Measles (Rubeola imported or indigenous)  Severe Acute Respiratory Syndrome - 
+Acute Flaccid Paralysis including Acute Flaccid C. guilli-ermondii, and Rhodotorula glutinis) Melioidosis (Burkholderia pseudomallei )          associated Coronavirus (SARS-CoV) 
+Myelitis Cholera Neisseria meningitidis (invasive infection) Smallpox 
+Amoeba (free living) infection (including Acan- Clostridium perfringens (foodborne infection) Outbreaks of Any Infectious Disease  Staphylococcus aureus, Vancomycin 
+thamoeba, Naegleria, Balamuthia & others) COVID-19 (SARS-CoV-2)+ Pertussis Intermediate or Resistant (VISA/VRSA) 
+Anthrax Diphtheria Plague (Yersinia pestis) Staphylococcal Enterotoxin B (SEB) Pulmonary 
+Avian or Novel Strain Inﬂuenza A  Enterobacteriaceae, carbapenem -resistant Poliomyelitis (paralytic & non -paralytic) Poisoning 
+(initial detection) Fish/Shellﬁsh Poisoning (domoic acid, neurotoxic Pseudomonas aeruginosa, carbapenem-resistant Tularemia (Francisella tularensis) 
+Botulism shellﬁsh poisoning, ciguatera, paralytic shellﬁsh Q Fever (Coxiella burnetii) Viral Hemorrhagic Fever (Ebola, Lassa, Marburg, 
+Brucellosis poisoning, scombroid) Rabies (animal and human)  Crimean Congo, etc.) 
+Candida auris, as well as common misidentiﬁca- Foodborne Illness Ricin Poisoning Yellow Fever 
+tions of C.auris (e.g., C. haemolunii, C.duo- Haemophilus influenzae (invasive infection) Rubella (congenital syndrome)   
+bushaemolunii, C. famata, C. lusitaniae, Inﬂuenza-associated Mortality         Rubella (German Measles)   
++Submit COVID-19 lab results through Electronic Laboratory Reporting (ELR) in HL7 or CSV format. If your facility does not have ELR set up to report results, contact ELR@la.gov to obtain access 
+to the Louisiana Lab Submission Online Portal.  Enter COVID-19 “Priority Events” (defined as cases of COVID-19-associated Mortality, Pediatric Hospitalizations, Vaccine Breakthrough Infections, 
+and Infections in Pregnant Women) directly into the Priority Events Reporting Portal here. COVID-19 lab results should NOT be entered into IDRIS and should NOT be reported by phone. 
+ 
+Class B Diseases/Conditions - Reporting Required Within 1 Business Day 
+Diseases of public health concern needing timely response due to potential of epidemic spread - Report by end of the next business day after the existence of a case, a suspected case, or a positive laboratory result is known. 
+ 
+Anaplasmosis Escherichia coli, Shiga-toxin producing Herpes (neonatal) Syphilis1 
+Arthropod-Borne Viral Infections (West Nile, (STEC), including E. coli O157:H7 Human Immunodeﬁciency Virus [(HIV), Syphilis [(Treponema pallidum), infection in 
+Dengue, St, Louis, California, Eastern Granuloma Inguinale infection in pregnancy]2,6 pregnancy]1,6 
+Equine, Western Equine, Chikungunya, Hantavirus (infection or Pulmonary Syndrome)  Human Immunodeﬁciency Virus[(HIV), Syphilis [(Treponema pallidum), perinatal 
+Usutu, Zika & others) Hemolytic-Uremic Syndrome perinatal exposure]2,6 exposure]1,6 
+Aseptic Meningitis Hepatitis A (acute illness)  Legionellosis Tetanus  
+Babesiosis Hepatitis B (acute illness and carriage in pregnancy) Listeriosis Tuberculosis3 (due to M. tuberculosis, 
+Chagas Disease Hepatitis B (perinatal infection)  Malaria M. bovis, or M. africanum ) 
+Chancroid Hepatitis C (acute illness)  Mumps Typhoid Fever 
+Cryptosporidiosis Hepatitis C (perinatal infection) Salmonellosis Vibrio infections (other than cholera)  
+Cyclosporiasis Hepatitis E Shigellosis Zika Virus-associated Birth Defects  
+ 
+ 
+Class C Diseases/Conditions - Reporting Required Within 5 Business Days 
+Diseases of significant public health concern - Report by the end of the work week after the existence of a case, suspected case, or a positive laboratory result is known. 
+ 
+Acquired Immune Deﬁciency Giardiasis Lyme Disease Staphylococcal Toxic Shock Syndrome 
+Syndrome3 (AIDS) Gonorrhea¹ (genital, oral, ophthalmic, pelvic Lymphogranuloma Venereum1 Streptococcal Disease, Group A (invasive 
+Anaplasma Phagocytophilum inﬂammatory disease, rectal) Meningitis, Eosinophilic (including disease) 
+Aspergillosis Guillain-Barré Syndrome  those due to Angiostrongylus infection) Streptococcal Disease, Group B (invasive 
+Blastomycosis Hansen’s Disease (leprosy) Nontuberculous Mycobacteria  disease) 
+Campylobacteriosis Hepatitis C ((infection, other than as in Class B) Nipah Virus Infection Streptococcal Toxic Shock Syndrome 
+Chlamydial infection¹ Histoplasmosis Non-gonococcal Urethritis Streptococcus pneumoniae, invasive disease 
+Coccidioidomycosis Human Immunodeﬁciency Virus2 (HIV Ophthalmia neonatorum Transmissible Spongiform Encephalopathies 
+Cryptococcosis (C. neoformans and C. gattii)  (infection other than as in Class B) Psittacosis  (Creutzfeldt-Jacob Disease & variants) 
+Ehrlichiosis (human granulocytic, human Human T Lymphocyte Virus (HTLV Spotted Fevers [Rickettsia species including Trichinosis 
+monocytic, E. chaﬀeensis and E. ewingii) I and II infection) Rocky Mountain Spotted Fever (RMSF)] Varicella (chickenpox) 
+Enterococcus, Vancomycin Resistant Leptospirosis Staphylococcus aureus (MRSA), Invasive Infection   Yersiniosis 
+[VRE), invasive disease] 
+Class D Diseases/Conditions - Reporting Required Within 5 Business Days 
+ 
+Cancer Heavy Metal (arsenic, cadmium, mercury)  Phenylketonuria4 Severe Traumatic Head Injury  
+Carbon Monoxide Exposure and/or Poisoning5 Exposure and/or Poisoning (all ages) 5 Pneumoconiosis (asbestosis, berylliosis, silicosis, Severe Undernutrition (severe anemia, failure to 
+Complications of Abortion  Hemophilia4 byssinosis, etc.)5 thrive) 
+Congenital Hypothyroidism 4 Lead Exposure and/or Poisoning (all ages) 4, 5 Radiation Exposure, Over Normal Limits 5 Sickle Cell Disease4 (newborns) 
+Galactosemia4 Pesticide-Related Illness or Injury (all ages) 5 Reye’s Syndrome Spinal Cord Injury 
+   Sudden Infant Death Syndrome (SIDS)  
+ 
+Case reports not requiring special reporting instructions (see below) can be reported by mail or fax on a Conﬁdential Disease Report Form 2430, fax (504) 568-8290, phone (504) 568-8313 or (800) 256-2748 (on-call phone). 
+¹Report on   STD43 Form. Report cases of syphilis with active lesions by telephone within one business day to (504) 568-8374. 
+²Report to the Louisiana STD/HIV Program: Visit www.hiv.dhh.louisiana.gov or call 504-568-7474 for regional contact information. 
+3Report confirmed or suspected cases of  tuberculosis on Form TB2431, Mail or fax form to the TB Control Program in the local Regional Office. A directory of regional offices is found here .  
+4Report to the Louisiana Genetic Diseases Program and Louisiana Childhood Lead Poisoning Prevention Programs: www.genetics.dhh.louisiana.gov or fax (504) 568-8253, telephone (504) 568-8254, or (800) 242-3112.  
+5Report to the Section of Environmental Epidemiology and Toxicology, Occupational Health and Injury Surveillance Program: www.seet.dhh.louisiana.gov or call (504) 568-8150 or (888) 293-7020 or fax (504) 568-8149. 
+6Report to the Louisiana STD/HIV Program on HIV/Syphilis during Pregnancy Reporting Form: Visit www.hiv.dhh.louisiana.gov  or call 504-568-7474. 
+Reference Cultures/Specimens to State Laboratory: Visit http://ldh.la.gov/assets/oph/Center -PHCH/Center-CH/infectious-epi/IsolatesToSendToStateLab_2019.pdf . 
+Additional reporting requirements exclusively for laboratory facilities may be found in LAC 51:II §107. The full text of the Sanitary Code may be found in Title 51 of the Louisiana Administrative Code at website 
+https://www.doa.la.gov/Pages/osr/lac/books.aspx . 
+ 
+Rev. 06/21 

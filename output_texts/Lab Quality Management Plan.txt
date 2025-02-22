@@ -1,0 +1,1286 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 27 
+ 
+ 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER  
+MAIN AND AFFILIATE LABORATORY SERVICES 
+QUALITY MANAGEMENT PLAN 
+     Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 3/8/2021 5/13/2021 5/13/2021 
+Lab Administration Review J Teague 4/8/2021 Origination Date 
+Laboratory Medical Director Review A Harton 4/29/2021 2/1989 
+Laboratory Medical Director Review A Nunez 4/22/2021  
+ 
+ 
+ 
+TABLE OF CONTENTS: 
+SECTION 1: MISSION, CORE VALUES, SCOPE AND GOALS  
+SECTION 2: ORGANIZATION, LEADERSHIP 
+SECTION 3:  QUALITY MANAGEMENT SYSTEM  
+SECTION 4: CUSTOMER FOCUS  
+SECTION 5: FACILITIES, WORK ENVIRONMENT, AND SAFETY  
+SECTION 6:  HUMAN RESOURCES  
+SECTION 7:  SUPPLIERS AND SUPPLY MANAGEMENT  
+SECTION 8: EQUIPMENT MANAGEMENT  
+SECTION 9: PROCESS MANAGEMENT  
+SECTION 10:  DOCUMENTS, RECORDS, AND INFORMATION MANAGEMENT  
+SECTION 11: INDICATORS OF QUALITY 
+SECTION 12: INCIDENTS, ERRORS, AND ACCIDENTS 
+SECTION 13:  ASSESSMENTS: INTERNAL AND EXTERNAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 27 
+ 
+SECTION 1: MISSION, CORE VALUES, SCOPE AND GOALS  
+ 
+  Mission Statement:   
+Inspired by the vision of St. Francis of Assisi and in the tradition of the Roman Catholic 
+Church, we extend the healing ministry of Jesus Christ to God’s people, especially those 
+most in need.  We call forth all those who serve in this healthcare ministry, to share their 
+gifts and talents to create a spirit of healing - with reverence and love for all of life, with 
+joyfulness of spirit, and with humility and justice for all those entrusted to our care.  We 
+are, with God’s help, a healing and spiritual presence for each other and for the 
+communities we are privileged to serve. 
+ 
+ Core Values:  
+To achieve our mission, our actions must be guided by the following values: 
+• Service - The privilege of reaching out to meet the needs of others 
+• Reverence and Love for All of Life - Acknowledging that all of life is a gift from 
+God 
+• Joyfulness of Spirit - An awareness of being blessed by God in all things 
+• Humility - Being authentic in serving as an instrument of God 
+• Justice - Striving for equity and fairness in all relationships with special concern for 
+those most in need 
+ 
+ Scope:  
+Our Health System, Franciscan Missionaries of Our Lady Health System (FMOLHS), 
+encompasses Our Lady of the Lake Regional Medical Center (OLOLRMC) Main 
+Laboratory and OLOLRMC Affiliate Laboratories.  The entirety of operations and services 
+performed by OLOLRMC Main and Affiliate Laboratories may be referred to as “Lake Lab 
+Services (LLS)”. 
+ 
+Quality processes, people, and results are the cornerstones upon which the quality system is 
+built.  The quality system supports the ideals set forth in the mission statement of 
+FMOLHS.  The quality system is organized to monitor processes and operations of 
+OLOLRMC Main Lab and its Affiliate Laboratories through the performance of self-
+assessment audits, error management, and customer feedback.  By conforming to regulatory 
+standards, we abide by the law.  By conforming to requirements for accreditation, we 
+adhere to high standards for quality established by external review organizations.  By 
+conforming to our customer’s standards, we practice the philosophy of continuous quality 
+improvement. 
+ 
+LLS maintains a quality system that conforms to, at least, the minimum requirements of 
+TJC, FDA, CLIA, AABB, CAP, and COLA.  The essentials of our quality system are 
+described in further detail in this document.   
+ 
+Quality/Compliance Committees meet routinely with each Lab Medical Director present or 
+represented.  All quality activities are brought to this meeting and acted on appropriately.  
+The Laboratory Compliance Officer is responsible for communicating directly with anyone OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 3 of 27 
+ 
+required for the activities.  All PI data and any abnormal occurrences planned or unplanned 
+are reported at a minimum of annually or when appropriate for process reviews. 
+ 
+ Goals:   
+To produce high quality test results and services by: 
+• detecting and preventing errors in processes 
+• completing corrective actions when process failures are discovered 
+• reducing process variations that can cause errors 
+• improving effectiveness and efficiency of processes  
+• responding to customer needs in services 
+• developing and maintaining a competent staff 
+• complying with all required regulations and accreditation standards 
+ 
+ 
+ Applicable Documents:  
+ LBA001-Mission 
+LBA002- Scope of Policies and Protocols 
+LBA003-Clinical Services 
+LBA005- Departmental Operations 
+LBA006- Accreditation 
+LBA009-Proficiency Testing 
+ 
+ 
+SECTION 2: ORGANIZATION, LEADERSHIP 
+ 
+ Organization:  
+LLS has an established leadership structure with defined roles and responsibilities to 
+ensure the effective implementation and maintenance of quality management and 
+operational systems that meet the requirements of customers and applicable accrediting 
+organizations.  
+ 
+ Leadership:  
+LLS leadership is defined and includes the OLOL RMC Lab Medical Director, Assistant 
+Medical Director, Core Lab Director, Blood Donor Services Director, Hematology 
+Medical Director, Chemistry Medical Director, Blood Donor Services/Transfusion 
+Medical Director, Microbiology Medical Director, OLOL Affiliate Labs’ Medical 
+Directors, and administrative leadership where appropriate.  
+ 
+ Leadership Responsibilities:   
+LLS leadership shall have ultimate responsibility for quality management and operational 
+systems.  
+ 
+ LLS leadership shall:  
+• Implement and maintain a quality management system.  
+• Plan for the design and delivery of products and services that meet customer and 
+quality requirements.  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 4 of 27 
+ 
+• Ensure that quality management and operational system policies, processes, and 
+procedures comply with set standards and applicable laws and requirements.  
+• Oversee the quality management and operational systems to ensure that policies, 
+processes, and procedures are clearly documented, consistently followed, and 
+continuously improved.  
+• Define the roles, responsibilities, authority, relationships, and required 
+qualifications of personnel who perform or oversee the activities covered by set 
+standards of accrediting and governing bodies.   
+• Provide the facilities, adequate resources, critical materials, and equipment 
+needed for quality management and operational system activities.  
+• Provide a safe work environment.  
+• Implement systems to effectively communicate relevant information throughout 
+the organization, and to suppliers and customers.  
+• Ensure that products and services delivered to the customer conform to specified 
+requirements.  
+• Ensure that process improvements are implemented and reviewed for 
+effectiveness. 
+• Report QM performance to the Performance Improvement Leadership Committee 
+on a periodic basis, or as necessary 
+ 
+ 
+ Key Leadership Roles: 
+ 
+• Medical Directors: 
+ 
+o The Laboratory Medical Director (duties defined here for 
+OLOLRMC Main and Affiliate Laboratories) is responsible for the 
+Quality Plan, all medical and Technical policies, processes, and 
+procedures, including those that pertain to administrative and supervisory 
+personnel, along with consultative and support services that relate to the 
+care and safety of patients.  The Medical Director or designee shall have 
+authority over and responsibility for ensuring that the Quality 
+Management Plan is effectively established and maintained.  
+Communicates directly with OLOL Quality Structure Core, Divisional 
+Directors, Laboratory Administrative Directors, Lab Compliance Officers 
+and other administrative leadership.  Serves on OLOLRMC hospital 
+physician committees such as the Medical Executive Committee.  The Lab 
+Medical Director has delegated some responsibilities (the review of 
+Quality Control, Procedure Manuals or Proficiency Testing Performance) 
+to the various Department Medical Directors where applicable. Roles and 
+Delegations are defined by Organizational Charts and the Delegation of 
+Responsibility Policy.   
+ 
+o The Assistant Medical Director is responsible for active support of the 
+goals, objectives and policies of the Lab Medical Director.  The Assistant 
+Medical Director is the designee for decisions or information that may OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 5 of 27 
+ 
+affect Lake Lab Services during the Medical Director’s absence.  
+Communicates directly with the Lab Medical Director, and when 
+appropriate Divisional Directors, Administrative Directors, Lab 
+Compliance Officers and other administrative leadership, when necessary. 
+ 
+o Department Medical Directors – OLOLRMC Main Lab only 
+ 
+- Hematology Medical Director and/or a qualified designee (as 
+evidenced by the Laboratory Organizational Chart) is responsible 
+for the review and documentation of QC data, proficiency testing 
+performance, bi-ennial review of policies and procedures, and all 
+hematology departmental-related activities.  This Medical Director 
+must retain all technical responsibilities for this section. 
+Communicates directly with the LLS Medical Director, Core Lab 
+Director, Core Lab Manager, Lab Compliance Officer and 
+administrative leadership when necessary. 
+ 
+- Chemistry Medical Director and/or a qualified designee (as 
+evidenced by the Laboratory Organizational Chart) is responsible 
+for the review and documentation of QC data, proficiency testing 
+performance, bi-ennial review of policies and procedures, and all 
+Chemistry departmental-related activities.  This Medical Director 
+must retain all technical responsibilities for this section. 
+Communicates directly with the LLS Medical Director, Core Lab 
+Director, Core Lab Manager, Lab Compliance Officer and 
+administrative leadership when necessary. 
+ 
+- The Blood Donor Services/Transfusion Services Medical 
+Director and/or a qualified designee (as evidenced by the 
+Laboratory Organizational Chart) is responsible for the review of 
+QC data, proficiency testing performance, product acceptability, 
+donor and patient safety pertaining to blood and blood products, 
+and bi-ennial review of policies and procedures, and all other 
+Blood Donor Services, Blood Distribution Center, Transfusion 
+Services, and Tissue Bank departmental-related activities.  This 
+Medical Director is responsible for all collection, processing, 
+transfusing and transplanting activities related to blood, blood 
+products and human tissue activities reporting to TJC, FDA, CLIA, 
+or AABB when necessary.  This Medical Director must retain all 
+technical responsibilities for these sections.  Communicates 
+directly with the LLS Medical Director, Core Lab Director, Blood 
+Donor Services Director, Blood Donor Services Compliance 
+Officer, Lab Compliance Officer and administrative leadership, 
+when necessary. 
+ OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 6 of 27 
+ 
+- The Microbiology Medical Director and/or a qualified designee 
+(as evidenced by the Laboratory Organizational Chart) is 
+responsible for the review and documentation of QC data, 
+proficiency testing performance, bi-ennial review of policies and 
+procedures, and all other Microbiology departmental-related 
+activities.   This Medical Director must retain all technical 
+responsibilities for this section.  Communicates directly with the 
+LLS Medical Director, Core Lab Director, Core Lab Manager, Lab 
+Compliance Officer, and administrative leadership when 
+necessary. 
+- Point of Care Medical Director  and/or a qualified designee (as 
+evidenced by the Laboratory Organizational Chart) is responsible 
+for the review and documentation of QC data, proficiency testing 
+performance, bi-ennial review of policies and procedures, and all 
+Point of Care departmental-related activities.  This Medical 
+Director must retain all technical responsibilities for this section. 
+Communicates directly with the Core Lab Director, Lab 
+Compliance Officer and administrative leadership when necessary. 
+ 
+ 
+ 
+ 
+• Laboratory Administrative Directors: 
+ 
+ 
+o The Core Lab Director and/or a qualified designee (as evidenced by the 
+Laboratory Organizational Chart) is responsible for the review and 
+documentation of QC data, proficiency testing performance, review of 
+policies and procedures, and all other Chemistry, Hematology, 
+Microbiology, and Transfusion Services departmental-related activities.  
+Receives reporting from Departmental Supervisors and leaders of in house 
+laboratory departments.  Reports directly to the Lab Medical Director and 
+the Divisional Director of Diagnostic Services.      
+ 
+o The Blood Donor Services Director and/or a qualified designee (as 
+evidenced by the Laboratory Organizational Chart) is responsible for the 
+review and documentation of QC data, proficiency testing performance, 
+review of policies and procedures, blood and blood product collection, 
+production and distribution and all other Blood Donor Services and Blood 
+Distribution departmental-related activities.  Receives reporting from 
+Departmental Supervisors, Compliance Officer, and leaders of blood 
+donor and blood distribution departments. Reports directly to the Medical 
+Director and the Divisional Director of Diagnostic Services.   
+ 
+• Laboratory Managers: 
+ OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 7 of 27 
+ 
+o The Core Lab Manager is responsible for the review and documentation 
+of QC data, proficiency testing performance, review of policies and 
+procedures, and all other Chemistry, Hematology, Microbiology, and 
+Transfusion Services departmental-related activities.  Receives reporting 
+from Departmental Supervisors and leaders of in-house laboratory 
+departments.  Reports directly to the Core Lab Director and   
+communicates directly with the Divisional Director of Diagnostic 
+Services, Lab Compliance Officer, and administrative leadership when 
+necessary.  
+o The Affiliate Lab Manager is responsible for the review and 
+documentation of QC data, proficiency testing performance, review of 
+policies and procedures, and all other Chemistry, Hematology, 
+Microbiology, and Transfusion Services departmental-related activities.  
+Receives reporting from Departmental Supervisors and leaders of in-house 
+laboratory departments.  Reports directly to the Core Lab Director and   
+communicates directly with the Divisional Director of Diagnostic 
+Services, Lab Compliance Officer, and administrative leadership when 
+necessary.  
+o The Blood Donor Services Manager is responsible for the review and 
+documentation of QC data, proficiency testing performance, review of 
+policies and procedures, blood and blood product collection, production 
+and distribution and all other Blood Donor Services and Blood 
+Distribution departmental-related activities.  Receives reporting from 
+Blood Donor Services Supervisors, and leaders of blood donor and blood 
+distribution departments. Reports directly to the Blood Donor Services 
+Director and communicates directly with the Medical Director, Divisional 
+Director of Diagnostic Services, Blood Donor Services Compliance 
+Officer, and administrative leadership when necessary 
+o The Children’s Hospital Lab Manager is responsible for the review and 
+documentation of QC data, proficiency testing performance, review of 
+policies and procedures, and all other departmental-related activities.  
+Receives reporting from Departmental Supervisor and Senior 
+Technologist.  Reports directly to the Core Lab Director and   
+communicates directly with the Divisional Director of Diagnostic 
+Services, Lab Compliance Officer and administrative leadership when 
+necessary. 
+ 
+o The OLOL Ascension Hospital Lab Manager is responsible for the 
+review and documentation of QC data, proficiency testing performance, 
+review of policies and procedures, and all other departmental-related 
+activities.  Receives reporting from Departmental Supervisor and Senior 
+Technologist.  Reports directly to the Ascension Lab Director and   
+communicates directly with the Divisional Director of Diagnostic 
+Services, Lab Compliance Officer and administrative leadership when 
+necessary. OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 8 of 27 
+ 
+ 
+ 
+• Quality Personnel: 
+ 
+o The Laboratory Compliance Officer has oversight/responsibility for 
+coordinating, monitoring and facilitating quality assurance activities of the 
+OLOLRMC Main Laboratory and OLOL Affiliate Laboratories.  These 
+activities include the Quality Management Plan, auditing, and monitoring 
+and correction of deficiencies.  The position also includes reporting the 
+results of these activities at a minimum of annually to the LLS 
+Quality/Compliance Committees.  Reports directly to the LLS Medical 
+Director.  Communicates with the Divisional Director of Diagnostic 
+Services, LLS Director, Core Lab Director, Blood Donor Services 
+Director, Departmental Mangers, Departmental Supervisors, and all lab 
+and hospital staff.   
+ 
+o The Transfusion Services Compliance Officer has 
+oversight/responsibility for coordinating, monitoring and facilitating 
+quality assurance activities, including the Quality Management Plan, 
+auditing, monitoring and correction of deficiencies having to deal with 
+Transfusion Services at OLOLRMC Laboratory and OLOL Affiliate 
+Laboratories. The position also includes reporting the results of these 
+activities at a minimum of annually to the LLS Quality/Compliance 
+Committees.  Reports directly to the Blood Donor Services/Transfusion 
+Services Medical Director.  Communicates with Core Lab Director, Core 
+Lab Manager and Departmental Supervisor and all Transfusion Services 
+staff.   
+ 
+o The Blood Donor Services Compliance Officer has 
+oversight/responsibility for coordinating, monitoring and facilitating 
+quality assurance activities, including the Quality Management Plan, 
+auditing, monitoring and correction of deficiencies having to deal with 
+Blood Donor Services and the Blood Distribution Center. The position 
+also includes reporting the results of these activities at a minimum of 
+annually to the LLS Quality/Compliance Committees. Reports directly to 
+the Blood Donor Services/Transfusion Services Medical Director.  
+Communicates with Blood Donor Services Director, Blood Donor 
+Manager and Departmental Supervisors and all donor services and 
+distribution center staff.   
+ 
+ 
+ 
+• Laboratory Supervisors: 
+ 
+o The Departmental Supervisors of OLOLRMC Main Lab and Lab 
+Supervisors of OLOLRMC Affiliate Labs are responsible for planning, OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 9 of 27 
+ 
+managing, and supervising the activities of their department/lab.  
+Responsible for assigning and supervising the training of lab staff.  
+Evaluates or delegates review of quality control and quality assurance 
+statistics and modifies manuals as needed.  Responsible for maintaining 
+the budget for the department and maintains control of lab costs.  Enforces 
+technical and safety procedures.  Plans workload distribution and makes 
+schedules.  Supervises purchase of supplies and maintains equipment 
+inventory.  Also responsible for evaluating staff performance.  Reports 
+directly to the appropriate Medical Director, Lab Director and Lab 
+Manager. Communicates with the lab staff, Compliance Officers, and 
+other Departmental Supervisors.   
+ 
+ 
+ 
+ 
+ Applicable Documents:  
+ Lab Organizational Chart  
+ LBA003- Clinical Services 
+ LBA005- Departmental Operations  
+ LBA020- Delegation of Responsibility 
+LBA022- Leadership Service Recovery 
+LBA075- Laboratory Communications 
+ 
+ 
+ 
+ 
+SECTION 3:  QUALITY MANAGEMENT SYSTEM  
+ 
+The quality management system shall apply to all activities covered under the set standards of all 
+governing and accrediting bodies.   
+ 
+ The Quality Management System shall address, at a minimum, the following concepts:  
+• Mission, Core Values, Scope and Goals 
+• Organization and leadership  
+• Customer focus  
+• Facilities, work environment, and safety  
+• Human resources  
+• Suppliers and materials  
+• Equipment  
+• Process management  
+• Documents, records and information management  
+• Indicators of quality 
+• Incidents, errors and accidents  
+• Assessments: Internal and external  
+ OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 10 of 27 
+ 
+ To ensure the ongoing effectiveness of many of the above concepts, the Quality Management 
+System utilizes a Monthly Random Sample Tracer audit tool.  This comprehensive audit 
+captures all possible information for one specimen from test order to test result reporting.  
+• Each Lab chooses one specimen per month for review 
+• Specimens are rotated equally throughout sections and test menus. 
+• All required elements from the audit are collected and reviewed for acceptability.   
+• Findings are reviewed and discussed by the applicable Quality/Compliance 
+Committees.  Unacceptable findings are addressed with the responsible 
+lab/section(s). 
+ 
+ Quality Management System Reviews:   
+The quality management system shall be reviewed annually and reported at the applicable 
+Quality/Compliance Committees.   
+ 
+The Laboratory Medical Director along with the Quality/Compliance Committee shall review 
+and evaluate the performance and effectiveness of the quality management system.  
+ 
+ Communication of Concerns:  LLS has process for individuals to anonymously communicate 
+concerns about quality or safety to OLOL leadership and to accrediting agencies as required. 
+ 
+The following numbers are provided to employees to anonymously communicate concerns 
+about quality or safety: 
+ 
+• Our Lady of the Lake Regional Medical Center and all OLOLRMC Facilities: 
+o Integrity Link 
+1.  Connect to the internet from any computer 
+2.  Type fmolhsintegritylink.com into the address bar and hit Enter 
+3.  Or Dial 1-888-400- 4517 to speak with a live hotline operator  
+o On-line Safety Event Reporting: access through TeamLink Homepage by 
+selecting Applications then, RLDatix, and then Report Real Safety Event. 
+o OLOL Speak-up Line Call 5-1734 
+ 
+• The Joint Commission: 
+o By Phone: 1-800-994-6610 
+o On-line: www.jointcommision.org 
+ 
+• American Association of Blood Banks (AABB) 
+o By Phone: 1-301-907-6977 
+o In writing at AABB  8101 Glenbrook Road Bethesda, MD 20814-2749 
+o Online: www.aabb.org 
+ 
+• College of American Pathologists (CAP) 
+o By Phone: 1-866-236-7212 
+• Commission on Lab Accreditation (COLA) 
+o By Phone: 1-800-981-9883 
+ OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 11 of 27 
+ 
+ 
+ Applicable Documents:  
+LBA006- Accreditation 
+LBA500- Compliance Plan 
+LBA501-LBA511- Compliance policies 
+Annual QPM Review 
+Annual PI Pathology and Lab Update to Quality Department 
+Random Sample Tracer Audit Tool 
+ 
+SECTION 4: CUSTOMER FOCUS  
+ 
+ LLS shall:  
+• Identify its customers and their needs and expectations for products and services 
+• Determine its capacity to meet customer needs and expectations for products and 
+Services 
+• Agree upon and define customer and facility requirements for the product or service 
+• Incorporate agreed upon requirements into product and service  
+• Re-evaluate agreements with customers at defined intervals.  
+ 
+ LLS shall seek feedback to monitor and evaluate the quality of products and services 
+provided to the customer.  
+ 
+ 
+ Applicable Documents: 
+Patient Rights, Complaints, and Grievance Process- OrgClin/020 
+Safety Events Reporting- OrgOps GN019 
+Lab Service Agreement 
+Customer Satisfaction Survey 
+Physician Satisfaction Survey 
+ 
+SECTION 5: FACILITIES, WORK ENVIRONMENT, AND SAFETY  
+ 
+LLS shall establish and maintain policies, processes, and procedures to provide a work 
+environment that adequately supports the activities performed, minimizes health and safety risks, 
+and complies with applicable laws and regulations.  
+ 
+ Facilities and Work Environment:   
+• The physical workspace and infrastructure design, maintenance, and control shall be 
+adequate to support the activities carried out in the facilities. 
+• The work environment shall be clean and well-maintained.  
+• LLS shall identify the environmental conditions that may affect the quality of 
+materials, tests, products, or services provided by the facilities or cause harm to 
+patients, donors, clients, visitors, and staff. These environmental conditions shall be 
+controlled. 
+• Building utilities shall be safe and adequate to meet the needs of the facilities.  
+• The facility shall identify areas of limited access and control access to such areas.  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 12 of 27 
+ 
+• The information and communications technology infrastructure shall support the 
+needs of the organization and its customers. 
+• Storage for critical materials, products, samples and records shall be adequate to meet 
+specified requirements and to prevent mix-ups.  
+ 
+ Health and Safety:   
+LLS safety programs shall address fire, biological, chemical, electrical, and where 
+applicable, radiation safety. These programs shall include appropriate interventions to 
+prevent and mitigate exposure.  
+ 
+Biological, chemical and radioactive materials such as reagents, supplies, products, and 
+samples shall be handled and discarded in a manner that minimizes the potential for human 
+exposure to infectious or other harmful agents.  
+ 
+ Emergency Management:   
+The facility shall have an emergency management plan that addresses preparation for, 
+response to, and recovery from the effects of internal and external disasters and other 
+emergency situations. The plan shall also address continuity of operations to maintain 
+facility defined essential services.  
+ 
+ The emergency management plan, including emergency communication systems, shall be 
+tested at defined intervals.  
+ 
+ Applicable Documents: 
+ OLOL Disaster Plan 
+ Patient Safety and Quality PI Plan- OrgOps GN025 
+ Safety Event Reporting OrgOps GN019 
+ Sentinel Events and Root Cause Analysis- OrgOps GN018 
+ LBA200 – Lab Safety Plan 
+ LBA201 – Exposure Control Plan 
+ LBA202 – Chemical Hygiene Plan 
+ LBA204 – Lab Emergency Preparedness 
+ Lab/Departmental Disaster Staffing Plans 
+ 
+SECTION 6:  HUMAN RESOURCES  
+ 
+ LLS shall establish and maintain policies, processes, and procedures to provide adequate 
+numbers of qualified, trained, and competent staff to perform and manage the activities 
+required by the set standards of governing and accrediting organizations.  
+ 
+ Job Descriptions:   
+Job descriptions shall define the roles, responsibilities, and reporting structure for each 
+position involved in the activities covered by set standards of governing and accrediting 
+organizations.  Job descriptions are written and maintained for each position.  
+ OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 13 of 27 
+ 
+ LLS shall have a medical director who has authority and responsibility for all laboratory 
+policies, processes, and procedures. When the medical director delegates these   
+responsibilities to another qualified physician/designee (as evidenced by the Laboratory 
+Organizational Chart and Delegation Policy), the medical director shall retain ultimate 
+responsibility.  
+ 
+ LLS shall have a quality representative who, regardless of other duties, has the authority and 
+responsibility for the quality management system. This individual shall report directly to the 
+Medical Director on matters pertaining to the quality management system.  
+ 
+ Job Qualifications:   
+• Job qualifications, including the knowledge, skills, and abilities required to perform 
+the duties of each position, shall be identified.  
+• Current and signed job descriptions 
+• Current licensure by the state, as required for each position 
+• Continual education as required by the licensing board of the state 
+• Completion of appropriate education and certification as appropriate for each position   
+ 
+  Staff Selection:   
+Staff selection shall include a process to verify that candidates are qualified for the 
+position.  This shall be performed by the Human Resources department. 
+ 
+ Staff shall be qualified by education, prior training, and/or experience.  
+ 
+ Staffing:   
+Adequate human resources shall be available to perform, verify, and manage all Quality 
+management system and operational activities.  
+ 
+ Orientation:   
+New staff shall be oriented to the organization, its leadership, its quality management system, 
+processes, and policies. New employees are provided orientation to the organization, 
+department, and specific job for which they are hired. 
+ 
+ Training:   
+Each department shall identify training needs and provide for training that meets those needs.  
+• Training shall include all of the following:  
+o Application of the quality management system 
+o Performance of job-specific processes and procedures 
+o Application of safety policies, processes, procedures, and practices.  
+• Staff shall be trained on new or changed policies, processes, and procedures.  
+• Refresher training shall be provided as needed.  
+ 
+ Competence Assessment:   OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 14 of 27 
+ 
+LLS shall evaluate staff knowledge and skills before independent performance of assigned 
+duties, and at defined intervals thereafter to verify that competence has been achieved and is 
+maintained.  
+• Staff competence is initially determined during job task training. 
+• Ongoing competence is assessed twice during the first year of testing and at least 
+annually thereafter. 
+• Documentation of competence assessment is maintained. 
+ 
+ Staff Identification:   
+LLS shall have a mechanism to uniquely identify the individuals authorized to perform, 
+review, or manage activities covered by the set standards of all governing and accrediting 
+bodies, and their inclusive dates of employment.  
+ 
+ Performance appraisal:   
+A performance review based on job accountabilities, objective measures, and pre-defined 
+standards is completed annually for each employee, documented, and maintained. 
+ 
+  Preceptor qualification:  
+Selected individuals who meet qualifications may function as preceptors in this facility. 
+ 
+ 
+ Applicable Documents: 
+LBA010- Management of Human Resources 
+LBA011- Respect for Cultural Values 
+LBA012- Employee Training, Competency Assessments and Performance Evaluations 
+LBA030- Laboratory Personnel Dress Code 
+ 
+ 
+SECTION 7:  SUPPLIERS AND SUPPLY MANAGEMENT  
+ 
+ LLS shall establish and maintain policies, processes, and procedures to verify that critical 
+supplies (equipment, reagents, materials, and biologic products), services, and samples 
+obtained from outside sources consistently meet specified requirements.  
+ 
+ Supply or Service Requirements:   
+  Requirements and specifications for critical supplies and services shall be identified.  
+ 
+ Supplier Qualification and Selection:   
+Criteria for qualification and selection of suppliers of critical supplies and services shall be 
+established.  
+• LLS shall qualify suppliers based on their ability to meet specified supply or service 
+requirements.  
+• LLS shall participate in the selection of suppliers.  
+• LLS shall verify that its identified requirements are reflected in its agreements with 
+suppliers.  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 15 of 27 
+ 
+• Agreements shall be reviewed at defined intervals to verify that they reflect current 
+requirements and that changes are incorporated as needed. 
+• LLS shall evaluate suppliers at defined intervals to determine if agreed upon 
+requirements are being met. 
+• When a supplier fails to meet specified requirements, the facility shall take 
+appropriate follow up action, and shall report it to the facility’s purchasing authority.  
+ 
+ Receipt, Inspection and Testing of Incoming Critical Supplies and Samples:  
+Incoming reagents, materials, equipment, products, and samples shall be inspected, and 
+tested as necessary, for acceptance before use.  
+• Criteria for acceptance and rejection shall be established.  
+   
+ Inventory Management:   
+LLS shall have an inventory management process that addresses the availability, control, 
+storage, and handling of critical supplies and samples.  
+• Adequate quantities of in-date critical supplies shall be available to meet the needs of 
+the facility.  
+• LLS shall maintain proper conditions for storage, handling, distribution, and 
+transportation of critical supplies and samples.  
+ 
+ Traceability:   
+         Critical supplies and samples used shall be traceable to the finished product or service.  
+ 
+ Laboratory testing and other services shall be performed in a facility certificated by CLIA.   
+ 
+ Applicable Documents: 
+LBA028-Reagent/Supply Handling 
+Departmental Policies regarding supplier qualification 
+ 
+SECTION 8: EQUIPMENT MANAGEMENT  
+ 
+ LLS shall establish and maintain policies, processes, and procedures to ensure that critical 
+equipment, including computer systems, performs as expected for its intended use.  
+ 
+ Identification of Equipment:   
+Equipment shall be uniquely identified.  
+ 
+ A current and accurate inventory of all equipment identified as critical shall be maintained.  
+ 
+ Equipment Qualification:   
+Equipment, including computer systems, shall be qualified and found acceptable before 
+actual use in work processes.  
+ 
+ Installation Qualification:   
+Equipment shall be installed per manufacturer’s specifications.  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 16 of 27 
+ 
+ 
+ Operational Qualification:   
+The functionality of each piece of equipment and each component of a computer system shall 
+be verified before actual use and shall meet the manufacturer’s operational specifications.  
+ 
+ Performance Qualification:   
+LLS shall demonstrate that equipment performs as expected for its intended use in the 
+facility’s work processes. 
+• Performance specifications established by the manufacturer shall be met, where 
+applicable.  
+ 
+ Calibration Program:   
+Measuring equipment shall be calibrated and adjusted as necessary before use, after activities 
+that may affect the calibration, and in accordance with a defined calibration schedule.  
+• Measuring equipment shall be calibrated against known standards or reference 
+materials.  
+• Calibration shall be scheduled and performed at intervals that, at a minimum, meet 
+the frequency recommended by the manufacturer.  
+• Calibration procedures shall follow manufacturer’s instructions and shall include:  
+o Instructions for performing calibrations 
+o Acceptance criteria  
+o Actions to be taken when unsatisfactory results are obtained.  
+ 
+• Safeguards shall be in place to prevent equipment from adjustments that would 
+invalidate the calibration setting.  
+• Investigation and follow-up of calibration failures shall include:  
+o Actions to ensure that the equipment is removed from service 
+o Investigation of the failure 
+o Assessment of the conformance of products and services provided when 
+equipment is found to be out of calibration 
+o Actions for adjusting or re-calibrating the equipment.  
+ 
+ Equipment Maintenance:   
+     Equipment shall be maintained in good working order.  
+• Preventive maintenance shall be scheduled and performed at intervals that, at a 
+minimum, meet the frequency recommended by the manufacturer.  
+• Maintenance procedures shall follow manufacturer’s instructions.  
+• Follow-up of equipment malfunctions, failures, or adverse events shall include:  
+o Removing the equipment from use pending investigation 
+o Investigating the malfunction, failure, or adverse event 
+o Assessing the conformance of products and services provided when 
+equipment is found to be malfunctioning or have failed 
+o Repairing, adjusting, and requalifying the equipment before re-use 
+o Reporting the nature of the malfunction, failure, or adverse event to the 
+manufacturer and other affected parties, when indicated.  
+ OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 17 of 27 
+ 
+ Computer Systems:   
+Modifications to computer system software, hardware, and databases shall be planned and 
+controlled.  
+ 
+ 
+ Applicable Documents: 
+LIS Policies (Lab Admin Manual) 
+IS Manual 
+Computer Change Control Protocols 
+IS Footprints  
+LBA016-Computer Downtime 
+LBA017-Method Performance Verification 
+LBA025-Maintenance and Function Checks 
+LBA027- Instrument Correlations 
+ 
+SECTION 9: PROCESS MANAGEMENT  
+ 
+ LLS shall establish and maintain policies, processes, and procedures that are designed to 
+ensure the quality of products and services.  
+ 
+ Process Improvement:   
+  The following activities serve as a source of ideas for process improvements: 
+• External assessment report findings (FDA, TJC, AABB, CAP, or LDH) 
+• The findings from quality indicators of operating systems and internal quality audits 
+• Reports of customer complaints 
+• Analysis of incident, error, accident reports 
+• Review of any selected process to determine if the process can be made more efficient 
+and effective. 
+ 
+ LLS uses an approach to problem resolution that includes: 
+• Identification, prioritization, and selection of problems to be resolved 
+• Use of data collection and data analysis tools 
+• Implementation of process changes, where appropriate 
+• Evaluation of applied solutions for effectiveness in solving the problem. 
+• PDCA 
+• Statistical tools to analyze numeric data are used where appropriate. 
+ 
+ Process Development and Change:   
+The development of new processes or significant changes to existing ones shall be controlled.  
+ 
+ Process Planning:   
+LLS shall address the following in the development of new or changed processes, products, 
+and services:  
+• Customer, quality and regulatory requirements, and other requirements considered 
+necessary by the facility OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 18 of 27 
+ 
+• Risk assessment 
+• Impact on existing processes, products or services 
+• Criteria for evaluating effectiveness of the new or changed process, product or service  
+ 
+ Process Validation:   
+Before implementation, new processes shall be validated to ensure that the requirements for 
+the intended use are met. 
+• Performance characteristics of laboratory test methods shall be either established by 
+the facility or verified against manufacturer’s performance specifications.  
+• Changes that may affect the state of a validated process shall also be validated before 
+implementation.  
+ 
+ Process Implementation:   
+The implementation of new or changed processes shall be controlled.  
+ 
+ Post-implementation Evaluation:   
+Post-implementation, new or changed processes, products and services shall be evaluated 
+against established criteria.  
+ 
+ Process Performance:  
+LLS shall follow its current policies, processes and procedures.  
+ 
+ Planned Exceptions:   
+Planned exceptions to policies, processes, and procedures shall require justification and 
+approval from the appropriate medical director.  
+ 
+ Process Control:   
+Controls shall be established to ensure that processes perform as expected. Process controls 
+shall allow staff to intervene in the event of a process failure before finished products and 
+services are delivered.  
+ 
+ Process Quality Control:   
+A program of quality control shall be established that is sufficiently comprehensive to ensure 
+that reagents, equipment and methods function as expected.  
+• Quality control shall be performed at time intervals recommended by the 
+manufacturer or more frequently.  
+• Quality control results shall be reviewed and evaluated against acceptance criteria. 
+• Quality control failures shall be investigated before release of test results, products, or 
+services.  
+• The validity of test results, products, or services provided shall be evaluated when 
+quality control results are unacceptable.  
+ 
+ Inspection:   
+Products and services shall be inspected at facility-defined stages to verify that specified 
+requirements are met.  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 19 of 27 
+ 
+ 
+ Process Records Creation:   
+Records shall be created concurrently with performance of each activity that affects the 
+quality of the product or service. 
+• The actual result of each observation shall be recorded immediately. 
+• Records shall be legible.  
+• There shall be a means to display and verify electronic data before final acceptance 
+and when data are entered or amended.  
+ 
+ Applicable Documents: 
+LBA017- Method Performance Validation 
+ 
+SECTION 10:  DOCUMENTS, RECORDS, AND INFORMATION MANAGEMENT  
+ 
+ LLS shall establish and maintain policies, processes, and procedures to create, manage and  
+     retain accurate and complete documents and records required by the set standards of  
+     all governing and accrediting bodies and for the use, management, and protection of  
+     information.  
+ 
+ Document Control:   
+     LLS shall control the creation, use, maintenance, and disposition of its documents.  
+• Only current and approved versions of documents shall be in use.  
+• Current and approved versions of documents shall be maintained.  
+• An inventory of documents (e.g., master list), including policies, processes, 
+procedures, labels, and forms that relate to the requirements of standards, shall be 
+maintained.  
+• The inventory of documents shall include:  
+o Document identifiers 
+o Current edition, version date, or revision number 
+o The identity of the work unit(s) responsible for document review and 
+maintenance 
+o Distribution of controlled copies  
+ 
+ 
+ Document Creation:   
+Documents shall be designed and written in a manner that provides clear and 
+understandable information.  
+• Approved formats shall be used for policies, processes and procedures.  
+• Each document shall be uniquely identified and include:  
+o Title 
+o An indicator of the current version (e.g., edition, version date, or revision 
+number) 
+o Facility identification 
+o Page numbers. 
+• Authorized personnel shall review and approve each new and revised document 
+before use.  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 20 of 27 
+ 
+ 
+ Documents shall be in print and/or in electronic formats, and shall be maintained, approved, 
+and revised, as necessary.  
+ 
+ Documents shall be reviewed on a periodic, facility-defined basis.  
+ 
+ External documents used in lieu of a facility-defined procedure shall be subject to document 
+control.  
+ 
+ Appropriate documents shall be available where activities essential to meeting the 
+requirements of set standards are performed.  
+ 
+ Documents shall be maintained in a manner that preserves legibility and protects from 
+accidental or unauthorized access, destruction, or modification.  
+ 
+ Removal from Use:  Invalid and obsolete documents shall be promptly removed from all 
+points of use, or protected against inadvertent use, and archived or destroyed as appropriate.  
+ 
+ Archived Documents:   
+Archived documents shall have appropriate identification to prevent their inadvertent use.  
+ 
+ Storage of Documents:   
+Documents shall be stored in a manner that preserves legibility and protects from accidental 
+or unauthorized access, destruction, or modification.  
+• Documents shall be retrievable during the retention period.  
+ 
+ Retention of Documents:   
+Archived documents shall be retained according to a facility schedule drafted to meet the 
+requirements of set standards of governing bodies and accrediting agencies.  
+ 
+ Record Control:   
+LLS shall identify all records and control their access, filing, storage, and disposition. 
+ 
+ Record Traceability:   
+The records system shall allow for the traceability of all of the following: 
+• Critical activities performed 
+• The individual who performed the activity 
+• When the activity was performed 
+• Results obtained 
+• Method(s) used 
+• Equipment used 
+• Critical materials used 
+• The facility where the activity was performed.  
+ 
+ Record Review:  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 21 of 27 
+ 
+LLS shall define the requirements for record review including:  
+• The records subject to review 
+• The schedule for record reviews 
+• Criteria for acceptable records 
+• The responsibility for record review 
+• Records shall be reviewed according to the facility’s defined requirements.  
+• Appropriate action shall be taken when acceptance criteria have not been met.  
+ 
+ Changes to Records:  
+Changes to records shall be controlled.  
+• An audit trail of the date of changes to the record and the identity of the person 
+who changed the record shall be created and maintained at least for the retention 
+period of the original record.  
+• Record changes shall not obscure previously recorded information. 
+• Changes to records (including electronic records) shall be verified for accuracy 
+and completeness.  
+ 
+ Copies of Records:   
+The completeness, accuracy, legibility, and accessibility of copies of records shall be verified 
+against the original records before destruction of the original records.  
+ 
+ Archived Records:   
+Records shall be stored in an organized manner that:  
+• Preserves legibility for the entire retention period 
+• Protects from accidental or unauthorized access, destruction, or modification 
+• Enables access and retrieval within a time frame appropriate to the circumstances 
+• Allows for retrieval of records should the lab cease to operate 
+ 
+ Retention of Records:   
+Archived records shall be retained according to a facility schedule drafted to meet the 
+requirements of set standards of governing bodies and accrediting agencies.  
+ 
+ Destruction of Records:  
+Records shall be destroyed in a manner that ensures confidentiality of the information 
+contained within.  
+ 
+ Information Management: 
+LLS shall manage and protect information needed for critical operations and business 
+continuity.  
+ 
+ Clarity: 
+Reports shall be designed and prepared to provide clear and understandable information to 
+the intended user.  
+• LLS shall verify that the content of reports provided to customers is understandable to 
+the intended user.  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 22 of 27 
+ 
+ 
+ Confidentiality:  
+Policies for confidentiality of data, information, and verbal and written communications shall 
+be established and followed.  
+ 
+ Access to Data and Information:   
+Access to data shall be controlled. Unauthorized access to, and release of, data and 
+information shall be prevented.  
+• The authorization to access and release data and information shall be defined, and 
+individuals authorized to enter, change, and release results shall be identified.  
+ 
+ Data Integrity:   
+Data integrity shall be maintained to ensure that data are retrievable and usable.  
+• Data shall be accurately and reliably sent from the point of entry to final destination 
+in a timely manner.  
+• Verification of Data transmission shall be performed prior to implementation of an 
+interface and every 2 years thereafter. 
+• Data shall be retrievable for the entire retention period.  
+ 
+ Storage Media: 
+Data storage media shall be protected from damage or unintended destruction.  
+ 
+ Back-Up Data:  
+LLS shall define and routinely back up all critical data.  
+• Back-up data shall be protected from unauthorized access, loss, or modification.  
+• The ability to retrieve data from the back-up system shall be tested periodically.  
+ 
+ Alternative System:   
+The facility shall maintain an alternative system to ensure continued access to information 
+needed for the continuity of facility-defined critical operations in the event that the primary 
+source(s) of information is unavailable.  
+• The alternative system shall be tested periodically  
+ 
+ 
+ Applicable Documents:  
+LBA002- Scope of Policies and Procedures 
+LBA004-SOP for Policy and Procedure Manuals 
+LBA005- Department Operations 
+LBA007- Release of Lab Results 
+LBA020- Delegation of Responsibility 
+LBA024-Patient Test Results 
+LBA033-Document Correction 
+LBA074- Retention of Records 
+IS Manual 
+FMOLHS Policy on Record Retention 
+OO-GN-031- Records Management OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 23 of 27 
+ 
+ 
+ 
+SECTION 11: INDICATORS OF QUALITY 
+ 
+ Indicators that reflect activities critical to patient outcome or have been a problem in the past. 
+ 
+ Selected indicators are regularly compared to benchmarks and reported to the hospital PI 
+committee for review. 
+ 
+ Key indicators are monitored and reported on by each OLOL Laboratory.  Indicators are site-
+specific and relevant to the size and scope of each lab.  Where applicable indicators 
+encompass all phases (pre-analytic, analytic, post-analytic) of testing. 
+ 
+ Stat Test Turnaround Time data may be collection-to-reporting turnaround time or receipt-in-
+laboratory-to-reporting turnaround time of tests ordered with a “stat” priority.  May be 
+confined to the Emergency Department or intensive care unit if a suitable reference database 
+is available. Laboratories may monitor mean or median turnaround time or the percent of 
+specimens with turnaround time that falls within an established limit. 
+ 
+ Critical Value Reporting. Percent of critical results with documentation that results have been 
+reported to caregivers. 
+ 
+ The Laboratory is cognizant of our legal and ethical obligation to provide our clients with the 
+quality of care reflected in recognized professional standards, to deliver care in a cost-
+effective manner within our available resources, and to provide and maintain a safe patient 
+environment. 
+ 
+ The National Patient Safety Goals (NPSG) are designed to stimulate health care 
+organization's improvement activities for several of the most challenging patient safety 
+issues. The goals are reviewed and published each year and are a critical component of The 
+Joint Commission's overall efforts to improve health care.  
+ 
+ TJC National Patient Safety Goals: 
+• Improve accuracy of patient identification:  
+o Use 2ID for adult patients 
+o Use 3 ID for pediatric patients 
+o Eliminate transfusion errors 
+• Improve effectiveness of communication among caregivers 
+o Timely reporting of critical test results 
+• Improve safety of using medications 
+o Reduce harm from anticoagulation therapy 
+o Properly label medications not for immediate use OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 24 of 27 
+ 
+o Properly label all solutions on and off sterile field and in procedural settings 
+• Reduce the risk of healthcare associated infections 
+o Meet hand hygiene and respiratory isolation guidelines 
+o Prevention multidrug-resistant organism infections 
+o Prevent central line-associated blood stream infections 
+o Prevent surgical site infections 
+• Accurately and completely reconcile medications across the continuum of care 
+o Compare current and newly ordered medications 
+o Communicate medications to the next provider 
+o Provide reconciled medication list to the patient 
+o Compare medications that are minimally used to current medications 
+• Identify safety risks inherent in our patient population 
+o Identify individuals at risk for suicide 
+o Identify individuals at risk for falls 
+o Identify individuals at risk for pressure ulcers 
+• Use universal protocol for preventing wrong site, wrong procedure and wrong person 
+surgery. 
+o Conduct a pre-procedure verification process 
+o Mark the procedure site 
+o Perform a time-out or final pause 
+ 
+ CAP Patient Safety Goals: 
+• Pre and Post Analytic Phases of Laboratory Testing 
+o Goal 1: Ensure Correct Patient and Sample Identification 
+- At the time of specimen collection  
+- At the time of analysis 
+- At the time of result delivery  
+o Goal 2: Ensure the Verification and Communication of Laboratory Results 
+Requiring Action on the Part of Treating Clinicians, examples may include: 
+- New malignancies  
+- Infectious disease diagnosis requiring immediate treatment or patient 
+isolation OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 25 of 27 
+ 
+- Critical laboratory values  
+o Goal 3: Ensure Time Outs are performed prior to starting procedures 
+- Correct test preparation  
+- Correct patient position  
+- Safety precautions based on patient history or medication use  
+• Operationalization 
+o Goal 4: Ensure the Identification, Communication and Correction of Errors 
+- Timeliness of identification of errors  
+- Revised reports  
+- All inaccuracies in the medical record should be documented and 
+communicated at the time the inaccuracy becomes known. The correct test 
+result or diagnosis should be made clear in an amended or corrected report 
+with the date of correction as soon as possible. The original inaccurate 
+result should be reported as such in the medical record. The reason that the 
+original result was reported incorrectly (i.e., due to error or other reason) 
+may not be known and need not be reported in the medical record.  
+- When an incorrect result or diagnosis causes material injury to a patient, 
+the correct result/diagnosis and the fact that the result has been changed 
+must also be reported to the patient. For an inaccuracy caused by or 
+directly involving a pathologist, the pathologist involved in the case 
+should discuss the matter with the physician who ordered the pathology 
+consultation. The two physicians should jointly determine how best to 
+communicate the corrected result to the patient.  
+o Goal 5: Improve Integration and Coordination of Laboratory Patient Safety Role 
+within Healthcare Organizations and Operations among the following groups: 
+- Nursing  
+- Administration  
+- Point of care testing personnel  
+- Providers  
+o Goal 6: Provide a standardized list of acceptable abbreviations, acronyms, and 
+symbols to the following groups: 
+- Physicians 
+- Nurses  OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 26 of 27 
+ 
+- Laboratory testing personnel  
+o Goal 7: Improve hand-off communication approaches, in high risk clinical 
+situations such as: 
+- Shift changes  
+- Laboratory testing performed during surgical procedure  
+o Goal 8: Reduce the risk of health care associated infections by the following 
+activities: 
+- Reviewing WHO and CDC Hand hygiene guidelines  
+- Implementing best practices 
+- Conducting periodic risk assessments  
+- Ensuring participation of laboratory staff in infection control activities in 
+health care organization  
+ As patient safety is central in the practice of laboratory medicine and anatomic pathology, 
+patient safety activities are primary among medical director duties. Given the variety of 
+laboratory size and complexity, appropriate systems to meet the patient safety needs of the 
+laboratory may vary from one facility to another. 
+ Applicable Documents: 
+LBA008- Delay of Results 
+LBA034-Laboratory Quality Control and Quality Assurance Policy 
+LBA075- Lab Communication 
+LBA076- Patient and Sample Identification 
+OLOL PI Manual 
+Dashboard Indicators 
+Exception Reports 
+ 
+SECTION 12: INCIDENTS, ERRORS, AND ACCIDENTS 
+ 
+ Reporting, classifying, analyzing:   
+OLOL maintains a mechanism to document and investigate events that have the potential to 
+affect the quality and safety of services.  Where appropriate, events are further classified and 
+reported to risk management, using the RLDatix Event Reporting System. 
+ 
+ Corrective and preventive action 
+• Action is taken to eliminate the root cause(s) of existing problems in order to prevent 
+recurrence. 
+• Corrective actions are monitored for effectiveness. 
+ 
+ Tracking and trending  
+• A log of events is maintained to ensure that the steps in resolving a problem are taken. OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 27 of 27 
+ 
+• Trend analysis of incidents, errors, and accidents is performed to aid in prioritizing 
+process improvement efforts. 
+ 
+ Management review and impact 
+• Event reports are submitted to management for review and approval. 
+• Root Cause Analysis performed and documented if deemed necessary by management. 
+• Corrective Actions are documented and submitted for approval 
+• Management approved Corrective Actions are monitored for effectiveness  
+periodically. 
+ 
+ Regulatory agency notification 
+• A system exists to det ermine whether an e rror/event is reportable to any regulatory 
+agency. 
+• There is a procedure for reporting errors  
+• Adverse events involving medical devices are reported to the FDA. 
+ 
+ Applicable Documents: 
+Safety Event Reporting OrgOps GN019 
+Sentinel Events- OrgOps GN018 
+Safe Medical Devices Act ECME006 
+ 
+SECTION 13:  ASSESSMENTS: INTERNAL AND EXTERNAL 
+ 
+ Assessments 
+• LLS participates in external assessments conducted by LDH, FDA, CLIA TJC, CAP 
+and AABB where required. 
+• LLS conducts internal assessments as scheduled and when deemed necessary 
+• A process is maintained to conduct, report, and follow-up on inspections, assessments, 
+or investigations.   
+• Lab conducts an interim self -inspection and documents efforts to correct deficiencies 
+identified during that process.   
+ 
+ 
+ Applicable Documents: 
+LBA006- Accreditation 
+ 
+ 
+REVISIONS 
+2/1989 (created), 9/2013, 3/2015, 3/11/17, 7/31/18, 4/29/2020, 3/8/2021 
+ 
+ 
+ 
+ 
+ 
+ 

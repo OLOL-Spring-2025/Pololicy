@@ -1,0 +1,64 @@
+Y      N
+Check OUT Check IN
+Front End Body OK   DAM OK   DAM
+Windshield OK   DAM OK   DAM
+Pass Side Body OK   DAM OK   DAM
+Pass Side Mirror OK   DAM OK   DAM
+Pass Windows OK   DAM OK   DAM
+Tires/Wheels Pass OK   DAM OK   DAM
+Rear End Body OK   DAM OK   DAM
+License Plates/Tags Y      N Y      N
+Rear Window OK   DAM OK   DAM
+Drivers Side Body OK   DAM OK   DAM
+Drivers Side Mirror OK   DAM OK   DAM
+Drivers Windows OK   DAM OK   DAM
+Tires/ Wheels Drivers OK   DAM OK   DAM
+Roof OK   DAM OK   DAM
+Check OUT Check IN
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO COMMENTS:
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO
+OK    NO OK    NO
+1/4 1/2 3/4 F 1/4 1/2 3/4 F
+Check OUT Check IN
+Clean Inside Y      N Y      N
+Sign OUT DATE Sign IN DATE
+Gauges
+Rear Seats
+Daily Vehicle Inspection Checklist
+Please Note on Diagram S=Scratch D=Dent O=OtherExterior
+Interior
+Front Seats
+NO SMOKING IN VEHICLE
+NO TEXTING IN VEHICLE
+NO SMOKING IN VEHICLE
+NO TEXTING IN VEHICLE
+Please Note on Diagram S=Scratch D=Dent O=Other
+Please Note on Diagram S=Scratch D=Dent O=Other
+Vehicle # 
+Fuelman Card/Pin # present?
+Dash
+Interior Mirror
+Carpet/Floors
+Radio
+Wipers
+NO SMOKING IN VEHICLE
+NO TEXTING IN VEHICLE
+NO SMOKING IN VEHICLE
+Lights
+Turn Signals
+Heater/AC
+Fuel Level
+Headliner
+Seat Belts
+MILEAGE OUT: IN:
+NO TEXTING IN VEHICLE

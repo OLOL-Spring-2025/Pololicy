@@ -1,0 +1,224 @@
+   
+ 
+ 
+PH2304 
+Page 1 of 6 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: 
+Medication Use, 
+Storage and 
+Handling 
+Title: Orders: Medication Orders Policy Reference #: PH-23-04 
+Supersedes #: PH-10-10-O 
+Date of Origination: 05/19/2005 Last Date Reviewed: 02/03/2025 
+Last Date Revised: 02/03/2025 
+  
+POLICY: All medication orders shall be clear and accurate and meet all requirements of a medication 
+order as defined in this policy.    
+1.     Definitions 
+• Range Order: A medication order in which the dose interval varies over a prescribed range, 
+depending on the situation or the patient's status.  
+• Titration Order: A medication order in which the dose is either progressively increased or 
+decreased in response to a patient’s status. 
+• Taper Order: An order in which the dose or frequency of a medication is progressively reduced 
+to achieve a desired clinical outcome.   
+• Therapeutic Duplication:  The concurrent prescribing of more than one medication for the 
+same indication without a clear distinction of when one agent should be administered over 
+another 
+• Resume Order: An instruction to restart a previously held medication. 
+• Automatic Stop Order:  A policy -imposed discontinuation of certain medications after a 
+predefined period unless renewed by the prescriber. 
+• Verbal Order: A spoken directive for medication administration. 
+• Legend Drug: Any drug defined by the Federal Food, Drug and Cosmetic Act, as amended, 
+and under which definition its label is required to bear the statement "Caution: Federal law 
+prohibits dispensing without prescription." 
+• Non-legend drug: A medication that does not require a prescription and can be purchased 
+over the counter. 
+• On-call Order: A medication order that is issued in anticipation of a specific need, but it is not 
+meant to be administered immediately. 
+• Unapproved abbreviation: A shortened form of a word or phrase that is not officially 
+recognized or recommended by medical authorities, regulatory bodies, or established 
+guidelines. Using unapproved abbreviations in medical practice can lead to confusion, 
+misinterpretation, and potentially dangerous errors in patient care. 
+• Order clarification:  The process of seeking further explanation or clarification regarding a 
+medication or treatment order that is unclear, ambiguous, or incomplete. This is done to 
+ensure that the correct treatment or medication is administered to the patient according to 
+the physician's intent.    
+ 
+ 
+PH2304 
+Page 2 of 6 
+• Generic orders: Instructions from a prescriber to continue or resume a patient's usual 
+medication or treatment.  
+2.     Contents of Medication Orders 
+2.1 All medication orders must include the patient’s full name, medical record number, date and 
+time of the order, medication name, dosage, route, frequency, and prescriber’s signature. 
+2.2 Orders must be written using clear, legible, and unambiguous language. 
+2.3 Medication names may not be abbreviated. Abbreviations listed on The Joint Commission’s 
+Official “Do Not Use” List must not be used. (See Table 1.)  
+Table 1 Official “Do Not Use” List published by The Joint Commission 
+ 
+2.4 Additional Considerations 
+• Orders that do not comply with items 2.1 -2.3 will be clarified with the prescriber by a nurse 
+or pharmacist prior to the medication being prepared, dispensed, and/or administered.  
+• There should be a notation in the chart (e.g. on the medication order, in the progress notes, 
+etc.) of the diagnosis or indication for each medication ordered. 
+• Generic orders such as “resume previous medications” and “continue home medications” 
+are not legitimate medical orders. If a generic order is received, a nurse or pharmacist will 
+consult with the prescriber to obtain specific orders for each medication.  
+   
+ 
+ 
+PH2304 
+Page 3 of 6 
+3.     Special Order Types   
+Certain types of orders require additional information. These types of orders are listed below. Orders 
+that do not meet the criteria indicated are invalid and will be clarified before administration.  
+3.1 On-call Orders 
+On Call orders must be clearly qualified to indicate the prescriber’s intended dosing location and 
+time, as shown in the examples below. 
+• On call to OR 
+• On call one hour before procedure 
+• On call prior to dialysis  
+3.2 Hold Orders 
+Prescribers should use the order hold function in the electronic medical record to indicate that a 
+medication should be held. A written or free -text hold order will be treated as discontinued order 
+unless the prescriber indicates a specific time or clinical parameter to restart the medication or the 
+number of doses to hold.  
+3.3 Verbal and Telephone Orders 
+• Verbal orders shall be transmitted only by authorized prescribers designated in medical staff 
+rules and regulations.  
+• Verbal orders may be given by a physician extension in emergency situations. (Example: 
+Operating room nurses, nurses during a code situation, or nurses during a natural or other form 
+of disaster) 
+• Verbal orders shall be subsequently authenticated (verified) and countersigned by the 
+prescribing practitioner or other responsible practitioner within the time specified by medical 
+staff rules and regulations. 
+• Verbal orders for medications and verbal clarification of medication orders shall be accepted 
+and written in the patient's record only by personnel so designated in the medical staff rules and 
+regulations and are qualified to receive them.  Medical staff r ules and regulations limit the 
+acceptance of verbal orders to: 
+ Registered nurses 
+ Licensed practical/vocational nurses 
+ Registered pharmacists 
+• Verbal orders will be received by authorized professionals within their scope of practice, 
+immediately transcribed or entered into the electronic medical record, and read back to the 
+prescriber for confirmation.  In addition to the information required for  a written order, 
+documentation of verbal orders shall include: 
+o The date and time of entry 
+o The prescribing practitioner's first and last name 
+o The written or electronic signature and title of the person who accepted the order. 
+ For transcribed paper orders, “RB” should be affixed to the order to show documentation 
+in writing that the order has been verified by reading back the order to the prescriber.      
+ 
+ 
+PH2304 
+Page 4 of 6 
+ For orders entered directly into the electronic medical record, the professional entering 
+the order should indicate that the order is a transcribed verbal order with readback at the 
+time of signing.  
+3.4 PRN Orders 
+Orders for PRN (as needed) medications shall be written or electronically sent via Computerized 
+Physician Order Entry (CPOE). Use of PRN (as needed) medication orders must be qualified to 
+include the symptoms or indications for use, so there is no question  as to the prescriber’s intent.   
+Without the qualifier, the order is not complete and will be clarified. 
+Examples include (qualifiers underlined): 
+• PRN at bedtime if needed for sleep 
+• PRN for pain of (per pain scale) but not more than 4 doses in 24 hours 
+• PRN for temperature over 100 degrees F 
+PRN orders must include a specific frequency or time interval (e.g. Q6H, PRN).  To only include “PRN” 
+in an order as the frequency of the order, is unacceptable.  
+3.5 Range Orders 
+Range orders must be written clearly, specifying the minimum and maximum dose, frequency, and 
+interval as in the example below. Range orders are not allowed for chemotherapy and 
+anticoagulants. Range orders that are not compliant with this policy will be c larified. The examples 
+below demonstrate acceptable vs. unacceptable range orders.  
+• Example of an unacceptable range order: Percocet 5/325mg 1-2 tablets by mouth every 4-6 
+hours as needed for mild to moderate pain. 
+• Acceptable correction of the above order:  
+ Percocet 5/325mg 1 tablet by mouth every 4 hours as needed for mild pain. 
+ Percocet 5/325mg 2 tablets by mouth every 4 hours as needed for moderate pain. 
+3.6 Taper Orders 
+Orders for tapering medications must include dosage limits and time factors to achieve the desired 
+clinical outcome. Orders that lack specific guidelines for dose and frequency reduction are not valid 
+and require clarification.   
+3.7 Titration Orders 
+Medication titration orders are those in which the dose is either progressively increased or 
+decreased in response to the patient’s status. Required elements include: 
+• Medication name 
+• Medication route 
+• Initial rate of infusion (dose/unit of time) 
+• Incremental units to which the rate or dose can be increased or decreased 
+• How often the rate or dose can be changed 
+• Maximum rate or dose of infusion 
+• Objective clinical measure to be used to guide changes 
+An example of an acceptable order for titration would be:     
+ 
+ 
+PH2304 
+Page 5 of 6 
+• Start Dopamine drip at 10 mcg/kg/min.  Increase by 5 mcg/kg/min every 5 minutes until SBP is 
+>90, but less than 120.  Max rate of 20 mcg/kg/min. 
+The initial dose of a titrated medication needing to be restarted will be driven by the protocol or by a 
+specific order from the prescriber. 
+4.     Therapeutic Duplication 
+Instances of therapeutic duplication will be clarified with the prescriber. When more than one 
+medication is prescribed for the same indication, clarification will occur to determine whether the 
+ordering of multiple agents for the same indications is eithe r an accidental prescribing error or 
+intentional multi-modal therapy. All instances of therapeutic duplication must be clarified by the 
+pharmacist so that each medication has a unique indication and/or sequence of administration.  
+When a patient is prescribed multiple antiemetic agents, there must be a clear understanding of the 
+following concerns: 
+• Was the intent of the prescriber to have all ordered medications given known by the 
+prescriber, pharmacist, and the administering provider? 
+• When does the administering provider give each agent based upon the intent of the 
+prescriber? 
+For example, if a patient is prescribed both acetaminophen and ibuprofen for mild pain, the 
+pharmacist must clarify whether the prescriber intends for both medications to be given at the same 
+time or in sequence. The order must be subsequently updated to p rovide all those on the patient’s 
+care team with clear instructions according to the prescriber’s intent.  
+5.     Order Transmission  
+Orders and order clarifications may be transmitted by the following methods:  
+• CPOE (preferred) 
+• Paper submitted via fax or direct scan into the electronic medical record  
+• Telephone 
+• Text message, if accomplished through a HIPAA-compliant STP (secure texting platform) and 
+if in compliance with the CoPs at 42 CFR Part 482.24 and 41 CFR Part 485.638. 
+• Direct verbal communication (emergent situations only, see 3.1 Telephone and Verbal 
+Orders)  
+References 
+MM.01.01.01 The hospital plans its medication management processes. The Joint Commission. 
+MM.04.01.01 Medication orders are clear and accurate. The Joint Commission.  
+MM.05.01.01 A pharmacist reviews the appropriateness of all medication orders for medications to 
+be dispensed in the hospital. 
+  
+The Joint Commission. (2018, September 14). Do not use list . https://www.jointcommission.org/-
+/media/tjc/documents/resources/patient-safety-topics/patient-
+safety/do_not_use_list_9_14_18.pdf. Accessed 1.14.2025.    
+ 
+ 
+PH2304 
+Page 6 of 6 
+The Joint Commission. (2024, June 5). Use of secure text messaging for patient information and 
+orders. Joint Commission Online. https://www.jointcommission.org/resources/news-and-
+multimedia/newsletters/newsletters/joint-commission-online/june-5-2024/use-of-secure-text-
+messaging-for-patient-information-and-
+orders/#:~:text=Joint%20Commission%2Daccredited%20healthcare%20organizations,members%
+20of%20the%20care%20team Accessed 1.14.2025. 
+The Joint Commission. (n.d.). Medication Management (MM): Medication orders . Retrieved January 
+14, 2025, from https://www.jointcommission.org/standards/standard-faqs/hospital-and-hospital-
+clinics/medication-management-mm/000002339. Accessed 1.14.2025. 
+The Joint Commission. (n.d.). Medication Administration – Therapeutic Duplication versus 
+Multimodal Therapy . Retrieved January 14, 2025, from 
+https://www.jointcommission.org/standards/standard-faqs/hospital-and-hospital-
+clinics/medication-management-mm/000002339. Accessed 1.14.2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

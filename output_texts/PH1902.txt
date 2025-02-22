@@ -1,0 +1,65 @@
+ Policy Reference Number 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Billing/Finance 
+Title: Medication Charges and Credits to 
+Departments and Patients  
+Policy Reference #: PH-19-02 
+Supersedes #: PH-05-06-O, 
+PH19-03 
+Date of Origination: 09/01/2001 Last Date Reviewed: 02/03/2025 
+Last Date Revised: 02/06/2020 
+ 
+POLICY: 
+ 
+Pharmacy personnel must ensure that all medications are properly charged  and credited to patients and 
+departments of the hospital .  Any medication or item utilized by a department that does not generate 
+revenue for pharmacy via direct patient charge is expensed to that department.  Any patient not receiving 
+medications should be credited where a charge occurred for medications not given, or where medications 
+were obtained at no expense to the dispensing pharmacy such as through patient assistance programs.  
+ 
+CHARGES FOR REQUISITIONS 
+ 
+Requisitions for medications (e.g. floor stock) will be charged to the requesting department’s cost center 
+at the acquisition cost of the medication. 
+ 
+CHARGES FOR ITEMS THAT ARE UNACCOUNTABLE 
+ 
+Charges for items that are unaccountable or are determined as lost (e.g. inability to determine appropriate 
+patient to charge as result of lack of information provided) by nursing unit will be expensed to the 
+particular department’s cost center at the acquisition cost of the medication.  
+ 
+ 
+PROCEDURE: 
+ 
+Patient Credits: Should patients be charged for medications and 1) not actually receive the medication or 
+2) the medication was obtained by the pharmacy through a patient assistance program where no expense 
+to pharmacy occurred, the patient will be credite d for the drug that was charged according to the 
+documentation in the electronic medical record.  The credit function will be completed in the electronic 
+medical record.   
+ 
+The hospital is currently using an electronic medical record that charges patients upon administration of 
+medications.  Medications that are not administered and returned to the pharmacy will be returned 
+electronically by trained individuals such that a reconciliation of the medication occurs.   
+ 
+Department Requisitions: As requisitions and lost charge detail are received, the Purchasing Cler k, 
+Pharmacy Buyer, or Pharmacy Supervisor will enter the information into the wholesaler database within 
+the interdepartmental billing program.  Each department is identified in the database by the corresponding  Policy Reference Number 
+Page 2 of 2 
+hospital cost center number.   
+ 
+1. At the beginning of every month, the Pharmacy Buyer will run a summary report of each 
+department’s prior month requisitions and/or lost charge detail. 
+2. Examples of requisitions / lost charge detail include: 
+a. Medications missing from PYXIS  
+b. Medications ordered by PCNs 
+c. Floor Stock utilized for departmental procedures 
+3. A summary of all charges is submitted in a report to Accounts Payable including a bill for 
+outside entities which the hospital will collect payment.   
+4. Accounts payable will expense in-house department’s cost center and submit bills for the outside 
+entities (e.g. St. Vincent de Paul, OLOL Foundation, School of Nursing). 
+5. Original requisitions will be filed in the purchasing area and copies sent to those departments 
+with high cost/volume of medications. 
+6. An itemized report should be forwarded to the Supervisor of each department with purchases 
+and/or lost charge detail for the prior month.  
+ 

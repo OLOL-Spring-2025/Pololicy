@@ -1,0 +1,93 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+ 
+SUBJECT:  Procedure for Invasive Mechanical Ventilation PAGE 1 OF 2 
+ 
+DEPARTMENT:  Respiratory Care Effective 7/30/2018 
+APPROVED BY:  Shantelle Graves, Director Respiratory Care Last review 
+11/03/2023 
+ 
+PURPOSE: To establish a standard operating procedure for respiratory therapists to remain 
+consistent in caring for patients with respiratory disorders when invasive positive pressure ventilation 
+is used in the treatment of the patient.  
+ 
+PROCEDURE: 
+ 
+A. Invasive ventilation: 
+1. Upon receiving the order, the respiratory therapist will deliver the equipment to the patient’s 
+room, set the patient up on the device, conduct a complete respiratory assessment, and 
+document it in the EMR. 
+i. The respiratory therapist will ensure network integration of the ventilator and test 
+audible and visual alarms upon placement of a patient on the ventilator and at the 
+start of each shift.  
+ii. The respiratory therapist will document in the patient’s EMR that audible and visual 
+alarms were tested and passed.  
+iii. If there is an interruption in the network integration in which the respiratory 
+therapist cannot quickly troubleshoot the resolution, then the shift supervisor will 
+be notified to enter a footprint ticket, and the respiratory therapist will enter a 
+safety event in the RLDatix system.  When the footprint ticket is entered by calling 
+the Help Desk, the RT will state that it is a patient effecting event and should be 
+escalated.  
+iv. The respiratory therapist will remove and replace the ventilator if the network 
+integration issue cannot be resolved or the ventilator fails audible and visual alarm 
+testing. Follow up with IS team and the bedside nurse is essential when failed 
+integration has occurred.   
+2. Assessment of patients on Mechanical Ventilation will occur within the frequencies listed 
+below: 
+i. ICU – every 2 hours 
+ii. PCU – every 4 hours 
+iii. ED – every 2 hours 
+iv. PACU – every 2 hours 
+3. Location for Invasive Mechanical Ventilation use: i. Mechanical ventilation will be initiated and monitored in the ED, ICU, PACU or 
+progressive care units. 
+ii. If patient is admitted to the acute floor from the ED on a home ventilator, the 
+supervisor will be notified and work with the nurse and/or house manager to have 
+the patient transferred to the PCU.  
+iii. When protocols are ordered within the Mechanical Ventilator order set, they will be 
+followed as written.  All protocols are approved by the respiratory leaders, 
+Respiratory Medical Director and Medical Executive Committee prior to being 
+utilized. 
+4. Transporting a patient on Mechanical Ventilation:   
+i. Patients will be transported on a transport ventilator with a respiratory therapist. A 
+patient may be transported on an ICU ventilator if the patient condition is critical 
+requiring high levels of FiO2 and/or PEEP and/or on continuous inhaled medications.  
+This will be at the discretion or respiratory therapist for the transport.  
+ii. The respiratory therapist will ensure proper amounts of oxygen is available during 
+transport.  The oxygen cylinder should have a minimum of 1000psi on the pressure 
+manometer at the start of the transport.  
+iii. When a patient is transitioned from any mode of ventilation and placed on a 
+different ventilator (ex: ICU vent to a transport vent; from a transport vent to an ICU 
+vent; from a transport vent to a different transport vent) the respiratory therapist 
+will conduct a respiratory assessment to ensure proper ventilator function.  The 
+assessment will be documented in the EMR with the following values: HR, RR, SpO2 
+and Breath Sounds. The transport ventilators should be functioning properly prior to 
+placing on the patient and the respiratory therapist will follow manufacturer 
+guidelines for testing the function.  
+iv. The respiratory therapist will communicate with the nurse regarding the transport. 
+The coordination and process for transporting patients is described in the SOP for 
+Transporting Patients on Advanced Oxygen Devices.  
+ 
+5. Reprocessing the ventilator after discontinuation: 
+i. All disposable parts will be removed from the ventilator while in the patient’s room 
+and discarded appropriately. 
+ii. The ventilator will be wiped down according to manufacturer recommendations for 
+cleaning. Refer to the cleaning and disinfecting procedure for more details.  
+iii. The non-disposable parts will be placed in a biohazard bag and brought to the soiled 
+utility room.   
+iv. Once disinfected, the ventilator will be brought to the clean supply room.  The 
+respiratory therapist will set up the ventilator circuit and complete a system check 
+for proper functioning. When the system check has passed, a bag will be placed over 
+the ventilator which identifies the ventilator as clean and ready for patient use.  v. If the ventilator system check fails, the ventilator will be brought to the respiratory 
+department and the supervisor will be notified. A work order will be placed for 
+biomed to evaluate the ventilator.  
+ 
+ 
+ 
+Note: 
+• As with any order, if the order is unclear, the respiratory therapist should call the 
+physician for any order clarification.   
+• The respiratory therapist should communicate with the nurse and physician when 
+condition changes or there is a change in therapy delivered.  
+• If there are any questions regarding this procedure or the protocols mentioned, the 
+respiratory supervisor may be contacted at 225-202-4578.  
+ 
+ 

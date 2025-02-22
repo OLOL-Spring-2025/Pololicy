@@ -1,0 +1,70 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Quality Control for ABL 90 Flex Analyzer  
+ Section: Blood Gas Lab 
+Date of Origination: October 1995 Signature: 
+Date of Last Revision: August 24, 2022 Serial Code: RC9-22 
+       Reviewed: October 1, 2024 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to assure reliable performance of blood gas instruments by 
+application of defined QC Limits. 
+       
+EQUIPMENT: 
+A. ABL Flex 90 Blood Gas Analyzers 
+B. Solution Pack  
+ C. Manual Record Logs  
+ D. Aqure system 
+ 
+POLICY:    
+A. All daily QC is automated.  The automated schedule has been established by the 
+Respiratory Care Director and the Laboratory Medical Director.  Only the Laboratory 
+Medical Director, Respiratory Director, or Blood Gas Lab Supervisor has access to change 
+Automatic QC schedule.  All Quality Controls are documented in the Aqure System. 
+B. A minimum of one levels of QC material is run at least once during each eight-hour shift.  
+This one level regimen includes all three levels within a 24- hour period.  The three levels 
+of QC represent both high and low values for pH, pCO2, pO2, Na+, K+, Ca+, Cl-, 
+glucose, Lactate, Hb, COHb, and MetHb.  The numeric QC data will be recorded and 
+plotted.  The standard deviations and coefficient variants will also be documented as 
+calculated by the Aqure Information System 
+C. External quality controls, of three levels, will be run once monthly or as recommended by 
+the manufacturer. These control specimens will be tested in the same manner and by the 
+same personnel as patient samples are tested. 
+D. QC Limits 
+  1. QC ranges are established by the manufacturer.  Prior to a new analyzer being 
+placed in service, a minimum of 20 QC data points are obtained for three levels of 
+control substance verifying the analyzer is within QC limits.   
+  2. Under no circumstances can control ranges exceed the manufacturer 
+recommendations.      NOTE: Target ranges for external QC will be scanned into each analyzer prior to 
+analyzing the QC.  The analyzer will then reveal the QC results and all out of 
+range values will be identified by displaying up or down arrows.   
+ 
+3. When an automated control is out of range the analyzer automatically re-runs the 
+control level that failed.  If the analyte is still out of range that analyte is 
+automatically disabled.  To reactivate the analyte the machine requires a manual 
+calibration and then the control must be manually run.  The analyte will remain 
+deactivated until this process is complete and all calibrations and controls are 
+within acceptable limits.  If the above process does not correct the supervisor will 
+be notified and Radiometer Technical Support will be called.  The Aqure System 
+automatically records when controls have failed and reran, and when the sensor 
+cassette are changed out.  If more maintenance is needed it will be documented in 
+the Service Reports Section of the CAP binder or in Aqure in the Comments 
+Section of the failed samples. 
+  4. The Blood Gas Lab Supervisor will review weekly all QC data for verification of 
+acceptable results. The Leadership Team, which includes the Laboratory Medical 
+Director, Respiratory Director, Respiratory Manager and Blood Gas Lab 
+Supervisor, periodically assesses the above procedure for appropriateness.  
+ 5. Storage and disposal of the sensor cassette and solution Pack:  
+  The sensor cassette will be stored in a refrigerator between 2 and 8 
+degrees Celsius. The solution pack is stored at room temperature. The 
+cartridge will be installed prior to the expiration date.  The analyzer will 
+not utilize any cartridge that exceeds the manufacturer’s expiration date.  
+The sensor cassette and solution pack will be disposed of in the biohazard 
+trash. 

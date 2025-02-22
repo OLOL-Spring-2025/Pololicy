@@ -1,0 +1,148 @@
+  OrgOps/HIM/009 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Operational 
+Subject:  Medical Record and Medical Media Policy Section:  HIM 
+Date of Origination:  July 17, 2003 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+August 9, 2012 
+October 2022 
+Serial Code:  OrgOps/HIM/009 
+  
+POLICY: 
+ 
+Our Lady of the Lake Regional Medical Center must ensure a single unit medical record is comprised of 
+all appropriate medical data generated on each individual OLOL patient for continuity of patient care 
+and legal purposes.  Any copies made of medical records for convenience (shadow records) or any other 
+copies made for a healthcare operation of OLOL must be tracked and secured just as if these copies were 
+the institution’s official medical record. 
+ 
+DEFINITIONS: 
+ 
+Unit Medical Record (UMR ):  The official OLOL medical record maintained by the Health 
+Information Management Department (HIM) contains OLOL original patient care documents.  The 
+UMR is designed to contain the written interpretations of all significant clinical information gathered for 
+a given patient, whether as an inpatient, outpatient, or emergency care patient.  The entire patient’s 
+medical record is in this one volume, or multiple volumes, under one unit number with a four -digit 
+suffix number to differentiate the episode of care.  The UMR will be retained according to the OLOL 
+Record Retention Policy (OrgOps/GN/031) 
+ 
+Organization Medical Record  (OMR):  A medical record maintained by a specific department other 
+than the HIM department, which contains original documents concerning outpatient healthcare 
+administered by OLOL healthcare providers to OLOL patients. 
+ 
+Shadow Records:  The medical records maintained by a specific physician or department that includes 
+only copies of original patient care information that has already been forwarded to HIM for inclusion in 
+the UMR.  These records are considered convenience copies only and have no record retention schedule.  
+These records never contain original medical records. 
+ 
+Medical Media:  Includes health information stored in any original media.  Examples of medical media 
+include, but are not limited to: x -rays, videotapes, ultrasounds, photographs (either conventional or 
+digital images) and EKG strips.  These forms of medical media have unique retention schedules.  The 
+unit medical record must contain a written interpretation of all medical media.  Medical media is distinct 
+from the written interpretations of significant clinical information that has been forwarded to the UMR. 
+   OrgOps/HIM/009 2 
+Designated Record Set:   Includes the UMR and billing records of patients.  Additionally, the 
+designated record set includes any records that OLOL or a Business Associate has used while making 
+health care decisions.   
+ 
+PROCEDURE: 
+ 
+Unit Medical Record :  A UMR shall be generated for each patient and HIM will maintain all unit 
+medical records. 
+ 
+1. All pertinent OLOL health care information created is to be documented either electronically or 
+paper-based on approved medical record forms.  All proposed forms must be recommended by 
+the Integrated Document Committee. 
+ 
+2. Patient name and unit number are to be clearly printed or included on a label attached to each 
+page of the medical information. 
+ 
+3. Completed original medical record forms are to be forwarded to HIM immediately for inclusion 
+in the unit medical record. 
+ 
+4. Any OLOL employees who use the UMR must ensure that PHI is maintained confidentially and 
+must use only the minimum necessary amount of information required to complete the 
+employee’s tasks. 
+ 
+5. No one other that HIM can disclose information from the UMR, for purposes other than 
+treatment, payment or healthcare operations (TPO).  Departments must forward all non – TPO 
+requests for Protected Health Information to HIM for processing.   
+ 
+Organization Medical Record:  OLOL prohibits departments from maintaining their own organization 
+medical records, unless approval has been obtained from OLOL Administration.  All original medical 
+information must be sent to HIM for inclusion in the UMR. 
+ 
+Medical Media – Refers to original information in any format that is used as a basis of a diagnostic test 
+or report.  The original written interpretation of the medical media data must be stored in the UMR. 
+ 
+1. JCAHO standards on medical record services, OLOL policies and procedures, and applicable 
+state and federal laws must be adhered to. Medical media must be maintained in a manner that 
+ensures the confidentiality of the PHI. 
+ 
+2. Any department containing medical media must designate a person responsible for compliance 
+with this policy. 
+ 
+3. Any and all requests for release of the PHI (Protected Health Information) must be referred to 
+HIM.  PHI will not be disclosed from medical media, except for emergency purposes. 
+ 
+4. Medical Media may be audited at any time to verify adherence to this policy.   OrgOps/HIM/009 3 
+ 
+5. Audit results will be reported to the Privacy Officer. 
+ 
+Shadow Records – Each department that maintains shadow records must appoint a person responsible 
+for compliance with this policy. 
+ 
+1. Shadow records must be maintained in a manner that ensures the confidentiality of the PHI in 
+accordance with JCAHO standards on medical record services, OLOL policies and procedures 
+and applicable state and federal laws. 
+ 
+2. Any and all requests for the release of PHI must be referred to HIM.  PHI will not be disclosed 
+from shadow records, except for emergencies. 
+ 
+3. Shadow records may be audited at any time to verify adherence to this policy. 
+ 
+4. Audit results will be reported to the Privacy Officer. 
+ 
+5. If shadow records are found to contain original medical information that should be in the UMR, 
+they shall be removed and forwarded to HIM for inclusion into the UMR.  
+ 
+6. When the shadow record is no longer needed the documents must be disposed of in a manner 
+that ensures the confidentiality of the information. 
+ 
+Physical Management of Medical Records  – Any department that maintains either medical media or 
+copies of medical records must designate a person who will be responsible for securing and tracking 
+those records.  Physical maintenance requires: 
+ 
+1. Appropriate measures to ensure that medical media or copies of medical information are 
+maintained in a secure location with restricted access.   
+ 
+2. A tracking system must be used to account for the inventory and location of the medical media 
+or copies of medical information.  The tracking system must include the following: 
+ 
+a. An inventory that shows when records are added or destroyed, and 
+ 
+b. A system for establishing the location for the record.  This must include establishing the 
+party responsible for the record once it has been checked out. 
+ 
+3.  This tracking system may be manual, automated or a combination of the two. 
+ 
+Release of Information  – As a result of the HIPAA regulations, releasing information has become 
+extremely complex due to several specific reporting requirements.  HIM will also be responsible for the 
+release of any information for purposes other than TPO.   
+ 
+   OrgOps/HIM/009 4 
+ 
+Enforcement – All supervisors are responsible for enforcing this policy.  Individuals who violate this 
+policy will be subject to the appropriate and applicable disciplinary processes, up to and including 
+termination or dismissal.  
+ 
+Approved by: 
+ 
+ 
+ 
+Stephanie G Manson, SVP Chief Operating Officer     
+ 
+ 

@@ -1,0 +1,222 @@
+ 
+PH.2470_Non-Sterile Prescription Compounding 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Non-Sterile Prescription Compounding 
+PAGES: 
+5 
+REPLACES POLICY (NUMBER/DATE): 
+ 
+ORIGINAL EFFECTIVE 
+DATE: 03/12/2020 
+REVISIONS EFFECTIVE:  
+ 
+POLICY NUMBER:  
+PH.2402  
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+To assure accurate and consistent non-sterile compounding, the pharmacy shall maintain a written record of all special 
+formulas (recipes). Furthermore, a compounding log will be maintained to document all compounding activities and to 
+track potential recall products. The pharmacy will comply with the standards of USP <795> (compounding of non-sterile 
+drugs) and USP <800> and applicable state and federal laws and regulations applicable to non-sterile compounding 
+performed at the pharmacy location as implemented on October 1, 2019. [PHARM OP 16 (a, b)] 
+ 
+POLICY: 
+Each pharmacy location shall designate compounding supervisors (pharmacists).  
+ 
+AVAILABILITY OF SPECIAL FORMULA RECORDS (SFR) 
+Special formula records shall be readily available to those who prepare these products. 
+Special formula records shall include (as appropriate): 
+• Preparation name(s) (official, common, and/or unusual). 
+• Ingredients (and amounts of each ingredient). 
+• Compounding procedure (including order of mixing, calculations, and technique to ensure a safe and effective final 
+product). 
+• Equipment to be used (e.g., type and size of syringe used in compounding). 
+• Precautions and warnings. 
+• Appearance of final product. 
+• Dispensing information (e.g., type and size of container or syringe). 
+• Additional information to ensure that orders are filled accurately and that dispensing, pricing, and billing are 
+consistent. 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+3/12/2020 2:29 PM 
+ 
+ 
+PH.2470_Non-Sterile Prescription Compounding 
+2 
+• Testing (if any) to determine if the final product has been accurately filled and is safe for administration. 
+ 
+COMPOUNDING RECORD (CR) 
+• A log will be kept to identify the specific ingredients used, supplier, expiration date, lot numbers and the quantity 
+measured or weighed. Spaces are also available for the signature of the person who prepared the formulation, and the 
+date of preparation. 
+ 
+SUPPORTING LITERATURE 
+Supporting literature shall be referenced or attached to the records. 
+ 
+LABELING 
+The finished product will be labeled in compliance with the requirements of the Louisiana Board of Pharmacy and will 
+include an expiration date for the compounded product.  All receptacles containing compounded or filled prescriptions 
+shall bear a label showing the prescription number, the initials of the pharmacist actually and personally responsible for 
+drug regimen review, filling, compounding or dispensing the prescription, adequate directions for use unless stated 
+otherwise by the prescriber, the date of its compounding or filling, and the name of the pharmacy. 
+ 
+USP 795 COMPLIANCE  
+Adapted from Compounding nonsterile preparations: USP <795> and <800> Pharm Today.2017;23(10):56-72 
+ 
+DEFINITIONS: 
+Hazardous Drug (HD)– Any drug that upon exposure has the potential to cause cancer, developmental or reproductive 
+toxicity, or harm to organs. Hazardous drugs are divided into 3 groups; anti-neoplastics (Group 1), non anti-neoplastic 
+hazardous drugs (Group 2) and drugs that have reproductive toxicity (Group 3). (NIOSH) 
+Personal protective equipment (PPE) – provides worker protection to reduce exposure to HD aerosols and residues. 
+Examples include, but are not limited to, gloves, gowns, head and shoe covers and face masks.  (USP <800>) 
+ 
+PROCEDURE: 
+A pharmacy shall have written procedures as necessary for the compounding of drug preparations to assure that the 
+finished preparations have the identity, strength, quality, and purity they are represented to possess. 
+The compounding supervisors shall: 
+• Meet with employees to review their work and answer any questions the employee may have concerning compounding 
+procedures. 
+• Demonstrate the procedures for the employee. 
+• Observe and guide the employee throughout the training process. 
+• Be physically present and approve all ingredients and their quantities and the final preparation. 
+• Constantly monitor the work of the employee and ensure that the employee’s calculations and work are accurate and 
+adequately performed. 
+ 
+All compounders shall: 
+• Acquire and maintain knowledge and skills for which they compound. 
+• Adhere to the general principles listed in USP <795> and USP <800>. 
+• Be proficient and continually expand compounding knowledge. 
+• Be properly trained by completing the requisite hours of accredited or board-approved continuing education on an 
+annual basis. 
+• Document all training activities.  
+PH.2470_Non-Sterile Prescription Compounding 
+3 
+1.    The record shall contain the following minimum information: 
+a. name of the individual receiving the training/evaluation; 
+b. date of the training/evaluation; 
+c. general description of the topics covered; 
+d. signature of the individual receiving the training/evaluation; and 
+e. name and signature of the individual providing the training/evaluation. 
+• Read and become familiar with USP <795> and USP  <800>, associated chapters and all applicable laws, 
+regulations, guidelines, and standards.  
+• Read and become familiar with each of the procedures related to compounding. 
+ 
+Regarding facilities, each pharmacy location shall: 
+• Designate adequate space that is specific for compounding of prescriptions that is separate and distinct. 
+• Place equipment and materials in an orderly manner. 
+• Maintain the compounding area in clean, orderly, and sanitary conditions and in a good state of repair. 
+• Ensure that the plumbing system is free from defects. 
+• Provide adequate hand and equipment washing facilities accessible to the compounding area that include (but not 
+limited to) hot and cold running water, soap or detergent, and an air dryer or single-use towels. 
+• Control heating, ventilation, and air conditioning systems to avoid decomposition and containment of chemicals. 
+• Hold and dispose of waste in a sanitary and timely manner in accordance with federal, state, and local guidelines. 
+ 
+Regarding the handling of HD, each pharmacy shall: 
+• Ensure that all staff receives education regarding the risks involved with the handling of HD and sign the 
+corresponding attestation stating they understand these risks.  
+• Identify all HD that require safe handling and make sure they are clearly labeled at all times. 
+• Maintain a list of HD and the Safety Data Sheets (SDS) for each HD and review the list for accuracy at least every 
+12 months.  
+• Designate an area for storage and preparation of HD. 
+• Maintain control measures to reduce employee exposure to HDs including, but not limited to: 
+1. Appropriate ventilation controls, such as a biological safety cabinet (BSC),  
+2. PPE such as: 
+a. Gloves when unpacking and receiving HD 
+b. Gowns and double chemotherapy gloves when compounding HD 
+3. Safe handling procedures. 
+• Make sure all ventilation systems and other equipment function properly. 
+• Review and update safety plans at least annually. 
+ 
+Regarding component selection, each pharmacy location shall: 
+• Attempt to use components manufactured in FDA-registered facilities. 
+• Use professional judgment in selecting and acceptable and reliable source when components cannot be obtained 
+from an FDA-registered facility and establish purity and safety by reasonable means. 
+• Use purified water for compounding nonsterile preparations when water is included in the formulation. 
+• Store components off the floor to prevent contamination and permit inspection and cleaning. 
+ 
+Regarding compounding practices, each pharmacy location shall: 
+• Store components and finished products off the floor and as directed by the manufacturer or according to USP, 
+NF, or FCC monographs, including for appropriate temperature and humidity. 
+• Label preparations appropriately. 
+• Handle and store components and finished preparations to prevent contamination, 
+• Rotate stock so that the oldest is used first. 
+• Store components and finished preparations to permit inspection and cleaning of the compounding and storage 
+area.  
+PH.2470_Non-Sterile Prescription Compounding 
+4 
+• If a component will be transferred from the original container, provide integrity that is equivalent to or better than 
+the original container. 
+• If the component has been transferred from the original container, identify the new container with the component 
+name, original supplier, lot or control number, transfer date, and expiration date. 
+• Protect equipment from contamination and locate it to facilitate use, maintenance, and cleaning. 
+• Use equipment and utensils of appropriate design and capacity. 
+• When the same equipment is used for different types of drug products, implement procedures including meticulous 
+cleaning before re-use. 
+• Use only equipment and utensils with surfaces that are not reactive, additive, or absorptive. 
+• Routinely inspect, calibrate (as necessary), and check equipment used in compounding or testing of compounding 
+preparations to ensure proper performance. 
+• Inspect equipment prior to use to ensure suitability. 
+• Clean equipment after use. 
+• Label the preparation container according to all applicable federal and state laws, including the BUD and storage 
+and handling information. 
+• Label the preparation with the generic name  and quality or concentration of each active ingredient, the BUD, 
+storage conditions, and prescription or control number. 
+• Counsel the patient or patient’s agent about proper use and instruct them to report any adverse event. 
+ 
+Regarding containers and closures, each pharmacy location shall: 
+• Use containers and closure systems that meet USP requirements. 
+• When appropriate, obtain verification from the supplier of compliance with USP requirements. 
+• Use containers made of clean materials so the quality, strength, and purity of the compound is maintained. 
+• Store containers and closures off the floor and handle them to prevent contamination. 
+• Store stock in a way that permits inspection and cleaning of the storage area. 
+• Rotate stock so the oldest is used first. 
+ 
+Regarding beyond-use dates (“BUD”), each pharmacy location shall: 
+• Review stability factors in USP <1191> Stability Considerations in Dispensing Practices. 
+• Use compounding education and experience.  
+• Consult and apply drug-specific and general stability documentation and literature. 
+• Observe the compounded preparation for signs of instability. 
+• Each compounder shall follow the SFR and complete the CR when executing the compounding process. 
+• Review each procedure in the compounding process. 
+• Check each procedure at each stage of the process 
+• Observe the finished preparation to ensure it appears as expected. 
+• Take appropriate corrective action when any discrepancies are found. 
+• Investigate and document any reported problems with compounded preparation and take corrective action. 
+ 
+ 
+Regarding the patient, each compounding pharmacist shall: 
+• Counsel the patient about the proper use, storage and evidence of instability in the compounded preparation at the 
+time of dispensing.  
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: PHARM OP 16 
+• USP <1191> Stability Considerations in Dispensing Practices  
+PH.2470_Non-Sterile Prescription Compounding 
+5 
+• USP <795> and <800> Pharm Today.2017;23(10):56-72 
+• 46 La. Admin. Code Pt LIII, 2531 – 2535 
+• OSHA – Controlling Occupational Exposure to Hazardous Drugs 
+• NIOSH- National Institute of Occupational Safety and Health 
+• PH.2405_Hazardous Materials 
+ 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

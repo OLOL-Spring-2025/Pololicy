@@ -1,0 +1,164 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 4 
+LBA502 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA502 
+LABORATORY ORDER AND BILLING COMPLIANCE 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 7/31/2023 9/1/2023 9/1/2023 
+Lab Administration Review J Teague 9/27/2023 Origination Date 
+Laboratory Medical Director Review A Nunez 8/26/2023 2/1989 
+ 
+ 
+PURPOSE 
+To ensure compliance with federal regulatory standards, the Laboratory will adhere to the 
+policies of the Clinical Laboratory Improvement Act (CLIA) , Center for 
+Medicare/Medicaid (CMS) , a nd the Office of Inspector Ge neral (OIG) , and other 
+federally funded payor guidelines. 
+POLICY 
+A. Medicare And Medical Necessity 
+Licensed health care professionals must be able to order any services that are 
+considered appropriate for the diagnosis and treatment of their patients.  However, 
+physicians should order only those tests and/or services that meet medical 
+necessity standards.  A specific diagnosis and/or ICD-10-CM code must be 
+provided for each test and/or service ordered.  
+All providers ordering services must review the patient’s diagnosis or ICD-10-
+CM code for medical necessity according to Local Medical Review Policies 
+(LMRPs) and/or National Coverage Limitations (NCL) to facilitate appropriate 
+billing of tests and services.   
+If the test and/or service order does not include a specific diagnosis and/or ICD-
+10-CM code or meet the criteria as defined in the LMRP and/or NCL, an Advance 
+Beneficiary Notice must be obtained from the patient. 
+B. Advance Beneficiary Notice (ABN) 
+Medicare reimbursement is limited to services which are determined to be 
+reasonable and necessary.  An Advance Beneficiary Notice (ABN) must be 
+obtained when ordered tests or services do not meet medical necessity 
+requirements according to Local Medical Review Policy (LMRP) or National 
+Coverage Limitations (NCL). 
+An Advance Beneficiary Notice (ABN) must be obtained when one or more of 
+the following circumstances exist: Medicare will not pay for the test(s) based 
+upon the patient condition or Medicare does not pay for the test(s) due to the 
+frequency of order (limited number of payments within a specified time period). 
+Medicare does not pay for test(s) which are experimental or for research use. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 4 
+LBA502 
+The patient may choose to either receive the service(s) and agree to be responsible 
+for payment or refuse to be responsible for payment and not receive the service(s). 
+If Outreach specimens are received for diagnostic laboratory tests requiring an 
+ABN but the ABN is not received the procedure cannot be billed.  These charges 
+should be written off as non-covered/non-allowable services and may not be 
+included as Medicare Bad Debt Expenses. 
+FMOLHS Outpatient services are provided by LabCorp.  Outpatients will not be 
+registered or collected directly by OLOL Lab employees.  Outpatient specimens 
+received by OLOL laboratories are received through a reverse testing agreement 
+with LabCorp.  Specimens should not be submitted to OLOL Laboratories 
+without an ABN.  Specimens received without an ABN will not be tested. 
+C. Orders for Tests and Services  
+Orders for tests and services must be documented and include specific data 
+elements as defined in this policy.  All inpatient and outpatient orders are to be 
+entered into the computer system either directly or through an electronic interface.   
+1. Inpatient orders must be entered electronically by a nurse or physician.  
+Verbal orders are not allowed for laboratory personnel to receive for 
+inpatient purposes.  Add-on requests must also be entered electronically 
+by appropriate healthcare personnel. 
+2. Outpatient orders are managed by LabCorp.  Standardized laboratory 
+requisition forms have been developed and should be used for outpatient 
+laboratory services. Registration personnel must review outpatient orders 
+to ensure required data elements exist. Every effort should be made to 
+obtain said information prior to the test being performed or services being 
+rendered.  If patient care or the integrity of a specimen is at risk, continue 
+processing the test(s) or performing the service(s) and ensure required 
+elements are subsequently obtained by designated personnel. 
+3. The following outlines the required documentation to support complete 
+test or service orders, coding services, and billing of outpatient services.  
+Each category is mutually exclusive. 
+a. Test or Service Orders - The following elements are needed to 
+support the performance and charging of a test or service.  The 
+italicized items can be retrieved after lab tests are performed: 
+i. Reason for ordering test or service (i.e. ICD-10 diagnosis code) 
+ii. Test or service requested 
+iii. Written order 
+iv. Name, address, and phone number of ordering physician 
+v. Patient name 
+vi. Date of order 
+b. Coding - The following list represents the minimum elements required 
+to code tests or services: 
+i. Reason for ordering test or service 
+ii. Test or service requested OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 3 of 4 
+LBA502 
+iii. Written order 
+iv. Name of ordering physician 
+v. Patient name 
+c. Billing - The following list represents the minimum elements required 
+to submit a patient bill for payment of a test or service: 
+i. ICD-10 code diagnosis code 
+ii. Tests or services charged or performed 
+iii. Name of ordering physician 
+iv. UPIN, State License, or Payor Specific Number 
+v. Patient Name 
+vi. Patient date of birth 
+vii. Patient sex 
+viii. Patient demographics/insurance information 
+ix. Client number 
+D. Billing Referred Laboratory Testing 
+Medicare requires direct billing of outpatient laboratory services by the laboratory 
+performing the tests. In exception to this requirement, a hospital clinical 
+laboratory may enter into a contractual agreement with a reference laboratory.  In 
+case of the above exception, the hospital must bill the federally funded payor, pay 
+the reference laboratory for the tests performed, and be responsible for billing and 
+collection activities.  FMOLHS and therefore OLOLRMC Main and Affiliate 
+Labs have entered into contractual agreement with LabCorp reference 
+laboratories. 
+E. Billing of Calculated Lab Tests 
+Laboratory calculation tests are not billed when the calculation is derived from a 
+primary test. Laboratory Administration has the responsibility of “building” 
+procedures for calculated tests, including applying applicable CDM’s and billing 
+procedures in the LIS which then in turn create the billing information to be 
+forwarded to the payor.  Calculated tests are not billed. 
+F. Credit Requests 
+After patient testing is completed and charged, credits can be issued based on the 
+provider and manager’s discretion.  Credits are issued by deleting the charge in 
+the LIS.  Documentation and a reason must be noted in the patient’s chart at the 
+time of the credit.  Credits may be made directly by the technical department 
+involved when wrong patient or other testing errors are detected.  Additionally, a 
+credit request can be made by the provider or provider’s representative.  The 
+requestor must be documented with the credit along with the reason for credit. 
+Once the request is received, a credit can be issued through the LIS in the 
+patient’s chart.  Any credits amounting to $2000.00 or greater will need to be 
+approved by the Director. 
+G. Standing Orders 
+Standing ordered are permitted as long as they are valid, documented in EPIC, 
+medically necessary, and monitored for appropriateness. A standing order is 
+defined as a request provided, by a physician or other authorized designee, to OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 4 of 4 
+LBA502 
+order tests reimbursable by Medicare and other federal health programs which 
+either requests the laboratory to perform a particular test or tests at a  
+defined frequency, for a limited duration or is limited to patients undergoing 
+continuing treatment, eliminating the need for a new order for each testing 
+occasion. Standing orders must be renewed annually.  Standing orders can be 
+acceptable only if it is submitted in writing or electronically.  A verbal standing 
+order is unacceptable.  There shall be no exceptions.  A standing order must: 
+1. Specify an effective date and have an appropriate fixed term of validity. 
+2. Identify the patient by name. 
+3. Be specific to that patient and no one else. 
+4. List the exact name of the test(s) to be performed. 
+5. Specify how frequently the test(s) is/are to be performed. 
+6. Include a diagnosis either in narrative form or by ICD-10 Code. 
+7. Be signed by a physician or other authorized person. 
+REFERENCES 
+OIG Model Compliance Program Guidance for Clinical Laboratories 
+Medicare Conditions of Participation 
+ 
+REVISIONS 
+10/2009 (created), 3/2015, 8/10/17, 7/31/2023. 

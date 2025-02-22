@@ -1,0 +1,243 @@
+  
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: ETCO2 and Continuous Pulse 
+Oximetry Monitoring 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 3 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 12/1/2023 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP#3 
+ Page 1 of 5 
+ 
+Purpose:   
+To establish a standard operating procedure for respiratory therapists and nurses to safely monitor end -
+tidal CO2 (ETCO2) and continuous pulse oximetry (CPO). 
+ 
+Procedure:   
+1. The process starts with a physician's order for CPO in NON-ICU areas/ED/OR areas and 
+ETCO2 in all areas.  
+A. Indications for continuous monitoring may include the following. 
+a. The patient has a PCA pump – the order should be for CPO and ETCO2  
+b. The patient is on continuous BiPaP or VPT – the order should be for CPO. 
+c. The patient may be continuously monitored for other medical conditions impairing 
+respiratory function.  
+ 
+B. Continuous Pulse Oximetry Monitoring 
+a. All acute floors, except for PCU, HVI 7th, and HVI 8th (Spacelab with incorporated Masimo 
+technology), will be using Masimo Root Monitors for pulse oximetry.  
+b. ICU, PCU, HV7, HV8, ED, OR, and other procedural areas will utilize other monitoring 
+systems (Spacelab, Philips, GE, etc) with incorporated Masimo pulse oximetry 
+technology.  
+c. Evaluation of the waveform can give the clinician additional insight. During motion of 
+the extremity where the sensor is located, the waveform may appear to have “artifact” in 
+the waveform, and this is indicative of movement.  For patients with low perfusion at the 
+sensor site, the waveform may appear to be dampened from the normal height.  
+d. Poor Perfusion – SpO2 not detected 
+i. When the bedside pulse oximeter cannot consistently detect SpO2, the following 
+procedural steps can assist the clinician in monitoring the patient. The respiratory 
+therapist should be contacted when a nurse is unable to obtain a SpO2. 
+ii. Step 1 – Sensor Placement 
+Check the following things for proper placement: 
+1. Verify that the sensor emitter and detector are parallel to each other and 
+directly opposed on the digit. Either the butterfly sensor or Neo (wrap 
+around) sensor may be used for this step.  For patients with long nails or 
+nail jewelry the Neo wrap around sensor should be selected.  
+2. Ensure there is no additional ambient light that the sensor could be 
+detecting. If this is believed, correct the placement of the sensor and unplug 
+then replug the sensor to the cable to recalibrate the sensor.   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: ETCO2 and Continuous Pulse 
+Oximetry Monitoring 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 3 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 12/1/2023 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP#3 
+ Page 2 of 5 
+ 
+3. Ensure the sensor is not applied too tightly, this could be restricting blood 
+flow to the distal part of the digit compromising the pulse oximetry 
+measurement.   
+iii. Step 2 – Perfusion Index 
+Evaluate site blood flow and Perfusion Index (PI) to determine if the site has 
+appropriate perfusion. The perfusion index site signal strength is displayed 
+graphically on the Sensorwatch bar on the Spacelabs monitor and on the Masimo 
+Root monitor.  The shading amount on the Sensorwatch bar indicates site perfusion. 
+If the Perfusion index is less than 0.02, a message will be displayed on Space: “Low 
+Perfusion” and “Low Signal Strength.” When these messages are on the monitor, 
+The sensor should be moved to an alternate digit at this time.  
+iv. Step 3 – Max Sensitivity 
+Increase to Sensitivity to Max if a low Perfusion index (PI) persists on multiple 
+digits.  
+v. Step 4 – Specialty Sensor  
+If the SpO2 is still unobtainable, the respiratory therapist will attain a specialty 
+sensor (Forehead Sensor or Ear Sensor).  
+1. The Forehead Sensor is positioned just above either the right or left eyebrow with 
+the center lines in line with the center of the eye (pupil). The headband must be 
+used to shield the sensor from ambient light. The headband should be secure 
+enough to apply slight pressure to the sensor and should completely cover the 
+sensor. 
+2. The disposable Ear Sensor is placed securely in the cavum conchae (the deep 
+hollow near the ear canal opening) 
+3. The non-disposable Ear Sensor is clipped to the earlobe. 
+vi. Step 5 – Portable Radical 7 Monitor 
+If an SpO2 is still unobtainable despite the use of a specialty sensor, the respiratory 
+therapist will retrieve a portable Radical 7 Masimo Pulse Ox and place it on the 
+patient.  
+vii. Step 6 – Alternative Monitoring with ETCO2 
+Despite all the efforts, if the patient’s SpO2 is still unobtainable, the respiratory 
+therapist will notify the physician of the persistent issue with obtaining the patient's 
+SpO2 consistently; therefore, the patient's ventilatory status will be monitored via 
+end-tidal carbon dioxide (ETCO2). An order for ETCO2 monitoring will be placed 
+by the respiratory therapist as “per protocol” as stated in this procedure, and the RT 
+will set the patient up on ETCO2 monitoring. Patients on Non-Invasive Ventilation 
+or Heated High Flow Nasal Cannula would not be able to be monitored on ETCO2, 
+as this is a limitation of ETCO2 monitoring. The physician will be informed of this, 
+and further patient assessment would need to be made. 
+viii. Patient Assessment for poorly perfused patients   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: ETCO2 and Continuous Pulse 
+Oximetry Monitoring 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 3 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 12/1/2023 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP#3 
+ Page 3 of 5 
+ 
+When the SpO2 is unobtainable due to poor perfusion, the clinical team would 
+continue to perform clinical assessment such as skin color, heart rate, respiratory 
+rate and pattern, ventilator pressures and volumes and an arterial blood gas may be 
+ordered by the physician to evaluate the oxygenation and ventilation status of the 
+patient.  
+ 
+C. End-Tidal CO2 Monitoring 
+a. Root Monitor use for ETCO2 
+All acute floors using the Root Masimo device will utilize the ISA module (which is 
+located on the back of the Root Monitor) for ETCO2 monitoring.  This process will be as 
+follows: 
+i. ISA module will be located on all Root Monitors in each patient room for the nursing 
+units that utilize more ETCO2 monitoring. These units are listed below: 
+1. 6th South (STU) 
+2. 5th South (Neuro) 
+3. 5th West (Oncology)  
+4. 4th North (Med1) 
+5. 3rd East (NEPH) 
+6. 2nd North (CCDU) -Will have five transportable units 
+ii. All other floor units that is not listed above needing ETCO2 monitoring will call the 
+respiratory therapist assigned to the unit to obtain an ISA module to connect to the 
+Masimo Root Monitor.  
+iii. Additional ISA will be kept in the RT equipment room on the following units 
+1. PCU 
+2. 6 North (Surg) 
+3. 4 West (Med5) 
+b. Discontinuation of ETCO2 When the ETCO2 order is discontinued, the RN or RT will 
+disconnect the cannula from the patient and discard all disposable lines and cables. The 
+RT may collect the ISA modules from the nurses station after they have been removed 
+from the patient’s room and disinfected.  The RT will then return the ISA module to the 
+proper storage location.  
+c. Other monitors used for ETCO2  
+i. PCU, HVI 7th & 8th will be using Spacelabs’ Capno Pods to monitor ETCO2 at the 
+bedside.    
+1. PCU will have two Capno Pods available at the nurse’s station.  
+2. HVI 7th & 8th will have five Capno Pods available in total to be deployed on each floor; they 
+will be stored at the nurse’s station on the A and B sides on both floors.   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: ETCO2 and Continuous Pulse 
+Oximetry Monitoring 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 3 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 12/1/2023 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP#3 
+ Page 4 of 5 
+ 
+3. The charge RN will ensure the availability of an additional Capno Pod whenever ETCO2 
+monitoring is ordered and the Capno Pod is deployed. 
+4. The nurse or the respiratory therapist can set the patient on the ETCO2 monitor when an order 
+is received. 
+ii. Patients will be monitored continuously using the Capno Pods during the patient's hospital stay or until 
+the monitoring order is discontinued.   
+iii. When ETCO2 monitoring has been discontinued, the RN or RT can disconnect the Capno Pod from 
+the Spacelab monitor, thoroughly disinfect it according to the manufacturer recommendations. The 
+device will then be bagged and stored in the afore mentioned location.  
+ 
+D. Patient SafetyNet  
+a. All Root Monitors will be centrally monitored at the nurse’s station for each perspective unit. 
+These patients will be monitored via Patient SafetyNet.  
+b. Once the patient is set up on the bedside monitor, the patient must be linked to the SafetyNet 
+central monitoring system. 
+i. The Root monitor and the Radical 7 Masimo Pulse Ox must be powered on in the 
+patient’s room.  
+ii. A SafetyNet central monitoring system tile will have a number corresponding to the 
+patient’s room number for the clinician to link. 
+iii. The clinician will click on the correct tile corresponding to the patient’s room 
+number.  This opens the “admit patient” screen. 
+iv. The clinician will enter the patient’s MRN in the MRN field and select the import 
+icon. Patient SafetyNet is linked to EPIC and will auto-populate the patient’s name. 
+v. The clinician will verify all information has been uploaded correctly and select the 
+primary assignment supervisor, then select “Admit.”   
+vi. Once the process described above is complete, the patient information will be 
+viewable on Patient SafetyNet.  
+vii. The respiratory therapist will verify that the patient is being properly monitored at 
+least twice per shift.  Nursing will be responsible for making sure that the patient is 
+continuously connected and viewed on their Patient SafetyNet central monitor in the 
+nursing station. 
+viii. Alarm limits will be defaulted to the hospital’s determined alarms. Physician 
+communication will occur prior to widening the alarm limits.  
+2. Daily RT Tasks:  
+1. At the start of the shift, the oncoming RT will get a report from the off-going RT.  
+2. The following information should be passed on in the report: 
+a. Any Patient SafetyNet central monitoring system issues. 
+b. Ensure orders are correct and current for all patients being monitored.   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: ETCO2 and Continuous Pulse 
+Oximetry Monitoring 
+DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 3 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 12/1/2023 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP#3 
+ Page 5 of 5 
+ 
+c. Monitoring the status of each patient tile on the monitor.  Ensure all patients 
+with orders are linked and being monitored. 
+d. Report the last time the patient was assessed. 
+e. Ensure correct patients are linked to the correct room. 
+f. Report any other issues identified with the Patient SafetyNet system. 
+3. RT will monitor the Patient SafetyNet system at least once every 6 hours at each 
+designated unit assigned to verify proper functioning tiles with an updated status for 
+each patient. 
+a. Verify that all patients with current CPO or ETCO2 orders are properly 
+monitored and linked. 
+b. RT should communicate to the charge RN if a patient is linked to a tile 
+WITHOUT an order. 
+c. Patients who are discharged are removed from the tiles on the SafetyNet 
+central monitoring system. 
+d. Evaluate any tiles that are unlinked or connectivity is lost. 
+e. RT should communicate/notify the nursing unit to correct monitoring issues 
+when identified.   
+ 
+  Additional notes: 
+1. The RT assigned to the patient care area is responsible for verifying that the patient's name and room 
+number are correct.   
+2. Removal of discharged patient tiles is the responsibility of the assigned therapist and/or the RN. 
+ 
+For any issues with the monitor connectivity in the nursing station call the HELP DESK 765-4957 
+ 
+For any issues with the Masimo monitor call 1-800-326-4890 OPTION #2    

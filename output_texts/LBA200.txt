@@ -1,0 +1,829 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 18 
+LBA200 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA200 
+LAB SAFETY PLAN 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 8/2/2023 9/1/2023 9/1/2023 
+Lab Administration Review J Teague 8/25/2023 Origination Date 
+Laboratory Medical Director Review A Nunez 8/26/2023 8/2009 
+ 
+I. PURPOSE 
+The laboratory shall eliminate or minimize hazards to staff, patients, and visitors.  All 
+laboratory procedures should include basic safety precautions.  Laboratory safety 
+policies and procedures supplement the facility's safety policies and procedures. The 
+lab environment shall meet the safety requirements of the facility, state, and 
+regulatory agencies. 
+ 
+II. GENERAL LABORATORY SAFETY 
+The Safety Lab Safety Officer, Lab Manager, Lab Supervisor or designee ensures 
+each laboratory employee is knowledgeable of the potential hazards/safety exposure 
+by documented attendance of Laboratory Orientation.  
+All laboratory personnel shall comply with the facility’s safety policies and 
+procedures.  OLOL Laboratory is under the OLOLRMC Environment of Care/Safety 
+Program.  All policies and procedures established for the facility will be enforced and 
+followed by all lab staff.     
+Working safely in a laboratory requires having the proper containment equipment and 
+engineering controls, wearing appropriate personal protective equipment, using 
+proper work practices, being aware of safety information for the materials and 
+equipment used, and following safety instructions and laboratory protocols.   
+Because each laboratory situation is different, judgment is required in interpreting 
+general concepts for individual settings.  Policies and Procedures for individual 
+laboratory sections provide specific safety information for those sections of the 
+laboratory. The type of safety equipment will depend on the task and degree of 
+exposure anticipated.   
+Some laboratories contain more than one type of hazardous material.  For example, 
+General Chemistry may work with chemicals, biological agents, and radioactive 
+materials.  In such cases, the protective equipment and work practices to be used are 
+those that provide protection against the most hazardous agent or meet the most 
+stringent legal requirement. If you have any concerns about implementing general 
+safety concepts or specific safety protocols consult your direct Supervisor or 
+Laboratory Compliance Officer (Lab Safety Officer).   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 18 
+LBA200 
+More specific information regarding chemical and biological safety can be found in 
+the laboratory Chemical Hygiene Plan and Exposure Control Plan.  
+A. PRECAUTIONS TO PREVENT PHYSICAL INJURY TO PERSONNEL 
+Personnel shall take caution to prevent physical injury through proper utilization 
+of personal protective equipment, sharps containers, proper biohazard protocol, 
+and engineering devices available to each employee. 
+B. REPORTING SAFETY RELATED EVENTS 
+Hazardous conditions or practices shall be reported to the lab safety officer and/or 
+appropriate personnel.  All incidents and accidents shall be reported in the Safety 
+Event System (RLDatix).  Refer to OrgOps/GN/019 for instruction. Events are 
+reviewed immediately by all appropriate lab leadership and corrective action, 
+where needed, is implemented immediately.  Events and follow-up are reported to 
+Lab Medical Directors at least quarterly. 
+The Laboratory complies with the FDA Medical Device Reporting 
+Requirements in accordance with the hospital’s Safety Event Reporting Policy.  
+Any laboratory device-related adverse patient event, which has or may have 
+caused or contributed to a patient death or serious patient injury, must be reported 
+as soon as medical personnel become aware of the event.  An “RLDatix Safety 
+Event Report” is completed and immediately sent to Risk Management, who files 
+the report with the FDA no later than 10 days from the time medical personnel 
+become aware of the event.  The hospital will submit an annual report of device-
+related deaths and serious injuries to FDA, if any such event was reported during 
+the previous year. Annual reports must be submitted by January 1 of each year 
+and records of MDR reports are kept by Risk Management for 2 years. 
+Any piece of laboratory equipment or instrument hardware, reagents, specimen 
+collection device, or other apparatus that was involved in the event must be 
+removed from use and preserved.  Part numbers, lot numbers, expiration dates, 
+and manufacturer information must all be recorded. Laboratory personnel are 
+educated through mandatory annual hospital safety education.  Employees are 
+also made aware of the reporting requirements through Laboratory Orientation, 
+Compliance Training, and departmental staff meetings. 
+C. MEDICAL DEVICE ALERTS/RECALLS 
+The laboratory will be notified of a recall through direct notification by the 
+supplier/manufacturer, through Recall Manager software used by the Health 
+System to disseminate recalls received at the system level, or both. 
+Upon notification of the Recall, the appropriate department or lab will: 
+1. Investigate for affected product 
+2. Follow instructions provided by the manufacturer 
+3. Determine potential patient impact 
+4. Consult with Compliance Officer and Medical Director to determine next 
+steps if necessary.  Patient Chart Review or Physician notification letters may 
+be implemented. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 3 of 18 
+LBA200 
+ 
+All Alerts/Recalls including any follow-up actions taken are forwarded to the Lab 
+Compliance Officer who will report to Safety Committee and Quality Committee.   
+ 
+III. RESTRICTED LABORATORY ACCESS 
+For the safety of staff and visitors, routine laboratory access is restricted to authorized 
+hospital personnel only by use of electronic badge entry.  Vendors will present to 
+security/vendor check-in for a temporary vendor badge and will then check-in with 
+the lab.  Contractors gain access through the Plant Management Department.  Visitors 
+will present to security or lab outpatient area.  Visitors will be evaluated for potential 
+entry into the lab.  Visitors, including children and pets, are not allowed in areas 
+where hazardous substances are stored or in use or hazardous activities are in 
+progress. Students occasionally may enter laboratories as part of educational 
+programs under carefully controlled and supervised conditions.  Colleagues, 
+prospective students, and others may be invited into laboratories for legitimate 
+academic and research purposes.   
+ 
+IV. FIRE PREVENTION, CONTROL, PROTOCOL 
+Refer to Lab/Department Specific Fire (Code Red) Response Plans for the 
+location of fire alarm pulls, fire extinguishers, exits/evacuation routes. 
+It is essential that laboratory employees realize the danger of fire and explosion, and 
+that they observe safe fire prevention practices. The most common ignition sources of 
+flammable-liquid fires and explosions are open flames, electrical equipment sparks, 
+overheating and friction.  Operations or equipment that creates ignition sources 
+should be eliminated from flammable liquid areas.  Most flammable-liquids are toxic 
+in some degree and require ventilation to safeguard the health of employees.  
+Ventilation that is safe from a health standpoint will usually be more than adequate to 
+overcome any explosions.  Friction due to poor lubrication or damaged moving parts 
+of electrical equipment is a common cause of fire. Frequent inspection and good 
+maintenance will prevent generation of high frictional heat caused by instruments.    
+Laboratory staff shall comply with the facility’s policy for handling flammable 
+substances.  The following precautions are emphasized:  
+• Aerosol Containers: 
+Ensure that aerosol containers are not punctured, nor the contents sprayed near a 
+fire or open flame.  Do not incinerate aerosol containers under pressure. 
+• Storage of Flammables: 
+Do not store explosive or highly flammable substances in the department unless 
+such storage is in an approved cabinet, segregated from combustible materials. Do 
+not store flammables in refrigerators not designed for that purpose.   
+• Flammable Waste:   
+Waste will be labeled and dated for the date it is declared a waste, stored in an 
+appropriate container, and placed in the hospital flammable storage room to be OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 4 of 18 
+LBA200 
+picked up and removed.  All flammable and Hazardous waste will be removed by 
+the Medical Center’s Hazardous Waste Contractor. 
+ 
+If a fire occurs in the Laboratory area shut off electrical equipment, Medical Gas, 
+Vacuum, and Air valves.  
+ 
+A. General Fire Protocol/Procedure:   
+• Remain calm–do not panic. 
+• Do not use elevators. 
+• For a fire detected in the facility, but not in your immediate area remain in place 
+until the all-clear is given or until it becomes necessary to move/evacuate. 
+• For a fire detected in your immediate area f ollow the protocol noted in the 
+acronym “RACE”. 
+ 
+Rescue:   Remove patients or anyone in danger away from the 
+area of the fire so there is a closed door between them 
+and the fire. 
+Alarm:   Pull the nearest fire alarm box and call the Code Red. 
+Confine:   Close the doors to contain the smoke and fire. 
+Extinguish/Evacuate:   Use a fire extinguisher to extinguish the fire or 
+evacuate the area if necessary. 
+  
+B. Fire Extinguisher Use: 
+Fire extinguishers are located in laboratories, corridors, public areas, and other 
+locations indicated by building and life safety codes.  Plant management provides, 
+inspects, and maintains fire extinguishers, and provides new and replacement 
+extinguishers as indicated.  In the event of a fire, follow procedure outlined below 
+(P.A.S.S.). 
+  
+Pull:   Remove the retaining bar from handle of extinguisher. 
+Aim:   Direct nozzle of extinguisher at the base of the fire. 
+Squeeze:   Depress the handle of extinguisher by squeezing handle. 
+Sweep:   Move extinguisher nozzle from side to side to cover the base of fire. 
+ 
+C. Methods of Fire and Smoke Containment  
+The basic techniques are: 
+• Extinguish or control fire using available firefighting equipment.  Never try to 
+use a water hose.  Do not attempt to fight fire if it endangers your safety. 
+• If it is impossible to subdue the fire, the door should be shut. 
+• Place wet linens or blankets at t he base of the door to help confine smoke and 
+fire. 
+• In the event of intense smoke, lie down on the floor and have the patients do 
+the same. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 5 of 18 
+LBA200 
+• Never open a door that feels hot to the touch. 
+ 
+D. Laboratory Doors  
+Fire and life safety codes require that laboratory  doors be kept closed at all times.  
+Keeping doors closed also helps ensure that ventilation systems work properly and 
+maintain contaminant-containing pressure differentials between labs and corridors.  
+This is especially important in newer buildings with sensitive energy conservation 
+systems.  
+ 
+V. HYGIENE 
+A. Personal hygiene is extremely important to persons working in a laboratory.  
+Contamination of food, beverages, or smoking materials are routes of potential 
+exposure to toxic chemicals or biological agents through ingestion.  Therefore, 
+Laboratory personnel shall not prepare, store or consume food or beverages, 
+pipette by mouth; smoke; apply lip balm or cosmetics; or handle contact lenses in 
+the work area.  This familiar elementary safety rule shall be followed by everyone 
+working in or visiting a laboratory.  
+B. Hand Hygiene is a primary safeguard against inadvertent exposure to toxic 
+chemicals or biological agents. Always perform Hand Hygiene after removing 
+gloves (in patient care situations, before and after gloving), and before leaving 
+the laboratory.  Wash your hands after removing protective clothing, and before 
+eating, drinking, smoking, applying cosmetics, lip balm, contact lenses, and using 
+the restroom. Perform Hand Hygiene periodically during the day at intervals 
+indicated by the nature of your work.  Use alcohol-based Hand Sanitizer or wash 
+with soap and running water, with hands held downward to flush the 
+contamination off the hands.  Turn the water off with a clean paper towel to 
+prevent recontamination and dry your hands with clean towels. Follow CDC, 
+WHO and hospital policy regarding hand washing.  
+C. Confine long hair and loose clothing when needed in the laboratory to keep them 
+from catching fire, dipping into chemicals, biohazards, or becoming entangled in 
+moving machinery.   
+  
+VI. PERSONAL PROTECTIVE CLOTHING AND EQUIPMENT 
+Personal Protective Equipment (PPE) protects you from injury due to absorbing, 
+inhaling or coming into physical contact with hazardous materials.  You have a 
+responsibility to dress sensibly for laboratory work.  Although not required, a 
+“Laboratory Uniform” of scrubs and dedicated work shoes will protect your other 
+clothing from becoming contaminated or ruined.  You are responsible for using any 
+additional Personal Protective Equipment provided when they are required for safety.   
+ 
+All Personal Protective Equipment shall be used and maintained in a sanitary and 
+reliable condition and shall be cleaned or replaced regularly to avoid spreading 
+contamination.   
+ 
+PPE may include laboratory coats, aprons, gloves, shoe covers, eye protection, masks 
+and respirators.  PPE are selected based on the nature of the hazardous agent.  Annual OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 6 of 18 
+LBA200 
+PPE Hazard Assessments are performed in each Laboratory or Department to 
+determine which items should be utilized to perform laboratory tasks. 
+ 
+A. Coats 
+Lab Coats are essential to protect street clothing and scrub uniforms from biological 
+agent aerosols or chemical splashes and spills, vapors, or dusts.  Lab coats are to be 
+worn when the task being performed may be reasonably anticipated to splash or 
+spray hazardous materials, blood or other potentially infectious materials.  While 
+performing the aforementioned tasks, lab coats should be worn fully buttoned with 
+the sleeves down.  Lab coats should not be altered from their original form.   
+Disposable Lab coats are supplied by the lab.  They should be replaced when they 
+are visibly soiled or once they begin to exhibit signs of excessive wear such as holes 
+and tears.  Lab coats shall not be altered in any way that will inhibit the 
+effectiveness of the protection they are meant to provide. 
+ 
+B. Clothing 
+Suitable clothing shall be worn in the laboratory. Cover unprotected skin whenever 
+possible, as clothing may absorb liquid spills that would otherwise come in contact 
+with your skin.  
+Confine loose clothing when needed in the laboratory to keep them from catching 
+fire, dipping into chemicals, biohazards, or becoming entangled in moving 
+machinery.   
+Regular clothing that is suspected of being contaminated shall be evaluated to 
+determine a proper decontamination or disposal method. 
+ 
+C. Footwear  
+To protect against splashes or broken glass, do not wear sandals, open-toed shoes, 
+or perforated shoes in the laboratory. If performing a task that includes a reasonable 
+expectation of excessive splash or spill, such as performing autopsy, you may need 
+the added protection of disposable shoe covers. 
+Shoes suspected of being contaminated shall be evaluated to determine a proper 
+decontamination or disposal method. 
+ 
+D. Eye protection/Face Protection   
+Eye and face protection devices shall be worn, or work shall be completed behind 
+an effective barrier protection whenever splashes, spray, spatter, or droplets of 
+blood, chemical, or other potentially infectious materials (OPIM) may be generated 
+and eye, nose, o r mouth contamination can be reasonably anticipated.  Eyes are 
+very vascular and can quickly absorb many hazardous agents. Eye protection 
+devices are available in each section for staff where eye contamination may occur.   
+ 
+Safety glasses with clear side s hields are adequate protection for general 
+laboratory use.  Goggles shall be worn when there is danger of splashing chemicals 
+or flying particles; such as when chemicals are poured, or glassware is used under OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 7 of 18 
+LBA200 
+elevated or reduced pressure.  A face shield wi th goggles  offers maximum 
+protection (for example, with vacuum systems that may implode).   
+Corrective lenses in spectacles do not in themselves provide sufficient protection.  
+Regulations require that persons whose vision requires corrective lenses, and w ho 
+are required to wear eye protection, shall wear goggles over their eyeglasses, 
+prescription safety glasses, or goggles with prescription lenses.   
+ 
+E. Wearing of Contact Lenses in Laboratories  
+While there is no prohibition against  the wearing of contact lenses in labs , staff 
+should understand that lenses may be difficult to remove in case of a splash.  In the 
+event of a splash to an individual wearing contact lenses, act as you would for any 
+splash.  Copiously irrigate the eye with water, hold the eyelids apart while keeping 
+the eye open as wide as possible, and do not worry about losing the lens. 
+ 
+F. Gloves 
+Gloves are worn to prevent contact with toxic or biological agents, burns from hot 
+or extremely cold surfaces or corrosives, or cuts from sharp objects.  Skin contact 
+is a source of exposure to infectious agents and toxic chemicals, including 
+carcinogens. Many gloves are made for specific uses.   
+For adequate protection, select the correct glove for the hazard in question.  
+1. A leather glove provides good protection for picking up broken glass, handling 
+objects with sharp edges, and inserting glass tubing int o stoppers.  However, 
+because they absorb liquid, leather gloves do not provide protection from 
+chemicals, nor are they adequate for handling extremely hot surfaces.   
+2. Gloves designed to insulate against hot/cold surfaces and dry ice are not suitable 
+for handling chemicals.   
+3. The chemical resistance of rubber or plastic gloves varies greatly according to 
+the glove material and the chemical handled.  If you are unsure if your gloves 
+are compatible with the chemical you are working with, you should review the 
+SDS or contact the manufacturer  of the chemical and/or the chemical . (Most 
+SDS sheets will recommend the most protective glove material in their 
+Protective Equipment section.) 
+Chemicals can eventually permeate all glove materials.  Select glove materials 
+resistant to the chemical being used and change gloves periodically to minimize 
+penetration.   
+Inspect gloves for punctures or tears before putting them on.   To prevent 
+contamination of your hands or work surfaces  from grossly contaminated gloves , 
+you may  wash rubber or plastic gloves thoroughly with water before removing 
+them.  Disposable gloves should not be re-used. Pull off disposable gloves inside 
+out and dispose of them according to the contamination hazard. Always remove 
+contaminated gloves before leaving the laboratory.  Always wash your hands after 
+removing gloves, leaving the work area and before eating, drinking, smoking, using OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 8 of 18 
+LBA200 
+the restroom, or applying cosmetics.  (See Exposure Control Plan for additional 
+information.) 
+ 
+G. Latex Gloves 
+Due to the prevalence of allergies to natural latex prote ins, all FMOLHS facilities 
+have restricted the use of latex as much as possible.  The Laboratory has replaced 
+all latex gloves with the exception of gloves in the Histology Frozen Section Room, 
+the Histology Grossing Room, and the Autopsy Suite where there is no possibility 
+of patient sensitization. Powdered gloves in all forms, both latex and non-latex, are 
+banned under the FDA’s Banned Medical Device ruling.  Powdered gloves are 
+prohibited in this facility. 
+ 
+VII. HOUSEKEEPING   
+Keeping things clean and organized helps provide a safe laboratory.  Keep drawers and 
+cabinet doors closed and electrical cords off the floor to avoid tripping hazards.  Keep 
+aisles clear of obstacles such as boxes, chemical containers, and o ther storage items 
+that might be put there even temporarily.  Avoid slipping hazards by cleaning up spilled 
+liquids promptly and keeping the floor free of stirring rods, glass beads, stoppers, and 
+other such items.  Never block or even partially block the path to an exit or to safety 
+equipment such as a fire extinguisher or safety shower.   
+A. Storage 
+Make sure that supplies and equipment on shelves provide sufficient clearance so 
+the fire sprinkler heads operate correctly.  There shall not be any storage within 18 
+inches of the ceiling or a sprinkler head.  Patient supplies should be stored at least 
+6 inches off the floor.  Heavy objects and chemicals should be stored below 5 feet. 
+No items should be stored beneath sinks. 
+ 
+B. Lab Personnel Cleaning Duties 
+Cleaning duties that are the specific responsibility of laboratory personnel shall be 
+conducted on a regular basis to prevent accidental contact with hazards and to 
+reduce clutter in the lab space.  Laboratory equipment, including refrigerators, 
+freezers and work surfaces, shall be cleaned by laboratory staff.   
+ 
+C. Facility Cleaning   
+A custodial service has been contracted to clean floors, bathrooms, and empty non-
+biohazard trash on a routine basis. Custodians shall not be expected to mop any 
+floors that have not been properly decontaminated after a spill.  In preparation for 
+the cleaning service, the laboratory staff shall remove hazards that the custodians 
+might encounter during their activities.  Chemical containers on the floor and all 
+containers of bio-hazardous waste shall be moved by laboratory occupants to a safe 
+and secure location before custodians enter the lab.  In the event that testing being 
+performed requires that a particular laboratory or department not be disturbed, 
+custodial floor cleaning can be suspended or re-scheduled on request of laboratory 
+area occupants.   
+ 
+D. Facility Maintenance   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 9 of 18 
+LBA200 
+Likewise, if maintenance is required on any component of the laboratory, such as a 
+sink or piece of equipment, the same principles of preparation apply.  The 
+supervisor shall ensure that the immediate area is decontaminated, and any 
+infectious agents or chemicals removed to another secure area prior to initiation of 
+work.  The laboratory supervisor shall inform maintenance personnel of the 
+presence of any hazardous materials to which they might become exposed. 
+ 
+E. Spills and Clean-up 
+Clean/contain all spills i mmediately using an antiviral agent or spill kit as 
+applicable.  Facility maintenance personnel are available to help clean up larger 
+chemical and biological spills and dispose of chemical waste.   
+ 
+VIII.     WASTE DISPOSAL 
+Laboratory waste is segregated at the point of use into categories that include but are not 
+limited to: 
+• Medical Waste/Biohazard 
+• Medical Waste/Biohazard sharps 
+• Chemical waste (see Chemical Hygiene Plan) 
+• Recycled waste (e.g., paper, aluminum) 
+• Regular trash 
+ 
+A. General Disposal 
+Place all waste in appropriate containers designated for waste containment. Do not 
+allow waste to spill over.  Clean/contain spills immediately using an antiviral agent 
+or spill kit as applicable. 
+ 
+B. Biohazard Containers  
+Biohazard containers are kept upright throughout use and are routinely checked by 
+laboratory technical personnel.  All infectious waste is placed in leakproof biohazard 
+containers marked Biohazard and are stored in a Soiled Utilities Storage Room.  Full 
+Biohazard bags are placed inside of a larger biohazard can by laboratory staff.  Staff 
+moving full biohazard bags should do so in a safe manner.  To prevent accidental 
+tears, bags should never be dragged on the floor.  Cans are retrieved by 
+housekeeping staff or Stericycle representatives and disposed of by incineration at 
+Stericycle Regional Incinerators.   
+ 
+C. Biohazard sharps containers are closeable, puncture-resistant, and leakproof on 
+the sides and bottom.  All sharps and glassware are disposed of immediately (or as 
+soon as possible).  These containers are placed in the immediate area of use ideally 
+no more than 100 feet away from the user.  Containers should not be filled over ¾ 
+full and should be utilized appropriately by staff. 
+ 
+Reusable Biohazard sharps containers are picked up by Stericycle staff from 
+individual departments on a scheduled basis.  Stericycle staff swap out full 
+containers for empty containers and dispose of them in the proper fashion as stated OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 10 of 18 
+LBA200 
+above.  Reusable containers are not opened, emptied, or cleaned manually or in any 
+other manner that would expose employees to the risk of percutaneous injury.  
+Reusable biohazard sharps containers are not to be placed with disposable biohazard 
+bags or inside of the larger biohazard cans. 
+ 
+D. Regular trash includes the remainder of waste in the laboratory that poses no health 
+or environmental risk. This is disposed of through routine facility waste streams in 
+appropriate containers. 
+Put ordinary wastepaper in a wastepaper basket separate from chemical wastes.  
+Broken glass and other sharp items shall be disposed of in rigid, puncture resistant 
+containers to protect persons collecting the waste materials.  Needles and syringes 
+that are not contaminated may be sealed in a rigid, puncture-resistant container 
+and placed in a regular waste receptacle.  When discarding empty boxes or other 
+containers bearing hazardous materials labels, the labels should be defaced or 
+removed before disposal.  Contaminated boxes or containers shall not be disposed 
+of in the regular trash. 
+ 
+E. Chemical wastes and unwanted chemicals shall be disposed of promptly and 
+appropriately according to manufacturer’s instructions and SDS.  Chemical waste 
+should not be left to clutter a laboratory.  Follow the Medical Center’s Chemical 
+Disposal Protocol when removing waste and chemicals from inventory.  
+Additional information on disposal of human body fluids or other potentially 
+infectious materials appears in the Laboratory’s Exposure Control Plan.   
+ 
+IX. TRANSPORTATION OF DIAGNOSTIC/INFECTIOUS SPECIMENS 
+The laboratory prepares infectious material for shipment in accordance with 
+applicable federal, state, and local regulations.  All personnel involved in the 
+packaging and shipping of infectious substances have completed certified training 
+according to the regulations, and recurrent training must occur every two years.  
+Training is provided online by Mayo Medical Laboratories, Transportation 
+Department, 3050 Superior Drive NW, Rochester, MN 55901.  Records including 
+individuals name, date of training, copy of training materials used, and a copy of 
+certification issued showing successful completion of the training are maintained in 
+the employee’s departmental file.   
+ 
+The lab follows all CDC and state guidelines for safe handling and processing of 
+specimens suspected of containing avian influenza virus, SARS coronavirus, Ebola or 
+other similar emerging pathogens and communicable diseases.  Please refer to lab 
+policy-LBA203 and infection controls policy- IC2013 for specific guidelines.  There 
+are also department specific procedures covering this practice of handling Category A 
+substances.   
+ 
+A personal vehicle s hall not be used to transport hazardous materials.  The U.S. 
+Department of Transportation (DOT) requires that a licensed hazardous materials 
+transporter be employed if hazardous material is transported on a public highway or by 
+air or water.  DOT also requ ires that all individuals offering a hazardous material for OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 11 of 18 
+LBA200 
+transport receive training. The material to be shipped shall be properly packaged in 
+accordance with all applicable regulations and appropriate shipping papers shall be 
+provided. 
+ 
+Biological materials shall be shipped in compliance with DOT and Centers for Disease 
+Control and Prevention regulations.  Transport of regulated plant or animal pathogens 
+shall comply with U.S. Department of Agriculture and Louisiana Department of 
+Agriculture regulations.   
+ 
+X. LABORATORY EQUIPMENT 
+The laboratory shall maintain information on the operation, maintenance, and 
+inspection of equipment and devices.  Operator instruction manuals are maintained in 
+the individual lab department. Equipment and devices covered by this policy shall be 
+inspected to assure operational qualifications before initial use and in accordance with 
+manufacturer’s recommendation and regulatory standards thereafter. 
+A. General Maintenance Equipment 
+• Assure that equipment is operating properly.  Remove equipment from service 
+and contact technical service/biomedical engineering immediately when 
+problems arise.  
+• New equipment is inventoried by the Bio-Medical Department upon receipt 
+by the medical center, evaluated, and scheduled for periodic service as 
+indicated. 
+• A list of equipment maintained by individual laboratories are filed in that 
+section. 
+• Maintenance and quality control records are also filed in the sections where the 
+equipment is allocated.  
+• Routine Preventive maintenance is performed on equipment in order to ensure 
+accurate and reliable laboratory results as well as a safe work environment.   
+ 
+B. Centrifuges 
+Centrifuges should be placed in a location where vibration will not cause supplies 
+to fall or cause interference in testing.  To prevent droplet or aerosol exposure, 
+centrifuges should remain closed until the rotor stops spinning completely.  The lab 
+should make every effort to purchase centrifuges with built-in locking mechanisms.  
+Centrifuge rotors shall be balanced each time they are used.  Centrifuges should be 
+cleaned in accordance with manufacturer’s instructions.  Always close the 
+centrifuge lid during operation, and do not leave the centrifuge until full operating 
+speed is attained and the machine appears to be running safely  without vibration.  
+Stop the centrifuge immediately and check the load balances if vibration occurs.  
+Check swing-out buckets for clearance and support.  
+ 
+C. Electrical Equipment  
+Electrical equipment shall be inspected and approved for service by the Bio-
+Medical Department prior to initial use. Electrical grounding for laboratory 
+equipment is adequate and checked for current leakage before initial use, after OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 12 of 18 
+LBA200 
+repair or modification, and when a problem is suspected.  If manufacturer’s 
+recommendations for grounding are available, they must be followed. 
+ 
+Electrical extension cords should be avoided, where practical, by installing 
+additional electrical outlets. When extension cords  or power strips  are used, they 
+will be medical grade and supplied by the Plant Mana gement department.  Power 
+strips will be mounted off the floor and extension cords will be kept as short as 
+practical to avoid tripping hazard and tangles.  Electrical cords on equipment shall 
+be discarded or repaired if frayed or damaged.   
+ 
+Electrical equipment should be placed so as to minimize the possibility that water, 
+or chemicals could spill on it or that water could condense and enter the motor or 
+controls.  Electrical equipment should not be placed by safety showers.   
+ 
+Only qualified individuals are permitted to make electrical repairs to any kind 
+of electrical equipment. If a worker receives an electrical shock and is in contact 
+with the energized device, use nonconductive gloves or a non-conducting device to 
+pull or push the victim free from the electrical source.  Help victims only if you are 
+certain that you will not endanger your own safety.  Turn off or disconnect the 
+power source if possible.  Report a Code Blue for that laboratory section. If a trained 
+person is available, start CPR if necessary.   Get medical assistance at once.   
+ 
+D. Syringes and Scalpel Blades 
+Syringes used with hazardous agents shall have needle -locking or equivalent tips 
+to assure that the needles cannot separate during use.  Disposal of needles and 
+syringes contaminated with infectious agents are to be discarded into a 
+biohazardous sharps container. Recapping of needles potentially contaminated with 
+human blood, blood products or other potentially infectious materials is prohibited.  
+ 
+E. Glassware  
+All attempts shall be made to procure and use disposable glassware.   Defer to 
+manufacturer recommendations/specifications for obtaining any needed glassware 
+for testing. 
+Because it can be damaged in shipping, handling, or storage inspect glassware 
+carefully before using to be sure it does not have hairline cracks or chips.  Even the 
+smallest flaw renders glassware unacceptable and possibly dangerous.  Flawed 
+glassware shall be discarded in rigid, puncture-resistant sharps containers.   
+ 
+When cleaning laboratory glassware, wear appropriate gloves that have been 
+checked for tears or ho les.  Handle glassware carefully and watch out for broken 
+glass at the bottom of the sink.  A rubber or plastic mat in the sink may help 
+minimize breakage.  
+ 
+ 
+XI. LABORATORY VENTILATION   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 13 of 18 
+LBA200 
+Laboratories shall be provided with general ventilation adequate for employee comfort 
+and sufficient to supply air for chemical fume hoods and other local ventilation devices.  
+Because the general air supply is not adequate for manipulating hazardous materials on 
+an open lab bench, volatile or toxic chemicals shall be handled in a chemical fume hood 
+or other appropriate containment device.  
+ 
+A. General Ventilation 
+Laboratory ventilation shall change the air at least 10 times per hour, depending on 
+the nature of the laboratory work.  In special circumstances, air in laboratories shall 
+be at a negative pressure with respect to the rest of the building. Air diffusers or 
+grills shall be so designed and located as to direct the air over the laboratory 
+personnel and sweep the contaminated air away from their breathing zone.  To 
+promote uniform distribution and mixing of air in large laboratories, the supply 
+registers shall deliver the air in all directions, at a typical velocity of 20 linear feet 
+per minute.  
+ 
+Problems with general ventilation shall be reported promptly to Plant Management.  
+Adjustments or alterations to the general ventilation equipment of a laboratory shall 
+be performed only under the supervision of Plant Management.  On occasion, Plant 
+Management will issue notices of intent to perform maintenance work on the 
+ventilation system.  These notices shall be heeded, and chemical fume hoods shall 
+not be used when Plant Management is involved in repairing or adjusting the 
+ventilation system.  The supervisor of that laboratory area is responsible for 
+ensuring that the Plant Manag ement crew is informed of the hazards in the area.  
+The chemical fume hood shall be clear of toxic materials and properly 
+decontaminated before the work begins. An inventory list of chemicals removed 
+from the chemical fume hood should be available if needed. 
+ 
+B. Chemical Fume Hoods  
+A chemical fume hood is an important engineering control for preventing exposure 
+to hazardous materials.  In conjunction with sound laboratory techniques, a 
+chemical fume hood serves as an effective means for capturing toxic, carcinogenic, 
+offensive and/ o r flammable vapors, or other airborne contaminates that would 
+otherwise enter the general laboratory atmosphere.  With the sash lowered, the 
+chemical fume hood also forms a physical barrier to protect workers from hazards 
+such as chemical splashes or spray s, fires, and minor explosions.  Chemical fume 
+hoods may also provide effective containment for accidental spills of chemicals, 
+although this is not their primary purpose.  The deliberate release and venting of 
+chemicals (i.e. evaporation) in chemical fume hoods shall never be used as a means 
+of disposal. 
+ 
+Turbulence is the greatest enemy to proper chemical fume hood operation. 
+Turbulence can lead to back spill of contaminates out of the chemical fume hood.  
+The operator has significant control over the fac tors that cause turbulence and, 
+consequently, the chemical fume hood’s capture efficiency.   For example, 
+chemical fume hoods are not meant for storage of chemicals.  Storing chemical OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 14 of 18 
+LBA200 
+containers and equipment in a chemical fume hood impairs its performance .  The 
+containers and equipment create turbulence as airflow is diverted around them. 
+Volatile, odorous chemicals and highly toxic gases shall be stored in ventilated 
+cabinets.  Turbulence is also created at the face of the chemical fume hood when 
+obstacles to air flow such as containers and equipment are too close to the sash.  
+Containers and equipment should always be moved six inches back from the inner 
+edge of the air sill. This practice can reduce vapor concentrations at the chemical 
+fume hood face by about 90 percent.  
+ 
+Even the movement of one’s hands can interrupt air flow patterns and disturb proper 
+circulation of exhaust air.  When reaching into the chemical fume hood, take care 
+to move your hand slowly with smooth gestures and no jerking.  If work ing at a 
+chemical fume hood with a horizontal sash, use one of the panes as a barrier to 
+splashes. Position the pane directly in front of you and move your hands on opposite 
+sides of the pane.   
+ 
+Chemical fume hood performance is also dependent on the room’s air flow pattern, 
+including air flow generated by drafts and persons working nearby.  Minimize 
+traffic and opening and closing of doors near the chemical fume hood.  When the 
+chemical fume hood is in use, the sashes should be pulled down as far as workable 
+for minimal external airflow interference and maximum barrier protection. 
+Chemical fume hoods shall be evaluated for performance upon installation and 
+following any alterations.  Any problems with hood ventilation or air flow should 
+be reported to Plant Management for inspection and evaluation.  Refer to the 
+Chemical Hygiene Plan  for further information regarding the operation of fume 
+hoods.  
+ 
+XII. SAFETY SHOWERS   
+Safety sho wers shall be installed in all areas where employees may be exposed to 
+splashes or spills of materials that may be injurious to the eyes and body.  As a general 
+rule, new shower installations shall adhere to the recommendation for shower location 
+and minimum performance requirements established in American National Standards 
+Institute Z-358.15.5.2.  Showers shall be placed as close to the hazard as possible, but 
+in no case more than 10 seconds travel time from the hazard.  Plant Management shall 
+ensure that safety showers are installed in the department where needed.  
+Every laboratory employee shall be instructed in the location(s) and use of a safety 
+shower.  Ideally, a person should be able to find the shower with his or her eyes closed.  
+Safety showers shall provide a minimum of 20 gallons of water per minute and deliver 
+the volume at a low velocity; a high -velocity shower could further damage injured 
+tissue.  Ideally, the water temperature of the shower should be tepid to prevent pain or 
+shock to a person standing under it for 1 5 minutes. Showers shall have quick opening 
+valves with a delta bar or large ring within easy reach, but not so low as to be in the 
+way.  
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 15 of 18 
+LBA200 
+Flammable–liquid cabinets or other hazardous equipment or material shall not be 
+placed near a safety shower, and access to the shower or the activating handle shall not 
+be impeded.  The floor shall be clear in a 3-inch diameter area under the shower.  
+Plumbed safety showers and eye wash stations shall be tested and inspected on a routine 
+schedule.  Showers require monthl y activation whereas eyewash stations require 
+weekly activation and checks.  Inspection includes a visual check of visible plumbing 
+and verification of proper operation.  Specific departmental staff perform these routine 
+checks.  Lab Safety coordinator maintains the related records.  
+ 
+XIII. EYEWASH FOUNTAIN  
+Eyewash fountains providing a continuous, low pressure stream of aerated water shall 
+be provided in each laboratory in which chemical or biological agents are used or 
+stored. The eyewash shall be easily acces sible from any part of the laboratory.  If 
+possible, the eyewash should be located near the safety shower so that, if necessary, 
+the eyes can be washed while the body is showered.  Gravity -feed eyewash devices 
+(wall-mounted or on mobile carts) are not recommended unless they provide adequate 
+water supply for 15 minutes of eye washing and the stored water is treated so that it 
+does not become contaminated.  For such units, a documented monthly maintenance 
+program shall be established to ensure that the water supply remains in satisfactory and 
+usable conditions.  Bottle -type portable eyewashes are not acceptable, as they do not 
+have the capacity to deliver 0.4 gallons of water per minute. Eyewash stations are 
+located next to safety showers.   
+ 
+XIV. LABORATORY SINKS AND DRAIN TRAPS  
+Every laboratory using chemical or biological agents shall have at least one sink, 
+preferably located near the room exit, available for hand washing.  This sink will not 
+be used for any other laboratory purpose such as glassware cleaning or waste disposal.  
+The sink shall be cleaned regularly to eliminate contamination, and soap shall be 
+supplied for hand washing.   
+ 
+Drain traps in sinks, floors, and other places will dry out if they are not used regularly, 
+allowing odors and contamination to back up into the room.  Drain traps shall be kept 
+filled with water to prevent backup.  Also fill cup sinks on benches and in chemical 
+fume hoods.  
+ 
+XV. ULTRAVIOLET LIGHT 
+Germicidal lamps using ultraviolet light are common fixtures in biolo gical safety 
+cabinets; where they serve to destroy bacteria and molds.  These lamps are considered 
+a high-level source of UV radiation; exposure to the lamps without adequate personal 
+protection could result in skin or eye injury. 
+Acute skin effects due to  direct UV exposure vary with dose.  Dermal effect s include 
+erythema (sunburn), increase in pigmentation (sun tanning), and hyperplasia (increase 
+in epidermal cell growth, resulting in enlargement of tissue).  UV radiation may also 
+increase the cutaneous effects of certain solvents and photosensitizing chemicals.   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 16 of 18 
+LBA200 
+A great concern with UV eye exposure is that the victim is often unaware that damage 
+is occurring.  Usually, no pain develops from the eye injury until four to six hours after 
+the exposure.  The only way to prevent injury is to minimize eye exposure to UV light.  
+Appropriate protection against UV exposure includes long sleeves and laboratory 
+gloves.  For individuals particularly sensitive to UV light, suntan lotion on the exposed 
+skin of the face is recommended.  ANSI approved shaded eye protection with side 
+enclosures should be worn in the vicinity of a UV light fixture not shielded by a 
+physical barrier.  
+ 
+XVI. EXCESSIVE NOISE 
+Laboratory equipment and instruments have associated noises from gears and blowers 
+to motors and alarms.  If excessive noise levels are indicated (for example, people must 
+shout to be heard) or i n the event of any complaint, the laboratory will contact pla nt 
+services to measure the sound levels . If sound levels equal or exceed an 8 -hour time-
+weighted average of 85 decibels, the laboratory will implement a corrective action plan.  
+The facility may be required to supply ear plugs or install sound barriers if available. 
+ 
+XVII. ERGONOMICS 
+The laboratory will be a workplace that is designed to provide a safe environment with 
+available support and information.  Staff activities and education are performed to 
+reduce the risk of injury and improve the comfort of the work environment.  Ergonomic 
+activities are under the direction of each lab manager, supervisor, and lab compliance 
+officer.  It is the responsibility of the employees, the laboratory, and the facility to 
+follow good ergonomic practices and to make improvements  in the workplace.  
+Employees are provided with  initial and ongoing education/information in 
+recommended ergonomic practices.  Employees reporting discomfort or pain will be 
+referred to Employee Health and Risk Management.  Risk Management will schedule 
+an ergonomic assessment to be performed by the Acute Physical Management 
+Department.  The lab will make any recommended changes needed and will 
+accommodate all work restrictions for employees under medical supervision.  The 
+organization will provide employee health support if needed and will provide medical 
+treatment if needed.  See LBA200-A for Lab Ergonomic Tips. 
+ 
+XVIII. LOSS OF UTILITIES AND COMMUNICATION 
+A Laboratory Administrator or after -hours charge tech  will organize communication 
+between sections and nursin g service utilizing clerks, secretaries, phlebotomy 
+technicians and other available employees as needed. 
+• Electricity  
+OLOLRMC maintains back-up power supply at all times by gas generators, which 
+are tested monthly .  A  short delay should be followed by powering up of the 
+facility’s back-up generator power.  All instrumentation should be plugged into the 
+red emergency outlets available in each section.    
+ 
+A. Water and Fuel Shortage   
+Turn off equipment requiring an adequate water supply.  Make arrangements with 
+Plant Management for water requirements.    OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 17 of 18 
+LBA200 
+ 
+B. Communications  
+When systems fail, then one or a combination of the following systems may 
+accomplish communication: 
+a. Cellular telephones 
+b. Laboratory/Hospital computer system including voalte phones 
+c. Fax machines 
+d. Laboratory courier 
+ 
+XIX. TRAINING 
+Each individual working in a laboratory where hazardous materials are used shall 
+know and comply with laboratory and medical center safety rules and follow both 
+written and oral instructions from supervisory staff.  Training is required under the 
+OSHA Hazard Communication Standard, the OSHA Bloodborne Pathogens Standard, 
+and various general industry standards such as OSHA Respiratory Protection 
+Standard.  Medical center policy prohibits persons without appropriate training from 
+working in laboratories and other areas where hazardous chemical and biological 
+agents are used.  Federal law mandates training at the time of initial assignment to a 
+laboratory or work area where exposure to these hazards is possible.   Additional 
+training is required on introduction of a new chemical or biological exposure hazard 
+or new or modified task and procedures which affect occupational exposure. 
+Refresher training shall be conducted annually for employees working in areas of 
+potential exposure to chemical hazards and bloodborne pathogens. Employees are to 
+report any unsafe condition and any accident or exposure to chemicals or biological 
+agents.  If the employee receives no responses or an unsatisfactory response, (s)he 
+shall contact the Laboratory Safety Coordinator or Laboratory Compliance Officer, 
+who will ensure confidentiality for the employee.  
+Supervisors shall ensure that laboratory personnel are properly trained and shall 
+verify that training is complete on the Employee training transcripts, initial training 
+checklists, and competency assessment checklists where applicable. 
+ 
+ 
+REFERENCES 
+OSHA General Industry Standards, 29 CFR 1910.  Prudent Practices in the laboratory,  
+Handling and Disposal of Chemicals (published by the National Research Council) 
+ 
+ASSOCIATED POLICIES 
+MIC.GEN.II.B.1 – Biosafety 
+LBA034 - Laboratory Quality Control and Quality Assurance 
+LBA030 – Laboratory Personnel Dress Code 
+LBA202 - Chemical Hygiene Plan 
+LBA201 - Exposure Control Plan 
+LBA204 – Lab Emergency Preparedness 
+CHMP-C-004 – Glassware Cleaning 
+LBA413 - Transport of Biohazardous/Non-Biohazard Materials – Contract Services 
+LBA414 - Transport of Biohazardous/Non-Biohazard Materials – LLS Personnel 
+ OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 18 of 18 
+LBA200 
+REVISIONS 
+8/2009 (created), 3/2015, 8/25/17, 11/21/19, 3/10/2022,8/2/2023. 
+ 

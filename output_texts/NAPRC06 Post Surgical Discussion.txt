@@ -1,0 +1,143 @@
+Policy & Procedure Manual  
+Administrative Page 1 of 3 
+                                                                                     
+Our Lady of the Lake Cancer Institute 
+Policy Manual: Policies and 
+Procedures/Organizational  Section: Oncology 
+Title: 
+Rectal Cancer Multidisciplinary Team 
+Treatment Outcome Discussion and 
+Summary 
+Policy 
+Reference #: 
+NAPRC06 Post Surgical 
+Discussion 
+Standards 5.11 & 5.12 
+Supersedes #: Standards 2.11 & 2.12 
+Date of Origination: November 22, 2017 Review Date: March 25, 2024 
+Revision Date: March 25, 2024 
+ 
+ 
+PURPOSE:  
+  
+To provide guidelines for individualized post-surgical treatment outcome discussion for all rectal cancer 
+patients surgically treated at Our Lady of the Lake (OLOL) Cancer Institute and develop a standardized 
+Post-Surgical Treatment Outcome Discussion Summary. This policy addresses National Accreditation 
+Program for Rectal Cancer (NAPRC) Standard 5.11 and 5.12. 
+ 
+POLICY: 
+ 
+A. After completion of definitive surgical treatment, rectal cancer patients treated at OLOL Cancer 
+Institute must have an individualized post-surgical treatment outcome discussion conducted at a 
+Rectal Cancer Multidisciplinary Team (RC-MDT) meeting within four weeks of the patient’s 
+definitive surgical treatment completion. The discussion is documented in the patient’s medical 
+record. 
+• If a patient receives a portion of their treatment at OLOL Cancer Institute but elects to 
+have surgery performed at an outside facility, the patient must be presented to the RC-
+MDT for a post-surgical treatment outcome discussion and a post-surgical treatment 
+outcome discussion summary must be completed in the event the Cancer Institute is still 
+managing the patient’s rectal cancer. 
+• If a patient does not have a definitive surgical resection (i.e. patient with stage IV disease 
+receiving palliative treatment), it is not required to present the patient to the Rectal MDT 
+for a Post-Surgical Treatment Outcome Discussion, but highly encouraged. If the patient 
+presented did not have surgery, the required surgical elements listed in the procedure for 
+the discussion and the summary are not applicable. 
+• If a patient undergoes total neoadjuvant therapy and is subsequently followed according 
+to the established watch and wait protocol, the patient will be presented post-treatment in 
+order for the RC-MDT to review all applicable follow-up imaging, scopes, and 
+pathology. 
+ 
+B. In the event the Rectal Cancer Program (RCP) at OLOL Cancer Institute accessions 100 or more 
+cases within a year, the RCP Director may develop criteria to determine which patients must be 
+presented at the RC-MDT for a treatment outcome discussion. At least 100 cases must be 
+presented for treatment outcome discussion each year. 
+ Policy & Procedure Manual  
+Administrative Page 2 of 3 
+C. The post-surgical treatment outcome discussion summary must be provided to the patient’s 
+treating physicians within four weeks of the RC-MDT treatment outcome discussion and recorded 
+in the patient’s medical record for at least 50% of patients. 
+ 
+ 
+ 
+PROCEDURE:  
+ 
+A. The RCP Coordinator monitors and records the date of the patient’s surgery on the NAPRC 
+Patient Tracking Spreadsheet to ensure the patient is presented to the RC-MDT for a Post-
+Surgical Treatment Outcome Discussion within four weeks of definitive surgical treatment. 
+ 
+B. The RC-MDT Post-Surgical Treatment Outcome Discussion must include, but is not limited 
+to:  
+1. Pre-surgical Evaluation and Treatment 
+• Clinical stage according to American Joint Committee on Cancer (AJCC) 
+• Neoadjuvant therapy 
+2.  Review of the outcome of the surgery 
+• Proctectomy or local excision 
+• Approach (open, laparoscopic, robotic) 
+• Presence or absence of stoma and type of stoma 
+• Postoperative complications that may impact further treatment 
+• Unexpected findings (for example, metastatic disease, adjacent organ involvement, 
+grossly involved margins after resection) 
+• Specimen photographs  
+3.  Review of the final pathology report and stage 
+• CRM and distal margin status 
+• Tumor regression grade 
+• Mesorectal grade 
+• Pathological stage according to the AJCC 
+4. Recommendation for adjuvant treatment 
+• Adjuvant therapy regimen, when indicated 
+• Referral to medical oncology, when indicated 
+• Referral to radiation oncology, when indicated 
+• Palliative care, when indicated 
+ 
+C. The moderating physician and the RCP Coordinator complete Post-Surgical Treatment 
+Outcome Discussion Forms for each case presented to ensure all required elements listed 
+above are discussed. 
+D. The RCP Coordinator documents the date the patient is presented to the RC-MDT for a Post-
+Surgical Treatment Outcome Discussion, and which physician presented the case, in the Post-
+Surgical Treatment Outcome Discussion Summary recorded in the patient’s medical record. 
+ 
+E. The RCP Coordinator completes the Post-Surgical Treatment Outcome Discussion Summary 
+in the patient’s electronic health record (EHR), EPIC, then routes the completed summary to 
+the physician who presented the case to review and cosign. Once the presenting physician co-
+signs the document, the RCP Coordinator sends the summary to the primary care and/or 
+referring physician, other physicians involved in the patient’s care, and patient navigation, via 
+inbox, mail, or fax through the EPIC EHR. Policy & Procedure Manual  
+Administrative Page 3 of 3 
+ 
+F. The Post-Surgical Treatment Outcome Discussion Summary must include, but is not limited 
+to, the following information: 
+• Clinical (pretreatment) stage according to American Joint Committee on Cancer 
+(AJCC) 
+• Pretreatment CEA level 
+• Neoadjuvant therapy before surgery 
+• Type of neoadjuvant therapy 
+• Neoadjuvant therapy date of completion 
+• Surgical procedure 
+• Date of surgery 
+• Final pathological stage or posttherapy y-pathological stage according to AJCC 
+• Tumor Regression Grade 
+• Microsatellite instability status 
+• Circumferential Resection Margin 
+• Distal Resection Margin 
+• Mesorectal Grade 
+• Recommendation for adjuvant therapy and, if applicable, adjuvant therapy regimen  
+ 
+G. The RCP Coordinator tracks the date of the Post-Surgical Treatment Outcome Discussion, as 
+well as, the date the Post-Surgical Treatment Outcome Discussion Summary is completed, 
+and the date it is provided to the patient’s treating physician on the NAPRC Patient Tracking 
+spreadsheet. 
+ 
+ 
+CHART REVIEW:  
+ 
+• At a minimum, the RCP Director reviews a random sample of 20 percent of eligible patient 
+medical records or a maximum of 100 cases each calendar year to evaluate compliance. The RCP 
+Director may delegate this review to an appropriately credentialed physician member of the RC-
+MDT. For any result that does not meet the required percentages as listed in the rating criteria 
+section, an action plan must be developed and implemented. 
+ 
+  
+SUPPORTING DOCUMENTS: 
+Commission on Cancer, National Accreditation Program for Rectal Cancer 2020, Standard 5.11 and 5.12.  
+ 
+ 

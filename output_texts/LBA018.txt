@@ -1,0 +1,168 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 1 of 4 
+LBA018 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA018 
+CRITICAL VALUES 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 10/21/2020 1/11/2021 1/11/2021 
+Blood Donor Service and Core Lab Director Review J Teague 1/8/2021 Origination Date 
+Outreach Director Review N/A – Outreach Dept retired 7/2020 N/A 3/23/15 
+Laboratory Medical Director Review A Harton 1/3/2021  
+ 
+ 
+I. PURPOSE  
+To provide guidelines for the timeliness of reporting diagnostic critical results to the 
+licensed healthcare provider that can act on the results. 
+ 
+II. DEFINITIONS 
+A. Physician/designee (responsible licensed caregiver) - is the on-call physician, 
+physician assistant, nurse practitioner or physician office nurse/staff who has 
+been permitted to accept the results immediately and relay to the ordering 
+physician. This may include, but is not limited to, physicians, physician’s 
+assistants, registered nurses, licensed practical nurses, certified registered nurse 
+practitioners, and certified registered nurse anesthetists.  
+B. Critical (Panic) Value/Results – These are tests that have a defined upper or 
+lower limit panic or critical value or a critical finding that could significantly 
+impact a patient’s well-being.  These are generally considered to be the initial 
+first-time diagnostic results that are considered to be immediately or potentially 
+life, limb or organ threatening, thus requiring an urgent response. 
+C. Other diagnostic test results that are not included in the policy but may be 
+defined as Critical based on a clinical situation, changes in results, or any other 
+outstanding Clinical monitoring result that requires urgent response are to be 
+handled the same as Critical test results. 
+III. POLICY 
+A. Critical Values are determined by OLOL Medical Executive Committee (MEC). 
+B. Critical values are flagged in the Computer system.   
+C. All initial first-time Critical (Panic) Value test results require a call to the 
+patient’s physician/designee.  (see OrgClin 044 for OLOLRMC Main Lab and 
+Affiliate Labs approved list of tests with critical results)  
+D. A verbal read back with confirmation of accuracy is performed and documented 
+in the computer.   OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 2 of 4 
+LBA018 
+E. Inpatients 
+1. Inpatient critical values/results are to be reported to the physician/designee 
+within 15 minutes of being resulted.  
+2. When the Inpatient’s test results remain within the Critical (Panic) Value 
+range within a 48-hour period the results are not called, unless requested by 
+a physician. These results are posted with a statement indicating results 
+match previous test results.  
+3. When a significant change in the patient’s test results occurs within 48 hours 
+the result is called. 
+F. Outpatients 
+1. Outpatient critical values/results are to be reported to the physician or 
+physician’s designee within 30 minutes of being resulted.  
+2. ALL Critical (Panic) results are called for Outpatients. 
+IV. PROCEDURE 
+A. TESTING - The Medical Technologist determines the validity of the critical 
+test result: 
+1. by repeating the test, 
+2. by checking for specimen issues (ex. hemolysis, clots, QNS, over- or under-
+filled tubes, mislabeling) when indicated, 
+3. by testing of controls or calibrators when indicated.   
+B. Exceptions to repeat testing:     
+1. If a similar critical result has already been reported.  
+2. If there is a previous test result and no delta check occurs. 
+3. Elevated troponin result. 
+Note:  Some abnormal chemistry tests automatically repeat (ex. NA, calcium). 
+C. Within the designated time frame (inpatients: 15 minutes, outpatients: 30 
+minutes) of determining this to be a valid laboratory test result, the tech directly 
+communicates the report to the patient’s caregiver.  See “Documenting Critical 
+Results Notification” Job Aid. 
+D. INPATIENTS - Laboratory personnel will call the physician/designee 
+responsible for the patient upon the identification of all critical values/results. 
+1. Call the report to the appropriate healthcare provider and document in 
+Comm Log.  See “Documenting Critical Results Notification” Job Aid. 
+a. Record First and Last name of the physician/designee to whom the result 
+was called beneath the critical result information. 
+b. Ask the receiver of the report to Read Back (RB) the values called.  
+2. If the patient’s nurse cannot take the call results can be given to the unit’s    OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 3 of 4 
+LBA018 
+charge nurse, nurse manager, or house manager.   
+3. Discharged Inpatients call critical results to the ordering physician’s office. 
+4. If the ordering physician was a hospitalist, call hospital medicine to report 
+result. 
+5. Discharged ER patients - call critical results to ER. 
+6. Livingston ER and North Baton Rouge ER departments referring testing to 
+OLOLRMC Main Lab should be treated as Inpatient departments of 
+OLOLRMC and critical results will be called to the respective ER’s as 
+outlined in this section. 
+7. If test is referred from one FMOLHS facility to another that has an in-house 
+lab - call the criticals to the lab who will then contact the appropriate 
+caregiver.   
+E. OUTPATIENTS - Call the report to the client or physician/designee. 
+1. Call the report to the appropriate physician/designee and document in Comm 
+Log. See “Documenting Critical Results Notification” Job Aid. 
+a. Record First and Last name of the physician/designee to whom the result 
+was called. 
+b. Ask the receiver of the report to Read Back (RB) the values called. 
+2. If ordered by a physician office, the office is called, and results are given to 
+a caregiver/designee. If the office/clinic is open, but the doctor or nurse 
+cannot take the phone call, the Technologist can give the result to a 
+designated staff member who will report to the caregiver immediately.  
+Document all information.   
+3. If ordered by an outreach site such as a nursing home or a home health 
+agency, the critical result is called to the caregiver there, who will then 
+contact the physician. 
+4. If test is referred by an Outpatient facility that has an in-house lab - call 
+the criticals to the lab who will then contact the appropriate caregiver.   
+5. If the ordering physician cannot be reached, continue trying to contact the 
+physician/designee on-call for that group, or an appropriate representative 
+for the physician.   
+a. Continue trying to call until successful or office closed. 
+b. Document individually in Comm Log each attempt to notify the 
+appropriate person; defer to AM after 3 failed attempts.   
+c. Document each time you get “no answer”.   
+d. Leave for supervisor to have called in the A.M. if 3-11 or 11-7 is    
+unsuccessful.   OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+  Page 4 of 4 
+LBA018 
+e. It is against Laboratory and Hospital policy to release diagnostic 
+testing results to an answering service or voicemail – no matter the 
+circumstances. 
+F. POINT-OF-CARE TESTING   
+If the test is not performed by the licensed caregiver, the results are 
+communicated by the test operator to the caregiver within 15 minutes.  
+Communication and documentation requirements are followed as stated in this 
+procedure and in the POC procedure manual. 
+ 
+G. REFUSAL TO ACCEPT VALUES  
+1. Notify the Department Supervisor or pathologist on-call (after hours) of the 
+refusal.  Department Supervisor and/or the pathologist will give the tech 
+further instructions on contacting an MD.  
+2. Document all calls, attempts, and refusals in Epic.  
+H. CRITICAL RESULT MONITORING 
+In the Lab, critical result monitoring is done by the department supervisor or 
+senior tech using the Supervisor Review of Criticals Follow-up Task List.  
+1. All critical results are monitored for appropriate documentation and call 
+times.  
+2. All information is reported in the monthly laboratory PI data. 
+3. Nursing documentation and times are monitored by medical record review 
+performed in the organization’s Quality Department.   
+ 
+Refer to OLOLRMC Organizational Policy- OrgClin/044 for the current approved 
+list of CRITICAL VALUES / RESULTS.  This list applies to OLOLRMC Lab and 
+Affiliate Labs and is additionally listed on lab form LBA018-A – OLOLRMC and 
+Affiliate Labs Critical Values. 
+ 
+ 
+V. REFERENCES 
+CAP Standards:  GEN.41316, COM.30000, COM.30100 
+ 
+VI. ASSOCIATED POLICIES 
+OrgClin/044 – Critical Values/Results 
+LBA026 – Infectious Disease Reporting 
+ 
+VII. REVISIONS 
+3/2015 (created), 3/30/2017, 10/21/2020 
+ 
+ 
+ 
+ 

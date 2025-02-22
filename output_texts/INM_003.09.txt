@@ -1,0 +1,65 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  Contamination Surveys Section:  Nuclear Medicine 
+Date of Origination:  July, 2003 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+January 15, 2019 
+2/2019, 1/21, 3/23, 2/24 
+Serial Code:  INM 003 
+    
+POLICY: Contamination Surveys  
+PROCEDURE:  
+Nuclear Medicine Technologists are responsible for the daily performance of area surveys and weekly 
+performance of wipe tests in all areas where radioactive materials are routinely prepared for use or 
+administered, and where radioactive materials are stored, as required by regulatory agencies. 
+ 
+WIPE TESTING AND AREA MONITORING 
+ 
+Area monitoring will be conducted within regular operating hours and on regular clinical days. 
+ 
+The area monitoring will be conducted by a registered/certified or eligible Nuclear Medicine Technologist, 
+licensed by the State of Louisiana. 
+ 
+All data from these wipe tests and area surveys will be recorded and the records retained as per LADEQ Rules 
+and Regulations. 
+ 
+Dose rate action levels have been established for these surveys.  In the event that these levels are exceeded, the 
+RSO would be notified immediately.  John Paul can be reached at (225) 603-8198. 
+ 
+DAILY AREA SURVEYS 
+ 
+The daily surveys are performed to control contamination and minimize exposure. The surveys are to be 
+performed and recorded at the end of the work day and at any time that there is an indication or suspicion of a 
+condition of uncontrolled radioactivity. 
+ 
+All radiation levels shall be measured at usual (routine) positions of technologist occupancy and compared with 
+ambient background, measured in a low background area.  
+ 
+Action level for direct survey = 2 X Bkg. @ surface 
+ 
+WEEKLY WIPE SURVEYS 
+ 
+Surveys are performed, with the use of wipes, to assay for removable contamination. The surveys are to be 
+performed and recorded at the end of the work week and at any time that there is an indication or suspicion of  2 
+removable contamination. 
+ 
+Action level for removable contamination = 2,200 disintegrations per minute **(net cpm X 9.1 = dpm) 
+ 
+All areas indicated on the department sketch and/or monitoring form will be wiped with a suitable wipe, 
+counted and compared with background, measured in a low background area. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

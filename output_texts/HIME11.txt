@@ -1,0 +1,103 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  HIM 
+Our Lady of the Lake Regional Medical Center Chapter:  3 
+Subject:  Quality Control/Validation for EPIC utilizing Hyland 
+Onbase and Media Manager 
+Section:  E 
+Date of Origination:  March, 1998 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+October 2021, December 18, 2017 
+September 14, 2003 
+May 16, 2006; July 17, 2006 
+June 26, 2009, March 25, 2015, March 
+2023 
+ 
+Serial Code:  HIME11 
+  
+PURPOSE: 
+To assure that every patient encounter in Clinical Notes is complete and only the highest quality images 
+are viewable to EPIC users. 
+ 
+POLICY: 
+It is our policy to quality review patient encounters within  a designated turnaround time of chart being 
+scanned into the system. 
+ 
+PROCEDURE: 
+1. The charts are distributed among the staff.  The oldest discharge date for inpatient and oldest admit 
+date for ambulatory and emergency is always worked first. 
+2. Double-click the Hyland Onbase Unity Client icon on the desktop. 
+3. Enter login ID and password on the Hyland Onbase Unity Client Logon Screen and press the enter 
+key.  Select Batch Scanning on the Hyland Onbase Toolbar. 
+4. Place the chart to be scanned in the tray and click the Scan button. 
+5. For every page in the chart there should be a corresponding page in the EPIC system.  Quality 
+Control is performed by verifying the chart one page at a time. For every page the following should 
+information should be verified: 
+a. The document is present 
+b. The document belongs to the correct patient and account number 
+c. The document is named correctly  
+d. The front and back of every page is present and legible 
+e. The image is correctly positioned (not upside-down)  2 
+6. Verify that the orientation of the image is correct.  If not, click on the Rotate Image button. 
+7. Illegible documents should be deleted and rescanned.  To delete a document the following steps 
+should be performed: 
+a. Select the document containing the page to be deleted 
+b. Click on red deleted pages button at the top of the Document Review Toolbar. 
+8. Delete blank and duplicate pages by doing the following: 
+a. Select the document containing the page to be deleted 
+b. Click on red deleted pages button at the top of the Document Review Toolbar. 
+9. If more than one document type is group together go to the Image Tab.  Click on Document 
+Separation.  Click and drag the documents to where they belong.  Press save and re-index.   
+10. If either side of a double-sided document is not present in the system, you will need to delete that 
+page and send it for rescan.  The following steps should be performed: 
+a. Select the document to be deleted in EPIC. 
+b. Select Send to Document Corrections 
+c. Type in Name of Requestor, Phone Number.  Click on check boxes (for reason of 
+ correction).  Add a comment for explanation of reason for correction. 
+d. Go back to Hyland Onbase and rescan the document into the system.  
+11. If one page of a multi-page perforated document is illegible, crooked or not present you must delete 
+the entire document, not just that one page.  
+12. Once a particular batch is complete, click on exit.  
+13. Place the chart in the designated box indicating the correct date of discharge for inpatient or admit 
+date for ambulatory. 
+14. Report any problems to your supervisor and any member of the management team. 
+Procedure if chart is scanned in Media Manager 
+1. Enter login ID and password in EPIC and press the enter key.  Click on the Media Manager 
+button. 
+2. Place the chart to be scanned in the tray and click the Scan button. 
+3. Search for the correct patient. 
+4. Choose an encounter, select current patient or choose an order. 
+5. Select the Encounter and verify CSN, Contact Date, Contact Type, and Admit Date.  3 
+6. Press Scan Button 
+7. Press Scan Single Sided or one of the following options 
+a. Scan Duplex 
+b. Scan Color 
+c. Scan Greyscale 
+8. Group and name each document by clicking on the document and then pressing “Select Any 
+Document.”  Click on the Document Type in the drop down menu then type in a Document 
+Description (if needed). 
+9. For every page in the chart there should be a corresponding page in the EPIC system.  Quality 
+Control is performed by verifying the chart one page at a time. For every page the following 
+should information should be verified: 
+a. The document is present 
+b. The document belongs to the correct patient and account number 
+c. The document is named correctly  
+d. The front and back of every page is present and legible 
+e. The image is correctly positioned (not upside-down) 
+10. Illegible documents should be deleted and rescanned.   
+11. Delete blank and duplicate pages 
+12. If either side of a double-sided document is not present in the system, you will need to delete that 
+page and rescan it. 
+13. If one page of a multi-page perforated document is illegible, crooked or not present you must 
+delete the entire document, not just that one page.  
+14. Once a particular batch is complete, click on Upload Images 
+15. If the whole batch needs to be deleted, please press the Discard Images button. 
+ 
+ 
+_____________________________     ________________________ 
+Scott Richard        Date 
+VP of Finance  
+ 
+ 
+ 

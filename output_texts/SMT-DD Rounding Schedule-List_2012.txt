@@ -1,0 +1,55 @@
+Sheet: Coach_Rounding Team
+nan | LEADERS | UNITS/DEPTS to ROUND ON | ROUNDING TEAM | HOME PHONE | CELL | PAGER | EXTENSION
+nan | Pattie Jackson and Dean Williams | 1N/GBC              TAU              Pharmacy              Lab                      Dietary                          PARC                  Laundry | Mary Sonier - Business Office | 456-5335 | 504-920-9948 | nan | 7773
+nan | nan | nan | Mike Mohundro - Pharmacy | 319-7146 | 907-7045 | nan | 5-8786
+nan | nan | nan | Will Holgate - Food Services | nan | nan | nan | nan
+nan | nan | nan | Plant Service Rep | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Coletta Barrett and Alice Battista | Perioperative Services            Imaging Services  ICU's                        ERs                           Cath Lab              Resp. Therapy   | Pedrina Blouin | 622-1333 | 368-7970 | 934-4840 | 6603
+nan | nan | nan | Ray Landreneau | 667.465 | 763.1046 | 935.527 | 8034
+nan | nan | nan | Crystal Barkemeyer | 636-2127 | 439-1885 | nan | 6780
+nan | nan | nan | Brand LaFrance - Pharmacy | nan | nan | nan | 5-3067
+nan | nan | nan | Jennifer Artigue | 337-754-7945 | 337-923-8865 | nan | 8847
+nan | nan | nan | Mark Sybrandt - Plant Services | nan | 229-3682 | nan | 765-8294
+nan | nan | nan | nan | nan | nan | nan | nan
+nan |  Jenny Hussey and Janice Logsdon | SDS                   Endo                  Cardiac Rehab RCU                       SPCU | Pharmacy Rep | nan | nan | nan | nan
+nan | nan | nan | Shelly Frederick - Med Staff | nan | nan | nan | 5-6304
+nan | nan | nan | Plant Service Rep | nan | nan | nan | nan
+nan | nan | nan | RCU - Dana Wallis | nan | 456-7413 | nan | 5-6865
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Heather Runnels | Rehab | Rosalind Albarado | nan | nan | nan | 5-8489
+nan | nan | nan | Pharmacy Rep | nan | nan | nan | nan
+nan | nan | nan | Plant Service Rep | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | *Nicole Telhiard and Tracie Major | Pediatrics              PICU                             St. Jude | Pharmacy Rep | nan | nan | nan | nan
+nan | nan | nan | Plant Service Rep | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Rachel Tidwell and Renee Zimmerman | Neuro                  Car 1, 2, 3    CVIU/CVAA         Chest Pain         WOC   | Maranda Pourciau - Car 2  | nan | 329-5408 | nan | 5-1703nan | nan | nan | Claire Rea | nan | nan | nan | 252-2674
+nan | nan | nan | Pharmacy Rep | nan | nan | nan | nan
+nan | nan | nan | Plant Service Rep | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Catherine Harrell and Leisa Kelly | Med 1, 2, 3,4        Dialysis           Oncology/5-West   Nephrology | Pharmacy Rep | nan | nan | nan | nan
+nan | nan | nan | Plant Service Rep | nan | nan | nan | nan
+nan | nan | nan | Bevery Nipple - 5-E | nan | 485-9173 | nan | 5-3089
+nan | nan | nan | Gena Kalil - 5-W | nan | 571-4564 | nan | 5-6427
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Lulu Ford and Kathy Moran | Ortho            Physical Med | Dawn Swanson | nan | nan | nan | 5-7674
+nan | nan | nan | Pharmacy Rep | nan | nan | nan | nan
+nan | nan | nan | Plant Service Rep | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Alison Walker and Sandy Wade | Sur 1, 2, 3 | Pharmacy Rep | nan | nan | nan | nan
+nan | nan | nan | Plant Service Rep | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | Jeff Limbocker and Sharon Doiron | LPCP                Head & Neck   Voice Balance   Plastics | Nancy Gosserand | 292.6919 | 978.0355 | nan | nan
+nan | nan | nan | Tammie Richard | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan
+nan | INSTRUCTIONS: | nan | nan | nan | nan | nan | nan
+nan |  ***If you are a Survey Escort, report to Administration and insure that your Leader partner facilitates your group's rounding process | nan | nan | nan | nan | nan | nan
+1. When the Code J is called, meet your group and/or partner at a pre-designated spot that you choose. | nan | nan | nan | nan | nan | nan | nan
+   2. For a Mock Code J: choose at least two of your assigned units to round on. For a Code J (Survey) all areas must be rounded on. | nan | nan | nan | nan | nan | nan | nan
+   3. Complete TOOL 1 (SMT-DD Rounding Form_2008), which can be found on Lakelink through Policies or Everyday Excellence Folder on the T:Drive. | nan | nan | nan | nan | nan | nan | nan
+4. All forms shall be turned in to administration immediately.  | nan | nan | nan | nan | nan | nan | nan
+5. Results will be tallied. | nan | nan | nan | nan | nan | nan | nan6. You then need to coach/share results with the key individuals & staff in the area(s) you rounded on. | nan | nan | nan | nan | nan | nan | nan
+Sheet: Sheet2
+Sheet: Sheet3

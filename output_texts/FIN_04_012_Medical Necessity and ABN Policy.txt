@@ -1,0 +1,74 @@
+  
+[Type text] 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Patient Access / Compliance 
+SUBJECT:  
+Medical Necessity and Notice of Non-
+coverage of Outpatient Services (ABN) 
+REPLACES POLICY DATED: N/A Pages 2 
+EFFECTIVE DATE:  
+July 1, 2013 
+SYSTEM POLICY NUMBER: 
+FIN.04.012 
+Revised date:  October 22, 2015; Jan 2018  
+ 
+SCOPE: 
+Applies to Patient Access associates across FMOL Health System and its wholly owned 
+subsidiaries (“Entity”) licensed as hospitals.  
+PURPOSE: 
+The purpose of this policy is to establish a standardized process for medical necessity screening 
+of all outpatient tests or services when Medicare is the primary payer for purposes of providing 
+an Advance Beneficiary Notice to the patient when necessary. 
+DEFINITIONS:  
+•  “Medical necessity” for ordering and providing services means that the tests, drugs, 
+items or services are necessary; 
+POLICY: 
+Prior to furnishing outpatient services ordered by a physician for a Medicare beneficiary, FMOL 
+Hospitals must screen for M edical Necessity (MN).  When a test or service does not meet MN, 
+the Medicare beneficiary shall be given an ABN before receiving the service. 
+ 
+PROCEDURE:  
+• Hospital Implementation 
+o All orders for outpatient services, drugs, or diagnostic tests, shall be accompanied 
+and supported by a physician-documented diagnosis prior to the services being 
+furnished.   
+o FMOL Hospital personnel shall screen all outpatient tests or services ordered for 
+Medicare patients using the FMOLHS-approved medical necessity screening 
+software prior to providing the tests, drugs, or services. 
+o When services fail MN, staff should notify the physician and ask if there is 
+another diagnosis code that would justify the test.  If there is another valid 
+diagnosis, the staff will request a revised order from the physician, and the staff 
+  
+[Type text] 
+ 
+will rerun the medical necessity check.  If there is not another valid diagnosis (or 
+if the revised diagnosis fails medical necessity), the staff member will issue an 
+Advance Beneficiary Notice (ABN) to the patient. 
+▪ The ABN form shall not be modified or customized except as permitted in 
+the Medicare Claims Processing Manual, CMS Pub. 100-4, Chapter 30, 
+50.6.2.  
+▪ The ABN shall be given in advance of provision of the potentially non-
+covered services to allow the beneficiary to consider available options. 
+▪ An ABN shall not be given when a beneficiary is in a medical emergency 
+or under duress, or otherwise could not be expected to make a reasonably 
+informed consumer decision regarding the services and resulting financial 
+responsibility. 
+▪  FMOL Hospitals shall not provide ABNs unless there is a reasonable 
+expectation the test, service, or drug will be provided and that the 
+Medicare program will not cover the items or service. 
+▪ FMOL Hospitals shall scan the signed ABN into the hospital-approved 
+archiving/ scanning software. 
+▪ If a patient refuses to sign an ABN that has been presented pursuant to 
+this policy or refuses to select an option on the ABN, FMOL personnel 
+shall document the refusal on the form and scan to the patient record. 
+o The Hospital is responsible for auditing and monitoring compliance with this 
+policy, as well as implementing action plans. 
+ 
+REFERENCES:  
+• Medicare Claims Processing Manual, CMS Pub. 100-4, Chapter 30, 50.6.2.  
+•  Form CMS-R-131 (03/11) - Attached 
+ 
+ 

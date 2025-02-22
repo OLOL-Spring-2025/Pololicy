@@ -1,0 +1,405 @@
+1 
+ 
+ FMOLHS Information Technology (IT) Policy Summation 
+All FMOLHS IT Policies are managed by the FMOLHS IT Security Department 
+ 
+Where are the IT policies located? 
+ 
+All FMOLHS Information Technology Policies are located on the Enterprise Policies Site > FMOLHS > Information 
+Technology.  Some Policies reference a Baseline Security Control Standard (BSCS).  This document is located on 
+the ISSC Page under documents/FAQ. 
+ 
+ 
+FMOLHS Information Technology Policy Summation 
+ 
+All FMOLHS Security policies follow the HHS/OCR HIPAA Security standards. Below is a summation of FMOLHS 
+policies as they relate to the HIPAA Security standards. The full policy is available upon request. 
+ 
+Name of the 
+FMOLHS Policy 
+HIPAA Rule Brief Description of the Policy/HIPAA Rule 
+IS.01.000 Security 
+Management 
+Process 
+§ 164.308(a)(1) Implement policies and procedures to prevent, detect, contain and 
+correct security violations. 
+IS.01.001 Risk 
+Analysis Policy - § 
+164.308(a)(1)(ii)(A) 
+§ 164.308(a)(1)(ii)(A) Conduct an accurate and thorough assessment of the potential 
+risks and vulnerabilities to the confidentiality, integrity, and 
+availability of electronic protected health information held by the 
+covered entity. 
+IS.01.002 Risk 
+Management Policy 
+§ 164.308(a)(1)(ii)(B) Implement security measures sufficient to reduce risks and 
+vulnerabilities to a reasonable and appropriate level to comply with 
+§164.306(a). 
+IS.01.003 Sanction 
+Policy 
+§ 164.308(a)(1)(ii)(C) Apply appropriate sanctions against workforce members who fail to 
+comply with the security policies and procedures of the covered 
+entity. 
+IS.01.004 
+Information System 
+Activity Review 
+Policy 
+§ 164.308(a)(1)(ii)(D) Implement procedures to regularly review records of information 
+system activity, such as audit logs, access reports, and security 
+incident tracking reports. 
+IS.01.005 Change 
+Management 
+n/a This policy manages the IT Change Management processes. 
+IS.02.000 Assigned 
+Security 
+§ 164.308(a)(2) Identify the security official who is responsible for the development 
+and implementation of the policies and procedures required by this 
+subpart [the Security Rule] for the entity. 
+2 
+ 
+Responsibility 
+Policy 
+IS.03.000 Workforce 
+Security Policy 
+ 
+§ 164.308(a)(3) Implement policies and procedures to ensure that all members of 
+its workforce have appropriate access to electronic protected health 
+information, as provided under [the Information Access 
+Management standard], and to prevent those workforce members 
+who do not have access under [the Information Access 
+Management standard] from obtaining access to electronic 
+protected health information. 
+IS.03.001 
+Authorization and 
+Supervision Policy 
+§ 164.308(a)(3)(ii)(A) Where the Authorization and/or Supervision implementation 
+specification is a reasonable and appropriate safeguard for a 
+covered entity, the covered entity must: 
+ 
+Implement procedures for the authorization and/or supervision of 
+workforce members who work with electronic protected health 
+information or in locations where it might be accessed. 
+IS.03.002 Workforce 
+Clearance Policy 
+§ 164.308(a)(3)(ii)(B) Covered entities need to address whether all members of the 
+workforce with authorized access to EPHI receive appropriate 
+clearances. Where the Workforce Clearance Procedure 
+implementation specification is a reasonable and appropriate 
+safeguard for a covered entity, the covered entity must: 
+ 
+Implement procedures to determine that the access of a workforce 
+member to electronic protected health information is appropriate. 
+IS.03.003 Access 
+Termination Policy 
+§ 164.308(a)(3)(ii)(C) Where the Termination Procedures implementation specification is 
+a reasonable and appropriate safeguard for a covered entity, the 
+covered entity must: 
+ 
+Implement procedures for terminating access to electronic 
+protected health information when the employment of a workforce 
+member ends or as required by determinations made as specified 
+in paragraph (a)(3)(ii)(B) [the Workforce Clearance Procedure] of 
+this section. 
+IS.04.000 
+Information Access 
+Management Policy 
+§ 164.308(a)(4) Implement policies and procedures for authorizing access to 
+electronic protected health information that are consistent with the 
+applicable requirements of subpart E of this part [the Privacy Rule]. 
+IS.04.002 Access 
+Authorization Policy  
+§ 164.308(a)(4)(ii)(B) Where this implementation standard is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Implement policies and procedures for granting access to electronic 
+protected health information, for example, through access to a 
+workstation, transaction, program, process, or other mechanism. 
+IS.04.003 Access 
+Establishment and 
+Modification Policy 
+§ 164.308(a)(4)(ii)(C) Where the Access Establishment and Modification implementation 
+specification is a reasonable and appropriate safeguard for a 
+covered entity, the covered entity must: 
+ 
+Implement policies and procedures that, based upon the entity’s 
+access authorization policies, establish, document, review, and 
+modify a user’s right of access to a workstation, transaction, 
+program, or process. 
+IS.05.000 Security 
+Awareness Training 
+Policy 
+§ 164.308(a)(5) Implement a security awareness and training program for all 
+members of its workforce (including management). 
+IS.05.001 Security 
+Reminders Policy 
+§ 164.308(a)(5)(ii)(A) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must 
+implement: 
+ 
+Periodic security updates. 3 
+ 
+IS.05.002 Malicious 
+Software Protection 
+Policy 
+§ 164.308(a)(5)(ii)(B) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must 
+implement: 
+ 
+Procedures for guarding against, detecting, and reporting malicious 
+software. 
+IS.05.003 Log-in 
+Monitoring Policy 
+§ 164.308(a)(5)(ii)(C) Where the Log-in Monitoring implementation specification is a 
+reasonable and appropriate safeguard for a covered entity, the 
+covered entity must implement: 
+ 
+Procedures for monitoring log-in attempts and reporting 
+discrepancies. 
+IS.05.004 Password 
+Management Policy 
+§ 164.308(a)(5)(ii)(D) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must 
+implement: 
+ 
+Procedures for creating, changing, and safeguarding passwords. 
+IS.06.000 Security 
+Incident Policy 
+§ 164.308(a)(6) Implement policies and procedures to address security incidents. 
+ 
+Identify and respond to suspected or known security incidents; 
+mitigate, to the extent practicable, harmful effects of security 
+incidents that are known to the covered entity; and document 
+security incidents and their outcomes. 
+IS.07.000 
+Contingency Plan 
+Policy 
+§ 164.308(a)(7) Establish (and implement as needed) policies and procedures for 
+responding to an emergency or other occurrence (for example, fire, 
+vandalism, system failure, and natural disaster) that damages 
+systems that contain electronic protected health information. 
+IS.07.001 Data 
+Backup Policy 
+§ 164.308(a)(7)(ii)(A) Establish and implement procedures to create and maintain 
+retrievable exact copies of electronic protected health information. 
+IS.07.002 Disaster 
+Recovery Policy 
+§ 164.308(a)(7)(ii)(B) Establish (and implement as needed) procedures to restore any 
+loss of data. 
+IS.07.003 
+Emergency Mode 
+Operations Policy 
+§ 164.308(a)(7)(ii)(C) Establish (and implement as needed) procedures to enable 
+continuation of critical business processes for protection of the 
+security of electronic protected health information while operating in 
+emergency mode. 
+IS.07.004 Testing 
+and Revision Policy 
+§ 164.308(a)(7)(ii)(D) Where the Testing and Revision Procedures implementation 
+specification is a reasonable and appropriate safeguard for the 
+covered entity, the covered entity must: 
+ 
+Implement procedures for periodic testing and revision of 
+contingency plans. 
+IS.07.005 
+Application and 
+Data Criticality 
+Analysis Policy 
+§ 164.308(a)(7)(ii)(E) Where this implementation specification is a reasonable and 
+appropriate safeguard for the covered entity, the covered entity 
+must: 
+ 
+Assess the relative criticality of specific applications and data in 
+support of other contingency plan components. 
+IS.08.000 Evaluation 
+and Review of 
+Security Measures 
+Policy 
+§ 164.308(a)(8) Perform a periodic technical and nontechnical evaluation, based 
+initially upon the standards implemented under this rule and 
+subsequently, in response to environmental or operations changes 
+affecting the security of electronic protected health information, that 
+establishes the extent to which an entity’s security policies and 
+procedures meet the requirements of this subpart [the Security 
+Rule]. 
+IS.09.000 Business 
+Associates Policy 
+§ 164.308(b)(1) A covered entity, in accordance with § 164.306 [the Security 
+Standards: General Rules], may permit a business associate to 
+create, receive, maintain, or transmit electronic protected health 
+information on the covered entity’s behalf only if the covered entity 
+obtains satisfactory assurances, in accordance with § 164.314(a) 4 
+ 
+[the Organizational Requirements] that the business associate will 
+appropriately safeguard the information (Emphasis added). 
+IS.10.001 
+Contingency 
+Operations Policy 
+§ 164.310(a)(2)(i) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Establish (and implement as needed) procedures that allow facility 
+access in support of restoration of lost data under the disaster 
+recovery plan and emergency mode operations plan in the event of 
+an emergency. 
+IS.10.002 Facility 
+Security Policy 
+§ 164.310(a)(2)(ii) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Implement policies and procedures to safeguard the facility and the 
+equipment therein from unauthorized physical access, tampering, 
+and theft. 
+IS.10.003 Access 
+Control and 
+Validation Policy 
+§ 164.310(a)(2)(iii) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Implement procedures to control and validate a person’s access to 
+facilities based on their role or function, including visitor control, and 
+control of access to software programs for testing and revision. 
+IS.10.004 
+Maintenance 
+Records Policy 
+§ 164.310(a)(2)(iv) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Implement policies and procedures to document repairs and 
+modifications to the physical components of a facility which are 
+related to security (for example, hardware, walls, doors and locks). 
+IS.11.000 
+Workstation Use 
+Policy 
+§ 164.310(b) A workstation is defined in the rule as an electronic computing 
+device, for example, a laptop or desktop computer, or any other 
+device that performs similar functions, and electronic media stored 
+in its immediate environment. 
+ 
+ Implement policies and procedures that specify the proper 
+functions to be performed, the manner in which those functions are 
+to be performed, and the physical attributes of the surroundings of 
+a specific workstation or class of workstation that can access 
+electronic protected health information. 
+IS.12.000 
+Workstation 
+Security Policy 
+§ 164.310(c) Implement physical safeguards for all workstations that access 
+electronic protected health information, to restrict access to 
+authorized users. 
+IS.13.001 Media 
+Disposal Policy 
+§ 164.310(d)(2)(i) Implement policies and procedures to address the final disposition 
+of electronic protected health information, and/or the hardware or 
+electronic media on which it is stored. 
+IS.13.002 Media Re-
+Use Policy 
+§ 164.310(d)(2)(ii) Implement procedures for removal of electronic protected health 
+information from electronic media before the media are made 
+available for re-use. 
+IS.13.003 Hardware 
+and Media 
+Accountability 
+Policy 
+§ 164.310(d)(2)(iii) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Maintain a record of the movements of hardware and electronic 
+media and any person responsible therefore. 
+IS.13.004 Data 
+Backup & Storage 
+Policy 
+§ 164.310(d)(2)(iv) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Create a retrievable, exact copy of electronic protected health 
+information, when needed, before movement of equipment. 
+IS.14.001 Unique 
+User I.D. Policy 
+§ 164.312(a)(2)(i) Assign a unique name and/or number for identifying and tracking 
+user identity. 5 
+ 
+IS.14.002 
+Emergency Access 
+Procedure Policy 
+§ 164.312(a)(2)(ii) Establish (and implement as needed) procedures for obtaining 
+necessary electronic protected health information during an 
+emergency. 
+IS.14.003 Automatic 
+Log-Off Policy 
+ 
+§ 164.312(a)(2)(iii) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Implement electronic procedures that terminate an electronic 
+session after a predetermined time of inactivity. 
+IS.14.004 
+Encryption & 
+Decryption Policy 
+§ 164.312(a)(2)(iv) Where this implementation specification is a reasonable and 
+appropriate safeguard for a covered entity, the covered entity must: 
+ 
+Implement a mechanism to encrypt and decrypt electronic 
+protected health information. 
+IS.15.000 Audit 
+Controls Policy 
+§ 164.312(b) Implement hardware, software, and/or procedural mechanisms that 
+record and examine activity in information systems that contain or 
+use electronic protected health information. 
+IS.16.000 Data 
+Integrity Controls 
+Policy 
+§ 164.312(c)(1) Integrity is defined in the Security Rule, at § 164.304, as the 
+property that data or information have not been altered or 
+destroyed in an unauthorized manner. 
+ 
+Implement policies and procedures to protect electronic protected 
+health information from improper alteration or destruction. 
+IS.17.000 Person or 
+Entity 
+Authentication 
+Policy - § 164.312(d) 
+§ 164.312(d) The Person or Entity Authentication standard has no 
+implementation specifications.  This standard requires a covered 
+entity to: 
+ 
+Implement procedures to verify that a person or entity seeking 
+access to electronic protected health information is the one 
+claimed. 
+IS.18.000 
+Transmission 
+Security Policy - § 
+164.312(e)(1) 
+§ 164.312(e)(1) Implement technical security measures to guard against 
+unauthorized access to electronic protected health information that 
+is being transmitted over an electronic communications network. 
+IS.100.001 Internet 
+Access and On-Line 
+Services Policy 
+ 
+IS.100.002 E-mail 
+Usage Policy 
+ Define appropriate use of Internet access and e-mail usage to 
+include, but not limited to, within the organization, on the company 
+network, with company devices and when doing business on behalf 
+of the company 
+IS.102.000 Mobile 
+Device Policy 
+ Define appropriate use of a mobile device when, but not limited to, 
+conducting company business, accessing PHI or sensitive 
+information on a mobile device 
+IS.103.000 
+Acceptable Use 
+Policy 
+ Define appropriate use of, but not limited to, resources on or off the 
+company network or behalf of the company. 
+IS.104.000 Cloud 
+Computing Policy 
+ Define appropriate use of a cloud resource to include, but not 
+limited to, access to cloud resources, sharing/storing of information 
+in the cloud and using cloud resources for computational purposes 
+IS.105.000 IS 
+Exception to 
+Policies Policy 
+ Define a process for exceptions to IS policies that cannot be met 
+due to patient safety or business/operational requirements. 
+ 

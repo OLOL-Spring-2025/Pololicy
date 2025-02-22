@@ -1,0 +1,165 @@
+Confidential & Privileged Patient Safety Work Product 
+Source: Sentinel Events, CAMH Update 2, January 2024 
+ Date Published:  2/7/2014……….. Rev: 1/2024 
+RECOMMENDATION: 
+ 
+□ Non-Sentinel: 
+o No Investigation Indicated 
+o Conduct Rapid Cycle Investigation 
+o Conduct Root Cause Analysis 
+ 
+□ Sentinel 
+o Conduct Root Cause Analysis 
+ 
+□ Physician Leader ___________________________ 
+ 
+Sentinel Event Determination Form 
+Patient Name / Age: 
+ 
+ MRN Number:  
+Date of Event / Unit:  Safety Event ID:  
+Event Description: 
+ 
+PLEASE CHECK ALL THAT APPLY (see notes on page 2 for additional guidance): 
+ 
+Sentinel Event 
+A sentinel event is a patient safety event (not primarily related to the natural 
+course of the patient’s illness or underlying condition) that reached a 
+patient and results in any of the following: 
+□ Death 
+□ Severe harm (regardless of duration of harm)                                                                                
+□ Permanent harm (regardless of harm) 
+□ Death caused by self-inflicted injurious behavior if any of the following apply: 
+• □ While in a health care setting 
+• □ Within 7 days of discharge from inpatient services 
+• □ Within 7 days of discharge from emergency department (ED) 
+• □ While receiving or within 7 days of discharge from the following 
+behavioral health care services: Day Treatment/Partial Hospitalization 
+Program (PHP/Intensive Outpatient Program (IOP), Residential, Group 
+Home, and Transitional Supportive Living 
+□ Unanticipated death of a full‐term infant 
+□ Homicide of any patient while receiving care, treatment, and services while on 
+       site at the organization/facility or while under the supervision/care of the  
+      organization 
+□ Homicide of a staff member, licensed independent practitioner, visitor, or  
+      vendor while on site at the organization/facility or while providing  
+      care/supervision to patients/clients 
+□ Any intrapartum (related to the birth process) maternal death 
+□ Severe maternal morbidity (leading to permanent harm or severe harm) 
+□ Sexual abuse / assault / forced observations / taking explicit audio, photo or  
+      video of any patient receiving care, treatment, and services while on site at  
+    the organization/facility or while under the supervision/care of the organization 
+□ Sexual abuse /assault / forced observations / taking explicit audio, photo or  
+      video of any staff member, licensed independent practitioner, visitor, or  
+      vendor while on site at the organization/facility or while providing care/ 
+      supervision to patients 
+□Physical assault (leading to death, permanent harm, or severe harm) of any 
+     patient receiving care, treatment, and services while on site at the organization/ 
+     facility or while under the supervision/care of the organization 
+□ Physical assault (leading to death, permanent harm, or severe harm) of a staff 
+     member, licensed independent practitioner, visitor, or vendor while on site at 
+     the organization/facility or while providing care/supervision to patients 
+□ Surgery or other invasive procedure performed at the wrong site, on the  
+      wrong patient, or that is the wrong (unintended) procedure for a patient 
+      regardless of the type of procedure or the magnitude of the outcome  
+□ Discharge of an infant to the wrong family 
+□ Abduction of any patient receiving care, treatment, and services 
+□ Any elopement (that is, unauthorized departure) of a patient from a staffed  
+       around-the-clock care setting (including the ED), leading to death, permanent 
+      harm, or severe harm to the patient  
+ 
+□ Administration of blood or blood products having 
+unintended ABO and non-ABO incompatibilities, hemolytic 
+transfusion reactions, or transfusions resulting in severe 
+harm, permanent harm, or death                                                        
+□ Unintended retention of a foreign object in a patient after 
+an invasive procedure, including surgery§ 
+□ Severe neonatal hyperbilirubinemia (bilirubin >30 
+       milligrams/deciliter) 
+□ Fluoroscopy resulting in permanent tissue injury when  
+       clinical and technical optimization were not implemented 
+       and/or recognized practice parameters were not followed 
+□ Any delivery of radiotherapy to the wrong patient, wrong  
+       body region, unintended procedure, or >25% above the  
+       planned radiotherapy dose 
+□ Fire, flame, or unanticipated smoke, heat, or flashes  
+       occurring during direct patient care caused by equipment  
+       operated and used by the organization. To be considered  
+       a sentinel event, equipment must be in use at the time of  
+       the event; staff do not need to be present.  
+□ Fall in a staffed-around-the-clock care setting or fall in a  
+      care setting not staffed around the clock during a time  
+       when staff are present resulting in any of the following:    
+o Any fracture, o Surgery, casting, or traction, o Required   
+consult/management or comfort care for a neurological or 
+internal injury, o A patient with coagulopathy who receives 
+blood products as a result of the fall, o Death or permanent 
+harm as a result of injuries sustained from the fall (not from 
+physiologic events causing the fall)  
+ 
+Medical Director, Patient Safety/Quality: 
+ 
+ 
+ 
+Date:  ______/_______/_______ 
+ 
+Confidential & Privileged Patient Safety Work Product 
+Source: Sentinel Events, CAMH Update 2, January 2024 
+ Date Published:  2/7/2014……….. Rev: 1/2024 
+Page 2 
+Sentinel Event Supplement and Notes 
+permanent harm An event or condition that reaches the individual, resulting in any level of harm that permanently alters and/or affects 
+an individual’s baseline health. 
+ 
+severe harm An event or condition that reaches the individual, resulting in life-threatening bodily injury (including pain or 
+disfigurement) that interferes with or results in loss of functional ability or quality of life that requires continuous phys iological 
+monitoring and/or surgery, invasive procedure, or treatment to resolve the condition.  
+ 
+sexual abuse/assault Nonconsensual sexual contact of any type with an individual. Sexual abuse includes, but is not limited to, the 
+following:  
+• Unwanted intimate touching of any kind, especially of the breasts, buttocks, or perineal area  
+• All types of sexual assault or battery, such as rape, sodomy, and coerced nudity (partial or complete)  
+• Forced observation of masturbation and/or sexually explicit images, including pornography, texts, or social media  
+• Taking sexually explicit photographs and/or audio/video recordings of an individual and maintaining and/or distributing them 
+(for example, posting on social media); this would include, but is not limited to, nudity, fondling, and/or intercourse invol ving 
+an individual  
+ 
+Generally, sexual contact is nonconsensual in the following situations:  
+• When the individual lacks the cognitive or legal ability to consent even though appearing to want the contact to occur  
+• When the individual does not want the contact to occur  
+ 
+Other examples of nonconsensual sexual contact may include but are not limited to situations where an individual is sedated, is 
+temporarily unconscious, or is in a coma. An individual’s apparent consent to engage in sexual activity is not valid if it is  obtained from 
+the individual lacking the capacity to consent, or consent is obtained through intimidation, coercion, or fear, whether it is  expressed by 
+the individual or suspected by staff. Any forced, coerced, or extorted sexual relationship, is considered  to be sexual abuse. 
+ 
+Organizations are required to conduct an investigation and protect an individual(s) from nonconsensual sexual relations anyti me the 
+organization has reason to suspect that the individual(s) does not wish to engage in sexual activity or may not have the cog nitive or legal 
+ability to consent. 
+ 
+invasive procedure A procedure in which skin or mucous membranes and/or connective tissue are incised or punctured, an instrument 
+is introduced through a natural body orifice, or foreign material is inserted into the body for diagnostic or treatment -related purposes. 
+Examples of invasive procedures include central line and chest tube insertions, biopsies and excisions, and all percutaneous proced ures 
+(for example, cardiac, electrophysiology, interventional radiology). Exclusions include venipuncture, which is defined as a c ollection of 
+blood from a vein. Note: This exclusion is still considered a patient safety event and should be reviewed by the appropriate local quality 
+and safety teams. 
+ 
+The time- period after a surgery or invasive procedure encompasses any time after the completion of final skin closure, even if the 
+patient is still in the procedural area or in the operating room under anesthesia. A failure to identify and correct an unint ended 
+retention of a foreign object prior to that point in the procedure represents a system failure, which requires analysis and redesign. It 
+also places the patient at additional risk by extending the surgical procedure and time under anesthesia. If a f oreign object (for example, 
+a needle tip or screw) is left in the patient because of a clinical determination that the relative risk to the patient of se arching for and 
+removing the object exceeds the benefit of removal, this would not be considered a revi ewable sentinel event. However, in such cases, 
+the organization shall (1) disclose to the patient the unintended retention and (2) keep a record of the retentions to identi fy trends and 
+patterns (for example, by type of procedure, by type of retained item, by manufacturer, by practitioner) that may identify opportunities 
+for improvement. 
+ 
+fire A rapid oxidation process, which is a chemical reaction resulting in the evolution of light and heat in varying intensities. Source: 
+National Fire Protection Association. NFPA 901: Standard Classifications for Incident Reporting and Fire Protection Data. Q uincy, MA: 
+NFPA, 2016. 
+ 
+severe maternal morbidity A patient safety event that occurs from the intrapartum through the immediate postpartum period (24 
+hours), requiring the transfusion of 4 or more units of packed red blood cells (PRBC) and/or admission to the intensive care unit (ICU). 
+Admission to the ICU is defined as admission to a unit that provides 24- hour medical supervision and can provide mechanical ventilation 
+or continuous vasoactive drug support. Sources: American College of Obstetrics and Gynecology, the US Centers f or Disease Control and 
+Prevention, and the Society of Maternal-Fetal Medicine. 

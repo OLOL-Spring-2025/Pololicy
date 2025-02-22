@@ -1,0 +1,76 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 1 of 2 
+PHLIS007 
+ 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLIS007 
+CANCELING PATIENT LAB ORDERS 
+       Date Issue  Date Effective Date 
+ Prepared/Revised By ZJA/LC 10/3/2017 10/3/2017 10/3/2017 
+Reviewed By LC 10/3/2017 Origination Date 
+Medical Director Review A Harton 10/22/2019 JAN 2000 
+ 
+PURPOSE: 
+Provide guidance for canceling of uncollected patient laboratory orders utilizing EPIC Hyperspace: Order Inquiry 
+ 
+Addresses: 
+Venipuncture Supervisors 
+Venipuncture Charge Techs 
+ 
+POLICY: 
+The Venipuncture Supervisor or Charge Tech may cancel unnecessary laboratory orders 
+Categories of tests cancelable include: 
+1. Duplicate orders – Laboratory patient orders that have been requested multiple times for the same test and 
+draw time 
+2. Tests ordered in error – Laboratory orders that have been identified as entry errors by Unit personnel 
+3. Unwanted orders – Laboratory orders placed by Unit personnel but changing patient condition no longer 
+warrant request processing 
+Exercise care in the canceling of patient laboratory orders.  The reason for the canceling of the order and the Unit 
+person making the request are to be noted 
+ 
+PROCEDURE: 
+A. “Lab Collect” order status 
+1. “Lab collect” orders being canceled located on the “Patient Draw List” or in the patient’s chart. 
+2. Log in to EPIC Hyperspace application 
+3. Highlight the patient in the patient draw list or look up the patient using the “Patient Station” icon 
+4. Select the “Order Inquiry” icon 
+5. Review all orders and highlight only the orders to be cancelled.  
+6. Select the “Cancel” icon 
+7. A pop-up window will appear; from the drop-down list select a reason for cancellation.  Enter any 
+additional notes (person notified on the unit) in the comment box.  
+8. Click accept to cancel selected orders. 
+B.  “In Laboratory” collection status 
+1. Tests having an “On test” status are to be canceled by department personnel 
+2. Laboratory labels with appropriate documentation are taken to department personnel for canceling 
+ 
+Limitations of Procedure: 
+1. Duplicate laboratory orders can be canceled without notification of Unit personnel 
+2. Canceling of other laboratory orders is to be confirmed by the person canceling or by the phlebotomist 
+assigned to make the patient draw OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 2 of 2 
+PHLIS007 
+ 
+ 
+3. Documentation of canceled orders 
+a. Reason for the cancellation of laboratory orders may include: 
+• Patient expired 
+• Test not wanted 
+• Ordered in error 
+• Patient refused 
+• Sample not received in laboratory 
+• Other problems interfering with collection 
+b. The cancel reason, phlebotomist Network ID, and time of contact with unit personnel is recorded 
+electronically in EPIC by the Charge Tech or Supervisor 
+c. The name of the Unit person making the cancel request is entered in the comment box in Epic 
+under the “Order Inquiry” icon 
+ 
+REVISIONS 
+01/2000 (created); 10/3/2017 
+ 

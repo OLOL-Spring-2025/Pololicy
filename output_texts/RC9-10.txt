@@ -1,0 +1,113 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Calibration Verification Material Section: Blood Gas Lab 
+Date of Origination: March 1995 Signature: 
+Date of Last Revision: February 24, 2022 Serial Code: RC9-10 
+         Reviewed:  February 24, 2022 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to verify the calibration of blood gas, electrolyte, glucose and 
+total hemoglobin systems throughout the patient reportable range.  
+ 
+EQUIPMENT: 
+A. Blood gas/electrolyte analyzer or co-oximeter 
+B. Calibration Verification Ampoule 
+C. Qualicheck Opener/Adapter 
+D.  Gloves 
+ 
+PROCEDURE: 
+A. Preparation of equipment 
+1. Calibration verification materials is provided by Radiometer for the purpose 
+of calibration verification. Calibration verification material include a low, 
+mid, and high range of the AMR. The Radiometer Qualicheck box that 
+contains the QC ampoules for ca libration verification has been stored at a 
+constant temperature (18-32°) for 5 hours. Make sure to wear gloves when 
+performing a QC measurement. 
+2.         Perform scheduled maintenance on the analyzer. 
+3. Calibrate the analyzer.  
+4. Verify that quality control results do not indicate a problem with the 
+analyzer.   
+B. Instructions for analyzing CVM 
+1. Obtain one QC ampoule from the box. Close the box . Note: the ampoules 
+are sensitive to light. 
+2. Hold the ampule  between your thumb and first finger and shake for a 
+minimum of 15 seconds. 
+3. Hold the ampoule neck-side up and tap the top until all the solution collects 
+in the lower part of the ampoule. 
+4. Put the ampoule in the Qualicheck opener/adapter. Apply pressure to break 
+open the neck of the ampoule. 
+5. Place the ampoule in the Qualicheck opener/adapter. 6. Perform a calibration-verification measurement immediately after opening 
+the ampoule.  
+7. Follow the Operator’s Manual for  performing a calibration -verification 
+measurement.  
+8. Repeat steps 1-7 for all levels. If all levels for each analyte are within the 
+performance variability, continue to repeat this sampling sequence for each 
+ABL90 Flex blood gas analyzer.  
+a. At OLOL main campus, steps 1 -8 will be repeated on every blood gas 
+analyzer in the facility.  At Livingston and North Baton Rouge campus, 
+steps 1 -8 will be repeated a minimum of three times on the same 
+analyzer for comparative results.  At OLOL -Ascension and OLOL 
+Children’s steps 1-8 will be repeated a minimum of three times on each 
+analyzers for comparative results. 
+b. After major preventative maintenance or change of a critical instrument 
+component, each level of CVM will be ran once on that analyzer to 
+verify accurate results within measurable range.  
+ 
+C. Verifying calibration of CVM 
+1. Record the results for each analyte per level.  
+2. Verify that your result is within the performance variability range listed for 
+the ABL90 Flex system provided in the packet. 
+3. If your result is not within the performance variability range, recalibrate the 
+system with a two-point calibration, and contact Radiometer for Technical 
+Assistance.   
+4.  The Analytical Measurement Range will be determined by the  following 
+method:  
+ Take the highest of the low range values for each analyte. Subtract 15% of 
+each analyte. Record each analyte value as the low Analytical Measurement 
+Range. Take the lowest of the high range of each analyte and add 15% to 
+each value. Record this as the high Analytical Measurement Range. If the 
+calculated ranges exceed the manufacturer’s reportable range, then the 
+manufacturer’s reportable range will be utilized. The Analytical 
+Measurement Range will be posted in the Blood Gas Lab at each analyzer. 
+5. Results falling outside of the Analytical Measurement Range will be 
+reported as greater than or less than the value of the analytical measurement 
+range in the EMR. The physician will be notified that the result falls outside 
+of our reportable measurement range. 
+ 
+D. Continuing the Analytical Measurement Ranges  
+1.   The initial Analytical Measurement Range (AMR) will be established using 
+the above method, and so recorded in the CAP binder (CVM tab). 
+2.  After the initial AMR is set, each time Calibration Verification Material is 
+ran, the values will be recorded in the CAP binder.  These values will then 
+be compared to the current set AMR values.  AMR values will not be 
+changed unless the high range CVM results is lower than the AMR for two 
+consecutive times, or the low range CVM results  is higher than AMR for two consecutive times. If the AMR is changed, the new AMR will be set by 
+calculating the mean value from all samples measured that is lowest or 
+highest from the Calibration Verification Material . This new AM R value 
+will be set on all like instruments within the same CAP number. 
+ 
+SPECIAL CONSIDERATIONS: 
+A. Calibration Verification must be performed every six months.  This material has 
+been approved as matrix appropriate and is obtained from the manufacturer.  
+B. Qualicheck ampoules  require refrigerat ion at 2 -8°C. Ampoules for calibration 
+verification must be stored at a constant temperature 18 -32°C for 5 hours prior to 
+analysis. 
+C. You must sample Qualicheck ampoules within 30 seconds of opening the ampule.  
+Prolonged contact with the atmosphere affects the pH, PCO2, and PO2 result.  
+D. Aspirate Qualicheck ampoules  directly into analyzer.  Do not inject or transfer 
+CVM to a syringe or capillary tube. 
+E. Excessive handling of the ampule can affect the temperature of Qualicheck 
+ampoules and cause erroneous results. 
+F.  AMR values will differ for OLOL main campus, OLOL-Ascension Campus, OLOL 
+Children’s Hospital, Lake Livingston campus and the North Baton Rouge campus. 
+ 
+ 
+ 
+ 
+ 

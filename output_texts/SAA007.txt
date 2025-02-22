@@ -1,0 +1,101 @@
+ 1 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Anesthesia 
+Title: Anesthesia – Cleaning & Disinfection of 
+Equipment 
+Policy Reference #: SAA007 
+Supersedes #: 03/00 
+Date of Origination: 09/01/1987 Review Date: 06/01/2024 
+Revision Date: 06/01/2020 
+ 
+ 
+PURPOSE: 
+To provide policy for safe care of the patient who will receive anesthesia. 
+ 
+POLICY: 
+Anesthesia machine and all ancillary equipment shall be taken care of as indicated by the following 
+procedure. 
+ 
+PROCEDURE: 
+A.        DISPOSABLES 
+1.         All items not capable of being reused will be discarded in the appropriate trash or 
+biohazard receptacle 
+2.         All disposable items, such as breathing circuits, shall be discarded after single 
+patient use. The manner of discarding should be made based on type of transmissible 
+infection (i.e. CJD) or device type (i.e lithium ion batteries or other hazardous 
+materials). 
+3.        Disposable items shall be restocked and made readily available prior to the 
+following case. 
+ 
+B.        DISINFECTION OF REUSABLE SUPPLIES 
+1.         All items not capable of being reused will be discarded in the appropriate trash or 
+biohazard receptacle.   
+2.         Used/contaminated supplies should be removed by the anesthesia technician or OR 
+staff, when no longer needed or at the end of the case, and replaced with clean 
+supplies.  
+3.         Reusable items will be cleaned and made ready for reuse with the hospital approved 
+disinfectant based on contact precautions and according to manufacturer's direction 
+4.         Any reusable items not able to be cleaned or no longer safe for patient use shall be 
+discarded in the appropriate manner. The decision to and manner of discarding 
+should be made based on type of transmissible infection (i.e. CJD) or device type 
+(i.e lithium ion batteries or other hazardous materials). 
+5.         When reusable items are discarded, a manager or supervisor must be made aware. 
+ 
+  2 
+C.        DISINFECTION OF ANESTHESIA EQUIPMENT 
+1.         External surface of machines are wiped based on contact precautions with a hospital 
+approved disinfectant after each case. 
+2.         Soda lime is changed as indicated by procedure, as indicated by color change, or for 
+any reason suspected to be non functional or contaminated. 
+a. If the color has changed from white to blue one-half way down canister. 
+b. The position of the canister may be reversed or changed out. 
+3.         All surfaces, monitoring lines, etc., are wiped with a hospital approved disinfectant 
+solution as required during procedure and after each case. 
+4.         Reusable items requiring advanced process are cleaned and disinfected or sterilized 
+according to manufacturer's directions. 
+a. Laryngoscope blades/handles & Glidescope blades when used will be 
+sterilized  
+b. Fiberoptic intubation scopes will be high level disinfected 
+ 
+D.        PATIENTS WITH INFECTIOUS RESPIRATORY DISEASES (i.e. Tuberculosis or 
+Infectious Resp Infection) 
+1.         Hepa Filters are to be used on inspiratory, expiratory, and at the Endotracheal tube. 
+If a heap/viral filter is not used, consult manufacturer’s instructions for cleaning 
+system.           
+2.         Soda lime cartridge is double sealed in two biohazard bag and discarded. 
+3.         Any disposable items that comes into contact with the airway are to be discarded by 
+double bagging with a biohazard bag after use 
+4.         Any reusable items that comes into contact with the airway should be disinfected 
+based on contact precaution at the point of use. If transport is required, item will be 
+placed into two bags (that seal closed) and marked as biohazard. 
+ 
+D.        PATIENTS WITH MALIGNANT HYPERTHERMIA 
+            1.         Should be first case of the day.  
+2.         All vaporizers are removed     
+3.         Soda lime cartridge is changed to a new cannister. 
+4.         Preparing the Anesthesia Machine per one of the following: 
+ 
+-Attach a charcoal filter. Anesthesia machine will still need to be flushed with high 
+fresh gas flows (≥ 10 L/min) for 90 seconds prior to placing the activated charcoal 
+filters on both the inspiratory and expiratory ports 
+  
+-Aisys CS2 Anesthesia machine is washed out with either oxygen or air, flush the 
+system using mechanical ventilation (700 ml tidal volume, I:E ratio of 1:2, RR of 
+12, PEEP Off, and fresh gas flow rate of 15 lpm) for 35min. 
+ 
+-For newer anesthesia workstations, this may require flowing 10 L/min of fresh gas 
+for up to 104 minutes. For older machines, flow 10 L/min of fresh gas for 20 
+minutes 
+ 
+  3 
+ 
+REFFERENCES:   
+Malignant Hyperthermia Association of the United States  
+https://www.gehealthcare.com/-/jssmedia/b19b0466551745bb95c1fd0ef933231d.pdf 
+ 
+ 

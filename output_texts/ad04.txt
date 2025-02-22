@@ -1,0 +1,116 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Emergency Services 
+Our Lady of the Lake Regional Medical Center   
+Subject:  Inpatient Admission of an Emergency Department 
+Patient  
+Section:  Administrative 
+Date of Origination:  October 17, 1994 Supersedes:  
+Date Last Revised: 
+Date Last Reviewed: 
+ January 5, 2023 
+ January 8, 2024 
+Serial Code:  AD-04 
+ PURPOSE: 
+Primary Medical : To provide guidelines for the conversion of an Emergency Department patient to 
+inpatient status.   
+Primary Psychiatric: To provide guidelines for psychiatric patients waiting for inpatient psychiatric 
+placement while in the emergency department. 
+DEFINITION: 
+Primary Medical Boarder Patient –  
+a. A patient that has active, signed inpatient admission orders and remains in the Emergency 
+Department for four hours or more. 
+b. A patient that ED provider determines need for /requests transfer from off-site ED and remains in 
+the Emergency Department for four hours or more.   
+c. COPE – Community Oriented Psychiatric Evaluation 
+d. EMBH – Emergency Mental and Behavioral Health Unit  
+POLICY: 
+Primary Medical: Once the determination has been made that a patient is to be admitted to Our Lady of 
+the Lake Regional Medical Center as an inpatient, the bed coordinator/house supervisor will be notified 
+electronically.  
+Patient name, admitting physician, service and status type, and admit diagnosis are provided for review. 
+Upon entry of inpatient admission orders, a bed request will generate for patient placement through the 
+electronic medical record.  
+ 
+Primary Psychiatric:  Once a patient has been deemed medically stable by a medical provider, and 
+psychiatric placement is necessary, the COPE team will follow policy C – 001: Coordination of 
+Inpatient Psychiatric Placement. The patient shall remain an active Emergency Department patient 
+throughout the duration of time in the Emergency Department or EMBH until transferred to a higher  2 
+level of care or discharged.  
+ 
+If the disposition of the psychiatric patient is to an Our Lady of the Lake inpatient psychiatric unit, the 
+COPE team will : 1) contact the psychiatrist on call for acceptance of the patient. The psychiatrist will 
+place sign and hold orders to be initiated once the patient arrives on the inpatient unit, 2) complete pre-
+authorization and appropriate admissions paperwork with the patient, 3) notify the patient’s nurse with 
+unit and a number to call report.  
+ 
+If the patient is accepted by an outside facility, the COPE team will notify the patient’s nurse, who will 
+ensure that the EMTALA form is completed by both the RN and a physician. The patient’s nurse will 
+then arrange for ambulance transport and call report to the RN at the receiving facility. The MD will 
+document appropriately for discharge from OLOL with transfer by ambulance to the receiving facility.  
+ 
+NURSING REPORT 
+ 
+Primary Medical and Primary Psychiatric:  
+ 
+The Emergency Nurse will provide a report of the patient's presentation, legal status (where applicable), 
+medical history, treatments and response to treatment, therapeutic interventions, medications, vital sign 
+history and a general summation of the patient's condition to the receiving clinical team. 
+ 
+The Emergency Nurse will ensure appropriate documents are transported with the patient to the 
+accepting unit. Patients admitted to inpatient areas will have the original copy of the PEC/CEC/OPC if 
+applicable.  
+ 
+TRANSPORT OF PATIENTS 
+ 
+Primary Psychiatric: Security should  assist with safe transport of the Emergency MBH patient within 
+the Regional Medical Center, Ascension, and Children’s H ospital, including transport from acute ED to 
+disposition placement within the hospital.  Qualified team members may also transfer EMBH patients as 
+appropriate for testing or discharge from the EMBH unit.  
+ 
+Transfer of MBH patients from off-site EDs utilize emergency medical service transport for patient 
+safety. Security team may be on standby for assistance/escort to /from the EMS transport vehicle.  
+ 
+MBH patients transferring from the Regional Medical Center to the TAU Center will be transported by 
+the OLOLRMC psychiatric safe van and will be escorted by no less than two qualified team members. 
+When the OLOLRMC psychiatric safe van is not available, the patient will be transferred to the Tau 
+Center by ambulance.  
+ 
+Primary Medical: An ACLS certified nurse or PALS certified nurse (as appropriate ) will accompany 
+critical care patients  within hospital . Transport of critical care patients from off-site EDs utilize 
+appropriate EMS transport as determined by ED physician.  
+ 
+The Registered Nurse will determine appropriate mode of transfer of non -critical patients  within  3 
+hospital.   Transport of patients from off-site EDs utilize appropriate means of transport as determined 
+by ED physician.    
+ 
+Boarder Patient:  
+ 
+Inpatient Orders:  
+ 
+Four hours after the admission order has been placed, the Emergency Department will manually release 
+all signed and held orders. 
+ 
+Orders requiring timely interventions (urgent, stat) prior to the four hours are to be initiated accordingly. 
+ 
+1.  Admit order immediately changes the patient’s class. 
+2.  Four hours after admit order is signed, patient automatically changes tracking board status to “ED  
+     Boarder”. There is also an alert in the patient narrator showing “ED Boarder”.  
+3.  ED Nurse manually releases all signed and held orders, initiating any relevant orders. 
+4.  Initiate care for patient (I&O, Repeat VS, Diet, ADL, etc.) 
+5.  Icon on the tracking board shows any new sign and held orders and alerts nurse to new orders. 
+6.  Nurse will need to release these orders, and potentially act on them. 
+7.  Continue this process until patient is departed from the Emergency Department. 
+ 
+Documentation: Plan of Care.   
+ 
+Documentation of Patient Care Plan by Emergency Department Nursing Team is ongoing.   The 
+Patient’s plan of care must be completed within 24 hours of inpatient status  and may be completed by 
+the receiving unit within timeframe .  The communication to the receiving unit of ED plan of care 
+supports ongoing and seamless continuity of care.     
+ 
+References: Policy C-001 
+ 
+ 
+ 
+ 
+ 

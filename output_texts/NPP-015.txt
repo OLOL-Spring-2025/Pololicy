@@ -1,0 +1,136 @@
+NPP-015 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Patient Care 
+Subject:  Tube Feedings  Section:  Patient Care 
+Date of Origination:  August 10, 1994 Supersedes: March 22, 1996 
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+April 25, 2000 
+February 28, 2025 
+Serial Code:  NPP-015 
+  
+PURPOSE: 
+Maintain a standard of care for pediatric/neonatal patients receiving tube feeding. 
+ 
+POLICY:  
+Tube Feedings are administered according to the following guidelines: 
+ 
+I. Tube Verification 
+A. Initial tube verification will be confirmed with X-ray prior to use for a feeding, excluding 
+gastrostomy devices. 
+B. For the neonate, X-ray verification is not required for orogastric/nasogastric tube placement. 
+C. Ongoing verification will be done by: 
+a. Observe for change in external tube length by noting the depth marking either at the lip or 
+nare and making sure it has not changed from the initial insertion. 
+b. Aspirate gastric contents 
+ 
+II. Continuous Infusion Method 
+A. If a tube feeding bag is utilized, no more than 4 hours of nourishment should be placed in the 
+feeding bag at any one time. 
+B. For enteral feeds less than or equal to 15mL per hour, the enteral extension set will be utilized to 
+deliver enteral feeds or human milk.  Tubing and syringe must be labeled with type of formula, 
+date and time. 
+C. The below table will be used to guide hang times.  Standard hang times will be used for changing 
+tubing, syringe and/bag.  In the event that a feeding needs to be started outside of a standard 
+time, the feeding should be started when ordered, and the nurse may use discretion to decide to 
+default to the next standard hang time for that one instance. 
+ 
+Bedside Feeding Hang Time Practices 
+Expressed human milk (with or without 
+fortifiers) 
+4 hours 
+*Syringe and tubing should be changed       
+every 4 hours. 
+Facility -prepared formulas (including any 
+formula with additives) 
+4 hours 
+*Replace syringe/feeding bag, and tubing with 
+each new hang time. 
+Sterile ready to feed (RTF) formulas 4 hours for neonates (<30 days of age) and 
+immunocompromised infants/children 
+8 hours for non-immunocompromised infants 
+(>30 days of age) and children  NPP-015 
+Page 2 of 3 
+*Replace feeding syringe/feeding bag, and 
+tubing with each new hang time.  
+Commercial closed system formulas (prefilled 
+containers) 
+May hang for 48 hours  
+*Change spike with each new container. 
+ 
+D. Use a feeding pump or controlled delivery device for continuous feeds. 
+E. Irrigate tube with 5-10mL of water for the pediatric patient (depending on the size, weight and 
+fluid status of the child), before and after medication, and after checking residual.  Irrigation of 
+the feeding tube in a neonate should be done with water or air.  The smallest amount of air or 
+water necessary to clear the tubing is recommended (usually not more than 1mL). 
+ 
+III. Bolus Method (excluding NICU patients) 
+A. Connect 60 mL syringe to tube.  Pour room temperature formula into syringe.  Unclamp tube to 
+keep a slow even flow, adding nourishment until all the feeding is administered. 
+B. After the feeding, flush tube with water using lowest volume needed to clear the device.  Use 
+sterile water with infants, immunocompromised and critically ill children. 
+C. During and after feedings elevate the head of the child’s bed.  If unable to elevate the head of the 
+bed, place child on right side to help the stomach empty and prevent aspiration.  Infants, 
+positioning should account for prevention of Sudden Unexpected Infant Death (SUID) risk and 
+the clinical condition. 
+D. All equipment used should be washed with hot water after each use. 
+ 
+IV. Intermittent Gavage  
+A. Infusion rate is per MD/NNP order.   
+B.  See table 
+C. Gastric residuals are checked if the abdomen becomes distended or firm, if the infant has 
+excessive vomiting or with an MD/NNP. 
+ 
+V. General guidelines for pediatric patients receiving tube feedings: 
+A. Gastric residual volumes will be assessed as ordered by physician. 
+B. Strict intake and output should be documented every 8 hours (3-4 hours for NICU patients) for 
+any pediatric patient receiving tube feeding.  In the neonate, diaper counts are acceptable if the 
+neonate is stable and not receiving IV fluids. 
+C. Daily weights on the same scale, in the same clothes at the same time each day are recommended 
+and should be documented.  Children under two years of age should be weighed nude 
+D. Oral care should be done every 8 hours as needed. 
+E. Abdominal girths should be documented at any time the patient’s abdomen becomes distended or 
+firm, or if the patient has excessive vomiting, or large residuals are noted. 
+F. For patients receiving human milk tube feedings, refer to policy # NPP029. 
+G. If using transpyloric feeding tube for medication administration and the medication volume is 
+greater than the hourly infusion rate, the medication should be infused over the prescribed rate 
+(not bolused).  
+H. For transpyloric and gastric/jejunal tubes, an order should be obtained specifying feeding 
+regimen and medication administration (gastric vs. jejunal). 
+I. Consult manufacturer recommendation for dwell time of nasogastric tube. 
+ 
+ 
+See Ebsco Online Resource for Enteral Nutrition Administration in a Pediatric Patient 
+ NPP-015 
+Page 3 of 3 
+ 
+Cross Referenced Policy: 
+NPP-029 Human Milk  
+ 
+REFERENCE: 
+Boullata, J.I., Carrera, A.L., Escuro, A.A., Hudson, L., Mays, A., McGinnis, C., Wessel, J.J., Bajpai, S., Beebe, 
+M.L., Kinn, T.J., Klang, M.G., Lord, L., Martin, K., Pompeii-Wolfe, C.,, Sullivan, J., Wood, A., Malone, A., 
+Guenter, P., ASPEN Safe Practices for Enteral Nutrition Therapy Task Force, American Society of Parenteral 
+and Enteral Nutrition (2017).  Journal of Parenteral and Enteral Nutrition, 41(1), 15-103.  doi: 
+10.1177/0148607116673053 
+ 
+Steele, C. & Collins, E. (Eds.).  (2019).  Infant and Pediatric Feedings:  Guidelines for Preparation Human 
+Milk and Formula in Health Care Facilities (3rd ed.).  Chicago, IL:  Academy of Nutrition and Dietetics. 
+ 
+Wong’s Nursing Care Infants and Children 12th ed. eBook, 2023 
+ 
+See Ebsco Online Resource Administering Pump-Assisted Enteral Nutrition to Pediatric Patient 
+ 
+Administering Gravity Assisted Enteral Nutrition to Pediatric Patients 
+ 
+Providing Continuous Drip Enteral Nutrition to Pediatric Patients 
+ 
+Verifying Nasogastric Tube Placement in Pediatric Patients 
+ 
+Providing Gavage Feeding to Newborns 
+ 
+Administering Medication Through a Gastric Tube to Children & Adolescents 

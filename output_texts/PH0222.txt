@@ -1,0 +1,135 @@
+   
+ 
+ Policy Reference Number 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Patient Care 
+Services 
+Title: Tikosyn® (dofetilide) Policy Reference #: PH-02-22 
+Supersedes #:  
+Date of Origination: 10/13/2014 Last Date Reviewed: 03/24/24 
+Last Date Revised: 09/02/2021 
+ 
+PURPOSE: 
+ 
+The purpose of this policy is to establish guidelines for Tikosyn® (dofetilide) administration in Our 
+Lady of the Lake (OLOL) hospital.   
+ 
+DEFINITIONS: 
+ 
+Tikosyn® (dofetilide) is a class III antiarrhythmic agent FDA approved for the maintenance of normal 
+sinus rhythm in patients with chronic atrial fibrillation or atrial flutter of longer than 1 week duration 
+who have been converted to normal sinus rhythm. Tikosyn® may also be used for conversion of atrial 
+fibrillation and atrial flutter to normal sinus rhythm. 
+ 
+POLICY: 
+ 
+A. Tikosyn® may be ordered in the hospital as a continuation of therapy from home or as a new 
+addition to the patient’s medication regimen 
+1. New initiation of Tikosyn shall only be ordered by cardiology  (including mid -level 
+providers) 
+2. Continuation of a home medication may be ordered by any service line provider. 
+ 
+B. Prior to verifying a Tikosyn® order  (continuation of home medication or new addition) , the 
+pharmacist must also review the patient’s chart to assess renal function, electrolyte status, drug -
+drug interactions, QTc interval, and appropriateness of therapy.  
+1. If no labs are available, the pharmacist shall verify and dispense one dose only and 
+subsequently order a stat BMP and magnesium level.  
+2. If serum creatinine, potassium, and magnesium are available within the previous 30 days, 
+the pharmacist shall use the reported labs for assessment of the ordered dose but ensure 
+that a BMP plus magnesium has been ordered for the following day.  
+3. Electrolytes may be ordered by pharmacist and replaced per protocol as follows:  
+ 
+ 
+Potassium Level Dose to be given 
+3.7 to 3.9 mg/dL Potassium chloride 20 mEq PO x 1 dose 
+3.0 to 3.6 mg/dL Potassium chloride 40 mEq PO x 1 dose 
+less than 3.0 mg/dL Contact provider 
+    
+ 
+ Policy Reference Number 
+Page 2 of 3 
+Magnesium Level Dose to be given 
+1.9 to 2.4 mg/dL Magnesium oxide 400mg PO x 1 dose 
+1.5 to 1.8 mg/dL Magnesium sulfate 2 gm IV x 1 dose 
+1 to 1.4 mg/dL Magnesium sulfate 4gm IV x 1 dose 
+less than 1 mg/dL Contact provider  
+ 
+C. Creatinine clearance should be calculated using the Cockcroft -Gault equation and actual body 
+weight. The provider must approve dose adjustments. The Tikosyn® dose should be adjusted for 
+renal function as follows: 
+Calculated Creatinine Clearance Tikosyn® Dose 
+> 60 ml/min 500 mcg twice daily 
+          40-60 ml/min 250 mcg twice daily 
+          20- 39 ml/min 125 mcg twice daily 
+            < 20 ml/min CONTRAINDICATED  
+ 
+D. The prescribing physician may choose to initiate Tikosyn® at a lower dose than recommended 
+based on the patient’s clinical status and baseline QTc. 
+ 
+E. Tikosyn is contraindicated with ondansetron, verapamil, hydrochlorothiazide, cimetidine, 
+ketoconazole, trimethoprim/sulfamethoxazole (or trimethoprim alone), prochlorperazine, 
+megestrol, and dolutegravir. Tikosyn is also contraindicated in patients with congenital or acquired 
+prolonged QT syndromes, a baseline QT interval or QTc greater than 440 msec (500 msec in 
+patients with ventricular conduction abnormalities), and severe re nal impairment (CrCl less than 
+20 ml/min).  
+ 
+F. Every patient initiated on Tikosyn® shall be counseled by a pharmacist and given a 7 day supply 
+of medication prior to discharge from the hospital.  
+ 
+1. Weekday Discharge: On the day of discharge, an electronic prescription for a 7 day supply 
+of Tikosyn® will be send to RXOne pharmacy where the prescription will be filled. The 
+filled prescription along with the Tikosyn® medication guide and patient education packet 
+shall be hand-delivered to the patient by the RXOne pharmacy team member responsible  
+for counseling the patient. 
+a. Upon completion of the counseling session, the patient will acknowledge receipt of 
+counseling by signing a pre-printed label, which should be returned to the RXOne 
+pharmacy and retained for records. 
+ 
+2. Weekend Discharge: for weekend discharge, the nurse will bring a prescription for a 7 day 
+supply of Tikosyn® to the inpatient pharmacy where the prescription will be filled. The 
+filled prescription along with the Tikosyn® medication guide and patient education packet 
+shall be hand-delivered to the pharmacist responsible for counseling the patient 
+a. Upon completion of the counseling session, the patient will acknowledge receipt of 
+counseling by signing a pre -printed label, which should be returned to the main 
+pharmacy and retained for records. 
+ 
+    
+ 
+ Policy Reference Number 
+Page 3 of 3 
+G. Tikosyn® initiation protocol:  
+ 
+1. Patient must be placed on telemetry and baseline QTc must be obtained.  The pharmacist 
+shall utilize an EKG obtained within the 24 hours prior to initiation.   
+a. If QTc > 440 msec, Tikosyn is contraindicated, call physician.  
+b. If QTc ≤ 440 msec, continue with initiation protocol  
+2. Calculate creatinine clearance using the Cockcroft -Gault equation for estimating 
+glomerular filtration rate. Actual body weight should be used when calculating creatinine 
+clearance. Pharmacist must contact provider for adjustments.  
+3. Pharmacist shall replace electrolytes and contact prescriber if needed.  
+4. Check QTc 2-3 hours after first dose.  
+a. If increase in QTc ≤ 15%, continue current dose.  
+b. If increase in QTc > 15% or > 500 msec, decrease dose (see below): 
+ 
+5. If at any time after the second dose, QTc increases to greater than 500 msec, Tikosyn® 
+should be discontinued. Call physician. 
+6. Any further dose adjustments may be made at the discretion of the ordering physician.  
+ 
+H. Tikosyn continuation of home medication protocol:  
+1. Patient must have an EKG obtained upon admission. Telemetry monitoring not required. 
+(refer to Medications Requiring Special Monitoring) If the QTc is greater than 500 msec, 
+Tikosyn should be discontinued. Call physician. 
+2. Calculate creatinine clearance using the Cockcroft -Gault equation for estimating 
+glomerular filtration rate. Actual body weight should be used when calculating creatinine 
+clearance. Pharmacist must contact provider for adjustments 
+3. Pharmacist shall replace electrolytes and contact prescriber if needed.  
+4. Any further dose adjustments may be made at the discretion of the ordering physician  
+ 
+References:  
+1. Pfizer Laboratories.Tikosyn® Package Insert. January 2014.  
+Dosing adjustments for QTc 
+If starting dose is Adjusted dose is 
+500 mcg BID 250 mcg BID 
+250 mcg BID 125 mcg BID 
+125 mcg BID 125 mcg Daily 

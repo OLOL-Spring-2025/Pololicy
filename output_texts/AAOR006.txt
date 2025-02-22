@@ -1,0 +1,248 @@
+AA-OR-006 
+Page 1 of 6 
+ 
+PURPOSE: The purpose of this policy is to establish the conditions under which protected health 
+information (PHI) may be used or disclosed for human subjects research under the Health 
+Insurance Portability and Accountability Act (HIPAA) Privacy Rule. 
+ 
+SCOPE: This policy applies to investigators, key personnel, and research staff. 
+ 
+POLICY 
+All research conducted at OLOL will comply with the HIPAA regulations, as required by 45 CFR 
+164 Subpart E (Privacy of Individually Identifiable Health Information), to assure protection of 
+participants’ PHI. 
+ 
+PROCEDURE 
+In the course of conducting research, investigators may obtain, create, access, use, and/or disclose 
+individually identifiable health information. Under the Privacy Rule, investigators are permitted to 
+use and disclose PHI for research with individual authorization, or without individual 
+authorization, under limited circumstances set forth in and defined in this policy. 
+ 
+1. Use of Health Information with Subject Authorization 
+An investigator or designee must obtain the written authorization from the research subject or 
+legally authorized representative (LAR) to use and/or disclose PHI for research purposes, 
+except as otherwise allowed by this policy. The authorization may be separate from or may be 
+combined with the informed consent document to participate in research.  The actual uses and 
+disclosures made by the research personnel must be consistent to what is stated in the 
+authorization that is signed by the subject or LAR.  
+ 
+Core Elements required in a HIPAA Consent: A valid HIPAA authorization must contain all 
+of the following elements, as required by 45 CFR 164.508(c)(1): 
+1. A description of the information to be used or disclosed in a specific and meaningful 
+manner; 
+2. The name or other specific identification of the person(s), or class of persons, authorized to 
+make the requested use or disclosure; 
+3. The name(s) or other specific identification of the person(s), or class of persons, who may 
+use the PHI or to whom the covered entity may make the requested disclosure; 
+4. Description of each purpose of the requested use or disclosure. This element must be study 
+specific, not for future unspecified research. 
+5. An expiration date, an expiration event, or a statement that the authorization does not 
+expire as it relates to the individual or the purpose of the use or disclosure; and 
+6. Signature of the individual (or LAR) and date. If the authorization is signed by a personal 
+representative of the individual, include a description of such representative’s authority to 
+act for the individual. 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Academic Affairs Section: Office of Research 
+Title: HIPAA and Research 
+Policy Reference #: AA/OR/006 
+Supersedes #:  
+Date of Origination: February 1, 2012 Last Review Date: February 19, 2024 
+Last Revision Date: February 22, 2018  AA-OR-006 
+Page 2 of 6 
+ 
+In addition to the core elements, the HIPAA authorization must contain the following 
+statements: 
+1. A statement of the individual’s right to revoke the authorization in writing and the 
+exceptions to the right to revoke, together with a description of how the individual may 
+revoke the authorization; 
+2. A notice of the covered entity's ability or inability to condition treatment, payment, 
+enrollment, or eligibility for benefits on the Authorization and, if applicable, consequences 
+of refusing to sign the authorization; and 
+3. A statement that the information used or disclosed following or according to the 
+authorization may be subject to re-disclosure by the recipient and no longer be protected 
+by the Privacy Rule. 
+ 
+The authorization must be written in lay language easily understood by the research 
+participant. Any research protocol which involves more than minimal risk treatment for a 
+participant to be enrolled will require an authorization. Refusal to sign an authorization will 
+exclude the participant from the study.  The subject must be provided with a copy of the signed 
+authorization, unless otherwise required by the study’s IRB of record. 
+ 
+2. Use of Health Information without Subject Authorization or with Alteration of 
+Authorization 
+The Privacy Rule allows researchers to use and/or disclose PHI without written authorization 
+or with an alteration of authorization from the subject or LAR under the four circumstances 
+described below. 
+a. Use or Disclosure of PHI with Waiver or Alteration of Authorization 
+Investigators may obtain approval from the study’s IRB of record (the “IRB”) for a 
+complete or partial waiver or an alteration of the HIPAA authorization. A complete 
+waiver occurs when the IRB determines that no authorization is required for a 
+researcher to use and/or disclose PHI for a particular research study. A partial 
+waiver of authorization occurs when the IRB determines that an authorization is not 
+needed for some research activities associated with a research protocol. An 
+alteration of the HIPAA authorization requirement occurs when the IRB approves a 
+request to alter one or more of the required HIPAA elements. For example, an 
+alteration may be granted permitting verbal authorization instead of written 
+authorization. 
+ 
+b. Preparatory to Research  
+The preparatory to research provision permits the investigator to use and/or 
+disclose PHI for purposes preparatory to research, such as the development of 
+research questions; the determination of study feasibility (in terms of the available 
+number and eligibility of potential study participants); the development of eligibility 
+(inclusion and exclusion) criteria; and the determination of eligibility for study 
+participation of individual potential participants. Activities considered preparatory 
+to research do not require an individual’s authorization, a waiver of authorization, 
+or a data use agreement. 
+ AA-OR-006 
+Page 3 of 6 
+A researcher who uses or discloses PHI for activities involved in preparing for 
+research must make an oral or written statement that (1) the PHI use or disclosure 
+is solely to review PHI as necessary to prepare a research protocol or for similar 
+purposes preparatory to research, (2) the PHI will not be removed from Our Lady of 
+the Lake during a preparatory to research activity, and (3) the PHI for which use or 
+access is requested is necessary for the research.  Disclosure of PHI for activities 
+preparatory to research must be in accordance with Compliance Policy COR-301 
+entitled Disclosures of Protected Health Information to Other Entities. 
+ 
+c. Research on Protected Health Information of Decedents: To use or disclose PHI 
+of the deceased for research, investigators are not required to obtain HIPAA 
+authorization from the personal representative or LAR, a waiver or an alteration of 
+the authorization, or a DUA. Investigators must certify in writing or orally that the 
+use and/or disclosure of the information is solely for research on the health 
+information of decedents, and the PHI is necessary for the research purposes. If 
+requested, the investigators must provide to OLOL documentation of the deaths of 
+the individuals whose PHI is requested. 
+ 
+d. Disclosing Data Using a Limited Data Set: Individual PHI may be disclosed by an 
+OLOL investigator or OLOL data custodian to a researcher who has no relationship 
+with the subject by developing a Limited Data Set and executing a Data Use 
+Agreement (AA-OR-014), which must be reviewed by the Office of Research and 
+approved by Our Lady of the Lake Regional Medical Center (OLOLRMC). 
+ 
+Use of PHI Tracking of Access for Research: The Privacy Rule requires record-keeping to track 
+disclosure (but not use) of any identifiable information made without an authorization. Disclosure 
+means the release, transfer, access to, or divulging of information in any manner to someone 
+outside the entity holding the information.  Documentation must be maintained by the Principal 
+Investigator whenever PHI is disclosed for the following purposes: 
+• Under an IRB approved waiver of authorization 
+• For purposes preparatory to research 
+• For decedents’ information 
+ 
+The following items must be tracked and made available to the subject upon request for a 
+minimum of 6 years after the disclosure of PHI: 
+• Date of the disclosure; 
+• Name of person/entity or the study involved in receiving the PHI; 
+• Description of what PHI was disclosed; 
+• Brief statement regarding the purpose of the disclosure 
+ 
+De-identified Health Information:  Use or disclosure of de-identified data that meets the de-
+identification standard and implementation specifications in 45 CFR 164.514(a)-(b) is not subject 
+to the HIPAA Privacy Rule requirements. De-identified data is generally defined under the Privacy 
+Rule as information which does not identify the individual and where there is no reasonable basis 
+to believe the individual can be identified from the information. 
+ 
+PHI may be de-identified using one of the following two methods: AA-OR-006 
+Page 4 of 6 
+• Method 1: Health information is de-identified if a set of specific identifiers is deleted 
+before the information is released by the covered entity to the researcher. These identifiers 
+include the following: 
+1. Names 
+2. Address (including all geographic subdivisions smaller than a state, including street 
+address, city, county, precinct, zip code, and their equivalent geo-codes, except for 
+the initial three digits of most zip codes) 
+3. All elements of dates (except year) for dates directly related to an individual, 
+including birth date, admission date, discharge date, and date of death. All ages over 
+89 and all elements of dates (including year) indicative of age over 89, except that 
+ages over 89 may be aggregated into a single category of “age 90 or older” 
+4. Telephone number 
+5. Fax number 
+6. E-mail address 
+7. Social security number 
+8. Medical record number 
+9. Health plan beneficiary number 
+10. Account number 
+11. Certificate/license number 
+12. Vehicle serial number 
+13.  Universal Resource Locators (URLs) 
+14. Device Identifiers and serial numbers 
+15. Internet Protocol (IP) address numbers 
+16. Biometric indicators such as fingerprints or voiceprints 
+17. Full-face photographic images and any comparable images 
+18. Any other uniquely identifying number, characteristic, or code. 
+ 
+In addition, the covered entity or the researcher must not have reasonable basis to believe 
+the information could be used alone, or in combination with other information, to identify 
+an individual. 
+ 
+• Method 2: The second method of de-identifying under HIPAA allows a person with 
+appropriate knowledge and experience to apply generally acceptable statistical and 
+scientific principles and methods for rendering information not individually identifiable to 
+make and document a determination that there is a very small risk the information could 
+be used by others to identify a subject from the information.  
+ 
+ 
+Additional Disclosures: The Privacy Rule permits, but does not require, the disclosure of PHI for 
+specified public policy purposes, such as: to report communicable diseases, child abuse or neglect; 
+to report adverse events involving investigational articles; or for tracking individuals for 
+notification of recall, repair or replacement of investigational or approved devices. With a few 
+exceptions, the Hospital or investigator may choose to limit its right to disclose information 
+created for a research study which includes treatment to purposes narrower than those permitted 
+by the rule, in accordance with the individual or institution’s professional standards. 
+ 
+REFERENCES AA-OR-006 
+Page 5 of 6 
+Centers for Disease Control (2013).  HIPAA privacy rule and public health: Special topics, research. 
+http://www.hhs.gov/ocr/privacy/hipaa/understanding/special/research/  
+US Department of Health and Human Services. HIPAA Privacy Rule: Information for Researchers. 
+https://privacyruleandresearch.nih.gov/ 
+US Department of Health and Human Services. (2009). Title 45 Code of Federal Regulations, part 
+160 and 164.  Available from: 
+http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html  
+U.S. Government Printing Office (2014). Electronic code of Federal regulations: Subpart E—Privacy of 
+individually identifiable health information. Available from: 
+http://ecfr.gpoaccess.gov/cgi/t/text/text-
+idx?c=ecfr&tpl=/ecfrbrowse/Title45/45cfr164_main_02.tpl AA-OR-006 
+Page 6 of 6 
+Our Lady of the Lake Regional Medical Center 
+Review Preparatory to Research 
+ 
+Date: PI Name: 
+Project Title: 
+Reviews Preparatory to Research – Complete this section at conceptualization of project when designing a research study, 
+preparing a research protocol, or assessing the feasibility of conducting a study before reviewing patient charts. This form is necessary if 
+the investigator is accessing PHI. If the feasibility can be determined without the investigator accessing PHI (i.e. #of patients and # of 
+patients with a specific diagnosis) this form is not necessary. Submit to the Office of Research. 
+Check all that apply. 
+1. Is use or disclosure being sought solely to review protected health information as necessary to prepare a research protocol or for similar 
+purposes preparatory to research?     Yes       No 
+2. Will protected health information (patient-identifiable) be removed from Our Lady of the Lake Regional Medical Center by the 
+researcher during the review?      Yes      No 
+3. Is the protected health information for which use or access is being sought necessary for the research purposes?  Yes      No 
+ 
+ Name   Account numbers 
+ Geographical information smaller than sate ( i.e.            
+city, zip code) 
+ Certificate or license numbers 
+ Elements of dates including birth date, admission date, 
+date of death, and all ages ≥ 89 years of age 
+ Vehicle identifiers and serial numbers including license 
+plate 
+ Telephone numbers  Device identifiers and serial numbers 
+ Fax numbers  Web Universal Resource Locators (URLs) 
+ Electronic mail address  Internet Protocol (IP) address numbers 
+ Social Security Number  Biometric identifiers, including finger and voice prints  
+ Medical record numbers  Full face photographic images and comparable images  
+ Health plan beneficiary numbers   Any other unique identifying number, characteristic or 
+code  
+4. Identify the source of the data. 
+5. Explain the purpose of the data collection or database created. 
+6. Describe who will have access to the information or database. 
+7. Describe where the identifiers (master subject key that links patients to the de-identified data) will be kept and the details of the secure 
+location.  
+8. Explain the plan to destroy the identifiers (the master subject key) at the earliest opportunity consistent with the conduct of the research 
+once data entry and analyses are completed. Please note any health or research justification for retaining the identifiers as well as 
+explanation if retention is required by law.  
+ 
+Sign: Date:  
+  

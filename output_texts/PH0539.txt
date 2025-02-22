@@ -1,0 +1,376 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Equipment, Supplies & Components for 
+Sterile Compounding 
+Policy Reference #: PH0539 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1.       Overview and Scope 
+1.1. This policy describes the requirements for, and assessment of the equipment used in controlled 
+compounding areas and the supplies and components used in the preparation of Compounded 
+Sterile Preparations (CSPs) by FMOLHS Baton Rouge Market Pharmacies. 
+1.2. Selection of equipment and furniture specifically designed for use in and constructed of materials 
+appropriate for sterile compounding environments is integral in helping to maintain a state of 
+control in classified and controlled areas. Durability, cleanability, and minimal, if any, sheddin g 
+or particle generation are also important characteristics of equipment and furniture used within 
+controlled areas.  
+1.3. Selection of high-quality sterile supplies and components from appropriately credentialled and 
+inspected manufacturers is essential in maintaining the integrity of aseptic processes and the 
+ultimate sterility and apyrogenicity of final CSPs.  
+1.4. Diligence in vetting and selecting reputable vendors, wholesalers, and FDA -registered 
+manufacturers; carefully reviewing quality data on purchased products used in sterile 
+compounding (e.g., Certificate of Analysis or Conformance); and conducting in -process quality 
+control inspections and tests all contribute to ensuring CSP veracity and patient safety. 
+2. Policy  
+2.1 Equipment and furniture used in sterile compounding environments is constructed of material 
+appropriate for controlled areas, is easily cleanable, and can withstand cleaning agents used in 
+sterile compounding environments. Equipment surfaces coming into contact with CSPs are 
+additionally not reactive or sorptive. 
+2.2 Equipment, furniture, supplies, and components are thoroughly cleaned and disinfected per 
+policy prior to introduction into the clean side of the ante room or within the perimeter of a 
+Segregated Compounding Area (SCA).  Equipment, supplies, and components are sanitized again 
+with sterile 70% isopropyl alcohol (sIPA) as they are introduced into an ISO Class 5 PEC. 
+2.3 Equipment is placed within the SEC or PEC in a manner that facilitates compounding operations 
+and does not obstruct laminar airflow during compounding manipulations. 2.4 Sterile compounding equipment is calibrated, maintained, cleaned, and used per manufacturer’s 
+instructions and recommendations and as described in the related SOPs.  
+• Cleaning, maintenance, and calibration of equipment is documented and readily retrievable.  
+2.5 Equipment designed to deliver specific volumes of solution(s) automatically during the 
+compounding process, such as automatic compounding devices (ACDs) or repeater pumps, 
+undergo an accuracy assessment when initially installed and prior to use on days whe n the 
+compounding with the equipment occurs.   
+• Daily accuracy measurements are recorded  and evaluated over time to detect variation in 
+the precision of the equipment. 
+• Corrective actions are taken if accuracy measurements are outside of manufacturer’s 
+specifications. 
+2.6 Weighing, measuring, or otherwise performing particle generating manipulations (e.g., weighing 
+and wetting dry powder APIs) is conducted inside of a PEC.  
+2.7 Supplies used in the compounding of CSPs (e.g., beakers, utensils, needles, syringes, filters, tubing 
+sets) are made of materials that are not reactive or sorptive. Supplies coming in direct contact 
+with CSPs are sterile and depyrogenated.  
+2.8 Conventionally manufactured sterile products and components are used when available and 
+appropriate for the intended use. 
+• Compounding CSPs from nonsterile starting ingredients or components only occurs when 
+conventionally manufactured or, alternatively, 503B manufactured sterile products are not 
+available.  
+2.9 Active Pharmaceutical Ingredients (APIs) and components are: 
+• Designed for the intended use 
+• Manufactured at FDA -registered facilities (required for APIs and recommended for 
+components) 
+• Comply with USP-NF monograph quality and release testing criteria (if available) 
+• Accompanied by quality indicating documentation and data (e.g., COA and/or labeling).  
+2.10 When components cannot be obtained from an FDA -registered facility, a reliable source 
+is selected, and validation of the component’s identity, strength, purity, and quality is conducted.   
+2.11 Commercially available container closure systems are accompanied by a COA showing 
+conformance with sterility, apyrogenicity, and other established quality specifications. 
+2.12 Upon receipt into a classified area, each lot of components used in sterile compounding 
+is: 
+• Inspected for signs of tampering, packaging or product deterioration, or loss of integrity. 
+Components with known or suspected suboptimal quality or sterility are promptly rejected, 
+labeled as such, and stored in a segregated area away from active stock pe nding disposal 
+per policy. 
+• Checked for a manufacturer’s expiration date. In the absence of a manufacturer’s expiration 
+date, components (or their direct packaging) are labeled with the date of receipt and an 
+expiration not to exceed 1 year from the date of receipt.  
+2.13 Prior to use in a CSP, each API and component is evaluated and visually inspected for: • Correct identity, appropriate quality (e.g., per COA), within expiry date, and stored under 
+appropriate conditions 
+• Container closure defects that could impact the quality and/or sterility of the API or 
+component (e.g., loose container lids, cracked or leaking containers) 
+• API or component appearance, aroma, and/or texture potentially indicating altered quality 
+2.14 Components are handled and stored in a manner that prevents contamination, mix -ups, 
+and deterioration.  Components are stored in closed containers per the manufacturer’s 
+recommendations or as indicated in the USP-NF Monograph. 
+2.15 Temperature in drug storage areas is monitored and documented at least once daily on 
+days the facility is open or by a continuous temperature recording device. Deviations are promptly 
+investigated, and appropriate corrective actions are taken and documented. 
+2.16 Temperature monitoring equipment is calibrated or verified for accuracy per the 
+manufacturer or once every 12 months if not specified by the manufacturer.  
+3. Roles & Responsibilities 
+3.1 The Designated Person(s) (DP): 
+• Ensure sterile equipment, supply, and component suppliers, wholesalers, and 
+manufacturers are fully vetted for USP <797> compliant quality manufacturing and 
+documentation standards. 
+• Ensure sterile compounding equipment is maintained and calibrated on a timely basis and 
+that documentation of equipment calibration, maintenance, and cleaning is stored in a 
+readily retrievable format. 
+• Review and evaluate COAs of supplies and components to ensure all expected quality 
+specifications are met or exceeded and identifies any product conversions and adjustments 
+needed (for addition to MFRs) to ensure CSP potency and integrity.  
+• Ensure APIs and components are received, handled, and stored properly including 
+expiration dating, evaluation for product adulteration or sterility impacting defects, and  
+• Investigate, oversee, and document corrective actions related to equipment, supply, and/or 
+component defects or failures.  
+3.2. Compounding Personnel: 
+• Prior to use in every CSP, evaluate and inspect APIs and components for correct identify, 
+quality, expiration date, storage conditions, and the integrity of the container closure 
+system.   
+• Reject and quarantine APIs and components which are expired, have suspected or known 
+defects that could impact the quality, potency, and/or sterility of the CSP.  Notify the DP 
+promptly of all defects. 
+• Conduct and document daily calibrations of compounding equipment automatically 
+measuring component volumes (e.g., ACDs, repeater pumps). Notify DP or Lead Pharmacist 
+of equipment that is out of specification and do not use the equipment until the equipment 
+can be successfully calibrated. 
+• Clean equipment with the appropriate cleaning agent and observing required dwell times 
+per the Cleaning, Disinfection, & Application of Sporicidal Agents  policy and document 
+cleaning activities appropriately. 4. Procedures 
+4.1. Selection of Compounding Equipment and Supplies 
+• Identify and vet reputable wholesalers and distributors of equipment and supplies for use 
+in sterile compounding environments and aseptic processes.  
+• Select sterile compounding equipment constructed of materials suitable for compounding 
+environments (e.g., stainless steel) including nonreactive or sorptive surfaces that come into 
+direct contact with CSPs and designed to withstand cleaning processes and agents.   
+• Ensure sterile equipment and supplies are accompanied by appropriate end user 
+documentation, instructions for use, and quality testing data including: 
+Equipment Supplies 
+• User manual providing instructions for 
+proper use, cleaning, and maintenance 
+• Required calibration or recertification 
+requirements, procedure, and 
+frequency 
+• Specifications and acceptance 
+parameters for normal operation 
+• Manufacturer’s release testing results 
+and Certification of Conformance  
+• Lot number and expiration date 
+• User instructions including any quality 
+control testing procedure(s) and expected 
+results, if applicable (e.g., bubble point 
+expected PSI for sterilizing filters)  
+• Manufacturer’s release testing results and 
+Certification of Analysis 
+4.2. Selection of Active Pharmaceutical Ingredients (APIs) & CSP Components 
+• Identify and vet reputable wholesalers and distributors of APIs and components for use in 
+pharmaceutical grade compounding.  
+• Confirm APIs and components meet the following criteria: 
+ APIs Other Components 
+Comply with USP-NF 
+monograph criteria  
+Required 
+(if the monograph exists) 
+Required 
+(if the monograph exists) 
+Accompanied By 
+Quality Indicating 
+Documentation 
+COA required including 
+specifications ad test results 
+showing API meets expected 
+quality standards 
+Documentation required (e.g., COA, 
+labeling) including specifications and 
+test results showing component 
+meets expected quality standards 
+Manufactured by FDA-
+Registered Facility*  Required Recommended 
+Designed for Intended 
+Use, Patient 
+Population, and/or 
+Route of 
+Administration 
+Confirm intended use and abide by labeling indicating  
+“not for pharmaceutical use”, “not for injectable use”, “not for 
+human use” (or “for veterinary use only”), or equivalent 
+*Outside of the United States, component manufacturers comply with the laws and regulations 
+of the applicable regulatory jurisdiction.  
+•  Identify, vet, and select a reliable vendor or source when components cannot be obtained 
+from an FDA -registered facility. Validate component identity, strength, purity, and quality 
+by any reasonable means, including, but not limited to:   
+o Evaluation of COA (if available) o Visual inspection 
+o Analytical testing of a sample to confirm conformance with expected quality 
+specifications and standards 
+4.3. Receipt, Evaluation, Handling, & Storage of CSP Components  
+• Move component shipping/delivery containers to receiving area and garb per facility policy 
+Refer to the Hazardous Materials Handling policy for the garbing and receiving procedures 
+related to hazardous drug components. 
+• Upon receipt into a classified area, examine the external and internal packaging of each lot 
+of CSP for signs of product deterioration or other quality impacting defects (e.g., 
+temperature-sensing indicators indicate product has been exposed to excessive 
+temperatures). Reject, quarantine, and notify DP of components with suspected or known 
+defects. 
+• Once unpacked, examine components and container closure systems for cracks, leaks, or 
+other indicators of product adulteration. Reject, quarantine, and notify DP of components 
+with suspected or known defects. 
+• Confirm component expiration dating.  
+o If component is expired or within 1 month of expiration, quarantine and notify DP. 
+o When manufacturer’s expiration date is not visible on label or labeling, clearly write or 
+label container with an expiration date not to exceed one year from the date of receipt.  
+• Apply additional component/container labeling as needed. 
+• Handle and store components in a manner that prevents contamination, mix -ups, and 
+deterioration. 
+• Store components in a designated, temperature controlled and monitored storage areas per 
+manufacturer or official monograph instructions 
+o Controlled Room Temperature: 20°C - 25°C 
+o Refrigerated Temperature: 2°C - 8°C 
+o Frozen Temperature: -25°C - -10°C 
+• Monitor and record temperature in the area(s) where components are stored at least once 
+daily on days that the facility is open or by a continuous temperature recording device.  
+• Record temperatures manually or electronically and ensure temperature logs are readily 
+retrievable.  
+• Calibrate or verify accuracy of temperature monitoring equipment as recommended by the 
+manufacturer or every 12 months if not specified by the manufacturer. 
+4.4. Introduction of Equipment, Supplies, & Components into Controlled Compounding Areas 
+• Prior to introduction into a controlled compounding area, clean all visibly soiled equipment 
+or furniture with a sporicidal disinfectant, EPA -registered disinfectant cleaner, or hospital 
+grade cleaning agent. 
+• Clean all equipment, furniture, supplies, and components as they are moved across the line 
+of demarcation (LOD) between the dirty and clean sides of the ante room or moved across 
+the perimeter line of the SCA. W ipe individual items with a sporicidal disinfectant, EPA -
+registered disinfectant, or sterile 70% isopropyl alcohol (sIPA) and low-lint wipers. 
+• Place equipment and furniture within the SEC or SCA perimeter in a manner that facilitates 
+compounding operations and does not impede airflow, workflow or traffic patterns. 
+• Refer to the Workflow and Aseptic Technique for Sterile Compounding policy.  
+4.5. Use of APIs and Components in Compounding of CSPs • Prior to use, conduct visual inspection of all components for defects in containers or product 
+quality potentially occurring during handling or storage including, but not limited to: 
+o Container Closure Systems: cracks, leaks, looseness of the cap or closure  
+o Components: deviations from the expected appearance, aroma, and/or texture 
+• Reject, quarantine, and notify DP of components with suspected or known defects. 
+o Examine all other lots of the rejected component and obtained from the same vendor 
+to determine whether other lots have the same defect. 
+4.6. Calibration, Maintenance, Cleaning, and Use of Sterile Compounding Equipment 
+• Refer to Cleaning, Disinfecting, and Applying Sporicidal Disinfectants in Sterile Compounding Areas 
+policy for detailed procedures, frequency, and approved agents used for equipment cleaning.  
+Equipment / 
+Device 
+Calibration, 
+Maintenance, & 
+Cleaning 
+Use 
+ACD(s) Calibration: 
+Daily (prior to use) 
+ 
+Maintenance: 
+Per manufacturer’s 
+instructions  
+and as needed 
+ 
+Cleaning: 
+Daily & Per Use: 
+sIPA; Weekly: 
+sporicidal followed 
+by sIPA 
+• Clean dedicated PEC and equipment 
+• Install valve set, tubing, and small and large volume 
+components 
+• Conduct accuracy assessment of load cell and ACD 
+pumping accuracy; ensure accuracy within + 3%; results 
+are recorded in compounder’s database 
+• Get Pharmacist verification of setup and accuracy 
+assessments 
+• Place and aseptically connect appropriate volume bag 
+and program and/or scan patient formulation 
+• Pump formulation 
+• After completion, aseptically remove bag, inject 
+additives (if applicable), conduct visual inspection, seal 
+injection port, and label 
+Repeater 
+Pump(s) 
+Calibration: 
+Daily (prior to use) 
+ 
+Maintenance: 
+Per manufacturer’s 
+instructions  
+and as needed 
+ 
+Cleaning: 
+Daily & Per Use: 
+sIPA 
+Monthly: sporicidal 
+followed by sIPA 
+• Clean equipment and tubing housing 
+• Aseptically install tubing, supplies and complete set up 
+for intended use 
+• Calibrate prior to use and get Pharmacist or tech-on-
+tech verification of calibration accuracy; record results 
+on Repeater Pump Calibration Log or electronically on 
+SoleSource Simplifi 797® task 
+• Program pump for intended use 
+• Pump formulation and aseptically connect/disconnect 
+containers 
+• After completion, aseptically remove container, inject 
+additives (if applicable), conduct visual inspection, seal 
+injection site, and label 
+Reusable PPE 
+(e.g. goggles, 
+respirators) 
+Cleaning: 
+Per use: Peridox 
+RTU® followed by 
+sIPA 
+• Clean reusable PPE before and after monthly cleaning 
+activities. 
+• Place in plastic bag for storage until next use 
+Reusable 
+cleaning 
+supplies 
+(mop/wand 
+handles, 
+holders) 
+Cleaning: 
+Per use: Peridox 
+RTU® followed by 
+sIPA 
+• Clean reusable cleaning supplies before and after 
+use. 4.7. Hazardous Materials Handling Requirements 
+• Refer to the Hazardous Materials Handling  policy for the hazardous materials and 
+component selection, handling, storage, and delivery/shipping. 
+5. Definitions 
+5.1. ACD: Automated compounding device. 
+5.2. Active pharmaceutical ingredient (API): Any substance or mixture of substances intended to be 
+used in the compounding of a preparation, thereby becoming the active ingredient in that 
+preparation and furnishing pharmacological activity or other direct effect in the diagnosis, cure, 
+mitigation, treatment, or prevention of disease in humans and animals or affecting the structure 
+and function of the body. Also referred to as Bulk drug substance. A conventionally manufactured 
+drug product is not an API but is typically manufactured from an API(s).  
+5.3. Certificate of analysis (COA): A report from the supplier of a component, container, or closure 
+that accompanies the supplier’s material and contains the specifications and results of all 
+analyses and a description of the material. 
+5.4. Classified area: An area that maintains an air quality classification based on the ISO standards 
+required in this chapter (see also the definition for ISO class). 
+5.5. Component: Any ingredient used in the compounding of a preparation, including any active 
+ingredient, added substance, or conventionally manufactured product. 
+5.6. Compounded sterile preparation (CSP): A preparation intended to be sterile that is created by 
+combining, admixing, diluting, pooling, reconstituting, repackaging, or otherwise altering a drug 
+product or bulk drug substance. 
+5.7. Compounding area: The area where compounding is occurring (i.e., a cleanroom suite, inside the 
+perimeter of the SCA, or AECA). 
+5.8. Compounding record (CR): Documents the compounding of each CSP. 
+5.9. Container closure system: Packaging components that together contain and protect the dosage 
+form. This includes primary packaging components and secondary packaging components, if the 
+latter are intended to provide additional protection. 
+5.10. Containment ventilated enclosure (CVE): A non-ISO classified full or partial enclosure that uses 
+ventilation principles to capture, contain, and remove airborne contaminants through HEPA 
+filtration and prevent their release into the work environment. 
+5.11. Conventionally manufactured product: A pharmaceutical dosage form, usually the subject of an 
+application approved by the applicable national regulatory agency, that is manufactured under 
+current good manufacturing practice conditions. 
+5.12. Master formulation record (MFR): A detailed record of procedures that describes how the CSP 
+is to be prepared 
+5.13. Specification: The tests, analytical methods, and acceptance criteria to which any component, 
+CSP, container closure system, equipment, or other material used in compounding CSPs must 
+conform to be considered acceptable for its intended use 6. Related Policies, Documents, References 
+6.1. United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2. United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.3. United States Pharmacopeial Convention, Inc. <71> Sterility Tests. Current version. 
+6.4. United States Pharmacopeial Convention, Inc. <85> Bacterial Endotoxins Test. Current version 
+6.5. United States Pharmacopeial Convention, Inc. <1229> Sterilization of Compendial Articles. 
+Current version. 
+6.6. United States Food & Drug Administration (FDA). Hospital and Health System Compounding 
+Under Section 503A of the Federal Food, Drug, and Cosmetic Act Guidance for Industry. October 
+2021.  
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2024 
+7.1. Initial version published by Wolters Kluwer 2022.  
+7.2. Revised 11/2023 for use at all Baton Rouge Market Pharmacies. 
+7.3. Reviewed with formatting changes 11/2024. 
+ 

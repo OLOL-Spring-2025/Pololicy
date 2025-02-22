@@ -1,0 +1,240 @@
+ 1 
+OUR LADY OF THE LAKE ASCENSION 
+ 
+POLICIES AND PROCEDURES: 
+ 
+Surgical Services, Sterile Processing 
+ 
+EFFECTIVE DATE: 
+April 1,2010 
+ 
+NUMBER: 
+STELSPD115 
+ 
+SUBJECT: 
+Steam Sterilization Assurance and Quality Control Program  
+ 
+ 
+PAGE 1 OF 4 
+ 
+ 
+        
+I. PURPOSE 
+ To provide guidelines for sterilization assurance, efficacy testing, and documentation of quality 
+monitoring. 
+  
+II. APPLIES TO 
+ Surgical Services, Sterile Processing 
+  
+III POLICY 
+ 1.  Quality monitoring shall be performed and documented for each sterilizer load according to procedure. 
+ 2.  Sterilizer efficacy testing shall be performed and documented according to procedure.  
+ 3.  Chemical indicator/integrators, biological vials, and physical process printouts will be utilized along  
+     with load cards, and log records to ensue the quality of the sterilization process. 
+ 
+IV. PROCEDURE 
+ A.    Documentation Process -Steam Sterilizer Logbooks:  
+          1. Every Sterilizer cycle will be documented in Censitrac.  If Censitrac is down, we will then use         
+Sterilizer Logbook designated for each autoclave. 
+               Information should include:   
+               A.    Sterilizer Number 
+               B.    Load # 
+               C.    Items sterilized/ Implants   
+               D.    Pt. label (for cycles run for pt.  specific cases) 
+               E.    Physical printout, all sterilization parameters met, load released 
+               F.     Chemical indicator (strip) 
+               G.    Pass or Fail 
+               H.    Biological Results if applicable 
+                I.    Lot # for Biological or Bowie Dick devices 
+                J.    Date/Time 
+                K.    Operator’s Initials 
+ 
+B.     Bowie-Dick (DART) Test 
+          1.    A Bowie-Dick test pack is to be run in each pre-vac autoclave prior to daily  
+                  operation of the autoclave. 
+                    A.  The test pack is to be run in the first empty load of the day, on the rack, near the chamber   
+                           drain. 
+                    B.  The test pack cycle should be run according to manufacturer’s instructions.   
+                    C.  After cycle completion, the external pack indicator should turn from yellow to black.  
+                    D.  Take precautions to prevent thermal injury when removing and unwrapping the pack from  
+                          the autoclave. 
+                    E.  The markings on the internal indicator card should have a uniform color change to black. 
+                          The color should appear evenly across the entire card for a “pass” result indicating  
+                            appropriate steam function.  The autoclave may then be used for subsequent loads. 
+                     F.    Currently use Censitrac. Document results in the logbook, along with the test sheet, 
+printout, and indicator strip should the Censitrac system go down.  
+                            Follow documentation process.  2 
+ 
+         
+C.    Efficacy Testing/Biological Monitoring of Steam Sterilizers (ATTEST/Super Rapid 
+Readout Auto- reader 490): 
+ 
+        1.     Biological Indicator (BI) sterilizer efficacy testing is performed daily on 
+each autoclave when in use and in every standard Pre-Vac sterilizer load.    
+                  a)    The biological test pack can be processed in a separate load after the daily DART test. 
+                  b)    The BI test pack should be run in a pre-vac autoclave at 270° F for greater than or equal to 4  
+                          minutes.   
+                  c)      The test pack/vial should be placed in the portion of the load that is determined to be most  
+                          resistant to steam penetration, usually bottom shelf, near the door or near the drain or in an  
+                          implant canister/ tray. 
+                   d)      Follow manufacturer’s instructions for use for ATTEST and read out. 
+                   e)      Check the chemical integrator, SteriGage (strip) within the pack. A dark color must  
+                             appear in the ACCEPT window of the strip to indicate sufficient steam penetration for  
+                             Sterilization.  
+                   f)      Document sterilizer#, load #, operator’s initials and date on the vial’s label and in the log  
+                                book. Include vial lot #, printouts, and indicator strip in Censitrac.    
+                   g)      While wearing protective equipment/eyewear, crush, tap, verify presence of the growth 
+                                media in the lower vial chamber and incubate the vial in the Auto- reader incubator  
+                                according to directions. 
+                    h)        Observe the LCD read out panel to confirm the vial is correctly seated.  Incubation time 
+                                in minutes will be displayed.                  
+                    i)         Passing results, (a successful cycle), will be detectable within 24 minutes. The LCD                                                                                                                                        
+display will give a “+” or “- “result on the LCD readout screen.   
+                     j)       A positive “control” vial is processed daily to ensure correct incubation temperatures,  
+                                 viability of spores, capability of the vial media to promote rapid growth and proper  
+                                  functioning of the AUTO READER. Results are documented in Cesnitrac or the    
+biological log book should Censitrac go down.   
+                      k)     A “+” result on a processed biological vial indicates a failed sterilization cycle.  All           
+                                    instruments and implants should be recalled from the load for reprocessing and     
+                                     Surgical Administration notified immediately, and appropriate action plan followed.  
+                        l)     All routine Pre-vac steam processed loads are processed with a BI and are        
+                                   quarantined until a passing biological indicator is obtained 
+                         m)    A biological indicator is processed with every load and is  
+                                     quarantined until a passing BI is obtained.  
+                         n)    Non implant IUSS loads may be released with a class 5 chemical integrator after  
+                                   that autoclave has already passed a daily biological test.  
+                              
+                                          
+   D.    Chemical Integrators 
+ 
+          1.     Two chemical integrators shall be used both internally and externally on all steam processed  
+                   supplies. Chemical integrators consist of: 
+ 
+                               a)  Internal -SteriGage (strips) placed internally in all steam processed containers,  
+                                     wrapped trays/items, or peel pouch items.  The color indicator must appear in the  
+                                     ACCEPT window of the strip for verification of steam sterilization.  If it does not  
+                                     appear, do not use the item. Follow mfg. IFU for placement in trays.   
+                          
+                                b)  External tape placed on wrapped trays must have a color change to black stripes to  
+                                      indicate steam exposure. 
+ 
+                                c)   External canister locks have an indicator that should turn brown before use.  3 
+ 
+                                d)    Peel pouches have an external indicator that also turns brown indicating exposure to  
+                                        steam.   
+     
+           2.        If the above parameters are not met, Do NOT Use the supply.  Send items for reprocessing,  
+                       and evaluate autoclave function. 
+ 
+ 
+E.    Physical Monitoring devices are graphs, gauges or printouts that monitor sterilization 
+       parameters 
+  
+          1.  The printouts for each sterilizer load will be saved and documented in Censitrac or the log 
+                book specific to that autoclave, ensuring the time, temperature and pressure have been met.   
+ 
+            2.  A load record card is included on each load that sterilizes multiple sets, peel packs and wrapped  
+                items.  The load record includes: 
+                                     a. Sterilizer ID number, 
+                                      b. Sterilizer Load Number (of the day) 
+                                      c. Date of Sterilization 
+                                      d. Departments for which items are being processed, if other than the operating  
+                                            room. 
+                                       e.  Number and name/description of items beings processed 
+                                        f.    Initials of instrument tech preparing load.                   
+                                         g.    Pass or fail 
+ 
+                3.  At completion of cycle, the documentation process is followed, the load record card, indicator  
+                    and printed parameter strip is retrieved and placed in the logbook and filed to be used if a 
+                    recall becomes necessary.  
+  
+ 
+F.   Action Plan for Sterilizer Failure 
+    
+          1.  If at any time an indicator fails, equipment failure, physical print out parameters are inaccurate, or  
+a positive biological growth occurs, the sterilizer is checked for possible operator error. Retest the autoclave   
+with a biological test and chemical indicator in an empty chamber.  If the cycle has failed again, the sterilizer 
+is removed from service until the malfunction has been ruled out as operation error or an authorized service 
+technician has made proper inspections or repairs.   
+ 
+         2.   Any positive biological result or sterilizer failure is immediately reported to the Director of Surgery  
+               and the Infection Control Coordinator for implementation of action plan. .(In the case of a  
+               positive test, always re-test the autoclave, look for possible errors in operation first.)  
+               Action Plan:    
+                                    a.   In the event of a positive biological monitoring result, or sterilizer failure, the  
+                                           sterilizer will be immediately removed from service and labeled as such. 
+                    b.    Quarantine the load contents, recall any supplies or instruments from the failed  
+                            load for reprocessing. 
+                     c.     Surgery Director will notify physicians if any supplies have been involved in  
+                              any surgical procedures. 
+                                     d.   Appropriate notification for sterilizer service and repairs.   
+ 
+             3.  After the service has been completed and the sterilizer is approved for use, retest the sterilizer  
+                  with three consecutive Bowie-Dick DART tests, then three biological tests.  The autoclave    
+                               maybe used after passing all tests.  Document actions in the Action Plan Record   
+                   after passing all tests.   
+  4 
+G.    Washer Disinfector –Quality Testing 
+        
+          1. Quality testing will be performed on the first, EMPTY load prior to use to assure disinfection    
+              parameters have been met and instrumentation is safe to handle. 
+ 
+        2.  Follow manufacturer’s instructions for use with the VERIFY © All Clean Test Indicator. 
+             a)  Ensure the ALL Clean © test holders are clean and dry. 
+             b)  Ensure user hands are clean and dry 
+             c)  Place the indicator in the holder ensuring it is centrally placed and not protruding from either side 
+             d) A holder with an indicator should be placed in an “all wire basket”, centrally located on each    
+                 shelf. Place one of the soil symbols flat onto the wire basket and the other symbol oriented  
+                 vertically. 
+             e) After running a complete cycle, remove the indicators from the holders (use caution, it may be 
+                 hot) and residual soil may stain. 
+             f)  Check for evidence of residual soil/symbol (place the indicator against a piece of white paper) 
+ 
+        3. Document results in the designated washer/disinfector in Censitrac or the log records. 
+       
+       4.  If failure of the test indicator occurs, consult the manufacturer’s instructions for trouble shooting.  
+            Remove the washer from service if indicator failure cannot be resolved and contact the appropriate 
+management for repair/ maintenance. 
+ 
+H. Ultrasonic Function Testing 
+ 
+1. Perform qualification testing daily and after performing any repairs on the equipment.   
+2. Utilize a dosimeter for cavitation energy testing, in an ultrasound bath.   
+3. Follow manufacturer’s IFU for performing the testing for a PASS or FAIL result  
+4. Document the results in Censitrac/logbook. 
+5. Report any unsatisfactory results or equipment failure to the appropriate management for corrective 
+action.     
+ 
+ 
+ 
+V. REFERENCE 
+ AORN, Perioperative Standards and Recommended Practices, 2010 edition; pages 457-480 
+  
+3M, Comply and SteriGage; informational insert/instructions for use 
+ 
+3M, Attest; package insert/instructions 
+ 
+ANSI/AAMI ST79:2017, Comprehensive guide to steam sterilization and sterility assurance in health care facilities. 
+©2017 Association for the Advancement of Medical Instrumentation, Arlington, VA.  
+ 
+ 
+VI REVISIONS: 
+March 2010 renamed this policy from STELSPD115 Biological Monitoring of Steam Sterilizers to 
+STELSPD115 Steam Sterilization Assurance and Quality Control Program.  Included all Quality testing and 
+documentation on steam sterilizers. 
+April 2010-revised to include washer/disinfector quality assurance. 
+Revision: removed Surgeon Waiver/Release Form option for release of implan ts before biological read out 
+07/2018 
+Revision: added section H, for ultrasonic equipment qualification testing 7/2018 
+Revision: 7/26/2018; updated rapid readout biological from 1 hr. to 24 Min. readout  
+Revision: 10/09/2018. (MMS) Autoclaves are to be BI/efficacy tested daily when in use. A BI is processed 
+in every standard pre-vac cycle implant and non-implant load.  Instruments quarantined until a passing BI is 
+returned.  9/2024 Added Censitrac  5 
+ 
+ 
+VII Review: 
+ 1/2011; 1/2012; 1/2013; 1/2014, 1/2015; 7/2017; 7/2018; 7/2019; 9/2021; 9/2022; 9/2023; 9/2024; 1/2025 
+ 
+ 
+ 
+ 

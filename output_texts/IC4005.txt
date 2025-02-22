@@ -1,0 +1,57 @@
+ 1 
+Policies and Procedures Manual Manual:  Infection Control 
+Our Lady of the Lake Regional Medical Center Chapter: IV 
+Subject:  Outbreak, Management of Section:  
+Date of Origination:  September, 1999 Supersedes:  
+Date of Last Revision:  April 3, 2023 Serial Code: IC4005 
+Date of Last Review:  March 31, 2024 
+______________________________________________________________________ 
+ 
+PURPOSE: 
+The purpose of this policy is to standardize the method by which an outbreak is managed. 
+ 
+POLICY: 
+An outbreak investigation may be performed when healthcare associated infections or adverse events 
+occur above the background rate or when an unusual microbe or adverse event is recognized. 
+Although outbreaks are generally divided into steps, it is important to remember that they do not unfold 
+in a linear or orderly manner. It is possible that not all the steps will be applicable, and many steps may 
+occur simultaneously.  
+ 
+PROCEDURE: 
+A. Recognition of a potential outbreak 
+1. Cluster: an aggregation of cases grouped by time and place that may be greater than the 
+expected number, whether the expected number is known or not; also referred to as a 
+small outbreak. 
+2. Outbreak: an increase in the occurrence of cases of infection or disease over what is 
+expected in a defined setting or group in a specified time period; synonym of epidemic 
+but used more often when limiting the geographic area.  
+3. Pseudo-outbreak: an increase in positive culture results without evidence of disease, 
+frequently attributed to contaminated specimen collection, lab reporting inaccuracies, and 
+bias. 
+B. Outbreak Investigation 
+1. Confirming the presence of an outbreak 
+2. Verify the diagnosis 
+3. Construct a working case definition 
+4. Alerting administration and key healthcare partners about the investigation 
+5. Find cases systematically and record information 
+6. Observe and review potentially implicated patient care activities 
+7. Perform descriptive epidemiology 
+8. Hypothesis 
+a. Develop hypothesis 
+b. Evaluate hypothesis epidemiologically 
+c. As necessary, reconsider, refine, and re-evaluate hypothesis 
+  2 
+9. Compare and reconcile with laboratory and/or environmental studies 
+10. Implement control and prevention measures 
+11. Initiate or maintain surveillance 
+12. Communicate findings 
+a. Write an outbreak investigation report. 
+ 
+ 
+Reference: 
+Campbell, Elizabeth, Eichhorn, C. Lynn, APIC Text of Infection Control and Epidemiology (2014 
+October 3), Outbreak Investigations, Revised 2020 April 7 
+ 
+CDC, Principles of Epidemiology in Public Health Practice Third, Edition, 2012 May, Lesson 6: 
+Investigating an Outbreak, Principles of Epidemiology | Lesson 6 | Overview (cdc.gov)  
+APIC, Outbreak Investigation 

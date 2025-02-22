@@ -1,0 +1,334 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Operating Room 
+Title: 
+Creutzfeldt-Jakob Disease (CJD)  
+Guidelines for Suspected CJD Cases in 
+Operating Room 
+Policy Reference #: SOP040 
+Supersedes #:  
+Date of Origination: 04/25/2002 Review Date:  08/19/2024 
+Revision Date: 08/12/2020 
+ 
+ 
+ 
+PURPOSE: 
+To provide guidelines for the management of suspected Creutzfeldt-Jakob Disease (CJD) 
+biopsy cases. 
+ 
+DEFINITIONS: 
+1. CJD is a prion transmissible neurodegenerative disease with a very low incidence of 
+occurrence.  In most cases the cause of the disease is unknown. Prions present unique 
+infection prevention and control challenges. Prions are proteinaceous, infectious 
+agents containing no DNA or RNA and may be transmitted iatrogenically by direct 
+inoculation. Prions cause transmissible spongiform encephalopathies including 
+Creutzfeldt-Jakob disease (CJD). Prions are resistant to traditional chemical and 
+physical decontamination methods. Sterilized instruments have been implicated in 
+intracranial transplantation or inoculation with CJD.  Equipment having direct contact 
+with high-infectivity tissue will require special handling to reduce the potential risk of 
+transmission. 
+ 
+2. High-infectivity tissue: 
+• Central nervous system tissue 
+o Brain  
+o Dura mater 
+o Spinal cord 
+o Pituitary 
+• Optic nerve, retina 
+ 
+3. Medium-infectivity tissue: 
+• Corneal tissue  
+• Cerebrospinal fluid 
+• Lymph node 
+• Spleen 
+• Pituitary gland 
+• Thymus 
+• Appendix  
+• Blood  
+• Skeletal muscle Olfactory cilia 
+and pathways 
+• Tonsils  
+• Placenta 
+• Lungs 
+• Liver 
+• Kidney  
+4. Low- or no-infectivity tissue: 
+ 
+• Bone marrow 
+• Heart muscle 
+• Thyroid 
+• Adrenal 
+• Skin 
+• Peripheral nerves 
+• Adipose tissue 
+• Intestines 
+• Prostate 
+• Testes 
+• Semen  
+• Urine 
+• Serous fluid 
+• Feces 
+• Gingiva 
+• Saliva 
+• Sweat 
+• Tears 
+• Vaginal secretions 
+• Milk  
+• Tears  
+• Nasal mucus 
+• Sputum 
+ 
+MATERIALS: 
+1. Disposable gowns, drapes, and table covers 
+2. Personal protective equipment (PPE).   
+3. Disposable instrument kit item #67650 (Subdural Evacuating Port System) to 
+minimize the use of reusable instrumentation.   
+4. 1 Molar sodium hydroxide (NaOH, lye) obtain from the Lab.  
+5. 1 part bleach (sodium hypochlorite) undiluted  
+6. Nitrile gloves (order from central supply).   
+7. “Restricted Entrance” signage,  
+8. Cleaning supplies, to include several rigid biohazardous containers that will be 
+brought into the Operating Room prior to procedure. 
+ 
+POLICY: 
+Whenever possible, performing neurosurgical procedures on patients with suspected CJD 
+will be avoided.  All suspected CJD cases that are scheduled for biopsy will be managed 
+according to the following guidelines which are intended to reduce the risk of 
+contamination of the surgical instruments and possible exposures to prion diseases.  
+Instrument tracking of any non-disposable surgical instruments used shall be utilized. 
+ 
+PROCEDURE: 
+A. Surgery Scheduling: 
+ 
+Brain or other biopsy procedures for possible CJD shall be posted during normal 
+working hours only.  If the diagnosis is unknown or suggestive of CJD, the scheduler 
+will notify the Nurse Manager, and the following guidelines will be implemented. 
+ 
+ 
+B. Pre-Operatively (Room, Supply & Equipment Preparation): 
+ 1. The Nurse Manager will notify all units potentially involved of possible CJD 
+case, including:  Sterile Processing, Nursing Units, SMAU/T, PACU, House 
+Supervisor, Environmental Services, Environmental Safety, Plant Services, 
+Pharmacy, Infection Control, Pathology, etc. 
+2. Call Plant Services for durable cardboard boxes. 
+3. Remove all extraneous equipment (as possible) from the room and increase the 
+distance from the operating field for items that cannot be relocated. 
+4. Bring only necessary equipment, supplies, or medications into the Operating 
+Room suite. 
+5. Cover the Operating Room table with a disposable impervious cover. 
+6. Cover all surfaces (including respiratory and anesthetic equipment) and Operating 
+Room table with impervious sheets, drapes and/or Mayo covers. 
+7. Cover electrical cords with impervious plastic sleeves. 
+8. Staff Attire:  Anesthesia provider, Surgeon, Scrub Nurse, and primary Circulating 
+Nurse will wear hats, impervious gowns, double gloves, masks, face shields, 
+safety goggles and knee-high impervious shoe covers.  The “outside” secondary 
+Circulating Nurse will wear standard personal protective equipment. 
+9. Post signage on doors stating, “Restricted Entrance”. 
+ 
+ 
+C. Intra-Operatively: 
+1. Restrict traffic in the suite to only those team members assigned to the case. 
+2. Power tools will not be used.   
+3. Use disposable instrument kit item #67650 (Subdural Evacuating Port System) 
+avoid using reusable instrumentation if possible. 
+4. Avoid the use of instrumentation that requires ETO or cold sterilization, i.e. 
+image guided and stereotaxic equipment.   
+5. No flashing of intraoperatively contaminated instruments will be done. 
+6. Use hands-free instrument transfer technique when passing sharps or instruments. 
+7. Clean spills with 1 normal sodium hydroxide (lye), full strength bleach solution, 
+as they occur (ensure 30 to 60 minute exposure of product). Solutions should be 
+no older than 24 hours. 
+8. Specimens will be placed on a piece of formalin moistened telfa, folded to create 
+a sandwich, placed in a specimen cup labeled w/biohazard signage and noted as 
+possible CJD agent.  The labeled specimen cup should be double bagged in 
+specimen bags.  Notify Pathology and include appropriate requisitions with the 
+specimen for analysis.  Once the specimen has been obtained, the surgeon will 
+change to new sterile gloves prior to completing the procedure. 
+9. A second circulator will be available outside the room during the case and the 
+infection control coordinator may be contacted as necessary. The second 
+circulator will personally transport specimens to pathology personnel with 
+specimen requisition sheet from EPIC and test request form from PGL.   
+ 
+D. Post-Operatively:  
+Instrument Handling: 1. Reusable instruments will be sprayed with an enzymatic cleaner, placed in 
+original container, red bagged and labeled as instruments and biohazard.  See 
+Table 1 for further instrument handling criteria 
+ 
+ 
+ 
+Table 1 
+Care of Instruments Exposed to the Creutzfeldt-Jakob Disease 
+Prion 
+High-infectivity 
+tissue Item/device 
+ 
+Cleanable 
+Heat/moisture 
+stable 
+ 
+Disposition 
+Critical/semicritical 
+instruments 
+If easily 
+cleanable 
+If yes 1) Keep instruments moist until cleaning begins 
+2) Thoroughly clean with detergent germicide. 
+3) Decontaminate using one of the following methods. 
+• Autoclave at 134° C (272° F) in prevacuum 
+sterilizer for 18 minutes. 
+• Autoclave at 134°C (272° F) in gravity sterilizer 
+for 60 minutes. 
+• Immerse in 1 Normal sodium hydroxide for 60 
+minutes at room temperature followed by 
+thorough rinsing and steam sterilization at one 
+of the 2 above listed parameters. 
+4) Thoroughly clean, wrap, and sterilize by conventional 
+methods. 
+  If no Discard 
+ If difficult to 
+clean 
+If yes 1) Discard or decontaminate initially using one of the 
+following methods. 
+• Autoclave at 134° C (272° F) in prevacuum 
+sterilizer for 18 minutes. 
+• Autoclave at 121° C (250° F) in gravity 
+sterilizer for 60 minutes. 
+• Immerse in 1 Normal sodium hydroxide for 60 
+minutes at room temperature followed by steam 
+sterilization at 121° C (250° F) in gravity 
+sterilizer for 30 minutes. 
+2) Thoroughly clean, wrap, and sterilize by conventional 
+methods. 
+ If non-
+cleanable  
+n/a Discard 
+Noncritical instruments If cleanable n/a 1) Clean according to routine procedures. 
+2) Disinfect with full strength sodium hypochlorite or 1 
+Normal sodium hydroxide using the solution least 
+damaging to the item. 
+3) Continue processing according to routine procedures. 
+ If non- 
+cleanable 
+n/a Discard 
+Environmental Surfaces n/a n/a 1)   Remove the gross tissue from the surface.  
+2)  Clean the area with a detergent solution. 
+3)  Apply the disinfectant solution for a contact time of  
+     30 minutes to one hour. (either sodium       hypo-chlorite or sodium  
+     hydroxide (1N NaOH), depending on surface  
+     compatibility) 
+4)   Use an absorbent material to soak up the solution.  
+5)  Discard the cleaning material in an appropriate waste  
+      container.  
+6)  Rinse the treated surface thoroughly with water. 
+Medium-, low-, or 
+no-infectivity 
+tissue/item/ device 
+ 
+ 
+Cleanable 
+ 
+Heat/moisture 
+stable 
+ 
+ 
+Disposition 
+Critical/semicritical/ 
+instruments 
+ 
+Cleanable 
+ 
+n/a 
+Clean, disinfect, and sterilize according to routine 
+procedures. 
+Noncritical Noncleanable  Discard 
+Environmental Surfaces n/a n/a 1) Remove unnecessary equipment from the OR prior to 
+the start of the case.  Cover surfaces with disposable, 
+impermeable material. 
+2) Dispose of material according to facility policy after 
+use. 
+3) Disinfect surface with Occupational Safety and Health 
+Administration recommended agent for 
+decontamination of blood-contaminated surfaces (e.g., 
+1:10 or 1: 100 dilution of sodium hypochlorite). 
+NOTES 
+1. M S Favero, W W Bond, "Chemical disinfection of medical and surgical materials," in Disinfection, sterilization, and 
+Preservation, fifth ed, (Philadelphia: Lippincott Williams & Wilkins, 2001) 910-913; W A Rutala, D J Weber,” 
+Creutzfeldt-Jakob disease: Recommendations for disinfection and sterilization," Healthcare Epidemiology 32 (May 
+1,2001) 1348-1 356; "WHO infection control guidelines for transmissible spongiform encephalopathies,"  World Health 
+Organization, http://www.who.int/emc-documents/tse/whocdscsroph2003c.html (accessed 20 Nov 2001). 
+2. E H Spaulding, "Chemical disinfection of medical and surgical materials," in Disinfection, Sterilization, and 
+Preservation, ed C A Lawrence, S S Block (Philadelphia: Lea & Febiger, 1968) 51 7-531. 
+ 
+ 
+Body Fluids/Liquid Waste:   
+ 
+1.  Notify manager of Environmental Safety to obtain correct fiberboard boxes and 
+materials prior to the start of the case. 
+2.  Body fluids and liquids should be collected and solidified prior to packaging.   
+3.  Package the waste using two red bags as required by state and federal regulations.  
+4.  Place the red bags into a fiberboard box with the required state and federal regulations 
+5.  The top of the inner package liner must be hand tied by gathering and twisting the 
+neck of the liner and using either a hand knot or zip tie (or equivalent per the 
+manufacturer’s specification to secure the liner, making sure the inner contents will not 
+leak out when inverted.  
+6.  The top and bottom of the box must be closed and taped with a two-inch wide 
+pressure sensitive tape or equivalent. 
+7.  Ensure the box is labeled “incinerate only”.  No other marking should be made on the 
+outer box, other than those required by State or federal regulations.  
+ 
+ 
+Other disposable supplies:   1. All trash, drapes, Mayo cover, gowns, gloves, face shields, disposable sharps, etc. 
+used for the suspected case will be considered bio-hazardous and placed in 
+appropriate fiberboard boxes, obtained from manager of Environmental Safety 
+2. Package the waste using two red bags as required by state and federal regulations.  
+3. Place the red bags into a fiberboard box with the required state and federal 
+regulations 
+4. The top of the inner package liner must be hand tied by gathering and twisting the 
+neck of the liner and using either a hand knot or zip tie (or equivalent per the 
+manufacturer’s specification to secure the liner, making sure the inner contents 
+will not leak out when inverted.  
+5. The top and bottom of the box must be closed and taped with a two-inch wide 
+pressure sensitive tape or equivalent. 
+6. These containers will then be transported to Plant Services to be secured (locked) 
+until a diagnosis of CJD is obtained. If a CJD diagnosis is obtained these 
+containers will be incinerated by Stericycle Waste Management. Ensure the box is 
+labeled ‘incinerate only’.  No other marking should be made on the outer box.  
+The patient’s OR records should contain documentation of adherence to OLOL 
+policy and procedure for CJD interventions.  
+7. Standard Precautions will be used in the post-op care of the patient’s wound. 
+ 
+E. Environmental Cleaning: 
+See Table 1.  
+ 
+F. Exposures: 
+ 
+Appropriate counseling will include the fact that no case of human CJD is know to have 
+occurred through occupational accident or injury.  The following actions are 
+recommended: 
+1. Contamination of unbroken skin with internal body fluids or tissues:  wash 
+with detergent and abundant quantities of warm water (avoid scrubbing), 
+rinse, and dry.  Brief exposure (1 minute, of 0.1N NaOH) can be considered 
+for maximum safety.  
+2. Needle sticks or lacerations:  gently encourage bleeding; wash (avoid 
+scrubbing) with warm soapy water, rinse, dry and cover with a waterproof 
+dressing.  Further treatment (e.g., sutures) will be appropriate to the type of 
+injury.  Report the injury to your manager as a significant exposure.  
+3. Splashes into the eye or mouth: irrigate with either saline (eye) or tap water 
+(mouth); report to manager as a significant exposure.  
+4. Health and safety guidelines mandate reporting of injuries and records will be 
+kept for no less than 20 years post employment.  
+ 
+REFERENCES: 
+ 
+Stericycle, Inc. Policy Manual; Policy SH 024 Prion Policy, effective 03/18/2015 
+ WHO Infection Control Guidelines for Transmissible Spongiform Encephalopathies: Report 
+of a WHO Consultation, Geneva, Switzerland, 23-26 March 1999. 
+  
+AORN Guidelines for Perioperative Practices,  2024 
+• Care of Surgical Instruments 
+• Environmental Cleaning 
+• High-Level Disinfection 
+ 

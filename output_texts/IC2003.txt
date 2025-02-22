@@ -1,0 +1,41 @@
+ 1 
+Policies and Procedures Manual Manual:  Infection Control 
+Our Lady of the Lake Regional Medical Center Chapter: II 
+Subject:  Environmental Culturing Section:  
+Date of Origination:  July 1994 Supersedes:  
+Date of Last Revision:  March 31, 2023 Serial Code: IC2003 
+Date of Last Review:  March 31, 2024 
+_______________________________________________________________________ 
+ 
+PURPOSE: 
+To state the Infection Prevention and Control Department's authority in environmental culturing. 
+ 
+POLICY: 
+To limit unnecessary culturing of the enviroment or of personnel, such culturing shall be directed and 
+guided by the Infection Prevention and Control Department and follow a written plan. 
+ 
+The risk of healthcare-associated infections related to environmental contamination is more effectively 
+controlled by adherence to tested protocols for processing than by routine sampling.  Microbiologic 
+sampling should therefore be directed toward evaluation of contamination known to be associated with a 
+risk of healthcare-associated infection or should be used to investigate specific objects or areas that have 
+been incriminated epidemiologically in its transmission. 
+ 
+PROCEDURE: 
+1. Routine Environmental Culture 
+Routine environmental culture programs are those that are conducted on a regularly scheduled basis, 
+irrespective of the characteristics of healthcare-associated infections in the institution. 
+Routine microbiological surveillance of the inanimate environment or of personnel, except for 
+research purposes, shall be limited to the following: 
+A. Steam sterilizers are monitored with a commercial preparation of spores of Geobacillus 
+stearothermophilus. Sterilizer loads with implantable objects shall be challenged with a 
+biological indicator.(Refer to Sterile Processing policies SPS018 and SPS041) 
+ 
+B. Legionella testing is directed through the Water Management Workgroup. (Refer to Environment 
+of Care policy ECUS000) 
+ 
+The procedure for collection, processing of culture data, and reporting are found in the Culture 
+Interpretation Procedure Manual in Microbiology. 
+ 
+All other environmental cultures shall be at the direction and order of the Infection Prevention and 
+Control Department and in consultation with Microbiology.  Data is reviewed to ensure that the resulting 
+culturing plan is appropriate and consistent with best practices.  

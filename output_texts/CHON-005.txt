@@ -1,0 +1,52 @@
+CHON-005 
+Page 1 of 1 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:   
+Subject:  Neutropenic Precautions Section:  Oncology 
+Date of Origination:  June 22, 2009 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+April 5, 2013 
+April 12, 2024 
+Serial Code:  CHON-005 
+  
+PURPOSE: 
+To define neutropenia, provide formula for calculating absolute neutrophil count and to describe the procedure 
+necessary to institute neutropenic precautions. 
+ 
+DEFINITIONS: 
+Neutropenia is defined as decreased number of circulating neutrophils; specifically, an absolute neutropenic 
+count (ANC) of less than 1,000 cells/mm3.  Neutropenia leaves a patient at risk for potentially life-threatening 
+infections, (even from normal flora) that requires extra precautions. 
+ 
+POLICY:  
+All neutropenic patients will be cared for following established standards. 
+ 
+1. The ANC is calculated by multiplying the total white blood count by the percentage of neutrophils and 
+the percentage of immature neutrophils.  ANC = (% Segs + % Bands) x total WBC(x10). If an 
+automated differential is performed, ANC calculations are calculated by using Neutrophil % in place of 
+(% Segs+ % Bands). 
+2. If inpatient, place a Neutropenic precaution sign on the patient’s door. 
+3. Monitor the patient for fever and signs of infection.  Inspect the skin, mucous membranes, catheter sites, 
+surgical incisions, and perineal area regularly for evidence of infection. 
+4. The patient is not to receive fresh flowers or plants. 
+5. A neutropenic diet is ordered, restricting the patient from receiving fresh fruits and vegetables, tea, deli 
+meats or fountain drinks.  Food on trays must all be covered.  Cooked food should be warm upon 
+receiving it.  Hot food should be thrown out after 1 hour at room temperature. 
+6. Temperatures are to be taken a minimum of every 4 hours.  No rectal temperatures. 
+7. Meticulous hand washing by all who enter the room is strictly enforced. 
+8. No staff members with a transmissible disease or recent live immunization will have contact with 
+patient. 
+9. Invasive procedures are kept at a minimum.  Ex: suppositories, enemas, and urinary catheterizations. 
+10. The patient will be encouraged to perform meticulous personal hygiene.  This will include cleansing the 
+perineal area daily and after every bowel movement. 
+11. Institute mouth care protocol per physician order. 
+12. No visitors with transmissible infections will be allowed to visit the patient. 
+13. Provide prompt initiation of ordered antibiotic therapy during episodes of febrile neutropenia. 
+  
+REFERENCES: 
+Herring, R.A, (ED.). (2019) The Pediatric Chemotherapy and Biotherapy Curriculum. (4th ed.).    Glenview, IL: 
+Association of Pediatric Hematology/Oncology Nurse 

@@ -1,0 +1,160 @@
+ 
+PH.2405_Hazardous Materials / SDS 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Hazardous Materials / SDS 
+PAGES: 
+3 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2405 (08/30/2022) 
+ORIGINAL EFFECTIVE 
+DATE: 07/09/2015 
+REVISIONS EFFECTIVE: 
+03/22/2023 
+POLICY NUMBER:  
+PH.2405 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+The purpose of this policy is to ensure that hazardous materials are properly used, stored and disposed of and all 
+employees have access to Safety Data Sheets (SDS) within the pharmacy. 
+POLICY: 
+A. Departments using any hazardous materials must have an inventory list of these products as well as the SDS that 
+are readily accessible during each work shift to employees in each Department.  
+B. The pharmacy will ensure that all chemicals that exist in the workplace are identified and properly stored, with 
+access to the SDS available to all employees through the SDS Online E-Binder located on Teamlink.  
+C. SDS for all “on hand” chemicals (unless exempted) will be maintained online and available to all employees.  
+DEFINITIONS: 
+N/A 
+PROCEDURE: [URAC P-OPS 5-2 (a, b, c)] 
+1. Hazardous materials must be properly used, stored and disposed of to ensure a safe environment. 
+2.
+ All pharmacy personnel follow company policy and procedures for safe handling and storage of all chemicals 
+and other hazardous materials. 
+3. Materials Management maintains a file of SDS information for all hazardous materials which is accessible 
+through Teamlink. This includes the identity (chemical name if known) of the hazardous substance or agent, 
+where it is used (or was used), and when it was used these files must be retained for at least thirty (30) years. 
+4. SDS contain each of the 16 sections requirement by 29 CFR 1910.1200(g) including but not limited to: 
+• Health effects of the chemical or compound. 
+• Personal Protective Equipment (PPE) required when using the material.  
+• Procedures for cleaning up and disposing of the chemical. 
+5. Personal protective equipment is provided to protect pharmacy personnel from injury while using, storing or 
+disposing hazardous materials, including blood and body fluids. Pharmacy personnel are responsible for 
+wearing protective equipment to protect them from exposure. 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+ 
+3/22/2023 1:04 PM 
+ 
+ 
+PH.2405_Hazardous Materials / SDS 
+2 
+6. The pharmacy will rely on its suppliers and vendors to provide appropriate hazard determinations. SDS will 
+reflect such hazards that are then present in the pharmacy. 
+• SDS sheets are located on Teamlink.   
+• All staff and pharmacy personnel have access to SDS Sheets at all times.  
+7. The pharmacy uses the National Institute for Occupational Safety & Health (NIOSH) list of antineoplastic and 
+other hazardous drugs in healthcare settings as the resource to define hazardous material. [URAC P-OPS 5-2 
+(a)]  The NIOSH list is reviewed annually for changes.  
+8. Appropriate personnel will be responsible for ensuring that all containers of hazardous materials are properly 
+labeled. Labels must identify what is in the container, what the hazard is, and appropriate hazard warnings, i.e., 
+"causes lung damage" and otherwise comply with 29 CFR 1910.1200(f).   
+9. SDS will be requested for all substances in the workplace that are considered hazardous. SDS's will be 
+reviewed annually and updated as required.  
+10. SDS's shall contain precautions for safe handling, storage, appropriate disposal and effective use of the 
+hazardous substance. First aid procedures must also be addressed on each SDS.  
+11. Assessment of Risk 
+a) Assessments of Risk are completed, and practices are implemented for the following: 
+i. NIOSH-listed drugs that do not have to follow USP <800> containment requirements.  This 
+includes the following unless required by the manufacturer: 
+1. Final dosage forms of compounded hazardous drugs (HD) preparations 
+2. Conventionally manufactured HD products that require no further manipulation other 
+than counting or repackaging 
+3. Non-antineoplastics HD dosage forms on the NIOSH list 
+ii. Ot her materials stored in the pharmacy with hazardous potential (i.e., cleaning products) 
+1. SDS information will be used to determine if the product is hazardous 
+b) Assessments of Risk will include the following information: 
+i. Type of HD 
+ii. Dosage form (each form listed individually, even if same info) 
+iii. Risk of exposure 
+iv. Packaging  
+v. Manipulation 
+vi. Alternative containment and/or work strategies to minimize employee exposure 
+vii. Information from the product’s SDS 
+c) Hazardous drug and material Assessments of Risk will be reviewed on an annual basis. 
+ 
+12. Pharmacy employees are trained, upon initial employment, with respect to the use and location of SDS in their 
+work area at the time of their initial assignment, and  
+a) When any new hazardous substance or chemical is introduced into the workplace, the pharmacy manager 
+will coordinate placement of a copy of the SDS in the Online e-binder  
+b) The pharmacy manager will promptly inform personnel via verbal notice or written memo regarding the 
+new product and any precautions/safety equipment required in using it. 
+13. Spill kits are readily available to pharmacy employees in the area where medication deliveries are received as 
+well as storage area.  [URAC P-OPS 5-2 (c-ii)]   
+14. A ll hazardous drugs will be stored, handled, labeled and transported using methods that protect employees, as 
+recommended by the United States Pharmacopeia (USP) <800> guidelines, Occupational Safety and Health 
+Administration (OSHA) and/or NIOSH. [URAC P-OPS 5-2 (b)]     
+15. Where possible, the pharmacy may place alerts or comments in the medication order entry system, automated 
+dispensing devices, or pharmacy workflow technology to help identify hazardous drugs. 
+16. Hazardous drugs will be stored separately from other non-hazardous drug inventory.  
+PH.2405_Hazardous Materials / SDS 
+3 
+17. Personal Protective Equipment (PPE) 
+a) Any employee who may, during the course of their normal pharmacy job duties, be expected to come in 
+close proximity (during inventory receiving, distribution, stocking, inventory control, order picking, 
+compounding, packaging for distribution or disposal) to hazardous drugs will wear appropriate PPE as 
+defined in the USP<800> guidelines, OSHA (including as set forth in the SDS), and NIOSH standards. 
+[URAC P-OPS 5-2 (b)] 
+ 
+18. Training/Education [URAC P-OPS 5-2 (b)] 
+a) The pharmacy will administer training and education around the appropriate storage, handling, labeling and 
+transport of hazardous drugs to any employee who may, during the course of their normal pharmacy job 
+duties, be expected to come in close proximity (during inventory receiving, distribution, stocking, inventory 
+control, order picking, compounding, packaging for distribution or disposal) to hazardous drugs.   The 
+pharmacy will provide training as well whenever a new chemical hazard is introduced into the employee’s 
+work area. 
+b) The pharmacy will administer education to its employees around the appropriate procedures for hazardous 
+drug spill management. [URAC P-OPS 5-2 (c-ii)] 
+c) The pharmacy will develop standard operating procedures that support appropriate storage, handling, 
+labeling and transport of hazardous drugs as recommended by the OSHA, and the USP. 
+d) The pharmacy will administer education to its patients enrolled in the patient management program on 
+appropriate storage, handling, labeling, transport, disposal and pick-up of hazardous drugs, chemicals, waste 
+and contaminated materials by:  
+i.   Providing information during counseling. 
+ii.  Providing printed materials during dispensing. 
+19. Labeling and Transport 
+a) Hazardous drugs will be transported in a manner that prevents spillage, breakage, leakage and minimal 
+exposure to the person transporting the hazardous drug in compliance with OSHA and Department of 
+Transportation standards.   
+b) Should the hazardous drug be transported offsite, an appropriate hard-case carrier or storage container 
+denoting hazardous drugs on the outside of the container will be used for transporting the hazardous drug.  
+The employee will be aware of the SDS information prior to the transport and will also carry a spill kit 
+during the transport.   
+20. Disposal of Hazardous Materials [URAC P-OPS 5-2 (b)] 
+a) The pharmacy uses a reverse distributor to dispose of unacceptable medications and hazardous materials. 
+Unacceptable medications and hazardous materials are placed in a hazardous waste container which is then 
+picked up by the reverse distributor for proper disposal.  
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: P-OPS 5-2 
+• ACHC: DRX7-6A, DRX7-6B 
+ 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  

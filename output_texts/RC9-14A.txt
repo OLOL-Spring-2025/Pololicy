@@ -1,0 +1,102 @@
+   
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Computer Downtime Section: Blood Gas Lab 
+Date of Origination:  April 1, 2012 Signature:  
+Date of Last Revision:January 31, 2024 Serial Code: RC9-14A 
+       Reviewed: January 31, 2024 
+FORMULATED BY 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to delineate the procedures to be followed when the computer 
+system associated with blood gas reporting is down. 
+ 
+Application 
+All data that is acquired by EMR originates from the analyzer and is sent to the Epoc Data 
+Management System (EDM)  and then manually entered and verified in  the EMR.  The 
+RALS maintains a complete historical record of all samples, quality controls and 
+calibrations.  A back up of all the RALS files is maintained at the Information Systems 
+Mainframe. 
+ 
+PROCEDURE: 
+During Downtime 
+If a Code Purple has not been activated, then as soon as the department becomes aware of 
+a problem with the computer system, the shift supervisor should call the HELP (4357) desk 
+and verify that there is a problem with the EMR. If the HELP desk verifies that the EMR  
+is down, the following procedures should be followed. 
+ 
+The following general guidelines apply to downtimes: 
+A. Whenever possible, the order will be entered into the EMR as soon as possible to 
+allow as close to normal resulting of  blood gases as possible. Blood gases can be 
+run in any of the labs. 
+B. When an order has been entered into the EMR, a 13-digit Accession # is the patient 
+identifier to be used. 
+C. When it is not possible to enter an order into the EMR, The patient’s medical record 
+number will be used as the patient ID.  Preprinted patient labels will be affixed to 
+the Temporary Blood Gas Reports. 
+1. Temporary Blood Gas Reports will be maintained in the Blood Gas lab s 
+until all data has been entered into the EMR  and all results have been 
+reviewed by a supervisor to ensure there are no transcription errors.   These 
+reports will be kept on file for 2 years. 
+2. When a blood gas order is received, the therapist should obtain 3 patient 
+labels before the sample is collected.    
+3. When the sample has been collected, it should immediately be labeled and 
+transported to the blood gas lab.  After the sample has been placed in the 
+analyzer, the  patient’s medical record number will be entered into the 
+analyzer as the patient ID. The therapist will select the appropriate report 
+layout corresponding with the test ordered. All other sample information 
+should be completed in the analyzer at this time. Print two copies of the 
+blood gas result from the analyzer’s printer. Place a pati ent label on both 
+copies of the patient’s results.   
+ 4. The results will be held in the RALS until downtime recovery. Attach a 
+copy of the patient’s results to a Temporary Blood Gas Report form. Place 
+one report in the patient’s chart. Place the other report in the downtime 
+folder in the Blood Gas Lab. 
+5. Results MUST have at least two forms of ID on them, such as name and 
+medical record number.  
+ 
+Recovering from Downtime 
+Some general guidelines for operations regarding the processes in recovering from 
+downtime are as follows: 
+A. If the sample already has an accession number. 
+ 1. Result those gases that already have valid accession numbers but were not 
+verified in the EMR. Retrieve each specific gas by recalling the patient data on 
+the specific machine where the gas was run. Collect the specimen in the EMR 
+at the time it was performed. Receive the specimen in the EMR. Log-in at the 
+time it was performed and result to accession result entry, as it would normally 
+be done. 
+B. If the patient’s medical record number was used for the accession number during the   
+ downtime: 
+1. Crosscheck all orders against the Temporary Blood Gas Report. The date of 
+cross check and the initials of the person performing the crosscheck should 
+be placed on the report. 
+2. Order and log-in the test(s), which the patient’s medical record was used. It 
+is CRITICAL that the test is ordered at the approximate time it was run (this 
+time should be prior to the run time). Be sure to print barcode in area where 
+the ordering is done. 
+3. Retrieve each specific gas by recalling the patient data corresponding to the 
+assigned medical record number on the specific machine where that gas was 
+ran. Edit the patient data to reflect the new valid accession number which 
+was received when placing the order. 
+4. Result to accession result entry as it would normally be done. 
+ 5.      The Supervisor or Charge Therapist will be responsible for proper resulting 
+       of all downtime blood gas results. The Supervisor or Charge Therapist will  
+         be responsible for obtaining all Temporary Blood Gas Reports and  
+         submitting them to the Blood Gas Lab Supervisor. 
+ 6.      The blood gas result that was placed in the patients chart will be scanned by 
+             Blood Gas Supervisor.  
+    
+ 
+Documentation of Maintenance, Calibrations, QC during Downtime 
+All documentation of calibration and QC will be maintained on the individual blood 
+gas analyzers. Maintenance will continue to be manually recorded as normal. QC 
+and calibration data will transmit to  RALS when downtime is completed. In the 
+event of  RALS downtime the data automatically transmits from the analyzer when  
+RALS comes back on line.  Calibration data from the blood gas analyzers will be 
+resent to RLAS after downtime. (It will be important to record the start and stop 
+times of the downtime to retrieve this information.) 

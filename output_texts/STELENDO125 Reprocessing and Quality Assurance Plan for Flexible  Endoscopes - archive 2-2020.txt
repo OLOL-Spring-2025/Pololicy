@@ -1,0 +1,264 @@
+1 
+ 
+OUR LADY OF THE LAKE ASCENSION 
+ 
+POLICIES AND PROCEDURES: 
+ 
+Endoscopy 
+ 
+EFFECTIVE DATE: 
+ 
+March 1985 
+ 
+NUMBER: 
+ 
+STELENDO125 
+ 
+SUBJECT:  Reprocessing and Quality Assurance Plan for 
+Flexible Endoscopes 
+ 
+PAGE 1 OF 5 
+ 
+APPROVED BY: 
+ 
+Yvonne Pellerin, RN, MS, NE-BC, 
+VP, Patient Care/CNO 
+        
+ 
+ 
+I. PURPOSE: 
+To provide guidelines for transport, cleaning, disinfecting and storage of flexible 
+endoscopes and verification of processes.   
+ 
+II. POLICY 
+All flexible endoscopes shall follow a defined cleaning and disinfection procedure 
+and processes will be verified before patient use. Manufacturer’s instructions for 
+cleaning, cleaning products, processes, and disinfection shall be followed.   
+ 
+III. PROCEDURE 
+ 
+A. Personal Protective Equipment (PPE) consisting of gloves, fluid 
+resistant gowns, face protection (a face shield or a mask and goggles) will 
+be utilized by staff when cleaning endoscopes. 
+ 
+B. Pre-cleaning: The scope should be pre-cleaned immediately after use by 
+utilizing the prepackaged enzymatic cleaner and sponge to irrigate or 
+suction through the channels and wipe the outer soiled areas. 
+ 
+C. Transport:    
+1. For any scopes used in the Surgical Services Department or outside 
+of the endoscopy suite:  The clean scope is transported to the 
+procedure area via the scope valet bag with the green “clean” tag 
+in place or in a clear clean transport container with a lid in place.  
+Once the scope is used, and bedside cleaning (point of use) has 
+taken place, it is transported to the Endoscopy reprocessing room 
+for cleaning and high level disinfection, in the scope valet bag 
+with the red “dirty” tag in place, then placed in the leak 
+proof/puncture resistant biohazard transport container.  Carts, 
+containers, and work surfaces are decontaminated with a hospital 
+approved cleaner. 
+2.  High level disinfected processed flexible scopes transported from 
+the scope processor to the storage cabinet, will be transported in 2 
+ 
+designated clean transport containers to the storage area.  Follow 
+instructions in section (I) below for storage.     
+ 
+D.  Manufacturer’s instruction manuals and posters with recommended 
+procedures cleaning and disinfecting processes are accessible in the 
+Endoscopy reprocessing areas for reference.  Manufacturer 
+recommendations and guidelines shall be followed for endoscope 
+cleaning, leak testing, automatic endoscope reprocessor operation (AER), 
+and chemical testing.  
+ 
+E. Manual cleaning of the scope is performed following MFG. 
+recommended guidelines and instructions posted in the scope reprocessing 
+room.  Utilize disposable brushes to manually clean channels and a 
+sponge/cloth to wipe exterior surfaces of the scope. Adaptors are then 
+attached to the scope for final automatic irrigation and rinsing 
+ 
+F. High level disinfection is performed in the automatic endoscope 
+reprocessor (AER) by following manufacturer’s operating instructions for 
+cleaning and disinfection of flexible scopes 
+1.  Prior to daily use, maintenance and quality checks are performed 
+on the AER before use.  Information to be documented in the 
+logbook: 
+a. Check that the AER is “ON” 
+b. Filter Log 
+c. Check the expiration date on the Rapicide solution on both  
+                                         sides A&B                       
+d. Check alcohol levels 
+e. Check Printer paper 
+2. Utilize chemical test strips for “Pass” or “Fail” results to monitor 
+minimum effective concentrations. Verification of these results is 
+documented in the designated logbook along with a “pass or fail” result 
+for sheath tests. 
+ 
+G. Process Verification:    After the processor cycle is complete, verification 
+of the (AER) process is performed utilizing the printed readout. Confirm 
+that all required information and cycles are completed.  Affix a patient 
+label to the printout to keep with the log book.  Documented information 
+includes: 
+ 1. Machine ID 
+ 2. Date 
+ 3. Time 
+ 4. Scope # 
+ 5. Operator 
+ 6. Patient label applied to the printout 
+ 7. Physician 
+ 8.  Cycles completed 3 
+ 
+   a. flush 
+   b. disinfect/temperature/count 
+   c. rinse 
+   d. alcohol 
+   e. air 
+   f. sheath test   
+ 
+H. Process Failure: If any parameter is not met, or in the case of equipment 
+failure:  
+1. Scopes not meeting all cleaning/disinfection parameters will not be 
+used in patient care.  
+2. Repeat the testing/ cleaning/disinfecting process.  Trouble shoot 
+and eliminate any human error which may have occurred. 
+3.  Replace solutions if needed. 
+4. Complete appropriate paperwork (i.e. Olympus Equipment Service 
+Request Form), send scope out for repair 
+5. Contact biomedical department to notify of equipment servicing.   
+ 
+ 
+I. Storage of Endoscopes:     Upon removal from the processor, and prior to 
+storage, all scopes should be checked for cleanliness, Quality parameters 
+met, and structural integrity.  The scope will be tagged with the processing 
+date, and the processor’s initials before being placed in a transport 
+container for transport to the hanging storage cabinet 
+1. Hang scopes in a vertical position in an enclosed cabinet with 
+caps/water and suction valves removed to allow any remaining 
+moisture to drain/dry. Hepa filter air circulation is used in cabinets 
+where available.  The insertion tube portion of the scope may not 
+touch the walls of the cabinet or each other. 
+ 2. Flexible endoscopes will be processed before use if stored unused 
+ for more than seven days. 
+3. Storage cabinets (including cabinet in ICU) will be cleaned and 
+ disinfected with hospital approved EPA-registered disinfectant 
+ when visibly soiled and on a weekly schedule. 
+ 
+J. Chemical Monitoring:  All test strips and chemical disinfecting solutions 
+will be verified before use and dated for expiration.  
+1. Efficacy of the chemical test strips will be verified by logging onto 
+the manufacturer’s website www.medivators.com. and printing the 
+certificate of analysis for the test strip vial.  Initial and date the 
+certificate and place in file.   Test strips are to be dated to expire 
+120 days from opening.   
+2. Disinfecting solutions are tested following Mfg. instructions.  All 
+opened bottles of solutions are dated with expiration. Any expired 
+solutions are discarded. AER disinfectant solutions are flushed and 
+replaced every 21 days 4 
+ 
+ 
+ 
+ 
+ 
+ 
+K. AER Maintenance: 
+ 1. Micron filters and solution changes are performed at recommended 
+intervals by trained employees.  Routine maintenance is documented in 
+the designated logbook.  
+ 2.  Preventive Maintenance is performed and documented through the Bio-
+med department. 
+ 
+   
+ 
+ 
+ 
+IV. REFERENCE: 
+ 
+Standards of Infection Control in Reprocessing of Flexible Gastrointestinal Endoscopes, 
+SGNA, 2012 
+AORN guidelines 
+ 
+Steris Corporation RevitalOx Label and MSDS sheet 
+ 
+Medivators DSD Edge: Endoscopic Reprocessing System User Manual  
+ 
+Medivators Scope Buddy Endoscopic Flushing Aid User Manual 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5 
+ 
+ 
+V.  REVISIONS 
+ 
+12/92; 05/93; 04/95; 03/98; 08/00; 8/02; 9/03, 11/04 
+09/03: AORN reference changed to 2003 Edition  
+3/2005 to include Automatic Reprocessor. Reference: Steris Corp. Manufacturer’s guidelines.   
+1/2006, 1/2007, 1/2008, 1/2009;1/2010; 1/2011, 1/2012 
+7/2012 entire policy rewritten to SGNA and Steris Corp. Guidelines 
+10/8/2013 Added ICU bronchoscope process 
+9/5/2014 Revisions made to chemical monitoring  and quality checks sections to accom modate changes  
+for new AER equipment and solution(MMS)  
+3/2015 Manufacturer’s instruction manuals and posters with recommended procedures cleaning and 
+disinfecting processes are posted in the Endoscopy reprocessing areas for reference.   
+9/2015 added red biohazard covered transport containers and transport process; and the tagging of 
+scopes before storage 
+11/2015 change in ICU process 
+1/2016 revised transport system to include scope valet bag process, added PPE (face protection including 
+masks/goggles or face-shield) 
+October 2017 re-write of policy for clarity,  revisions to include updated AORN  and OLYMPUS 
+guidelines and recommendations for re-processing 
+3/2018 Updated to reflect weekly cleaning of endoscope cabinet 
+1/05/2018 Removed ICU bronchoscope cleaning process, using disposables only  
+7/2019 Added heap filter to storage section when available, section I. Added closed containers transport 
+section c.   
+ 
+ 
+                V.I.  Review 
+1/2013; 1/2014; 1/2015; 3/2015; 1/2016; 10/2017, 3/2018; 7/2018; 7/2019; 9/2021; 9/2022; 9/2023; 9/2024; 
+1/2025 
+ 
+Archive post-merger 2-2020 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+ 
+ 
+ 

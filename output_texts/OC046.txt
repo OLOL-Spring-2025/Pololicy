@@ -1,0 +1,126 @@
+OC-046 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: Clinical 
+Title: Rapid Response Team / Condition H 
+Policy / Code FAST 
+Policy Reference #: OrgClin/046 
+Supersedes #:  
+Date of Origination: December 29, 2008 Last Review Date: May 18, 2023 
+Last Revision Date:  December 9, 2024 
+ 
+PURPOSE: 
+To provide a rapid response intensive care team to assess treatment and provide early intervention for 
+patients at risk for a clinical decline. 
+ 
+POLICY: 
+A. The Rapid Response Team (RRT) can be activated by any team member noticing a decline or 
+change in an inpatient, observation, or ambulatory admitted patient’s condition.  A Code Blue is 
+called for staff, visitors, and patients who are not registered as an admit to the hospital. 
+B. A Condition H (HELP) can be activated when a family member or guest notices a decline or change 
+in a patients’condition. Family members can dial extension 1000 to activate a Condition H. 
+C. RRT activation should not delay the notification of the attending physician for any acute change in a 
+patients’status. 
+D. The RRT is available to respond when called 24hrs per day. 
+E. The RRT consists of: 
+▪ House Manager 
+▪ Respiratory Therapist 
+▪ Critical Care Nurse (when needed) 
+▪ Critical Care Intensivist (as needed when attending physician unable to respond) (Ascension 
+Campus- attending physician will respond) 
+▪ EKG availibility  
+F. Minimum Qualifications  
+▪ Current ACLS (Advanced Cardiac Life Support), and BLS (Basic Life Support) as applicable 
+to job class 
+▪  Registered Nurse  or Respiratory Therapist 
+G. Criteria for Activation of RRT may include any one of the following: 
+▪ Anytime a team member feels there is a significant change in a patients’ condition. 
+▪ Acute change in heart rate to less than 40 or greater than 130 beats/min 
+▪ Acute change in systolic blood pressure to less than 90mm Hg 
+▪ Acute change in respiratory rate to less than 8 or greater than 30 breaths/min 
+▪ Acute change in pulse Oximetry saturation to less than 90% despite oxygen administration 
+▪ Acute change in conscious state/neurologic status 
+▪ Acute change in urine output to less than 50 mL in 4 hrs 
+▪ Complaint of chest pain 
+H. Criteria for Activation of Condition H includes anyone of the following: 
+▪ When a family member or guest notices a sudden medical change 
+▪ Difficulty breathing 
+▪ Sudden onset of confusion 
+▪ Less responsive OC-046 
+Page 2 of 3 
+▪ When there are serious concerns about how care is being managed 
+I. Code FAST 
+▪ If the House Manager responds to the RRT for acute neurologic changes and determines the 
+patient could be having an acute stroke, he/she will instruct the staff nurse to perform a 
+stroke screen in the EPIC Flowsheet. If this screen is positive, the staff nurse will call a Code 
+FAST 
+If the physician deems the patient a Code FAST, the Code Fast algorithm will be followed. 
+RRT  PROCEDURES 
+1. Team Member calls the Paging Operator at extension 5-1776  (Ascension Campus- dial “0” for the 
+operator or page overhead by dialing *71) 
+a. The PBX operator will announce on the overhead paging system RRT or Condition H 
+and the room number. 
+2. The RRT will respond to the designated location within 5 minutes. 
+3. Units who will not access RRT 
+a. Critical Care Units 
+b. Post Anesthesia Care Units 
+c. Emergency Care Unit except for the Emergency Department Observation Unit (EDOU) 
+and Emergency Mental and Behavioral Health Unit (EMBH) 
+d. Units in TAU Building 
+e. Offsite locations 
+f. Exceptions: 
+SMA will utilize the Standard Operating Procedure for a pediatric RRT     
+                                                                                
+                         A Pediatric RRT can ONLY be called in SMA as this is the only unit that has admitted  
+                         inpatient pediatric patients. 
+ 
+                          Pediatric RRT Team Members 
+▪ AG 
+▪ Attendant 
+▪ EKG 
+▪ House Manager 
+▪ PACU RN 
+▪ Respiratory 
+▪ SMA RN 
+ 
+                             Successful RRT 
+▪ Patient remains in SMA 
+ 
+                             Unsuccessful RRT/Code Blue 
+▪ Patient will be transferred to PACU 
+▪ AG MD will assume care of the patient 
+▪ AG MD to contact Pediatric Intensivist for patient hand off 
+▪ Pediatric transport team contacted and transports patient to children’s hospital 
+ OC-046 
+Page 3 of 3 
+4. Responsibility of Primary Nurse 
+a. Provide assessments to RRT 
+b. Remain at patient bedside 
+c. Assist with obtaining equipment or supplies 
+d. Complete electronic document 
+e. Situation, Background, Assessment, Recommendation (SBAR) report provided to next 
+level of care. 
+5. Responsibility of House Manager/RRT Nurse 
+a. Assess patient 
+b. Initiate interventions within the scope of practice and/or ACLS guidelines 
+c. Stay with patient until stable or assist with transport to a higher level of care 
+d. Notify Intensivist for intervention if attending physician has not responded within 10 
+minutes 
+e. Provide education and support to primary nurse 
+f. Complete the RRT documentation  
+6. Responsibility for RRT Respiratory Therapist 
+a. Perform advanced respiratory assessment 
+b.  Initiate interventions within their scope of practice 
+c. Documentation 
+d. Assist with transport as needed 
+7. Attending Physician or Intensivist (if attending is not available) (Ascension campus- attending 
+physician will respond)  
+a. Initiate orders to stabilize patient 
+b. Communication with care team 
+c. Documentation 
+8. RRT data analysis and reporting will be completed quarterly. 
+ 
+ReferencesCode Fast-Stroke (sharepoint.com) 
+ 
+ 
+ 

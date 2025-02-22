@@ -1,0 +1,881 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 19 
+LBA202 
+ 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA202 
+CHEMICAL HYGIENE PLAN  
+        Date Issue  Date Effective Date 
+ Prepared/Revised By D Leger 6/11/19 7/5/2019 7/5/2019 
+Blood Donor Service  and Core Lab Director Review J Teague 6/26/2019 Origination Date 
+Outreach Director Review E Landry 6/27/2019 8/2009 
+Laboratory Medical Director Review A Harton 7/2/2019  
+ 
+PURPOSE  
+To establish the minimum requirements for compliance with OSHA's "Standard for 
+Exposure to Hazardous Chemicals in Laboratories", 29 CFR 1910.1450 and to minimize 
+exposure of laboratory personnel to health and physical hazards presented by hazardous 
+chemicals used in laboratories.  
+ 
+SCOPE  
+This policy applies to all employees and students.  
+ 
+DEFINITIONS 
+• Chemical Hygiene Plan (CHP) - A written document that details how the 
+laboratory will manage the hazardous chemicals that are present and used in the 
+laboratories.  
+• Departmental Laboratory Safety Coordinator (LSC) - The individual who has 
+responsibility for administering a particular department's Chemical Hygiene Plan.  
+• Hazard Communication Program- A written program developed and instituted 
+order to comply with the OSHA Hazard Communication Standard (29 CFR 
+1910.1200). This program sets forth the policies and procedures regarding Safety 
+Data Sheets, container labeling, and employee training.  
+• Hazard Communication Program Administrator- the Laboratory Director has 
+overall management responsibility for the establishment of practices and 
+procedures to implement the Hazard Communication Program. 
+• Hazardous Chemical- Any chemical that may present a physical hazard or a 
+health hazard.  
+• Health Hazard- A chemical for which there is statistically significant evidence 
+that acute or chronic health effects may occur in exposed employees.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 19 
+LBA202 
+• Hazardous Material Identification System (HMIS) - A labeling and hazard 
+rating system developed by the National Paint and Coatings Association.  
+• Label- Any written, printed or graphic sign or symbol displayed on or affixed to 
+containers of hazardous chemicals. A label should identify the hazardous material, 
+appropriate hazard warnings, and name and address of the manufacturer or other 
+responsible party.  
+• SDS (Safety Data Sheet) - A document developed and provided by the chemical 
+manufacturer to inform employers of the properties and hazards of the chemical.  
+• Non-Routine Task- A task that is conducted on an infrequent or non-routine 
+basis that involves the potential exposure to hazardous chemicals (i.e., tank 
+cleaning).  
+• The Occupational Safety and Health Administration (OSHA) - OSHA is part 
+of the Department of Labor and is the regulatory and enforcement agency for 
+safety and health in the industrial sector.  
+• Physical Hazard- A chemical that is a combustible liquid, a compressed gas, 
+explosive, flammable, an organic peroxide, an oxidizer, pyrophoric, unstable 
+(reactive), or water-reactive.  
+• The Laboratory Safety Officer- The individual designated as the Laboratory 
+Safety officer is charged with the overall administration of the laboratory's 
+compliance with OSHA's Laboratory Safety Standard.  
+ 
+CHEMICAL HYGIENE PLAN 
+In order to comply with the provisions of OSHA's Standard for Exposure to Hazardous 
+Chemicals in Laboratories the following written Chemical Hygiene Program has been 
+established. It is the intent that this document supplements, and not replaces, the Medical 
+Center's Chemical Hygiene Program. It is intended to provide employees with specific 
+information concerning departmental practices and procedures. All work units of the 
+laboratory are covered by the practices and procedures outlined in this document and the 
+Medical Center's Chemical Hygiene Plan. 
+ 
+CHEMICAL HYGIENE PLAN AVAILABILITY 
+The Chemical Hygiene Plan is a written policy maintained by OLOL Laboratory 
+Administration and is readily available to interested employees.  
+ 
+LABORATORY SAFETY COMMITTEE  
+The Laboratory Safety Committee consists of a designated member from each 
+department or Laboratory and meets Quarterly.  Offsite laboratories hold a joint meeting 
+that consists of both Regulatory Compliance and Safety.  The Lab Safety Committee is 
+responsible for the following:  
+•  Provide oversight and assistance for managing the laboratory chemical safety 
+program.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 3 of 19 
+LBA202 
+• Maintain representation from all affected departments.  
+• Establish, implement and maintain a Department Chemical Hygiene Plan (DCHP) 
+and ensure compliance with that plan.  
+• Principal laboratory supervisors in areas engaged in the laboratory use of 
+hazardous chemicals.  
+• Ensure all operations are conducted in accordance with Chemical Hygiene Plan 
+(CHP).  
+• Ensure all students and employees working in their labs comply with CHP.  
+• Employees and students engaged in the laboratory use of hazardous chemicals are 
+responsible for complying with all requirements.  
+• The Departmental Safety Committee is responsible for preparation, coordination 
+and review of the Departmental Chemical Hygiene Plan and for providing 
+technical assistance to laboratory workers.  
+• Assist in the development of Departmental Chemical Hygiene Plan.  
+• Determine Hygiene monitoring requirements.  
+• Coordinate with Physician the medical examination requirements of exposed 
+laboratory workers.  
+• Monitor and inspect laboratories to determine compliance with federal, state and 
+local health and safety regulations.  
+• Assist with the development of safety training and education programs for CHP 
+participants.  
+• Review departmental Chemical Hygiene Plan.  
+• Review of the Chemical Hygiene Plan implementation.  
+ 
+DESIGNATED AREAS FOR THE USE OF PARTICULARLY HAZARDOUS 
+MATERIALS  
+• OLOL Main Laboratory  
+o Chemistry Department 
+o Microbiology Department 
+o Transfusion Services Department 
+o Hematology Department 
+o Histology / Anatomic Pathology Department 
+• Livingston Laboratory 
+• North Baton Rouge Laboratory 
+• Assumption Community Hospital Laboratory 
+• Ascension Laboratory 
+• Children’s Hospital Laboratory 
+ 
+INFORMATION AND TRAINING  
+Each department shall ensure that all Laboratory Employees in the department who are 
+involved in the laboratory use of hazardous chemicals receive the information and 
+training required by this policy.  
+• The following information shall be provided to laboratory:  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 4 of 19 
+LBA202 
+o Personnel at the time of initial assignment to the laboratory. Occupational 
+Exposure to Hazardous Chemicals in Laboratories "29 CFR 1910.1450”.   
+o Location of the Medical Center and Departmental Chemical Hygiene Plan.  
+o The permissible exposure limits and recommended exposure limits for 
+chemicals are found on the Safety Data Sheet for that chemical. 
+Permissible Exposure Levels are also found in OSHA PEL, 29 CFR 1910.  
+o Signs and symptoms associated with exposures to hazardous chemicals 
+used in the laboratory are found in the "Health Effects" section of the 
+Safety Data Sheet for the chemical.  
+o Additional safety reference material available includes:  
+o Safety Data Sheets (SDS) received from the chemical supplier. SDS of 
+chemicals are located on-line on TeamLink and in each applicable 
+Department. 
+• General training will consist of:  
+o The contents of the OSHA standard, which governs the use of potentially 
+hazardous chemicals in laboratories [29 CFR 1910.1450].  
+o The location, availability and details of this Chemical Hygiene Plan.  
+o The signs and symptoms associated with overexposure to hazardous 
+chemicals used in the laboratory.  
+o How laboratory employees can protect themselves from the potential 
+hazards of the chemicals they work with including work practices, 
+personal protective equipment, and emergency procedures.  
+• Department specific training will consist of:  
+o Applicable details of the Department Chemical Hygiene Plan.  
+o Methods and observations that may be used to detect the presence or 
+release of a unique hazardous chemical they may be using in that lab.  
+o The physical and health hazards of unique hazardous chemicals in the 
+work area.  
+o The measures that can be taken to protect oneself from these hazards, 
+including specific procedures the Department has implemented to protect 
+persons from exposure to hazardous chemicals, such as engineering 
+controls, appropriate safe work/lab practices, emergency procedures, and 
+personal protective equipment to be used.  
+• General training will be given to all new Laboratory Employees during 
+Laboratory Orientation.  
+• Records 
+• Records documenting training will be kept for length of employment plus 
+30 years.  
+• Records of audits or inspections will be kept for 5 years by the department 
+conducting the audit.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 5 of 19 
+LBA202 
+ 
+ 
+LABORATORY SAFETY RULES 
+• Know the location of emergency showers, eyewash fountains, first aid kits, 
+emergency exits, spill kits, and fire alarm pull stations. Know the location of the 
+nearest telephone.  
+• Know the location of Safety Data Sheets. Ensure that you have been trained on 
+the Chemical Hygiene Plan.  
+• No smoking, food, beverage, smokeless tobacco, or application of cosmetics in 
+the laboratory, except in designated areas in which no chemicals are used or 
+stored.  
+• Dress appropriately. Long hair, neckties, or loose clothing should be tied back or 
+otherwise secured. No sandals, open-toed or perforated shoes in the laboratory. 
+Shorts or skirts are not to be worn when working with chemicals in a laboratory.  
+• Appropriate eye protection will be worn at all times in laboratories.  
+• Wear the appropriate personal protective equipment for the chemicals you are 
+working with.  
+• Gloves shall not be re-used 
+• Comply with warning signs and labels.  
+• Laboratories with special or unusual hazards should be posted with appropriate 
+warning signs including: laser warning signs, radioactivity warning signs, 
+biological hazard warning signs, etc.  
+• Do not directly smell or taste any chemical. Do not pipette or siphon by mouth.  
+• Containers should be closed when not in use.  
+• Always add acid to water. (Alphabetically, acid comes before water).  
+• Perform only those experiments or procedures that you are authorized to do by the 
+person in charge of the lab.  
+• Report all injuries, fires, and accidents to your supervisor or instructor.  
+• If you have a question about a procedure or the hazards of a chemical, ask your 
+supervisor or instructor before performing the procedure.  
+• Never work alone in a laboratory or chemical storage area unless other individuals 
+know of your presence and appropriate means are available to summon assistance.  
+• Access to emergency equipment, safety showers, eye wash stations, and exits 
+must never be blocked.  
+• All chemicals must be labeled with at least the identity of the contents of the 
+container and the potential hazards associated with the chemical.  
+• Waste materials must be properly labeled and stored in an appropriate manner.  
+• Wash promptly with mild soap and water after any chemical contacts the skin.  
+• Avoid inhalation of chemicals. Do not "sniff" chemicals to determine their 
+identity or for other reasons.   
+ 
+CHEMICAL MANAGEMENT 
+In keeping with overall laboratory policy, no chemical material will be brought into the OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 6 of 19 
+LBA202 
+department, for any reason, unless it is accompanied by a current SDS and the material 
+has been appropriately purchased through the Medical Center's Purchasing Department. 
+• An inventory of all chemicals stored in a laboratory will be maintained in each 
+laboratory section. 
+• Before any containers of chemicals are stored in a lab, they must be entered 
+labeled, inventoried, and a SDS must be available.  
+• Prior to disposal of any original chemical container, the item will be removed 
+from the inventory system.  
+ 
+LABELING 
+• All containers of hazardous substances shall be appropriately labeled. The 
+manufacturer's label shall not be removed from a container as long as the material 
+or residues of the material remain in the container.  
+• All containers stored in common use storage areas, refrigerators or cabinets will 
+be labeled with person responsible for the material.  
+• All secondary containers into which hazardous substances are transferred or 
+prepared shall also contain labels that provide the following information:  
+o Identity of the hazardous substance.  
+o NFPA Diamond. For containers smaller than one pint, descriptions can be 
+limited to signal words, such as "FLAMMABLE" or "POISON".  
+o Date of preparation or transfer.  
+• All hazardous materials collection containers should be labeled with the 
+following:  
+o Type waste in container. (e.g. Non-Halogenated, Halogenated, Acid, Base, 
+etc.)  
+o Statement or statements that call attention to the particular hazardous 
+properties of the material. (e.g., flammable, corrosive, etc.)  
+o List of chemicals added to container.  
+• Labeling is not required for portable containers into which hazardous chemicals 
+are transferred from labeled containers that are intended only for the immediate 
+use of the individual who performs the transfer.  
+ 
+CHEMICAL, FLAMMABLE AND CORROSIVE STORAGE 
+• Shelves used for chemical storage shall be of substantial construction and 
+adequately braced. Shelves shall be provided with a 0.5 - 1.0 inch lip or guard 
+when used for the storage of individual containers, except when containers are 
+stored in a hazardous material storage cabinet.  
+• Chemicals must not be stored on shelves more than five feet above the floor.  
+• Containers are to be arranged in such a manner as to allow all labels to be seen. 
+When this is impossible, the shelf may be labeled with a list of contents.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 7 of 19 
+LBA202 
+• Chemicals should not be stored on the floor and should not protrude into traffic 
+areas.  
+• Materials that are sensitive to light shall be stored in containers designed to 
+protect the contents from light.  
+• Food shall not be stored or consumed in areas where toxic chemicals are used or 
+stored.  
+• Hallways and stairways should not be used as storage areas.  
+• Incompatible chemicals must not be stored together. 
+• Flammable Liquid Storage  
+o Flammable liquids have flash points below 100 F. Combustible liquids 
+have flash point below 140 F. For the purposes of this section, any liquid 
+having a flashpoint below 140 F will be considered to be flammable.  
+o All secondary containers of flammables greater than 1 liter shall be of the 
+safety can type meeting NFPA standards.  
+o Storage of more than 25 gallons of flammable liquids shall be in 
+flammable liquid storage cabinets meeting OSHA or NFPA 30 Flammable 
+Liquid Codes.  
+o Flammables shall not be stored in the same cabinet as oxidizers or water-
+reactive materials.  
+• Corrosives Storage  
+o Corrosives shall not be stored under sinks or in other areas where 
+plumbing, equipment, or shelving could be damaged by corrosive effects.  
+o Strong acids (Ph<2) and strong bases (Ph>12.5) shall be stored separately. 
+Where amounts are small, separation can be achieved by either all the 
+acids or all the bases being stored in separate containers such as bottle 
+carriers, spill pans, or other secondary containment.  
+  
+PRIOR APPROVAL MECHANISM  
+Approval for the purchase of chemicals or compounds of an unusual nature must have 
+prior authorization from the Laboratory Medical Director 
+ 
+APPROVAL TO INITIATE OR CONTINUE 
+Prior approval will be obtained from the appropriate designee for the following:  
+• For changes in procedures that may affect reaction rates, changes in temperatures, 
+or flammability.  
+• When ingredient chemicals in a hazardous operation are substituted, added or 
+deleted, or the amounts of chemicals are significantly increased or decreased.  
+• For operations that are to be left unattended.  
+• For hazardous operations performed by an individual working alone in a 
+laboratory.  
+• For hazardous operations involving pressurized or very exothermic reactions.  
+• For hazardous operations involving use of flammables with flashpoints below 
+100F, shock sensitive peroxides or corrosive gases.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 8 of 19 
+LBA202 
+• Approval to continue or proceed will be obtained from the appropriate designee:  
+• When there is a failure of equipment, especially safety control measures such as 
+fume hoods, clamp apparatus or temperature control.  
+• When the procedure produces unexpected potentially hazardous results.  
+• When signs and symptoms of chemical exposure are experienced.  
+• The Section Supervisor will institute a review mechanism to give approval for the 
+above items.  
+ 
+GENERAL HOUSEKEEPING  
+• Laboratories should be kept free of clutter. Working areas should be cleaned up at 
+the end of each operation and at the end of each day.  
+• Small spills of chemicals should be cleaned up immediately. Spills that require 
+cleanup measures beyond general housekeeping by laboratory personnel should 
+be reported to the Safety Officer.  
+• Safety showers, eyewash fountains, and fire extinguisher shall be free from any 
+obstruction that would prevent access and use. Access to emergency exits shall be 
+kept clear at all times.  
+• Circuit breaker panels shall have an unobstructed clearance of 30".  
+• The floor shall be kept clean and free of slip hazards by reasonable cleaning and 
+immediate cleanup of spills.  
+• Old containers, compromised containers, and solid chemical wastes should be 
+disposed of promptly and not allowed to accumulate.  
+ 
+INSPECTION AND MAINTENANCE OF PROTECTIVE DEVICES  
+• Temperature control and over-temperature shutoff devices on heating equipment 
+should be tested in accordance with manufacturer recommendations to ensure 
+proper operation.  
+• All automatic shutoff devices should be tested in accordance with manufacturer 
+recommendations to ensure proper operation.  
+• Records of inspection and testing of above equipment will be maintained in the 
+Department for three years.  
+• Fume hood performance will be evaluated at least annually by the Section 
+Supervisor.  
+• Explosion shields and isolation devices should be visually inspected by the user 
+for cracks or other damage before each use.  
+• Safety showers and emergency eyewash fountains will be inspected monthly and 
+periodically tested. Logs indicating date inspected and the inspector's name will 
+be attached on or near the shower or eyewash.  
+ 
+PERSONAL PROTECTIVE EQUIPMENT 
+• Each Department will coordinate establishing requirements for PPE     
+• Safety goggles (liquid and vapor tight) should be worn when setting up, taking OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 9 of 19 
+LBA202 
+down or monitoring experiments involving non corrosive chemicals.  
+• Safety eye protection will be worn at all times in laboratories. 
+• Face shields shall be worn for any operation involving corrosives.  
+• Skin Protection  
+o When working with those substances that are readily absorbed by the skin, 
+or with substances that are highly corrosive to the skin, appropriate 
+protection shall be provided by the department to protect the laboratory 
+worker from skin contact.  
+o Skin protection may take the form of shields, isolation of the procedure, 
+gloves, aprons, or other such protective equipment.  
+o Gloves and aprons should be selected according to the chemical resistance 
+of the protective material to the chemical to be used. This information can 
+be obtained by the supplier of the product and is usually presented in a 
+chemical resistance chart in the supplier's catalog. The Laboratory Safety 
+officer should be contacted to assist in selecting the proper personal 
+protective equipment.  
+ 
+EMPLOYEE EXPOSURES TO CHEMICALS  
+Whenever an employee has reason to believe that he/she has been overexposed to a 
+chemical material in the work area, he/she must immediately report the situation to 
+his/her immediate supervisor who in turn notify the laboratory Safety Coordinator or the 
+Department of Employee Health immediately. The Safety Coordinator and the supervisor 
+will investigate the circumstances of the incident. The Medical Center’s Safety Officer 
+and Employee Health Dept. will be apprised of the results of the investigation and make a 
+determination as to whether any medical consultations or examinations are warranted. 
+In the event of a major chemical release, spill, fire, or explosion, the Medical Center's 
+Safety Officer, Risk Management, Housekeeping, and Plant Services Departments will be 
+notified immediately of the circumstances surrounding the incident and appropriate 
+emergency response actions can be instituted.   
+ 
+MEDICAL CONSULTATION AND EXAMINATIONS  
+The Medical Center provides all persons involved in the laboratory use of chemicals an 
+opportunity to receive medical attention, including any follow-up examinations the 
+examining physician determines to be necessary, under the following circumstances:  
+• Whenever a laboratory employee develops signs or symptoms associated with a 
+hazardous chemical to which the employee or student may have been exposed in 
+the laboratory.  
+• Where industrial hygiene monitoring in a laboratory reveals an exposure level 
+routinely above the action level (or in the absence of an action level, the 
+Permissible Exposure Limit) to a substance listed by OSHA requiring medical 
+examinations; or  
+• Whenever an event takes place in the laboratory such as a spill, leak, explosion or 
+other occurrence resulting in the likelihood of a hazardous exposure.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 10 of 19 
+LBA202 
+• Any employee showing signs or symptoms they believe are due to exposure while 
+working in the laboratory must immediately report to ECU for determination of 
+need for medical examination.  
+• All medical examinations in accordance with this document shall be performed by 
+or under the direct supervision of a licensed physician and shall be provided at no 
+cost to the exposed laboratory employee.  
+• The laboratory is required to provide the following to the physician:  
+o The identity of the hazardous chemical(s) to which the laboratory 
+employee or laboratory student may have been exposed and a copy of the 
+SDS, if available;  
+o A description of the conditions under which the exposure occurred 
+including quantitative exposure data, if available; and  
+o A description of the signs and symptoms of the exposure that the 
+laboratory employee or laboratory student is experiencing, if any.  
+• The examining physician will submit to Employee Health Department a written 
+statement containing the following. The written statement from the physician may 
+not discuss or reveal any findings that are not specifically related to the 
+occupational exposure to the hazardous chemical(s).  
+o Any recommendations for additional medical examinations or follow-up.  
+o The results of the medical examination and any tests that were conducted 
+in conjunction with the examination that are specifically related to the 
+exposure and that are not considered medically confidential.  
+o Any medical condition uncovered during the course of the examination 
+that may place the employee at increased risk as the result of exposure to 
+the hazardous chemical(s).  
+o A statement that the physician has informed the employee of the results of 
+the consultation or examination and of any medical condition that may 
+require further examination or treatment.  
+ 
+LABORATORY VENTILATION AND LABORATORY (FUME) HOODS 
+• Per hour General laboratory ventilation should not be less than 8 air changes.  
+• All local exhaust ventilation systems shall be checked every six months to assure 
+they are mechanically operable. During these checks, routine maintenance, as 
+recommended by the manufacturer will also be performed.  
+• Any employee who has reason to believe that a local exhaust ventilation system is 
+not functioning properly, shall immediately report the suspected problem to their 
+supervisor, Laboratory Safety Coordinator, Employee Health Department, or 
+Plant Services.  
+• All local fume hoods should be checked every six months to assure that there is 
+adequate air flow. Fume hoods should have a minimum face velocity of 100 linear 
+feet per minute with the sash in the position it will be kept during normal 
+operations. ENV Environmental Services provides required hood inspections. 
+• Records of all measurements made to check the operability and adequacy of 
+laboratory exhaust ventilation systems will be maintained in the Plant Services OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 11 of 19 
+LBA202 
+Department.  
+• Laboratory Hoods  
+o The Medical Center's Safety Director is to be consulted before additions of 
+safety hoods.  
+o Laboratory hoods should not be relied upon to provide explosion 
+protection unless specifically designed to do so.  
+o When perchloric acid is evaporated or heated above ambient temperatures 
+in a laboratory hood, the hood should be specifically designed for 
+perchloric acid.  
+o For new installations or modifications of existing installations, fixed 
+electrical services and their controls should be located external to the hood 
+and within easy reach.  
+o For new installations of modifications of existing installations, controls for 
+other services (gas, air, water, etc.) should be located external to the hood 
+and within easy reach.  
+o Sash openings should be kept to a minimum.  
+o Chemicals and apparatus should be located within the hood and should be 
+kept at least six inches behind the plane of the sash.  
+o Personnel should keep their faces outside the plane of the sash.  
+o Storage in hoods should be kept to an absolute minimum.  
+o Laboratory personnel must recognize and be aware that:  
+▪ Laboratory fume hoods are a backup for other safety devices 
+such as traps and condensers.  
+▪ All equipment used in a fume hood should be kept at least six 
+inches from the front edge.  
+▪ All equipment must be effectively secured to prevent it from 
+being inadvertently knocked over and broken.  
+▪ Fume hood doors must be kept in a position that will provide 
+an adequate air flow while reactions or procedures are being 
+conducted.  
+▪ Fume hood fans should be left running whenever there are 
+chemicals present in the hood, regardless of whether or not a 
+procedure is being performed.  
+▪ Fume hoods should not be used to store chemicals or 
+apparatus.  
+▪ Personnel must be aware of procedures to follow if the power 
+to a local exhaust ventilation system should fail.  
+ 
+LAB HOOD USAGE 
+The following should always be considered when using a hood:  
+• Keep fume hood exhaust fans on at all times.  
+• If possible, position the fume hood sash so that work is performed by extending 
+the arms under or around the sash, placing the head in front of the sash, and 
+keeping the glass between the worker and the chemical source. The worker views 
+the procedure through the glass, which will act as a primary barrier if a spill, OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 12 of 19 
+LBA202 
+splash, or explosion should occur.  
+• Keep sash closed when an operation is left running.  
+• Avoid opening and closing the fume hood sash rapidly, and avoid swift arm and 
+body movements in front of or inside the hood. These actions may increase 
+turbulence and reduce the effectiveness of fume hood containment.  
+• Place chemical sources and apparatus at least 6 inches behind the face of the 
+hood. A colored stripe may be painted on, or tape applied to, the hood work 
+surface 6 inches back from the face to serve as a reminder. Quantitative fume 
+hood containment tests reveal that the concentration of contaminant in the 
+breathing zone can be 300 times higher from a source located at the front of the 
+hood face than from a source placed at least 6 inches back. This concentration 
+declines further as the source is moved farther toward the back of the hood.  
+• Place equipment as far to the back of the hood as practical without blocking the 
+bottom baffle.  
+• Separate and elevate each instrument by using blocks or racks so that air can flow 
+easily around all apparatus.  
+• Do not use large pieces of equipment in a hood, because they tend to cause dead 
+spaces in the airflow and reduce the efficiency of the hood.  
+• If a large piece of equipment emits fumes or heat outside a fume hood, then have 
+a special-purpose hood designed and installed to ventilate that particular device. 
+This method of ventilation is much more efficient than placing the equipment in a 
+fume hood, and it will consume much less air.  
+• Do not use for storage of equipment or chemicals. Keep only the equipment and 
+chemicals needed for current operation.  
+• Do not modify fume hoods in any way that adversely affects the hood 
+performance. This includes adding, removing, or changing any of the fume hood 
+components, such as baffles, sashes, airfoils, liners, and exhaust connections.  
+• Function verification for fume hoods are made performed and documented by 
+ENV environmental Services.  Verification reports are available in various 
+laboratory sections where fume hoods are located. 
+ 
+ELECTRICAL EQUIPMENT 
+• General  
+o Extension cords shall not be used as permanent wiring. Power strips that 
+are equipped with a current protection device (circuit breaker) may be 
+used. A power strip will not be plugged into another power strip. 
+o Electrical receptacles must not rest on laboratory bench tops.  
+o Power cords on appliances should be inspected for damage regularly. 
+Frayed or otherwise damaged cords should be replaced before using.  
+o To eliminate exposed wiring, outlet boxes or junction boxes shall be 
+provided with cover plates and receptacles shall be provided with 
+faceplates.  
+o Ground-fault circuit interrupters should be used over sinks and in other 
+wet areas. Ground-fault circuit interrupters should be actuated every six 
+months to insure proper function.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 13 of 19 
+LBA202 
+o Circuit breakers on panels shall be individual labeled to indicate the 
+equipment or location of equipment served by the device.  
+• Electrical apparatus  
+o Unattended electrical heating equipment should be provided with a 
+manual reset over-temperature shutoff switch, in addition to normal 
+temperature controls.  
+o While air powered mixers are preferred, electric motors may be used to 
+drive blenders or stirrers in open containers of flammable liquids or 
+combustible liquids heated above their flash points provided they meet 
+Class I, Division 2 locations as defined in Article 500-5 of the National 
+Electrical Code.  
+o Electrical equipment and apparatus in cold rooms should be protected 
+from moisture due to condensation. 
+o  All apparatus use in the laboratory must be approved by a recognized 
+approval agency (UP, ASTM, etc) or meet accepted NFPA or ANSI 
+standards.  
+ 
+LABORATORY REFRIGERATORS 
+• Laboratory refrigerators used for storing or cooling flammable liquids will be in 
+compliance with NFPA 45 - Fire Protection for Laboratories Using Chemicals, 
+section 9.2.2.2 and A.9.2.2.2.  
+• Self-defrosting refrigerators, either modified or unmodified, will not be used for 
+storing or cooling flammable liquids.  
+• General purpose refrigerators are not to be used for the storage of flammable or 
+reactive liquids or solids. They shall be labeled "Not for Storage of Flammable or 
+Reactive Liquids or Solids."  
+• Refrigerators used for storage of chemicals must not be used to store food, 
+beverages or cosmetics. They shall be labeled "Not for Storage of Food, 
+Beverages or Cosmetics."  
+ 
+GLASSWARE 
+• Accidents involving glassware are a leading cause of laboratory injuries.  
+• Careful handling and storage procedures should be used to avoid damaging 
+glassware. Damaged items should be discarded or repaired.  
+• Adequate hand protection should be used when inserting glass tubing into rubber 
+stoppers or corks or when placing rubber tubing on glass hose connections. 
+Tubing should be polished or rounded and lubricated, and hands should be held 
+close together to limit movement of glass should fracture occur. The use of plastic 
+or metal connectors should be considered.  
+• Vacuum-jacketed glass apparatus should be handled with extreme care to prevent 
+implosions. Equipment such as Dewar flasks should be taped or shielded. Only 
+glassware designed for vacuum work should be used for that purpose.  
+• Hand protection should be used when picking up broken glass. (Small pieces 
+should be swept up with a brush into a dustpan.)  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 14 of 19 
+LBA202 
+• Proper instruction should be provided in the use of glass equipment designed for 
+specialized tasks, which can represent unusual risks for the first time user. (For 
+example, separatory funnels containing volatile solvents can develop considerable 
+pressure during use.)  
+ 
+WORKING ALONE  
+Working with hazardous chemicals alone, especially after regular hours in a laboratory, 
+poses an additional risk to life and property. If an unanticipated event occurs and the 
+researcher is incapacitated, available safety equipment, such as emergency showers, fire 
+extinguishers, or antidotes, become worthless to provide emergency assistance to injured 
+individuals or to mitigate the losses incurred.  
+Each Section needs to incorporate a working alone procedure suited to the needs of the 
+area served by the Plan.  
+Some provisions that may be incorporated into individual or Department Chemical 
+Hygiene Plans are as follows:  
+• Prohibiting working alone in laboratories, or prohibiting working alone for certain 
+procedures.  
+• Buddy system  
+o Arrange with someone working nearby to periodically check on one 
+another.  
+o Arrange to take scheduled breaks with another researcher working nearby.  
+o Arrange to periodically check in with another person.  
+ 
+UNATTENDED OPERATIONS  
+• Unattended electrical heating equipment should be provided with a manual reset 
+over-temperature shutoff switch, in addition to normal temperature controls.  
+• Unattended operations that depend on a flowing cooling water supply should be 
+provided with a manual reset shutoff device that will shut off the heat supply upon 
+loss of cooling water.  
+• Arrangements should be made, where possible, to periodically check unattended 
+operations for abnormal conditions.  
+• For operations left running after normal hours, leave the lights on and leave a sign 
+on the door indicating that an unattended procedure is in progress. The sign 
+should also give emergency phone numbers in case of incident.  
+ 
+HIGH HAZARDOUS SUBSTANCES AND CHEMICAL REQUIRING 
+APPROVAL TO PURCHASE 
+High hazardous substances include "regulated carcinogens," "select carcinogens," 
+"reproductive toxins," and "toxic gases," "explosives," and "dioxins." 
+These substances require special handling and are expensive to dispose of.  Often the 
+disposal fees run into the hundreds of dollars per pound. Prior approval must be received 
+before any of these types of chemicals are purchased.   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 15 of 19 
+LBA202 
+The following High Hazardous Substance Precautions will be followed: 
+• Departments will establish designated areas for the use of high hazardous 
+substances. A designated area may be the entire laboratory, an area of the 
+laboratory, or a fume hood or glove box. High hazard substances shall be limited 
+to designated areas.  
+• The location of the designated area shall be posted and persons working within 
+the designated area shall be informed of the hazardous substances used there.  
+• Prior approval must be obtained when planning to use a High Hazard Material. 
+See  Approval to Use High Hazard Material. Before using a chemical for the first 
+time, always consult the manufacturer's Safety Data Sheet (SDS) to determine if 
+the material meets the definition of a high hazard chemical. If the material meets 
+the definition, attempt to find a less hazardous substitute material. If a substitute 
+material cannot be found, request approval to use.  
+• Storage or consumption of food, storage or use of containers of beverages, storage 
+or application of cosmetics, smoking, storage of smoking materials, tobacco 
+products or other products for chewing, or the chewing of such products, shall be 
+prohibited in designated areas.  
+• All high hazard materials should be handled so as to prevent skin contact, 
+accidental ingestion, and inhalation.  
+• Use of containment devices and methods for particularly hazardous substances.  
+• Containment devices and methods should be used to minimize exposure to 
+persons and to prevent contamination of areas outside the designated area.  
+• Use of particularly hazardous substances in a manner that may produce vapors, 
+dusts, mists, particularly hazardous gases or other airborne particulates shall be 
+under a laboratory hood, in a glove box, or in a closed system.  
+• Laboratory fume hoods in which other substances are used shall have an average 
+face velocity of 100 linear feet per second, with no area falling below 70 linear 
+feet per second.  
+• All mouth pipetting of high hazard chemicals is strictly prohibited. Liquid 
+transfers must be made using pipette bulbs, automatic pipetting devices, or 
+syringes.  
+• Work surfaces that may become contaminated with particularly hazardous 
+substances shall be protected from contamination.  
+• When working with regulated carcinogens, laboratory vacuum systems shall be 
+protected with a double cold trap or with disposable absolute filters.  
+• When working with beta-propiolactone, bischloromethyl ether, methyl 
+chloromethyl ether, or ethyleneimine, a double cold trap shall be used.  
+• Persons working in the designated area shall remove protective equipment and 
+wash their hands and forearms before engaging in other activities or before eating, 
+drinking, smoking, or using toilet facilities.  
+• Appropriate protective gloves should be worn. For most solid materials, latex 
+gloves are adequate. For most liquids, nitrile rubber gloves provide the greatest 
+measure of protection. If there is a question as to the proper glove material for a 
+specific purpose, consult laboratory supervision or the SDS.  
+• Procedures for safe removal of contaminated waste:  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 16 of 19 
+LBA202 
+o All waste contaminated with particularly hazardous substances should be 
+collected in impervious containers that are compatible with the 
+contaminant.  
+o Wastes contaminated with different substances that are incompatible shall 
+not be placed in the same container.  
+o Contaminated sharps, contaminated broken glassware, etc. should be 
+placed in a sturdy container such as a cardboard box and sealed before 
+placing in a collection container.  
+o All containers should be labeled with the contaminant(s) and if the 
+contaminant is a carcinogen, the words "Cancer-suspect Agent." 
+• Decontamination procedures: 
+o Laboratory workers should consider whether or not decontamination of 
+designated areas is appropriate. Decontamination procedures will vary 
+according to the type of substance used.  
+o Small spills should be cleaned up immediately and the area 
+decontaminated.  
+o All spills that cannot be cleaned up by lab employees are to be reported 
+immediately to the Medical Center Safety Officer, Laboratory Safety 
+Coordinator or a laboratory Supervisor. 
+• Special precautions for Reproductive Toxins  
+o Women of child bearing age must be apprised of the chemicals in their 
+work area that are known to be embryotoxic and/or affect the reproductive 
+system. Males must also be apprised of the chemicals in their work area 
+that are known to affect the male reproductive system. Documentation of 
+such notification will be maintained by laboratory supervision. 
+o  All employees who believe they may be pregnant or have confirmation of 
+pregnancy should notify their supervisor immediately. Following 
+notification, a determination will be made if there are chemicals being 
+used in the individual's work area that may present a potential hazard to 
+the developing fetus. If such materials are being used, the employee must 
+be informed and directed to consult with her physician to determine need 
+for temporary transfer.   
+ 
+COMPRESSED GASES 
+• Compressed gases should not be transferred from one container to another except 
+by the manufacturer or distributor. Exception - refilling SCBAs from breathable 
+air cylinders by authorized personnel.  
+• Containers shall be legibly marked to identify the contents and give the 
+appropriate precautionary information (e.g., flammable).  
+• Containers shall be stored upright and secured, with caps on when not being used. 
+Combustible material or formed metal chains are not recommended to secure 
+cylinders. Chains or other securing mechanisms should be located between one-
+third and two-thirds of the height of the container.  
+• Oxygen and oxidizing gases shall be stored separately from flammable and highly 
+combustible material.  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 17 of 19 
+LBA202 
+• Pressure reducing regulators should be used when withdrawing contents from the 
+cylinder.  
+• Valve outlets and pressure relief valves should be directed away from personnel at 
+all times.  
+• Valves on cylinders being moved, cylinders that are not in use, or on empty 
+cylinders shall be closed and capped.  
+• Do not exchange regulators or other appliances used with one gas with similar 
+equipment used with other gases. Oils and lubricants should not be used on 
+fittings for oxygen or other oxidizing gases. 
+•  Do not force connections that do not fit.  
+• Use transport dollies to move cylinders.  
+ 
+CRYOGENIC MATERIALS 
+• The primary hazard of cryogenic materials is their extreme coldness. They and all 
+surfaces they cool can cause severe burns if allowed to contact the skin.  
+• Cryogenic fluids are stored or handled only in containers designed for such use.  
+• When personal contact with a cryogenic fluid is possible, (as when preparing cold 
+baths or dispensing liquid nitrogen) full face shields should be worn. Wearing of 
+watches, rings, or other items that may trap the cryogenic material should be 
+avoided.  
+• When gloves are worn while handling cryogenic materials, they should be dry, 
+impervious and loose enough to be easily tossed off the hands. Potholders are 
+preferred for handling cryogenic materials.  
+• Lab coats should be worn while handling cryogenic materials. Open toe shoes and 
+sandals should not be worn.  
+• Cryogenic materials should be dispensed and used in areas with good ventilation. 
+Laboratory workers should avoid lowering their head into dry ice chests or 
+directly over cooling baths. When transporting dry ice, or materials packaged in 
+dry ice, the package should not be carried in the passenger compartment of the 
+vehicle. 
+•  Cryogenic material may provide an oxygen enriched atmosphere by condensing 
+and fractionating air. This situation may increase the fire and explosion hazard of 
+flammable and combustible materials being cooled or materials located in the 
+vicinity of the operation.  
+• Dry ice should be added to cooling baths (or liquid added to dry ice) in small 
+increments, allowing the foaming to stop before each addition.  
+ 
+PEROXIDIZABLE MATERIALS 
+• Peroxidizable materials should be purchased in amounts that are expected to be 
+used within six months to one year. This practice will help ensure that others are 
+used up before the manufacturer's expiration date.  
+• Peroxidizables, opened or unopened, should be disposed of or tested for peroxides 
+upon reaching the manufacturer's expiration date, or upon one year after receipt. If 
+positive for peroxides, the peroxides may be removed or the materials may be OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 18 of 19 
+LBA202 
+disposed of by contacting the Safety Coordinator. Please be sure to label the date 
+that the test for peroxides was performed and the date peroxides removed (if 
+applicable). The new expiration date will be three months after the date tested for 
+materials in List A, and one year after the date tested for materials in List B.  
+o Containers should be marked with the date opened and, in the absence of a 
+manufacturer's expiration date, with the date received. Containers should 
+also be marked with the date that the last test for peroxides was done. 
+o Ethers should be disposed of without opening if there are visible crystals 
+around the cap, or if the container is in a grossly corroded condition. 
+Crystals visible in the container should be brought to the attention of the 
+supervisor or Safety Coordinator.  
+o Test for peroxides before distilling (even previously unopened ethers) and 
+upon three months after opening List A and after one year of opening List 
+B materials:  
+▪ List A Peroxide hazard on storage - Test or dispose in 3 months  
+• Isopropyl ether;  
+• Divinyl acetylene;  
+• Vinylidene chloride;  
+• Potassium metal;  
+• Sodium amide  
+▪ List B Peroxide hazard on concentration - Test or dispose in 12 
+months  
+• Isopropyl ether;  
+• Diethyl ether;  
+• Divinyl acetylene;  
+• Tetrahydrofuran;  
+• Vinylidene chloride  
+• Diacetylene;  
+• Potassium metal;  
+• Methyl acetylene;  
+• Sodium amide;  
+• Dioxane;  
+• Acetal  
+• Decahydronaphthalene (Decalin);  
+• Tetrahydronaphthalene (Tetralin) 
+•  Ethylene glycol dimethyl ether;  
+• Cyclohexene;  
+• Vinyl ethers  
+• Diethylene glycol dimethyl ether;  
+• Dicyclopentadiene  
+ 
+PERCHLORIC ACID  
+• Use goggles for eye protection whenever the acid is handled.  
+• In wet combustion with perchloric acid, treat the sample first with nitric acid to OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 19 of 19 
+LBA202 
+destroy easily oxidizable matter.  
+• Any procedure involving heating of the perchloric acid should be conducted in a 
+ventilated hood equipped with water wash down. 
+•  Perchloric acid hoods should be constructed of materials that are acid resistant, 
+non-reactive and impervious to perchloric acid, such as stainless steel.  
+• Organic material should not be stored in the perchloric hood. 
+•  Do not allow perchloric acid to come in contact with strong dehydrating agents. 
+(Concentrated sulfuric acid, anhydrous phosphorous pentoxide, etc.)  
+• Perchloric acid should be used only in standard analytical procedures from well 
+recognized analytical texts. Researchers should take the properties and hazards of 
+perchloric acid into consideration before use.  
+• If a laboratory hood or exhaust system has been exposed to perchloric acid heated 
+above ambient temperature, tests should be conducted for explosive perchlorates 
+before any inspection, cleaning, maintenance, or any other work is done on any 
+part of the exhaust system or hood interior.  
+ 
+ 
+REFERENCES 
+29 CFR 1910.1450 OSHA Standard for Exposure to Hazardous Chemicals in 
+Laboratories.  
+Prudent Practices for Handling Hazardous Chemicals in laboratories. National Research 
+Council. Washington, D.C. National Academy Press, 1995.  
+CRC Handbook of Laboratory Safety 4th edition. A.K. Furr, ed. Boca Raton, Fl: CRC 
+Press, 1995.  
+Improving Safety in the Chemical Laboratory: A Practical Guide 2nd ed. J. A. Young, ed. 
+New York: Wiley: 1991.   
+ 
+  
+REVISIONS 
+8/2009 (created), 3/20/2015, 9/29/17, 6/11/19 
+ 
+ 
+ 
+ 

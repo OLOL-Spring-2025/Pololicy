@@ -1,0 +1,143 @@
+NSO-001 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Oncology 
+Title: Chemotherapy Extravasation Protocol 
+Policy 
+Reference #: NSO-001 
+Supersedes #:  
+Date of Origination: July, 1997 Review Date: November 5, 2024 
+Revision Date: December 12, 2022 
+ 
+PURPOSE: 
+To minimize the risk of extravasation and to facilitate the timely and effective management of 
+extravasations. 
+ 
+DEFINITIONS: 
+Extravasation: the unintentional escape of fluid from its physiologic contained space into the 
+surrounding tissue 
+ 
+Vesicants:  agents known to cause blistering and necrosis when extravasated. 
+ 
+PROCEUDRES: 
+1. The extravasation protocol should be initiated as soon as an extravasation of a vesicant/irritant is 
+suspected.  
+2. An infiltration scoring system and a phlebitis scoring system is available in the nursing 
+documentation portion of the electronic medical record (See Appendix).   The use of these scoring 
+systems must be charted if extravasation is suspected or confirmed.  
+3. Initiate the following steps in the event of any extravasation of a chemotherapeutic agent. 
+1. Notify the physician at the time of the occurrence and obtain orders. 
+2. Don Personal Protective Equipment (PPE) to minimize personal exposure to any 
+chemotherapeutic agent or blood. 
+3. Terminate the chemotherapy infusion at first sign of a problem with flow, pain, or 
+color change at the site of injection. 
+4. Disconnect IV tubing and attach syringe directly to the extension tube. Do not remove 
+the IV device or port needle.  
+5. Withdraw as much blood or extravasated fluid as possible from the site using slight 
+negative pressure through the syringe.   
+6. Refer to facility designated drug reference system located within the medication 
+administration record (MAR) for actions on specific drugs. 
+7. Refer to facility designated on-line clinical reference for specific actions on specific 
+drugs.  
+8. Observe the site for pain, erythema, induration, and /or necrosis. 
+9. Document the following: 
+a. Date 
+b. Time 
+c. Type of access 
+d. Location of access NSO-001 
+Page 2 of 3 
+e. Drug sequence of treatment plan 
+f. Drug administration technique and/or route 
+g. Approximate amount of drug extravasated 
+h. Patient response 
+i. Appearance of the site 
+j. Physician notification 
+k. Follow up measures 
+l. Document the incident according to institutional policy 
+10. A safety event must be completed through the electronic events reporting system. 
+11. If the patient is an ambulatory patient and the antidote requires a multi-day treatment, 
+which falls on the weekend or holiday, the patient will be admitted to the hospital for 
+the subsequent treatment. 
+ 
+  
+ 
+ 
+ 
+REFERENCES: 
+Chemotherapy and Immunotherapy Guidelines. ONS, 2019, p. 251-261 
+ 
+ 
+Refer to facility designated on-line clinical reference 
+Refer to facility designated drug reference system  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NSO-001 
+Page 3 of 3 
+ 
+ 
+ 
+ 
+Appendix: 
+ 
+Infiltration Score 
+(graded according to the most severe presenting indicator) 
+Grade Clinical Criteria 
+0 No symptoms of infiltration 
+1 Skin blanched 
+Edema less than 1 inch in any direction 
+Cool to touch 
+With or without pain 
+2 Skin blanched 
+Edema less than 1-6 inches in any direction 
+Cool to touch 
+With or without pain 
+3 Skin blanched or translucent 
+Gross edema greater than 6 inches in any direction 
+Cool to touch 
+Mild to moderate pain 
+Possible numbness 
+4 Skin blanched or translucent 
+Skin tight, leaking 
+Skin discolored, bruised, swollen 
+Gross edema greater than 6 inches in any direction 
+Deep pitting tissue edema 
+Circulatory Impairment 
+Moderate to severe pain 
+Infiltration with any amount of blood, irritant, vesicant 
+ 
+ 
+Phlebitis Score 
+(graded according to the most severe presenting indicator) 
+Grade Clinical Criteria 
+0 No symptoms of phlebitis 
+1 Erythema at site with or without pain 
+2 Pain at site with erythema and/or edema 
+3 Pain at site with erythema and/or edema 
+Streak formation 
+Palpable cord less than 1 inch 
+4 Pain at site with erythema and/or edema 
+Streak formation 
+Palpable cord greater than 1 inch 
+Purulent drainage 
+ 
+ 

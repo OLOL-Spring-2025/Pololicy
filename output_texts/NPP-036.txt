@@ -1,0 +1,126 @@
+NPP-036 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Patient Care 
+Subject:  Phototherapy Section:  Patient Care 
+Date of Origination:  March 26, 2007 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+October 23, 2020 
+November 8, 2024 
+Serial Code:  NPP-036 
+  
+PURPOSE: 
+      To provide guidelines on nursing care for the infant receiving phototherapy 
+ 
+         EQUIPMENT: 
+ Overhead phototherapy lights 
+         Giraffe isolette, radiant heat warmer or bassinet 
+ Radiometer (Device to check light intensity) 
+ Eye shields 
+ Tape measure 
+ Bili bed (Bili boat) 
+         Bili blanket 
+I.   Protocol: 
+ A. The Bili Bed and the Bili Blanket can be used in conjunction with overhead or spot phototherapy 
+light(s) as ordered   per the physician.  
+ B. Place the Phototherapy Lights over the infant.  
+C.  A warmer may also be used in conjunction with phototherapy as ordered by provider.  
+ 
+For the NeoBLUE LED Phototherapy System:   
+      The bottom of the light should be at a distance of 12 inches from infant as defined in the the NeoBlue 
+LED Phototherapy System User Manual.  This distance should be documented on initiation of therapy and 
+daily every 12 hours thereafter for the duration of therapy.  This system has a high and low intensity 
+setting.  The high setting will be utilized unless specified otherwise by the physician/NNP.  
+      See NeoBlue LED Phototherapy System User Manual  
+ 
+ D Measuring the Intensity of the device 
+1. For the NeoBLUE LED Phototherapy System – Using the NeoBlue LED Phototherapy Radiometer, 
+verify the intensity of the lights by holding the sensor against the infant’s body as near to the 
+umbilicus as possible and aim the sensor at the center of the phototherapy light.  This product is only 
+suitable for measuring with NeoBLUE products.  It does not accurately measure broadband sources in 
+other products.  For the high intensity setting the light should be calibrated to deliver 35 uW/cm2/nm 
+and at the low intensity 15 uW/cm2/nm at the 12 inches from the infant. Changes in the distance or 
+angle of the light to the patient will change the irradiance the patient receives, requiring new 
+measurements to be taken. The intensity should be documented on the initiation of therapy and every 
+12 hours thereafter for the duration of therapy.  Notify BioMed of abnormal readings and remove 
+equipment from patient use. 
+See Manufacturer Instructions for NeoBLUE LED Phototherapy Radiometer  NPP-036 
+Page 2 of 3 
+ 
+2. Bili Bed – Using the NeoBLUE Radiometer, verify the intensity of the lights by placing meter in 
+center of mattress face down on top of disposable cover to take measurement.  If the intensity of the 
+light falls less than 30 uW/cm2/nm, remove device from service and send to BioMed. 
+See NeoBlue Cozy LED User Manual   
+ 
+3. Bili Blanket – Using the NeoBLUE Radiometer, verify the intensity of the lights by placing meter in 
+the center of the blanket face down on top of disposable cover.  If the intensity of the light falls less 
+than 30 uW/cm2/nm, remove device from service and send to BioMed.   
+See NeoBlue Blanket LED Quick Guide  
+ 
+E A new disposable cover will be placed on the bili bed mattress and bili blanket with every use.  The 
+device will be placed inside any infant bed, plugged into an electrical outlet, and turned on.  Care should 
+be taken not to block any of the air vents at the head and foot of the Bili Bed. 
+F. Infant should be nude, except diaper to cover gonads.  Infants under phototherapy should have as much of 
+their body surface area exposed as possible.  Large surface areas, such as the back and abdomen should be 
+exposed for maximum therapy.  As a result of increased body surface area exposure, an additional heat 
+source may be needed.  Infants on a Bili Bed or on a Bili Blanket can have an infant blanket placed over 
+them as long as the air vents are not covered. 
+G. Use eye shields on all infants and with all phototherapy devices.  Ensure that the eyes are closed prior to 
+application.  Eye shields should be checked frequently and removed every 4 hours for at least 15-30 
+minutes (phototherapy is held during this time period).  The eyes should be inspected at this time for any 
+drainage, excessive pressure on the lids, or corneal irritation. 
+H. Phototherapy should be turned off during assessment, lab draws, and care activities. 
+I. Infants are turned every 2-3 hours as infant’s condition allows. 
+J. Record temperature every 2-3 hours.  Notify physician of abnormal body temperature reading. 
+K. Baby may be taken off of phototherapy for 1 hour every 24 hours unless otherwise specified by provider. 
+L. Infant should breastfeed or take formula every two to three hours following the infant’s   feeding schedule  
+M. No lotions or ointments should be used on the skin as burns may occur. 
+N. Infants receiving phototherapy treatment are weighed daily. 
+O. Ensure bilirubin monitoring is completed as ordered by the physician. 
+P.  At the completion of therapy, all equipment must be cleaned with hospital approved disinfectant and    
+        stored in designated area.  
+ 
+II. Patient/Family Education: 
+Family members are informed of: 
+A. The reason for phototherapy 
+B. The necessity of the eye shields 
+C. The importance of having the infant under the phototherapy as much as possible (time will be given for 
+family bonding with the infant) 
+D. Side effects of phototherapy, such as lethargy, agitation, temperature instability, skin rash and loose green 
+stools 
+ 
+III. Documentation: 
+A. Type and number of phototherapy devices in use 
+B. Begin and end time of phototherapy 
+C. Proper shielding of the eyes 
+D. Distance between surface of photo therapy lights and infant, documented daily 
+E. Photometer measurement of light intensity every 12 hours 
+F. Skin color, including extent of jaundice NPP-036 
+Page 3 of 3 
+ 
+G.  Skin integrity, including rashes and skin related issues 
+H. Eye care every four hours 
+I. Temperature every two hours 
+J. Turning every two hours 
+K.  Strict Intake and Output  
+L. Daily weight 
+M. Occurrence of side effects 
+ 
+See Ebsco Health Online Resource for Phototherapy 
+ 
+REFERENCES: 
+ 
+Bowden, V.  & Greenburg, C. (2016).  Pediatric Nursing Procedures (4th Ed.).  Philadelphia:  Wolter Kluwer. 
+ 
+Natus Medical (2019).  NeoBLUE LED Phototherapy System User Manual 
+ 
+Natus Medical (2012).  User Manual NeoBLUE Phototherapy RadioMeter 
+ 
+Natus Medical (2018).  NeoBlue® blanket LED Phototherapy. 
+ 
+Natus Medical (2016).  NeoBlue® Cozy LED Phototherapy 
+ 

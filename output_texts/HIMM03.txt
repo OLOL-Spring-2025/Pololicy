@@ -1,0 +1,350 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  HIM 
+Our Lady of the Lake Regional Medical Center Chapter:  X 
+Subject:  Documentation Minimum Requirements Section:  M 
+Date of Origination:  March, 1994 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+January 1, 2003 
+June 1, 2005 
+July 2, 2004; March 20, 2006, 
+ March 31, 2015, April 2021 
+Serial Code:  HIMM03 
+  
+PURPOSE: 
+The purpose of this policy is to define the documentation requirements to properly maintain medical 
+reports. 
+ 
+POLICY: 
+It is the policy of the Health Information Management Department of Our Lady of the Lake Regional 
+Medical Center to establish a standard for uniform documentation for each patient type. 
+ 
+PROCEDURE: 
+1. The registration type of the patient will determine the documentation required in the medical 
+record. 
+ 
+2. The service type will determine special reports that may be required such as Psychosocial Report 
+for Mental Health Services or Case Management Conference for Rehab Service. 
+ 
+3. The attending physician or dentist shall be responsible for an adequate record for every person 
+registered as an inpatient, outpatient, or emergency patient. 
+ 
+4. Specified Professional Personnel Staff may not, unless granted specific permission by the 
+Executive Committee: 
+ 
+ A. Independently accomplish a patient’s history or physical examination. 
+ 
+B. Dictate for inclusion in the medical record: History & Physicals, Consultations, Operative 
+Reports, or Discharge Summaries. 
+ 
+C. Transcribe orders. 
+ 
+5. The definitions of registration type and minimum documentation requirements are as follow: 
+ 
+A. Inpatient – patient is registered (II) and is billed for each visit. Usually more than 24 
+hours stay. Patient is bedded. Patient may receive diagnostic testing, assessment, therapy  2 
+and/or have a surgical procedure performed. Documentation consists of face sheet 
+demographics, authorizations for treatment, History & Physical, consults as appropriate, 
+Operative reports as appropriate, pre operative nursing and anesthesia records, post 
+operative nursing and anesthesia records, graphic sheets, physician orders, physician 
+progress notes, nursing assessment, medication summary, nursing notes, laboratory and 
+radiology reports, ancillary department records, nursing discharge summary, physician 
+discharge summary. 
+ 
+ B. Ambulatory – patient registered (OA) and is billed for each visit/encounter, usually 24 
+hour stay or less. Patient is bedded. Patient may receive diagnostic testing, assessment, 
+therapy and/or have a surgical procedure performed. Documentation consists of same 
+forms and format as inpatient record. 
+ 
+C. Outpatient “T” – patient registered (OT) and is billed every 30 days. Patient may or may 
+not be bedded. Stay is usually less than 24 hour stay and is for reoccurring treatment such 
+as chemotherapy, respiratory therapy, physical therapy, cardiac rehab. Documentation 
+consists of face sheet demographics, authorization for treatment, physician order, 
+assessment/results, therapy/nursing notes, medication summary if applicable. Based on 
+physician option, record may or may not have physician progress notes, history and 
+physical, procedure note and discharge note/ summary. 
+ 
+D. Outpatient – patient registered (00) and is billed for encounter. Patient not bedded. One 
+time visit for diagnostic test, assessment, and/or therapy. Documentation consist of face 
+sheet demographics, authorization for treatment as appropriate, physician order, 
+assessment/results, and if applicable, therapy notes. 
+ 
+E. Emergency – Patient is registered (EE), treated in ECU n billed for each visit. 
+Documentation consists of face sheet demographics, ECU report including brief history, 
+physician orders, assessment/treatment/results, disposition and ER physician dictated 
+report. 
+ 
+F. “Ancillary Consultative” visit – patient not registered, not billed. Encounter may be only 
+phone call. Documentation consist of note regarding discussion. No tests or procedures 
+were performed. Literature may be given or forwarded to patient. 
+ 
+6. Health Information Management will provide guidance, instruction and monitoring of record 
+keeping practices in all clinical departments of OLOL.   
+ 
+ 
+ 
+_____________________________________   ________________   
+Jeff Limbocker                            Date 
+Controller  3 
+ 
+Medical Record Documentation Requirements 
+ 
+INPATIENTS: 
+ 
+History and Physical Requirements 
+ 
+Content 
+JCAHO standards state Medical Staff (through Bylaws and Rules and Regulations) shall determine the 
+minimal content of History & Physicals 
+ 
+OLOL Medical Staff Rules and Regulations state that H&P shall contain: 
+ 
+-  Chief Complaint 
+-  Details of Present Illness 
+-  Inventory of systems relevant to present illness 
+-  Medical history 
+-  Family history 
+-  Physical exam including all pertinent physical findings 
+ 
+CMS requires an admitting diagnosis 
+ 
+ 
+Timeliness 
+ 
+-Within 24 hours of hospital admission.  Patients with invasive diagnostic or surgical procedure must 
+have H&P recorded prior to the start of the procedure 
+ 
+-Previous H&P performed within 30 days prior to admission may be used provided an update is dictated 
+or written within 24 hours of admit or prior to the start of an invasive diagnostic or surgical procedure. 
+ 
+-An H&P older than 30 days may not be used 
+ 
+-For admissions to Rehab and TCU, and H&P performed within 30 days of admission may be used 
+provided an update is dictated or written within 24 hours of admission 
+ 
+ 
+Documentation Options 
+ 
+-Physician may dictate the History and Physical Report 
+ 
+-Copy of a previous H&P (within 30 days of admission) may be used provided an update is included. 
+ 
+-Completion of OLOL History and Physical form available on Lake MD 
+INPATIENTS:  4 
+ 
+Discharge Summary Requirements 
+ 
+Content 
+ 
+OLOL Medical Staff Rules and Regulations state that Discharge summary shall contain: 
+ 
+-  Admission and Discharge Dates 
+-  Operations and/or procedures 
+-  Significant lab and x-ray findings 
+-  Treatment 
+-  Complications 
+-  Specific instructions to patient and/or family related to physical activity, medications, diet and follow-  
+up care 
+-  Condition on discharge 
+-  Final Diagnosis 
+ 
+These elements cover JCAHO and CMS requirements. 
+ 
+Timeliness 
+ 
+-Within 30 days of discharge (entire record must be complete within 30 days of discharge) 
+ 
+-Completion immediately after discharge is optimal.  This allows for the most complete and accurate 
+data, timely coding and billing and immediate continuity of care. 
+ 
+ 
+ 
+Documentation Options 
+ 
+-Physician may dictate the Discharge Summary report 
+ 
+-Attending physician is responsible for providing 
+ 
+-Hand-written progress note is accepted provided all content elements are included 
+ 
+ 
+INPATIENTS: 
+ 
+Operative Report Requirements 
+ 
+Content 
+OLOL Medical Staff Rules and Regulations state: 
+-  A pre-operative diagnosis is recorded prior to operative or invasive diagnostic and surgical 
+procedures.  5 
+ 
+-  The Operative report shall contain 
+-  Name of surgeon and assistants 
+ -  Procedure(s) performed 
+ -  Description of each procedure 
+ -  Findings 
+ -  Estimated blood loss 
+ -  Technical procedure used 
+ -  Specimens removed 
+ -  Disposition of each specimen 
+ -  Post-operative diagnosis 
+ 
+This covers all requirements by JCAHO.  CMS does not define. 
+ 
+ 
+Timeliness 
+-Immediately upon completion of the operation or procedure before patient is transferred to the next 
+level of care.   
+  
+-  Operative progress note must be entered into the medical record immediately after the procedure when 
+the full operative report cannot be entered into the record immediately.  (must be documented – 
+transcribed reports timely, but not “immediate”) 
+ 
+ 
+Documentation Options 
+-Operative Report 
+Physician must dictate the Operative Report 
+ 
+-Operative Progress Note 
+May be documented in Epic Progress Note.  
+ 
+May be documented in progress notes provided that all elements of operative report requirement are 
+included. 
+ 
+AMBULATORY PATIENTS: 
+ 
+History and Physical Requirements 
+ 
+Content 
+JCAHO standards state Medical Staff (through Bylaws and Rules and Regulations) shall determine the 
+minimal content of History & Physicals 
+ 
+ 
+ 
+OLOL Medical Staff Rules and Regulations state that H&P shall contain:  6 
+ 
+-  Chief Complaint 
+-  Details of Present Illness 
+-  Inventory of systems relevant to present illness 
+-  Medical history 
+-  Family history 
+-  Physical exam including all pertinent physical findings 
+ 
+CMS requires an admitting diagnosis 
+ 
+ 
+Timeliness 
+ 
+-Within 24 hours of hospital admission.  Patients with invasive diagnostic or surgical procedure must 
+have H&P recorded prior to the start of the procedure 
+ 
+-Previous H&P performed within 30 days prior to admission may be used provided an update is dictated 
+or written within 24 hours of admit or prior to the start of an invasive diagnostic or surgical procedure. 
+ 
+-An H&P older than 30 days may not be used 
+-For admissions to Rehab and TCU, and H&P performed within 30 days of admission may be used 
+provided an update is dictated or written within 24 hours of admission 
+ 
+ 
+Documentation Options 
+ 
+-Physician may dictate the History and Physical Report 
+ 
+-Copy of a previous H&P (within 30 days of admission) may be used provided an update is included. 
+ 
+-Completion of OLOL History and Physical form available on Lake MD 
+ 
+ 
+AMBULATORY PATIENTS: 
+ 
+Discharge Summary Requirements 
+ 
+Content 
+ 
+OLOL Medical Staff Rules and Regulations state that Discharge summary shall contain: 
+ 
+-  Admission and Discharge Dates 
+-  Operations and/or procedures 
+-  Significant lab and x-ray findings 
+-  Treatment  7 
+-  Complications 
+-  Specific instructions to patient and/or family related to physical activity, medications, diet and follow-
+up care 
+-  Condition on discharge 
+-  Final Diagnosis 
+ 
+These elements cover JCAHO and CMS requirements. 
+ 
+Timeliness 
+ 
+-Within 30 days of discharge (entire record must be complete within 30 days of discharge) 
+ 
+-Completion immediately after discharge is optimal.  This allows for the most complete and accurate 
+data, timely coding and billing and immediate continuity of care. 
+ 
+ 
+ 
+Documentation Options 
+ 
+-Physician may dictate the Discharge Summary report 
+ 
+-Attending physician is responsible for providing 
+ 
+-Hand-written progress note is accepted provided all content elements are included 
+ 
+-Epic Progress Note maybe used for ambulatory patients 48 hours or less. 
+ 
+ 
+AMBULATORY PATIENTS: 
+ 
+Operative Report Requirements 
+ 
+Content 
+OLOL Medical Staff Rules and Regulations state: 
+-  A pre-operative diagnosis is recorded prior to operative or invasive diagnostic and surgical 
+procedures. 
+ 
+-  The Operative report shall contain 
+ 
+ -  Name of surgeon and assistants 
+ -  Procedure(s) performed 
+ -  Description of each procedure 
+ -  Findings 
+ -  Estimated blood loss 
+ -  Technical procedure used  8 
+ -  Specimens removed 
+ -  Disposition of each specimen 
+ -  Post-operative diagnosis 
+ 
+This covers all requirements by JCAHO.  CMS does not define. 
+ 
+ 
+Timeliness 
+ 
+-Immediately upon completion of the operation or procedure before patient is transferred to the next 
+level of care.   
+  
+-  Operative progress note must be entered into the medical record immediately after the procedure when 
+the full operative report cannot be entered into the record immediately.  (must be documented – 
+transcribed reports timely, but not “immediate”) 
+ 
+ 
+Documentation Options 
+ 
+-Operative Report 
+Physician must dictate the Operative Report 
+ 
+-Operative Progress Note 
+May be documented in Epic Progress Note.  
+ 
+May be documented in progress notes provided that all elements of operative report requirement are 
+included. 
+ 
+ 
+ 
+OUT PATIENTS (LAB AND X-RAY OUTPATIENTS, SPECIMENS SENT IN TO LAB): 
+ 
+Physicians order or requisition must contain a valid diagnosis (preferably a diagnosis code) that supports 
+medical necessity for test ordered.  Diagnosis submitted must be substantiated in the physician’s office 
+record. 
+ 

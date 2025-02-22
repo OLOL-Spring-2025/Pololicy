@@ -1,0 +1,69 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  HIM 
+Our Lady of the Lake Regional Medical Center Chapter:  VIII 
+Subject:  Access to Electronic Records by Research or 
+Monitoring Companies 
+Section:  R 
+Date of Origination:  August, 2002 Supersedes:  
+Date Last: 
+Revised:  March 2015 
+Reviewed: October 
+2021, February 2023 
+November 1, 2013 
+ Serial Code:  HIMR32 
+    
+  
+PURPOSE: 
+The purpose of this policy is to define the process for research or monitoring companies to access to 
+specific research/study patients’ records in the Cerner or ChartMaxx system. 
+ 
+POLICY: 
+It is the policy of the Health Information Management (HIM) department of Our Lady of the Lake 
+Regional Medical Center to provide clinical research companies electronic access to specific consented 
+patients’ records for review, in accordance with the IRB, federal, state and local laws and regulations. 
+ 
+PROCEDURE: 
+1. Initial Setup 
+A. Research or Monitoring Companies should contact the Health Information Management 
+department five business days prior to research /study patients’ record review. 
+B. Notification can be given by telephone to the manager of the Health Information Management 
+Department at 765-6333. Information will be offered to include on company letterhead:  
+a) The monitoring company 
+b) The reviewer's name/identifying information 
+c) The date(s) of the review 
+d) Study/research patient's name, date of birth, social security number, specific date of service 
+for research, and signed patient informed consent with date informed consent was signed that 
+coincides with date of service in hospital (if not already on the medical record). 
+C. HIM will review the notification inclusions for appropriateness regarding authorization to release 
+medical information on the consent or other release of medical information document. If the 
+aforementioned criterion is not appropriate, a Health Information Management staff member will 
+notify the requestor and a signed authorization by the patient will need to be obtained before the  2 
+record will be queued to the requestor. If the latter has to be initiated the records will be available 
+five business days after receipt of the additional information. 
+2. Chart Access 
+A. Specific records requiring review will be in a special ChartMaxx grouping or made available 
+through Power Chart.  
+B. Special ChartMaxx or Power Chart in-service for utilization of system will be given the day of 
+review visit. 
+3. Review  
+A. HIM Manager will contact IS Security Department to request user ids and passwords for the 
+reviewers. 
+B. The reviewers will be required to provide a driver's license or other picture identification and sign 
+a confidentiality statement before the code will be released. 
+C. The user ids and passwords will only be utilized by specific research or monitoring staff for the 
+specific day, or days of chart review. If the specific chart review is not completed in 5 business 
+days, the HIM director will be notified verbally with a status.  
+4. Maintaining Records 
+A. Research and Monitoring companies requesting to print or copy specific medical record will 
+specify in writing prior to patient discharge from hospital. (Specific requested information from 
+the medical record will be identified, exp. Labs, radiology reports, history/physicals, etc.). 
+B. Fees will be assessed for cop ying specific medical records, ONLY HIM staff can make copies of 
+medical records. 
+C. Fees will be assessed for storage of medical records if research need is different from HIM 
+standards for length of storage.   
+ 
+ 
+ 
+_______________________       __________________ 
+Jeff Limbocker                              Date 
+Chief Financial Officer 

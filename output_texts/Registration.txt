@@ -1,0 +1,61 @@
+Page 1 of 2 
+POLICIES AND PROCEDURES MANUAL Manual:  Access Services 
+Our Lady of the Lake Regional Medical Center Chapter:    
+Subject:  Registration Section:    
+Date of Origination:     April 27, 2001 Supersedes:       
+Date Last Revised or 
+Reviewed:APRIL 2011 ; 
+Jan 2018 
+April 2011   Serial Code:    
+ 
+ 
+PURPOSE: 
+ 
+To obtain accurate and complete demographic, clinical, insurance and financial information from patients 
+in an efficient and courteous manner. 
+ 
+POLICY: 
+ 
+All components of the registration process are to be completed when the patient arrives.  A registration 
+must be recorded for each patient on each occasion of service.   All demographic, clinical, insurance and 
+financial information must be obtained.  Benefits Verification should be obtained at the time registration 
+is completed.  Pre-notification and/or precertification must be obtained as appropriate at the time of 
+registration.  All necessary signatures including consent for treatment, consent for release of information 
+and financial responsibility, and proper witnessing must be obtained at the time of registration. 
+ 
+PROCEDURES: 
+ 
+The Access Services Reps must obtain comprehensive demographic, financial, clinical, and other 
+pertinent information that will ensure the quality of the patient account at the time of registration and 
+allow us to follow up with the patient in case of denials or other issues. 
+ 
+The patients insurance card must obtained and the address on the card must match the address in the 
+system.  If the address in the system is not there or incorrect, the address must be changed in the system. 
+All other information on the patient’s insurance card must be keyed correctly in the system (member and 
+group numbers, member and group names, phone numbers, effective dates). 
+ 
+Benefits verification that can be processed through EPIC or Passport and should be done at the time of 
+registration (this includes all ER registrations, as well as Admits, Outpatient registrations and pre-
+registrations). The verification method that is used should be documented in the patient’s insurance screen 
+under HAR account notes. 
+ 
+Benefits verification and pre-notification to the insurance company should be done for all admissions.  
+You should verify benefits for admits by using EPIC, Passport or by calling the insurance company 
+directly.  The verification method that is used should be documented in the patient’s insurance screen Page 2 of 2 
+under HAR account notes.  If it is after hours, and the patient’s insurance cannot be verified using EPIC 
+or Passport, a pre-notification attempt should be done by leaving a voicemail message with the patient’s 
+insurance company. If unable to leave VM message the attempt should be documented using the HAR 
+account notes.    The insurance clerks will follow-up and document with benefits verification for these 
+admits the following day. 
+ 
+Benefits verification is especially important for patients over 65.  Benefits must be checked by using 
+EPIC or Passport to verify if the patient has Medicare, a replacement, or other coverage.  If it’s Medicare 
+and the patient was involved in an MVA or any other type of accident, the MSP Questionnaire must be 
+answered accordingly and the liability insurance associated with this accident must be obtained and 
+entered into the system. 
+ 
+All Access Services Employees are responsible for helping to maintain good relations among the patients, 
+hospitals, clinics, physicians, and community by performing all aspects of the registration process in a 
+professional, courteous, and timely manner. 
+ 
+ 

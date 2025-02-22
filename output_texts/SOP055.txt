@@ -1,0 +1,168 @@
+ Policy Reference Number 
+Page 1 of 5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Surgical Services Section: Operating Room 
+Title: 
+TEE probes handling, reprocessing, and 
+documentation (transesophageal 
+Echocardiography) 
+Policy Reference #: SOP055 
+Supersedes #:  
+Date of Origination: 12/19/2020 Last Date Reviewed: 1/10/2025 
+Last Date Revised: 1/22/2021 
+ 
+PURPOSE: To define the process for pre-cleaning, transport, leakage testing, manual cleaning, high 
+level disinfection, and storage of TEE probes.  
+ 
+POLICY 
+Cleaning and decontamination should begin immediately after use. All TEE probes will be cleaned, 
+transported, reprocessed, and stored according to these policies. 
+ 
+Definitions  
+ TEE: Transesophageal Echocardiography   
+HLD: High level Disinfection (such as Cidex OPA or Rapicide)  
+ LLD Low Level Disinfection  (such as Sani Cloth AF3 grey top wipes)  
+ PPE: Personal Protective Equipment  
+ IFU: Instructions For Use 
+AER: Automated Endoscope Reprocessor (such as the ASTRA or Medivator)  
+EMR: Electronic Medical Record  
+ 
+PROCEDURE 
+ 
+A. Transport: All clean TEE probes are to be checked out and retrieved from their storage 
+cabinet or other storage location meeting manufacturers recommendations. All dirty TEE 
+probes are to be returned to the processing room immediately after use and point of use 
+cleaning has been performed.   
+ 
+1. TEE probes will be transported in a bag lined (clear) transport container. Clean TEE 
+probes will be concealed with a green (“CLEAN”) cover. Dirty TEE probes will be 
+concealed with a red (“DIRTY/BIOHAZARD) cover. All transport containers will 
+utilize hard plastic lid. 
+2. Perform hand hygiene and apply clean gloves prior to touching TEE probe. Try to 
+avoid excessive handling of the flexible shaft (See Example B)  
+3. Place the scope in the transport container so that it does not bend, kink, have heavier 
+parts over sensitive parts, or otherwise damage the probe 
+4. Ensure no part of the patient contact areas (HLD) touch the non-patient contact areas 
+(LLD).  
+5. Always transport the container level 
+  Policy Reference Number 
+Page 2 of 5 
+B. Personal Protective Equipment: All personnel cleaning scopes must wear PPE 
+(personal protective equipment). Gloves, liquid-resistant gown/face mask, eye protection, 
+shoe covers, head covers, and a surgical mask if risk of splash or aerosols is present. 
+Jewelry and wristwatches should not be worn in decontamination area.  Before leaving 
+the decontamination area, PPE should be removed taking care not to contaminate skin or 
+clothing followed by thorough hand washing.  
+ 
+C. Point of use cleaning: Immediately after use, all TEE probes should be thoroughly 
+cleaned to remove all organic matter (blood and tissue) and other residue. Inspect visually 
+for damage. 
+1. Point of use cleaning by following manufacturer’s IFU for model used. 
+2. Use an approved cleaning solution rated for the TEE probe and follow IFU on 
+package. 
+ 
+D. Electrical Leakage testing: The leak test detects damage to the interior or exterior of the 
+TEE probe and is done before immersion of the TEE probe in reprocessing solutions to 
+minimize damage to parts of the TEE probe not designed for fluid exposure. Leakage 
+testing the TEE probe will following manufacturer's IFU’s. 
+1. Automatic washer that can perform the leakage test during high level disinfection 
+will be done so per the manufacturers IFU.   
+2. Manual leakage testing will be conducted per the manufacturers IFU prior to high 
+level disinfection (See Example C).  
+ 
+E. Manual cleaning: The most important step in removing the microbial burden from an 
+TEE probe is manual cleaning. Retained debris may inactivate or interfere with the 
+capability of the active ingredient of the chemical solution to effectively kill and/or 
+inactivate microorganisms. 
+1. Prepare: 
+a. Fill a sink or basin with clean tap water with the measured volume or to 
+the designated line for the desired enzymatic to water ratio 
+b. Measure or use device to dose appropriate amount of enzymatic to achieve 
+the required enzymatic to water ratio 
+c. Ensure proper temperature is maintained throughout process.  
+2. Wash all debris from the exterior of the TEE probe by wiping and/or soaking the 
+instrument with the approved sponge or other designated applicator.  
+ 
+NOTE: Pay special attention to not submerge or apply cleaner to parts of the 
+scope not approved to be submerged or cleaned with the selected cleaner. See 
+manufactured IFU and approved cleaners list for full listing of items and locations 
+of use (See example B.  
+ 
+Rinse:  Thoroughly rinse the TEE probe with clean water to remove residual debris and 
+detergent. 
+ 
+NOTE: Remember only certain components of the TEE probes are allowed to get 
+wet (See example B)  Policy Reference Number 
+Page 3 of 5 
+  
+Wipe: Wipe all other areas with approved disinfectant cloth per the IFU. Also wipe an 
+residual water from rinsing off with a lint-free towel. 
+ 
+NOTE: not all hand wipes are compatible with TEE probe parts (see example A) 
+ 
+F. High Level Disinfection  
+ 
+Automated high level disinfection: This is the preferred method. Varying types of AERs 
+are utilized, consult manufactures IFU and High Level Disinfectant IFU for that system 
+ 
+Manual high level disinfection: This method will be utilized when AER (automated 
+endoscope reprocessor) unavailable due to breakdown or maintenance by Biomed dept. 
+Refer to specific manufacturers IFU for different TEE probe models and for high level 
+disinfectant being used. 
+1. Select a basin with a lid, large enough to hold probe without damage 
+2. Prepare, test, and monitor (temperature) per high level disinfectant IFU. 
+3. Immerse only the parts of the TEE probe that can be submerged. Cover with lid. 
+4. Allow dwell time to achieve HLD per IFU. 
+5. Remove TEE probe from disinfectant and rinse and wipe thoroughly.  
+6. Prepare for storage by drying with soft, clean, lint-free towel. 
+7. Record in log. 
+   
+G. Storage of TEE Probes:  Prior to storage all probes should be inspected for cleanliness, 
+dry, and structural integrity.  
+1. Must have a scope tag that clearly indicates the serial number and expiration date. 
+Expiration date is 7 days from reprocessing date. 
+2. Reprocessed after use, transport without patient use, or every seven days (per 
+specified date on tag), whichever comes first 
+3. Must be stored in an area that is clean, well ventilated and dust free. 
+4. Hung vertically 
+5. Cabinet will be wiped down (doors, floors, walls) with approved clean per IFU  
+once per week if cleaning frequency not state on IFU 
+   
+H. Logging and documentation: TEE probes must be tracked to the patient with the 
+appropriate forms, logs, and EMR documentation.  
+1. When obtaining a TEE probe a “scope tracking form” should be used 
+2. When using a TEE probe on the patient, the serial number must be recorded in 
+EMR 
+3. Each cleaning will have a log that can track the cleaning and inspection process.  
+4. Any scope failing to meet standards will follow policies and procedures for 
+damaged equipment.  
+ 
+REFERENCE: 
+ 
+Philips Ultrasound care and cleaning manual  Policy Reference Number 
+Page 4 of 5 
+https://www.usa.philips.com/c-dam/b2bhc/master/whitepapers/ultrasound-care-and-cleaning/disinfectant-tables-
+manuals/dt-us.pdf 
+IAC guidelines: https://www.csmedicalllc.com/tee-complete-care 
+EXAMPLE A 
+X7-2t (compatibility row 5) 
+S7-3t (Compatibility row 4) 
+X8-2t  (compatibility row 5)  
+ 
+ 
+  Policy Reference Number 
+Page 5 of 5 
+ 
+ 
+ 
+ 
+EXAMPLE B 
+Highlighted area is only area allowed to get wet 
+ 
+ 
+EXAMPLE C 
+Manual leakage testing performed in a basin 
+ 
+ 
+ 
+ 

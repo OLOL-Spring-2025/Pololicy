@@ -1,0 +1,95 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 1 of 2 
+LBA408 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA408 
+PATIENT AMENDMENT PROCEDURE 
+        Date Issue  Date Effective Date 
+ Prepared/Revised By A Dufrechou 08/11/17 4/19/2018 4/19/2018 
+Blood Donor Service Director Review D Gremillion 3/7/2018 Origination Date 
+Core Lab Director Review J Teague 3/2/2018 6/2009 
+Outreach Director Review E Landry 3/1/2018  
+Medical Director Review A Harton 3/18/2018  
+ 
+ 
+PURPOSE 
+The purpose of this policy is to define the Lake Lab Services (LLS) Outreach policy 
+regarding the amendment of patient encounters when the incorrect patient is selected.   
+ 
+ 
+POLICY 
+All specimens delivered to LLS Outreach Department for lab testing should be registered 
+and ordered according to the information given by the client and/or physician’s office.  
+The patient must be selected or created using the 2ID and patient search procedure.  
+When there is a breach in this procedure or the client/physician’s office has given 
+incorrect information, an amendment must be performed to ensure that all patient records 
+are documented correctly, the correct patient’s results are received, and the correct patient 
+is billed for the procedure.  All employees who do not follow the 2ID procedure will be 
+placed on immediate disciplinary action.  Since all employees are notified of this verbally 
+upon hire, every infraction will cause a skip of discipline beginning at “written warning” 
+and progressing in 2s thereafter.    
+ 
+PROCEDURE 
+1. Upon detection that the registration and order was placed on the incorrect patient. 
+a. If the error is identified before the labs are resulted, cancel the tests and 
+reorder on the correct patient.   
+b. If the error is identified after the labs are resulted, a call center 
+representative or supervisor must be notified. 
+2. Outreach Staff or Department Supervisor will forward a completed amendment 
+form to Outreach Supervisory staff. 
+3. Find the correct patient in LIS 
+a. If the correct patient is not available in LIS, mark the ‘new patient’ box on 
+the form.  Create a req entry on patient only.  No orders to be placed. 
+b. If the correct patient is available in LIS, write the correct MRN only on 
+the amendment form.   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+Page 2 of 2 
+LBA408 
+4. Complete the patient amendment form along with the requisition. 
+5. Outreach Supervisory staff will send the following email to the designated HIM 
+team member. 
+a. Brief description:  Patient amendment Last name, first initial for the 
+incorrect patient. 
+b. Description:   
+i. Please move encounter (list the incorrect MRN here with dos) from 
+incorrect patient to correct patient (list the correct MRN here and 
+correct demographic information).  Registered in error. 
+ii. Send newly assigned CSN when complete. 
+c. HIM will complete the encounter reassignment 
+d. Once completed, go into original req entry (RQ#) and update demographic 
+information.  The move does NOT correct this. 
+e. If the order sent from the client is also incorrect, contact a team member 
+on the Beaker team to delete scanned doc.  Once completed, scan correct 
+document. 
+f. Add all information on “Registration Error spreadsheet on T drive”  
+6. Once HIM has completed encounter reassignment, orders will be corrected to 
+update patient ranges. 
+7. Ordering personnel supervisor will then counsel employee  
+8. All Atlas amendments need to be forwarded to the LLS ATLAS team after 
+amendment is complete to update account in Atlas. 
+ 
+REVISIONS 
+6/2009 (created), 3/2015, 8/11/17 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

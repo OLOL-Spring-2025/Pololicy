@@ -1,0 +1,119 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Operating Room 
+Title: Laser Safety Policy Reference #: SOS019 
+Supersedes #:  
+Date of Origination:  Review Date: 05/09/2024 
+Revision Date: 12/16/2021 
+ 
+ 
+PURPOSE: 
+To establish guidelines for safe laser use by physicians and personnel in providing intraoperative 
+patient care during laser surgeries and procedures and maintaining and supporting a safe operating 
+room environment. 
+ 
+POLICY: 
+All physicians and intraoperative personnel involved in the use of lasers will maintain proper 
+training by attending educational sessions that include safety precautions and hazards, maintain 
+current credentialing, and follow procedures as outlined in the policy. 
+ 
+PROCEDURE:  
+Patient Safety 
+1. Eye protection 
+a. All patients under general anesthesia will have their eyes protected with a sterile water-
+based ophthalmic lubricant, taped closed, and covered with laser-appropriate moist eye 
+pads/towels. 
+b. All awake patients will be provided with laser-appropriate glasses or goggles. 
+2. Airway 
+a. The anesthesia care provider, depending on the site to be lasered, will use a laser shield 
+endotracheal tube.  It is recommended that the cuff be fitted with methylene blue and 
+saline solution. 
+i. The surgeon will protect the cuffed end of the endotracheal tube from the laser 
+beam whenever the endotracheal tube is in close proximity to the site to be 
+lasered.  The cuff will be protected by wet cottonoid patties that will be kept wet 
+throughout the surgical procedure.  A count of these patties will be maintained 
+and documented.  
+ii. FiO2 level and ability to purge O2 from airway prior to firing laser will be 
+discussed and followed per anesthesia fire safety policy.   
+3. Fire  
+a. A fire safety assessment will be completed. 
+b. Prep agents will not be allowed to pool and will be fully dry prior to draping or firing 
+the laser.  2 
+c. Wet cloth towels, wet gauze, or wet cottonoids will be used to drape the site to be 
+lasered and the surrounding tissues that could potentially be exposed to a direct or 
+reflected laser beam. 
+d. A basin or pitcher of sterile normal saline or sterile water will be on the back table for 
+all surgeries or procedures involving laser usage.  Two unopened bottles of sterile saline 
+or water will be available in the room. 
+4. Check the site post procedure for any laser induced injury. 
+5. Documentation of laser usage will be recorded in a laser section of the circulating record and 
+will include:  
+a. the type of laser used 
+b. The ID or serial number of the laser 
+c. wattage, power,  
+d. length of time the laser was in use  
+e. all safety precautions that were employed (patient eye protection, fire safety, etc). 
+ 
+Personnel Safety 
+1. A laser-trained staff member will be available, if applicable, for all laser surgeries and 
+procedures.  This staff member will have the responsibility and authority to ensure that safety 
+parameters are followed in accordance with laser policy. 
+a. The laser will be attended when the laser is in use to prevent unauthorized and/or 
+accidental activation of the laser. 
+b. The laser should be test fired as indicated per manufacturer’s recommendation. 
+c. The laser should be maintained on “standby” mode at all times that the laser is not 
+actively in use to prevent accidental firing which could cause injury. 
+d.  The operator manual specific for each laser is available for immediate reference by all 
+personnel operating the laser. 
+ 
+2. All personnel in the room will wear laser-appropriate eye protection.  Laser wavelength-
+specific glasses or goggles with peripheral guard attachments will be worn by all persons in the 
+laser treatment room while the laser is activated. 
+3. Laser warning signs will be posted on all entrances to the laser room, as well as a pair of laser-
+appropriate glasses or goggles attached to the outside of each entrance for persons who must 
+enter the laser room while the laser is being activated.  However, traffic in and out of the laser 
+utilization area should be restricted to a minimum during usage. 
+4. Prior to laser use, the windows to the laser treatment area will be covered with an opaque 
+covering, except for the CO2 laser. 
+5. The laser key is only to be in the laser when the laser is in use.  The key will be kept in a 
+separate location from the laser unit to ensure that only appropriate personnel have access to the 
+use and activation of the laser. 
+6. Only the physician performing the laser surgery or procedure is to have access to the laser foot 
+pedal.  The laser foot pedal should be the only foot pedal available to the physician during laser 
+usage to avoid accidental firing or activation of other equipment that could result in injury.  The 
+physician will be responsible for selecting the laser power and wattage for each procedure. 
+7. Instrumentation which may be easily struck by the laser beam shall be ebonized or matte-
+finished to minimize the reflection of the beam.  If instruments are not laser-finished, they 
+should be covered with moist gauze if they are in close proximity to the laser beam.  3 
+8. Proper respiratory protection should be utilized. 
+a) smoke evacuator should be used during all laser procedures that generate a visible 
+smoke or plume as a result of tissue vaporization  
+b)  Respiratory protection should be second line of defense. 
+• First choice is fit-tested N95 respirator and should be used on all known 
+transmissible disease cases (i.e. HPV or condyloma).  
+• Second choice is a high filtration surgical mask (99%) 
+9. All personnel will know the location of the fire extinguisher readily available to each operating 
+room. 
+10. If or when technical difficulties arise with the laser unit that cannot be handled by the physician 
+or surgery personnel, the Biomedical department or laser service representative will be notified. 
+ 
+ 
+ 
+ 
+ 
+Laser Injuries 
+1. Should any injury occur to a patient during a laser surgery or procedure, appropriate and 
+immediate treatment should be implemented followed by a safety event report.  The Charge 
+Nurse Manager/Supervisor shall be notified so that appropriate action can be taken regarding 
+that laser. 
+2. Should any injury occur to an employee during a laser surgery or procedure, appropriate and 
+immediate treatment should be implemented followed by a safety event report.  The Charge 
+Nurse Manager/Supervisor will also be notified. 
+ 
+AORN Guidelines for Perioperative Practice, 2024 
+ 
+ 

@@ -1,0 +1,59 @@
+POLICIES AND PROCEDURES MANUAL 
+ 
+Our Lady of the Lake Regional Medical Center   Manual: Business Office 
+        Chapter:  
+Subject:  Marybird Perkins Unposted Cash   Section:  
+Date of Origination:  May 1, 2014    Supersedes:  
+Date of Last Revision: December 22, 2015   Serial Code:  
+ 
+ 
+PURPOSE: 
+ 
+To post to the receiving account and identify payments for Marybird Perkins  (MBP) that are 
+billed with the OLOL tax ID; these payments are sent to OLOL. 
+ 
+POLICY; 
+ 
+It is the policy of FMOL to maintain Marybird Perkins Unlocated payments. 
+ 
+PROCEDURE: 
+ 
+1) Establish each calendar year a new patient account to post all MBP insurance payments.  
+a) Use CPI#004988168 always. 
+b) Add visit #9615 for 2015, 9616 for 2016. 
+2) When cash posters key remits, the payments for MBP are keyed to the unlocated MBP 
+account. Process is as follows: 
+a) Run a report for the previous business day in Rumba for Oncology. 
+b) Gather all remits that are placed in the tray from the prior business day 
+including the electronic postings and check off all remits available 
+c) Calculate all the totals from the remits to be placed on the spreadsheet. 
+d) Enter each insurance carrier, the amount posted to oncology, Rumba and the 
+recon for each remit. 
+e) If any errors were posted in Oncology/Rumba list them at the bottom of the 
+spreadsheet and give an explanation of the error and what was corrected.  (i.e. 
+poster entered the incorrect amount and payment was reversed to enter the 
+correct payment amount). 
+f) Add all the remit totals on a cashier receipt and attach the receipt to the 
+spreadsheet to show each remit total. 
+g) Place the spread sheet on top of the report from Rumba and then the remits 
+following. 
+3) The copy of payments by posting date are emailed to Patsy Guitreau and their staff at 
+MBP to pquitreau@marybird.com and jdesoto@marybird.com. 
+4) Every Friday and at month end the open recurring account is adjusted to balance to zero.  
+Example: $21,567.30 credit showing is reversed with CDM 123042 for cash clearing. 
+5) The 123042 adjustment notifies accounting that this amount is for MBP. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Approval:    Date:    
+ 
+Approval:    Date:    
+ 
+Approval:    Date:     
+ 
+ 
+ 

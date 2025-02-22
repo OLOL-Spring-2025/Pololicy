@@ -1,0 +1,74 @@
+NICP-008 
+Page 1 of 2 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Neonatal Intensive Care 
+Subject:  Pulse Oximetry Screening for Critical 
+Congenital Heart Disease (CCHD) 
+Section:  Patient Care 
+Date of Origination:  October 23, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+January 2, 2025 
+August 23, 2024 
+Serial Code:  NICP-008 
+  
+PURPOSE: 
+This policy is to provide a standard method of screening for critical congenital Heart Defects (CCHD).  
+ 
+POLICY: 
+Newborns will be screened for Critical Congenital Heart Disease (CCHD) as indicated by the clinical situation 
+prior to discharge. 
+ 
+Screening Criteria: 
+1. Screening for CCHD will require an order. 
+2. Screening should be based on the recommended screening algorithm (Attachment A) and performed by 
+Registered Nurses who have been educated and trained in pulse oximetry monitoring of newborns. 
+3. Screening should be done prior to discharge in infants who are maintained in room air and for whom 
+discharge in the first week of life is anticipated.  Screening for those infants > 1 week age at the time of 
+their discharge is at the discretion of the physician.  Screening is not required for those infants who have 
+had an echocardiogram.  Ideally, screening should occur at or near 24 hours age or may be done sooner 
+if discharge prior to 24 hours age is anticipated. 
+4. It is the responsibility of the assigned nurse caring for the newborn to ensure the screening is completed 
+prior to discharge. 
+ 
+ 
+PROCUDURE: 
+ 
+1. Screening will be documented in electronic medical record. 
+2. Oxygen saturations will be obtained from in the right hands (RH) and one foot. 
+3. A newborn passes when: 
+a. Any oxygen saturation measures greater than or equal to 95% in both the right hand and one foot 
+with less than 3% absolute difference between the upper and lower extremity.  The screen would end 
+if determined negative and the infant will be considered cleared for discharge to home without any 
+need for further referral. 
+4. A newborn fails when: 
+a.  Any oxygen saturation measures of 89% or less in either RH or foot. 
+b. Do not repeat pulse oximetry screening, notify neonatologist, and consider immediate Cardiology 
+consult. 
+5. A newborn needs to be retested when: 
+a. Any oxygen saturation between 90-94% in either the RH or foot OR there is a difference of 4% or 
+more between the RH and foot. NICP-008 
+Page 2 of 2 
+ 
+b. Repeat pulse oximetry measurements in one hour 
+1. A newborn passes the retest when: pulse oximetry of 95% or more in RH and foot and, a 
+difference of 3% or less between the 2 
+2. A newborn fails the retest when pulse oximetry of 94% or less in either the RH or foot OR a 
+difference of 4% or more between the RH and foot OR a difference of 4% or more between the 
+RH or foot 
+3. Do not repeat pulse oximetry screening, notify neonatologist, and consider immediate 
+Cardiology consult. 
+ 
+          
+   
+REFERENCE: 
+Matthew, E.O, Pinto, N.M., Pramanik, A.K., Markowsky, A., Schwartz, B.N., Kemper, A.R., Hom, L.A., 
+Martin, G.R., & the Section on Cardiology and Cardiac Surgery; Section on Hospital Medicine; Committee on 
+Fetus and Newborns (2025).  Pediatrics, 155(1): e2024069667   
+ 
+Screening algorithm for CCHD - Attachment A 
+ 
+ 

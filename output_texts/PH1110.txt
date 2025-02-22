@@ -1,0 +1,130 @@
+ Policy Reference Number 
+Page 1 of 3 
+ 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: 
+Formulary and 
+Medication 
+Procurement   
+Title: Intracompany Transfer between Our 
+Lady of the Lake owned Facilities 
+Policy Reference #: PH-11-10 
+Supersedes #:  
+Date of Origination:  Last Date Reviewed: 05/15/2024 
+Last Date Revised: 02/17/2022 
+  
+PURPOSE: 
+Utilizing a central fill model from a primary pharmacy, drug inventories shall be transferred to various facilities by way of 
+an intracompany transfer.   
+ 
+DEFINITIONS: 
+1. Registrant – an entity that is registered to hold a DEA License.   
+ 
+2. Intracompany Transfer – a transfer between related companies under common ownership and control by a 
+corporate entity.   
+ 
+3. Corporate entity – for purposes of this policy, Corporate Entity is referring to Our Lady of the Lake owned and 
+managed companies and/or facilities 
+ 
+4. Invoice – a receipt from the primary filling pharmacy which contains the pharmacy registrant name, DEA 
+registration number, and address, the receiving facility name, DEA registration number and address,  the name of 
+the medication(s) being intracompany transferred, the dosage form, strength and quantity of each.  
+ 
+5. Primary Filling Pharmacy – pharmacy responsible for oversight of medication access per designated facility owned 
+by the OLOL Corporate Entity 
+ 
+6. Power of Attorney – the authority to act for another person and/or facility for the transfer of controlled substances 
+ 
+POLICY: 
+ 
+This policy defines the transfer of medication products to various Our Lady of the Lake owned facilities.  This policy applies 
+to controlled as well as non-controlled substances All intracompany transfers shall be transfers between this corporate entity 
+facilities.  Each facility shall have at minimum the following license and or permit as applicable for controlled and/or non-
+controlled substances: 
+1. DHH License 
+2. DEA Hospital Clinic License 
+3. Controlled Dangerous Substance License 
+4. Automated Dispensing License as it relates to the primary filling pharmacy permit 
+ 
+PROCEDURE 
+ 
+The primary filling pharmacy is responsible for supplying medications to surrounding facilities owned by OLOL with 
+controlled and non-controlled substances, each facility maintains its own DEA registration and acquire its own DEA  Policy Reference Number 
+Page 2 of 3 
+ 
+ 
+form 222s.  The DEA form 222s are stored in the CII Safe, and/or controlled substance manager, at the primary filling 
+pharmacy and each facility must be notified to reorder when they are below PAR.  A log will be used to maintain the 
+inventory of DEA form 222s  at the primary filling pharmacy .  The pharmacist preparing the form will use the next 
+sequential form and document the form number, their name, and the date on the log.  
+ 
+1. Intracompany Transfer to a Facility involving Controlled Substances 
+a. Schedule II Controlled Substances 
+i. Transfers of C-II drugs shall be made with a DEA form 222 and accompanied by an invoice where 
+appropriate 
+1. Handling of DEA form 222 with Errors 
+a. If an error is made while filling out a DEA form 222, it cannot be corrected and 
+the form becomes unusable.  However, it should not be destroyed.  In order to 
+ensure that it cannot be reused, “VOID” will be written across the form and it will 
+be kept on file. This should also be noted in the DEA Form 222 tracking log.  
+ii. For all Schedule II transactions, a pharmacist will access the CII Safe, and/or controlled substance 
+manager, and/or controlled substance manager, and/or controlled substance filing system indicating 
+the reason being to obtain DEA form 222   
+iii. Pharmacist will acquire next sequential DEA form 222 for the corresponding Facility and document 
+on log form number, their name, and the date along with the remaining balance of forms. 
+iv. Pharmacist will select action of “Sale to outside pharmacy” from drop down menu in CII Safe, 
+and/or controlled substance manager.   
+v. Pharmacist will fill in the Facility’s Name and the DEA form 222 number and enter the medications 
+and quantity being requested. 
+vi. Once the information is saved, two copies of an invoice will be printed by the CII Safe, and/or 
+controlled substance manager. 
+vii. Printed invoice will be completed with the following information being documented for the primary 
+filling pharmacy and the facility receiving the medication(s): 
+1. Name of each registrant. 
+2. Address of each registrant. 
+3. DEA registration number of each registrant 
+viii. Pharmacist will date & sign the invoice filing one copy for the primary filling pharmacy’s records 
+and the other to be sent to the requesting facility. 
+ix. For Schedule II controlled substances, the pharmacist will fill out the DEA form 222 and obtain a 
+signature from an authorized pharmacist with Power of Attorney for the corresponding facility. 
+x. Pharmacist will attach supplier’s copy (brown) of DEA form 222 to the primary filling pharmacy’s 
+copy of the invoice, the purchaser’s copy (blue) of DEA form 222 to the requesting facility’s 
+invoice, and will place the DEA copy (green) in the Administrative Assistant’s mailbox  where 
+applicable. 
+xi. The Administrative Assistant and/or Pharmacist in Charge will mail the DEA copies to the DEA. 
+b. Schedule III-IV Controlled Substances 
+i. Pharmacist will select action of “Sale to outside pharmacy” from drop down menu in CII Safe, 
+and/or controlled substance manager.   
+ii. Pharmacist will fill in the Facility’s Name and information  Policy Reference Number 
+Page 3 of 3 
+ 
+ 
+iii. Once the information is saved, two copies of an invoice will be printed by the CII Safe, and/or 
+controlled substance manager. 
+iv. Printed invoice will be completed with the following information being documented for the primary 
+filling pharmacy and the facility receiving the medication(s): 
+1. Name of each registrant. 
+2. Address of each registrant. 
+3. DEA registration number of each registrant 
+v. Pharmacist will date & sign the invoice filing one copy for the primary filling pharmacy’s records 
+and the other to be sent to the requesting facility. 
+2. Intracompany Transfer from an OLOL owned Facility involving controlled substances 
+a. Should a controlled substance medication at an OLOL owned facility expire or is no longer needed at the 
+facility, the medication may be intracompany transferred back to the primary filling pharmacy.  The primary 
+filling pharmacy will complete the request for controlled substance from the facility. 
+b. For Schedule II controlled substances, the pharmacist will complete a DEA Form 222  for the Primary 
+Filling Pharmacy and follow the same procedure as outlined above.  
+c. The Primary Filling Pharmacy will retain a the original  DEA form 222 and send the a copy to the 
+corresponding facility. A copy will be e-mailed to the DEA by the primary filling pharmacy.   
+d. An invoice will be generated by utilizing the Pyxis ES server showing the transaction from the automated 
+medication system at the corresponding facility.  The original DEA Form 222 will be attached to this invoice 
+and maintained at the Primary Filling Pharmacy.  Document the quantity of drug received and the date on 
+the purchaser’s copy  
+e. A copy of the invoice and executed DEA Form 222 will be maintained at the corresponding facility.  
+3. Intracompany Transfers of all non-controlled substances 
+a. A hardcopy of the transfer information can be obtained via Pyxis ES server. Should the transaction be past 
+90 days, the historical information should still be readily retrievable through Pyxis ES server.  During an 
+audit, these reports may be run at the request of the auditor and serve as the invoice for the corresponding 
+facility.   
+ 

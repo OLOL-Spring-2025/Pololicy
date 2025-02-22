@@ -1,0 +1,50 @@
+OC-061 
+Page 1 of 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: Org/Clin 
+Title: Do Not Use Abbreviations List Policy Reference #: OrgClin/061 
+Supersedes #: OOHIM012 
+Date of Origination: July 17, 2003 Last Review Date:  July 10, 2023 
+Last Revision Date: April 4, 2024 
+ 
+PURPOSE:  
+To provide a uniform set of abbreviations that should not be used by various disciplines hospital wide. 
+ 
+POLICY: 
+A. It is our policy to maintain a current listing of “Do Not Use Abbreviations” that must not be used at Our Lady of 
+the Lake Regional Medical Center (OLOL). 
+ 
+B. The approved abbreviations that can be used are indicated in Taber’s Online.  Any unacceptable abbreviation 
+shown below that may be listed in Taber’s cannot be used in the medical record. 
+ 
+C. This policy applies to all orders, pre-printed forms, and all medication-related documentation that is either 
+handwritten or electronic free text computer entry. 
+ 
+OLOL Official “Do Not Use” List 
+ 
+The following abbreviations are considered dangerous and shall not be used at OLOL 
+Do Not Use Potential Problem Use Instead 
+u or U Mistaken for:  “0” (zero), the 
+number “4”, or cc Write “unit” 
+IU (International Unit) Mistaken for IV (intravenous) or 
+the number “10” (ten) Write “international unit” 
+Q.D., QD, q.d., qd (daily) 
+Q.O.D., QOD, q.o.d., qod (every 
+other day) 
+Mistaken for each other.  Period 
+after the Q mistaken for “I”,  “O” 
+mistaken for “I” 
+Write “daily” 
+Write “every other day” 
+Trailing zero (X.0 mg) 
+   Lack of leading zero (.X mg) Decimal point is missed Write X mg 
+Write 0.X mg 
+MS Can mean morphine sulfate or 
+magnesium sulfate 
+Write “morphine sulfate” 
+ 
+MS04 or MgSO4 Confused for one another Write “magnesium sulfate” 
+ 
+REFERENCES: 
+1. Joint Commission 2024 Standards HAP: IM.02.02.01 
+ 

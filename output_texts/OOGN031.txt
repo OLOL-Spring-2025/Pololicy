@@ -1,0 +1,3406 @@
+OO-GN-031 
+Page 1 of 58 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: General 
+Title: Records Management Policy Reference #: OrgOps/GN/031 
+Supersedes #:  
+Date of Origination: April 18th, 2006 Last Review Date: October 6, 2009 
+Last Revision Date:  March 6, 2018 
+ 
+PURPOSE   
+To establish the policy and procedures for the creation, use, maintenance, retention, preservation, and disposal 
+of Our Lady of the Lake Regional Medical Center (OLOL) records. 
+ 
+POLICY               
+Maintenance.  It is the Hospital’s policy to apply effective and cost efficient management techniques to 
+maintain complete and accurate records.  Records will be retained in accordance with all applicable laws and 
+regulations, with this policy and with department specific requirements. Department specific requirements shall 
+not conflict with this policy. The specific record retention requirements are listed on Exhibit A.   Proposed 
+changes, additions, or revisions to the record retention requirements will be submitted to the Legal Department 
+for review and approval.  The Hospital departments that are responsible for specific records are set forth on 
+Exhibit A.  Each department listed on Exhibit A will designate a person who is responsible for implementing 
+and maintaining the records management program (the Department Records Coordinator). 
+ 
+Destruction.  Records that have satisfied their required period of retention as set forth on Exhibit A may be 
+destroyed when the specific retention period has expired and a Certificate of Destruction form as set forth on 
+Exhibit B is executed. Records that cannot be destroyed include records of matters known to be in litigation or 
+known to be under investigation or records with a permanent retention.  In the event of a lawsuit or government 
+investigation, that is known to OLOL, the applicable records cannot be destroyed until the lawsuit or 
+investigation has been finalized.  Once the litigation/investigation has been finalized and after obtaining the 
+written approval of the Chief Legal Counsel, the records may be destroyed in accordance with the Records 
+Retention Schedules.  OLOL records must be destroyed in a manner that ensures the confidentiality of the 
+records and renders the information no longer recognizable as OLOL records. The approved methods to destroy 
+OLOL records include, but are not limited to, recycling, shredding, burning, pulping, pulverizing, and magnetic 
+degaussing. OLOL records cannot be placed in trash receptacles unless the records are rendered no longer 
+recognizable as an OLOL record.  A Certificate of Destruction form  must be approved and signed by the 
+appropriate management staff prior to the destruction of records.   Records are to be reviewed annually by the 
+Records Coordinator to determine the status of the record. 
+ 
+Integrity of Records.  No one may falsify document information in any record or document.  No one may falsify 
+or inappropriately alter information in any record or document. 
+    
+Confidential Information.  Records containing confidential and proprietary information will be securely 
+maintained, controlled and protected to prevent unauthorized access. 
+ 
+Disaster.  Vital and official records will be retained and protected to ensure OLOL’s continued operations in the 
+event of a natural or man-made disaster. 
+ 
+Ownership.  All records generated and received by OLOL are the property of OLOL.  No OLOL employee, by 
+virtue of his or her position, has any personal or property right to such records even though he or she may have 
+developed or compiled them. 
+ OO-GN-031 
+Page 2 of 58 
+Compliance.  Information pertaining to unauthorized destruction, removal or use of OLOL records or regarding 
+falsifying or inappropriately altering information in a record or document should be reported to management, 
+either directly or through the Corporate Compliance Hotline at 1-225-765-6507. 
+ 
+ 
+DEFINITIONS 
+Records:  A record is recorded information, regardless of medium or characteristic, which can be retrieved at 
+any time.  It includes all original documents, papers, letters, x-rays, cards, books, maps, photographs, blueprints, 
+sound or video recordings, microfilm, magnetic tape, electronic media, and other information recording media, 
+regardless of physical form or characteristic, that are generated and/or received in connection with transacting 
+OLOL’s business and are related to OLOL’s mission and operational, legal, fiscal and historical purposes. 
+ 
+Business records.  OLOL  business records include, but are not limited to, letterhead correspondence, legal 
+opinions, real estate documents, directives and policies, official meeting minutes, personnel records, benefit 
+programs, purchasing requisitions and invoices, accounts payable and receivable documents, tax documents, 
+reimbursement documents, completed and signed forms, contracts, insurance documents, general ledgers, audit 
+reports,  financial reports and records necessary to protect the integrity of the hospital’s compliance process and 
+confirm the effectiveness of the program include, but are not limited to, the following: documentation that 
+employees were adequately trained; reports from the compliance hotline, including the nature and results of any 
+investigation that was conducted; modifications to the compliance program; self-disclosures; and the results of 
+the hospital’s auditing and monitoring efforts. 
+ 
+Medical records.  Refer to FMOLHS Medical Record Retention and Destruction policy 
+ 
+Non-Records:  Non-records material includes duplicate copies of correspondence, duplicate copies of records 
+used for short-term reference purposes, blank forms, stocks of publications, magazines, publications from 
+professional organizations, newspapers, public telephone directories, and transitory messages used primarily for 
+the informal communication of information.  Transitory messages do not set policy, establish guidelines or 
+procedures, certify a transaction, or become a receipt.  Transitory messages may include, but are not limited to, 
+e-mail messages with short-lived or no administrative value, voice mail, self-sticking notes and telephone 
+messages.   
+ 
+Discretion should be used in determining whether to generate or retain transitory messages in the nature of 
+notes of unofficial meetings, telephone conversations, or other personal notes.  If generated, such records should 
+be routinely discarded when they are no longer useful.  For example, when the informal record, such as an 
+employee’s personal notes, is transferred to a more formal record, such as an incident report, the notes are no 
+longer useful and should be discarded. Preliminary working papers and superseded drafts, particularly after 
+subsequent versions are finalized, should be discarded.  E-mail that contains no substantive data, such as 
+invitations to lunch and responses to such, should be routinely discarded. 
+ 
+The retention schedules do not apply to non-records.  Non-records are maintained for as long as 
+administratively needed and should be removed from OLOL files and discarded as soon as the business use has 
+terminated.  When removing or destroying non-record materials, take care that any documents which include 
+“protected health information” as the same is defined by the Health Insurance Portability and Accountability 
+Act of 1996 (HIPAA), 42 U.S.C. 1171 et seq. and regulations promulgated thereunder; documents the use of 
+which have been restricted by contract; documents where usage might constitute an invasion of privacy; and 
+any other documents which are sensitive are protected from unauthorized disclosure. 
+ 
+Vital Records:  Vital records are records that are essential to the continued functioning or reconstitution of 
+OLOL or facility during and after an emergency and also preserve the rights of OLOL or facility, its employees, OO-GN-031 
+Page 3 of 58 
+patients, and other constituent groups. 
+ 
+E-Mail Communications:  E-mail communications, messages and documents transmitted by e-mail are similar 
+to paper documents. They may be considered business records and are subject to this policy.  To determine 
+whether an e-mail message must be retained and for how long, think of it like a paper memo or document.  If 
+you would retain a memo due to its content, then you are required to retain an e-mail message of the same 
+content for the same length of time.  The originator/sender of the e-mail message (or the recipient of a message 
+if the sender is outside OLOL) is the person responsible for retaining the message.  E-mail messages may be 
+retained in electronic form in the mailbox, or be printed and filed along with other documents related to the 
+same topic or project.  Users may delete e-mail messages that they are not required by this policy to retain (such 
+as non-record messages and transitory messages) and messages that are being retained in printed form.   
+ 
+ 
+ 
+ 
+ 
+ OO-GN-031 
+Page 4 of 58 
+Attachment A 
+ 
+Certificate of Records Destruction  
+ 
+1. Department/Facility Name 2. Department Number 
+Please reference the Record Retention Schedules to provide the authorized record series codes and titles. 
+3. Record 
+Series Code 
+4. Record Series Titl e 5 .  F r o m  D a t e 6 .  T o  D a t e 7 . M e d i a 8 .  C u b i c  F e e t 
+      
+      
+      
+      
+      
+      
+      
+      
+Signatures indicate approval for destruction of the above records. 
+9. Department Head/Senior Management:  
+ 
+Name/Title:  
+  Signature:  
+          Date:  
+                     
+10. Records Coordinator:  
+ 
+Name/Title:  
+  Signature:  
+          Date:  
+  
+The records described above were destroyed in the normal course of business pursuant to Records Management Policy. All parties involved in this 
+destruction process agree to maintain the confidentiality of the documents destroyed.  
+ 
+11. Date of Destruction:  
+ 
+ 
+12. Total Cubic Feet:  
+ 
+13. Method of Destruction:      Recycling       Shredding  
+      Pulping        Pulverizing       Magnetic Degaussing   ___ Burning                                                                 
+Other 
+ 
+14. Records Destroyed By:  
+ 
+          Name/Title:  
+           Signature:  
+                   Date:  
+ 
+15. Witness:  
+ 
+  Name/Title:  
+    Signature:  
+            Date:  
+Instructions for Completing the Certificate of Records Destruction  
+ OO-GN-031 
+Page 5 of 58 
+1) Department Name and Facility Name: Enter the department name and facility name. 
+ 
+2) Department Number: Enter the department number. 
+ 
+3-4) Record Series Code and Record Series Title: Enter the approved record series title and the 
+record series code.  
+ 
+5-6) From and To Date: Enter the beginning and ending date of the box contents. 
+ 
+7) Media: Enter the media format of the records being destroyed. 
+ 
+8) Cubic Feet: Enter the cubic feet of records destroyed. 
+ 
+9) Department Head/Senior Level Management: Either the Department Head or  Senior 
+Management must approve any records destruction by providing his/her name, title, a 
+signature, and the date of approval. 
+ 
+10) Records Coordinator: The Records Coordinator also should approve any records destruction 
+by providing his/her name, title, a signature, and the date of approval. 
+ 
+11) Date of Destruction: Provide the date the records were destroyed. 
+ 
+12) Total Cubic Feet: Provide the total cubic feet of records destroyed. 
+ 
+13) Method of Destruction: Indicate the method of records destruction from the list provided. If 
+the method is “Other”, describe it in the space provided.  
+ 
+14) Records Destroyed By: If an outside company destroys the records, provide the company 
+name, the name of the person performing the destruction, his/her title, his/her signature, and 
+the date. If OLOL staff destroys the records, provide the name of the person performing the 
+destruction, his/her title, his/her signature and the date. 
+ 
+15) Witness: Provide the name, title, and signature of the OLOL representative witnessing the 
+destruction and the date. 
+ 
+Exhibit A 
+ 
+Records Management 
+Legend for Records Retention Schedules OO-GN-031 
+Page 6 of 58 
+ACT  Subject is Active 
+ATX Active plus tax return filing date 
+CY Current year 
+SUP Until Superseded 
+TAX Tax Return filing date 
+AV Administrative Value 
+ 
+SCHEDULES FOR RECORDS RETENTION 
+I. Records Common to All Departments 
+II. Accounting/Tax 
+A. Accounts Payable 
+B. Accounts Receivable 
+C. Audit 
+D. Budget 
+E. Business Office 
+F. Capital Property 
+G. Banking 
+H. Financial Reporting 
+I. Journals/Ledgers 
+J. Payroll 
+K. Tax 
+III. Administration 
+A. Accreditation Surveys and Reports 
+B. Annual Reports to State Department of Health 
+C. Departmental Records 
+D. Grievances 
+E. Mail Operations 
+F. Management Reports 
+G. Medical Directives 
+H. Medical Equipment Logs 
+I. OSHA Records 
+J. Pastoral Records 
+K. Permits/Licenses 
+L. Policies and Procedures 
+M. Records Management 
+N. Safety 
+O. Security 
+P. Sentinel Event Committee 
+Q. Surveys, TJC 
+R. Training 
+S. Travel 
+T. Volunteer Records 
+IV. Blood Bank 
+A. ABO and RH Types 
+B. Adverse Reactions to Transfusions 
+C. General Records 
+D. Blood Component Processing Records OO-GN-031 
+Page 7 of 58 
+E. Blood Donor Records 
+F. Blood Test Results 
+G. Patient Records 
+H. Quality Control 
+I. Deferred Donors 
+J. Refrigeration 
+K. Specimens 
+L. Storage and Distribution 
+M. Transfusion Records 
+N. Immunohematology Reports 
+V. Clinical Research 
+A. Steering Committee 
+B. Research Records 
+C. IRB Records 
+VI. Corporate 
+A. Audits 
+B. Articles of Incorporation 
+C. Bylaws 
+D. Certificates of Incorporation 
+E. Corporate Seals 
+F. Board of Directors Meetings 
+G. Committees of Board Meeting Minutes 
+H. CEO Files – Administrative 
+I. CFO Files – Administrative 
+J. Chief Legal Counsel – Administrative 
+K. Compliance 
+L. Copyrights/Trademarks 
+M. Deeds 
+N. Easements 
+O. Endowments 
+P. Finance 
+Q. Hospital Legal Files 
+R. Legal 
+S. Property Management 
+T. Risk Management 
+U. Strategic Plan 
+VII. Dietary 
+A. Bacteriological Testing of Ice 
+B. Diet Manual 
+C. Recipe Records 
+D. Counseling Summaries 
+E. Food and Refrigeration Temperature Log 
+F. Food Costs 
+G. Health Food Handlers’ Permits 
+H. In-service Training Records 
+I. Inspection Reports 
+J. Meal Counts 
+K. Patient Diet Instructions 
+L. Menus 
+VIII. Emergency Department, Adult OO-GN-031 
+Page 8 of 58 
+A. Adult Abuse Reports 
+B. Burn Injuries and Wounds Reports 
+C. MVA Reports 
+D. GSW Reports 
+E. Pesticide Poisoning Reports 
+F. Rape Victim Reports 
+G. Severe Head Injury Reports 
+H. Emergency Communications 
+I. Emergency Run Reports 
+J. Emergency Certification for Transfer Reports 
+K. Emergency Department Log 
+L. On Call Rosters 
+M. Patient Medical Records - Refer to FMOLHS Medical Record Retention and Destruction 
+policy 
+N. Policies and Procedures 
+O. Leaving without being seen - Refer to FMOLHS Medical Record Retention and 
+Destruction policy 
+P. Refusal to Consent to Treatment - Refer to FMOLHS Medical Record Retention and 
+Destruction policy 
+Q. Transfer Records - Refer to FMOLHS Medical Record Retention and Destruction policy 
+IX. Emergency Department, Pediatric 
+A. Burn injuries and wounds report 
+B. Child Abuse Reports 
+C. MVA Reports 
+D. GSW Reports 
+E. Lead Poisoning Reports 
+F. Pesticide Poisoning Reports 
+G. Rape Reports 
+H. Severe Head Injury Reports 
+I. Emergency Communications 
+J. Emergency Run Reports 
+K. Emergency Department Certification for Transfer 
+L. Emergency Department Log 
+M. On Call Rosters 
+N. Patient Medical Records - Refer to FMOLHS Medical Record Retention and Destruction 
+policy 
+O. Policies and Procedures 
+P. Leaving Without Being Seen - Refer to FMOLHS Medical Record Retention and 
+Destruction policy 
+Q. Transfer Requests - Refer to FMOLHS Medical Record Retention and Destruction policy 
+X. Facilities/Engineering/Equipment 
+A. Air Filter Maintenance Records 
+B. Blueprints 
+C. Construction Project Files 
+D. Calibration Records 
+E. Emergency Generator Reports 
+F. Equipment Records 
+G. Inspection Records 
+H. Permits/Licenses 
+I. Work Orders OO-GN-031 
+Page 9 of 58 
+J. Housekeeping Records 
+K. Equipment Logs 
+L. Medical Equipment Logs 
+M. Property Management 
+N. Motor Vehicle Maintenance 
+O. Waste Disposal 
+XI. Grants 
+A. Federal 
+B. State 
+C. Charitable 
+D. Corporate 
+E. Foundations 
+F. Sponsors 
+XII. Health Information Management 
+A. Annual Statistics Report 
+B. Audits 
+C. Census 
+D. Emergency Department Patient Medical Record – Adult –  
+Refer to FMOLHS Medical Record Retention and Destruction policy 
+E. Emergency Department Patient Medical Record – Pediatric 
+Refer to FMOLHS Medical Record Retention and Destruction policy 
+F. Hospital Inpatient Medical Records 
+Refer to FMOLHS Medical Record Retention and Destruction policy 
+G. Hospital Outpatient Medical Records 
+Refer to FMOLHS Medical Record Retention and Destruction policy 
+H. Clinic Records 
+Refer to FMOLHS Medical Record Retention and Destruction policy 
+I. Indices 
+J. Registers 
+K. OSHA Employee Medical Records 
+L. Request for Patient Medical Records 
+M. Shadow Records - Refer to FMOLHS Medical Record Retention and Destruction policy 
+XIII. Human Resources 
+A. Benefits 
+B. Time Records 
+C. Benefit Plans/Programs 
+D. Government Reporting 
+E. Health and Safety 
+F. Personnel Administration 
+G. Personnel Files 
+H. Policies and Procedures 
+I. Salary Administration 
+J. Training 
+K. Volunteer Services 
+XIV. Imaging Services 
+A. Medical Media 
+B. Radiology Utilization Logs 
+C. Radiation Equipment 
+D. Testing 
+E. Credential License and Certification OO-GN-031 
+Page 10 of 58 
+F. Environmental Exposure 
+G. Radiation Monitoring Records 
+H. Radiation Detection Instrumentation 
+I. Radiology Surveys 
+J. Mammograms 
+K. Nuclear Medicine Reports 
+L. Radioisotopes 
+M. Radiation Protection Program 
+N. Radiation Safety Program 
+O. Reports of Stolen, Lost or Missing Licensed or Registered Sources of Radiation 
+P. Reports of Exposures, Radiation Levels and Concentrations of Radioactive Material 
+Exceeding the Limits 
+XV. Infection Control 
+A. Communicable Disease Reports 
+B. Infectious Disease 
+C. Infection Control 
+D. Needle-stick Records 
+XVI. Information Systems 
+A. Audit Trails 
+B. Finding Aids, Indexes and Tracking Systems 
+C. Hardware Documentation 
+D. Master Files 
+E. Processing Files 
+F. Software Programs 
+G. Source Documents 
+H. Technical Documentation 
+I. Access Security Records 
+J. Batch Data Entry Control Records 
+K. Computer Job Schedules and Reports 
+L. Data Processing 
+M. Disaster Preparedness 
+N. Electronic Calendar 
+O. Electronic Mail 
+P. Input Documents 
+Q. Network Files 
+R. Operating System 
+S. Output Records 
+T. Project Files 
+U. Quality Assurance Records 
+V. System Activity Monitoring Records 
+W. Training Course Records 
+XVII. Laboratory Records and Materials 
+A. Autopsy Records 
+B. General Laboratory 
+C. Specimen Logs 
+D. Registers 
+E. Requests for Tests 
+F. Performance Records 
+G. Final Test Reports 
+H. Patient Testing Reports OO-GN-031 
+Page 11 of 58 
+I. Tissue Tracking System 
+J. Test Procedures 
+K. Screening Procedures 
+L. Surgical Pathology 
+M. Cytology 
+N. Non-Forensic Autopsy 
+O. Patient Test Records 
+P. Serum/CSF/Body Fluids 
+Q. Permanently Stained Slides 
+R. Laboratory Stains 
+S. Research Papers – Published 
+XVIII. Marketing/Public Affairs 
+A. Advertising 
+B. Customer Relations 
+C. Planning 
+D. Public Relations 
+XIX. Materials Management 
+A. Inventory Records 
+B. Purchasing 
+C. Surplus Property Disposal 
+XX. Medical Management 
+A. Adult Abuse or Neglect Reports 
+B. Birth Defects Reports 
+C. Cancer Registry 
+D. Child Abuse or Neglect Reports 
+E. Death, Restraint and/or Seclusion Reports 
+F. Death Under Suspicious Circumstances Reports 
+G. Denial of Payment 
+H. Hansen’s Disease 
+I. Head Injuries 
+J. Hospital Issued Notice of Non-Coverage 
+K. Lead Poisoning Reports 
+L. Medicaid Pre-certification 
+M. OSHA Deaths and Multiple Hospitalization 
+N. Safe Medical Devices Act  
+O. Sexually Transmitted Diseases 
+P. Spinal Cord Injury Reports 
+Q. Tuberculosis Records 
+R. Tumor Registry and Files 
+S. Utilization Review 
+T. Vaccines 
+U. Vital Records 
+XXI. Medical Staff Office 
+A. Ad Hoc Committee Minutes 
+B. Allied Health Records 
+C. Cancer Center 
+D. Credentials Committee 
+E. Infection Control Committee 
+F. Malpractice Claims 
+G. Medical/Dental Staff Bylaws OO-GN-031 
+Page 12 of 58 
+H. Continuing Medical Education Committee 
+I. Medical Executive Committee 
+J. Medical Record Utilization Review 
+K. Mortality and Morbidity Reports 
+L. National Practitioner’s Data Bank 
+M. Nominating Committee 
+N. Peer Review 
+O. Performance Improvement 
+P. Pharmacy and Therapeutics 
+Q. Physician On Call Records 
+R. Division Meeting Minutes 
+S. Service Meeting Minutes 
+XXII. Nursing 
+A. Minutes 
+B. Nursing Care Manuals 
+C. Nursing Care 
+D. Nursing Personnel Records 
+E. Policies and Procedures 
+F. Student Nursing Records 
+G. Training 
+XXIII. Pharmacy 
+A. Adverse drug reaction and error reports 
+B. Alcohol (Tax Free) Inventory 
+C. Controlled Substances 
+D. Inspection Reports 
+E. Methadone Reports 
+F. Patient Profiles 
+G. Pharmacy Register 
+H. Policies and Procedures 
+I. Prescriptions 
+J. Radioactive Drugs 
+K. Radioisotopes 
+L. Recall Records 
+M. Transfer of Prescription 
+XXIV. Reimbursement 
+A. Correspondence with Fiscal Intermediaries 
+B. Correspondence with HHS 
+C. Cost Reports 
+D. Medicare Reimbursement 
+ OO-GN-031 
+Page 13 of 58 
+Records Common to All Departments 
+ 
+Type of Record Retention Responsible Department 
+General Administrative Support Records CY + 3 years DEPARTMENT SPECIFIC 
+General Budgets – Department Copies CY + 1 year DEPARTMENT SPECIFIC 
+General Calendar Books CY + 1 year INDIVIDUAL DEPARTMENTS 
+General Chronological Files CY + 3 years DEPARTMENT SPECIFIC 
+General Contracts, Originals ACT + 10 years or in 
+accordance w/ terms of K, 
+whichever is longer. 
+CORPORATE 
+General Contracts, (Copies) (Originals to Legal)  Administrative Value (AV) DEPARTMENT SPECIFIC 
+General Correspondence CY + 5 years DEPARTMENT SPECIFIC 
+General Informational Copies AV; destroy with record copy DEPARTMENT SPECIFIC 
+General Meeting Notes/Minutes CY + 3 years DEPARTMENT SPECIFIC 
+General Organizational Charts Until Superseded DEPARTMENT SPECIFIC 
+General Policies/Procedures ACT + 10 years INDIVIDUAL DEPARTMENTS / 
+ADMINISTRATION 
+General Project Files CY + 3 years DEPARTMENT SPECIFIC 
+General Preliminary Drafts.  Preliminary Drafts of letters, 
+memoranda, reports, worksheets and informal notes 
+which do not represent significant basic steps in the 
+preparation of record documents. 
+AV DEPARTMENT SPECIFIC 
+General Reading/Subject Files CY + 1 year DEPARTMENT SPECIFIC 
+General Reference Files CY + 1 year DEPARTMENT SPECIFIC 
+General Reports, Departmental  CY + 3 years DEPARTMENT SPECIFIC 
+General Service Requests.  Internal Services including 
+computer support, equipment maintenance, etc. 
+CY + 3 years DEPARTMENT SPECIFIC 
+General Supply Requisitions CY + 3 years DEPARTMENT SPECIFIC 
+General Telephone Logs and Usage Detail Reports  CY + 3 years DEPARTMENT SPECIFIC 
+General Transitory Messages Administrative Value (AV) DEPARTMENT SPECIFIC 
+General Travel Transactions and Reports CY + 3 years DEPARTMENT SPECIFIC 
+General Travel Itineraries CY + 1 year DEPARTMENT SPECIFIC 
+ 
+ 
+ OO-GN-031 
+Page 14 of 58 
+Accounting/Tax 
+ 
+Type of Record Retention Department 
+Accounting – Accounts Payable 
+Invoices 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Accounts Payable 
+Invoices – Department Copies 
+CY + 1 years ACCOUNTING 
+Accounting – Accounts Payable 
+Contract Accounting Records (costs related to specific tasks or line 
+items specified in contracts) 
+TAX + 10 years; After Audit (K 
+associated with invoice – kept with 
+invoice for 10 years.) 
+ACCOUNTING 
+Accounting – Accounts Payable  
+Credit Card Statements 
+TAX + 10 years;  
+After Audit (Kept with invoices) 
+ACCOUNTING 
+Accounting – Accounts Payable  
+Donations 
+TAX + 10 years; After Audit (Kept in form 
+of invoices) 
+ACCOUNTING 
+Accounting – Accounts Payable  
+Expense Reports (Employee business expenses while traveling on company 
+business) 
+TAX + 10 years; After Audit (Kept in form 
+of invoices)  
+ACCOUNTING 
+Accounting – Accounts Payable  
+Petty Cash Records 
+TAX + 10 years; After Audit (Kept in form 
+of invoices) 
+ACCOUNTING 
+Accounting – Accounts Payable 
+Property Taxes 
+TAX + 10 years; After Audit(Kept in form 
+of invoices)  
+ACCOUNTING 
+Accounting – Accounts Payable 
+Unemployment Insurance Payments 
+TAX + 10 years; After Audit (Kept in form 
+of invoices) 
+ACCOUNTING 
+Accounting – Accounts Payable 
+Workers Compensation Insurance Payments 
+TAX + 10 years; After Audit (Kept in form 
+of invoices) 
+ACCOUNTING 
+Accounting – Accounts Receivable 
+Management Reports 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Accounts Receivable 
+Management Report Workpapers 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Accounts Receivable 
+Reconciliations 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Accounts Receivable 
+Cash Receipts 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Accounts Receivable 
+Credit Advices (records documenting payments that result in credit due) 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Accounts Receivable 
+Invoices 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Accounts Receivable  
+Sales Receipts 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Audits  
+Audit Report External  
+Permanent ACCOUNTING 
+ 
+Accounting - Audits 
+Audit Work Papers 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting –Budgeting  
+Budget and Variance Reports 
+CY + 3 years ACCOUNTING 
+Accounting –Business Office (Billing) 
+Patient Accounting  Files 
+TAX + 15 years; After Audit ACCOUNTING 
+Accounting –Business Office Collections/Bad Debts 
+Collection Rec. 
+TAX + 10 years; After Audit ACCOUNTING 
+(Bus. Office) 
+Accounting –Business Office Collections/Bad Debts Bad 
+Debt Reports 
+TAX + 10 years; After Audit ACCOUNTING 
+(Bus. Office) 
+Accounting – Business Office  
+Insurance Claims 
+CY + 7 years ACCOUNTING 
+Accounting – Business Office  
+Insurance Remittance 
+CY + 7 years ACCOUNTING 
+Accounting – Business Office  
+Insurance Explanation of Benefits (from insurance 
+company) 
+CY  + 3 years ACCOUNTING 
+Accounting – Business Office  TAX + 10 years (In patient accounting ACCOUNTING OO-GN-031 
+Page 15 of 58 
+Type of Record Retention Department 
+Patient Charge Summary record) 
+Accounting – Capital Property Acquisitions  Permanent ACCOUNTING 
+ 
+Accounting – Capital Property  
+Capital Asset Records (purchase and sale of property and equipment 
+including depreciation, improvements, tax credit, and depletion) 
+ATX + 10 years; After Audit (Kept in 
+Invoices) 
+ACCOUNTING 
+Accounting – Capital Property 
+Depreciation Schedules (reports detailing the depreciation gain/loss, and 
+sale of fixed assts) 
+Permanent ACCOUNTING 
+Accounting – Capital Property 
+Depreciation Workpapers 
+Permanent ACCOUNTING 
+Accounting – Capital Property  
+Property Inventory 
+ATX + 10 years; After Audit (Done 
+Annually) 
+ACCOUNTING 
+Accounting – Capital Property 
+Property – Sold 
+Permanent ACCOUNTING 
+Accounting – Capital Property 
+Construction and Progress Reports 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Capital Property 
+Construction and Progress Workpapers 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Banking 
+Bank Deposits 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Banking 
+Bank Reconciliations 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Banking 
+Bank Statements 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Banking 
+Check Registers 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Banking  
+Check Copies/Stubs 
+CY + 10 years (Kept with bank 
+reconciliations) 
+ACCOUNTING 
+ 
+Accounting – Banking 
+Checks – Paid/Cleared 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Banking 
+Wire Transfers 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Banking 
+Bank Transaction Notices 
+TAX + 10 years; After Audit ACCOUNTING 
+Accounting – Financial Reporting 
+Financial Statements – Annual 
+Permanent ACCOUNTING 
+Accounting – Financial Reporting 
+Financial Statements– Monthly/Quarterly  
+Until Superseded ACCOUNTING 
+Accounting – Financial Reporting 
+Financial Statements – Annual– Certified  
+Permanent ACCOUNTING 
+Accounting – Financing 
+Corporate Debt Work papers and Reports 
+TAX + 10 years; After Audit ACCOUNTING 
+General - Account Analysis and Workpapers TAX + 10 yrs; After Audit ACCOUNTING 
+General - Financial Reports and Work papers TAX + 10 yrs; After Audit ACCOUNTING 
+General - Trial Balances Permanent ACCOUNTING 
+Intercompany - Intercompany Invoices TAX + 10 yrs; After Audit (Kept with 
+Reconciliations) 
+ACCOUNTING 
+Intercompany - Intercompany Reconciliations TAX + 10 yrs; After Audit (Kept with 
+Work papers) 
+ACCOUNTING 
+Journals/Ledgers - Account Ledgers Permanent ACCOUNTING 
+Journals/Ledgers - Accounts Payable Ledgers Permanent ACCOUNTING 
+Journals/Ledgers - Accounts Receivable Ledgers Permanent ACCOUNTING 
+Journals/Ledgers - Balance Sheets Permanent ACCOUNTING 
+Journals/Ledgers - Cash Journals Permanent ACCOUNTING 
+Journals/Ledgers - Chart of Accounts Permanent ACCOUNTING 
+Journals/Ledgers - General Ledger/Subsidiary Ledgers Permanent ACCOUNTING 
+Journals/Ledgers - Monthly Close Package Permanent ACCOUNTING OO-GN-031 
+Page 16 of 58 
+Type of Record Retention Department 
+Journals/Ledgers - Journal Entries Permanent ACCOUNTING 
+Journals/Ledgers - Adjusting Journal Entries Permanent ACCOUNTING 
+Journals/Ledgers - Cash Receipt Journal Entries Permanent ACCOUNTING 
+Journals/Ledgers - Intercompany Journal Entries Permanent ACCOUNTING 
+Journals/Ledgers - Payroll Registers Permanent ACCOUNTING 
+Payroll - Alien-statement of income paid (Time cards and 
+pay roll registers) 
+Permanent ACCOUNTING 
+Payroll - Garnishment Accounting TAX + 10 yrs; After Audit ACCOUNTING 
+Payroll - Garnishment Orders TAX + 10 yrs After Audit (Kept with 
+Accounting) 
+ACCOUNTING 
+Payroll - Payroll Checks – Paid/Cleared TAX + 10 yrs; After Audit ACCOUNTING 
+Payroll - Payroll Checks – Copies TAX + 10 yrs ACCOUNTING 
+Payroll - Payroll Records TAX + 10 yrs; After Audit ACCOUNTING 
+Payroll - Payroll Reports and Workpapers TAX + 10 yrs; After Audit ACCOUNTING 
+Payroll - Payroll reconciliations TAX + 10 yrs; After Audit ACCOUNTING 
+Payroll - Time Cards Permanent ACCOUNTING 
+Tax – Federal Income Tax Returns Permanent ACCOUNTING 
+Tax – Federal Income Tax Reports and Work papers TAX + 15 yrs ACCOUNTING 
+Tax – Federal Income Tax - IRS Audit Reports TAX + 15 yrs ACCOUNTING 
+Tax – Federal Income Tax – Protests/Appeals/Claims for 
+Refunds 
+TAX + 15 yrs ACCOUNTING 
+Tax – Federal Income Tax – Correspondence TAX + 10 yrs ACCOUNTING 
+Tax – Federal Employment Tax Returns TAX + 10 yrs ACCOUNTING 
+Tax – Federal Employment Tax Reports and Work 
+papers 
+TAX + 10 yrs ACCOUNTING 
+Tax – State/Local State Unemployment Tax Reports and 
+Work papers 
+TAX + 15 yrs ACCOUNTING 
+Tax – State/Local Property Tax Returns TAX + 15 yrs ACCOUNTING 
+Tax – State/Local Property Tax Work papers TAX + 15 yrs ACCOUNTING 
+Tax – State/Local Sales and Use Tax Returns TAX + 15 yrs ACCOUNTING 
+Tax – State/Local Sales and Use Tax Work papers TAX + 15 yrs ACCOUNTING 
+Tax – State/Local Audit Reports and Work papers TAX + 15 yrs ACCOUNTING 
+Tax – Tax Compliance Files TAX + 10 yrs ACCOUNTING 
+Tax – Tax Account Reports and Analysis TAX + 10 yrs ACCOUNTING 
+ 
+ 
+Administration 
+ 
+Type of Record Retention Department 
+Accreditation Surveys and Reports 5 yrs after next accreditation is issued. ADMINISTRATION 
+Annual Reports to State Departments of Health Permanent ADMINISTRATION 
+Death Records Transfer of Corpses CY + 3 yrs ADMINISTRATION 
+Deceased Patients Property Disposition CY + 3 yrs ADMINISTRATION 
+Departmental Records- Department Log Books 
+(Departments not listed anywhere else) 
+CY + 3  yrs ADMINISTRATION 
+Departmental Records- Quality Control Reports CY + 5 yrs ADMINISTRATION 
+Departmental Records- Medical Procedure Manuals For 
+medical equipment and procedures kept within specific departments 
+ACT + 10 yrs 
+ 
+ADMINISTRATION 
+Departmental Records- Infection Control Program 
+Records   Records include surgical infection investigation reports, training course 
+content and the review and evaluation of all septic isolation and sanitation techniques 
+used in the medical facility.  Includes reports on employees who may have been 
+exposed to a communicable disease, their work restrictions, and estimated date of 
+reinstatement. 
+CY + 5 yrs ADMINISTRATION 
+Departmental Records - Respiratory Protection Program 1 yr after termination or expiration of 
+license 
+ADMINISTRATION 
+Departmental Records - Training and Education Records  ACT + 3 yrs ADMINISTRATION OO-GN-031 
+Page 17 of 58 
+Type of Record Retention Department 
+Records related to training and certification of employees, which does not include 
+compliance radiological, diagnostic imaging, nuclear medicine training, or nursing 
+Departmental Records - Chart Audits 1 yr ADMINISTRATION 
+Departmental Records - Intensive Care Unit Logs 10 yrs ADMINISTRATION 
+Departmental Records - Implant Logs Implant logs listing items 
+implanted into patients during surgical procedures 
+10 yrs ADMINISTRATION 
+Departmental Records - Operating Room Schedules 3 yrs ADMINISTRATION 
+Departmental Records - X-Ray Logs 
+Includes name of patient, type of examination, date of the exam, and technician 
+performing the service 
+10 yrs ADMINISTRATION 
+Departmental Records - Special Procedures Unit Logs  
+Endoscopies and outpatient surgeries 
+CY + 3 yrs ADMINISTRATION 
+Executive Management - CEO Files (Administrative 
+Records from the CEO’s office) 
+ 
+CY + 10 yrs 
+ 
+ADMINISTRATION 
+Executive Management - CFO Financial Records 
+(Administrative and financial records from the CFO’s 
+office) 
+CY + 10 yrs ADMINISTRATION 
+Grievances ACT + 10 yrs VISITOR ASSISTANCE 
+Mail Operations CY + 3 yrs ADMINISTRATION 
+Management Reports 
+Reports and records providing management information including status reports, 
+progress reports, and weekly/monthly management reports. 
+CY + 3 yrs ADMINISTRATION 
+Medical Directives, Policy and Procedure Manuals ACT + 10 yrs  after Superseded ADMINISTRATION 
+Medical Equipment Logs CY + 3 yrs 
+ 
+ADMINISTRATION 
+/ BIOMEDICAL 
+OSHA Records - Records include logs, summaries and 
+OSHA forms 102/102a 
+CY + 5 yrs ADMINISTRATION 
+Pastoral Visitation Log CY + 3 yrs ADMINISTRATION 
+Patient Personal Property Inventory 3 yrs after discharge ADMINISTRATION= 
+Permits (alcohol and narcotics, etc.) Life of permit plus 6 yrs ADMINISTRATION 
+Permits/Licenses - Building Permits ACT + 6 yrs ADMINISTRATION 
+Permits/Licenses - Business Permits ACT + 6 yrs ADMINISTRATION 
+Permits/Licenses - Environmental Permits ACT + 6 yrs ADMINISTRATION 
+Permits/Licenses - Hospital Permits Retain until suspended or revoked ADMINISTRATION 
+Permits/Licenses - Zoning Permit ACT + 6 yrs ADMINISTRATION 
+Planning/Forecasting - Internal Planning/Forecasting 
+Reports and workpapers.  Reports and workpapers used for internal 
+planning and forecasting. 
+CY + 3 yrs ADMINISTRATION 
+Policies/Procedures - Directives ACT + 10 yrs  ADMINISTRATION 
+Policies/Procedures - Disaster Recovery Plans ACT + 10 yrs ADMINISTRATION 
+Policies/Procedures - Emergency Action Plans ACT + 10 yrs ADMINISTRATION 
+Policies/Procedures - Policy Statements ACT + 10 yrs ADMINISTRATION 
+Policies/Procedures - Procedure Manuals ACT + 10 yrs ADMINISTRATION 
+Policies/Procedures - Table of Authorizations. Records 
+specifying which individuals in the organization have authority to approve or authorize 
+specified actions. 
+ACT + 10 yrs ADMINISTRATION 
+Quality Assurance Committee Minutes CY + 10 yrs ADMINISTRATION 
+Records Management - Record Center Inventory ACT + 2 yrs ADMINISTRATION 
+Records Management - Record Destruction Permanent ADMINISTRATION 
+Records Management - Records Inventory ACT + 2 yrs ADMINISTRATION 
+Records Management - Record Retention Schedule ACT + 10 yrs ADMINISTRATION 
+Records Management - Records Transfer ACT + 2 yrs ADMINISTRATION 
+Records Management - Vital Records Program ACT + 10 yrs ADMINISTRATION 
+Safety - Safety Inspections CY + 3 yrs ADMINISTRATION 
+Safety - Safety Investigations CY + 3 yrs ADMINISTRATION 
+Safety - Safety Programs ACT + 10 yrs ADMINISTRATION 
+Security - Badge Lists CY + 3 yrs ADMINISTRATION OO-GN-031 
+Page 18 of 58 
+Type of Record Retention Department 
+Security - Courier Authorizations CY + 3 yrs ADMINISTRATION 
+Security - Employee Clearance Lists CY + 3 yrs ADMINISTRATION 
+Security - Security Disturbances CY + 3 yrs ADMINISTRATION 
+Security - Security Guard Files CY + 3 yrs ADMINISTRATION 
+Security - Security Plans ACT + 10 yrs ADMINISTRATION 
+Security - Visitor Registration Logs CY + 3 yrs ADMINISTRATION 
+Sentinel Event Committee Minutes Permanent ADMINISTRATION 
+Surveys and Inspections - Building, Fire, TJC CY + 3 yrs  ADMINISTRATION 
+Training Programs  
+Records related to classes and training programs provided to patients and community 
+by clinical staff. Includes CPR and first aid. 
+ACT + 3 yrs ADMINISTRATION 
+Travel - Travel Transactions and Reports CY + 3 yrs ADMINISTRATION 
+Travel - Travel Itineraries CY + 1 yr ADMINISTRATION 
+Volunteer Records ACT + 2 yrs after termination VOLUNTEER 
+ 
+ 
+Blood Bank 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+ABO and RH Types CY + 10 years BLOOD BANK 
+Adverse Reactions to Transfusions Permanent BLOOD BANK 
+Blood Bank –  
+General Records 
+CY + 10 years or 6 months after the 
+latest expiration date, whichever is later; 
+if there is no expiration date, records 
+are retained permanently.  
+BLOOD BANK 
+Blood and Blood Components 
+Processing Records 
+CY + 10 years or 6 months after the 
+latest expiration date, whichever is later; 
+if there is no expiration date, records 
+are retained permanently.  
+BLOOD BANK 
+Blood Donor Records  CY + 10 years BLOOD BANK 
+Blood Test Results, compatibility CY + 10 years BLOOD BANK 
+Final Disposition of Blood and Components CY + 10 years BLOOD BANK 
+Blood Bank -  Patient Records 
+ 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy BLOOD BANK 
+Quality Control 
+Blood and Blood Products 
+CY + 10 years or 6 months after the 
+latest expiration date, whichever is later; 
+if there is no expiration date, records 
+are retained permanently.  
+BLOOD BANK 
+Blood Bank -  Records of employee signatures, 
+initials, and identification codes 
+CY + 10 years BLOOD BANK 
+Records of indefinitely deferred donors, permanently 
+deferred donors, or donors placed under 
+Permanent BLOOD BANK OO-GN-031 
+Page 19 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+surveillance for the recipient’s protection (e.g. those 
+donors that are Hepatitis B Core positive once, 
+donors implicated in a hepatitis positive recipient) 
+Refrigeration and Blood Inspection Records 
+ 
+CY + 10 years or 6 months after the 
+latest expiration date, whichever is later; 
+if there is no expiration date, records 
+are retained permanently.  
+BLOOD BANK 
+Specimens from blood donors units and recipients 7 days post-transfusion BLOOD BANK 
+Storage and Distribution Records CY + 10 years or 6 months after the 
+latest expiration date, whichever is later; 
+if there is no expiration date, records 
+are retained permanently.  
+BLOOD BANK 
+Transfused Blood, Storage of Samples CY + 10 years or 6 months after the 
+latest expiration date, whichever is later; 
+if there is no expiration date, records 
+are retained permanently. Retain past 
+expiration date if needed for further 
+testing.   
+BLOOD BANK 
+Transfusion Complaints, Investigations & Follow-ups CY + 10 years or 6 months after the 
+latest expiration date, whichever is later; 
+if there is no expiration date, records 
+are retained permanently.  
+BLOOD BANK 
+Transfusion Request Records 
+ 
+ 
+CY + 10 years or 6 months after the 
+latest expiration date, whichever is later; 
+if there is no expiration date, records 
+are retained permanently. 
+BLOOD BANK 
+Immunohematology Reports CY + 10 years BLOOD BANK 
+Immunohematology – Quality Control Records CY + 10 years.  
+ 
+BLOOD BANK 
+ 
+Clinical Research 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Clinical Research  
+Steering Committee Minutes 
+Permanent Clinical Research 
+Department OO-GN-031 
+Page 20 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Clinical Research Records 
+Biologics 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.  Do not destroy until 
+obtaining written authorization from 
+Sponsor. 
+Clinical Research 
+Department 
+Clinical Research Records 
+FDA, OHRP Audits 
+ACT + 10 years Clinical Research 
+Department 
+Clinical Research Records 
+Humanitarian Use Devices 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.  Do not destroy until 
+obtaining written authorization from 
+Sponsor. 
+Clinical Research 
+Department 
+Clinical Research Records 
+ IRB – Operational Records (written procedures, membership 
+lists, lists of occupations/affiliations of members, submitted documents, 
+minutes of meetings and correspondence) 
+For a minimum of 3 years after 
+completion of the research. 
+Clinical Research 
+Department 
+Clinical Research Records 
+IRB – Research Records 
+ 
+ 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.  Do not destroy until 
+obtaining written authorization from 
+Sponsor. 
+Clinical Research 
+Department 
+Clinical Research Records 
+Investigational Device Exemption – Investigator 
+During the investigation and for at least 
+2 years after the latter of the following 2 
+dates: The date on which the 
+investigation is terminated or 
+completed, or the date that the records 
+are no longer required for purposes of 
+supporting a pre-market approval 
+application or a notice of completion of 
+a product development protocol. For at 
+least 3 years after completion of the 
+research. 
+Clinical Research 
+Department 
+Clinical Research Records 
+Investigational Device Exemption – Investigator 
+Financial Disclosure Reports 
+ 
+During the investigation and for at least 
+2 years after the latter of the following 2 
+dates: The date on which the 
+investigation is terminated or 
+completed, or the date that the records 
+are no longer required for purposes of 
+supporting a pre-market approval 
+application or a notice of completion of 
+a product development protocol. For at 
+least 3 years after completion of the 
+research. 
+Clinical Research 
+Department OO-GN-031 
+Page 21 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Clinical Research Records 
+Investigational Device Exemption – Investigator 
+Intraocular Lens Studies 
+CY + 2 years Clinical Research 
+Department 
+Clinical Research Records 
+Investigational Device Exemption – Investigator 
+Tracked Devices 
+30 years beyond experiment; patient 
+medical records for same period. 
+Clinical Research 
+Department 
+Clinical Research Records 
+Investigational Device Exemption – Sponsor 
+During the investigation and for at least 
+2 years after the latter of the following 2 
+dates: The date on which the 
+investigation is terminated or 
+completed, or the date that the records 
+are no longer required for purposes of 
+supporting a pre-market approval 
+application or a notice of completion of 
+a product development protocol. For at 
+least 3 years after completion of the 
+research. 
+Clinical Research 
+Department 
+Clinical Research Records 
+Investigational Device Exemption – IRB 
+ 
+ 
+ 
+ 
+ 
+During the investigation and for at least 
+2 years after the latter of the following 2 
+dates: The date on which the 
+investigation is terminated or 
+completed, or the date that the records 
+are no longer required for purposes of 
+supporting a pre-market approval 
+application or a notice of completion of 
+a product development protocol. For at 
+least 3 years after completion of the 
+research. 
+Clinical Research 
+Department 
+Clinical Research Records 
+Investigational New Drug – Sponsors 
+For at least 2 years after a marketing 
+application is approved for the drug; or, 
+if an application is not approved for the 
+drug, until 2 years after shipment and 
+delivery of the drug for investigational 
+use is discontinued and FDA has been 
+so notified. 
+Clinical Research 
+Department 
+Clinical Research Records 
+Investigational New Drug – 
+Investigators 
+For the longer period of at least 2 years 
+following the date a marketing 
+application is approved for the drug for 
+the indication for which it is being 
+investigated; or, if no application is to be 
+filed or if the application is not approved 
+for such indication, until 2 years after 
+the investigation is discontinued and 
+FDA is notified or for at least 3 years 
+after completion of the research. 
+Clinical Research 
+Department 
+Clinical Research Records For the longer period of at least 2 years 
+following the date a marketing 
+Clinical Research OO-GN-031 
+Page 22 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Investigational New Drug – 
+Investigators Adverse Event/Severe Adverse Event 
+Reports 
+ 
+ 
+ 
+application is approved for the drug for 
+the indication for which it is being 
+investigated; or, if no application is to be 
+filed or if the application is not approved 
+for such indication, until 2 years after 
+the investigation is discontinued and 
+FDA is notified or for at least 3 years 
+after completion of the research. 
+Department 
+Clinical Research Records 
+Investigational New Drug – 
+Investigator Financial Disclosure Reports 
+For the longer period of at least 2 years 
+following the date a marketing 
+application is approved for the drug for 
+the indication for which it is being 
+investigated; or, if no application is to be 
+filed or if the application is not approved 
+for such indication, until 2 years after 
+the investigation is discontinued and 
+FDA is notified or for at least 3 years 
+after completion of the research. 
+Clinical Research 
+Department 
+Clinical Research Records 
+Reports/Forms Submitted to Government 
+ACT + 10 years Clinical Research 
+Department 
+Clinical Research Records 
+Research Papers – Published (OLOL initiated research & 
+employed physician research) 
+Permanent Clinical Research 
+Department 
+Institutional Review Board 
+Consent Documents, approved 
+Permanent Clinical Research 
+Department 
+Institutional Review Board 
+Injury Reports 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.  Do not destroy until 
+obtaining written authorization from 
+Sponsor. 
+Clinical Research 
+Department 
+Institutional Review Board 
+Correspondence 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.   
+Clinical Research 
+Department 
+Institutional Review Board 
+Board Membership lists 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.   
+Clinical Research 
+Department 
+Institutional Review Board 
+Board Minutes of Official Proceedings 
+Permanent Clinical Research 
+Department 
+Institutional Review Board 
+Board Procedures 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+Clinical Research 
+Department OO-GN-031 
+Page 23 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+of the research.   
+Institutional Review Board 
+Investigator’s Reports 
+ 
+ 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.  Do not destroy until 
+obtaining written authorization from 
+Sponsor. 
+Clinical Research 
+Department 
+Institutional Review Board 
+Research Proposals 
+ 
+ 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.  Do not destroy until 
+obtaining written authorization from 
+Sponsor. 
+Clinical Research 
+Department 
+Institutional Review Board 
+Review Activity Files, Continuing 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.   
+Clinical Research 
+Department 
+Institutional Review Board 
+Statements of Significant New Findings Provided to 
+Subjects 
+Maintain for the longer period of 2 years 
+after the date of approval of the 
+application or 3 years after completion 
+of the research.  Do not destroy until 
+obtaining written authorization from 
+Sponsor. 
+Clinical Research 
+Department 
+ 
+Corporate 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Audit Reports – Internal  CY + 10 years INTERNAL AUDIT 
+Articles of Incorporation, Corporate Permanent CORPORATE 
+Bylaws, Corporate Permanent CORPORATE 
+Certificates of Incorporation Permanent CORPORATE 
+Corporate Seals Permanent CORPORATE 
+Board of Director’s Meetings and Minute Book Permanent CORPORATE 
+Committees of the Board Meeting Minutes Permanent CORPORATE OO-GN-031 
+Page 24 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Executive Committee of Board of Trustees Meeting 
+Minutes 
+Permanent CORPORATE 
+Proxies Permanent CORPORATE 
+Qualifications to Do Business ACT + 10 years CORPORATE 
+CEO Files  
+Administrative Records from the CEO’s office 
+ACT + 10 CORPORATE 
+CFO Files 
+Administrative Records and financial records from 
+the CFO’s office 
+ACT + 10 CORPORATE 
+Chief Legal Counsel Files 
+Administrative Records 
+ACT + 10 years CORPORATE 
+Compliance - Audits – External ACT + 10 years CORPORATE 
+Compliance  - Audits – Internal ACT + 10 years CORPORATE 
+Compliance  - Committee Minutes Permanent CORPORATE 
+Compliance  - Correspondence with OIG ACT + 10 years CORPORATE 
+Compliance Documentation – all records necessary to protect 
+the integrity of the compliance process & confirm the effectiveness of the 
+program, including employee training documentation, reports from hot lines, 
+results of internal investigations, results of auditing & monitoring, modifications to 
+the compliance program and self disclosures. 
+ACT + 10 years CORPORATE 
+Compliance  - Federal Investigation ACT + 10 years CORPORATE 
+Compliance - HIPAA – Policies & Procedures ACT + 6 years CORPORATE 
+Compliance 
+HIPAA – Communication required to be in written or electronic form – docs. 
+relating to uses & disclosures, authorization forms, business partner contracts, 
+notices of information practice, responses to patient for amendments or 
+corrections of their information, patient’s statement of disagreement, complaint 
+record. 
+ACT + 6 years CORPORATE 
+Compliance 
+HIPAA – records of patient after death 
+For 2 years after death of patient CORPORATE 
+Compliance 
+HIPAA – Privacy official, contact person ,training, complaints & dispositions, 
+, sanctions that are applied, revised policies or procedures,  
+ACT + 6 years CORPORATE 
+Compliance  - Investigation Case Files ACT + 10 years CORPORATE 
+Compliance  - Investigations Documentation ACT + 10 years CORPORATE OO-GN-031 
+Page 25 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Compliance  - Policies ACT + 10 years CORPORATE 
+Compliance  - Reports/Forms Submitted to 
+Government 
+ACT + 10 years CORPORATE 
+Compliance  - Training Employee Certification ACT + 10 years CORPORATE 
+Copyrights/Trademarks/Patents ACT + 10 years CORPORATE 
+Deeds Permanent CORPORATE 
+Easements Permanent CORPORATE 
+Endowments, Trusts, Bequests Permanent CORPORATE 
+Finance – Budgeting - Budget Work papers ACT + 10 CORPORATE 
+Finance – Budgeting - Budgets Approved ACT + 10 CORPORATE 
+Finance – Financial Statements Permanent CORPORATE 
+Finance – Financing - Letters of Credit ACT + 10 years; After Rescinded CORPORATE 
+Finance – Financing - Loan Agreements ACT + 10 years; After Audit CORPORATE 
+Finance – Financing - Loan Applications ACT + 10  years; After Audit CORPORATE 
+Finance – Financing - Mortgage Records ACT + 10 years; After Audit CORPORATE 
+Finance – Financing - Notes, Cancelled ACT + 10 years; After Audit CORPORATE 
+Finance – Planning - Financial Plan ACT + 10 years CORPORATE 
+Finance – Planning - Forecasts ACT + 10 years CORPORATE 
+Finance – Planning - Strategic Development Files 
+(Budget) 
+ACT + 10 years CORPORATE 
+Finance – Tax  
+Acquisitions/Divestiture/Reorganization 
+ACT + 10 years CORPORATE 
+Finance – Tax  - Research Files ACT + 10 years CORPORATE 
+Finance – Tax  
+Tax Returns, Copies. Originals in accounting 
+ 
+CY + 3 years 
+ 
+CORPORATE 
+Hospital Legal Files ACT + 10 years CORPORATE 
+Legal  - Affiliation Records ACT + 10 years CORPORATE 
+Legal - Contracts/Agreements  
+Advertisin - Affiliation Agreements 
+     Physician/Employee 
+ACT + 10 years or in accordance w/ 
+terms of K, whichever is longer. 
+CORPORATE OO-GN-031 
+Page 26 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+     Research 
+     Services 
+     Vendor 
+     Sales 
+Legal - Joint Venture Records ACT + 10 years CORPORATE 
+Legal  - Legal Opinions ACT + 10 years CORPORATE 
+Legal 
+Physicians’ Contract Review Committee Minutes 
+ACT + 10 years CORPORATE 
+Legal - Policies & Procedures ACT + 10 years CORPORATE 
+Legal - Regulatory Federal & State Records ACT + 10 years CORPORATE 
+Legal 
+Subsidiaries’ Records 
+ACT + 10 years CORPORATE 
+Property Management 
+Real Estate Records 
+Records related to the purchase, sale, and management of real 
+property including land, buildings, and offices. 
+Permanent CORPORATE 
+Property Titles Permanent CORPORATE 
+Property Management - Lease Abstracts ACT + 10 years PROPERTY 
+MANAGEMENT 
+Property Management - Leases ACT + 10 years PROPERTY 
+MANAGEMENT 
+Property Management - Office Improvements ACT + 6 years PROPERTY 
+MANAGEMENT 
+Property Management - Office Layouts CY + 3 years PROPERTY 
+MANAGEMENT 
+Property Management - Property Inventory Until Superseded PROPERTY 
+MANAGEMENT 
+Property Management - Property Appraisals Permanent PROPERTY 
+MANAGEMENT/LEGAL 
+Property Management - Repair Records ACT + 3 years PROPERTY 
+MANAGEMENT 
+Property Management - Space Allocation Records CY + 3 years 
+ 
+PROPERTY 
+MANAGEMENT 
+Risk Management - Committee Minutes Permanent RISK MANAGEMENT OO-GN-031 
+Page 27 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Risk Management - Court Case Files ACT + 10 years RISK MANAGEMENT 
+Risk Management - Incident Reports CY + 6 years after incident RISK MANAGEMENT 
+Risk Management – Insurance Policies 
+(Professional Medical Liability, Professional Liability, 
+Automobile and General Liability, Workers’ 
+Compensation and D & O.) 
+Permanent RISK MANAGEMENT 
+Risk Management  - Litigation/Claims ACT + 10 years RISK MANAGEMENT 
+Risk Management  
+Final Judgments/ Settlements/ Court Orders 
+ACT + 10 years RISK MANAGEMENT 
+Risk Management  - Malpractice Claims ACT + 10 years RISK MANAGEMENT 
+Risk Management  - Malpractice Claims Reports Permanent RISK MANAGEMENT 
+Risk Management Reports CY + 6 years, Except blood incidents 
+which should be kept permanently 
+RISK MANAGEMENT 
+Risk Management - Subpoenas CY + 1 year RISK MANAGEMENT 
+Risk Management  - Workers’ Compensation Files ACT + 30 years RISK MANAGEMENT 
+Strategic Plan CY + 3 years CORPORATE 
+ 
+Dietary 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Diet Manual, current Therapeutic CY + 3 years NUTRITIONAL 
+SERVICES 
+Dietary Recipe Records Administrative Value (AV) NUTRITIONAL 
+SERVICES 
+Dietician Monitoring Summaries:  Annual summaries 
+provided by a nutritionist or dietician that evaluates 
+the menus, sanitation policies and procedures and 
+recommend modifications for the food preparation 
+and service. 
+CY + 2 years NUTRITIONAL 
+SERVICES 
+ 
+Food and Refrigeration Temperature Log CY + 3 years NUTRITIONAL SVCS 
+Food costs  CY + 5 years NUTRITIONAL SVCS OO-GN-031 
+Page 28 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Health Food Handlers’ Permits ACT + 6 years NUTRITIONAL SVCS 
+In-service Training Records ACT + 3 years NUTRITIONAL SVCS 
+Inspection Reports Retain 1 year after Superseded NUTRITIONAL SVCS 
+Meal counts  5 years NUTRITIONAL SVCS 
+Patient Diet Instructions CY + 3 years NUTRITIONAL SVCS 
+Menus, patients  CY + 2 years NUTRITIONAL SVCS 
+ 
+Emergency Department, Adult 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Adult Abuse Reports CY + 3 years 
+ 
+EMERGENCY 
+DEPARTMENT / 
+MEDICAL MANAGEMENT 
+Burn injuries and wounds Reports CY + 3 years EMERGENCY DEPT 
+Death occurring in hospital from Motor Vehicle 
+Accident – Report   
+CY + 3 years 
+ 
+EMERGENCY DEPT 
+Gunshot Wound Reports CY + 3 years EMERGENCY DEPT 
+Pesticide Poisoning Reports CY + 3 years EMERGENCY DEPT 
+Rape Victim Code Records For a period of 30 days from the date 
+the victim  presented for treatment 
+EMERGENCY DEPT 
+Reports of Rape Victims -    
+Physically or mentally handicapped victims 
+CY + 3 years 
+ 
+EMERGENCY DEPT 
+Severe Head Injury Reports CY + 3 years MEDICAL MANAGEMENT 
+Emergency Communications 
+Records related to emergency communications received by a 
+facility.  Includes audio recordings and call logs. 
+CY + 6 years EMERGENCY DEPT 
+Emergency Run Reports 
+Reports on patients revived, and/or attempted to be revived, by the 
+administration of drugs, both inter-cardiac and intravenously, and 
+CY + 6 years EMERGENCY DEPTT 
+ OO-GN-031 
+Page 29 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+by using count-shock treatment.  Includes all other patients who 
+accepted service from an EMT, EMS or Air-Medical Provider, or a 
+paramedic (Not in patient medical record) 
+Emergency Department Certification for Transfer By 
+Physician or Qualified Medical Person 
+Database tracks medical record. For a 
+minimum period of CY + 10 years from 
+the date a patient is transferred. 
+EMERGENCY DEPT (in 
+patient medical record) 
+Emergency Department Log 
+Records related to the emergency room. 
+CY + 6 years  EMERGENCY DEPT 
+(Currently 1 ½ years on 
+site; previous records, 
+archived; electronic w/i 
+next year) 
+On Call Rosters 
+Response Time Records 
+Includes time of notification and the response time of  the on-call 
+physician  
+CY + 6 years EMERGENCY DEPT 
+Patient Medical Record –  
+Adult and/or Persons Under Mental Disability 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Policies and Procedures ACT + 10 years EMERGENCY DEPT 
+Leaving Without Being Seen   Written, signed by patient, 
+informed refusal for examination or treatment and reasons for 
+refusal.    
+ 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Leaving Without Being Seen Hospital’s documentation of 
+refusal to consent to examination or treatment, including steps 
+taken to try to secure the written, informed refusal 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Refusal to Consent to Treatment by Patient Against 
+Medical Advice (AMA) 
+Written, signed by patient,  informed refusal including 
+risks/benefits, reasons for refusal, a description of the examination 
+or treatment refused 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Refusal to Consent to Treatment by Patient  AMA 
+Hospital’s documentation of refusal to consent to examination or 
+treatment ,including steps taken to try to secure the written, 
+informed refusal 
+ 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+Refusal to Consent to Transfer by Patient (Similar to 
+AMA) 
+Written, signed by patient, informed refusal with description of the 
+proposed transfer that was refused, including risks/benefits and 
+Refer to FMOLHS Medical Record 
+Retention and Destruction  
+HIM OO-GN-031 
+Page 30 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+reasons for refusal 
+Refusal to Consent to Transfer by Patient (Similar to 
+AMA) 
+Hospital’s documentation of patient’s refusal to consent to transfer, 
+including steps taken to try to secure the written refusal to consent 
+to transfer 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Request for Transfer by the Patient 
+Written request by patient for transfer  after being informed of 
+hospital’s obligations to treat and risks/benefits of transfer, 
+including reasons for the request 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Report to CMS of violation by transferring hospital of 
+individual transferred in unstable emergency medical 
+condition. 
+CY + 6 years CORPORATE 
+(ED gathers data) 
+Transfer Records 
+Receiving Hospital 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Transfer Records 
+Transferring Hospital 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+ 
+Emergency Department, Pediatric 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Burn injuries and wounds Reports, Minors CY + 3 years PEDIATRIC 
+EMERGENCY DEPT 
+Child Abuse Reports CY + 3 years PEDIATRIC 
+EMERGENCY DEPT 
+Death occurring in hospital from Motor Vehicle 
+Accident – Report, Minors   
+CY + 3 years PEDIATRIC 
+EMERGENCY DEPT 
+Gunshot Wound Reports, Minors CY + 3 years PEDIATRIC 
+EMERGENCY DEPT 
+Lead Poisoning Reports, Minors CY + 3 years PEDIATRIC 
+EMERGENCY DEPT 
+Pesticide Poisoning Reports CY + 3 years PEDIATRIC 
+EMERGENCY DEPT OO-GN-031 
+Page 31 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Reports of Rape Victims -                  
+Age sixteen or younger 
+CY + 3 years PEDIATRIC 
+EMERGENCY DEPT 
+Reports of Rape Victims -    
+Physically or mentally handicapped victims 
+CY + 3 years PEDIATRIC 
+EMERGENCY DEPT 
+Severe Head Injury Reports CY + 3 years MEDICAL MANAGEMENT 
+Emergency Communications 
+Records related to emergency communications received by a 
+facility.  Includes audio recordings and call logs. 
+CY + 6 years. PEDIATRIC 
+EMERGENCY DEPT 
+Emergency Run Reports 
+Reports on patients revived, and/or attempted to be revived, by 
+the administration of drugs, both inter-cardiac and intravenously, 
+and by using count-shock treatment.  Includes all other patients 
+who accepted service from an EMT, EMS or Air-Medical Provider, 
+or a paramedic. 
+CY + 6 years. PEDIATRIC 
+EMERGENCY DEPT 
+Emergency Department 
+Certification for Transfer 
+By Physician or Qualified Medical Person 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+PEDIATRIC 
+EMERGENCY DEPT 
+Emergency Department Log 
+Records related to the emergency room. 
+CY + 6 years PEDIATRIC 
+EMERGENCY DEPT   
+On Call Rosters Includes lists of phys, specialists and sub-
+specialists on call for duty to stabilize individ with emergency 
+medical conditions 
+CY + 6 years PEDIATRIC 
+EMERGENCY DEPT 
+MEDICAL STAFF OFFICE 
+Patient Medical Record - Minor Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Policies and Procedures ACT + 10 years PEDIATRIC 
+EMERGENCY DEPT 
+Leaving Without Being Seen   Written, signed by patient 
+or patient’s legal representative, informed refusal for examination 
+or treatment and reasons for refusal.    
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+Leaving Without Being Seen Hospital’s documentation of 
+refusal to consent to examination or treatment, including steps 
+taken to try to secure the written, informed refusal 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+ 
+Refusal to Consent to Treatment by Patient or 
+Patient’s Legal Representative  Against Medical 
+Advice (AMA) 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ OO-GN-031 
+Page 32 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Written, signed by patient, or Patient’s Legal Representative  
+informed refusal including risks/benefits, reasons for refusal, a 
+description of the examination or treatment refused 
+ 
+Refusal to Consent to Treatment by Patient or 
+Patient’s Legal Representative AMA   
+Hospital’s documentation of refusal to consent to examination or 
+treatment, including steps taken to try to secure the written, 
+informed refusal 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+ 
+Refusal to Consent to Transfer by Patient or 
+Patient’s Legal Representative – (Similar to AMA) 
+Written, signed by patient or patient’s legal representative, 
+informed refusal with description of the proposed transfer that 
+was refused, including risks/benefits and reasons for refusal 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+ 
+Refusal to Consent to Transfer by Patient or 
+Patient’s Legal Representative (Similar to ABA) 
+Hospital’s documentation of patient’s refusal to consent to 
+transfer, including steps taken to try to secure the written refusal 
+to consent to transfer 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+ 
+Request for Transfer by the Patient or Patient’s 
+Legal Representative 
+Written request by patient or patient’s legal representative  for 
+transfer  after being informed of hospital’s obligations to treat and 
+risks/benefits of transfer, including reasons for the request 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+ 
+Transfer Records 
+Receiving Hospital 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+Transfer Records 
+Transferring Hospital 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+ 
+ 
+Facilities/Engineering/Equipment 
+ 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Air Filter Maintenance Records Life of Air Filter plus 3 years PLANT SERVICES OO-GN-031 
+Page 33 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Blueprints , valve charts, control drawings and 
+building specifications (Construction Drawings) 
+Permanent PLANT SERVICES 
+Construction Project Files ACT + 10 years PLANT SERVICES 
+Calibration Records CY + 6 years PLANT SERVICES 
+Emergency Generator Records Life of Generator + 3 years PLANT SERVICES 
+Equipment Records Life of equipment + 6 years PLANT SERVICES 
+Equipment Operating Instructions Life of Equipment + 3 years PLANT SERVICES 
+Equipment Operating Records Life of equipment + 6 years PLANT SERVICES 
+Equipment Inspection and Maintenance Records 5 years (6 years for electronic medical 
+records systems) 
+PLANT SERVICES 
+Equipment Records of Location Permanent PLANT SERVICES 
+Inspection Reports of Grounds and Buildings CY + 1 year PLANT SERVICES 
+Permits/Licenses Retain until expiration of permit or 
+license + 6 years 
+PLANT SERVICES 
+Work Orders 2 years PLANT SERVICES 
+Housekeeping Records Autoclave Sterile Supply 
+Records 
+2 years STERILE PROCESSING 
+DEPARTMENT 
+(NURSING) 
+Housekeeping Records 
+Checkout, Transfer, Isolation Records 
+2 years ANCILLARY SERVICES 
+Housekeeping Records - Cleaning Records 2 years ANCILLARY SERVICES 
+Housekeeping Records - Linen Poundage Report 2 years ANCILLARY SERVICES 
+Housekeeping Records-Exterminator Records CY + 5 years ANCILLARY SERVICES 
+Equipment Logs 
+Records detailing the type, model, location, and usage of 
+equipment including heating/cooling, outdoor, and office 
+equipment.  Does not include medical equipment. 
+Until Superseded PLANT SERVICES 
+Medical Equipment Logs CY + 3 years PLANT SERVICES 
+Property Management- Maintenance Records ACT + 3 years PLANT SERVICES 
+Motor Vehicle Maintenance ACT + 3 years PLANT SERVICES 
+Waste Disposal - Biomedical Waste Records CY + 3 years PLANT SERVICES OO-GN-031 
+Page 34 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Waste Disposal - Biomedical Waste Shipment Logs CY + 3 years PLANT SERVICES 
+ 
+Grants 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Grants, Federal –  
+Annual Financial Status Reports 
+Annual report submitted for continuing grants containing 
+summaries and breakdowns of expenditures for the past year 
+3 years from the date of submission of 
+the final expenditure report or for 
+awards that are renewed quarterly or 
+annually, from the date of the 
+submission of the quarterly or annual 
+financial report, or retain for period 
+required by grant or program.  (1)If any 
+litigation, claim or audit is started 
+before the expiration of the 3 year 
+period, retain until all litigation, claims 
+or audit findings involving the records 
+have been resolved and final action 
+taken. (2)Records for real property and 
+equipment acquired w/ Fed. Funds – 3 
+years after final disposition. (3) When 
+records are transferred to or 
+maintained by the Fed. Awarding 
+agency, the 3-yr retention period is not 
+applicable to the recipient.  
+GRANTS AND RESEARCH 
+Grants, Federal –  
+Final Expenditure Report 
+End of a project report accounting for the expenditure of grant 
+funds submitted for non-continuing grants. 
+3 years or retain for period required by 
+grant or program.  If any litigation, 
+claim or audit is started before the 
+expiration of the 3 year period, retain 
+until all litigation, claims or audit 
+findings involving the records have 
+been resolved and final action taken. 
+GRANTS AND RESEARCH 
+Grants, Federal –  
+Financial Support Documents – Continuing Grants 
+Working papers, such as summaries, spread sheets and other 
+data reflecting the expenditures of grant fun. 
+3 years or retain for period required by 
+grant or program.  If any litigation, 
+claim or audit is started before the 
+expiration of the 3 year period, retain 
+until all litigation, claims or audit 
+findings involving the records have 
+been resolved and final action taken. 
+GRANTS AND RESEARCH 
+Grants, Federal –  
+Financial Support Documents – Non-Continuing 
+Grants 
+3 years or retain for period required by 
+grant or program.  If any litigation, 
+claim or audit is started before the 
+expiration of the 3 year period, retain 
+GRANTS AND RESEARCH OO-GN-031 
+Page 35 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+until all litigation, claims or audit 
+findings involving the records have 
+been resolved and final action taken. 
+Grants, Federal –  
+Grant Agreement 
+3 years or retain for period required by 
+grant or program.  If any litigation, 
+claim or audit is started before the 
+expiration of the 3 year period, retain 
+until all litigation, claims or audit 
+findings involving the records have 
+been resolved and final action taken. 
+GRANTS AND RESEARCH 
+Grants, Federal –  
+Grant Applications – Approved 
+3 years or retain for period required by 
+grant or program.  If any litigation, 
+claim or audit is started before the 
+expiration of the 3 year period, retain 
+until all litigation, claims or audit 
+findings involving the records have 
+been resolved and final action taken. 
+GRANTS AND RESEARCH 
+Grant Applications – Not Approved 1 year GRANTS AND RESEARCH 
+Grants, Federal –  
+Grant Project Warrants, Checks, and Vouchers 
+CY plus 6 years or until satisfaction of 
+grant audit requirements, whichever is 
+longer. 
+GRANTS AND RESEARCH 
+Grants, Federal –  
+Project Reports 
+3 years or retain for period required by 
+grant or program.  If any litigation, 
+claim or audit is started before the 
+expiration of the 3 year period, retain 
+until all litigation, claims or audit 
+findings involving the records have 
+been resolved and final action taken. 
+GRANTS AND RESEARCH 
+Grants, Federal –  
+Statistical Documentation 
+3 years or retain for period required by 
+grant or program.  If any litigation, 
+claim or audit is started before the 
+expiration of the 3 year period, retain 
+until all litigation, claims or audit 
+findings involving the records have 
+been resolved and final action taken. 
+GRANTS AND RESEARCH 
+Grants, Federal –  
+Warrant, Check, or voucher Registers –Grant Funds 
+CY plus 6 years or until satisfaction of 
+grant audit requirements, whichever is 
+longer. 
+GRANTS AND RESEARCH 
+Grants, HHS to State, Local Governments: includes 
+ACF, AoA, AHRQ, ATSDR, CDC, CMS,  FDA, 
+HRSA, IHS, NIH, SAMHSA, 
+3 years from starting date specified in 
+45CFR92.42(c) or if any litigation, 
+claim, negotiation, audit or other action 
+involving the records has been started 
+before the expiration of the 3-year 
+period, retain until completion of the 
+action and resolution of all issues or 
+until the end of the regular 3-year 
+GRANTS AND RESEARCH OO-GN-031 
+Page 36 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+period, whichever is later. 
+Grants, Charitable Varies by Sponsor; consult sponsor 
+policy. 
+GRANTS AND RESEARCH 
+Grants, Corporate Varies by Sponsor. GRANTS AND RESEARCH 
+Foundations Varies by Foundation; consult 
+foundation policy. 
+GRANTS AND RESEARCH 
+Foundations – PEW Charitable Trusts 5 years after close of grant. GRANTS AND RESEARCH 
+Sponsors Consult Contracts. GRANTS AND RESEARCH 
+ 
+Health Information Management 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Annual Statistics Reports Permanent HIM 
+Audits ACT + 10 years HIM 
+Audit Workpapers Unit Audit Completion HIM 
+Census (Daily) CY + 5 years HIM 
+Emergency Department Patient Medical Record  Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Pediatric Emergency Department Patient Medical 
+Record 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Hospital Inpatient Medical Records  
+Also includes electro-cardiographic tracings & 
+interpretations and electroencephalographic tracings 
+& interpretations (in OLOL Med/Dental Staff Rules 
+and Regulations). 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Hospital Outpatient/ Physician’s Office Patient 
+Medical Records – 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM 
+Clinic Records 
+Includes organization wide clinic records; to be 
+integrated into the unified records system of 
+provider. 
+See Hospital Outpatient Retention 
+Period;  
+Clinic OO-GN-031 
+Page 37 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Indices 
+   Diagnostic Index 
+   Disease Index, 
+   Master Patient Index 
+   Number Index 
+   Operative Index, 
+   Physician’s Index, 
+Permanent 
+ 
+HIM/TSI 
+Register – Admissions  Permanent HIM/TSI 
+Register – Births , if any Permanent HIM/TSI 
+Register – Deaths   Permanent HIM/TSI 
+Register – Discharges  Permanent HIM/TSI 
+Register – Emergency  Room Permanent HIM/TSI 
+Register – Recovery Room Permanent HIM/TSI 
+Register – Surgical  Procedures Permanent HIM/TSI 
+OSHA – Employee Medical Records ACT + 30 years  EMPLOYEE HEALTH 
+Requests for patient Medical  Records CY + 6 years HIM 
+Shadow Records –   
+Includes copies of patient medical records 
+maintained in accordance with JC standards, OLOL 
+policies & procedures and applicable state & federal 
+laws by a specific physician or department.  
+NON RECORD MATERIAL – RETAIN 
+FOR ADMINISTRATIVE VALUE  
+FOR MEDICAL RECORDS - Refer to 
+FMOLHS Medical Record 
+Retention and Destruction policy  
+INDIVIDUAL 
+DEPARTMENTS 
+ 
+Human Resources 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Benefits  - Pension Plan Actuarial Records ACT + 6 years after termination ACC & FMOL / H. Harvill 
+Benefits - Beneficiary Designations ACT + 6 years 
+Permanent 
+HR 
+Benefits - Tuition Reimbursement File CY + 6 years HR, electronic & ACC, 
+paper in vendor file OO-GN-031 
+Page 38 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Benefits - EA Program, Employee Assistance 
+Counseling Records 
+CY + 6 years Outsourced to Calais who 
+is holding record 
+Benefits - Employee Relocation Records CY + 6 years HR–Authorization, ACC–
+vendor file 
+Benefits 
+Flexible Spending Accounts-Records/Claims 
+CY + 6 years HR & trail through ACC – 
+Payroll 
+Benefits - Group Life Insurance Records 8 years HR – Benefits file. 
+Benefits 
+Health Insurance Claims 
+8 years HR–Old Claims (LPHO) 
+hard copies, stored in 
+rented storage unit; 
+Current claims – 
+outsourced to BMS; ACC 
+– in Bills Paid. 
+Time Records – (holiday, vacation, sick, worked 
+time, overtime, leave) 
+CY + 6 years HR/ACC - KRONOS 
+Benefits - Pension Records (all) Permanent  HR – Electronic 
+Benefits 
+Pension/401(k) retirement Plan Vesting Files 
+ACT + 10 years HR – Electronic, Vendor, 
+VALIC.  (So. Regional had 
+a 401(k) 
+Benefits 
+401(k) Retirement Records 
+CY + 6 years Other than So. Regional 
+records, currently no  401 
+(k) 
+Benefits - Unemployment Compensation quarterly 
+remittance to LA 
+ACT + 6 years HR/ACC/ Payroll 
+Benefit Plans/Programs- Disability Plan ACT + 6 years HR 
+Benefit Plans/Programs - Tuition Reimbursement 
+Plan 
+ACT + 6 years HR, in policy 
+Benefit Plans/Programs - Employee Paid Time Off 
+Plan 
+ACT + 6 years HR, in policy 
+Benefit Plans/Programs - Employee Relocation 
+Program 
+ACT + 6 years HR, a practice, not a policy 
+Flexible Spending Account Plans ACT + 6 years HR, in policy 
+Benefit Plans/Programs -Group Life Insurance Plans ACT + 8 years HR 
+Benefit Plans/Programs - Health Insurance Plans ACT + 8 years HR 
+Benefit Plans/Programs - Subrogation for health 
+plans 
+Indefinitely HR, paper OO-GN-031 
+Page 39 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Benefit Plans/Programs - Pension Plans ACT + 6 years HR 
+Benefit Plans/Programs 457,403(b)Retirement Plans ACT + 6 years HR 
+Government Reporting 
+Equal Employment Opportunity Forms 
+CY + 6 years HR – Terry Bowman’s 
+Office; (Fed. Govt retains 
+at web site). 
+Government Reporting - Dead Beat Dads CY + 3 years HR 
+Health and Safety - Accident/Injury Reports CY + 5 years Employee Health 
+Health and Safety - Damage Reports CY + 5 years Employee Health 
+Health and Safety 
+Employee Hazardous Exposure Records 
+ACT + 30  years Employee Health 
+Health and Safety 
+Employee Medical Records – Hazardous Exposure 
+ACT + 30  years Employee Health 
+Health and Safety - Employee Medical Records 
+Non Hazardous Exposure Logs 
+CY + 5 years Employee Health 
+Health and Safety -Hazard Communications 
+Records 
+ACT + 30  years Employee Health 
+Health and Safety - Material Safety Data Sheets ACT + 30  years HR 
+Health and Safety - Radiation Exposure Records ACT + 30  years Employee Health & Risk 
+Management 
+Health and Safety - Worker’s compensation Records ACT + 30 years  Employee Health & Risk 
+Management 
+Health Records - Employee Health Records ACT + 30 years Employee Health 
+ Personnel Administration, 
+Committee Meeting Minutes – Health plan 
+Administrative Committee Minutes 
+ACT + 1 HR (Hunter’s Office) 
+Personnel Administration, 
+Committee Meeting Minutes – Recruiting and 
+Retention weekly Meeting Minutes 
+CY + 3  HR (Terry Bowman’s 
+Office) 
+Personnel Administration, - Criminal Background 
+Checklist 
+ACT + 6 years  HR 
+Personnel Administration 
+Exit Interview Files (documents interview of E Prior 
+to departure) 
+CY + 3 years HR 
+Personnel Administration - FMLA Leave CY + 6 years HR OO-GN-031 
+Page 40 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Personnel Administration - Garnishment Records TAX + 10 years; After Audit ACC/Payroll 
+Personnel Administration 
+Problem Resolution; Employee Relations Issues 
+CY + 6 years or until final disposition of 
+enforcement action. 
+HR/Risk Management 
+Personnel Administration 
+Problem Resolution, 
+Employee Litigation Correspondence 
+CY + 6 years or until final disposition of 
+enforcement action. 
+HR/Risk Management in 
+Terry Bowman’s Office 
+Personnel Administration 
+Layoff Records 
+CY + 6 years or until final disposition of 
+any charges or actions. 
+HR 
+Personnel Administration - Promotion Records CY + 6 years or until final disposition of 
+any charges or actions. 
+HR – Previously Paper 
+Records, now IS, Lawson 
+Personnel Administration - Retirement Records ACT  + 6 years HR 
+Personnel Administration - Transfer Records CY + 6 years or until final disposition of 
+any charges or actions. 
+HR 
+Personnel Files 
+Active Employee Personnel Files 
+(records documenting an individual’s employment 
+history, including but not limited to hiring, benefits, 
+test results, professional certification, promotions, 
+evaluations, disciplinary actions & security checks) 
+ACT + 6 years or until closure of 
+unresolved personnel issues. 
+HR – Main file and 
+benefits file; Employee 
+Department retains 
+Department File and 
+Manger’s file until 
+termination, then those 
+files merge w/ Main file. 
+Personnel Files, 
+Active Employee Personnel Files Manager’s File – 
+Anecdotal notes re to performance or inappropriate 
+behavior including handwritten notes or 
+documentation (not a formal counseling) 
+ACT + 6 years or until closure of 
+unresolved personnel issues. (Risk 
+Management says Permanent) 
+Employee Department 
+Manager until termination 
+of Employee, then sent to 
+HR to merge with 
+Employee’s Main file in 
+HR. 
+Personnel Files 
+Employee Evaluations 
+CY + 6 years or until final disposition of 
+any charges or actions. 
+HR – Main file and 
+Employee Department 
+Manager’s file for informal 
+notes re to performance or 
+inappropriate behavior. 
+Personnel Files - Personnel Action Request Forms CY + 6 years or until final disposition of 
+any charges or actions. 
+HR – Main file 
+Personnel Files 
+Terminated Employee Personnel Files 
+CY + 6 years or until final disposition of 
+any charges or actions. 
+HR 
+Personnel Files 
+Terminated Employee, LA Dept. of Labor (LDOL) file 
+– termination pink slips 
+CY + 6 years or until final disposition of 
+any charges or actions. 
+HR OO-GN-031 
+Page 41 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Personnel - Selection Applications  4 years HR, electronically 
+Personnel Selection - Job Announcements CY + 1 year HR 
+Personnel Selection 
+Recruitment, Hiring, Interview & Selection Records 
+CY + 3 years HR 
+Personnel Selection 
+Unsolicited Applications and Resumes – received 
+for which no position has been announced 
+Destroy upon receipt HR 
+Personnel Selection 
+Verification of Employment Eligibility INS Form I9 
+ 
+ACT + 3 years 
+ 
+HR 
+Policies/Procedures - Affirmative Action Plan Permanent HR 
+Policies/Procedures - Employee Manuals ACT + 10 years HR 
+Policies/Procedures 
+Job Descriptions/Performance Standards 
+Permanent HR 
+Salary Administration - Bonus Determinations 
+ 
+CY + 6 years or until final disposition of 
+any charges or actions. 
+HR/ACC – Payroll 
+Salary Administration - Cost of Living Records CY + 6 years HR 
+Salary Administration 
+Direct Deposit Application and Authorization 
+ACT + 1 year HR – old records, paper; 
+ACC/Payroll, Electronic 
+Salary Administration - Earnings Records CY + 6 years or until final disposition of 
+any charges or actions. 
+ACC/Payroll 
+Salary Administration - Form W-2 TAX + 10 years ACC/Payroll 
+Salary Administration - W-9 Letters TAX + 10 years HR/ACC – Payroll 
+Salary Administration - Form W-4 TAX + 10 years HR/ACC – Payroll 
+Salary Administration - Form 1099 TAX + 10 years ACC/Payroll 
+Salary Administration - Form 940/941 TAX + 10 years ACC/Payroll 
+Salary Administration - Pay Scales CY + 6 years or until final disposition of 
+any charges or actions. 
+HR 
+Salary Administration - Payroll Deduction 
+Authorizations 
+TAX + 10 years HR/ACC – Payroll 
+Salary Administration 
+Salary Surveys 
+CY + 6 years or until final disposition of 
+any charges or actions. 
+HR OO-GN-031 
+Page 42 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Training - Course Listings Until Superseded HR 
+Training 
+Employee, Annual, Required  – Includes disaster 
+preparedness, fire, infection control and all other 
+required training 
+ACT + 10 years HR 
+Training - Employee Certification ACT + 10  years HR 
+Training - Employee, Orientation 
+Includes training content, time, names of employees 
+in attendance & name of presenter. 
+ACT + 10  years HR 
+Training - Employee 
+Records related to employee training provided on hazards and 
+use of pesticides. 
+ACT + 10 years HR 
+Training  - Training Materials ACT + 10 years HR 
+Training - Training Programs ACT + 10 years HR 
+Volunteer Service - Certification of Hospital Workers Permanent Volunteer Office 
+ 
+Imaging Services 
+ 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Medical Media – refers to original information in any 
+format that is used as a basis of a diagnostic test or 
+report.  Includes, but is not limited to, x-rays, 
+imaging, videotapes, ultrasounds, photographs 
+(either conventional or digital images) and EKG 
+strips.  If a report is issued, then refer to Medical 
+Record for retention period for the actual report. If 
+the imaging is the actual report, then refer to 
+Medical Record for retention period. 
+for a minimum period of 5 years from 
+the date a patient is discharged or 
+longer when the patient’s physician, the 
+patient, or legal representative requests 
+so in writing.  
+IMAGING SERVICES 
+Radiology Utilization Logs 
+ 
+2 years IMAGING SERVICES 
+MARS – old records, IS 
+accessible; RADNET – 
+current (from 2001) 
+Radiation Equipment - Minor Maintenance CY + 3 years BIOMEDICAL OO-GN-031 
+Page 43 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Testing – Sealed Sources CY + 5 years BIOMEDICAL 
+Inspections – Radiology 
+Records related to federal and state inspections of 
+the radiological services area.  Includes tests on 
+protective equipment such as aprons, gloves and 
+shields and any actions taken to correct the 
+identified deficiencies   
+CY + 5 BIOMEDICAL (from 2001) 
+Credential License and Certification Records ACT + 7 years after separation or 
+Termination of employment 
+IMAGING SERVICES – 
+Active file; 
+HR – after Termination 
+Environmental Exposure,  
+Records documenting the results of measurements 
+and calculations used to evaluate the release of 
+radioactive effluents into the environment 
+ACT + 3 years after termination or 
+expiration of license 
+IMAGING SERVICES  
+Radiation Monitoring Records  
+Human Exposure,  
+Records related to the monitoring of annual doses 
+received by individuals; includes adults and minors 
+who receive in excess of their limitations in a single 
+year and individuals entering a high or very high 
+radiation area.  May include surveys of radiation for 
+determining an individual’s dose from external 
+sources. 
+ACT + 3 years after termination or 
+expiration of license 
+IMAGING SERVICES  
+Radiation Monitoring Records -Radioactive 
+Materials 
+CY + 3 years IMAGING SERVICES / 
+PHARMACY 
+Radiation Detection Instrumentation CY + 3 years IMAGING SERVICES  
+Radiology Surveys CY + 3 years IMAGING SERVICES  
+Mammograms (films) See Medical Media above, (currently 
+permanently) 
+IMAGING SERVICES   
+Mammogram Film 
+Single Visit (actual film) 
+Min. of 10 yrs if no additional 
+mammograms of the patient are 
+performed at the facility  
+IMAGING SERVICES 
+Mammography - Quality Assurance CY + 3 years BIOMEDICAL 
+Mammography - Quality Control Surveys CY + 3 years BIOMEDICAL 
+Nuclear Medicine Reports –  
+Hospital copies of Interpretations, consultations and 
+procedures (Signed records are in patient’s medical 
+record) 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+HIM OO-GN-031 
+Page 44 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Radioisotopes (receipt, transfer, use, storage, 
+delivery, disposal, and reports of over-exposure) 
+Permanent IMAGING SERVICES/ 
+PHARMACY 
+Radiation Protection program (ALARA) – Audits CY + 3 years IMAGING SERVICES 
+Radiation Protection Program (ALARA) 
+ 
+CY + 3 years after termination or 
+expiration of license 
+IMAGING SERVICES 
+Radiation Safety Program (ALARA) Changes CY + 5 years NUCLEAR MEDICINE 
+Radiation Safety Officer copy of all records and 
+reports required by LAC 33:XV 
+CY + 3 years after termination or 
+expiration of license 
+NUCLEAR MEDICINE 
+Radiation Control/Safety  Committee Minutes Until Office of Environmental Quality 
+authorizes disposition 
+NUCLEAR MEDICINE 
+Reports thru EOC quarterly 
+Radiation Safety Program - List of Individuals 
+Receiving Radiation Safety Instructions for 
+personnel treating a patient who has been 
+administered unsealed byproduct material or 
+implants. 
+CY +3 years NUCLEAR MEDICINE 
+Radiation Safety Program - Records for procedures 
+for administrations requiring written directive for 
+administration of nuclear medicine. 
+CY + 3 years after termination or 
+expiration of license 
+NUCLEAR MEDICINE 
+Radiation Safety Program - Records of Written 
+Directives for administration of nuclear medicine. 
+CY +3 years NUCLEAR MEDICINE 
+Radioisotopes - Quality Management Program CY +3 years NUCLEAR MEDICINE 
+Radioisotopes - Radiation or Radio-pharmaceutical 
+dosage 
+3 years after date of administration NUCLEAR MEDICINE 
+Radioisotopes- Mis-administrations of Therapy 
+Procedures 
+CY + 10 years NUCLEAR MEDICINE/ 
+RISK MANAGEMENT 
+(incident report) 
+Radioisotopes - Checks/Tests of Instruments CY + 3 years unless directed otherwise NUCLEAR MEDICINE 
+Radioisotopes 
+Measurement of Radiopharmaceutical dosages 
+CY + 3 years NUCLEAR MEDICINE 
+Radioisotopes - Surveys for Contamination and 
+Ambient radiation Exposure Rate 
+CY + 3 years NUCLEAR MEDICINE 
+Radioisotopes - Disposal/Ordinary Trash CY + 3 years PHARMACY 
+Radioisotopes - Radiopharmaceuticals/Departures 
+from manufacturer’s instructions 
+CY + 5 years NUCLEAR MEDICINE/ 
+PHARMACY 
+Radioisotopes - Radiopharmaceuticals/Departures 
+from manufacturer’s instructions/Number of 
+CY + 5 years NUCLEAR 
+MEDICINE/PHARMACY OO-GN-031 
+Page 45 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Prescriptions Dispensed  
+Reports of Stolen, Lost or Missing Licensed or 
+Registered Sources of Radiation 
+CY + 5 years NUCLEAR MEDICINE 
+Reports of Exposures, Radiation Levels, and 
+Concentrations of Radioactive Material Exceeding 
+the Limits 
+ACT + 30 years NUCLEAR MEDICINE/ HR 
+Reports of Leaking or Contamination From Sealed 
+Sources 
+ACT + 30 years NUCLEAR MEDICINE/ 
+RISK MANAGEMENT 
+Records of Surveys after Termination of License or 
+Registration 
+Permanently, or make provision for 
+transfer to DEQ 
+NUCLEAR MEDICINE 
+ 
+Infection Control 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Communicable Disease Reports  CY + 3 years INFECTION CONTROL 
+Deaths Infectious Disease CY + 3 years INFECTION CONTROL 
+Deaths. Infectious Disease; mandatory identification 
+of infected corpses 
+CY + 3 years INFECTION CONTROL 
+Infectious Diseases, Admission 
+when patient admitted to hospital w/ infections listed 
+below, hospital must notify all health care providers 
+of the infection in the patient. 
+CY + 3 years INFECTION CONTROL 
+ 
+Infectious Diseases, Transfer 
+when patient w/ listed infections is transferred from 
+hospital to nursing home, notification to transferee of 
+infections listed below. 
+CY + 3 years INFECTION CONTROL 
+ 
+Infectious Diseases, Transportation 
+notification by hospital to transporting co. if patient 
+subsequently diagnosed w/ untreated TB, 
+meningococcal meningitis, Hep B, or HIV 
+CY + 3 years INFECTION CONTROL 
+ 
+Infectious Diseases, Venereal Disease CY + 3 years INFECTION CONTROL 
+Infection Control Committee Minutes Permanent (Part of Med. Exec. 
+Minutes) 
+MEDICAL STAFF/ 
+INFECTION CONTROL OO-GN-031 
+Page 46 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Infection Control Committee 
+Records, Notes, Data, Studies, Analyses, Exhibits 
+and Proceedings* 
+Permanent INFECTION CONTROL 
+Infection Control Incident Log Cy + 5 YEARS INFECTION CONTROL 
+Infection Control Program Records   Records include 
+surgical infection investigation reports, training course content 
+and the review and evaluation of all septic isolation and sanitation 
+techniques used in the medical facility.  Includes reports on 
+employees who may have been exposed to a communicable 
+disease, their work restrictions, and estimated date of 
+reinstatement 
+CY + 5 years INFECTION CONTROL 
+ 
+Information Systems 
+ 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Audit Trails - Files needed for electronic data audits such as 
+files or reports showing transactions accepted, rejected and/or 
+processed; history files/tapes; records of on-line updates to 
+application files or security logs. 
+As Defined by the Application Owner 
+and/or Regulations 
+ 
+IS 
+Finding Aids, Indexes, and Tracking Systems 
+Automated indexes, lists, registers, and other finding aids used 
+to provide access to the hard copy and electronic records. 
+Maintain for Length of Retention for the 
+Hard Copy or Electronic Record 
+ 
+IS 
+Hardware Documentation - Records documenting 
+operational and maintenance requirements of computer 
+hardware such as operating manuals, hardware/operating 
+system requirements, hardware configurations and equipment 
+control systems. 
+Retained for Full Retention of  Master 
+Files 
+ 
+IS 
+Master Files - Computer files containing organized and 
+consistent sets of complete and accurate electronic records 
+which replaces or serves in lieu of a textual record. 
+Maintain for Length of Retention for 
+Textual Records 
+ 
+ 
+IS 
+Processing Files - Electronic files used to produce a master 
+file 
+Administrative Value  
+IS OO-GN-031 
+Page 47 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Software Programs - Automated software applications and 
+operating system programs.   
+Retained for Full Retention of Master 
+Files 
+ 
+IS 
+Source Documents For Electronic Records 
+Non-electronic documents or forms 
+Destroy after info has been converted to 
+electronic medium & verified, or when no 
+longer needed to support the 
+reconstruction of, or serve as the backup 
+to, the master file, whichever is longer. 
+ 
+IS 
+Source Documents For Electronic Records –
+Electronic records entered during an update 
+process & not required for audit & legal purposes 
+Delete when data have been entered 
+into master file or database & verified, or 
+when no longer needed to support 
+reconstruction of, or serve as backup to, 
+a master file or database, whichever is 
+later 
+ 
+IS 
+Technical Documentation - Records adequate to specify 
+all technical characteristics necessary for reading or processing 
+of electronic records and their timely, authorized disposition. 
+Retained for Full Retention of Master 
+Files 
+ 
+IS 
+Access Security Records - Records created for security 
+purposes to control or monitor individual access to a system and 
+its data, including but not limited to, user account records, 
+security login information and password files. 
+Retained for Full Retention of Master 
+Files 
+ 
+IS/SECURITY 
+Batch Data Entry Control Records - Forms and logs 
+used to reconcile batches submitted for processing against 
+batches received and processed. 
+Administrative Value  
+IS 
+Computer Job Schedules and Reports 
+Schedules or similar records showing computer jobs to be run 
+and other reports by computer operators or programmers of 
+work performed. 
+90 days 
+ 
+ 
+ 
+ 
+IS 
+Data Processing Planning Records 
+Reports, studies, analyses, projections, and similar records 
+concerning the creation, development or modification of data 
+processing systems and services except for disaster recovery 
+plans. 
+3 Years  
+IS 
+Data Processing Policies and Procedures ACT + 10 years IS 
+Disaster Preparedness and Recovery Plans 
+Records related to the protection and re-establishment of data 
+processing services and equipment in case of a disaster. 
+ACT + 10 years  
+IS 
+Electronic Calendar - Documentation of personal 
+schedules and appointments that is maintained electronically 
+Same as paper calendar books: CY + 1 
+year 
+ OO-GN-031 
+Page 48 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+(e.g. in an Outlook calendar, Schedule+, GroupWise calendar, 
+Calendar Creator+, etc. 
+IS 
+Electronic Mail – Record 
+The originator of each message must determine if the message 
+constitutes a business or medical record and ensure appropriate 
+retention in either hardcopy or electronic form.  The originator is 
+the sender of an internal message or the recipient of an 
+electronic message from an external source. 
+Retain business or medical record in 
+accordance with appropriate textual 
+record retention series.  Users may 
+delete non-record messages. 
+ 
+IS 
+Electronic Mail – Transitory Messages 
+Messages that are informal in nature and have short lived or no 
+administrative value. 
+Users may delete transitory message(s) 
+after the message value is achieved. 
+ 
+ 
+IS 
+Electronic Mail – Deleted Messages 
+Messages that have been deleted by users from their mailboxes 
+and placed by the system in a special repository for deleted 
+messages (e.g., Deleted Items Folder, Trash Folder, 
+Wastebasket Folder, etc.).  The Email System Administrator is 
+responsible for retention of deleted messages. 
+CY + 1 year online or on appropriate 
+electronic backup medium 
+ 
+IS 
+Electronic Media Library System Files Until Related Records or Media are 
+Destroyed or Withdrawn 
+ 
+IS 
+Input documents - Records designed and used solely for 
+data input and control when the data processing unit provides 
+centralized data input services and original records are 
+maintained by the program unit. 
+Until All Data has been entered into the 
+System and Verified 
+ 
+IS 
+Network Circuits Inventory 
+Records containing information on network circuits including 
+circuit number, vendor, type of connection, terminal series, 
+software, contact person and other relevant information about 
+the circuit. 
+Until Superseded  
+IS 
+Network Implementation Files 
+Records used to implement a computer network including 
+reports, diagrams of network and wiring schematics. 
+Until Superseded  
+IS 
+Operating System and Hardware Conversion Plans 
+Records relating to the replacement of equipment or computer 
+operating systems. 
+1 Year After completion of conversion 
+ 
+ 
+IS 
+Output Records For Computer Production 
+Records showing transactions that were accepted, rejected, 
+Administrative Value  
+IS OO-GN-031 
+Page 49 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+suspended and/or processed. 
+Project Files 
+Records created and used in the development, redesign or 
+modification of automated systems or applications.  Includes 
+project management records, design documentation, feasibility 
+studies, justifications, user requirements, routine status reports, 
+memos and correspondence.  
+CY + 3 Years After Completion of Project  
+IS 
+Quality Assurance Records Until No Longer Needed as an Audit Trail 
+to Evaluate Data Accuracy 
+ 
+IS 
+System Activity Monitoring Records - Electronic files or 
+automated logs created to monitor computer systems such as 
+print spool logs, console logs, tape activity logs, etc. 
+Administrative Value  
+IS 
+Telecommunication Reports 
+Detail for long distance and local calls 
+CY + 1 year  
+IS 
+Training Course Information - Memoranda, flyers, 
+catalogues, registration forms, roster and other records 
+documenting training courses provided users of electronic 
+records systems. 
+Administrative Value  
+IS 
+ 
+Laboratory Records and Materials 
+ 
+ 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Autopsy Records ( not in patient medical record) CY + 6 years after autopsy LAB/ CONTRACT 
+General Laboratory - Accession log records CY + 2 years LAB 
+Specimen Logs CY + 10 years LAB/ CONTRACT 
+Registers (Chronological of tests) CY + 5 years or until statistics are 
+completed 
+LAB 
+Requests for Tests 2 weeks LAB 
+Laboratory Test Requisitions & Authorizations CY + 2 years LAB 
+General Laboratory Life of Instrument LAB OO-GN-031 
+Page 50 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Maintenance/instrument maintenance 
+General Laboratory - Proficiency Testing Program CY + 5 years LAB 
+Performance Records CY + 5 years LAB 
+General Laboratory - Quality Control Records CY + 2 years LAB 
+Final Test Reports – Pathology/Histology/Cytology Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+LAB/HIM 
+Patient Testing Reports – HIV Test Results – 
+Anonymous 
+2 years after date of reporting LAB 
+Patient Testing Reports – 
+HIV Test Results – seropositive and seronegative 
+confidential test results  
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+LAB/HIM 
+Patient Testing Reports – 
+Immunohematology/Histocom-patibility 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+LAB/HIM 
+Laboratory Reports – Complete Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+LAB/HIM 
+Patient Testing Reports – Laboratory Copies CY + 2 years LAB 
+Policies and Procedures ACT + 10 yaers LAB 
+Tissue Tracking System Records Permanent BLOOD BANK 
+Test Procedures For 2 years after superseded LAB 
+Test Procedures – Discontinued 2 years after procedure is discontinued LAB 
+Test Procedures – Errors CY + 2 years LAB 
+Video Tapes of Diagnostic Tests Same as Medical Media  IMAGING SERVICES 
+Surgical Pathology (including bone marrows) 
+Wet tissue 
+7 days after sign out LAB /  CONTRACT 
+Surgical Pathology (including bone marrows) 
+Paraffin Blocks 
+CY + 10 years LAB /  CONTRACT 
+Surgical Pathology (including bone marrows) Slides CY + 10 years LAB /  CONTRACT 
+Surgical Pathology (including bone marrows) 
+Reports 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+LAB /  CONTRACT 
+Cytology - Slides (negative-unsatisfactory) CY + 5 years LAB /  CONTRACT 
+Cytology - Slides (suspicious-positive)) CY + 5 years LAB /  CONTRACT OO-GN-031 
+Page 51 of 58 
+Type of Record Retention 
+ 
+Responsible 
+Department 
+ 
+Cytology - Fine needle aspiration slides CY + 10 years LAB /  CONTRACT 
+Cytology - Reports Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+LAB /  CONTRACT 
+Non-Forensic Autopsy  - Wet tissue 3 months after final report LAB /  CONTRACT 
+Non-Forensic Autopsy  - Paraffin Blocks CY + 10 years LAB /  CONTRACT 
+Non-Forensic Autopsy  - Slides CY + 10 years LAB /  CONTRACT 
+Non-Forensic Autopsy  
+Reports 
+Refer to FMOLHS Medical Record 
+Retention and Destruction policy 
+LAB /  CONTRACT 
+Patient Test Records, record of patients tested CY + 2 years LAB 
+Serum/CSF/Body fluids (except urine) 7 days LAB 
+Urine 48 hours LAB 
+Peripheral blood smears/body fluid smears 7 days LAB 
+Permanently stained slides – microbiology (gram, 
+trichrome, etc) 
+7 days LAB 
+Laboratory stains and specimen blocks—
+histopathology, oral pathology 
+Stained slides: CY + 10 years from the 
+date of examination. 
+Specimen blocks: CY + 10 years from 
+the date of examination 
+LAB / CONTRACT- 
+PATHOLOGY GROUP OF 
+LA 
+Research Papers Published Permanent LAB 
+ 
+Marketing/Public Affairs 
+ 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Marketing – Advertising Campaigns CY + 6 years CORPORATE COMMUNICATIONS 
+Marketing – Advertising - Price Lists CY + 6 years CORPORATE COMMUNICATIONS 
+Marketing – Advertising - Promotional Materials CY + 6 years CORPORATE COMMUNICATIONS 
+Marketing – Customer Relations 
+Customer Complaints/Problems 
+CY + 6 years CORPORATE COMMUNICATIONS 
+Marketing – Planning CY + 6 years CORPORATE COMMUNICATIONS OO-GN-031 
+Page 52 of 58 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Market Research Data & Work papers 
+Marketing – Planning - Market Research Reports CY + 6 years CORPORATE COMMUNICATIONS 
+Marketing – Planning - Marketing Plans CY + 6 years CORPORATE COMMUNICATIONS 
+Community Relations CY + 3 years CORPORATE COMMUNICATIONS 
+Hospital Publications Permanent CORPORATE COMMUNICATIONS 
+Public Relations 
+Publicity – News Releases 
+CY + 5 years CORPORATE COMMUNICATIONS 
+Public Relations Publicity – Newspaper Clippings Permanent CORPORATE COMMUNICATIONS 
+Public Relations Publicity – Photographs CY + 5 years CORPORATE COMMUNICATIONS 
+Public Relations - Photographs (Institutional) Permanent CORPORATE COMMUNICATIONS 
+Public Relations Publicity – Slide Presentations CY + 5 years CORPORATE COMMUNICATIONS 
+Public Relations Publicity – Speeches CY + 5 years CORPORATE COMMUNICATIONS 
+ 
+Materials Management 
+ 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Inventory Records - Capital Permanent MATERIALS MANAGEMENT 
+Purchasing - Bids – Accepted 15 years after expiration of contract MATERIALS MANAGEMENT 
+Purchasing - Bids – Rejected 2 years MATERIALS MANAGEMENT 
+Purchasing - Catalogs/Price Lists Permanent MATERIALS MANAGEMENT 
+Purchasing 
+Contracts & Agreements 
+Blanket Purchase Orders – to procure goods/services which 
+are authorized for purchase by an active, open contract.  
+ACT + 10 years MATERIALS MANAGEMENT 
+Purchasing 
+Purchase Orders 
+General Purchase Orders, ACT + 6 
+years; 
+Capital Purchase Orders, ACT + 10 
+years. 
+MATERIALS MANAGEMENT 
+Purchasing - Purchase Orders – Copies CY + 1 year MATERIALS MANAGEMENT 
+Purchasing - Purchase Requisitions CY + 3 years MATERIALS MANAGEMENT OO-GN-031 
+Page 53 of 58 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Purchasing - Packing Slips HFMA – not specified; shipping 
+tickets, 4 years. 
+MATERIALS MANAGEMENT 
+Purchasing - Receiving Reports Receipts, general, CY + 4 years MATERIALS MANAGEMENT 
+Purchasing - Returned Goods Credit 2 years MATERIALS MANAGEMENT 
+Purchasing - Shipment Documentation CY + 4 years MATERIALS MANAGEMENT 
+Surplus Property Disposal CY + 4 years MATERIALS MANAGEMENT 
+ 
+Medical Management 
+ 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Adult Abuse or Neglect Reports CY + 3 years 
+ 
+MED. MANAGEMENT / ED 
+Child Abuse or Neglect Reports CY + 3 years 
+ 
+MED. MANAGEMENT 
+Denial of Payment CY + 10 years MED. MANAGEMENT 
+Hospital Issued Notice of Non Coverage (HIN), 
+report to LA Health Care Review 
+CY + 3 MED. MANAGEMENT 
+Medicaid Pre-certification CY + 10 years MED. MANAGEMENT 
+Utilization Review CY + 5 years MED. MANAGEMENT 
+ 
+Medical Staff Office 
+ 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Ad Hoc Committee Minutes CY + 10 years MEDICAL STAFF OFFICE 
+Allied Health Records ACT + 6 years MEDICAL STAFF/HR 
+Cancer Center Committee Minutes * CY + 10 years MEDICAL STAFF 
+Cancer Center - Records, Notes, Data, Studies, 
+Analyses, Exhibits and Proceedings* 
+CY + 10 years 
+ 
+MEDICAL STAFF / MARY BIRD 
+PERKINS/OUR LADY OF THE 
+LAKE CANCER CENTER OO-GN-031 
+Page 54 of 58 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Credentials Committee Minutes* Permanent MEDICAL STAFF OFFICE 
+Credentials Committee Records, Notes, Data, 
+Studies, Analyses, Exhibits and Proceedings* 
+Permanent MEDICAL STAFF OFFICE 
+Complaints –  Regarding Medical Staff  Permanent MEDICAL STAFF OFFICE 
+Infection Control Committee Minutes* Permanent  INFECTION CONTROL 
+Malpractice Claims Reports Permanent RISK MANAGEMENT 
+Medical/Dental Staff Bylaws  Permanent MEDICAL STAFF OFFICE 
+Medical/Dental Staff Bylaws Committee Minutes* Permanent MEDICAL STAFF OFFICE 
+Medical/Dental Staff Bylaws Committee 
+Records, Notes, Data, Studies, Analyses, Exhibits 
+and Proceedings 
+Permanent 
+ 
+MEDICAL STAFF OFFICE 
+Continuing Medical Education Committee Minutes* CY + 10 years MEDICAL STAFF OFFICE 
+Continuing Medical Education Committee 
+Records, Notes, Data, Studies, Analyses, Exhibits 
+and Proceedings 
+CY + 10 years MEDICAL STAFF OFFICE 
+Medical Executive Committee Minutes* Permanent MEDICAL STAFF OFFICE 
+Medical Executive Committee - Records, Notes, 
+Data, Studies, Analyses, Exhibits and Proceedings 
+Permanent MEDICAL STAFF OFFICE 
+Medical Record/Utilization Review  Committee 
+Minutes*  
+CY + 10 HIM 
+Medical Record/Utilization Review Committee - 
+Records, Notes, Data, Studies, Analyses, Exhibits 
+and Proceedings  
+CY + 10 
+ 
+HIM 
+Medical/Dental Staff Files – Application file, 
+personnel documents including applications, 
+certifications, licenses, credentials, privileges lists 
+and Performance Improvement files. 
+Permanent 
+ 
+MEDICAL STAFF OFFICE 
+Medical/Dental Staff Files – Quality file including 
+performance, awards, complaints, disciplinary 
+actions 
+Permanent 
+ 
+MEDICAL STAFF OFFICE 
+Medical-Dental Staff Quarterly Meeting Minutes* Permanent MEDICAL STAFF OFFICE 
+Mortality and Morbidity Risk Management Reports CY + 10 years MEDICAL STAFF OFFICE 
+Mortality and Morbidity Risk Management Annual 
+Reports 
+ 
+CY + 10 years 
+ 
+MEDICAL STAFF / 
+PERFORMANCE 
+IMPROVEMENT LEADERSHIP 
+COMMITTEE  OO-GN-031 
+Page 55 of 58 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+National Practitioner’s Data Bank, 
+Adverse Actions on Clinical Privileges 
+Permanent MEDICAL STAFF OFFICE 
+National Practitioner’s Data Bank, 
+Medical Malpractice Payments 
+Permanent MEDICAL STAFF OFFICE 
+Nominating Committee 
+Minutes (No minutes kept, 2 past chiefs of staff 
+meet once a year); verbally report to MEC 
+Permanent in MEC minutes 
+ 
+MEDICAL STAFF OFFICE 
+Peer Review Adverse Professional Review Action 
+Reports  
+Permanent  MEDICAL STAFF OFFICE 
+Peer Review  - Records, Notes, Data, Studies, 
+Analyses, Exhibits and Proceedings 
+Permanent  
+ 
+MEDICAL STAFF OFFICE 
+Performance Improvement Leadership Committee* 
+(Subcommittee of PAC of OLOL Board) Minutes 
+CY + 10 years 
+ 
+PERFORMANCE 
+IMPROVEMENT 
+Pharmacy and Therapeutics Committee Minutes* CY + 10 years PHARMACY 
+Pharmacy and Therapeutics Committee  
+Records, Notes, Data, Studies, Analyses, Exhibits 
+and Proceedings 
+CY + 10 years 
+ 
+PHARMACY 
+Physician On Call Records - (on call to stabilize 
+individuals with emergency medical conditions) 
+CY + 6  years MEDICAL STAFF OFFICE  
+Personnel Records – Non physicians – Manager’s 
+File, includes job description, training, disciplinary 
+action; transfers with employee; on termination 
+goes to HR 
+ACT + 6 years 
+ 
+MEDICAL STAFF OFFICE/HR 
+Medical/Dental Staff Rules and Regulations,  Permanent MEDICAL STAFF OFFICE  
+Division Meeting Minutes CY + 10 years MEDICAL STAFF OFFICE 
+Service Meeting Minutes CY + 10 years MEDICAL STAFF OFFICE 
+ 
+Nursing 
+ 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Minutes - Nurse Executive Council Meetings  Minimum of CY + 3 years Administration 
+Minutes Minimum of CY + 3 years PATIENT CARE SERVICES OO-GN-031 
+Page 56 of 58 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Organization of Nurse Managers and Nurse 
+Manager Council Meetings 
+Minutes - Nursing Staff Meeting  Minimum of CY + 3 years Individual Departments 
+Minutes - Nursing Committees and Groups 
+Meetings 
+Minimum of CY + 3 years PATIENT CARE SERVICES 
+Nursing Care Manuals 10 years after superceded PATIENT CARE SERVICES 
+Nursing Care Plans Refer to FMOLHS Medical 
+Record Retention and Destruction 
+policy 
+HIM 
+Nursing Personnel Departmental Records ACT, in department; thereafter send 
+to HR.  
+PATIENT CARE SERVICES 
+AND HR 
+Policies and Procedures  10 years after expiration or revision; 
+until Superseded. 
+PATIENT CARE SERVICES 
+Records, reports and statistical information related 
+to Patient Care Services – Daily Staffing and 
+Administrative Reports 
+CY + 6 years PATIENT CARE SERVICES 
+Records, reports and statistical information related 
+to Patient Care Services – Full time equivalent 
+Position Reports 
+Minimum of CY + 3 years PATIENT CARE SERVICES 
+Training (attendance, course outlines, and 
+examinations) 
+Permanent HR 
+ 
+Pharmacy 
+ 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Pharmacy Records - Adverse drug reaction and error 
+reports 
+CY + 10 years PHARMACY 
+Pharmacy Records - Alcohol (Tax Free) Inventory CY + 3 years from date of 
+dispensing 
+PHARMACY 
+Pharmacy Records 
+Controlled Substances – Dispensed and Administered 
+CY + 5 years PHARMACY 
+Pharmacy Records 
+Controlled Substances – Inventories and Orders 
+CY + 5 years PHARMACY 
+Pharmacy Records - Daily printout Report of original 
+or refilled prescriptions 
+CY + 5 years PHARMACY OO-GN-031 
+Page 57 of 58 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Pharmacy Records 
+Director of Pharmacy AnnualInspection Reports 
+verifying dispensed drugs, supervision, storage, 
+documentation, records, emergency drugs, security & 
+policies. 
+CY + 5 years PHARMACY 
+Pharmacy Records - Discontinued/Outdated Drugs CY + 3 years PHARMACY 
+Pharmacy Records 
+Legend Drug transactions including acquisitions 
+(invoices), disposition (dispensed & sold), and 
+inventory records (drugs on hand). 
+CY + 5 years PHARMACY 
+Pharmacy Records - Methadone Records CY + 5 years PHARMACY 
+Pharmacy Records - Patient Profiles CY + 5 years PHARMACY 
+Pharmacy Records - Pharmacy Register 5 years after date of dispensing PHARMACY 
+Pharmacy Records - Policies and Procedures ACT + 10 years PHARMACY 
+Pharmacy Records - Prescriptions (all) Dispensing 
+prescription files, Refilled prescriptions Emergency 
+refills. 
+CY + 5 years PHARMACY 
+Pharmacy Records - Radioactive Drugs CY + 5 years PHARMACY 
+Pharmacy Records 
+Radioisotopes (receipt, transfer, use, storage, 
+delivery, disposal, and reports of over-exposure) 
+Permanent PHARMACY 
+Pharmacy Records - Radioisotopes / 
+Disposal/Ordinary Trash 
+CY + 3 years NUCLEAR MEDICINE/PHARMACY 
+Pharmacy Records 
+Radioisotopes /Radiopharmaceuticals / Departures 
+from manufacturer’s instructions 
+CY + 5 years NUCLEAR MEDICINE/PHARMACY 
+Pharmacy Records - Radioisotopes 
+Radiopharmaceuticals/Departures from 
+manufacturer’s instructions/Number of Prescriptions 
+Dispensed 
+CY + 5 years NUCLEAR MEDICINE/PHARMACY 
+Pharmacy Records - Recall Records CY + 3 years PHARMACY 
+Pharmacy Records - Transfer of prescription 
+information (original and transferred prescription) 
+No less than 5 years. PHARMACY 
+ 
+ 
+ 
+ 
+ 
+ OO-GN-031 
+Page 58 of 58 
+Reimbursement 
+ 
+Type of Record Retention 
+ 
+Responsible Department 
+ 
+Reimbursement 
+Correspondence with Fiscal Intermediaries 
+Permanent ACCOUNTING –  
+REIMBURSEMENT MNGT 
+Reimbursement - Correspondence with HHS Permanent ACCOUNTING –  
+REIMBURSEMENT MNGT 
+Reimbursement 
+Cost Reports 
+Permanent ACCOUNTING –  
+REIMBURSEMENT MNGT 
+Reimbursement 
+Cost Report Work papers 
+Permanent ACCOUNTING –  
+REIMBURSEMENT MNGT 
+Reimbursement 
+Cost Report Appeals 
+Permanent ACCOUNTING –  
+REIMBURSEMENT MNGT 
+Reimbursement 
+Cost Report Appeal Work papers 
+Permanent ACCOUNTING –  
+REIMBURSEMENT MNGT 
+Reimbursement 
+Cast Report Support Papers 
+Permanent ACCOUNTING –  
+REIMBURSEMENT MNGT 
+Reimbursement 
+Medicare Reimbursement Logs 
+Permanent ACCOUNTING –  
+REIMBURSEMENT MNGT 
+Reimbursement - General Files CY + 10 years ACCOUNTING 
+Reimbursement -  OIG Requests CY + 10 years ACCOUNTING 
+Reimbursement Reports CY + 10 years ACCOUNTING 
+ 
+ 
+ 
+ 
+ 

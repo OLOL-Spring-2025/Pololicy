@@ -1,0 +1,104 @@
+ Policy Reference Number 
+Page 1 of 3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Patient Care 
+Services 
+Title: Intravenous to Oral Automatic 
+Substitution 
+Policy Reference #: PH-02-23 
+Supersedes #:  
+Date of Origination: May 8, 2014 Last Date Reviewed: 6/3/24 
+Last Date Revised: July 6, 2022 
+ 
+PURPOSE: 
+To provide guidelines for conversion of intravenous (IV) medications to enteral routes when clinically 
+appropriate.  
+ 
+POLICY: 
+ 
+I. A report of patients receiving targeted medications will be generated and reviewed by a 
+pharmacist daily. 
+II. A pharmacist will confirm the available routes of administration for patients prior to 
+conversion of targeted medications by reviewing the medical record and/or by contacting the 
+patient’s provider or nurse. 
+III. Targeted medications will be converted to oral or enteral routes once criteria defined by the 
+Pharmacy and Therapeutics (P&T) Committee-approved IV-to-PO protocol have been met. 
+IV. Protocol-related changes will be entered into the electronic medical record with an order type 
+of “Per Protocol” and a note in the comment field stating, “Automatic IV to PO conversion 
+per P&T approved protocol”. 
+V. Prescribers will be contacted to discuss IV to PO conversion for all other targeted step-down 
+medications meeting criteria for adjustment. Prescriber-approved changes made to these 
+medications will be entered with an order type of “telephone read back” and routed for 
+physician signature. 
+VI. When patients do not meet the eligibility criteria listed below, a pharmacist will continue to 
+evaluate the patient daily until they are eligible or discharged, whichever occurs first. 
+VII. Pharmacists will adjust enteral medications to the dosage form most appropriate and/or 
+accessible based on the available enteral access (oral or enteral tube). 
+VIII. The pharmacist will ensure that the bioavailability is equivalent between dosage forms. 
+a. Prescribers may specify “do not interchange” in the administration instructions or 
+note to pharmacy field of the order to have the medication be exempt from this 
+protocol. 
+ 
+PROCEDURES: 
+I. Patients will be converted to oral or enteral therapy unless one or more of the following 
+exclusion criteria are met:    
+a. NPO status that includes medications 
+b. Post-pyloric enteral tube (Dobhoff, J tube) 
+c. Inability or difficulty swallowing AND no enteral access  Policy Reference Number 
+Page 2 of 3 
+d. Continuous tube feedings that cannot be interrupted. This only applies only to drugs 
+that bind to enteral formula. 
+e. Continuous nasogastric (NG) tube suctioning 
+f. NG tube residuals greater than 500mls that occur twice or more in a 24-hours  
+g. Nausea or vomiting & use of an antiemetic in the previous 24 hours 
+h. Active GI Bleed 
+i. Mucositis 
+j. Diagnosis of short bowel syndrome, ileus, or partial/total gastrectomy 
+k. Shock with vasopressor use in the previous 24 hours 
+l. Wernicke /Korsakoff Syndrome (IV thiamine only) 
+m. Myxedema Coma (IV Levothyroxine only)  
+II. Anti-epileptic medications will only be converted to oral formulations if the patient is seizure 
+free for greater than 24 hours 
+III. Methocarbamol injection can be used for 24 hours before it is eligible for conversion to oral 
+therapy.  
+IV. Patients receiving antimicrobial therapy will be deemed eligible for IV to PO conversion if 
+they satisfy the above criteria for IV to PO conversion in addition to the following: 
+a. Afebrile (or max temperature of less than 100.4°F in the past 24 hours) 
+b. Normal white blood cell (WBC) count (less than 11,000 cells/µL) or improving 
+which is defined as WBC less than 15,000 cell/uL and a decrease by 2,000 cells/uL in 
+the previous 48 hours 
+c. Non-neutropenic (ANC > 500) 
+d. Received greater than or equal to 24 hours of IV antibiotics 
+e. Documentation of clinical improvement  
+f. The infection does not require IV antibiotic treatment 
+i. Infections requiring IV antibiotic therapy include: 
+1. CNS infections (e.g., meningitis, brain/spinal abscess) 
+2. Orbital cellulitis 
+3. Endocarditis 
+4. Mediastinitis 
+5. Osteomyelitis 
+6. Gangrene 
+7. Bloodstream infections due to Staphylococcus, Pseudomonas, 
+Enterococcus, or Candida 
+8. Endophthalmitis 
+9. Cystic Fibrosis exacerbation 
+10. Empyema 
+11. Neutropenic fever 
+12. Pancreatic necrosis or abscess 
+ 
+REFERENCES: 
+1.  Lourenco R. Enteral feeding: Drug/nutrient interaction. Clin Nutr. 2001; 20(2): 187-93. 
+2. Gilbar PJ. A guide to enteral drug administration in palliative care. J Pain Symptom Manage. 
+1999; 17: 197-207. 
+3. Lacy CF, Armstrong LL, Goldman MP, et al., eds. Drug Information Handbook. 15th ed. 
+Hudson, OH: Lexi-Comp; 2007.  Policy Reference Number 
+Page 3 of 3 
+4. Pelz RK, Lipsett PA, Swoboda PA, et al. Enteral fluconazole is well absorbed in critically ill 
+surgical patients. Surgery. 2002; 131-534-40.  
+5. Oosterheert JJ, Bontent MJM, Schneider MM, et al. Effectiveness of early switch from 
+intravenous to oral antibiotics insevere community acquired pneumonia: multicenter randomized 
+trial. BMJ. doi: 10.1136/bmj.38993.560984.BE. Published November 7, 2006.  
+ 
+ 
+Supporting Documents: 
+See IV to PO conversion protocol 

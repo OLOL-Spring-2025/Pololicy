@@ -1,0 +1,89 @@
+ 
+PH.2433_Access to Services Performance Indicator 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Access to Services Performance Indicator 
+PAGES: 
+2 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2433 (02/07/2020) 
+ORIGINAL EFFECTIVE 
+DATE: 02/07/2017 
+REVISIONS EFFECTIVE: 
+03/29/2023 
+POLICY NUMBER:  
+PH.2433 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies.  This policy is required for pharmacies listed with NCPDP as a specialty pharmacy provider.  Pharmacies 
+not listed with NCPDP as specialty pharmacy providers are encouraged to track these metrics for the purpose of quality 
+improvement. 
+PURPOSE: 
+This policy assures that the pharmacy has a performance indicator in place that focuses on patient access to services.  
+POLICY: 
+The pharmacy has processes in place to monitor, measure and collect data on patient access to services metrics.  
+DEFINITIONS: 
+Average abandonment rate is the percentage of calls offered into a communications network or telephone system – i.e., 
+automatic call distribution (ACD) system of a call center – that are terminated by the persons originating the call before 
+answer by a staff person. 
+Average blockage rate is the percentage of incoming telephone calls “blocked” or not completed because switching or 
+transmission capacity is not available as compared to the total number of calls encountered. Blocked calls usually occur 
+during peak call volume periods and result in callers receiving a busy signal. 
+Average speed of answer is the average delay in seconds that inbound telephone calls encounter waiting in the 
+telephone queue of a call center before answer by a staff person. 
+PROCEDURE: [URAC P-PSC 3-2 (a, b, c, d)] 
+A. Description of Indicator and Threshold: 
+1. The pharmacy adheres to the following operating requirements for telephone calls: 
+a. Average abandonment rate of 5% or less;  
+Interpretive note: Abandonment rate is measured as the percentage of calls that disconnect after 30 
+seconds when an individual (live person) would have answered the call. For example, if there is a pre-
+recorded message or greeting for the caller, the 30-second measurement begins after the 
+message/greeting has ended. (On ACD reports, monitor calls that "drop" after 30 seconds.) 
+b. Average blockage rate of 5% or less;  
+c. Average speed of answer of 80% by a live person within 30 seconds;  
+(1) Interpretive note: The speed of answer is measured starting at the point when an individual 
+(live person) would have answered the call. For example, if there is a pre-recorded message 
+or greeting for the caller, the time it takes to respond to the call (i.e., average speed of 
+answer) begins after the message/greeting has ended. 
+ 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+3/29/2023 3:49 PM 
+ 
+ 
+PH.2433_Access to Services Performance Indicator 
+2 
+B. Frequency of Activities:  Data is collected monthly and summarized quarterly. 
+C. Responsibility:  The pharmacy manager has been designated the responsibility for collecting, tracking and 
+trending data as well as presenting it to the Quality Management Committee (QMC) for review.  
+D. Methods of Data Collect: Monthly auto generated report are sent from the telecommunication system to the 
+pharmacy manager weekly and quarterly. 
+E. Reporting: 
+1. The QMC shall receive reports for the quarterly average of each metric at least quarterly.   
+2. The QMC shall analyze data and identify performance trends on telephone metrics during quarterly QMC 
+meetings.  Documentation of this review shall be found in the QMC meeting minutes. 
+a. If the abovementioned goals are not met the QMC shall implement a Quality Improvement Project 
+(QIP), or action plan designed to improve or correct identified problems as needed. 
+F. Sample Size: 100% of all incoming calls  
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: P-PSC 3-2 
+• ACHC Standards: DRX2-10F, DRX6-1A 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

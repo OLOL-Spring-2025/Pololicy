@@ -1,0 +1,71 @@
+NPP-037 
+Page 1 of 2 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Patient Care 
+Subject:  Blood Culture Section:  Patient Care 
+Date of Origination:  January 25, 2010 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+October 23, 2020 
+January 15, 2025 
+Serial Code:  NPP-037 
+  
+PURPOSE: 
+To provide a standard collection procedure for the patient requiring blood culture collection. 
+ 
+POLICY: 
+To establish blood culture collection procedure and optimum volume of blood necessary to isolate etiological 
+agents responsible for sepsis in the infant and pediatric population. 
+ 
+Blood Culture Collection: 
+A. Number of blood cultures 
+1. Pediatric blood culture order is for one aerobic or one aerobic and anaerobic (set) if ordered by 
+physician (see culture volume table). 
+2. Pediatric patients with a central access will have one culture drawn from central access and one culture 
+drawn from a peripheral site unless otherwise ordered by physician. 
+3. Recommended practice is to draw central access cultures from distal port. 
+B. Recommended blood culture volume  
+1. Blood culture collection volumes will be determined based on patient weight in kilograms (refer to 
+table below). 
+2. Anaerobic bottles are drawn per physician order. 
+3. Acid Fast Bacillus (AFB) cultures are drawn per physician order.  Optimum volume is 4 mL blood 
+placed in sodium heparin vacutainer.  For lower weight infants’ volume may be adjusted. 
+4. Blood Fugus cultures are outsourced to a designated lab.  For Mayo Clinic, the requested volume is 5 
+mL blood in sodium heparin green top.  For adult blood collection, 2 large green top (sodium or 
+heparin) collection tubes with minimum volume of 10 mL.  If less volume is obtained, the outsourced 
+lab will make a determination if the deviation is acceptable.   
+5. Blood culture sample volumes may vary due to the patient’s condition and difficulty encountered in 
+performing the phlebotomy.  Nursing judgment must be utilized in special circumstances, such as 
+oncology patients, neonates and critical care patients. 
+6. Within a 24-hour period, blood volumes for subsequent blood cultures may be adjusted based on the 
+above considerations. 
+ 
+C. Procedure for drawing blood culture – See Children’s Hospital Standard Procedure for Obtaining Blood 
+Culture 
+ 
+ 
+D. Inoculation of blood culture bottles 
+1. Always prep rubber stopper with alcohol wipe and, allow to air dry prior to transfer of blood from                                                                   
+syringe to bottle. NPP-037 
+Page 2 of 2 
+ 
+2. If optimum sample volume is obtained: 
+a. Inoculate anaerobic bottle first (if ordered) 
+b. Inoculate aerobic bottle second 
+3. If suboptimum sample volume is obtained: 
+a. Consider possibility of redrawing blood from patient unless contraindicated due to patient 
+condition 
+b. Inoculate aerobic bottle first with optimum volume 
+c. Inoculate anaerobic bottle with remaining blood sample (if ordered) 
+4. Transfer blood using appropriate angel wing device, gently invert bottles to prevent clotting. 
+ 
+ 
+**For > 37 kg utilize adult culture orderable. 
+ 
+REFERENCE: 
+Feghaly, R.E., Chatterjee, J., Dowdy, K., Stempkah, L.M., Morgan, S., Needham, W. . . .. Kennedy, M.  (2018).  
+A quality improvement initiative:  Reducing blood culture contamination in a Children’s Hospital.  Pediatric, 
+142(4), e20180244.  doi:http://doi.org/10.15421peds.2018-0244  

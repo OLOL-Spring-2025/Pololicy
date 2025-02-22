@@ -1,0 +1,200 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Assessment of Risk for Hazardous Drugs Policy Reference #: PH0547 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for developing an Assessment of Risk (AoR ) for Hazardous 
+Drugs where Hazardous Drugs (HDs) are handled within FMOLHS Baton Rouge Market 
+Pharmacies.  
+1.2. Harm to healthcare personnel from occupational exposure to HDs can occur throughout the 
+medication-use process including receipt, storage, transport, compounding, administration, 
+disposal, and spill control.  
+1.3. The National Institute for Occupational Safety and Health (NIOSH) identifies specific drugs as 
+hazardous drugs and has developed the NIOSH List of Hazardous Drugs (NIOSH list).  
+• Drugs are identified as hazardous by NIOSH if they contain any of these six criteria: 
+carcinogenicity, teratogenicity (or other development toxicity), reproductive toxicity, 
+genotoxicity, organ toxicity at low doses, and structure and toxicity profiles of new drugs that 
+mimic existing drugs already determined to be hazardous by one of the five criteria previously 
+listed. 
+•  The NIOSH list further categorizes HDs into: antineoplastic, non -antineoplastic, and 
+reproductive risk only categories.  
+1.4. FMOLHS Baton Rouge Market Pharmacies may exempt some dosage forms of HDs from full USP 
+<800> containment strategies and work practices (as long as they are not Active Pharmaceutical 
+Ingredients (API) or antineoplastic drugs requiring manipulation (beyond counting or 
+repackaging)) if an Assessment of Risk (AoR) is performed. 
+2. Policy  
+2.1 All personnel at FMOLHS Baton Rouge Market Pharmacies who handle HDs follow full USP <800> 
+containment strategies and work practices unless an AoR is performed for specific dosage forms 
+of agents that are not antineoplastics requiring manipulation or any type of HD API.  
+2.2 An AoR is a tool used to evaluate the risk of the HD, the dosage form of the HD, and the manipulation required of 
+that drug/dosage form combination to determine if safe alternative containment strategies and/or work practices 
+can be utilized when handling the HD. 2.3 For all HDs that are not antineoplastics requiring manipulation or any type of HD API a n AoR is 
+completed for each drug and individual dosage form that is located at FMOLHS Baton Rouge Market Pharmacies. 
+2.4 An interdisciplinary team within FMOLHS Baton Rouge Market Pharmacies is established to 
+determine organizational wide hazardous drug work practices. This is accomplished by reviewing 
+all HDs handled at the facility, developing an AoR for all drugs and dosage forms handled at the 
+facility, determining HD work practices and job -specific requirements, and determining HD 
+containment strategies. The interdisciplinary team may consist of: 
+• Pharmacy director/manager 
+• Designated Person(s) from each facility 
+• Oncology nurse director/manager, if available 
+• Representatives from other departments, if available and as needed 
+2.5 The DP review the NIOSH list, organizational HD list and AoRs annually. 
+2.6 The DP reviews all new drugs  added to formulary to determine if the drug is hazardous and 
+requires addition to the organizational HD list and/or an AoR. When an AoR is required, DP 
+established the AoR in conjunction with members of the interdisciplinary team. 
+ 
+2. Roles & Responsibilities 
+3.1 The Designated Person: 
+• Ensures the NIOSH List of Hazardous Drugs is reviewed annually and compared to the 
+organizational HD list. 
+• Ensures AoRs are reviewed annually. 
+• Ensures all new drugs added to formulary or dispensed at FMOLHS Baton Rouge Market 
+Pharmacies are reviewed for HD structure and toxicity profiles that mimic existing HD drugs 
+3.2 Personnel handling HDs: 
+• Review organizational HD list and are familiar with HDs dispensed at FMOLHS Baton Rouge 
+Market Pharmacies. 
+• Review AoRs and are familiar with work practice guidelines and alternative containment 
+strategies.  
+3.3 Interdisciplinary team: 
+• Work together to ensure a comprehensive analysis of risk levels and alternative work practice 
+guidelines is performed for each HD dosage form for which an AoR is written.  
+4.  Procedures 
+4.1 Assemble the following documents and data for review by the interdisciplinary team: 
+• Current version of the NIOSH List of Hazardous Drugs  
+• List of HDs purchased (including all dosage forms) from pharmacy wholesaler and other 
+suppliers 
+• All FMOLHS Baton Rouge Market Pharmacies  SOPs concerning handling of HDs, HD 
+medication administration, and HD compounding 
+• USP Chapter <800> 
+• List of areas where HDs are handled within FMOLHS Baton Rouge Market Pharmacies 4.2 Identify HD drugs and dosage forms that have been received in the last 12 months. Dosage forms 
+include but are not limited to: 
+• Solid oral dose that must be counted or packaged 
+• Solid oral in unit-of-use or unit-dose 
+• Liquid oral that must be measured 
+• Liquid oral in unit-of-use or unit-dose 
+• Topical in unit-of-use or unit-dose 
+• Topical that must be manipulated and/or repackaged 
+• Injection that will be dispensed/distributed without manipulation 
+• Injection that will be manipulated in USP <800> compliant conditions  
+• HD that will be manipulated outside of USP <800> compliant conditions (e.g., ophthalmic 
+mitomycin) 
+• Infusion that will be dispensed/distributed without manipulation 
+• Infusion from compounding pharmacy or outsourcer that will be dispensed/distributed 
+without manipulation 
+• Ophthalmic 
+• Irrigation 
+• Inhalation 
+• Other 
+4.3 Divide the identified HD drugs and dosage forms that have been received into two categories: 
+• Drugs that are ineligible for an AoR: 
+o HD APIs 
+o Antineoplastic drugs that require manipulation 
+• Drugs that may be considered for an AoR: 
+o Antineoplastic drugs that will only be counted or packaged 
+o Non-antineoplastic drugs 
+o Reproductive risk only drugs 
+4.4 Evaluate each of the drugs and dosage forms that are eligible for an AoR  by considering the 
+following criteria: 
+• Dosage form in which drug was obtained 
+• Packaging of drug: 
+o Unit-of-use 
+o Unit-dose 
+o Bulk 
+• Need for manipulation and type of manipulation such as: 
+o Crushing 
+o Opening capsules 
+o Compounding 
+o Pouring 
+4.5 Determine and develop practical alternative containment strategies and/or work practices, other 
+than full USP <800> precautions, to protect personnel and the environment. Examples of 
+alternative containment strategies and/or work practices include, but are not limited to:  
+• Purchasing unit-of-use and unit-dose products whenever possible • Storage of antineoplastic drugs in final dosage form requiring counting or packaging in a 
+yellow plastic lidded container in the main pharmacy inventory 
+• Storage of HD inventory of non -antineoplastic and reproductive risk level HD in a labeled 
+plastic container in the main pharmacy inventory 
+• Counting trays, spatulas, and other supplied designated for use with HDs only 
+• Counting trays, spatulas, and other supplies designated for use with HDs are 
+deactivated/decontaminated and cleaned before and after each use 
+• Prepackaging is performed manually utilizing designated counting tray and spatula – 
+prepackaging machines are NOT used 
+• One pair of chemotherapy gloves is worn when counting or packaging antineoplastic drugs 
+• Splitting and crushing non -antineoplastic drugs and reproductive risk only drugs in the 
+pharmacy and dispensed for administration in ready to use dose in plastic pouch. 
+o Chemotherapy gloves worn during this activity 
+o Utilize crushing device that contains drug and allows for final dispensing to patient 
+o Splitting tablets in a dedicated location. This location is determined by each specific 
+site.  
+• Use of CSTDs for IV HDs that are not antineoplastic drugs, if allowed by the dosage form and 
+facility-specific practices. 
+• Non-antineoplastic and reproductive risk only drugs allowed to be loaded in Automated 
+dispensing Cabinet (ADC) with lidded bins labeled identifying nursing to the type of HD 
+contained inside.  
+• Pop-up alerts on ADC screen alerting personnel removing drug to the type of HD they are 
+accessing  
+• One pair of chemotherapy gloves is worn when administering intact HD tablet or capsule 
+• One pair of chemotherapy gloves is worn when administering HD prefilled syringe or injector 
+available from manufacturer 
+4.6 Complete an AoR for every HD drug that qualifies for alternative containment strategies:  
+• Complete a separate AoR for each dosage form available.  
+• Ensure the “Organizational Exemption” section is filled out when full USP <800> containment 
+strategies are not followed.  
+4.7 Implement alternative containment strategies and/or work practices to protect personnel from 
+ingesting, inhaling, or touching HD particulates or vapors. 
+4.8 The members of the interdisciplinary team ensure all personnel who handle HDs at FMOLHS 
+Baton Rouge Market Pharmacies are aware that AoRs can be found on the Pharmacy Sharepoint 
+documents folder. 
+• When changes are made to AoRs or new to AoRs  become available, all personnel handling 
+HDs are informed of the changes.  
+• Department leaders are responsible for educating personnel who handle HDs on the use of 
+AoRs and the alternative work practice guideline responsibilities pertaining to job -specific 
+duties. 
+4.9 Interdisciplinary team determines work practice guidelines for the following personnel working 
+at FMOLHS Baton Rouge Market Pharmacies in each applicable department that handles HDs: 
+• Pregnant 
+• Breastfeeding • Male or female employees who are actively trying to conceive 
+ 
+5. Definitions 
+5.1 Active Pharmaceutical Ingredients (API): Any substance or mixture of substances intended to be 
+used in the compounding of a drug preparation, thereby becoming the active ingredient in that 
+preparation and furnishing pharmacological activity or other direct effect in the diagnoses, cure, 
+mitigation, treatment, or prevention of disease in humans and animals or affecting the structure 
+and function of the body. 
+5.2 Automated Dispensing Cabinet (ADC): A computerized cabinet that allows for medications to be 
+stored and dispensed near patient care areas while controlling and tracking medication 
+distribution. 
+5.3 Chemotherapy glove: A powder -free medical glove that meets the ASTM Standard Practice for 
+Assessment of Resistance of Medical Gloves to Permeation by Chemotherapy Drugs (D6978) or 
+its successor. Gloves are either sterile or non-sterile depending on use.   
+5.4 Close System Transfer Device (CSTD):  A drug -transfer device that mechanically prohibits the 
+transfer of environmental contaminants into the system and the escape of HD or vapor 
+concentrations outside the system.  
+5.5 NIOSH: National Institute of Occupational Safety and Health 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc. <795> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.3 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings. 2019 version.  
+6.4 NIOSH List of Antineoplastic and Other Hazardous Drugs in Healthcare Settings, 2016 -161. 
+Retrieved 12/2022.  
+6.5 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 
+6.6 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22.  
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 

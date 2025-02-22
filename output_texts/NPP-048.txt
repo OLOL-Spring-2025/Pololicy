@@ -1,0 +1,197 @@
+NPP-048 
+Page 1 of 7 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Patient Care 
+Subject:  Hazardous Drugs and Management Section:  Patient Care 
+Date of Origination:  December 8, 2023 Supersedes: CHON-002 & CHON-003 
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+December 8, 2023 
+May 30, 2024 
+Serial Code:  NPP-048 
+  
+PURPOSE: 
+To outline and provide pertinent information for safe handling, administration, and disposal of hazardous drugs. 
+ 
+DEFINITIONS:  
+A. USP800: United States Pharmacopeia (USP) General Chapter <800> Hazardous Drugs – Handling in 
+the Healthcare Setting is a guidance document comprised of best practices handling hazardous drugs in 
+healthcare settings.   
+B. Hazardous Drug (HD): NIOSH defines any drug having any of the following six characteristics in 
+humans or animals: 
+1. Carcinogenicity 
+2. Teratogenicity or other developmental toxicity 
+3. Reproductive toxicity  
+4. Organ toxicity at low doses 
+5. Genotoxicity  
+6. Structure and toxicity profiles of new drugs that mimic existing drugs determined hazardous by 
+any of the above criteria 
+C.  Categories of HD: 
+a.  High Risk HD, High Risk HDs are considered to be NIOSH Group 1 drugs: Antineoplastic 
+drugs  
+b. Low Risk HD: Low Risk HDs are considered to be NIOSH Group 2 and 3 drugs: Non-
+Antineoplastic and those that pose a reproductive risk. 
+D. Hazardous Spill:   
+a. Drug spills are spills of liquid, High Risk HDs or Antineoplastics (Group 1).   
+b  Bodily Fluid Spill:  Hazardous bodily fluid (blood, emesis, urine and feces) spill refers to any 
+patient currently receiving a High-risk HD (Group 1) or has received a High-risk HD (Group 1) 
+at any point during patients admission, where any bodily fluid has spilled or soiled any locations 
+or surface in the patient care area.    
+c.  See CH Hazardous Drug Spill Procedure CHNO-004 for guidance on managing High Risk    
+     HD (Group 1) drug spills and activating the Spill Response Team (SRT). 
+F.  Personal Protective Equipment (PPE) per USP800 guidelines:  
+o Gloves:  
+▪  Must be powder-free. 
+o Gown: 
+▪ Disposable and nonabsorbent 
+▪ Shown to resist permeability by HDs 
+▪ Close in the back and have no openings to the front 
+▪ Long sleeved with closed, elastic or nit, cuffs NPP-048 
+Page 2 of 7 
+▪ Free of any seams or closures that HDs could pass through 
+G.  Reference Documents:   
+NIOSH List of Antineoplastic and Other Hazardous Drugs in Healthcare Settings, 2016 (cdc.gov) 
+A.   NIOSH List of Antineoplastic and Other Hazardous Drugs in Healthcare Settings, 2016 
+• Reference list for description of HD classification and safe handling guidance 
+B. See Appendix A for Safe Handling of Hazardous Drugs Flowchart and Document    
+E.  Safety Data Sheets 
+A.  Reference source on TeamLink/Applications/SDS 
+ 
+PROCEDURE:  
+I. Preparation of the Patient 
+a. Assess level of understanding of HD drug(s)  
+b. Review age-appropriate educational materials with the patient and family. 
+c. Explain procedure and any side effects of the drugs and answer questions appropriately. 
+d. Review previous experience with HD, including types of drugs administered, physical and 
+emotional reactions, and interventions that successfully alleviate side effects. 
+e. Review patient allergy history. 
+f. Assess patient’s access options and initiate a peripheral intravenous access if indicated.  Access 
+central device as available. 
+g. Review family’s ability to manage the patient’s post-HD care in the home. 
+II. Personal Protective Equipment (PPE) 
+A.  PPE must be worn during hazardous drug activities, including preparation, transportation, 
+administration, and when disposing.  
+a. Disposable PPE must not be re-used. 
+1. Any team member handling HD’s must glove in accordance with Safe Handling of 
+Hazardous Drug Flowchart and Document (Appendix A).  
+a. Hands must be washed after removing gloves.  
+2. Eye and Face Protection: Must be available whenever the risk of splashes, spray, or aerosol 
+possible. Goggles with a side panel or a face shield are appropriate.   
+3. Spill kit must accompany any liquid/fluid High Risk HD (Group 1) antineoplastic agent that 
+is being transported. 
+4. Supplemental Engineering Controls: Closed Systems Transfer Device (CSTDs): CSTDs will 
+be used to lower the risk of exposure to hazardous drug (HD) residue with parenteral Group 1 
+HD’s as appropriate and/or as identified by pharmacy risk assessment.  
+5. EPIC will provide visual clues as to the appropriate PPE and disposal recommendations on 
+MAR for HD medications. 
+III.  General HD Considerations:  
+1.  Intravenous High-Risk HD (Group 1) and biotherapy agents may be administered only by bio-chemo  
+     certified registered nurse. 
+2. Personnel who are pregnant will not be required to prepare or administer any High-Risk HD (Group   
+    1) medication. 
+3. Breast feeding personnel reserve the right to refuse to administer any High-Risk HD (Group 1)  
+    medication.  
+4.  Relevant current lab value and tests will meet parameters set in the treatment plan prior to  
+     administration as appropriate for the population. 
+            5.  Verify if the HD to be administered is a vesicant.  If the access infiltrates or extravasates  
+                during the administration, follow the applicable policy: 
+a.  CH Chemotherapy Extravasation Protocol CHON-001  NPP-048 
+Page 3 of 7 
+b. CH Management of Non-Chemotherapeutic Extravasation in Neonate & Pediatric 
+Patient CHMP-008 
+ 6. For patients receiving High Risk antineoplastic HD (Group 1), a HD sign will be placed on     
+                   patient’s door. 
+ 7.  Obtain yellow disposable bin from Central. 
+ 8.  Administer pre-medications as ordered prior to administering HD. 
+    9.  Pneumatic tubes cannot be used to transport any HD. 
+IV.  Monitoring 
+A. Monitor vital signs as ordered. 
+B.  Observe the patient at regular intervals during and after HD administration for hypersensitive 
+reaction or adverse reaction. 
+C. Notify the physician for any signs of reaction and/or change in clinical condition. 
+V.  Disposal of HD medication containers 
+1. All supplies used in the administration of High-risk HD (Group 1) should be disposed of in the 
+chemotherapy disposal bag and then placed in the Chemotherapy/Cytotoxic waste container. 
+2. When disposing of residual High-risk HD (Group 1) and/or tubing, place the residual and 
+container in the Chemotherapy/Cytotoxic waste container.  If greater than 3% of the volume 
+remains, must be placed in black waste bin. 
+VI.  Linen 
+1. All linen will be placed in yellow linen bag and placed with hospital laundry. 
+VII.  Manipulation  
+1. Nursing should avoid manipulating High Risk HD (Group 1) such as crushing tables or opening 
+capsules if possible. If crushing tables or opening capsules is required, then pharmacy should crush 
+or open capsules and return to nursing in a plastic pouch for administration 
+2. If hazardous drug dosage for Group 2 or 3 require manipulation such as crushing tables or opening 
+capsule for a single dose, personnel must don appropriate PPE and use a plastic pouch to contain any 
+dust, or particles generated (See Appendix A:  Safe Handling of Hazardous Drug Flowchart and 
+Document;). 
+3. HDs that do not require any further manipulation, other than counting or repackaging of final dosage 
+forms, may be prepared for dispensing without any further requirements for containment unless 
+required by the manufacturer or if visual indicators of HD appears on MAR. 
+4. Active pharmaceutical ingredients or other powdered HDs MUST be handled in a containment 
+primary engineering controls to protect against occupational exposure, especially during particle-
+generating activities (such as crushing tablets and opening capsules) 
+VIII.  Storage 
+1. HD will be stored in designated secure area in appropriate labeled bin with barrier pad. 
+a. Bin must be wiped after each use with hospital approved disinfectant and barrier pad 
+replaced. 
+b. Staff member disinfecting bin must double glove. 
+c. Barrier pad must be discarded in Chemotherapy/Cytotoxic waste container 
+2. Access where HD is stored will be restricted to authorized personnel only. 
+3. May be stored with other inventory in separate contained area. 
+VIIII.  Hazardous Bodily Fluid Handling after ingestion of a High-Risk HD (Group 1): 
+1. Wear double chemo gloves and gown NPP-048 
+Page 4 of 7 
+2. Wear a face shield if splashing is possible 
+3. Incontinent patients – apply a protective barrier ointment to the skin of patients’ diaper area 
+4. Patients receiving High Risk HD (Group 1), the family will be instructed while in the hospital to 
+flush the toilet with the absorbent pad since no lid exist on toilets to prevent splashing or release of 
+aerosols. 
+X.  Spill Management 
+1. Chemo spill kits should be readily available in any area where High Risk (Group 1) HD is 
+handled.  Should a small spill occur, the person that created or found the spill is to utilize the 
+chemo spill kit to begin the cleanup procedure. 
+2. See CH Hazardous Drug Spill Procedure CHNO-004 for guidance on managing High Risk HD 
+(Group 1) drug spills and activating the Spill Response Team (SRT). 
+XI.  Administration of High-Risk HD (Group1) on a non-oncology unit 
+1. When a patient requires a High-Risk HD (Group 1) antineoplastic intravenously to be administered 
+in non-oncology unit such as intensive care, a bio-chemo certified nurse will be consulted and a 
+plan for administration will be established.  The House Supervisor should be notified when this 
+need arises. 
+XII.  Annual Nursing Competency and training  
+1. Oncology nursing competency for antineoplastic administration will be evaluated and reassessed 
+each year according to the OLOLRMC Organizational policy OrgOps/HR/E/008.  
+2. Education will be provided prior to the introduction of a new High-Risk HD, equipment, process 
+changes, spills and exposure.  
+XIII. Environmental wipe sampling: 
+  1. Environmentally wipe sampling for HD surface residue should be performed routinely.  
+ 
+REFERENCES: 
+American Society of Clinical Oncology.  Journal of Oncology Practice, 12, 1262-1271.   
+ 
+Chemotherapy and Immunotherapy Guidelines (2019) Oncology Nursing Society.  
+ 
+Herring, R.A, (ED.). (2019) The Pediatric Chemotherapy and Biotherapy Curriculum. (4th ed.). Glenview, IL: 
+Association of Pediatric Hematology/Oncology Nurses. 
+ 
+ 
+NIOSH (2016).  List of Antineoplastic and Other Hazardous Drugs in Healthcare Settings 
+ 
+USP General Chapter <800> Hazardous Drugs – Handling in Healthcare Settings Reprinted from USP 40—NF 
+35, (2019). 
+ 
+ NPP-048 
+Page 5 of 7 
+ 
+ 
+ 
+ 
+NPP-048 
+Page 6 of 7 
+ 
+ NPP-048 
+Page 7 of 7 
+ 

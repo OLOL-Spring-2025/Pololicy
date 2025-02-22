@@ -1,0 +1,51 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Patient Care 
+Services 
+Title: Pharmacist-Managed Vancomycin & 
+Aminoglycoside Dosing 
+Policy Reference #: PH0224 
+Supersedes #:  
+Date of Origination: 06/20/2017 Last Date Reviewed: 6/3/24 
+Last Date Revised: 09/01/2021 
+ 
+PURPOSE: To communicate expectations of pharmacists participating in the Therapeutic Drug Monitoring 
+(TDM) consult services for intravenous vancomycin and aminoglycosides (gentamicin, tobramycin, amikacin).  
+ 
+POLICY: 
+I. Pharmacists will be deemed competent to participate in the vancomycin and aminoglycoside dosing 
+service without restriction or supervision once the following have been met: 
+a. Successful completion of training modules and competency exam  
+b. Approval by pharmacy clinical specialist in charge of respective antimicrobial dosing  
+II. Orders for injectable vancomycin or aminoglycosides will result in an automatic consult to 
+pharmacy. 
+a. Exception:  perioperative prophylactic doses not ordered to exceed twenty-four hours 
+III. Pharmacists will utilize the Pharmacy and Therapeutics Committee (P&T)-approved vancomycin 
+and aminoglycoside dosing protocols.  
+IV. Monitoring will occur daily.  Pharmacists will adjust initial and maintenance doses and order follow-
+up testing per protocol.  
+V. Pharmacists will communicate their assessment and plan to providers via a progress note within 
+twenty-four hours of the initial consult and within twenty-four hours of any dose change or change 
+in the patient’s clinical condition.  
+a. Exception: timing may exceed twenty-four hours for patients admitted to unit after 15:30 
+VI. All vancomycin and aminoglycoside consults will be terminated when the drug is electronically or 
+verbally discontinued by the prescriber or if the patients care is transferred to Louisiana Organ 
+Procurement Agency (LOPA) status.  
+VII. Pharmacists will notify the physician when: 
+a. An appropriately drawn vancomycin or aminoglycoside trough exceeds the recommended 
+threshold per the P&T approved dosing protocol.  
+b. Once the prescriber is notified, a safety event report should be generated.  
+VIII. Pharmacists will notify physicians via electronic medical record (EMR) notes when: 
+a. A vancomycin or aminoglycoside trough is drawn inappropriately but pharmacokinetic 
+parameters suggest the trough will be above the recommended threshold.  
+b. Any serum creatinine increase of  ≥0.3mg/dL from baseline while the patient is on therapy. 
+ 
+QUALITY MANAGEMENT: 
+I. All pharmacists participating in the TDM Service will receive annual education regarding dosing 
+guidelines and complex situations. Routine review will occur to determine on-going competency and 
+compliance with dosing guidelines and any safety or performance concerns will be addressed.  
+a. Ongoing feedback will be provided by pharmacy clinical specialist in charge of respective 
+antimicrobial dosing. 
+II. Safety events will be evaluated on an on-going basis and reported in a manner consistent with the 
+hospital’s Safety Event Reporting policy (OrgOps/GN/019)  
+III. Quality and safety indicators will be trended at least quarterly and reported to the Antimicrobial 
+Stewardship Committee for review and recommendations when necessary. 

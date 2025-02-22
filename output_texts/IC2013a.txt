@@ -1,0 +1,86 @@
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Infection Control Section: Prevention 
+Measures 
+Title: Special Communicable Disease 
+Management Plan: Ebola Virus 
+Policy Reference #: IC2013a 
+Supersedes #:  
+Date of Origination: October 2, 2014 Last Date Reviewed: March 31, 2024 
+Last Date Revised: March 31, 2024  
+ 
+DEFINITIONS: 
+Ebola Virus Disease (EVD): Ebola Virus Disease is a rare viral illness that causes severe bleeding, organ failure, and can lead to 
+death. Ebola is reportable to the National Notifiable Disease Surveillance System (NNDSS) in all US states and territories. Early 
+recognition of Ebola is critical for infection control. Health care providers should be alert for and evaluate any patients suspected 
+of having Ebola. 
+ 
+Suspect Case: A person who has both consistent signs or symptoms and risk factors as follows: 
+1. Elevated body temperature or subjective fever or symptoms, including severe headache, fatigue, muscle 
+pain, vomiting, diarrhea, abdominal pain, or unexplained hemorrhage; AND 
+2. An epidemiologic risk factor within the 21 days before the onset of symptoms (for example, direct contact with 
+blood or body fluids from a person with suspected or confirmed EVD , contact with bats or wild animals in an 
+area with an active Ebola Disease outbreak, or contact with semen from a man who recovered from EVD.)  
+ 
+Confirmed Case: 
+Laboratory-confirmed diagnostic evidence of Ebola virus infection. 
+Early recognition is critical to controlling the spread of Ebola virus. Healthcare providers should evaluate the patient’s 
+epidemiologic risk, including a history of travel to a country with widespread Ebola virus transmission or contact within 
+the preceding 21 days with a person with Ebola while the person was symptomatic. If Ebola is suspected, Louisiana Office 
+of Public Health (LOPH) should be immediately contacted for consultation and to assess whether testing is indicated and 
+the need for initiating identification of contacts. (LOPH Infectious Disease Epidemiologist 1-800-256-2748.) 
+ 
+GENERAL INFORMATION 
+Ebola Virus Disease Travel Areas (Subject to Change: Future updates to travel areas will be available at points for registration as 
+directed by CDC.) See geographical maps at points of registration. 
+Incubation: 
+1. Incubation period can be from two (2) to twenty-one (21) days. 
+A. The most frequent incubation period has been approximately nine to eleven days. 
+Transmission: 
+1. Transmission of the Ebola virus is through infectious blood and/or body fluids. 
+A. The Ebola virus has not been shown to be transmitted in the air. 
+2. Close contact with a person with confirmed or suspected Ebola Virus Disease. 
+A. Persons who have cared for an individual with a suspected or confirmed Ebola. 
+B. Household contacts of an individual with suspected or confirmed Ebola. 
+ 
+Ebola POLICY: 
+1. Patients triaged in the Emergency Department, Inpatient, or Ambulatory entry points including a variety of clinic 
+locations will be asked about travel outside of the country within the past 21 days. At registration and triage,  
+notices are posted about notifying the nurse if patient has traveled and surgical masks are provided if needed.  
+2. Patients presenting (in ED, Hospital, or Clinics) who do not meet the case definition for admission will not be 
+admitted to the hospital for purely monitoring purposes. They will be referred to the Office of Public Health by 
+immediately calling 1 (800) 256-2748. Discussion between OPH and the healthcare provider will evaluate on a 
+case-by-case basis to determine the recommended follow-up for this patient. OPH would assume at-home 
+monitoring for these patients. 
+ 
+PROCEDURES for Ebola Virus Disease: 
+ 
+I. TEAM MEMBER CRISIS INTERVENTION 
+In the event that a team member requires debriefing or defusing services, the manager/supervisor can contact 
+the Administrator on Call to access the Crisis Response Team. (See Policy OO-GN-028) 
+ 
+REFERENCES: 
+1. The Centers for Disease Control and Prevention: Clinical Guidance for Ebola Disease | Ebola | CDC . (Page 
+last reviewed: September 12, 2024) 
+2. The Centers for Disease Control and Prevention: Infection Prevention and Control Recommendations for 
+Patients in U.S. Hospitals who are Suspected or Confirmed to have Selected Viral Hemorrhagic Fevers (VHF) | 
+Viral Hemorrhagic Fevers (VHFs) | CDC (Page last reviewed: September 13, 2024) 
+3. The Centers for Disease Control and Prevention Health Advisory: Guidelines for Evaluation of US Patients 
+Suspected of Having Ebola Virus Disease. Distributed via the CDC Health Alert Network 364 
+4. The Centers for Disease Control and Prevention: Infection Prevention and Control Recommendations for 
+Patients in U.S. Hospitals who are Suspected or Confirmed to have Selected Viral Hemorrhagic Fevers (VHF) | 
+Viral Hemorrhagic Fevers (VHFs) | CDC (Page last reviewed: September 13, 2024)) 
+5. The Centers for Disease Control and Prevention: Guidance for Personal Protective Equipment (PPE) | Viral 
+Hemorrhagic Fevers (VHFs) | CDC (Page last reviewed: September 13, 2024).) 
+6. The Centers for Disease Control and Prevention: Safe Handling of Human Remains of VHF Patients in U.S. 
+Hospitals and Mortuaries | Viral Hemorrhagic Fevers (VHFs) | CDC. (Page last reviewed: September 13, 2024).) 
+7. Louisiana Administrative Code, Title 51 Public Health Sanitary Code, Part II. The Control of Diseases, 
+Section 117 A-G Disease Control Measures including Isolation/Quarantine, November 2023. 
+8. United States Department of Transportation: Planning Guidance for Handling Category A Solid Waste | PHMSA 
+(dot.gov) (Page last updated: April 1, 2024). 
+9. The Centers for Disease Control and Prevention, The National Institute for Occupational Safety and 
+Health, Mortuary Guidance Job Aid: Postmortem Preparation in a Hospital Room. 
+10. OLOL Policy OO-GN-028. Crisis Response Team. February 12, 2024. 
+11. OLOL Policy LBA203. Guidance for Specimen Collection, Transport, Testing and Submission for Patients with 
+Suspected Infection with Ebola Virus Disease or other Special Communicable Diseases. May 22, 2023. 
+ 

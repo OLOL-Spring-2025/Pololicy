@@ -1,0 +1,93 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter:  
+Subject:  High Frequency Oscillatory Ventilation 
+ Section: Ventilator 
+Date of Origination: September 1994 Supersedes:  
+Date of Last Revision:  November 27, 2023 Serial Code: RC8-08 
+Date of Last Review:   November 27, 2023  
+          
+POLICY: 
+The purpose of high-frequency oscillatory ventilation is to effectively ventilate and 
+oxygenate the neonate, pediatric or adult patient who is not responding to conventional 
+ventilation. The decision to initiate high-frequency oscillatory ventilation will be made by 
+the attending physician. 
+ 
+EQUIPMENT: 
+A. Sensor Medics 3100A and Sensor Medics 3100B Oscillatory Ventilator with 
+appropriate humidification system and blender attached. 
+B. Complete ventilator circuit based on type (i.e. 3100A or 3100B). 
+ 
+ASSEMBLY OF THE SENSOR MEDICS 3100A & 3100B: 
+A. Connect the patient circuit body to the bellows/water trap assembly. 
+B. Snap the three identical cap -diaphragm assemblies onto the three-valve bodies 
+located on the patient circuit body. 
+C. Attach the assembled patient circuit to the face of the oscillator compartment 
+using the four t-handle fasteners. 
+D. Attach the three color-coded tubes to their corresponding valve caps. 
+1. –Blue-limit valve. 
+2. Green - mean airway pressure control valve. 
+3. Red - dump valve. 
+E. Attach the 1/8 inch pressure tubing to the fitting marked "Airway Pressure." 
+F. Insert the humidifier temperature probe into the opening near the patient wye. 
+ 
+INITIAL SET-UP OF THE VENTILATOR: 
+A. Obtain authorization either verbally or per written order to initiate high frequency 
+oscillatory ventilation. The initial order should include FIO2, frequency, mean 
+airway pressure, and delta P settings. 
+B. Obstruct the ET tube connection port on the patient circuit using the rubber 
+stopper accessory provided. 
+C. Calibrate the patient circuit according to manufacturer guidelines. (These 
+following steps are located on the side of the ventilator.) 
+D. Perform the ventilator performance check labeled OFF PATIENT ONLY 
+according to manufacture guidelines. (The steps for this procedure are located on 
+top of the ventilator itself.) 
+F. Place the patient on the oscillator by removing the stopper from the patient circuit 
+and connecting the circuit to the endotracheal tube. G.       Start oscillator by pressing and holding Reset/power button and pressing Start/Stop 
+button.  
+H. Document all initial settings in the electronic medical record.  
+ 
+OPERATION OF THE HIGH-FREQUENCY OSCILLATOR: 
+A. Setting Bias Flow - 
+Upon initiation of the oscillator, the Bias Flow will be set at 20 liters per minute. 
+This value may be adjusted at the discretion of the respiratory care practitioner. 
+B. Piston Centering 
+The oscillating piston should remain centered throughout operation. The position 
+of the piston can be determined by observing the oscillating light in the piston -
+centering display window on the front of the ventilator.  
+C. Frequency 
+Frequency will be ordered by the physician. 
+D. % Inspiratory Time 
+Unless requested otherwise by the physician, the % Inspiratory Time will be set at 
+33%. This can be accomplished by turning the % I Time kn ob located on the 
+control panel. 
+E. Mean Airway Pressure 
+ Mean Airway Pressure will be ordered by the physician  
+F. Oscillatory Pressure Amplitude (Delta P) 
+The Delta P will be ordered by the physician. This value represents the pressure 
+amplitude of the oscillations. It can be adjusted by turning the Power control on 
+the front panel. 
+H. For further questions regarding the operation of the oscillator, please refer to the 
+manual located in the respiratory therapy department. 
+ 
+ALARM SETTINGS 
+The following Alarm Settings will be set at an appropriate: 
+A. Max. Mean Airway Pressure should be set no higher than 5 above the set MAP 
+B. Min. Mean Airway Pressure should be set no lower than 5 below the set MAP 
+ 
+THERAPIST RESPONSIBILITIES AFTER INSTITUTION OF HIGH-
+FREQUENCY OSCILLATORY VENTILATION: 
+A. Ventilator checks should be performed every two hours while the oscillator is in 
+use. All values should be recorded in the electronic medical record. 
+B. During high-frequency oscillation, it is imperative that chest movement be 
+monitored closely.   Any sudden change in chest wall movement should be 
+evaluated and the patient assessed.   
+C. Suctioning should be done only when necessary.  This is generally indicated by a 
+sudden decrease in chest wall movement 
+ 
+ 
+ 
+CLEANING OF THE OSCILLATOR: 
+A. The patient circuit is for one-time use only. B. The body of the ventilator should be  cleaned in accordance with   Manufacture  
+recommendations for cleaning. 
+ 

@@ -1,0 +1,85 @@
+ 
+Plant Services 
+ 
+ PS015 
+Page 1 of 2 
+Title: Fuel Supply / Diesel Policy  
+Revision Date: 02/05/20 
+Review Date: 07/01/24 
+Reference # PS015 Origin Date: May 1988 
+ 
+POLICY: 
+Our Lady of the Lake Regional Medical Center (OLOL) shall maintain adequate fuel supply for the 
+emergency generators to provide at least 96 hours of continuous operation at relevant OLOL locations. 
+ 
+PROCEDURES: 
+1. Fuel supply shall be monitored and recorded. 
+2. A fuel quality test is performed at least annually using tests approved by ASTM 975 & 
+Manufacturers recommendations per NFPA 110. 
+3. When the fuel supply falls below 96 hours of continuous run time, fuel shall be ordered to replenish 
+emergency generator tank. 
+4. The underground storage tank is required to: 
+• Every 3 years a Cathodic protection test is performed (corrosion control) 
+• Every 2 months a cathodic reading is recorded for verification of operation. 
+• Monthly Leak Detection Test. (ATG) 
+• Annual ATG calibration. 
+• 3 year Overfill protection testing. 
+• 3 year Spill bucket pressure testing 
+• Monthly spill bucket inspection. 
+ 
+LOCATION SPECIFICS 
+Our Lady of the Lake Regional Medical Center 
+5000 Hennessey Blvd, Baton Rouge, Louisiana 
+• 10,000-gallon underground diesel storage tank that is registered with DEQ and registration is 
+renewed annually.  The tank is shared by two emergency generators.  Each of these generators 
+has its own 500-gallon day tank.  Combined, our storage capacity can supply 96 hours of 
+continuous run time at 87% load (109 gallons per hour). 
+• St. Mary’s Tower has a 4,400-gallon tank capable of supplying 96 hours of continuous run time 
+at 46% load (45 gallons per hour). 
+• Fuel may be ordered at any time by contacting Lard Oil Company for restocking of fuel. 
+ 
+Our Lady of the Lake Children’s Hospital (OLOLCH) 
+8200 Constantin Blvd, Baton Rouge, Louisiana 
+• OLOLCH has a 40,000 gallon above ground diesel storage tank that is shared by two emergency 
+generators.  In addition, each of these generators has its own 100-gallon day tank.  
+ 
+• These generators will have to run together to support the full load of the hospital at 1850 kw 
+demand load.  The two generators running together at 60% load will use 70 gallons per hour. 
+This equals 287 hours of continuous runtime at demand load or 12 days.   
+  
+Plant Services 
+ 
+ PS015 
+Page 2 of 2 
+• Fuel may be ordered at any time by contacting Lard Oil Company for restocking of fuel. 
+ 
+Our Lady of the Lake Ascension (OLOLA) 
+1125 W Highway 30, Gonzales, Louisiana 
+• OLOLA has 3 generators for the hospital and ambulatory surgery center.   
+• The generators include: 
+o 6,000 gallon underground diesel storage tank supplying 600 hours (25 days) of continuous 
+run time at 100% load (10 gallons per hour) 
+o 4,400 gallon above ground diesel storage tank supplying 53 hours (2.2 days) of continuous 
+run time at 100% load (83 gallons per hour) 
+o 1,000 gallon above ground diesel storage tank supplying 200 hours (8.3 days) of continuous 
+run time at 100% load (5 gallons per hour) 
+      
+OLOL Locations with generators include: 
+Location Physical Address 
+Goodwood Pediatrics 8415 Goodwood, Baton Rouge, LA 
+Lake Surgery Center 7145 Perkins Road, Baton Rouge, LA 
+LSU Perkins Surgical 9032 Perkins Hwy, Baton Rouge, LA 
+MOB II 7777 Hennessy Blvd, Baton Rouge, LA 
+MOB III 7301 Hennessy Blvd, Baton Rouge, LA 
+MOB V 5131 O’Donovan, Baton Rouge, LA 
+OLOL LPG Baker Clinic 6516 E Myrtle, Baker, LA 
+OLOL North Baton Rouge Freestanding ER 5439 Airline Hwy, Baton Rouge, LA 
+Our Lady of the Lake Ascension 1125 W Highway 30, Gonzales, LA 
+Our Lady of the Lake Children’s 8200 Constantin Blvd, Baton Rouge, LA 
+Our Lady of the Lake Livingston 5000 O’Donovan, Walker, LA 
+Our Lady of the Lake Regional Medical Center 5000 Hennessy Blvd, Baton Rouge, LA 
+PACE 7436 Bishop Ott, Baton Rouge, LA 
+ 
+REFERENCES: 
+Joint Commission, Environment of Care.02.05.07, Element of Performance 8 
+National Fire Protection Association (NFPA) 110-2010, 8.3.8 

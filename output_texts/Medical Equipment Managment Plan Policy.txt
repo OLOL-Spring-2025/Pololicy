@@ -1,0 +1,131 @@
+Approved
+Policy
+Document #: TMX-POL-0009 Revision: 22
+Document Type: TMX Effective Date: Feb 5, 2021
+Department: Quality and Regulatory Origination 
+Date:
+Feb 1, 2010
+Title: Medical Equipment Management Plan Policy
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 3
+1.PURPOSE -- SCOPE
+To ensure that each facility managed by TRIMEDX has an updated Medical 
+Equipment Management Plan and an Annual Assessment submitted annually 
+to the facility's EOC/Safety Committee.
+2.REFERENCE DOCUMENTS
+2.1. TMX-F-0007 DNV Medical Equipment Management Plan – Standard 
+Format
+2.2. TMX-F-0008 DNV Medical Equipment Management Plan – Paragraph 
+Format
+2.3. TMX-F-0011 TJC Medical Equipment Management Plan – Standard 
+Format
+2.4. TMX-F-0012 TJC Medical Equipment Management Plan – Paragraph 
+Format
+2.5. TMX-F-0013 JCI Medical Equipment Management Plan
+2.6. TMX-F-0014 Non Accredited Medical Equipment Management Plan – 
+Standard Format
+2.7. TMX-F-0015 Non Accredited Medical Equipment Management Plan – 
+Paragraph Format
+2.8. TMX-F-0009 HFAP Medical Equipment Management Plan – Standard 
+Format
+2.9. TMX-F-0010 HFAP Medical Equipment Management Plan – 
+Paragraph Format
+3.DEFINITIONS
+3.1. Medical Equipment Management Plan – A document that outlines the 
+policies and procedures that meet the site specific regulatory and 
+accreditation requirements
+3.2. Annual Assessment – A quantitative indicator report that reflects 
+regulatory and accreditation metrics, which serves as a single source for 
+program effectiveness
+4.ABBREVIATIONS
+4.1. MEMP – Medical Equipment Management Plan
+COPYApproved
+Policy
+Document #: TMX-POL-0009 Revision: 22
+Document Type: TMX Effective Date: Feb 5, 2021
+Department: Quality and Regulatory Origination 
+Date:
+Feb 1, 2010
+Title: Medical Equipment Management Plan Policy
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 3
+4.2. EOC – Environment of Care
+5.RESPONSIBILITIES
+5.1.TRIMEDX Quality and Regulatory Compliance Department
+5.1.1. Review all applicable federal and state regulations and 
+accreditation agency standards for any changes that relate to or 
+could affect the MEMP content and/or implementation
+5.1.2. Update MEMP and Annual Assessment templates on an annual 
+basis; post MEMP templates in the TRIMEDX Quality Management 
+System (ETQ) 
+5.1.3. Provide guidance to Site Leadership during MEMP and Annual 
+Assessment review
+5.1.4. Determine required due date each year for MEMP and Annual 
+Assessments
+5.1.5. Collect signed MEMP and an Annual Assessment from all Site 
+Managers annually, by the required due date
+5.2.TRIMEDX Site Managers 
+5.2.1. Review and update the facility's MEMP and Annual Assessment 
+with Annual Indicators annually
+5.2.2. Insert facility Letterhead at the top of the MEMP template
+5.2.3. Present MEMP and Annual Assessment to facility representative 
+annually
+5.2.4. Ensure that a facility representative signs the MEMP or provide 
+EOC meeting minutes approving the MEMP.
+5.2.5. Submit signed MEMP and a completed Annual Assessment to 
+TRIMEDX Quality and Regulatory Compliance Department annually
+5.2.6. Submit signed MEMP and a completed Annual Assessment with 
+Annual Indicators to Manager, Quality and Regulatory Compliance 
+Department annually by the due date. Sites must submit an approved 
+MEMP and Annual Assessment by due date determined by the 
+Quality and Regulatory Compliance Department
+COPYApproved
+Policy
+Document #: TMX-POL-0009 Revision: 22
+Document Type: TMX Effective Date: Feb 5, 2021
+Department: Quality and Regulatory Origination 
+Date:
+Feb 1, 2010
+Title: Medical Equipment Management Plan Policy
+This is a one-time use copy. Any copies printed or saved outside of the 
+TRIMEDX Document Control System are uncontrolled.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 3 of 3
+5.2.7. As regulations change a new MEMP or Amendment must be 
+signed and submitted to the Quality and Regulatory Department
+5.3.TRIMEDX Directors and Division Vice Presidents
+5.3.1. Provide guidance and monitor Site Managers during MEMP and 
+Annual Assessment review process
+5.3.2. Ensure that signed MEMP and Annual Assessments with Annual 
+Indicators are submitted to the Quality and Regulatory Department 
+annually by the required due date
+6.COMPLETE POLICY
+6.1. It is policy, per state regulations and/or accreditation agency standards, 
+that all facilities utilizing patient care equipment have a Medical 
+Equipment Management Plan (MEMP) in writing and that the Plan be 
+reviewed and updated annually (Annual Assessment).
+6.2. The MEMP and the Annual Assessment are owned and accepted by the 
+facility in accordance with contract agreements and regulatory 
+requirements. The submission of the approved MEMP and Annual 
+Assessment will occur at minimum by the due date specified by the 
+Quality and Regulatory Compliance Department.
+7.QMS RECORDS
+7.1. Records are retained in accordance with QMS-SOP-0003 Record 
+Control.
+8.PROCESS FLOWCHART
+None.
+END OF DOCUMENT
+COPY

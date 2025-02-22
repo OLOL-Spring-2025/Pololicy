@@ -1,0 +1,378 @@
+  NBL-003 
+Page 1 of 10 
+ 
+ 
+PURPOSE:   
+To define the coordination and the responsibilities of the personnel in multiple departments involved in 
+implementing the Massive Transfusion Protocol (MTP) – ADULT and PEDIATRIC 
+ 
+POLICY: 
+In trauma situations, when the attending Physician/Surgeon deems it necessary to facilitate emergency 
+blood volume replacement, the transfusion team will be notified to institute the Massive Transfusion 
+Protocol (MTP).   
+ 
+A. MTP will remain in effect until canceled by the attending Physician/Surgeon.   
+B. Blood identification bands will be placed on the ankle instead of the forearm to facilitate access. 
+C. It is the responsibility of the attending ECU Physician or Trauma Surgeon to determine the timing  
+     and necessity for Massive Transfusion Protocol (MTP) activation and termination. 
+  
+(Go to Page 5 for Protocol/Procedure for Pedaitric Patients) 
+ 
+PROTOCOL / PROCEDURE FOR ADULT PATIENTS 
+A. Indications for Massive Transfusion Protocol (MTP) 
+1. Massive blood loss with shock: 
+Adult  
+ABC Score of  ≥ 2 
+o Penetrating mechanism (yes = 1, no = 0) 
+o ED SBP of 90 mmHg or less (yes = 1, no = 0) 
+o ED HR of 120 bpm or greater (yes = 1, no = 0) 
+o Positive FAST (yes = 1, no = 0) 
+ 
+2. Continued active bleeding: 
+• In this period the need to continue MTP will be reassessed by the treating physician and 
+may be continued if there is likelihood that substantial blood loss will continue short term. 
+ 
+B. Alert Process for OLOL Main 
+UR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Blood Products 
+Title: Massive Transfusion for  
+Trauma Emergency Resuscitation 
+Policy Reference #: NBL-003 
+Supersedes #:  
+Date of Origination: December 2006 Last Date Reviewed:  August 22, 2022 
+Last Date Revised:  March 11, 2024   NBL-003 
+Page 2 of 10 
+1.    MTP physician’s verbal order is first called directly to Transfusion Services 765-8891,    
+bypassing the electronic medical record system.  
+Caller provides the Blood Bank Technologist with the following: 
+• Identification (MR/Trauma #) 
+• Patient’s weight in kg  
+• Gender 
+• Ordering physician’s name 
+• Location to which blood products are to be delivered 
+• Contact number for ongoing communication between departments.  
+ 
+2. Transfusion Services calls PBX Operator at 765-3333 to initiate Code Transfusion Process. 
+3. The PBX operator overhead pages “Code Transfusion Team” and states the location.  
+NOTE:  “Code Transfusion Team” consists of staff members who will be assigned to report 
+to Transfusion Services to assist in the transportation of blood components to the patient. If 
+additional courier assistance is needed, the Blood Bank will engage laboratory team 
+members. 
+4. The PBX operator calls the Patient Care Services house supervisor cell phone and also  
+    pages the patient care services attendant to act as courier. 
+5. If not done prior to the initiation of MTP, send patient blood samples to lab for STAT   
+     Type & Match, CMP, CBC and Coagulation Panel (PT, PTT, Platelets & Fibrinogen). 
+6. One nurse attending the patient is assigned as the MTP coordinator and a blood bank technologist 
+is designated as the Blood Bank coordinator.  
+        
+  The nurse MTP Coordinator does the following:             
+a. Update the Blood Bank coordinator if the patient is relocated. 
+b. Monitor patient response to MTP and lab values relevant to protocol. 
+c. Monitor and document blood product administration, keeping a running 
+chronology. 
+d. Order STAT coagulation panels with fibrinogen following administration of each 
+batch. 
+e.   Upon receipt of coag lab results, promptly communicates those results to the 
+      physician, for consideration of MTP batch alteration.   
+e. Maintain communication between lab team and bedside team regarding all aspects 
+of MTP.   NBL-003 
+Page 3 of 10 
+f. Notify the Blood Bank @ 5-8891 immediately when MTP termination order is 
+received. 
+ g. Ensures immediate return of all unused MTP blood products to the Blood Bank. 
+      
+The Blood Bank MTP coordinator does the following: 
+                a. Initiate immediate preparation and delivery of MTP blood component  
+                     batch #1 to the patient’s location: 
+                b. Maintain communication with nurse MTP coordinator  
+                c. Continue releasing component batches until MTP is terminated  
+                d. Notify PBX operator to overhead page “Cancel Code Transfusion.   
+                e. Release transfusion team courier at termination of MTP.   
+ 
+C. ADULT (Patient ≥ 50kg) MTP COMPONENT BATCHES   
+▪ 6 units PRBC 
+▪ 6 units of Thawed Plasma or FFP  
+▪ 20 units of Cryoprecipitate (Cryo) 
+▪ 1 Platelet, Apheresis 
+ 
+D. Considerations for Providers 
+1. CALCIUM REPLACEMENT- Consider in all adult patients  
+a. Administer Calcium gluconate 1 gm IV Slow Push over 10 minutes 
+b. Recommended to give 1 gm calcium gluconate for every 3 units FFP (i.e. Calcium 
+Gluconate 2 gm per MTP batch) 
+ 
+2. TRANEXAMIC ACID (TXA) AKA Cyklokapron 
+a. Class and Indication: Antifibrinolytic used to treat coagulopathy 
+b. Must be initiated early in the coagulopathic cascade (within first 3 hours following trauma) 
+– treatment greater than 3 hours after injury associated with increased mortality 
+c. Contraindications: Subarachnoid hemorrhage, active thromboembolism, disseminitated 
+intravascular coagulation (DIC) 
+ 
+3. TXA ADULT  DOSING: (1g TXA vials are stocked in Trauma Bay 1 pyxis)  
+a. Dilute 1g TXA each-- in two 100cc bags 0.9% NaCl                                                                                                                                                                               
+b. Loading dose: 1 g TXA IVPB - administer immediately over 10 minutes. 
+c. Follow immediately with infusion 1g TXA IVPB over 8 hours (12.5 ml/hr) 
+ 
+   NBL-003 
+Page 4 of 10 
+4. CLOTTING FACTORS 
+a. The use of 4-Factor Prothrombin Complex Concentrate (KcentraTM) in MTP needs further 
+clinical trials to be supported by evidence. The American College of Surgeons recommends the 
+use of PCC over Factor VIIa (Novoseven) for MTP. May consider in the setting of salvage 
+therapy. 
+b. Several studies in actively bleeding patients strongly suggest that efforts directed at reversing 
+coagulopathy with factors are ineffective without first achieving adequate resuscitation (i.e. 
+ineffective with temperature ≤ 35C, inadequate tissue perfusion, and acidemia [pH ≤7.2]) 
+c. Contraindications: diseeminated intravascular coagulation (DIC), heparin-induced 
+thrombocytopenia (contains heparin), or hypersensitivity to any component of the formulation 
+including human albumin 
+ 
+5. 4-FACTOR PROTHROMBIN COMPLEX CONTRATE (KcentraTM) DOSING:  
+a. Must request from pharmacy at ext. 5-8002 or with pre-printed form in OR. 
+i. Kcentra: 25 units/kg IVPB x1 dose (max dose: 2500 units) 
+ii. Infuse at 0.12 ml/kg/hr. Do not exceed infusion rate of 8.4 ml/min 
+iii. Do not repeat dose within 24 hours due to risk of thromboembolism 
+ 
+E.  Systematic Oversight 
+1. The Blood Bank Medical Director and the Blood Bank Compliance Committee will initially 
+review all occurrences where the MTP has been utilized, and further evaluations may occur at the 
+quarterly meeting of the Blood Utilization Committee, verifying that turnaround times and action 
+thresholds were properly followed.  
+2. The Blood Bank Medical Director will serve as the contact person for the trauma team when 
+service issues arise. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   NBL-003 
+Page 5 of 10 
+PROTOCOL / PROCEDURE FOR PEDIATRIC PATIENTS  
+ 
+A. Indications for Masstive Transfusion Protocol (MTP)  
+1. Massive blood loss with shock: 
+Pediatric  
+ABC Score (above) of  > 2 with clinical judjment and SBP and HR below 
+o Penetrating mechanism (yes = 1, no = 0) 
+o ED SBP of 90 mmHg or less (yes = 1, no = 0) 
+o ED HR of 120 bpm or greater (yes = 1, no = 0) 
+o Positive FAST (yes = 1, no = 0) 
+ 
+Age SBP HR 
+< 12 mos < 60 >160 
+1 – 5 yrs < 70 > 140 
+> 5 yrs < 80 > 120 
+ 
+2. Continued active bleeding: 
+• In this period the need to continue MTP will be reassessed by the treating physician and 
+may be continued if there is likelihood that substantial blood loss will continue short term. 
+ 
+B. Alert Process for CH ER  
+1. Need for MTP identified by provider     
+2. RN will phone CSR to report that MTP activation is required.  
+3. CSR to Voalte message the MTP team 
+Message to include:  
+▪ “MTP activation”  
+▪ MRN/Trauma Name 
+▪ Weight in kg 
+▪ Gender 
+▪ Ordering physician  
+▪ Location blood to be delivered to  
+▪ Unit phone number for ongoing communication  
+4. Trauma RN to then call the Blood Bank representative signed into MTP voalte team.  
+5. If no one is signed into the MTP team on Voalte, or if during Voalte downtime, call Transfusion 
+Services at 4-1371.  
+6. If Voalte downtime, call PBX for overhead page. 
+ 
+C. Alert Process for CH OR   NBL-003 
+Page 6 of 10 
+1. Need for MTP identified by surgeon or anesthesia, based on identified MTP Criteria. 
+2. Circulator RN to then use Voalte phone, access MTP team, call the Blood Bank representative  
+3. Circulator RN to provide the following information to Blood Bank representative.  
+▪ “MTP activation”  
+▪ MRN/Trauma Name 
+▪ Weight in kg 
+▪ Gender 
+▪ Ordering physician  
+▪ Location blood to be delivered to  
+▪ Unit phone number for ongoing communication  
+4. If no one is signed into the MTP team on Voalte, or if during Voalte downtime, call Transfusion 
+Services at 4-1371.  
+5. Circulator RN to contact PBX at 5-3333 to notify of MTP and provide location. PBX operator to 
+alert overhead.  
+ 
+D. Alert Process for CH PICU 
+1. Need for MTP identified by provider, based on identified MTP Criteria. 
+2. RN to then use Voalte phone, access MTP team, call the Blood Bank representative 
+3. RN to provide the following information to Blood Bank representative.  
+▪ “MTP activation”  
+▪ MRN/Trauma Name 
+▪ Weight in kg 
+▪ Gender 
+▪ Ordering physician  
+▪ Location blood to be delivered to  
+▪ Unit phone number for ongoing communication  
+4. If no one is signed into the MTP team on Voalte, or if during Voalte downtime, call Transfusion 
+Services at 4-1371.  
+5. RN to contact PBX at 5-3333 to notify of MTP and provide location. PBX operator to alert 
+overhead.  
+6. One nurse attending the patient is assigned as the MTP coordinator and a blood bank technologist 
+is designated as the Blood Bank coordinator.  
+The nurse MTP Coordinator does the following:             
+a. Update the Blood Bank coordinator if the patient is relocated. 
+b. Monitor patient response to MTP and lab values relevant to protocol. 
+c. Monitor and document blood product administration, keeping a running 
+chronology. 
+d. Order STAT coagulation panels with fibrinogen following administration of each 
+batch. 
+e.   Upon receipt of coag lab results, promptly communicates those results to the   NBL-003 
+Page 7 of 10 
+      physician, for consideration of MTP batch alteration.   
+e. Maintain communication between lab team and bedside team regarding all aspects 
+of MTP. 
+f. Notify the Blood Bank via Voalte or @ 4-1371 immediately when MTP 
+termination order is received. 
+ g. Ensures immediate return of all unused MTP blood products to the Blood Bank. 
+      
+The Blood Bank MTP coordinator does the following: 
+                a. Initiate immediate preparation and delivery of MTP blood component  
+                     batch #1 to the patient’s location: 
+                b. Maintain communication with nurse MTP coordinator  
+                c. Continue releasing component batches until MTP is terminated  
+                d. Notify PBX operator to overhead page “Cancel Code Transfusion.”  
+                e. Release transfusion team courier at termination of MTP.   
+ 
+E. Administraton Process 
+1. When Blood Bank arrives with the blood products, MTP RN will administer. 
+2. Batch components: All batches to be infused at a 1:1:1 ratio of PRBC, FFP, and platelets, adding 
+cryoprecipitate on batch 2. 
+a. Patient ≤ 30kg batch will contain 
+▪ 2 units PRBC 
+▪ 2 units of Thawed Plasma or FFP  
+▪ 1/2  Platelet, Apheresis 
+▪ **2 units Cryoprecipitate (Cryo)  (**Not with First batch but send with all other batches) 
+RN to infuse Batch for ≤ 30kg at 10ml/kg boluses in a 1:1:1 ratio of PRBC, FFP, and platelets, and 1 unit 
+of cryo per 10kg body weight.  
+ 
+b. Patient >30kg – 50kg 
+▪ 4 units PRBC 
+▪ 4 units of Thawed Plasma or FFP  
+▪ 1  Platelet, Apheresis   
+▪ **5 units Cryoprecipitate (Cryo)  (**Not with First batch but send with all other batches) 
+ 
+c. Patient > 50kg    NBL-003 
+Page 8 of 10 
+▪ 6 units PRBC 
+▪ 6 units of Thawed Plasma or FFP  
+▪ 20 units of Cryoprecipitate (Cryo) 
+▪ 1 Platelet, Apheresis 
+d. If product type & matched, two RNs must sign off product and verify product while hanging. 
+ 
+F. Considerations for Providers: 
+1. CALCIUM REPLACEMENT- Recommended in all pediatric patients  
+Use Calcium Gluconate with PIV and IO. Use Calcium Chloride if CVL available. 
+Pediatric Dosing 
+a. PIV or IO:  Administer Calcium Gluconate 100 mg/kg (maximum 2000 mg) slow IV push 
+b. CVL available: Administer Calcium Chloride 20mg/kg (maximum 2000mg) slow IV push 
+c. Recommend to give calcium dose with each MTP batch 
+ 
+2. TRANEXAMIC ACID (TXA) aka Cyklokapron 
+a. Class and Indication: Antifibrinolytic used to treat coagulopathy 
+b. Must be initiated early in the coagulopathic cascade (within first 3 hours following 
+trauma) – treatment greater than 3 hours after injury associated with increased mortality 
+c. Contraindications: Subarachnoid hemorrhage, active thromboembolism, disseminitated 
+intravascular coagulation (DIC) 
+d. If Pediatric MTP is called it is recommended to give TXA also at initiation. 
+ 
+3. TXA Pediatric DOSING: (1g TXA vials are stocked in Trauma Bay 1 pyxis)  
+a. Give 20mg/kg bolus over 10 minutes (maximum of 1000 mg) followed by same dose 
+infused over 8 hours 
+b. If a dedicated IV for the infusion is not avalible , give a repeat 20 mg/kg ( maximum of 
+1000 mg) bolus dose after 3 hours.  
+c. If significant ongoing bleeding is observed, continue boluses every 8 hours not to exceed 
+24 hours. 
+4. CLOTTING FACTORS 
+a. Several studies in actively bleeding patients strongly suggest that efforts directed at 
+reversing coagulopathy with factors are ineffective without first achieving adequate 
+resuscitation (i.e. ineffective with temperature ≤ 35C, inadequate tissue perfusion, and 
+acidemia [pH ≤7.2]) 
+b. Contraindications: diseeminated intravascular coagulation (DIC), heparin-induced 
+thrombocytopenia (contains heparin), or hypersensitivity to any component of the 
+formulation including human albumin   NBL-003 
+Page 9 of 10 
+             
+5. MONITOR AND AVOID HYPOTHERMIA IN PEDIATRICS        
+ 
+G. Systematic Oversight 
+1. The Blood Bank Medical Director and the Blook Bank Compliance Committee will initially 
+review all occurrences where the MTP has been utilized, and further evaluations may occur at 
+the quarterly meeting of the Blood Utilization Committee, verifying that turnaround times and 
+action thresholds were properly followed. 
+2. The Blood Bank Medical Director will serve as the contact person for the trauma team when 
+service issues arise. 
+                                                  
+ 
+PERSONNEL REFERENCES 
+ 
+Dr. Tomas H. Jacome, Trauma Services Medical Director  
+ 
+Dr. Tracy Rauch, Blood Bank Medical Director  
+ 
+Dr. James Robert Upp, Jr., Pediatric Surgery Medical Director 
+ 
+ 
+REFERENCES 
+ 
+Refer to facility designated on-line clinical reference 
+Borgman MA, Spinella PC, Perkins JG, et al. (2007). The ratio of blood products transfused affects 
+mortality in patients receiving massive transfusion at a combat support hospital. Journal of trauma 
+injury, infection, and critical care, 63(4), 805-813.   
+ 
+Cap AP, Baer DG, Orman JA, et al. Tranexamic acid for trauma patients: A critical review of the  
+trauma literature. Journal of Trauma-Injury, Infection and Critical Care, 71(1):s9-s14.  
+ 
+Fox A, Manconochie I, Soe A, et al.(2012). Major  trauma and the use of tranexamic acid in children. 
+Evidence Statement. Royal College of Paediatrics and Child Health. November, 2012.     
+ 
+Holcomb JB, Jenkins D, Rhee P, et.al. (2007). Damage control resuscitation: Directly addressing the 
+early coagulopathy of trauma. Journal of Trauma Injury, Infection, and Critical Care, 62:307-310. 
+ 
+J Pediatr Surg. 2019 Feb;54(2):345-349. doi: 10.1016/j.jpedsurg.2018.10.040. Epub 2018 Oct 5. 
+Massive transfusion in pediatric trauma: An ATOMAC perspective. 
+Noland DK1, Apelt N1, Greenwell C2, Tweed J1, Notrica DM3, Garcia NM4, Todd Maxson R5, Eubanks 
+JW 3rd6, Alder AC1. 
+ 
+J Trauma. 2009 Feb;66(2):346-52. doi: 10.1097/TA.0b013e3181961c35.   NBL-003 
+Page 10 of 10 
+Early prediction of massive transfusion in trauma: simple as ABC (assessment of blood consumption)? 
+Nunez TC1, Voskresensky IV, Dossett LA, Shinall R, Dutton WD, Cotton BA. 
+ 
+Malone DL, Hess JR, Fingerhut A. (2006). Massive transfusion practices around the globe and a 
+suggestion for a common massive transfusion protocol. Current Opinion in Hematology, retrieved 
+7/27/2008 from: www.co-hematology.com/pt/re/cohematolgy/absrtact.000053730200606001-00014.    
+ 
+Smith CE, Rosenberg AD, Grande CM. (2008). Massive transfusion and control of hemorrhage in the 
+trauma patient. International Trauma Care, 18 (1), 6-11. 
+ 
+Macleod JB, Lynn M, McKenney MG, et al. (2003). Early coagulopathy predicts mortality in 
+trauma. Journal of Trauma-Injury, Infection and Critical Care, 55(1), 39-44. 
+ 
+Pham HP, Shaz BH. Update on massive transfusion. British Journal of Anaesthesia (2013). 111 
+ 
+Reed RL, Ciavarella D, Heimbach DM, et al. Prophylactic platelet administration during massive 
+transfusion. A prospective, randomized, double-blind clinical study. Annals of Surgery Jan. 
+1986:203(1); 40-48. 
+ 
+Bruce D, Nokes TJ. (2008). Prothrombin complex concentrate (Beriplex P/N) in severe bleeding: 
+Experience in a large tertiary hospital. Critical Care 2008 Aug 15. doi:10.1186/cc6987. Retrieved 17 
+March, 2015 from www.ncbi.nlm.nih.gov/pmc/atricles/PMC2575594 
+ 
+ 

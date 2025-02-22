@@ -1,0 +1,2081 @@
+Infectious Disease / Biological Terror Event Policy - Appendix A. - 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Environment of Care 
+Our Lady of the Lake Regional Medical Center Chapter:  Emergency Management 
+Subject:  Infectious Disease / Biological Terror Event Plan Section:  A 
+Date of Origination:  November 1999 Supersedes:       
+Date Last Revised: December 2004 Serial Code:  ECEP008 Appendix A 
+Date Last Reviewed: 05/02/2024 
+Isolation precautions 
+Agents of bioterrorism are generally not transmitted from person to person; re-aerosolization of these 
+agents is unlikely4. All patients, including symptomatic patients with suspected or confirmed 
+bioterrorism-related illnesses, are to be managed utilizing Standard Precautions. Standard Precautions 
+are designed to reduce transmission from both recognized and unrecognized sources of infection, and are 
+recommended for all patients receiving care, regardless of their diagnosis or presumed infection status5. 
+For certain diseases or syndromes (e.g., smallpox and pneumonic plague), additional precautions 
+may be needed to reduce the likelihood for transmission.  
+ 
+STANDARD PRECAUTIONS 
+Standard Precautions, as defined by the Centers for Disease Control and Prevention (CDC), are designed 
+to reduce the risk of transmission of most disease causing microorganisms in any type of health care 
+setting regardless of the patient’s presumed or diagnosed infectious status. Except for smallpox, viral 
+hemorrhagic fevers, and pneumonic plague, most infectious diseases caused by bioterrorism agents are 
+rarely, if ever, transmitted from person-to-person. Standard Precautions should be integrated into all 
+healthcare worker/patient care interactions that include contact with: 
+• Blood 
+• Non-intact skin 
+• Body fluids regardless of the presence or absence of visible blood (urine, feces, vomitus, wound and 
+lesion drainage, pulmonary secretions including nasal and salivary secretions and tears) 
+• Skin soiled with visible blood or other body fluids 
+• Mucous membranes 
+The following diseases require Standard Precautions to reduce the risk of transmission to health care 
+workers. 
+Bioterrorism Diseases 
+• Bacillus anthracis – Anthrax (See contact Precautions) 
+• Brucellae species – Brucellosis 
+• Clostridium Botulinum - Botulism 
+• Coxiella burnetii - Q fever 
+• Francisella tularensis – Tularemia (See Contact Precautions) Infectious Disease / Biological Terror Event Policy - Appendix A. - 2 
+ 
+OSHA Bloodborne Pathogens Standard 
+Healthcare workers should follow facility specific policies and procedures related to reducing the risk of 
+occupational exposure to blood and other potentially infectious materials as required by the Occupational 
+Safety and Health Administration’s (OSHA) Bloodborne Pathogens Standard. 
+Visitors 
+Limit visitors to immediate family members and significant others. Instruct visitors to wash their hands 
+before and after patient contact and before leaving the patient’s room. 
+Personal Protective Equipment (PPE) 
+Gloves 
+Wear disposable gloves when contact with blood and body fluids is anticipated. Gloves should also be 
+worn when touching environmental surfaces and patient care articles likely to be contaminated or soiled 
+with blood or body fluids. Gloves should be put on just prior to performing a patient care task that 
+involves contact with blood or body fluids and removed immediately, without touching non-contaminated 
+surfaces, when the task is complete. When performing multiple procedures on the same patient, gloves 
+should be changed after contact with blood and body fluids that contain high concentrations of 
+microorganisms (e.g., feces, wound drainage or oropharyngeal secretions) and before contact with a clean 
+body site such as non-intact skin and vascular access sites. 
+Facial Protection 
+Wear disposable, fluid-resistant masks and eye shields (goggles with side-shields) or a face shield when 
+performing patient care tasks likely to generate splashing or spraying of blood and body fluids onto the 
+mucous membranes of the face. 
+Gowns 
+Wear disposable fluid-repelling gowns to protect skin and clothing when performing procedures likely to 
+generate splashing or spraying of blood and body fluids. Plastic aprons may be worn for procedures likely 
+to soil clothing but are unlikely to generate splashing or spraying of blood or body fluids (e.g., cleaning 
+incontinent patients). The material composition of the gown should be appropriate to the amount of fluid 
+penetration likely to be encountered. Remove soiled gowns after patient contact. 
+Handwashing 
+Wash hands promptly after contact with blood and other body fluids or with articles and surfaces 
+contaminated or soiled with blood and body fluids regardless of whether gloves are worn. HCW should 
+wash their hands when otherwise indicated to prevent transfer of microorganisms from one patient to 
+another. Alcohol foams or gels can be used for routine handwashing unless hands are visibly soiled, or the 
+patient has Anthrax.  Bacillus anthracis (Anthrax) produces spores which are not inactivated by the 
+alcohol, thus requiring mechanical cleaning with soap and water. 
+ Infectious Disease / Biological Terror Event Policy - Appendix A. - 3 
+CONTACT PRECAUTIONS 
+Cutaneous anthrax and tularemia, although rare, can be transmitted to healthcare workers by contact with 
+the infected patient’s wound or lesion drainage. In addition to Contact Precautions, Standard Precautions 
+should be followed. 
+Patient Placement 
+Place the patient in a private room, if available. Patients with the same diagnosis may be cohorted 
+(grouped) in semi-private rooms. When a private room or cohorting is not achievable, separate infected 
+patients at least three (3) feet away from non-infected patients. 
+Visitors 
+Limit visitors to immediate family members or significant others. Instruct visitors to wash their hands 
+their hands before and after patient contact and before leaving the patient’s room. 
+Patient’s Clothing 
+Bag patient’s clothing and send home with a family member. Instruct family members to wear gloves 
+when handling clothes soiled with wound or lesion drainage. Clothes should be washed in warm or hot 
+water using a commercial laundry product. If no family member is available, follow the facility procedure 
+for washing and drying patient’s clothes. 
+ 
+AGENT SPECIFIC RECOMMENDATIONS 
+A. Anthrax 
+1. Description of Agent / Syndrome 
+a. Etiology 
+Anthrax is an acute infectious disease caused by Bacillus anthracis, a spore forming, gram-
+positive bacillus. Associated disease occurs most frequently in sheep, goats, and cattle, which 
+acquire spores through ingestion of contaminated soil. Humans can become infected through skin 
+contact, ingestion, or inhalation of B. anthracis spores from infected animals or animal products 
+(as in "woolsorter’s disease" from exposure to goat hair). Person-to-person transmission of 
+inhalational disease does not occur. Direct exposure to vesicle secretions of cutaneous anthrax 
+lesions may result in secondary cutaneous infection.1  
+b. Clinical features 
+Human anthrax infection can occur in three forms: pulmonary, cutaneous, or gastrointestinal, 
+depending on the route of exposure. Of these forms, pulmonary anthrax is associated with 
+bioterrorism exposure to aerosolized spores.9 Clinical features for each form of anthrax includes: 
+Pulmonary  
+• Non-specific prodrome of flu-like symptoms follows inhalation of infectious spores. 
+• Possible brief interim improvement. 
+• Two to four days after initial symptoms, abrupt onset of respiratory failure and 
+hemodynamic collapse, possibly accompanied by thoracic edema and a widened 
+mediastinum on chest radiograph suggestive of mediastinal lymphadenopathy and 
+hemorrhagic mediastinitis. 
+• Gram-positive bacilli on blood culture, usually after the first two or three days of illness. 
+• Treatable in early prodromal stage. Mortality remains extremely high despite antibiotic Infectious Disease / Biological Terror Event Policy - Appendix A. - 4 
+treatment if it is initiated after onset of respiratory symptoms. 
+Cutaneous 
+• Local skin involvement after direct contact with spores or bacilli. 
+• Commonly seen on the head, forearms or hands. 
+• Localized itching, followed by a papular lesion that turns vesicular, and within 2 -6 days 
+develops into a depressed black eschar. 
+• Usually non-fatal if treated with antibiotics. 
+Gastro-intestinal 
+• Abdominal pain, nausea, vomiting, and fever following ingestion of contaminated food, 
+usually meat.  
+• Bloody diarrhea, hematemesis.  
+• Gram-positive bacilli on blood culture, usually after the first two or three days of illness.  
+• Usually fatal after progression to toxemia and sepsis.10 
+c. Modes of transmission 
+The spore form of B. anthracis is durable. As a bioterrorism agent, it could be delivered as an 
+aerosol. The modes of transmission for anthrax include: 
+• Inhalation of spores.  
+• Cutaneous contact with spores or spore-contaminated materials.  
+• Ingestion of contaminated food.1 
+d. Incubation period 
+The incubation period following exposure to B. anthracis ranges from 1day to 8 weeks (average 
+5days), depending on the exposure route and dose: 
+• 2-60 days following pulmonary exposure. 
+• 1-7 days following cutaneous exposure.  
+• 1-7 days following ingestion. 
+e. Period of communicability 
+Transmission of anthrax infections from person to person is unlikely. Airborne transmission does 
+not occur, but direct contact with skin lesions may result in cutaneous infection. 6 
+2. Preventive Measures 
+a. Vaccine availability 
+• Inactivated, cell-free anthrax vaccine (Bioport Corporation 517/327-1500, formerly Michigan 
+Biologic Products Institute*) – limited availability. 
+*Use of trade names and commercial sources is for identification only and does not constitute 
+endorsement by CDC or the U.S. Department of Health and Human Services 
+b. Immunization recommendations 
+• Routinely administered to military personnel. Routine vaccination of civilian populations not 
+recommended.1,10-12 
+3. Infection Control Practices for Patient Management  Infectious Disease / Biological Terror Event Policy - Appendix A. - 5 
+Symptomatic patients with suspected or confirmed infections with B. anthracis should be managed 
+according to current guidelines specific to their disease state. Recommendations for chemotherapy are 
+beyond the scope of this document. Additional information and recommendations for therapy may be 
+obtained from the local and state health department and the CDC Emergency Preparedness and 
+Response office, 1-888-246-2675, and the CDC Clinician Hotline, 1-877-554-4625.  
+a. Isolation precautions 
+Standard Precautions are used for the care of patients with infections associated with B. anthracis. 
+Standard Precautions include the routine use of gloves for contact with nonintact skin, including 
+rashes and skin lesions. 
+b. Patient placement 
+Private room placement for patients with anthrax is not necessary. Airborne transmission of 
+anthrax does not occur. Skin lesions may be infectious, but requires direct skin contact only.  
+c. Patient transport 
+Standard Precautions should be used for transport and movement of patients with B. anthracis 
+infections. 
+d. Cleaning, disinfection, and sterilization of equipment and environment 
+Principles of Standard Precautions should be generally applied for the management of patient-
+care equipment and for environmental control.  
+e. Discharge management 
+No special discharge instructions are indicated. Home care providers should be taught to use 
+Standard Precautions for all patient care (e.g., dressing changes). 
+f. Post-mortem care 
+Standard Precautions should be used for post-mortem care. Standard Precautions include wearing 
+appropriate personal protective equipment, including masks and eye protection, when generation 
+of aerosols or splatter of body fluids is anticipated.5  
+4. Post Exposure Management 
+a. Decontamination of patients / environment 
+The risk for re-aerosolization of B. anthracis spores appears to be extremely low in settings where 
+spores were released intentionally or were present at low or high levels. In situations where the 
+threat of gross exposure to B. anthracis spores exists, cleansing of skin and potentially 
+contaminated fomites (e.g. clothing or environmental surfaces) may be considered to reduce the 
+risk for cutaneous and gastrointestinal forms of disease. The plan for decontaminating patients 
+exposed to anthrax may include the following: 
+• Instructing patients to remove contaminated clothing and store in labeled, plastic bags.  
+• Handling clothing minimally to avoid agitation.  
+• Instructing patients to shower thoroughly with soap and water (and aiding if necessary).  
+• Instructing personnel regarding Standard Precautions and wearing appropriate barriers (e.g. 
+gloves, gown, and respiratory protection) when handling contaminated clothing or other 
+contaminated fomites.  
+• Decontaminating environmental surfaces using an EPA-registered, -approved 
+sporicidal/germicidal agent or 0.5% hypochlorite solution (one-part household bleach added Infectious Disease / Biological Terror Event Policy - Appendix A. - 6 
+to nine parts water).5,6 
+b. Prophylaxis and post-exposure immunization 
+Recommendations for prophylaxis are subject to change. Up-to-date recommendations should be 
+obtained in consultation with local and state health departments and CDC. Prophylaxis should be 
+initiated upon confirmation of an anthrax exposure (Table 1 and Table 2). 
+c. Triage and management of large-scale exposures / potential exposures 
+Pharmacy, and local and state health department will be responsible for identification of: 
+• Sources of prophylactic antibiotics and planning for acquisition on short notice.  
+• Locations, personnel needs and protocols for administering prophylactic post -exposure care 
+to large numbers of potentially exposed individuals. 
+• Means for providing telephone follow -up information and other public communications 
+services. 
+Intensive Care Unit Managers, Respiratory Care, Anesthesia, and Administration will need to 
+consider: 
+• How limited numbers of ventilators will be distributed in the event of many patients arriving 
+with abrupt pulmonary decompensation.  
+• How additional ventilators can be obtained. 
+• In the event of severely limited ventilator availability, whether and when ventilator support 
+will be discontinued for a terminally ill individual.3,10,11 
+5. Laboratory Support and Confirmation 
+Diagnosis of anthrax is confirmed by aerobic culture performed in a BSL -2 laboratory.1 
+a. Diagnostic samples  
+Diagnostic samples to obtain include: 
+• Blood cultures. 
+• Acute serum for frozen storage. 
+• Stool culture if gastrointestinal disease is suspected. 
+b. Laboratory selection 
+Handling of clinical specimens should be coordinated with local and state health departments, and 
+undertaken in BSL -2 or -3 laboratories. The FBI will coordinate collection of evidence and 
+delivery of forensic specimens to FBI or Department of Defense laboratories. 
+c. Transport requirements 
+Specimen packaging and transport must be coordinated with local and state health departments, 
+and the FBI. A chain of custody document should accompany the specimen from the moment of 
+collection. For specific instructions, contact the local and state health department and the CDC 
+Emergency Preparedness and Response office, 1-888-246-2675. Identification of appropriate 
+packaging materials and transport media will be coordinated by the Laboratory. 
+6. Patient, Visitor, and Public Information 
+CDC Fact sheets for distribution have been prepared and are available from Infection Control. 
+The information includes the explanation that people recently exposed to B. anthracis are not 
+contagious, and antibiotics are available for prophylactic therapy along with the anthrax vaccine. Infectious Disease / Biological Terror Event Policy - Appendix A. - 7 
+Dosing information and potential side effects should be explained clearly. Decontamination 
+procedures, i.e., showering thoroughly with soap and water; and environmental cleaning, i.e., 
+with 0.5% hypochlorite solution ( one-part household bleach added to nine parts water), are 
+described. Infectious Disease / Biological Terror Event Policy - Appendix A. - 8 
+ANTHRAX – QUICK REFERENCE 
+Any suspected case of anthrax (Bacillus anthracis) MUST BE TREATED AS A PUBLIC HEALTH 
+EMERGENCY and reported to the infection control practitioner (225) 765-8864, and the Office of 
+Public Health, (800) 256-2748.  
+Bioterrorism Epidemiology: 
+• Inhalation anthrax: most likely disease presentation if bacilli intentionally aerosolized 
+• Person to person transmission does NOT occur 
+Incubation Period: 
+• Average 1 – 6 days 
+• Up to 6 weeks following a bio-aerosol release 
+Clinical Disease: 
+• Gastrointestinal: abdominal pain, bloody diarrhea, hematemesis 
+• Cutaneous: pruritic skin lesion with black eschar and tissue edema, 
+• Inhalation: Bi-phasic illness 
+• Initial phase: flu-like symptoms, low grade fever, non-productive cough, malaise, fatigue, 
+myalgias, mild chest discomfort followed by a short period (several hours to days) of 
+improvement 
+• Acute phase: abrupt onset of respiratory distress with dyspnea, stridor, cyanosis, high fever, 
+shock and death within 24 – 36 hours. 
+Diagnosis: 
+• Presumptive diagnosis based on characteristic skin lesion (cutaneous), intestinal bleeding 
+(gastrointestinal) and respiratory failure with widening mediastinum (inhalation). 
+Treatment: (See overview) 
+• Early antibiotic treatment is critical to survival 
+• Ciprofloxacin, Penicillin G (if susceptible), Doxycycline 
+Prophylaxis: (See overview) 
+• Early antibiotic prophylaxis is critical to preventing disease 
+• Ciprofloxacin, Doxycycline 
+Isolation: 
+• Inhalation: Standard Precautions 
+• Cutaneous and gastrointestinal: Standard and Contact Precautions 
+Table 1: Anthrax – Antibiotic Therapy for Contained Casualty Settings 
+Contained casualty setting: assumes a limited number of persons seeking treatment. Start IV therapy as 
+soon as diagnosis suspected. 
+Patient Category Antibiotic  Comment 
+Adults: Preferred Therapy: Give IV antibiotics until Infectious Disease / Biological Terror Event Policy - Appendix A. - 9 
+In vitro studies suggest that 
+ofloxacin 400 mg IV q 12 hours or 
+levofloxacin 500 mg IV q 24 
+hours can be substituted for 
+ciprofloxacin however these 
+antibiotics will, most likely not be 
+included in the National 
+Pharmaceutical Stockpile. 
+*Ciprofloxacin 1 400 mg IV q 
+12 hours 
+*Doxycycline 200 mg IV 
+loading, then 100 mg IV q 12 
+hours, or 
+Erythromycin 15 – 20 
+mg/kg/day in divided doses 
+Therapy if stain is susceptible: 
+*Penicillin 2 G 20 MU/day IV 
+in divided doses (if 
+susceptible) 
+clinically stable then switch to an 
+oral antibiotic to complete 60 
+days of treatment. Switch IV 
+penicillin to Amoxicillin 500 mg 
+PO q 8 hours when clinically 
+stable to complete 60 days 
+treatment. 
+Children: 
+The use of tetracyclines and 
+fluoroquinolones in children has 
+well known adverse effects. These 
+risks must be weighed carefully 
+against the risk of developing life-
+threatening disease. If a release of 
+B anthracis is confirmed, children 
+should be treated initially with 
+ciprofloxacin or doxycycline, but 
+therapy should be changed to 
+penicillin as soon as penicillin 
+susceptibility is confirmed. 
+Preferred Therapy: 
+*Ciprofloxacin 1, 3 15 mg/kg q 
+12 hours, or 
+*Doxycycline 4 
+• If >8 years and > 45 kg: 
+give 200mg loading dose, 
+then 100 mg q12 hours. 
+• If > 8 years and = 45 kg: 
+give 4.4mg/kg loading 
+dose, then 2.2 – 4.4 
+mg/kg/day in 2 divided 
+doses. 
+• If = 8 years: same as > 8 
+years and = 45 kg, 
+Therapy if stain is susceptible: 
+*Penicillin G 2 400,000 
+units/kg/day in divided doses 
+(if susceptible) 
+Give IV antibiotics until 
+clinically stable then switch to an 
+oral antibiotic to complete 60 
+days of treatment. 
+Switch IV penicillin to PO 
+Amoxicillin: 
+• If = 20 kg: give 500 mg PO q 
+8 hour; or 
+• If < 20 kg: give 40 mg/kg 
+divided into 3 doses to be 
+taken q 8 hours 
+To complete 60 days of 
+treatment. 
+Pregnancy: 5 
+High mortality rate from the 
+infection outweighs the risk posed 
+by antibiotics. 
+Same as for non-pregnant 
+adults 
+Oral doxycycline not 
+recommended for more than 14 
+days 
+  
+Immunocompromised Same as adults and children   
+* Antibiotics supplied as part of the National Pharmaceutical Stockpile (NPS) 
+1. Therapy with ciprofloxacin may be initiated either as intravenous or oral dosage. The 
+pharmacokinetics are such that oral ciprofloxacin is rapidly absorbed in the GI tract with no 
+substantial loss by first-pass metabolism. Maximum serum concentrations are attained 1 – 2 hours 
+after oral dosing. Infectious Disease / Biological Terror Event Policy - Appendix A. - 10 
+2. If tested for susceptibility, therapy should be changed to IV penicillin. 
+3. Ciprofloxacin dose should not exceed 1 gram/day in children. 
+4. In 1991 the American Academy of Pediatrics amended their recommendation to allow treatment of 
+young children with tetracyclines for serious infections such as Rocky Mountain Spotted Fever for 
+which doxycycline may be indicated. Doxycycline is preferred for its twice-a-day dosing and low 
+incidence of gastrointestinal side effects. 
+5. Although tetracyclines are not recommended during pregnancy, its use may be indicated for life-
+threatening infections. Adverse affects on developing teeth and bone are dose related, therefore, 
+doxycycline might be used for short course therapy (7 – 14 days) prior to the 6th month of gestation. 
+After the 6th month, professional consultation should be obtained. 
+Table 2: Anthrax – Antibiotic Therapy for Mass Casualty Settings or Post-Exposure 
+Prophylaxis 
+Mass Casualty Setting or Post -Exposure Prophylaxis 
+Patient Category Antibiotic Comment 
+Adults, including pregnant 
+women and 
+immunocompromised 
+Preferred treatment: 
+*Ciprofloxacin 500 mg PO q 
+12 hours, or 
+*Doxycycline 1 100 mg PO q 
+12 hours 
+Therapy if strain is 
+susceptible: 
+Amoxicillin 500 mg PO q 8 
+hours 
+Duration of therapy is 60 days 
+Children 
+The use of tetracyclines and 
+fluoroquinolones in children has 
+well known adverse effects. These 
+risks must be weighed carefully 
+against the risk of developing life-
+threatening disease. If a release of 
+B anthracis is confirmed, children 
+should be prophylaxed initially 
+with ciprofloxacin or doxycycline 
+but therapy should be changed to 
+amoxicillin as soon as penicillin 
+susceptibility is confirmed. 
+Preferred treatment: 
+*Ciprofloxacin 15 – 20 mg/kg 
+PO q12 hours (not to exceed 1 
+gm/day), 
+or 
+*Doxycycline 2 
+• >8 years and > 45 kg: 
+give 200mg loading dose, 
+the 100 mg q12 hours. 
+• < 8 years and = 45 kg: 
+give 4.4mg/kg loading 
+dose then 2.2 – 4.4 
+mg/kg/day in 2 divided 
+doses. 
+• = 8 years: same as > 8 
+years and = 45 kg, 
+Duration of therapy is 60 days Infectious Disease / Biological Terror Event Policy - Appendix A. - 11 
+Therapy if strain is 
+susceptible: 
+Amoxicillin 
+• If = 20 kg: give 500 mg PO 
+q 8 hour; or 
+• If < 20 kg: give 40 mg/kg 
+divided into 3 doses to be 
+taken q 8 hours 
+* Antibiotics supplied as part of the National Pharmaceutical Stockpile (NPS) 
+1. Although tetracyclines are not recommended during pregnancy, its use may be indicated for life-
+threatening infections. Adverse affects on developing teeth and bone are dose related, therefore, 
+doxycycline might be used for short course therapy (7 – 14 days) prior to the 6th month of gestation. 
+After the 6th month, professional consultation should be obtained. 
+2. In 1991, the American Academy of Pediatrics amended their recommendation to allow treatment of 
+young children with tetracyclines for serious infections for which doxycycline may be indicated such 
+as Rocky Mountain Spotted Fever. Doxycycline is preferred for its twice-a-day dosing and low 
+incidence of gastrointestinal side effects. 
+Reference: DHS -(California Department of Health Services) 10 -05-01 California Hospital 
+Bioterrorism Response Planning Guide. 
+Prophylaxis should continue until B. anthracis exposure has been excluded. If exposure is confirmed, 
+prophylaxis should continue for 8 weeks. In addition to prophylaxis, post -exposure immunization 
+with an inactivated, cell -free anthrax vaccine is also indicated following anthrax exposure. If 
+available, post -exposure vaccination consists of three doses of vaccine at 0, 2 and 4 weeks after 
+exposure. With vaccination, post-exposure antimicrobial prophylaxis can be reduced to 4 weeks. 1 Infectious Disease / Biological Terror Event Policy - Appendix A. - 12 
+B. Botulism 
+1. Description of Agent / Syndrome 
+a. Etiology 
+Clostridium botulinum is an anaerobic gram -positive bacillus that produces a potent 
+neurotoxin, botulinum toxin. In humans, botulinum toxin inhibits the release of acetylcholine, 
+resulting in characteristic flaccid paralysis. C. botulinum produces spores that are present in 
+soil and marine sediment throughout the world. Foodborne botulism is the most common 
+form of disease in adults. An inhalational form of botulism is also possible13. Botulinum toxin 
+exposure may occur in both forms as agents of bioterrorism. 
+b. Clinical features 
+Foodborne botulism is accompanied by gastrointestinal symptoms. Inhalational botulism and 
+foodborne botulism are likely to share other symptoms including: 
+• Responsive patient with absence of fever. 
+• Symmetric cranial neuropathies (drooping eyelids, weakened jaw clench, difficulty 
+swallowing or speaking). 
+• Blurred vision and diplopia due to extra-ocular muscle palsies. 
+• Symmetric descending weakness in a proximal to distal pattern (paralysis of arms 
+first, followed by respiratory muscles, then legs). 
+• Respiratory dysfunction from respiratory muscle paralysis or upper airway obstruction 
+due to weakened glottis. 
+• No sensory deficits. 
+c. Mode of transmission 
+Botulinum toxin is generally transmitted by ingestion of toxin -contaminated food 6. 
+Aerosolization of botulinum toxin has been described and may be a mechanism for 
+bioterrorism exposure 11. 
+d. Incubation period  
+• Neurologic symptoms of foodborne botulism begin 12 – 36 hours after ingestion. 
+• Neurologic symptoms of inhalational botulism begin 24- 72 hours after aerosol exposure. 
+e. Period of communicability 
+Botulism is not transmitted from person to person.10  
+2. Preventive Measures 
+a. Vaccine availability 
+A pentavalent toxoid vaccine has been developed by the Department of Defense. This 
+vaccine is available as an investigational new drug (contact USAMRIID, 301/619 -2833). 
+Completion of a recommended schedule (0, 2, 12 weeks) has been shown to induce protective 
+antitoxin levels detectable at 1-year post vaccination. 
+b. Immunization recommendations 
+Routine immunization of the public, including healthcare workers, is not recommended.11 
+3. Infection Control Practices for Patient Management  Infectious Disease / Biological Terror Event Policy - Appendix A. - 13 
+Symptomatic patients with suspected or confirmed botulism should be managed according to current 
+guidelines.14 Recommendations for therapy are beyond the scope of this document. For up -to-date 
+information and recommendations for therapy, contact the CDC Clinician Hotline, (877) 554-4625 or 
+Louisiana Office of Public Health, (800) 256-2748.  
+a. Isolation precautions 
+Standard Precautions are used for the care of patients with botulism. 
+b. Patient placement 
+Patient-to-patient transmission of botulism does not occur. Patient room selection and care 
+should be consistent with policy. 
+c. Patient transport 
+Standard Precautions should be used for transport and movement of patients with botulism. 
+d. Cleaning, disinfection, and sterilization of equipment and environment 
+Principles of Standard Precautions should be generally applied to the management of patient -
+care equipment and environmental control. 
+e. Discharge management 
+No special discharge instructions are indicated. 
+f. Post-mortem care 
+Standard Precautions should be used for post-mortem care. 5 
+4. Post Exposure Management 
+Suspicion of even single cases of botulism should immediately raise concerns of an outbreak 
+potentially associated with shared contaminated food. In collaboration with CDC and local /state 
+health departments, attempts should be made to locate the contaminated food source and identify 
+other persons who may have been exposed. 13 Any individuals suspected to have been exposed to 
+botulinum toxin should be carefully monitored for evidence of respiratory compromise.14 
+a. Decontamination of patients / environment 
+Contamination with botulinum toxin does not place persons at risk for dermal exposure or 
+risk associated with re-aerosolization. Therefore, decontamination of patients is not required.  
+b. Prophylaxis and post-exposure immunization 
+Trivalent botulinum antitoxin is available by contacting state health departments or by 
+contacting CDC (404/639 -2206 during office hours, 404/639 -2888 after hours). This horse 
+serum product has a <9% percent rate of hypersensitivity reactions. Skin testing should be 
+performed according to the package insert prior to administration.14 
+c. Triage and management of large-scale exposures / potential exposures 
+Patients affected by botulinum toxin are at risk for respiratory dysfunction that may 
+necessitate mechanical ventilation. Ventilatory support is required, on average, for 2 to 3 
+months before neuromuscular recovery allows unassisted breathing. Large-scale exposures to 
+botulinum toxin may overwhelm an institution’s available resources for mechanical 
+ventilation. Sources of auxiliary support and means to transport patients to auxiliary sites, if 
+necessary, should be planned in advance with coordination among neighboring .6,10 
+5. Laboratory Support and Confirmation 
+a. Obtaining diagnostic samples Infectious Disease / Biological Terror Event Policy - Appendix A. - 14 
+Routine laboratory tests are of limited value in the diagnosis of botulism. Detection of toxin 
+is possible from serum, stool samples, or gastric secretions. For advice regarding the 
+appropriate diagnostic specimens to obtain, contact state health authorities or CDC 
+(Foodborne and Diarrheal Diseases Branch, 404/639-2888). 
+b. Laboratory selection 
+Handling of clinical specimens should be coordinated with local and state health departments. 
+The FBI will coordinate collection of evidence and delivery of forensic specimens to FBI or 
+Department of Defense laboratories. 
+c. Transport requirements 
+Specimen packaging and transport must be coordinated with local and state health 
+departments, and the FBI. A chain of custody document should accompany the specimen 
+from the moment of collection. For specific instructions, contact the local and state health 
+department and the CDC Emergency Preparedness and Response office, 1-888-246-2675.  
+Identification of appropriate packaging materials and transport media will be coordinated by 
+the Laboratory.  
+6. Patient, Visitor, and Public Information 
+CDC Fact sheets for distribution have been prepared and are available from Infection Control. 
+The information includes the explanation that people exposed to botulinum toxin  are not 
+contagious. A clear description of symptoms including blurred vision, drooping eyelids, and 
+shortness of breath is included with instructions to report for evaluation and care if such 
+symptoms develop. 
+  
+  Infectious Disease / Biological Terror Event Policy - Appendix A. - 15 
+BOTULISM – QUICK REFERENCE 
+Any suspected case of botulism (Clostridium botulinum) MUST BE TREATED AS A PUBLIC 
+HEALTH EMERGENCY and reported to the Infection Control Practitioner (225) 765-8864 and 
+the Office of Public Health, (800) 256-2748.  
+Bioterrorism Epidemiology: 
+• Botulinum toxins are considered the most lethal substances known to man. 
+• Intentional exposure could occur through contaminated food or water or by bio-aerosol. 
+• Person to person transmission does NOT occur. 
+Incubation Period: 
+• 12 – 36 hours following exposure, but may be as long as several days, depending on the size of 
+the inoculum and route of exposure. 
+Clinical Disease: 
+• Foodborne: Acute bilateral cranial nerve impairment, blurred or double vision, ptosis, dysphagia, 
+dry mouth, slurred speech, afebrile, alert and oriented 
+• Cranial nerve palsies, dilated pupils (50%), urinary retention 
+• Symptoms may progress to a symmetrical flaccid paralysis in which sensation is completely 
+preserved and result in respiratory failure 
+• Inhalation: Symptoms would be like foodborne illness 
+Diagnosis: 
+• Presumptive - based on symptoms 
+• Tensilon test may be slightly positive 
+• Brain imaging (CT or MRI), lumbar puncture and edrophonium chloride tests normal 
+• Electromyography may show decreased amplitude of action potentials in involved muscle group 
+Treatment: (See overview) 
+• Botulism antitoxin – must be obtained through the local health department 
+• Most effective if administered early in disease 
+• Mechanical ventilation 
+Isolation: 
+Standard Precautions Infectious Disease / Biological Terror Event Policy - Appendix A. - 16 
+C. Plague 
+1. Description of Agent / Syndrome 
+a. Etiology 
+Plague is an acute bacterial disease caused by the gram -negative bacillus Yersinia pestis, 
+which is usually transmitted by infected fleas, resulting in lymphatic and blood infections 
+(bubonic and septicemia plague). A bioterrorism -related outbreak may be expected to be 
+airborne, causing a pulmonary variant, pneumonic plague.3,10 
+b. Clinical features  
+Clinical features of pneumonic plague include: 
+• Fever, cough, chest pain. 
+• Hemoptysis. 
+• Muco-purulent or watery sputum with gram-negative rods on gram stain. 
+• Radiographic evidence of bronchopneumonia.10 
+c. Modes of transmission 
+• Plague is normally transmitted from an infected rodent to man by infected fleas. 
+• Bioterrorism-related outbreaks are likely to be transmitted through dispersion of an 
+aerosol. 
+• Person-to-person transmission of pneumonic plague is possible via large aerosol 
+droplets.6 
+d. Incubation period  
+The incubation period for plague is normally 2 – 8 days if due to fleaborne transmission. The 
+incubation period may be shorter for pulmonary exposure (1-3 days).10 
+e. Period of communicability 
+Patients with pneumonic plague may have coughs productive of infectious particle droplets. 
+Droplet precautions, including the use of a mask for patient care, should be implemented until 
+the patient has completed 72 hours of antimicrobial therapy.3,6 
+2. Preventive Measures 
+a. Vaccine availability 
+Formalin-killed vaccine exists for bubonic plague but has not been proven to be effective for 
+pneumonic plague. It is not currently available in the United States. 
+b. Immunization recommendations 
+Routine vaccination requires multiple doses given over several weeks and is not 
+recommended for the general population.3 Post-exposure immunization has no utility. 
+3. Infection Control Practices for Patient Management  
+Symptomatic patients with suspected or confirmed plague should be managed according to current 
+guidelines. Recommendations for specific therapy are beyond the scope of this document. For up -to-
+date information and recommendations for therapy, contact the CDC Clinician Hotline (877) 554 -
+4625, or Louisiana Office of Public Health, (800) 256-2748.  
+a. Isolation precautions Infectious Disease / Biological Terror Event Policy - Appendix A. - 17 
+For pneumonic plague, Droplet Precautions should be used in addition to Standard 
+Precautions.  
+• Droplet Precautions are used for patients known or suspected to be infected with 
+microorganisms transmitted by large particle droplets, generally larger than 5  in size, 
+that can be generated by the infected patient during coughing, sneezing, talking, or during 
+respiratory-care procedures.  
+• Droplet Precautions require healthcare providers and others to wear a surgical -type mask 
+when within 3 feet of the infected  patient. Masks are required to be worn to enter the 
+room of a patient on Droplet Precautions. 
+• Droplet Precautions should be maintained until patient has completed 72 hours of 
+antimicrobial therapy. 
+b. Patient placement 
+Patients suspected or confirmed to have pneumonic plague require Droplet Precautions. 
+Patient placement recommendations for Droplet Precautions include: 
+• Placing infected patient in a private room.  
+• Cohort in symptomatic patients with similar symptoms and the same presumptive 
+diagnosis (i.e. pneumonic plague) when private rooms are not available. 
+• Maintaining spatial separation of at least 3 feet between infected patients and others when 
+cohorting is not achievable.  
+• Avoiding placement of patient requiring Droplet Precautions in the same room with an 
+immunocompromised patient. 
+• Special air handling is not necessary, and doors may remain open. 
+c. Patient transport 
+• Limit the movement and transport of patients on Droplet Precautions to essential medical 
+purposes only.  
+• Minimize dispersal of droplets by placing a surgical -type mask on the patient when 
+transport is necessary.5,6 
+d. Cleaning, disinfection, and sterilization of equipment and environment 
+Principles of Standard Precautions should be generally applied to the management of patient -
+care equipment and for environmental control (see Section I for more detail).5 
+e. Discharge management 
+Generally, patients with pneumonic plague would not be discharged until no longer infectious 
+(completion of 72 hours of antimicrobial therapy) and would require no special discharge 
+instructions. In the event of a large bioterrorism exposure with patients receiving care in their 
+homes, home care providers should be taught to use Standard and Droplet Precautions for all 
+patient care. 
+f. Post-mortem care 
+Standard Precautions and Droplet Precautions should be used for post-mortem care. 5 
+4. Post Exposure Management 
+a. Decontamination of patients / environment Infectious Disease / Biological Terror Event Policy - Appendix A. - 18 
+The risk for re-aerosolization of Y. pestis from the contaminated clothing of exposed persons 
+is low. In situations where there may have been gross exposure to Y. pestis, decontamination 
+of skin and potentially contaminated fomites (e.g. clothing or environmental surfaces) may be 
+considered to reduce the risk for cutaneous or bubonic forms of the disease. 3 The plan for 
+decontaminating patients may include: 
+• Instructing patients to remove contaminated clothing and storing in labeled, plastic bags. 
+• Handling clothing minimally to avoid agitation.  
+• Instructing to patients to shower thoroughly with soap and water (and aiding if 
+necessary). 
+• Instructing personnel regarding Standard Precautions and wearing appropriate barriers 
+(e.g. gloves, gown, face shield) when handling contaminated clothing or other 
+contaminated fomites. 
+• Performing environmental surface decontamination using an EPA -registered, -approved 
+sporicidal/germicidal agent or 0.5% hypochlorite solution ( one-part household bleach 
+added to nine parts water).5,6 
+b. Prophylaxis 
+• Recommendations for prophylaxis are subject to change. Up -to-date recommendations 
+should be obtained in consultation with local and state health departments and CDC.  
+• Post-exposure prophylaxis should be initiated following confirmed or suspected 
+bioterrorism Y. pestis exposure, and for post -exposure management of healthcare 
+workers and others who had unprotected face -to-face contact with symptomatic patients 
+(Table 3 and Table 4).  
+• Recommendations 1 for the treatment of patients with pneumonic plague in a contained 
+and mass casualty setting and for post-exposure prophylaxis.2 
+• Prophylaxis should continue for 7 days after last known or suspected Y. pestis exposure, 
+or until exposure has been excluded.10 
+• Employee Health/ Infection Control will assist in identifying and managing health care 
+workers exposed to infectious patients. In general, maintenance of accurate occupational 
+health records will facilitate identification, contact, assessment, and delivery of post -
+exposure care to potentially exposed healthcare workers3,11,12 
+c. Triage and management of large-scale exposures / potential exposures 
+• The masks in the Isolation Carts are appropriate for Droplet Precautions. These masks 
+can be obtained from Materials Management for large numbers of patients and staff. 
+Instruction and reiteration of requirements for Droplet Precautions (as opposed to 
+Airborne Precautions) will be necessary to promote compliance and minimize fear and 
+panic related to an aerosol exposure. 
+• Administration, Patient Care Services, and Pharmacy will identify: 
+• Sources of bulk prophylactic antibiotics and planning for acquisition on short notice. 
+• Locations, personnel needs and protocols for administering prophylactic post -
+exposure care to large numbers of potentially exposed individuals.  
+• Means for providing telephone follow -up information and other public 
+communications services. Infectious Disease / Biological Terror Event Policy - Appendix A. - 19 
+5. Laboratory Support and Confirmation 
+Laboratory confirmation of plague is by standard microbiologic culture, but slow growth and 
+misidentification in automated systems are likely to delay diagnosis. For decisions regarding 
+obtaining and processing diagnostic specimens, contact state laboratory authorities or CDC. 
+a. Diagnostic samples  
+Diagnostic samples to obtain include: 
+• Serum for capsular antigen testing. 
+• Blood cultures. 
+• Sputum or tracheal aspirates for Gram’s, Wayson’s, and fluorescent antibody 
+staining. 
+• Sputum or tracheal aspirates for culture. 
+b. Laboratory selection 
+Handling of clinical specimens should be coordinated with local and state health departments, 
+and undertaken in Bio -Safety Level (BSL) -2 or -3 laboratories. 3 The FBI will coordinate 
+collection of evidence and delivery of forensic specimens to FBI or Department of Defense 
+laboratories. 
+c. Transport requirements 
+Specimen packaging and transport must be coordinated with local and state health 
+departments, and the FBI. A chain of custody document should accompany the specimen 
+from the moment of collection. For specific instructions, contact the local and state health 
+department and the CDC Emergency Preparedness and Response office, 1 -888-246-2675.  
+Identification of appropriate packaging materials and transport media will be coordinated by 
+the Laboratory. 
+6. Patient, Visitor, and Public Information 
+CDC Fact sheets for distribution should be prepared and are available from Infection Control. The 
+information includes a clear description of Droplet Precautions, symptoms of plague, and instructions 
+to report for evaluation and care if such symptoms are recognized. The difference between 
+prophylactic antimicrobial therapy and treatment of an actual infection is clarified. Decontamination 
+by showering thoroughly with soap and water may be recommended. Infectious Disease / Biological Terror Event Policy - Appendix A. - 20 
+PLAGUE – QUICK REFERENCE 
+Any suspected case of plague (Yersinia pestis) MUST BE TREATED AS A PUBLIC HEALTH 
+EMERGENCY and reported to the infection control practitioner (225) 765-8864, and the Louisiana 
+Office of Public Health (800) 256-2748. 
+Bioterrorism Epidemiology: 
+• Pneumonic plague: most likely disease presentation if bacilli intentionally aerosolized. 
+• Bubonic plague: most likely disease presentation if infected fleas released. 
+Transmission: 
+• Person to person exposure to respiratory droplets (within 3 feet) 
+• Contact with infected animals 
+• Contact with infected, draining buboes 
+Incubation Period: 
+• Pneumonic: 1 – 3 days. 
+• Bubonic: 2 – 10 days. 
+Clinical Disease: 
+• Pneumonic: acute onset high fever, chills, headache, myalgias, malaise, cough (hemoptysis) 
+progressing rapidly to dyspnea, stridor, cyanosis, and death; gastrointestinal symptoms may be 
+present. 
+• Bubonic: high fever, malaise, painful lymph nodes common in groin 
+• Septicemic: 80% of persons with bubonic become septic; 5 – 15% develop pneumonia. 
+Diagnosis: 
+• Presumptive diagnosis: gram-negative coccobacilli with "safety-pin" bipolar staining on Gram, 
+Wright, Giemsa, or Wayson stain of blood, sputum, CSF, or lymph node aspirates (if present). 
+Treatment: (see overview) 
+• Early antibiotic treatment is critical to survival. 
+• Gentamicin, Doxycycline, or Ciprofloxacin 
+Prophylaxis: (see overview) 
+• Early antibiotic prophylaxis is critical to preventing disease. 
+• Doxycycline or Ciprofloxacin, 
+Isolation: 
+• Pneumonic: Standard and Droplet Precautions 
+• Bubonic: Standard and Contact Precautions. Droplet Precautions if bubonic progresses to 
+pneumonia. 
+Table 3: Plague – Antibiotic Therapy for Contained Casualty Settings 
+Contained casualty setting: assumes a limited number of persons seeking treatment. 
+Start IV therapy as soon as diagnosis is suspected Infectious Disease / Biological Terror Event Policy - Appendix A. - 21 
+Patient Category Recommended Therapy 
+Adults Preferred Therapy 
+*Gentamicin 5 mg/kg IM or IV 1 time daily or 
+*Gentamicin 2 mg/kg loading dose followed by 1.7 mg/kg IM or 
+IV 3 times daily 3 
+Alternative Choices 
+*Doxycycline 100 mg IV 2 times daily 
+*Ciprofloxacin 400 mg IV 2 times daily 4 
+Chloramphenicol 25 mg/kg IV 4 times daily 5 
+Children 6 Preferred Therapy 
+*Gentamicin 2.5 mg/kg IM or IV 3 times daily 3 
+Alternative Choices 
+*Doxycycline 
+= 45 kg give adult dose 
+< 45 kg give 2.2 mg/kg IV 2 times daily (Maximum 200 mg 
+daily) 
+*Ciprofloxacin 15 mg/kg 2 times daily 4 
+Chloramphenicol 15 mg/kg IV 4 times daily 5 
+Pregnant Women 7 Preferred Therapy 
+*Gentamicin 5mg/kg IM or IV 1 time daily or 
+*Gentamicin 2 mg/kg loading dose followed by 1.7 mg/kg IM or 
+IV 3 times daily 3 
+Alternative Choices 
+*Doxycycline 100 mg IV 2 times daily 
+*Ciprofloxacin 400 mg IV 2 times daily 4 
+Table 4: Plague – Antibiotic Therapy for Mass Casualty Settings and Post-exposure Prophylaxis 
+Mass Casualty Setting and Post-exposure Prophylaxis 8 
+Adults Preferred Choices 
+*Doxycycline 100 mg orally 2 times daily 9 
+*Ciprofloxacin 500 mg orally 2 times daily 4 
+Alternate Choice 
+Chloramphenicol 25 mg/kg orally 4 times daily 5 
+Children 6 Preferred Choices Infectious Disease / Biological Terror Event Policy - Appendix A. - 22 
+*Doxycycline 9 
+If = 45 kg give adult oral dose 
+If < 45 kg give 2.2 mg/kg orally 2 times daily 
+*Ciprofloxacin 20 mg/kg orally 2 times daily 4 
+Pregnant Women 7 Preferred Choices 
+*Ciprofloxacin 500 mg orally 2 times daily 4 
+*Doxycycline 100 mg orally 2 times daily 9 
+Alternate choice 
+Chloramphenicol 25 mg/kg 4 times daily 5 
+* Antibiotic supplied as part of the National Pharmaceutical Stockpile (NPS) 
+1. These recommendations are adapted from the consensus recommendations of the Working Group on 
+Civilian Biodefense and are not necessarily approved by the Food and Drug Administration. In non-
+bioterrorism response situations, routine treatment guidelines should be followed. Refer to the 
+original publication (Inglesby TV, Dennis DT, Henderson DA, et al. Plague as a Biological Weapon: 
+Medical and Public Health Management, JAMA. 2000;283: 2281-2289) for explanations and further 
+discussion. 
+2. One antimicrobial agent should be selected. Therapy with gentamicin or ciprofloxacin should be 
+continued for 10 days. Treatment with doxycycline or chloramphenicol should be continued for 14 –
+21 days. Persons beginning treatment with parenteral doxycycline, ciprofloxacin, or chloramphenicol 
+can be switched to oral antibiotics when clinically indicated. 
+3. Aminoglycosides must be adjusted according to renal function. Evidence suggests that gentamicin     
+5 mg/kg IM or IV one time daily would be efficacious in children, although this is not yet widely 
+accepted in clinical practice. Neonates up to 1 week of age and premature infants should receive 
+gentamicin 2.5 mg/kg 2 times daily. 
+4. Other fluoroquinolones can be substituted at doses appropriate for age. Ciprofloxacin dosage should 
+not exceed 1 g daily in children. 
+5. Concentration should be maintained between 5 and 20 ug/mL. Concentrations greater than 25 ug/mL 
+can cause reversible bone marrow suppression. Children younger than 2 years should not receive 
+chloramphenicol. 
+6. In children, ciprofloxacin does should not exceed 1 g daily, chloramphenicol should not exceed 4 g 
+daily. Children younger than 2 years should not received chloramphenicol. In neonates, gentamicin-
+loading dose of 4 mg/kg should be given initially. 
+7. Alternatives to breastfeeding may be required while the mother is taking certain antibiotics. Consult 
+specific antibiotic package insert for information on breastfeeding. 
+8. Duration of treatment for plague in mass casualty situations is 10 days. Duration of post-exposure 
+prophylaxis to prevent plague infection is 7 days. 
+9. Tetracycline may be substituted for doxycycline. 
+Reference: DHS -(California Department of Health Services) 10 -05-01 California Hospital 
+Bioterrorism Response Planning Guide. Infectious Disease / Biological Terror Event Policy - Appendix A. - 23 
+DROPLET PRECAUTIONS * 
+Pneumonic plague can be transmitted to healthcare workers when the infected patient coughs, sneezes, or 
+speaks. Transmission requires close contact (within 3 feet) between the infected patient and the healthcare 
+worker. In addition to Standard Precautions, Droplet Precautions should be followed for patients with 
+suspect or diagnosed pneumonic plague. 
+Patient Placement 
+Place the patient in a private room, if available. Patients with the same diagnosis or similar syndrome may 
+be cohorted (grouped) in semi-private rooms. When a private room or cohorting is not achievable, 
+spatially separate the infected patient three (3) or more feet away from a non-infected patient. Negative 
+pressure isolation rooms or HEPA filtration units are not required. The door to the patient’s room can 
+remain open. 
+Respiratory Protection 
+Wear a surgical mask over the nose and mouth when entering the patient’s room or within 3 feet of the 
+infected patient. 
+Transporting Patients 
+Transport infected patients only when necessary. Place a surgical mask over the patient’s nose and mouth, 
+if tolerated. If an elevator is used, all occupants should be masked. 
+Visitors 
+Limit visitors to immediate family members or significant others. Instruct visitors to wash their hands 
+before and after patient contact and to wear a surgical mask when within three feet of the infected patient. 
+ 
+AGENT SPECIFIC INFORMATION 
+A. Smallpox 
+1. Description of Agent / Syndrome 
+a. Etiology 
+Smallpox is an acute viral illness caused by the variola virus. 11 Smallpox is a bioterrorism 
+threat due to its potential to cause severe morbidity in a nonimmune population and because it 
+can be transmitted via the airborne route. 10 A single case is considered a public health 
+emergency. 
+b. Clinical features 
+Acute clinical symptoms of smallpox resemble other acute viral illnesses, such as influenza. 
+Skin lesions appear, quickly progressing from macules to papules to vesicles. Other clinical 
+symptoms to aid in identification of smallpox include: 
+• 2-4 day, non-specific prodrome of fever, myalgias. 
+• rash most prominent on face and extremities (including palms and soles) in contrast to 
+the truncal distribution of varicella (chickenpox). 
+• rash scabs over in 1-2 weeks.  
+• In contrast to the rash of varicella  (chickenpox), which arises in "crops,"  variola rash 
+has a synchronous onset.10 
+c. Mode of transmission Infectious Disease / Biological Terror Event Policy - Appendix A. - 24 
+Smallpox is transmitted via both large and small respiratory droplets. Patient -to-patient 
+transmission is likely from airborne and droplet exposure, and by contact with skin lesions or 
+secretions. Patients are considered more infectious if coughing or if they have a hemorrhagic 
+form of smallpox. 
+d. Incubation period  
+The incubation period for smallpox is 7-17 days; the average is 12 days. 
+e. Period of communicability 
+Unlike varicella, which is contagious before the rash is apparent, patients with smallpox 
+become infectious at the onset of the rash and remain infectious until their scabs separate 
+(approximately 3 weeks).6,10  
+2. 2. Preventive Measures 
+a. Vaccine availability 
+A live-virus intradermal vaccination is available for the prevention of smallpox.12 
+b. Immunization recommendations 
+Since the last naturally acquired case of smallpox in the world occurred more than 20 years 
+ago, routine public vaccination has not been recommended. 3 Vaccination against smallpox 
+does not reliably confer lifelong immunity. Even previously vaccinated persons should 
+be considered susceptible to smallpox.  
+3. Infection Control Practices for Patient Management  
+Symptomatic patients with suspected or confirmed smallpox should be managed according to current 
+guidelines. Recommendations for specific therapy are beyond the scope of this document. For up -to-
+date information and recommendations for therapy, contact the CDC Clinician Hotline (877) 554-
+4625 or Louisiana Office of Public Health (800) 256-2748.  
+a. Isolation precautions 
+For patients with suspected or confirmed smallpox, both Airborne and Contact Precautions 
+should be used in addition to Standard Precautions.  
+• Airborne Precautions are used for patients known or suspected to be infected with 
+microorganisms transmitted by airborne droplet nuclei (small particle residue, 5  or 
+smaller in size) of evaporated droplets containing microorganisms that can  remain 
+suspended in air and can be widely dispersed by air currents. 
+• Airborne Precautions require healthcare providers and others to wear respiratory 
+protection when entering the patient room. (Appropriate respiratory protection must meet 
+the minimal NIOSH standard for particulate respirators, N95).5,15 
+• Contact Precautions are used for patients known or suspected to be infected or colonized 
+with epidemiologically important organisms that can be transmitted by direct contact 
+with the patient or indirect contact with potentially contaminated surfaces in the patient’s 
+care area. 
+• Contact Precautions require healthcare providers and others to: 
+• Wear clean gloves upon entry into patient room.  
+• Wear gown for all patient contact and for all contact with the patient’s 
+environment. Gown must be removed before leaving the patient’s room. Infectious Disease / Biological Terror Event Policy - Appendix A. - 25 
+• Wash hands using an antimicrobial agent. 
+b. Patient placement 
+Patients suspected or confirmed with smallpox require placement in rooms that meet the 
+ventilation and engineering requirements for Airborne Precautions, use the negative air 
+Isolation Rooms, which include: 
+• Monitored negative air pressure in relation to the corridor and surrounding areas. 
+• 6 – 12 air exchanges per hour. 
+• Appropriate discharge of air to the outdoors or monitored high efficiency filtration of air 
+prior to circulation to other areas. 
+• The door that must remain closed. 
+• Patient placement in a private room is preferred. However, in the event of a large 
+outbreak, patients who have active infections with the same disease (i.e., smallpox) may 
+be cohorted in rooms that meet appropriate ventilation and airflow requirements for 
+Airborne Precautions.5,6 
+c. Patient transport 
+• Limit the movement and transport of patients with suspected or confirmed smallpox to 
+essential medical purposes only.  
+• When transport is necessary, minimize the dispersal of respiratory droplets by placing a 
+mask on the patient, if possible5 
+d. Cleaning, disinfection, and sterilization of equipment and environment 
+A component of Contact Precautions is careful management of potentially contaminated 
+equipment and environmental surfaces.  
+• When possible, non-critical patient care equipment should be dedicated to a single patient 
+(or cohort of patients with the same illness). 
+• If use of common items is unavoidable, all potentially contaminated, reusable equipment 
+should not be used for the care of another patient until it has been appropriately cleaned 
+and reprocessed. Policies should be in place and monitored for compliance. 5 
+e. Discharge management 
+In general, patients with smallpox will not be discharged until determined they are no longer 
+infectious. Therefore, no special discharge instructions are required.  
+f. Post-mortem care 
+Airborne and Contact Precautions should be used for post-mortem care.5 
+4. Post Exposure Management 
+a. Decontamination of patients / environment 
+• Patient decontamination after exposure to smallpox is not indicated. 
+• Items potentially contaminated by infectious lesions should be handled using Contact 
+Precautions.6 
+b. Prophylaxis and post-exposure immunization 
+Recommendations for prophylaxis are subject to change. Up-to-date recommendations should Infectious Disease / Biological Terror Event Policy - Appendix A. - 26 
+be obtained in consultation with local and state health departments and CDC.  
+Post-exposure immunization with smallpox vaccine (vaccinia virus) is available and 
+effective. Vaccination alone is recommended if given within 3 days of exposure. Passive 
+immunization is also available in the form of vaccinia immune -globulin (VIG) (0.6ml/kg 
+IM). If greater than 3 days has elapsed since exposure, both vaccination and VIG are 
+recommended. 12 VIG is maintained at USAMRIID, 301/619-2833.10 11   
+Vaccination is generally contraindicated in pregnant women, and persons with 
+immunosuppression, HIV–infection, and eczema, who are at risk for disseminated vaccinia 
+disease. However, the risk of smallpox vaccination should be weighed against the likelihood 
+for developing smallpox following a known exposure. VIG should be given concomitantly 
+with vaccination in these patients. 11 
+Following prophylactic care, exposed individuals should be instructed to monitor themselves 
+for development of flu -like symptoms or rash during the incubation period (i.e., for 7 to 17 
+days after exposure) and immediately report to designated care sites selected to minimize the 
+risk of exposure to others. 
+Employee Health/ Infection Control will assist in identifying and managing health care 
+workers exposed to infectious patients. In general, maintenance of accurate occupational 
+health records will facilitate identification, contact, assessment, and delivery of post-exposure 
+care to potentially exposed healthcare workers. 
+c. Triage and management of large-scale exposures / potential exposures 
+Infection Control and Administration in cooperation with Plant Services staff will coordinate 
+and identify sites to provide necessary parameters for Airborne Precautions.  
+Laboratory Support and Confirmation 
+a. Diagnostic samples to obtain 
+For decisions regarding obtaining and processing diagnostic specimens, contact state 
+laboratory authorities or CDC. 
+b. Laboratory selection 
+Handling of clinical specimens must be coordinated with state health departments, CDC, and 
+USAMRIID. Testing can be performed only in BSL - 4 laboratories.11 The FBI will 
+coordinate collection of evidence and delivery of forensic specimens to FBI or Department of 
+Defense laboratories. 
+c. Transport requirements 
+Specimen packaging and transport must be coordinated with local and state health 
+departments, and the FBI. A chain of custody document should accompany the specimen 
+from the moment of collection. For specific instructions, contact the local and state health 
+department and the CDC Emergency Preparedness and Response office, 1-888-246-2675.  
+Identification of appropriate packaging materials and transport media will be coordinated by 
+Laboratory. 
+5. Patient, Visitor, and Public Information 
+CDC Fact sheets for distribution should be prepared, and are available from Infection Control. 
+The information includes a clear description of symptoms and where to report for evaluation and 
+care if such symptoms are recognized. Details about the type and duration of isolation are 
+included. Vaccination information that details who should receive the vaccine and possible side Infectious Disease / Biological Terror Event Policy - Appendix A. - 27 
+effects are also included. Extreme measures such as burning or boiling potentially exposed 
+materials are discouraged. 
+  Infectious Disease / Biological Terror Event Policy - Appendix A. - 28 
+SMALLPOX – QUICK REFERENCE 
+Any suspected or confirmed case of smallpox MUST BE TREATED AS A PUBLIC HEALTH 
+EMERGENCY and reported to the Infection Control Practitioner (225) 765-8864 and the 
+Louisiana Office of Public Health (800) 256-2748. 
+Bioterrorism Epidemiology: 
+• Transmission: highly contagious; person-to-person contact with respiratory secretions; coughing 
+patients most contagious; contact with lesions and fomites (clothes and bed linens). 
+• Persons vaccinated prior to 1972 DO NOT have immunity. Persons vaccinated multiple times 
+(military prior to 1990 and foreign travelers prior to 1972) may have some residual immunity. 
+Incubation Period: 
+• Average 12 – 14 days; range 7-17 days. 
+Clinical Disease: 
+• Acute onset of malaise, rigors, vomiting, headache, backache, possible delirium; high fever (up to 
+40.5 C) at or just prior to onset of rash, maculopapular rash predominate on face and mucous 
+membranes of mouth, pharynx migrating to forearms, legs, palms and soles then to trunk. 
+Diagnosis: 
+• Presumptive diagnosis based on signs and symptoms. 
+Differential Diagnosis: 
+• Chicken pox, allergic contact dermatitis, erythema multiforme with bullae, secondary syphilis, 
+atypical measles (Chickenpox eruptions are more numerous on trunk than on face and 
+extremities. Lesions occur in crops in different stages of development and are superficial with 
+rare scar formation). 
+Treatment: 
+• Provide supportive care, pain and fever control, sedation for delirium; maintain hydration; 
+antibiotics for secondary infection. 
+Prophylaxis: 
+• See Smallpox Vaccination Recommendations 
+Isolation: 
+• Special Isolation: See Smallpox Isolation Recommendations. 
+  
+SMALLPOX – RECOMMENDATIONS FOR ISOLATION 
+Introduction 
+Recommendations for smallpox isolation were developed to assist infection control practitioners (ICP) in 
+California in developing a rational approach to reducing the risk of transmission of a highly contagious 
+virus. Because of the small particle size, smallpox virus can be easily be dispersed by air currents or on 
+dust particles over long distances and may be inhaled by many susceptible hosts within a short period of 
+time. In addition to airborne transmission, smallpox can be transmitted by contact with draining skin 
+lesions and by contact with surfaces and articles such and clothing and bed linens soiled or contaminated 
+with the virus. In contrast, microorganisms that require Droplet Precautions such as pneumonic plague are 
+quite large and do not travel more than three (3) feet from the infected patient and, therefore, are unlikely Infectious Disease / Biological Terror Event Policy - Appendix A. - 29 
+to be dispersed throughout the hospital. 
+There is some controversy about how long a facility should maintain isolation after a smallpox 
+bioterrorist event. Some authorities recommend that isolation should be maintained until all healthcare 
+workers in the facility have been vaccinated. However, if a bioterrorism event were to take place and if 
+multiple outbreaks were to occur throughout the United States there may not be sufficient vaccine to meet 
+the demand. Additionally, if the vaccine is not administered within 3 – 4 days after the first date of 
+exposure, it may not prevent the infection from occurring. Therefore, the current recommendation is to 
+maintain isolation until the local health officer declares that smallpox is no longer a threat to HCW or the 
+public. 
+OSHA Bloodborne Pathogens Standard 
+Healthcare workers should follow facility specific procedures related to reducing the risk of occupational 
+exposure to blood and other potentially infectious materials as required by the California Occupational 
+Safety and Health Administration’s (CAL-OSHA) Bloodborne Pathogens Standard. 
+Training 
+Healthcare workers who will be expected to provide direct and indirect patient care should be specifically 
+trained in methods to reduce the risk of exposure to patients infected with smallpox. 
+Isolation Recommendations 
+Room Placement 
+Although patients with smallpox should be isolated in negative pressure rooms with adjoining anterooms 
+these facilities may be limited or, in some hospitals, non-existent. Several options for isolating patients 
+with smallpox are presented. Plan A or B is the best approach when only a limited number of cases are 
+anticipated. If the outbreak escalates, plan C or D may have to be implemented to accommodate 
+increasing numbers of patients. 
+Plan A: - Negative Pressure Isolation Room 
+Place the patient in a private room that has (1) monitored negative air pressure in relation to the exterior 
+surrounding areas, (2) 6 -12 air changes per hour (ACH), and (3) appropriate venting of contaminated air 
+to the outside. If 6 – 12 ACH cannot be achieved, place a HEPA filtration unit in the room. The windows 
+and doors should remain closed and the patient should remain in their room. 
+Plan B: – No Negative Pressure Room 
+If no negative pressure room is available, place the patient in a private room. The room should be 
+equipped with a HEPA filtration unit. The windows and doors should remain closed and the patient 
+should remain in their room. 
+Plan C: – Designated Nursing Unit 
+As the number of smallpox patients requiring hospitalization and isolation increases, consider designating 
+a wing of a nursing unit or, preferentially, an entire nursing unit. If appropriate ventilation cannot be 
+achieved, it may be necessary to create a barrier between the designated nursing unit (wing) and other 
+areas of the hospital. Infection control practitioners should develop a plan consistent with the structure of 
+the hospital and the ability to effectively isolate infected patients from non-infected patients. These 
+barriers may include, but are not limited to, sealing off the existing ventilation system to prevent 
+contaminated air from recirculating to other areas of the hospital, closing all windows and doors, 
+including fire doors, and limiting access to the unit to trained personnel. 
+Plan D: – Designated Health Facility 
+The county or state emergency medical services agency may designate a specific facility such as a closed  Infectious Disease / Biological Terror Event Policy - Appendix A. - 30 
+ 
+ 
+Visitors 
+Visitors should be limited to immediate family or significant others. Unvaccinated visitors should be 
+encouraged to remain at home until vaccinated. If this is not an option, visitors should be instructed to 
+wear PPE. 
+Personal Protective Equipment (PPE) 
+The physical properties of PPE should be appropriate to the degree of exposure and the task(s) to be 
+performed by HCW. Facility infection control committees should evaluate existing PPE to determine if 
+the physical properties maximize HCW protection.  
+Respirators 
+Disposable N-95 respirators that filter particles to 0.02 microns should be worn when entering the room 
+and removed after leaving the room. If patients cannot be placed in negative pressure or HEPA filtered 
+rooms, HCW should always wear N-95 respirators when entering a designated smallpox unit. The 
+respirator should be changed when moist or more frequently as necessary. 
+Facial Shields or Eye Protectors 
+Face shields or eye protectors with side shields should be worn when entering the room. 
+Gowns 
+Disposable, long sleeve, ribbed, or elastic-cuffed gowns or coveralls should be worn when entering the 
+room and when contact with contaminated articles or surfaces is anticipated. The gown should be 
+removed before leaving the patient’s room. After removal, clothing should not have contact with the 
+patient or potentially contaminated surfaces or equipment. 
+Gloves 
+Disposable gloves should be worn when entering the room and when contact with skin, mucous 
+membranes, skin lesions, blood, and other body fluids is anticipated. Gloves should cover the rib or 
+elastic cuffs of the gown. All jewelry including rings should be removed. Gloves should be removed prior 
+to leaving the room and hands should be washed immediately. 
+Handwashing 
+Hands should be washed with an antimicrobial hand hygiene product. Sink faucets should be foot or 
+sensor-operated or should be turned off with a paper towel. Alcohol foams and gels should not be 
+substituted for handwashing when sinks are immediately accessible. 
+Transporting Patients 
+Patients infected with smallpox should not leave their room. If patients must be transported, place a 
+surgical mask over patient’s nose and mouth, if tolerated. Place a sheet or blanket over the patient 
+completely covering the body from the neck to and including the feet. Cover the head and face (except the 
+nose and mouth) with a towel. If an elevator is used to transport patients, all occupants should wear PPE 
+including N-95 respirators. Only essential HCW should remain in the procedure room with the patient. 
+Laboratory Specimens 
+Specimens should be placed in a plastic, zip-lock bag that are tightly sealed and properly labeled. 
+Patient Care Equipment 
+Patient care equipment (e.g., thermometers, blood pressure cuffs, stethoscopes and commodes) should be Infectious Disease / Biological Terror Event Policy - Appendix A. - 31 
+kept in the patient’s room. Use disposable equipment whenever possible. Reusable equipment should be 
+placed in an appropriately labeled container, sealed and transported to central service for reprocessing. 
+Environmental Services 
+Daily Cleaning 
+Disinfect environmental surfaces in the patient’s room and bathroom with a properly diluted, 
+Environmental Protection Agency (EPA) approved disinfectant such as a quaternary ammonium 
+compound or a phenolic. Allow all surfaces to air dry. The disinfecting solution and a supply of other 
+cleaning materials should be kept in the patient’s room. Privacy curtains should be changed when visibly 
+soiled. Floors should be cleaned using a single-bucket procedure of wet mopping. The contents of the 
+bucket should be emptied into the toilet. After each use, the mop head should be removed and disposed in 
+the linen hamper. Disposable mop heads and cleaning cloths should be used, if available. The bucket and 
+the mop handle should remain in the patient’s bathroom.  
+Terminal Cleaning 
+Terminal cleaning should be performed using similar procedures described for daily cleaning. If the room 
+is under negative pressure or is HEPA filtered and there are at least 6 - 12 ACH, allow the room to air for 
+at least 2 - 12 hours (depending on the number of ACH) before admitting a non-infected patient to the 
+room. 
+Soiled Linen 
+Soiled linen should be placed in leak proof bags. Viral aerosols may be created during the initial bagging 
+process therefore it is essential that bags be carefully sealed to reduce expulsion of air into the 
+environment. When removed from the room, the bag should be placed in a second leak proof bag and 
+clearly identified as "isolation" or "contaminated". The bag should be carefully secured and removed from 
+the nursing unit in covered carts to a designated holding area. Chutes should not be used. 
+Facility Operated Laundry 
+Soiled linen should be autoclaved prior to transport to the laundry facility. If the linen is not autoclaved, 
+facility laundry workers should wear PPE including N-95 respirators. 
+Commercial Service 
+Infection control practitioners should consult with the commercial laundry service to determine special 
+requirements, if any, for labeling, transporting and processing soiled linen. As an alternative, linen should 
+be autoclaved prior to transport to a commercial laundry service. 
+ Patient’s Clothing 
+Place patient’s clothing in a labeled, leak proof bag, and send to central service for autoclaving. 
+Autoclaved clothing may then be sent home with the patient’s family or washed, if necessary, according 
+to facility policy. 
+Biohazardous Waste 
+Waste receptacles should be lined with red biohazard bags. Viral aerosols may be created during the 
+initial bagging process; therefore, it is essential that the bag be carefully sealed to reduce expulsion of air. 
+When removed from the room, biohazardous waste should be placed in a second red bag and secured. 
+Biohazardous waste should be removed in a covered cart to a designated biohazardous-waste holding 
+area. Infection control practitioners should consult with the contracted waste hauler service for special 
+instructions, if any, on transporting biohazardous waste. As an alternative, biohazardous waste can be 
+autoclaved. 
+Deceased Patient Infectious Disease / Biological Terror Event Policy - Appendix A. - 32 
+Place the deceased patient in a leak-proof body bag and transfer to the facility morgue. The body should 
+not be embalmed. If an autopsy is requested, the Louisiana Department of Health Services should be 
+notified. 
+  
+ 
+ 
+SMALLPOX – SPECIMEN COLLECTION 
+Contact the Department of Health Services, Viral and Rickettsial Disease Laboratory Branch (510-307-
+8611; fax 510- 307- 8599) prior to shipping any Biosafety Level IV specimens. 
+Safety recommendations 
+• Wear personal protective equipment 
+• Use safety blood-collection equipment 
+• Do not use glass vials or tubes 
+• Dispose of needles, scalpel blades, and other sharp objects in sharps disposal container 
+• Deposit waste in biohazard red bag 
+• Seal all specimens with Parafilm 
+• Transport all specimens in a double, sealed, plastic zip-lock bags 
+Pustule/vesicle specimen collection 
+• Open the top of a vesicle or pustule with a scalpel. 
+• Express fluid from the vesicle or pustule onto a clean microscope slide and allow to air dry. Place 
+the slide into a dry, plastic slide holder and seal. 
+• Alternately, swab the base of the vesicle or pustule with a dry swab. Place the swab into a plastic, 
+capped container. 
+• Obtain at least three (3) slides or swabs. Label each slide or swab. 
+• Do not place the slides from more than one patient in the same container. 
+Scabs specimen collection 
+• Remove scab with the blunt edge of a scalpel blade. 
+• Deposit at least 12 scab specimens in a clean, dry, plastic tube containing no preservative and 
+label. 
+Blood specimens 
+• Place 10 cc of blood into a labeled, red or marble-topped tube. 
+• Allow blood to clot then separate serum from the clot. 
+• Remove serum from collection tube and pour into a plastic, clean, screw-topped vial. 
+• If a plastic serum separator tube is used, serum may be left in the tube. 
+Label 
+Label the specimen container with the patient’s name, medical record number, date and time specimen 
+was collected, physician’s name and telephone number. Infectious Disease / Biological Terror Event Policy - Appendix A. - 33 
+  
+SMALLPOX – VACCINATION INFORMATION 
+The risk of smallpox occurring as a deliberate bio-aerosol release is considered low. Therefore, pre-
+exposure vaccination is not recommended for any group other than laboratory or medical personnel 
+working directly with the variola virus (research laboratory personnel). 
+ 
+Vaccine effectiveness 
+Smallpox vaccine can prevent or decrease the severity of clinical disease if administered before the 
+outbreak or within 3 – 4 days after first exposure date. The effectiveness of the vaccine in preventing 
+disease if given more than 7 days after the first exposure date is not known. 
+Target populations 
+Healthcare workers and persons who have unprotected face-to-face contact (within 6.5 feet) with a 
+confirmed smallpox case will probably be the first to receive the vaccine.  
+These groups include: 
+• Persons exposed at the initial release site. 
+• Persons who have face to face, household or close proximity (6.5 feet or 2 meters) contact with a 
+confirmed or suspect case at any time from the onset of the infected person’s fever and until all 
+the scabs have separated from the skin; 
+• Laboratory personnel involved in the collection and processing of clinical specimens; and 
+• Other persons at risk such as emergency medical services and law enforcement personnel. 
+Expanded vaccination programs will depend on the extent of an outbreak and the availability of vaccine. 
+Previous vaccination 
+Persons vaccinated one time prior to 1972 have no residual immunity. Persons who have had multiple (2 
+or more) vaccinations (military, foreign travelers) may have some residual immunity however this is 
+unknown. 
+Vaccine contraindications 
+The risk of vaccination should be weighed against the likelihood of acquiring smallpox. Unless 
+concurrently assessed by a physician, vaccination should not be administered to exposed persons or their 
+household contacts if there is a history of any of the following conditions: 
+• Current history of eczema, impetigo, atopic dermatitis, contact dermatitis, varicella zoster, or 
+other skin conditions 
+• Pregnancy (all trimesters) 
+• Persons with immunodeficient conditions such as current treatment for cancer (chemo/radiation 
+therapy), receiving large doses of corticosteroids; or altered immune systems such 
+agammaglobulinemia 
+• HIV infection or AIDS 
+• Allergies to polymixin B, streptomycin, tetracycline, neomycin 
+Vaccine Administration 
+The vaccine is administered using a special needle and multiple-skin punctures. The skin is punctured 15 Infectious Disease / Biological Terror Event Policy - Appendix A. - 34 
+times and a small amount of blood will be seen at the puncture site. 
+Vaccine Response 
+The vaccination is successful if the puncture site has a visible pimple with an area of redness surrounding 
+the pimple within 2 – 5 days after vaccination. The pimple will become bigger over the next several days 
+and eventually a dark colored scab will form. 
+Major or Primary (first) Vaccine Response 
+• Days 2 - 5: A red papule (pimple) is visible at the vaccination site; the papule progresses to a 
+fluid-filled vesicle then to a pustule over the next few days. 
+• Days 8 -10: The pustule reaches maximum size and contains turbid (cloudy) fluid (pus) 
+surrounded by a red area. The red area may get bigger over the next 3 days. 
+• Days 14 –21: The pustule dries, forms a scab, and eventually falls off. 
+Previously Vaccinated Response 
+• Revaccination is considered successful if a pustular lesion is present or an area of definite 
+induration or congestion surrounding the scab is visible upon examination 6-8 days after 
+revaccination. If the response peaks at 48 hours (hypersensitivity reaction), the person should be 
+re-vaccinated. 
+Equivocal Reaction 
+• Equivocal reaction, including accelerated, modified, vacciniform, immediate, early or immune 
+reactions are defined as all responses other than major reactions. If an equivocal reaction is 
+observed, vaccination procedures should be checked and the vaccination repeated using vaccine 
+from a different vial or from a different lot, if available. Difficulty in determining if the reaction 
+were blunted could be caused by immunity, insufficient potent vaccine, or vaccination technique 
+failure. If the repeat vaccination by using vaccine from a different vial or lot fails to elicit a major 
+reaction, providers should consult with the local health officer before attempting another 
+vaccination. 
+Vaccination site care 
+Complications associated with smallpox vaccination can be reduced when careful site care is practiced 
+from the time vaccination is administered until the scab falls off the vaccination site. 
+• Wash hands with soap and water before and after any contact with the vaccination site (e.g. 
+dressing change, accidental scratching) or contact with any fluid or pus that might seep through 
+the dressing. Do not touch the vaccination site (fluid or pus) with items such as cloth towels that 
+may be used by another household member. 
+• Always cover the vaccination site loosely with a gauze dressing. Secure the gauze loosely with 
+tape. Occlusive dressings should not be used routinely because it may cause maceration at the 
+vaccination site. 
+• Soiled dressings should be sealed in a plastic bag before disposal. If the scab has fallen off the 
+skin, the scab should also be sealed in a plastic bag. 
+• Always keep the vaccination site dry. When bathing, place a gauze dressing over the vaccination 
+site and then cover the site with a watertight dressing. To make a watertight dressing, cut a piece 
+of plastic [Saran (R)] wrap large enough to extend 2 -3 inches beyond the vesicle. Place the wrap 
+over the gauze and secure with tape. Remove the plastic wrap after bathing and apply a clean, 
+dry, gauze dressing, if necessary. Infectious Disease / Biological Terror Event Policy - Appendix A. - 35 
+• Clothes that become soiled with fluid or pus from the drainage site should be removed and 
+washed in hot water and bleach. 
+• Report all vaccination complications to a health care worker (nurse or physician). 
+• Monitor your temperature daily. If a fever occurs, take Tylenol (R) as directed on the package 
+label. 
+Vaccinated Health Care Workers 
+Consult with Infection Control to determine if newly vaccinated health care workers may continue to 
+have patient contact.  Because side effects from the vaccine vary among individuals, each health care 
+worker will be evaluated on a case by case basis.  If allowed to work, the vaccination site must always be 
+covered with a water-tight seal. Cover the vaccination site with a gauze dressing reinforced with a semi-
+permeable dressing such as Opsite (R) or Tegaderm (R) during the work shift. Remove the semi-
+permeable dressing at the end of the work shift. Practice meticulous handwashing before contact with all 
+patients. Hands should be thoroughly washed after contact with fluid or pus that may accumulate under 
+the semi-permeable dressing. 
+Complications: 
+• Fever 
+Low-grade (100F–102F) fever and enlarged lymph nodes; occurs most commonly in children. 
+• Autoinoculation 
+Vaccinia virus is transferred from the site of vaccination by contaminated hands or articles such as 
+clothes, sheets or towels. The most common sites involve the face, eyelid, nose, mouth genitalia and 
+rectum. 
+• Encephalitis 
+Occurs 8-15 days after the vaccination; symptoms include fever, headache, vomiting, drowsiness, 
+spastic paralysis, coma, and convulsions. 
+• Progressive vaccinia 
+Pustules fail to heal and spreads to surrounding tissue that becomes black and necrotic. 
+• Eczema vaccinatum 
+Lesions spread to areas of skin afflicted by eczema or other chronic or exfoliative skin conditions; 
+symptoms may be mild to severe but may be fatal. 
+• Generalized vaccinia 
+Lesions spread to cover part or all the body 6-9 days after vaccination. 
+  
+Sample Smallpox Vaccination Consent Form 
+I, _______________________________ (print name) have read the Smallpox Vaccination Information 
+provided to me. I understand that there is a risk that complications may occur because of receiving the 
+smallpox vaccination. 
+I have had the opportunity to read and I understand the instructions for caring for the vaccination 
+site. I understand that complications that may be associated with vaccination. I have had the 
+opportunity to ask questions related to smallpox vaccination and have had my questions answered 
+to my satisfaction. Infectious Disease / Biological Terror Event Policy - Appendix A. - 36 
+By my signature below, I accept the smallpox vaccination. 
+Patient (Parent or Guardian) Signature:       Date: 
+______________________________________________________________________________ 
+Lot Number: ___________________________ Expiration Date: _______________________ 
+Distribution center location: _____________________________________________________ 
+Date: ____/____/____ 
+Name title of person administering vaccination: ____________________________________ 
+  
+  
+Instructions for Administering Smallpox Vaccine 
+Vaccine Storage 
+Smallpox (vaccinia) vaccine should be stored at 20 degrees C until reconstituted. 
+Supplies 
+• Vaccination Informed Consent 
+• Vaccination Consent 
+• Gloves 
+• Alcohol wipes 
+• Alcohol foam or gel (handwashing) 
+• Vaccinia vaccine 
+• Bifurcated needle (sterile) 
+• Gauze pads 
+• Tape (non-allergic) 
+• Waste receptacle lined with a red bag and syringe disposal container 
+Administrative Requirements 
+• Distribute smallpox vaccination information and smallpox vaccination consent. 
+• Collect signed consent and answer questions about vaccine administration. 
+• Document date vaccination given, lot number, expiration date, and person administering vaccine. 
+Administration of Vaccine 
+• Reconstitute vaccine ampules as needed, do not reconstitute ahead of time. 
+• Wear gloves on both hands; change gloves after vaccinating each person. 
+• Vaccination site may be washed with soap and water and dried.  Do not use alcohol.  The 
+vaccine is inactivated by alcohol. 
+• Insert bifurcated needle into the reconstituted vaccine ampule and carefully withdraw the needle. 
+A droplet of vaccine will be visible between the two prongs of the needle. 
+• Hold the needle at a right angle (perpendicular) to the skin over the deltoid muscle (vaccinators Infectious Disease / Biological Terror Event Policy - Appendix A. - 37 
+wrist should rest against the patient’s arm). 
+• Administer 15 rapid needle strokes in a 5-mm diameter area of the skin over the deltoid muscle 
+vigorously enough to draw a trace of blood at the vaccination site. 
+• Wipe excess vaccine from the vaccination site with dry gauze. 
+• Cover the site with a dry gauze (non-occlusive) dressing. 
+• Remove gloves and wash hands. 
+• Discard gauze and gloves in the biohazardous waste receptacle. 
+• Discard bifurcated needle and empty vaccine ampules in syringe disposal container. 
+  Infectious Disease / Biological Terror Event Policy - Appendix A. - 38 
+TULAREMIA – QUICK REFERENCE 
+Any suspected or confirmed case of tularemia (Francisella tularensis) MUST BE TREATED AS A 
+PUBLIC HEALTH EMERGENCY and reported to the Infection Control Practitioner, (225)765-
+8864, and the Louisiana Office of Public Health, (800) 256-2748. 
+Bioterrorism Epidemiology: 
+• Exposure to 10 – 50 organisms can result in clinical disease. 
+• Pneumonic tularemia is NOT transmitted from person to person. 
+• Laboratory personnel are at high risk for infection. 
+Incubation Period: 
+• Average 3 to 5 days (range 1 to 21 days). 
+Clinical Disease: (Six classic forms of tularemia that may overlap) 
+• Pneumonic (most likely presentation): abrupt onset of fever, chills, headache, malaise, anorexia, 
+cough (little or no sputum production), myalgias, pleuritic chest pain, substernal tightness, and 
+rarely hemoptysis. Pneumonia may be primary or secondary to bacteremic dissemination from 
+other tularemia syndromes. 
+• Systemic: fever, chills, myalgias, sore throat, nausea, anorexia, vomiting, abdominal pain, and 
+loose or watery diarrhea. 
+• Oropharyngeal, ulceroglandular, oculoglandular or glandular – (See tularemia overview). 
+Diagnosis: 
+• Laboratory: elevated WBC, lactic acid dehydrogenase, serum transaminase, alkaline phosphatase, 
+and possibly serum creatine kinase and urinary myoglobin levels. Pleural fluid generally 
+exudative with >1000 leukocytes/mm 3. 
+• Radiology: Chest x-ray may show infiltrates without symptoms; subsegmental/lobar infiltrates, 
+hilar adenopathy, pleural effusion, granulomas, or miliary infiltrates (may mimic tuberculosis). 
+Treatment: (See overview) 
+• Gentamicin, Ciprofloxacin, or Doxycycline 
+Prophylaxis: (See overview) 
+• Doxycycline (may substitute tetracycline) or Ciprofloxacin 
+Isolation: 
+• Standard Precautions 
+Recommendations 1 for the treatment of patients with tularemia in contained and mass casualty settings 
+and for post-exposure prophylaxis 2 are as follows: 
+ 
+ 
+ 
+ 
+ 
+ Infectious Disease / Biological Terror Event Policy - Appendix A. - 39 
+ 
+Table 5: Tularemia – Antibiotic Therapy for Contained Casualty Settings 
+Contained Casualty Setting: assumes a limited number of persons seeking treatment. 
+Start IV antibiotic therapy as soon as diagnosis is suspected. 
+Patient Category  Recommended Therapy 
+Adults Preferred Therapy 
+*Gentamicin 5 mg/kg IM or IV 1 time daily 3 or 
+*Gentamicin 2 mg/kg loading dose followed by 1.7 mg/kg IM or 
+IV 3 times daily 3 
+Alternative Choices 
+*Doxycycline 100 mg IV 2 times daily 
+*Ciprofloxacin 400 mg IV 2 times daily 4 
+Chloramphenicol 25 mg/kg IV 4 times daily 5 
+Children 6 Preferred Therapy 
+*Gentamicin 2.5 mg/kg IM or IV 3 times daily 3 
+Alternative Choices 
+*Doxycycline = 45 kg give adult dose 
+< 45 kg give 2.2 mg/kg IV 2 times daily 
+*Ciprofloxacin 15 mg/kg 2 times daily 4 
+Chloramphenicol 15 mg/kg IV 4 times daily 5 
+Pregnant Women 7 Preferred Therapy 
+*Gentamicin 5mg/kg IM or IV 1 time daily 3 or 
+*Gentamicin 2 mg/kg loading dose followed by 1.7 mg/kg IM or 
+IV 3 times daily 3 
+Alternative Choices 
+*Doxycycline 100 mg IV 2 times daily 
+*Ciprofloxacin 400 mg IV 2 times daily 5 
+*Antibiotic supplied as part of the National Pharmaceutical Stockpile (NPS) 
+  
+Table 6: Tularemia – Antibiotic Therapy for Mass Casualty Settings and Post-exposure 
+Prophylaxis 
+Mass Casualty Setting and Post-exposure Prophylaxis 8 
+Adults Preferred Choices Infectious Disease / Biological Terror Event Policy - Appendix A. - 40 
+*Doxycycline 100 mg orally 2 times daily 9 
+*Ciprofloxacin 500 mg orally 2 times daily 4 
+Children 6 Preferred Choices 
+*Doxycycline 9 
+If = 45 kg give adult oral dose 
+If < 45 kg give 2.2 mg/kg orally 2 times daily 
+Ciprofloxacin 15 mg/gm orally 2 times daily 4 
+Pregnant Women 7 Preferred Choices 
+*Ciprofloxacin 500 mg orally 2 times daily 4 
+*Doxycycline 100 mg orally 2 times daily 9 
+*Antibiotic supplied as part of the National Pharmaceutical Stockpile (NPS) 
+1. These recommendations are adapted from the consensus recommendations of the Working Group on 
+Civilian Biodefense and are not necessarily approved by the Food and Drug Administration. In non-
+bioterrorism response situations, routine treatment guidelines should be followed. Refer to the 
+original publication (Dennis DT, Inglesby TV, Henderson DA, et al. Tularemia as a biological 
+weapon: Medical and public health management, JAMA, in press) for explanations and further 
+discussion. 
+2. One antimicrobial agent should be selected. Therapy with gentamicin or ciprofloxacin should be 
+continued for 10 days. Treatment with doxycycline or chloramphenicol should be continued for 14 – 
+21 days. Persons beginning treatment with parenteral doxycycline, ciprofloxacin or chloramphenicol 
+can be switched to oral antibiotics when clinically indicated. 
+3. Aminoglycosides must be adjusted according to renal function. Neonates up to 1 week of age and 
+premature infants should receive gentamicin 2.5 mg/kg 2 times daily. 
+4. Other fluoroquinolones can be substituted at doses appropriate for age. Ciprofloxacin dosage should 
+not exceed 1 g daily in children. 
+5. Concentration should be maintained between 5 and 20 ug/mL. Concentrations greater than 25 ug/mL 
+can cause reversible bone marrow suppression. Children younger than 2 years should not receive 
+chloramphenicol. 
+6. In children, ciprofloxacin does should not exceed 1 g daily, chloramphenicol should not exceed 4 g 
+daily. Children younger than 2 years should not received chloramphenicol. In neonates, gentamicin-
+loading dose of 4 mg/kg should be given initially. 
+7. Alternatives to breastfeeding may be required while the mother is taking certain antibiotics. Consult 
+specific antibiotic package insert for information on breastfeeding. 
+8. One antibiotic, appropriate for the patient’s age, should be chosen among the alternatives. Duration of 
+prophylaxis in mass casualty situations is 14 days. Duration of treatment with doxycycline or 
+chloramphenicol is 14 – 21 days. 
+9. Tetracycline may be substituted for doxycycline. 
+Reference: DHS -(California Department of Health Services) 10 -05-01 California Hospital Bioterrorism 
+Response Planning Guide. Infectious Disease / Biological Terror Event Policy - Appendix A. - 41 
+  
+  Infectious Disease / Biological Terror Event Policy - Appendix A. - 42 
+VIRAL HEMORRHAGIC FEVERS (VHF) - QUICK REFERENCE 
+Any suspected case of Viral Hemorrhagic Fevers (VHF) MUST BE TREATED AS A PUBLIC 
+HEALTH EMERGENCY and reported to the Infection Control Practitioner (225) 765-8864 and 
+the Louisiana Office of Public Health, (800) 256-2748. 
+Transmission: Except for Hantaviruses, all VHF viruses are highly contagious especially in the terminal 
+stages of the disease; person to person contact with blood, all body fluids and tissue; coughing patients 
+may aerosolize virus into the air may result in transmission. 
+Incubation Period: 
+Varies with each virus; range is 5 – 42 days. 
+Clinical Disease: 
+Varies slightly with each virus. The target organ is the vascular bed and the dominant clinical features are 
+the result of microvascular damage and changes in vascular permeability. Common symptoms include 
+fever, myalgias, prostration, conjunctival injection, hypotension, flushing, petechial hemorrhages, shock 
+and generalized hemorrhage. 
+Diagnosis: 
+Presumptive based on clinical signs and symptoms. 
+Treatment: 
+Supportive care, pain and fever control, sedation, and hydration. 
+Prophylaxis: 
+None 
+Isolation: 
+See Recommendations for Isolation. 
+ 
+VIRAL HEMORRHAGIC FEVERS (VHF) – RECOMMENDATIONS FOR ISOLATION 
+Introduction 
+The term viral hemorrhagic fever (VHF) refers to a group of diseases caused by several distinct families 
+of viruses. The Centers for Disease Control and Prevention (CDC) has issued isolation recommendations 
+that apply to four viruses that cause VHF: Lassa, Marburg, Ebola, and Congo-Crimean hemorrhagic 
+fever. Health Canada has issued recommendations that also apply Junin, Sabia and Machupo viruses, 
+found in South America. 
+Blood, body secretions and excretions, semen, and tissue specimens from infected patients contain the 
+virus responsible for VHF. Evidence suggests that the risk of person-to-person transmission increase as 
+the patient’s condition deteriorates. Persons at highest risk for secondary transmission are those who are 
+in closest contact with the blood and body fluids of the infected person toward the end of the incubation 
+period and into the acute phase of the illness. Such persons include those with prolonged or close physical 
+contact with infected persons such as family members, those providing direct medical and nursing care, 
+and laboratory workers handling the patient’s specimens. Healthcare workers (HCW) in Africa are at 
+great risk of acquiring VHF due to inappropriate barriers to protect them from exposure to blood and 
+body fluids. The risks associated with various body fluids have not been well defined as most health care 
+workers in Africa who acquire the infection have had multiple unprotected contacts with multiple body 
+fluids over a relatively short period. Infectious Disease / Biological Terror Event Policy - Appendix A. - 43 
+OSHA Bloodborne Pathogens Standard 
+Healthcare workers should follow facility specific procedures related to reducing the risk of occupational 
+exposure to blood and other potentially infectious materials as required by the California Occupational 
+Safety and Health Administration’s (CAL-OSHA) Bloodborne Pathogens Standard. Extreme vigilance is 
+required to prevent needle sticks or other sharp injuries. Parenteral exposure has been associated with a 
+high risk of transmission, a short incubation period and severe disease. Whenever possible, needleless 
+intravenous systems, safety syringes and phlebotomy equipment should be used. If an exposure occurs, 
+wash percutaneous exposures with copious amounts of antimicrobial soap (not bleach) and water and 
+flush the mucous membranes of the eyes, nose, and mouth with copious amounts of fresh water. Exposed 
+persons should receive an immediate medical evaluation and follow-up. 
+Training 
+Health care workers expected to provide direct and indirect patient care should be specifically trained in 
+methods to reduce the risk of exposure to VHF patients. 
+Isolation Recommendations 
+These recommendations were developed to assist infection control practitioners (ICP) in preparing for a 
+bioterrorist event. It is assumed that most patients requiring hospitalization are at or near end-stage 
+disease and have diarrhea, vomiting, prominent cough or hemorrhage. Given the unpredictability of VHF 
+infection and the potential for rapid progression to end-stage disease without warning, it may be prudent 
+to implement the following recommendations at the time of hospital admission. 
+Room Placement 
+Plan A: Negative Pressure Room 
+Place the patient in a private room that has (1) monitored negative air pressure in relation to the exterior 
+surrounding areas, (2) 6 -12 air changes per hour (ACH), and (3) appropriate venting of contaminated air 
+to the outside. The windows and doors should remain closed and the patient should remain in the room. 
+Plan B: No Negative Pressure Room 
+If no negative pressure room is available, place the patient in a private room. The room should be 
+equipped with a HEPA filtration unit. The windows and doors should remain closed and the patient 
+should remain in the room. 
+Plan C: Designated Area or Unit 
+As the number of VHF patients requiring isolation increases, consider designating a wing of a nursing 
+unit or, preferentially, an entire nursing unit. Infection control practitioners should develop a plan 
+consistent with the structure of the hospital and the ability to effectively isolate infected patients from 
+non-infected patients and the public. 
+Plan D: – Designated Health Facility 
+The county or state Emergency Medical Service may designate an alternate facility such as a closed 
+hospital or gymnasium to accommodate increasing numbers of cases that require medical support. 
+Infection control practitioners should be well informed of and actively participate in state, and local 
+bioterrorism preparedness plans. 
+Visitors 
+Visitors should be limited to close family members and significant others. Family members should be 
+instructed to wear PPE appropriate to the potential risk of blood and body fluid exposure. 
+Personal Protective Equipment (PPE) Infectious Disease / Biological Terror Event Policy - Appendix A. - 44 
+The physical properties of PPE should be appropriate to the degree of exposure and the task(s) to be 
+performed by the HCW. Facility infection control committees should evaluate existing PPE to determine 
+if the physical properties maximize HCW safety. 
+Respirators 
+Disposable, fluid-resistant, N-95 respirators should be worn when entering the room and disposed of 
+before leaving the room. 
+Face Shields 
+Disposable, face shields, in addition to N-95 respirators, should be worn when entering the room. 
+Gowns 
+Disposable, long sleeve, fluid-proof (impervious) gowns or coveralls with rib or elastic cuffs should be 
+worn when entering the room. The gown should be removed before leaving the patient’s room. Fluid 
+resistant gowns or coveralls can be worn if there is little or no soiling of the environment. 
+Gloves 
+Disposable gloves should be worn when entering the room. All jewelry including rings should be 
+removed. Gloves should completely cover the cuff of the gown or coverall. Reinforced or double gloves 
+should be worn for procedures that involve handling of sharp devices (e.g. phlebotomy). Gloves should 
+be removed before leaving the room and hands should be washed immediately. 
+Shoe and head covers 
+Fluid-proof, ankle or calf high shoe covers or rubber boots should be worn when blood or body fluids 
+visibly soil the floor. Shoe covers should be removed before leaving the room. Boots, if worn, should be 
+cleaned. 
+Head covers should be worn if spraying or splashing of blood or other body fluids onto the hair is 
+anticipated. Head covers should be removed before leaving the room. 
+ 
+Handwashing 
+Hands should be washed with an antimicrobial hand hygiene product. Faucets should be foot or sensor-
+operated or should be turned off with a paper towel. Paper towels should be accessible. Alcohol foams or 
+gels should not be substituted for handwashing when running water and soap are immediately accessible. 
+Transporting Patients 
+Patients with VHF who have a prominent cough, vomiting, diarrhea, or hemorrhage should not leave their 
+room. If it is necessary to transport the patient, notify the receiving department and schedule the 
+diagnostic test when there are no other patients in the department. Place a surgical mask over patient’s 
+nose and mouth, if tolerated. Confine and contain blood and body fluids that soil the environment during 
+transport. If an elevator is used all occupants should wear PPE. Only essential HCW should remain in the 
+procedure room with the patient. 
+Laboratory Specimens 
+Specimens should be placed in double, zip lock bags that are tightly sealed and labeled. 
+Patient Care Equipment 
+Patient care equipment (e.g., thermometers, blood pressure cuffs, stethoscopes and commodes) should be 
+kept in the patient’s room. Use disposable equipment whenever possible. Reusable equipment should be 
+placed in an appropriately labeled container, sealed and transported to central service for reprocessing. Infectious Disease / Biological Terror Event Policy - Appendix A. - 45 
+Environmental Services 
+Daily Cleaning 
+Disinfect environmental surfaces in the patient’s room and bathroom with a properly diluted, 
+Environmental Protection Agency (EPA) approved disinfectant such as a quaternary ammonium 
+compound or a phenolic. Allow all surfaces to air dry. The disinfecting solution and a supply of cleaning 
+materials should be kept in the room. Privacy curtains should be changed when visibly soiled. Floors 
+should be cleaned using a single-bucket procedure of wet mopping. The contents of the bucket should be 
+emptied into the toilet. After each use, the mop head should be removed from the handle and disposed in 
+the linen hamper. Disposable mop heads and cleaning cloths should be used, if available. The bucket and 
+the mop handle should remain in the patient’s bathroom. 
+Terminal Cleaning 
+Terminal cleaning should be performed using similar procedures described for daily cleaning. If the room 
+is under negative pressure or HEPA filtration allow the room to air for 2 hours or longer after terminal 
+cleaning before admitting a non-infected patient. 
+Management of Blood and Body Fluids 
+Blood and Body Fluid Spills 
+Blood and body fluid spills should be confined and contained with a biohazard fluid solidification 
+treatment product when possible. Following the removal of the solid waste, decontaminate the area with 
+an EPA-approved disinfectant. 
+Containerized Liquid Blood and Body Fluids 
+Containerized liquid blood, gastric secretions, and pulmonary secretions should be treated with a 
+biohazard fluid solidification treatment product before disposal. The contents of bedpans, urinals and 
+emesis basins should be carefully emptied into the toilet. Several ounces of household bleach should be 
+poured into the toilet and left standing for about 5 minutes before flushing. 
+Soiled Linen 
+Soiled linen should be placed in leak proof bags. Viral aerosols may be created during the initial bagging 
+process therefore it is essential that bags be carefully sealed to reduce expulsion of air into the 
+environment. When removed from the room, the bag should be placed in a second leak proof bag and 
+clearly identified as "isolation" or "contaminated". The bag should be carefully secured and removed from 
+the nursing unit in covered carts to a designated holding area. Chutes should not be used. 
+Facility Operated Laundry 
+Soiled linen should be autoclaved prior to transport to the laundry facility. If the linen is not autoclaved, 
+facility laundry workers should wear PPE including N-95 respirators. 
+Commercial Service 
+Infection control practitioners should consult with the commercial laundry service to determine special 
+requirements, if any, for labeling, transporting and processing soiled linen. As an alternative, linen should 
+be autoclaved prior to transport to a commercial laundry service. 
+Patient’s Clothing 
+Place patient’s clothing in a labeled, leak proof bag, and send to central service for autoclaving. 
+Autoclaved clothing may then be sent home with the patient’s family or washed, if necessary, according 
+to facility policy. 
+Biohazardous Waste Infectious Disease / Biological Terror Event Policy - Appendix A. - 46 
+Waste receptacles should be lined with red biohazard bags. Viral aerosols may be created during the 
+initial bagging process therefore it is essential that bags be carefully sealed to reduce expulsion of air into 
+the environment. When removed from the room biohazardous waste should be placed in a second red bag 
+and secured. Biohazardous waste should be removed in a covered cart to a designated biohazardous-waste 
+holding area. Infection control practitioners should consult with the contracted waste hauler for special 
+instructions, if any, on removing and transporting biohazardous waste. As an alternative, biohazardous 
+waste can be autoclaved. 
+Deceased Patient 
+Place the deceased patient in leak-proof body bag and transfer to the facility morgue. The body should not 
+be embalmed. If an autopsy is requested, the Louisiana Department of Health Services should be notified. 
+ Infectious Disease / Biological Terror Event Policy - Appendix A. - 47 
+Hospital Bioterrorism Response Planning Guide 
+SUMMARY OF POTENTIAL BIOTERRORIST DISEASE SYNDROMES 
+Disease Symptoms Physical 
+Exam 
+Diagnostic Tests Key Differential 
+Diagnosis 
+Incubation 
+Period 
+Duration 
+of Illness 
+Inhalation 
+Anthrax 
+Fever, malaise, cough, 
+mild chest discomfort, 
+possible short recovery 
+phase then onset of 
+dyspnea, diaphoresis, 
+stridor, cyanosis, shock. 
+Death 24-36 hours after 
+onset of severe 
+symptoms, 
+Hemorrhagic meningitis 
+in up to 50% 
+Non-specific 
+physical 
+findings. 
+Serology (acute & 
+convalescent samples); 
+gram stain & culture of the 
+blood; polymerase chain 
+reaction (PCR); CXR - 
+widened mediastinum. 
+Rarely pneumonia. 
+Hantavirus pulmonary 
+syndrome 
+(HPS), Dissecting aortic 
+aneurysm (no fever) 
+1-6 days (up 
+to 45 days) 
+3-5 days 
+Pneumonic 
+plague 
+High fever, chills, 
+headache, hemoptysis, 
+and toxemia, rapid 
+progression to dyspnea, 
+stridor, and cyanosis. 
+Death from respiratory 
+failure, shock, and 
+bleeding. 
+Rales, 
+hemoptysis, 
+purpura 
+Gram stain & culture of 
+blood and target tissue, 
+serum immunoassay for 
+capsular antigen, Serology 
+to confirm; PCR, 
+immunohistochemical 
+stains (IHC) 
+HPS, TB, community 
+acquired pneumonia 
+(CAP), 
+meningococcemia, 
+rickettsioses 
+2-3 days 1-6 days 
+Tularemia Fever, headache, 
+malaise, chest 
+discomfort, anorexia, 
+non-productive cough. 
+Pneumonia in 30-80%. 
+Oculoglandular from 
+inoculation of 
+conjunctiva with 
+No adenopathy 
+with Typhoidal 
+illness. 
+Serology; culture of blood, 
+sputum, or skin lesions; 
+PCR; IHC; CXR -
+pneumonia, mediastinal 
+lymphadenopathy, or 
+pleural effusion. 
+Atypical community 
+acquired pneumonia, Q 
+fever, Brucellosis  
+1-10 days 
+(average 3-5 
+days 
+>2 weeks Infectious Disease / Biological Terror Event Policy - Appendix A. - 48 
+periorbital edema. 
+Smallpox Fever, back pain, 
+vomiting, malaise, 
+headache, rigors, 
+delirium. Papules 2-3 
+days later, progressing 
+to pustular vesicles. 
+Abundant on face and 
+extremities initially.  
+Papules, 
+pustules, or 
+scabs of 
+similar stage, 
+many on 
+face/extremitie
+s, palm/soles. 
+Clinical diagnosis; 
+Guarnieri bodies on 
+Giemsa or modified silver 
+stain, virons on electron 
+microscopy, PCR, viral 
+isolation, IHC 
+Varicella, vaccinia, 
+monkeypox, cowpox, 
+disseminated herpes zoster. 
+7-17 days 
+(average 12 
+days) 
+4 weeks 
+Botulism Ptosis, blurred vision, 
+diplopia, generalized 
+weakness, dizziness, 
+dysarthria, dysphonia, 
+dysphagia 24 - 36 hours 
+after exposure followed 
+by symmetrical 
+descending flaccid 
+paralysis and 
+respiratory failure. 
+No fever, 
+patient alert, 
+postural 
+hypotension, 
+pupils 
+unreactive, 
+normal 
+sensation, 
+variable 
+muscle 
+weakness. 
+Diagnosis – clinical. 
+Serology, toxin assays/ 
+anaerobic cultures of 
+blood/stool; 
+electromyography studies. 
+Guillian-Barré, myasthenia 
+gravis, tick paralysis, 
+Mg++ intoxication, 
+organophosphate 
+intoxication, 
+organophosphate 
+1-5 days Death 24-
+72 hours 
+or 
+ventilator 
+support for 
+months 
+Filoviruses 
+(Marburg, 
+Ebola) 
+Fever, severe headache, 
+malaise, myalgia, 
+maculopapular rash day 
+5; progression to 
+pharyngitis, 
+hematemesis, melena, 
+uncontrolled bleeding; 
+shock/death days 6-9. 
+Petechia, 
+ecchymoses, 
+conjunctivitis, 
+uncontrolled  
+Serology (antigen capture 
+ELISA, IgM Elisa or PCR 
+during acute phase), viral 
+isolation (requires 
+containment facility), IHC; 
+leukopenia, 
+thrombocytopenia, 
+proteinuria. 
+Meningococcemia, 
+malaria, typhus, 
+leptospirosis, borreliosis, 
+thrombotic 
+thrombocytopenicpurpura 
+(TTP), rickettsiosis, 
+hemolytic uremic 
+syndrome (HUS), 
+arenaviruses. 
+2-19 days 
+(average 4-
+10 days) 
+Days to 
+weeks 
+Arenavirus
+es (Lassa, 
+Fever, malaise, myalgia, 
+headache, nausea, 
+Conjunctivitis, 
+petechia, 
+Serology, viral isolation, 
+PCR, IHC; leukopenia, 
+Leptospirosis, 
+meningococcemia, 
+5-21 days 
+Lassa; 7-16 
+7-15 days Infectious Disease / Biological Terror Event Policy - Appendix A. - 49 
+Junin, 
+Sabia, 
+Machupo, 
+Guanarito) 
+vomiting, pharyngitis, 
+cough, retrosternal pain, 
+bleeding, tremors of 
+tongue and hands 
+(Junin), shock, aseptic 
+meningitis, coma, 
+hearing loss in some. 
+ecchymoses, 
+flushing over 
+head and upper 
+torso. 
+thrombocytopenia, 
+proteinuria 
+malaria, typhus, 
+borreliosis, rickettsiosis, 
+TTP, HUS, filoviruses. 
+days Sabia, 
+Junin, 
+Machupo, 
+Guanarito 
+Brucellosis Irregular fever, chills, 
+sweating, myalgias, 
+cough and arthritis 
+lasting for weeks. 
+Profound weakness and 
+fatigue, depression and 
+mental status changes. 
+Chest x-ray 
+may be normal 
+or showlung 
+abscesses, 
+single or 
+military 
+nodules, 
+bronchopneum
+onia, enlarged 
+hilar nodes & 
+pleural 
+effusion. 
+Serology, cultures of 
+blood, liver or bone 
+marrow. 
+Influenza, Infectious 
+mononucleosis, malaria, 
+tuberculosis, Hodgkin’s 
+disease, and 
+lymphoblastoma 
+5-60 days Undulant 
+form < 
+1yr. 
+Chronic 
+form > 
+1year 
+Q-Fever Fever, chills, headache 
+early, pleuritic chest 
+pain. Weight loss, 
+myalgia and cough 
+appearing late during 
+course. 
+  Abnormal liver function 
+tests, normal WBC with 
+thrombocytopenia. 
+Serology – IFA or ELISA 
+(2-3 wks after presentation. 
+CXR consolidation 
+Mycoplasma pneumoniae, 
+Legionella pneumophila, 
+Chlamydia psittaci & 
+Chlamydia pneumoniae. 
+2-14 days 2 days to 2 
+weeks 
+Venezuelan 
+Equine 
+Encephaliti
+s 
+Generalized malaise, 
+spiking fever, rigors, 
+severe headache, 
+photophobia & 
+myalgias in the legs and 
+lumbosacral area. 
+Nausea, vomiting, 
+Non-specific Serum for IgM ELISA 
+indirect FA, 
+hemagglutination 
+inhibition, complement 
+fixation and neutralization. 
+White blood count often – 
+  1-5 days 1 – 2 
+weeks Infectious Disease / Biological Terror Event Policy - Appendix A. - 50 
+cough, sore throat and 
+diarrhea may follow. 
+leukopenia & lymphopenia 
+Staphyloco
+ccal 
+Enterotoxi
+n B 
+Fever, myalgia, nausea, 
+diarrhea and cough. 
+  Clinical diagnosis. 
+Serology and urine toxin 
+levels are useful 
+retrospectively. 
+Influenza, adenovirus, 
+mycoplasma 
+3–12 hours Days to 
+weeks 
+Cholera Vomiting, headache, 
+intestinal cramping with 
+little or no fever and 
+soon painless 
+voluminous diarrhea. 
+Rice water 
+diarrhea & 
+dehydration. 
+Clinical diagnosis. 
+Darkfield or phase-contrast 
+microscopy of the stool –
+darting motile vibrio 
+Acute bacillary dysentery, 
+food poisoning, heat 
+exhaustion and some forms 
+of malaria. 
+4 hours – 
+5days 
+3 – 5 days 
+Ricin Weakness, fever, 
+progressive cough, 
+pulmonary edema, 
+cyanosis, chest 
+tightness, dyspnea, 
+nausea & arthralgias. 
+Respiratory 
+distress and 
+death 
+Specific serum ELISA. 
+Acute and convalescent 
+sera should be collected. 
+Staphylococcal enterotoxin 
+B, Q fever, tularemia, 
+plague, some chemical 
+warfare agents such as 
+phosgene.  
+4 – 8 hours Death 36–
+72 hours 
+Mycotoxins  
+(T-2) 
+Skin – burning pain, 
+redness, tenderness, 
+blistering. Nasal itching 
+and pain, sneezing, 
+epistaxis and 
+rhinorrhea. 
+Pulmonary/tracheobron
+chial – dyspnea, 
+wheezing, and cough. 
+Eyes – pain, tearing, 
+redness, foreign body 
+sensation and blurred 
+vision may occur 
+Skin blisters, 
+epistaxis, 
+blood-tinged 
+saliva and 
+sputum. 
+Blood, tissue and 
+environmental samples – 
+chromatography-mass 
+spectrometry 
+Mustard agent, 
+staphylococcal Enterotoxin 
+B 
+Minutes to 
+hours 
+Death in 
+minutes, 
+hours or 
+days Infectious Disease / Biological Terror Event Policy - Appendix A. - 51 
+REFERENCE LIST 
+1. Anonymous. Bioterrorism alleging use of anthrax and interim guidelines for management -- United 
+States, 1998. MMWR Morb Mortal Wkly Rep 1999;48:69-74. 
+2. Noah DL, Sovel AL, Ostroff SM, Kildew JA. Biological warfare training: infectious disease outbreak 
+differentiation criteria. Mil Med 1998;163:198-201. 
+3. DOD DFFUaE. NBC Domestic preparedness response workbook.1998. 
+4. Simon JD. Biological terrorism. JAMA 1997;278:428-30. 
+5. Centers for Disease Control and Prevention, the Hospital Infection Control Practices Advisory 
+Committee (HICPAC). Recommendations for isolation precautions in hospitals. Am J Infect Control 
+1996;24:24-52. 
+6. American public health association. Control of communicable diseases in man. Washington 
+DC:American public health association; 1995. 
+7. Tucker JB. National health and medical services response to incidents of chemical and biological 
+terrorism. JAMA 1997;278:362-8. 
+8. Holloway HC, Norwood AE, Fullerton CS, Engel CC Jr, Ursano RJ. The threat of biological 
+weapons. Prophylaxis and mitigation of psychological and social consequences. JAMA 
+1997;278:425-7. 
+9. Pile JC, Malone JD, Eitzen EM, Friedlander AM. Anthrax as a potential biological warfare agent. 
+Arch Intern Med 1998;158:429-34. 
+10. Franz D, Jahrling PB, Friedlander AM, McClain DJ, Hoover DL, Bryne WR, et al. Clinical 
+recognition and management of patients exposed to biological warfare agents. JAMA 1997;278:399-
+411. 
+11. U.S.Army medical research institute of infectious diseases. Medical management of biological 
+casualties. Fort Detrick:USAMRIID; 1998. 
+12. Anonymous. Drugs and vaccines against biological weapons. Med Lett Drugs Ther 1999;41:15-6. 
+13. Shapiro RL, Hatheway C, Becher J, Swerdlow DL. Botulism surveillance and emergency response. 
+JAMA 1997;278:433-5. 
+14. Shapiro RL, Hatheway C, Swerdlow DL. Botulism in the United States: A clinical and 
+epidemiological review. Arch Intern Med 1998;129:221-8. 
+15. Federal Register. Respiratory protective devices; final rules and notice. 1995.  
+ 
+OTHER SOURCES OF INFORMATION 
+USAMRIID 301/619-2833 
+BIOPORT (producers of anthrax vaccine) 517/327-1500 
+US PUBLIC HEALTH SERVICE 1-800-872-6367 
+DOMESTIC PREPAREDNESS INFORMATION LINE 1-800-368-6498 
+NATIONAL RESPONSE CENTER1-800-424-8802 
+ 

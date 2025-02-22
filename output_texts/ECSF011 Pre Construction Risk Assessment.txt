@@ -1,0 +1,99 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Environment of Care 
+Our Lady of the Lake Regional Medical Center Chapter:  Safety Management 
+Subject:  Pre-Construction Risk Assessment Section:   
+Date of Origination:  May 2003 Supersedes:       
+Date Last Revised:  8/19/2021 Serial Code:  ECSF011 
+Date Last Reviewed: 8/19/20219/12/2022 
+ 
+PURPOSE: 
+To define the purpose and parameters of a Pre-Construction Risk Assessment (PCRA) and Infection Control Construction 
+Risk Assessment (ICRA) for infection control and safety issues. 
+ 
+POLICY: 
+1. An assessment of the risk criteria of the impact of demolition, renovation, construction, and work project 
+activities on air quality, infection control, utility requirements, noise, vibrations, emergency procedures and 
+patient care activities by the ICRA team – Construction Management, Plant Services, Infection Prevention, Safety 
+Management, and Department/Unit leader.  
+2. A Construction Risk Assessment will be conducted for all construction, renovation, and work projects before 
+work activity begins.  
+3. Documentation of the OLOLRMC PCRA/ICRA form will be maintained by Construction Management or Plant 
+Services project manager/coordinator and Infection Prevention. 
+4. Protective actions to be taken to mitigate identified risk will be defined during the risk assessment and 
+documented on the OLOLRMC PCRA/ICRA form. These protective actions are to be maintained for the duration 
+of the project unless modified in a subsequent risk assessment. 
+5. Monitoring of the risk status of each project will be completed daily until the project is completed. 
+6. The Construction Management and Plant Services project manager/coordinator is responsible for informing  
+Infection Prevention and Safety Management of all planned and ongoing construction and work project activities.   
+ 
+PROCEDURE:  
+1. Pre-construction meeting and/or discussion, construction risk assessment: 
+a. The risk assessment will be conducted through the coordinated efforts of the ICRA team:  
+i. OLOL PM - Project Manager/Coordinator for Construction and/or Plant Service 
+ii. Contractor PM - Contractor Project Manager/Coordinator  
+iii. Infection Prevention 
+iv. Safety Management 
+v. Department/Unit Leader 
+vi. EVS leader 
+vii. Patient Care Services Senior Director/leader 
+viii. Other stakeholders identified 
+b. OLOL and Contractor PM will provide the construction activities, scope of work, foot and material 
+traffic, and project drawings necessary to guide the ICRA team and Infection Prevention with the risk 
+class designation and type of risk mitigation measures to be taken. Scope of work and job details will be 
+documented in the OLOLRMC PCRA/ICRA form. 
+c. Protective actions in the mitigation of the identified risk will be defined. These protective actions are to be 
+maintained for the duration of the project. 
+d. Expectations and accountability will be designated. 
+e. The ICRA team will sign the PCRA/ICRA form to the agreed risk class, risk mitigation measures, 
+expectations, and accountability.  
+2. Documentation of the formal risk assessment monitoring will be maintained by the OLOL PM and Infection 
+Prevention. 
+a. A copy of the OLOLRMC PCRA/ICRA form will be posted on all jobsites.  2 
+b. In the event a change in scope and risk is identified in the course of work, an ensuing risk assessment is to 
+be done and the ICRA form will be updated and signed by the ICRA team. 
+3. Monitoring of the risk status of each project will be performed until the project is completed. 
+a. Compliance with ILSM (Interim Life Safety Measures) is monitored by Plant Services.  See ISLM policy 
+ECLS001. 
+b. Compliance with ICRA is monitored by the Contractor PM and jobsite lead, OLOL PM, Infection 
+Prevention, Plant Services, and Department/Unit leader.  
+i. Jobsite daily checklist will be completed by the contractor and submitted weekly to OLOL PM and 
+Infection Prevention. 
+c. The Department/Unit leader or designee is also responsible for maintaining awareness of all projects in 
+progress in their area and for promptly reporting any issues or concerns to either OLOL PM, Plant 
+Services at 5-8292 or Infection Prevention at 5-8864. 
+4. At the end of each project, the ICRA team performs a completion walkthrough and signs off prior to occupancy. 
+5. The contractor, in conjunction with Facilities & Construction shall ensure that all safety policies and standards are 
+adhered to. 
+6. Specific infection control issues will be addressed by the Infection Prevention Team or the Director of Health and 
+Safety. 
+7. Report of all completed risk assessments will be made by Infection Prevention quarterly to the Environment of 
+Care Committee. 
+ 
+ 
+Construction Activity Types 
+Type A Inspection and Non-Invasive Activities. Includes but is not limited to: 
+• Removal of ceiling tiles for visual inspection only, e.g. limited to 2 tiles per 50 square feet 
+• Painting (not sanding) 
+• Wall covering, electrical trim work, minor plumbing, and activities which do not generate dust or 
+require cutting of walls or access to ceilings other that for visual inspections 
+• Minimal noise/vibration generated 
+Type B Small scale, short duration activities which create minimal dust. Includes but is not limited to: 
+• Installation of telephone and computer cabling 
+• Access to chase spaces 
+• Cutting of walls or ceiling where dust migration can be controlled 
+• Minimal noise/vibration generated  
+Type C Work that generates a moderate to high level of dust or requires demolition or removal of any fixed 
+building components or assemblies. Includes but is not limited to: 
+• Sanding of walls for painting or wall covering 
+• Removal of floorcoverings, ceiling tile and casework 
+• New wall construction 
+• Minor duct work or electrical work above ceilings 
+• Major cabling activities 
+• Any activity which cannot be completed within a single work shift 
+• Moderate to high levels of noise/vibration generated during demolition or new construction phases 
+Type D Major demolition and construction projects. Includes but is not limited to: 
+• Activities which require consecutive work shifts 
+• Requires heavy demolition or removal of a complete cabling system 
+• New construction 
+High levels of noise/vibration generated during demolition and or new construction phases. 
+ 

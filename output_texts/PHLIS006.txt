@@ -1,0 +1,75 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 1 of 2 
+PHLS006 
+ 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLIS006 
+CLEARING A PATIENT DRAW LIST 
+       Date Issue Date Effective Date 
+ Prepared/Revised By ZJA/LC 10/3/2017 10/3/2017 10/3/2017 
+Reviewed By LC 9/7/2019 Origination Date 
+Medical Director Review A Harton 9/22/2019 JAN 2000 
+ 
+PURPOSE: 
+Provide for the collection laboratory patient testing that has been ordered but not collected (utilizing EPIC 
+Hyperspace: Patient Draw List Application) 
+ 
+Addresses: 
+Venipuncture Charge Techs 
+Venipuncture Phlebotomists 
+ 
+POLICY: 
+A “Patient Draw List” report will be printed several times during the course of each shift by the Charge Tech or 
+designated person.  The report contains requests for laboratory service that have been ordered but not collected.  
+The report excludes test requests ordered as “Unit Collects” and other non-blood laboratory orders.  Venipuncture 
+staff researches test requests listed on the report to determining current order status.  Action is taken to either 
+collect missed samples or to cancel unwanted orders.  Patient collections will disappear from the Patient Draw 
+List as phlebotomist complete assigned draws. 
+ 
+A. Outstanding Orders 
+1. Determine the reason for the outstanding patient order 
+- Dialysis to draw 
+- Patient unavailable for drawing 
+- Patient refusing 
+- Patient receiving blood 
+- Missed draw 
+2. Reassign outstanding orders 
+3. Call the patient’s unit to determine current availability 
+4. Assign a Phlebotomist to collect the tests 
+5. If the patient continues to be unavailable, document the time of contact and name of unit person 
+spoken to in the Rover Device and on the Phlebotomist draw sheet 
+6. Charge Tech will periodically check with unit personnel for patient availability and either have the 
+patient drawn or the test canceled 
+ 
+B. Printing a “Patient Draw Report 
+1. Log in to EPIC Hyperspace application 
+2. Open the “Patient Lists” icon 
+3. New orders are released at 00:31, 05:05, 07:05, 08:05, 12:05, 16:05, and 20:05 daily 
+4. Assign all collections to phlebotomy staff   
+5. In the upper right-hand corner, click on the printer icon. OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 2 of 2 
+PHLS006 
+ 
+ 
+6. Enter the printer name, document size and orientation. 
+7. Click print to produce the report. 
+8. Attach the report to the “Charge Tech Workload Recording” Worksheet 
+ 
+Limitations of Procedure 
+1. New orders may be released between system scheduled released times base on order priority (STAT, 
+Timed, unit transfers) 
+2. Notify the Laboratory Information Specialist or the IS Help Desk of any problems. 
+ 
+REVISIONS 
+01/2000 (created); 10/3/2017 
+ 
+ 
+ 
+ 

@@ -1,0 +1,42 @@
+ Policy Reference Number 
+Page 1 of 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Clinical 
+Title: Automatic Renal Dose Adjustment Policy Reference #: PH-02-18 
+Supersedes #:  
+Date of Origination: November 2011 Last Date Reviewed: 01/06/2025 
+Last Date Revised: 07/05/2022 
+ 
+PURPOSE: 
+To ensure that medications that require renal dose adjustment are reviewed by a pharmacist and adjusted 
+according to manufacturer recommendations and the most current clinical literature. 
+ 
+DEFINITIONS:  
+ 
+Renal dysfunction: For the purposes of this protocol, renal dysfunction is defined as calculated 
+creatinine clearance (CrCl) less than 50 mL/min. 
+ 
+Current serum creatinine:  a creatinine level drawn within 30 days of admission 
+ 
+POLICY: 
+I. Renal function will be assessed by a pharmacist prior to verification of medication orders. Dose 
+adjustments will be made as needed upon initial order verification. 
+II. Creatinine clearance (CrCl) will be calculated based on the Cockroft-Gault equation.  It will be 
+used to determine all dose adjustments of medications. 
+III. If a medication that pharmacy is approved to adjust per protocol by the Pharmacy and 
+Therapeutics committee requires renal adjustment and a current serum creatinine is not available 
+nor scheduled to be drawn in the next 24 hours, a pharmacist will order a routine Renal Function 
+Panel (RFP) to be drawn now/with AM labs (depending on urgency). A report of targeted 
+medications that require renal dose adjustment will be generated and reviewed by a pharmacist 
+daily.   A pharmacist will review the patient’s medical record to determine the indication for use 
+of the medication. 
+IV. Targeted medications will automatically be adjusted as defined by the Renal Dosing protocol 
+approved by the Pharmacy and Therapeutics (P&T) Committee.  Prescribers will be contacted to 
+discuss dose adjustment for all other medications requiring dose adjustment not included in the 
+protocol. 
+V. Protocol-related changes will be entered into the electronic medical record with an order mode of 
+“Per Protocol”. 
+ 
+REFERENCES: 
+ 
+See References listed on the Protocol 

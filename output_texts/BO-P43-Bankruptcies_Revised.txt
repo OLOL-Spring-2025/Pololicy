@@ -1,0 +1,74 @@
+OLOL Bankruptcies Policy and Procedure 
+ Page 1 of 2 
+POLICIES AND PROCEDURES MANUAL 
+ 
+Our Lady of the Lake Regional Medical Center  Manual: Business Office 
+ Chapter:  
+Subject:  Bankruptcies Section:  
+Date of Origination:  November 11, 2003 Supersedes:   
+Date of Last Revision:  January 27, 2016 Serial Code: BO.P43 
+ 
+ 
+PURPOSE: 
+ 
+To ensure all bankruptcy  accounts are submitted to our attorn ey from the hospital  in a timely manner.    
+Bankruptcies in the Business Office are time sensitive and all filing deadline must be met. 
+ 
+POLICY: 
+ 
+Upon receipt of bankruptcy notification, Our Lady of the Lake ( OLOL) will cease all in -hospital collection 
+activity and forward the account(s) to our  OLOL attorney.  Our attorney will be responsible for taking the 
+necessary steps to ensure OLOL account(s) are worked in accordance with all State and Federal guidelines. 
+ 
+PROCEDURE: 
+ 
+1. Click on the system Health Quest (Rumba) and do the following; 
+• At the bottom of the function selection screen type Ins…$  PAV A   Entity…G1. 
+• Go to function select and type GUAR.., this will take you to the CPI search 
+• On the CPI search, put in the social security number for each debtor, go to account summary and print 
+each screen.  Do for each debtor.   
+• Within 5 day of the account you are working check the statement date (memo/change collection data). 
+2. Return to AA, side check each account listed on printouts. 
+3. If the date of service is three (3) years  old or more the account is uncollectable, memo account – “pt. (or 
+pt. Guarantor) filed chapter ___ bankruptcy on 0/0/00.   
+4. However, should the date of service come AFTER the bankruptcy filing date.  The account CANNOT be 
+included in the bankruptcy and should be handled through the hospital in-house collection process. 
+5.    All bankruptcy accounts that are at early out and collection agencies must be recalled and put to C9.   
+6. Use BB at Memo Code on patient’s account to enter information.  Example: 
+Bankruptcy filed: 
+XChapter 7, case # 00-00000 filed 0/0/00 
+_Chapter 11  
+_Chapter 13 
+7.   If account had to be recalled, memo the account – recall __ – w/o to __ (C9/AL) or forward the account  
+to__ (C9/AL) and change the collection status to C9.   
+8. When the account is in Out for Collections (OFC), use a Yellow Recall Form, fill out and give to customer 
+service to key for the day.  Upon receipt of the yellow Recall Form is returned, accounts pulled back are 
+checked to make sure they are indeed in active A/R status. 
+ 
+ 
+ 
+ OLOL Bankruptcies Policy and Procedure 
+ Page 2 of 2 
+9. Pending insurance payment for less than six (6) months , go to  the memo  type,”insurance is pending 
+payment, and the accounts is not turned over to the OLOLRMC’s attorney. ”  Place account status on Al 
+and put the collection status to C9 once insurance has paid.  Customer service will c hange the guarantor 
+address so statements are not sent to the patient. The address will be the following; 
+ 
+CS BO MRG,  
+5000 Hennessy Blvd, 
+Baton Rouge, LA 70808 
+ 
+It should only take 2 days for t he process of removal of an account out of OFC , then back to active A/R 
+then back to AL or CP .   The process should not pull back dollars to active A/R over a weekend or at 
+month-end. 
+ 
+10. If filing date has expired, send a “BB” memo. Go to memo and type,“ filing date has elapsed, cannot be 
+filed.”  Forwarding to “C9”.  Change collection status to C9 but do not recall if from the agency.  Also 
+make a copy, highlight the deadline date and write…”Not Filed – Uncollectable and “on the bottom put 
+FYI Please do not file!!!” 
+11. All other correspondence should be placed in bankruptcy files.  If it is a closing notice, transfer all 
+correspondence from open files to closed files.   
+ 
+  Letters for requests not going to the OLOLRMC Attorney are kept within the Business Office for 6 months. 
+ 
+Bankruptcies from companies go to Accounts Payable in Accounting. 

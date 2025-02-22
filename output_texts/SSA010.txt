@@ -1,0 +1,144 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Reuse of Single-Use Devices  Section/Chapter: Operating Room  
+Title: Reusing Single Use devices  Policy Reference #: SSA010 
+Supersedes #:  
+Date of Origination: 12/12/22 Review Date: 4/15/24 
+Revision Date: 12/15/22 
+ 
+ 
+PURPOSE: 
+To assure proper measures are taken when a single use device must be reused due to critical 
+shortage of the supply in order to facilitate patient care.   
+ 
+DEFINITIONS: 
+Spaulding Classification System is used to define the types of items and how they are processed  
+ 
+1) Critical: items that are sterilized and enter sterile tissue or the vascular system. This 
+category includes surgical instruments, cardiac and urinary catheters, implants, and 
+ultrasound probes used in sterile body cavities. 
+2) Semi-critical: items that are High Level Disinfected and contact mucous membranes or 
+nonintact skin. This category includes respiratory therapy and anesthesia equipment, some 
+endoscopes, laryngoscope blades, esophageal manometry probes, cystoscopes, anorectal 
+manometry catheters, and diaphragm fitting rings.  
+3) Noncritical: items are decontaminated, and low level disinfected that come in contact with 
+intact skin but not mucous membranes. Examples of noncritical patient-care items are 
+bedpans, blood pressure cuffs, crutches, and computers. 
+  
+POLICY: 
+This policy will be active for a stipulated time frame during the duration of the critical shortage.  It 
+will be set for review monthly and will be retired once shortage is resolved.  
+ 
+The devices that are allowed for reuse will be specified in this policy and will state the number of 
+reusable times along with the timeframe this policy is applicable.  
+ Current items being used in this policy are:  
+-Stryker Sterile Disposable Tourniquet Cuffs in the 5921-024-135 to 5921-024-236 series.  
+ 
+PROCEDURE: 
+Any device that is stated as Single Use Device (SUD) must follow the Instructions For Use by the 
+manufacture unless the facility has reviewed and validated the following: 
+1) Semi-critical or Critical device Single Use Device cannot be reused. 
+2) The SUD must be inspected and tested for its ability to be reused. 
+a. The number of times of reuse must be validated, stipulated, and tracked. 
+b. The duration, if applicable, must be validated, stipulated, and tracked.    2 
+3) SUD must have a cleaning protocol in place. 
+4) The items and patient must be monitored in order to identify and track adverse events 
+5) Risk assessment with Surgical Services lead, Infection Prevention, Risk Management, 
+and other identified stakeholders will be performed.  
+ 
+Reuse eligibility 
+In order for a tourniquet to be considered for reuse it must meet the following criteria 
+1) Not be used as sterile or have been reprocessed outside the specified protocol.  
+2) Must be inspected  
+a. No signs of damage or malfunction during use. 
+i. e.g. Tubing not kinked, no identified cracks, no loose or damaged 
+connections, Velcro works, etc.  
+3) Must be cleaned  
+a. Was not used on a patient with contact or contact-plus isolation precautions. 
+b. Can be cleaned and disinfected.  
+c. No visible soilage, debris, or contaminates. 
+4) Not exceed the maximum number of uses.  
+a. Tourniquets max out at 6 (initial use being the 1st with 3 reuses) 
+ 
+Monitoring and Tracking  
+Both the device and the patient must be tracked. 
+  
+Device: 
+1) Standard documentation of tourniquet usage and inflation/deflation times will be entered 
+into the EMR.  
+2) The number of uses must be marked with an industrial sharpie on the label directly 
+under the Stryker logo. The device must be marked before applying the tourniquet. Even 
+if the tourniquet is not used during the surgery, it will be deemed as a usage. See 
+example below.  
+ 
+-The 2 dots show initial used from manufacturer and the 2nd use after 
+reprocessing. 
+-This device can be used 4 more times. It would be thrown away at 6 dots.  
+ 
+ 
+ 
+  3 
+Patient: 
+1) Standard documentation of preoperative checks, pre/post skin condition, tourniquet 
+usage, and inflation/deflation times will be entered into the EMR.  
+2) Additionally, after the first usage, each patient (dots 2 - 6) will have a safety event 
+entered.  
+3) The safety event will be entered as a “Device & Medical Equipment” with the option 
+“other” and specify “tourniquet reused”   
+ 
+Reprocessing  
+The steps for reprocessing are as follows form the time of initial use:  
+ 
+1) Tracking 
+a. The device (and patient) must be tracked per described above in tracking and 
+monitoring. 
+ 
+2) Protection  
+a. User will protect the device as much as possible from contamination without 
+compromising the device. e.g. using a 1010 or other drape to protect from 
+excessive contamination during used.  
+b. No adhesive must be placed on any part of the tourniquet.  
+ 
+3) Inspection  
+a. Before and after using the device, inspect for:  
+-that it has not exceed the number of uses (6 dots) and dots are clearly visible 
+-any signs of damage or excessive wear 
+-any contamination 
+ 
+4) Communication   
+a. The MD must be aware they are using an unsterile tourniquet that is being 
+reused outside the manufactured specification of single use prior to the surgery. 
+b. Inform supervisor or any issues with the usage or reprocessing of the device. Use 
+safety events as required.  
+c. Ensure team cleaning room is aware of the device along with the cleaning and 
+handling requirements.  
+ 
+5) Cleaning  
+a. All parts of the tourniquet will be wiped with hospital approved disinfectant for 
+the proper duration.  
+i. The Stryker tourniquet will use Super Sani-Cloth wipes  
+b. Any part of the tourniquet that cannot be cleaned will render the tourniquet 
+ineligible for reuse. e.g. blood stuck in Velcro.  
+ 
+6) Storage 
+a. Reprocessed tourniquets will be stored in a clean bin outside the patient room 
+and away from other sterile supplies.  
+b. They will be organized using the First in First Out method.   4 
+ 
+Approved by Reuse Approval Committee:   
+ Dr Catherine O’Neal CMO 
+ Dr Phillip Allen ACM  
+Nicole Telhiard CNO 
+Dr. Katie Taylor Infection Control 
+Troy Collins VP Risk Management  
+Neal Hargrave Sr Director Logistics – Inventory  
+ Rebecca Al-Marhoun Senior Director Surgical Service   
+ 
+References 
+ Policy: Tourniquets, Application of SOS021   
+ 
+ AORN Standards and Recommended Practices 2024 
+ 
+ 2017 The Joint Commission white pages “Reuse of Single-Use Devices” 
+https://www.jointcommissioninternational.org/-/media/jci/jci-documents/offerings/other-
+resources/white-papers/jci_white_paper_reuse_of_single_use_devices.pdf 

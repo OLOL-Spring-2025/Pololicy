@@ -1,0 +1,151 @@
+IC-3001- Table 2 
+Clinical Syndromes / Conditions Warranting Empiric Transmission-Based Precautions Pending Confirmation of 
+Diagnosis (CDC page last reviewed: February 2017) 
+ 
+Page 1 of 2 
+                                                                                                          Revised March 19, 2019/ Reviewed September 13, 2024 
+TABLE 2 
+ 
+Clinical Syndromes/Condition Warranting Empiric Transmission-Based Precautions In 
+Addition To Standard Precautions Pending Confirmation of Diagnosis 
+  
+Clinical Syndrome or Condition†  Potential Pathogens‡  Empiric Precautions (Always includes Standard 
+Precautions)  
+DIARRHEA  
+Acute diarrhea with a likely 
+infectious cause in an incontinent or 
+diapered patient  
+Enteric pathogens§ Contact Precautions (pediatrics and adult)  
+ 
+MENINGITIS Neisseria meningitidis  
+ 
+ 
+Enteroviruses                   
+ 
+M. tuberculosis 
+Droplet Precautions for first 24 hrs of antimicrobial 
+therapy; mask and face protection for intubation. 
+ 
+Contact Precautions for infants and children.   
+ 
+Airborne Precautions if pulmonary infiltrate. Airborne 
+Precautions plus Contact Precautions if potentially 
+infectious draining body fluid present. 
+RASH OR EXANTHEMS, GENERALIZED, ETIOLOGY UNKNOWN  
+Petechial/ecchymotic with fever 
+(general) 
+  
+- If positive history of travel to an 
+area with an ongoing outbreak of 
+VHF in the 10 days before onset of 
+fever  
+Neisseria meningitides  
+ 
+ 
+Ebola, Lassa, Marburg 
+viruses 
+Droplet Precautions for first 24 hours of antimicrobial 
+therapy. 
+ 
+Droplet Precautions plus Contact Precautions, with 
+face/eye protection, emphasizing safety sharps and 
+barrier precautions when blood exposure likely. Use 
+N95 or higher respiratory protection when aerosol-
+generating procedure performed. 
+Vesicular  Varicella-zoster, Herpes 
+simplex, Variola 
+(smallpox),Vaccinia virus 
+Airborne plus Contact Precautions; Contact 
+Precautions only if Herpes simplex, localized zoster in 
+an immunocompetent host or vaccinia viruses most 
+likely 
+Maculopapular with cough, coryza 
+and fever  Rubeola (measles) virus Airborne Precautions  
+RESPIRATORY INFECTIONS  
+Cough/fever/upper lobe pulmonary 
+infiltrate in an HIV-negative patient 
+or a patient at low risk for human 
+immunodeficiency virus 
+(HIV) infection 
+M. tuberculosis, 
+Respiratory viruses, S. 
+pneumoniae, S. aureus 
+(MSSA or MRSA) 
+Airborne Precautions plus Contact Precautions  
+Cough/fever/pulmonary infiltrate in 
+any lung location in an HIV-infected 
+patient or a patient at high risk for 
+HIV infection 
+ 
+M. tuberculosis, 
+Respiratory viruses, S. 
+pneumoniae, S. aureus 
+(MSSA or MRSA) 
+Airborne Precautions plus Contact Precautions. Use 
+eye/face protection if aerosol-generating procedure 
+performed or contact with respiratory secretions 
+anticipated. If tuberculosis is unlikely and there are no 
+AIIRs and/or respirators available, use Droplet 
+Precautions instead of Airborne Precautions.  
+Tuberculosis more likely in HIV-infected individual 
+than in HIV negative individual 
+Cough/fever/pulmonary infiltrate in 
+any lung location in a patient with a 
+history of recent travel (10-21 days) 
+M. tuberculosis, severe 
+acute respiratory 
+syndrome virus (SARS-
+Airborne plus Contact Precautions plus eye 
+protection. 
+If SARS and tuberculosis unlikely, use Droplet IC-3001- Table 2 
+Clinical Syndromes / Conditions Warranting Empiric Transmission-Based Precautions Pending 
+Confirmation of Diagnosis (CDC page last reviewed: February 2017) 
+ 
+Page 2 of 2 
+                                                                                                          Revised March 19, 2019/ Reviewed September 13, 2024 
+Clinical Syndrome or Condition†  Potential Pathogens‡  Empiric Precautions (Always includes Standard 
+Precautions)  
+to countries with active outbreaks of 
+SARS, avian influenza 
+CoV), avian influenza Precautions instead of Airborne Precautions. 
+Respiratory infections, particularly 
+bronchiolitis and pneumonia, in 
+infants and young children 
+Respiratory syncytial virus, 
+parainfluenza virus, 
+adenovirus, influenza 
+virus, Human 
+metapneumovirus 
+Contact Precautions and Droplet Precautions; Droplet 
+Precautions may be discontinued when adenovirus 
+and influenza have been ruled out 
+SKIN OR WOUND INFECTION 
+Abscess or draining wound that 
+cannot be covered 
+Staphylococcus aureus 
+(MSSA or MRSA), group A 
+streptococcus 
+Contact Precautions 
+Add Droplet Precautions for the first 24 hours of 
+appropriate antimicrobial therapy if invasive Group A 
+streptococcal disease is suspected 
+FOOTNOTES: 
+ 
+* Infection control professionals should modify or adapt this table according to local conditions. To ensure that appropriate 
+empiric precautions are implemented always, hospitals must have systems in place to evaluate patients routinely 
+according to these criteria as part of their preadmission and admission care. 
+ 
+† Patients with the syndromes or conditions listed below may present with atypical signs or symptoms (e.g. neonates and 
+adults with pertussis may not have paroxysmal or severe cough). The clinician's index of suspicion should be guided by 
+the prevalence of specific conditions in the community, as well as clinical judgment.  
+ 
+‡ The organisms listed under the column "Potential Pathogens" are not intended to represent the complete, or even most 
+likely, diagnoses, but rather possible etiologic agents that require additional precautions beyond Standard Precautions 
+until they can be ruled out.  
+ 
+§ These pathogens include enterohemorrhagic Escherichia coli O157:H7, Shigella spp, hepatitis A virus, noroviruses, 
+rotavirus, C. difficile.  
+ 
+Reference: Appendix A: Table 2. Clinical Syndromes or Conditions Warranting Empiric Transmission -
+Based Precautions in Addition to Standard Precautions | Infection Control | CDC (accessed September 
+13, 2024.) 

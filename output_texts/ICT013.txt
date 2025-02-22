@@ -1,0 +1,92 @@
+POLICIES AND PROCEDURES MANUAL   Manual: Organizational  
+Our Lady of the Lake Regional Medical Center   Chapter: Imaging Services 
+Subject: Iodinated Contrast                            Section: CT  
+Date of Origination: 6/1/2006     Supersedes:           
+Date Last Revised: 01/13/2019; 6-14-19             Serial Code: ICT 013 
+Reviewed: 01/17, 6/19, 1/21, 3/23, 8/24                   
+          
+PURPOSE: 
+Reduce the incidence of nephrotoxicity associated with iodinated contrast by determining which 
+patients are at highest risk. 
+POLICY: 
+Screening: All patients do not necessarily need an estimated Glomerular Filtration Rate (eGFR) 
+determination before an exam with contrast. All patients should be screened for the following 
+risk factors of contrast nephrotoxicity to determine if eGFR is needed: 
+• > 60 years of age 
+• Renal disease, including dialysis, transplant, single kidney, cancer, or surgery 
+• Hypertension requiring medical therapy 
+• Diabetes mellitus 
+• Metformin or metformin-containing drug combinations 
+ 
+A serum creatinine will be obtained to calculate an eGFR in all patients with any of the above 
+stated risk factors.  Normal values less than 30 days will be adequate. Abnormal values less than 
+10 days old will be adequate. Otherwise they should be repeated. All ER patients meeting 
+screening criteria should have a result within the last 48 hours.   
+ 
+If an ER patient that is >= 18 has a pending creatinine in the lab (regardless of risk factors 
+above), contrast will not be administered until the eGFR value is resulted.  Any results with an 
+eGFR Below 30 are reported to the Radiologist for contrast determination. If an eGFR is not 
+available, any results with a creatinine above 1.9 are reported to the Radiologist for contrast 
+determination. 
+In patients with acute kidney injury, the administration of iodinated contrast medium should only 
+be undertaken with appropriate caution, and only if the benefit to the patient outweighs the 
+risk.   
+These are guidelines and may vary based upon a certain clinical situation.  For example, trauma 
+activations, stroke alerts, or other medical emergencies may warrant contrast administration prior 
+to obtaining a serum creatinine. 
+  
+Metformin: 
+Category 1 
+In patients with no evidence of acute kidney injury and with eGFR greater than, or equal to 30, 
+there is no need to discontinue metformin either prior to or following the intravenous 
+administration of iodinated contrast media, nor is there an obligatory need to reassess the 
+patient’s renal function following the test or procedure.  
+Category 2 
+In patients taking metformin who are known to have acute kidney injury or severe chronic 
+kidney disease (stage IV or stage V, eGFR<30), metformin should be temporarily discontinued 
+at the time of or prior to the procedure and withheld for 48 hours subsequent to the procedure 
+and reinstituted only after renal function has been re-evaluated and found to be normal.  
+History of Contrast Allergy: 
+If a patient has a documented allergy to iodinated contrast with minor reaction, a 13-hour oral 
+premedication is recommended as follows: 
+• 50 mg prednisone by mouth at 13 hours, 7 hours, and 1 hour before contrast 
+administration, plus 50 mg diphenhydramine intravenously, intramuscularly, or by 
+mouth 1 hour before contrast administration  
+In emergent situations with no alternatives, the following regimen may be considered.  It should 
+be noted that this regimen, and all other regimens with a duration less than 4-5 hours, has no 
+evidence of efficacy.  
+• Solu-Medrol 40 mg IV, plus diphenhydramine 50 mg IV, each 1 hour before contrast 
+administration.  
+Pregnancy: 
+The ACR does not recommend withholding the use of iodinated contrast agents in pregnant or 
+potentially pregnant patients when it is needed for diagnostic purposes.   The radiation dose to 
+the mother and fetus is the primary consideration when performing CT scan on pregnant patients.  
+The pelvis should be shielded, when possible. 
+Breastfeeding: 
+Because of the very small percentage of iodinated contrast medium that is excreted into the breast milk 
+and absorbed by the infant’s gut, available data suggest that it is safe for the mother and infant to continue 
+breast-feeding after receiving such an agent.  Ultimately, an informed decision to temporarily stop breast-feeding should be left up to the mother after 
+these facts are communicated. If the mother remains concerned about any potential ill effects to the infant, 
+she may abstain from breast-feeding from the time of contrast administration for a period of 12 to 24 
+hours. There is no value to stop breast feeding beyond 24 hours. The mother should be told to express and 
+discard breast milk from both breasts during that period. In anticipation of this, she may wish to use a 
+breast pump to obtain milk before the contrast-enhanced study to feed the infant during the 24-hour 
+period following the examination.  
+ (Adapted from the ACR Manual on Contrast Media, 2023, ACR Committee on Drugs and 
+Contrast Media)   
+ 
+ 
+Contrast Injection Coverage 
+The following providers may be considered capable of providing direct supervision of intravenous 
+contrast material administration. 
+ • A radiologist (MD/DO) 
+Or – one of the following under the general supervision of a radiologist:  
+• Non-radiologist physicians (MD/DO)  
+• Advanced practice provider (NP, PA)  
+• Registered nurses following a symptom- and sign-driven treatment algorithm 
+**To accommodate this need and for consistency with CMS, the ACR will continue to accept remote 
+supervision for contrast administration (Direct Supervision for Contrast Studies (Updated 4/2024) 
+ 
+(Adapted from the ACR Manual on Contrast Media, 2024, ACR-SPR Practice Parameter for the 
+use of Intravascular Contrast Media)  
+ 

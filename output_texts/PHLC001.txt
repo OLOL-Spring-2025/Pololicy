@@ -1,0 +1,189 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+Page 1 of 4 
+PHLC001 
+ 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLC001 
+PATIENT IDENTIFICATION 
+       Date Issue  
+Date 
+Effective Date 
+ Prepared/Revised By ZJA/LC 8/9/2019 9/22/2019 9/22/2019 
+Reviewed By LC 9/15/2019 Origination Date 
+Medical Director Review A Harton 9/22/2019 JAN 2006 
+ 
+PURPOSE: 
+To provide for the identification of patients prior to being drawn for laboratory specimens 
+ 
+Addresses: 
+Supervisors 
+Venipuncture Charge Techs 
+Venipuncture Phlebotomists 
+ 
+POLICY: 
+Patient identification is to be established by the Phlebotomist before performing venipuncture.  All non-
+pediatric inpatients that are registered at OLOL shall be identified by at least two identifiers. Patients are 
+to have a hospital armband imprinted with their full name and corresponding medical record number 
+(MRN) attached to a wrist or ankle.  All pediatric inpatients (defined as any patient prior to the 15th 
+birthday) are identified by three identifiers. Verification of the pediatric patient’s full name, medical 
+record number, on an armband and matched armband worn by the designated guardian or nurse of the 
+patient will be used to compare the information in the Rover device or patient’s chart label. Outpatients in 
+areas without armbands are identified by verification of full name and birth date.  The identifiers stated 
+are used to label laboratory specimens at time of collection in the presence of the patient.  Required 
+information must be present and match before the patient can be drawn. 
+ 
+PROCEDURES: 
+A. Inpatient Procedure: (Non-Pediatric Patient) 
+Always identify your patient by verifying patient information from an OLOL issued armband physically 
+attached to the patient before beginning phlebotomy. 
+1. Scan the OLOL issued armband with the Rover device.  Hold the Rover device next to the 
+patient’s armband. 
+2. Visually compare the Rover device screen to the patient’s armband verifying the two patient 
+identifiers: 
+• The full name (first and last) on the laboratory label matches the name (first and last) on 
+the patient’s armband 
+• The medical record number on the laboratory label matches the medical record number 
+on the patient’s armband 
+3. While performing the visual comparisons, ask the patient (if capable) to state their name and date 
+of birth. OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+Page 2 of 4 
+PHLC001 
+4. Perform the phlebotomy only if the name, medical record number, appropriate patient response, 
+and the Rover device are all in agreement. 
+• Rover devices may be subject to failure (unreadable armband, scanner malfunction, 
+hardware or system down time) 
+• Identifying and drawing patients using visual comparison of first and last name and 
+medical record number is permitted during periods of Rover failure 
+5. Verify the orders on the screen of the Rover device.  Pay special attention to special collection 
+instructions and collection times to ensure you do not collect any future orders.  Collect 
+specimens as outline in PHLC003 – Phlebotomy Technique – Venipuncture  
+collections. 
+6. Ensure the specimen does not leave the presence of the patient before being labeled with the 
+proper documentation  
+7. Scan the OLOL issued armband with the Rover device to generate laboratory labels for the 
+specimens. Label the specimen containers at the patient’s bedside using the laboratory label, 
+patient chart label or a handwritten label   
+• Or in emergent situations, labeling needs to take place in the presence of the patient (i.e. 
+Trauma, Code) 
+8. Inpatient labeling requirements include patient name (first and last), patient medical record 
+number, date and time of draw and the Network ID of the person identifying the patient and 
+collecting the specimen 
+9. If using a Rover device and a laboratory label, scan the barcode on all collected specimen(s) and 
+look at the devices input screen: 
+• If “does not match the patient” is displayed a mismatch exists between the scanned 
+armband and the laboratory label indicating an improperly identified patient – stop 
+specimen collection, discard any collected material, notify the charge tech of the error 
+and request instruction  
+• If the comment is not displayed, the scanned armband information matches information 
+scanned on the laboratory label indicating proper patient identification - the collected 
+specimen is accepted when the display on the screen shows “all specimens collected. 
+10. If not using a Rover device, place the properly labeled specimen containers in a biohazard bag 
+and send the specimens to the laboratory       
+B. Inpatient PEDIATRIC Procedure: (defined as any patient prior to the 15th birthday) 
+Always identify your patient by verifying patient information from an OLOL issued armband physically 
+attached to the patient before beginning phlebotomy 
+When drawing on the pediatric units use the three-identification step method 
+1. Scan the OLOL issued armband with the Rover device.  Hold the Rover device next to the 
+patient’s armband. 
+2. Visually compare the Rover device screen to the patient’s armband verifying the patient 
+identifiers: 
+• The full name (first and last) on the Rover device screen matches the name (first and last) 
+on the patient’s armband 
+• The medical record number on the Rover device screen matches the medical record 
+number on the patient’s armband OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+Page 3 of 4 
+PHLC001 
+3. While performing the visual comparisons, ask the patient (if capable) to state their name 
+4. Visually compare the Rover device screen to the patient’s designated guardian or nurse verifying 
+that: 
+• The name (first and last) on the Rover device screen matches the name (first and last) on 
+the caregiver or parent armband 
+• The medical record number on the Rover device screen matches the medical record 
+number on the caregiver or parent armband 
+5. Perform phlebotomy only if the above identifiers are all in agreement. 
+(Rover device screen comparison to patient armband and guardian or nurse armband) 
+• Rover devices may be subject to failure (unreadable armband, scanner malfunction, 
+hardware or system down time) 
+• Identifying and drawing patients using visual comparison of first and last name and 
+medical record number is permitted during periods of Rover failure  
+6. When the patient caregiver or parent is not present, the patient’s assigned nurse can substitute for 
+the caregiver or parent in the identification process  
+7. Verify the orders on the screen of the Rover device.  Pay special attention to special collection 
+instructions and collection times to ensure you do not collect any future orders.  Collect 
+specimens as outline in PHLC003 – Phlebotomy Technique – Venipuncture  
+collections. 
+8. Ensure the specimen does not leave the presence of the patient before being labeled with the 
+proper documentation  
+9. Label the specimen containers at the patient’s bedside using the laboratory label, patient chart 
+label or a handwritten label   
+10. Inpatient labeling requirements include patient name (first and last), patient medical record 
+number, date and time of draw and Network ID of the person identifying the patient and 
+collecting the specimen 
+11. If using a Rover device and a laboratory label, scan the barcode on the collected specimen and 
+look at the devices input screen: 
+• If “does not match the patient” is displayed a mismatch exists between the scanned 
+armband and the laboratory label indicating an improperly identified patient – stop 
+specimen collection, discard collected material, notify the charge tech of the error and 
+request instruction  
+12. If the comment is not displayed, the scanned armband information matches information scanned 
+on the laboratory label indicating proper patient identification - the collected specimen is 
+accepted when the display on the screen shows “all specimens collected.  Place the properly 
+labeled specimen container(s) in a biohazard bag and send the specimen(s) to the laboratory 
+13. If not using a Rover device, place the properly labeled specimen containers in a 
+biohazard bag and send the specimens to the laboratory       
+C. Outpatient Procedure: 
+Outpatients in areas without armbands are identified by verification of full name and birth date. Always 
+identify your patient by verifying patient information before beginning phlebotomy 
+1. An outpatient is identified by verification of full name and birth date.  
+2. The outpatient’s full name and date of birth will be noted on the laboratory order form or the 
+physician’s written script requesting testing 
+3. Bring the patient into the drawing station 
+4. Before beginning the phlebotomy, ask the patient to tell you their name and date of birth 
+5. Compare the patient’s verbal response to the written data OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+Page 4 of 4 
+PHLC001 
+6. Draw the patient only if the patient’s response matches the written data 
+7. When drawing a child or incapacitated adult use the above procedure but direct the questions to 
+the caregiver or parent present with the patient  
+8. Ensure the specimen does not leave the presence of the patient before being labeled with the 
+proper documentation  
+9. Label the specimen containers at the point of patient contact using the laboratory labels, patient 
+chart label or handwritten label   
+10. Outpatient labeling requirements include patient name (first and last), date of birth, date and time 
+of draw and Network ID of the person performing the collection 
+11. On the outpatient order, write the types and numbers of tubes collected, time and date of draw 
+and Network ID as collector of the specimens 
+ 
+Limitations of the Procedure: 
+A. Another person may collect a sample via an indwelling access line or other method, but the attending 
+Phlebotomist is to: 
+1. Be present during the collection of the specimen 
+2. Perform patient identification 
+3. Label and sign the specimen container 
+4. Is responsible for the accuracy of the patient collection 
+B. A Phlebotomist may not accept responsibility for unlabeled specimens, incompletely processed unit 
+collections, or specimen draws that were not witnessed by the phlebotomist 
+C. When an OLOL armband is removed for any reason, the armband will be placed on an alternate 
+limb. The individual who removes the armband is responsible for assuring that the patient has an 
+armband located somewhere on the patient’s body. 
+1. Reprint armband. 
+2. Reapply new armband on patient’s limb (arm or leg) whenever possible.   
+3. If this is not possible due to wounds, injury, amputation, very fragile skin, multiple IV 
+lines, etc., the armband will be placed at an alternate site of the patient’s body, and the 
+location will be identified on the front of the patient’s chart.    
+4. Put two armbands together to enlarge an armband to use over fragile skin, a swollen limb, 
+or a cast. 
+5. Armbands should never be placed on the patient’s bed or any other piece of equipment. 
+6. Consult with your or Supervisor or Manager 
+ 
+REVISIONS 
+01/2006 (created); 7/26/2011; 8/9/2017; 8/19/2019 

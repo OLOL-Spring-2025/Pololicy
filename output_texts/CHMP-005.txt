@@ -1,0 +1,49 @@
+CHMP-005 
+Page 1 of 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Children’s Hospital Section/ 
+Chapter: Medications/Pharmacy 
+Title: Acetaminophen Product Selection 
+Policy 
+Reference #: CHMP-005 
+Supersedes #:  
+Date of Origination: June 27, 2011 Review Date: June 7, 2024 
+Revision Date: June 3, 2016 
+    
+ 
+ 
+PURPOSE: 
+ 
+To standardize a product selection procedure for acetaminophen dosing in pediatric patients. 
+ 
+POLICY: 
+ 
+Acetaminophen is widely used in children.  Even though safety and efficacy is well established, toxicity 
+remains a concern.  The availability of multiple formulations leads to confusion among caregivers and 
+unintentional overdoses in pediatric patients.  Rectal suppositories cannot reliably be divided by more 
+than half.  The physician order will select the appropriate acetaminophen formulation at the point of order 
+entry.  
+ 
+A. Oral liquid product selection: 
+ 
+ Acetaminophen doses for all pediatric patients requiring liquid preparation will be entered and 
+dispensed using the acetaminophen 325mg/10.15ml unit dose suspension.   
+ 
+B. Rectal suppository product selection:  
+ 
+Orders for acetaminophen rectal suppositories will be rounded according to the table below.  The 
+pharmacist verifying the order will make the appropriate rounding step.   
+ 
+ 
+Prescribed dose  Rounded dose  
+<57mg 40mg (½ 80mg suppository) 
+57mg to 76mg 60mg (½ 120mg suppository) 
+77mg to 114mg 80 mg suppository 
+115mg to 152mg 120 mg suppository 
+153mg to 228mg 162.5mg (½ 325mg suppository) 
+229mg to 308mg 240mg ((2) 120 mg suppositories) 
+309mg to 466mg 325mg suppository 
+467mg - 635mg 490mg (1½ 325mg suppository) 
+>635 mg 650mg suppository 
+ 
+  

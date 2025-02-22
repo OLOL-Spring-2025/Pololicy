@@ -1,0 +1,295 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: 
+Medication Use, 
+Storage and 
+Handling 
+Title: Medications: High Alert Medications Policy Reference #: PH-03-10 
+Supersedes #: PH-09-07-O 
+Date of Origination: 05/23/2006 Last Date Reviewed: 05/20/2024 
+Last Date Revised: 05/07/2018 
+ 
+PURPOSE: 
+To provide standardized medication safety policies for “high alert” medications identified by the Institute for Safe Medication Practices 
+(ISMP). 
+ 
+DEFINITIONS: 
+ 
+High-alert Medications:  medications that bear a higher risk of causing significant patient harm when they are used in error. 
+ 
+Independent double check:  for the purpose of this policy, shall mean two authorized personnel separately checking the accuracy of the 
+following against the prescriber’s order. 
+ 
+Authorized prescriber:  for the purpose of this policy, “authorized prescriber” shall mean a practitioner recognized by Our Lady of the 
+Lake Regional Medical Center (OLOL) as having privileges to write orders for medications within the scope of their clinical practice at 
+OLOL. 
+ 
+POLICY: 
+I. The following medications are considered high-alert at Our Lady of the Lake Regional Medical Center (OLOL)  
+a. Vasopressors 
+i. Epinephrine 
+ii. Norepinephrine 
+iii. Phenylephrine 
+b. Insulin (all formulations) c. Antifibrinolytics:   
+i. alteplase (TPA; excludes catheter occlusion doses) 
+ii. Tenecteplase (TNK) 
+d. Opioids for Injection 
+i. Morphine 
+ii. Hydromorphone 
+iii. Fentanyl, sufentanil, remifentanil 
+iv. Meperidine 
+v. PCAs 
+vi. Epidurals 
+e. Intrathecal Medications 
+f. Concentrated electrolytes for injection 
+i. Potassium chloride, potassium phosphate, potassium acetate 
+ii. Sodium Chloride solutions greater than 0.9% 
+g. Heparin Infusions 
+h. Neuromuscular blockers 
+i. Chemotherapy 
+i. Vinca alkaloids 
+1. Vincristine 
+2. Vinblastine 
+3. Vinorelbine 
+ii. Methotrexate 
+ 
+II. The following methods shall be utilized, where appropriate, to prevent harm associated with the use of high-alert 
+medications: 
+a. Development of order sets, pre-printed order forms, and protocols to standardize prescribing and monitoring 
+b. Use of standardized concentrations, dosage strengths, and dosage forms to minimize variability 
+c. Use of pre-mixed and unit-dosed medications whenever possible 
+d. Use of programmable pumps to administer continuous and intermittent infusions 
+e. Perform independent double checks after preparation and prior to administration 
+i. Factors to be identified during the independent double check include 1. Right patient identification per our organization’s policy 
+2. Right drug (verified against current order) 
+3. Right dose of drug (verified against current order and infusion pump; mathematical calculations, 
+strength or concentration must be verified) 
+4. Right route of administration 
+5. Right time of administration 
+f. Limit prescriptive authority to authorized providers 
+g. Restrict the use of certain high-alert medications to appropriate nursing units 
+h. Utilize barcode scans during the following medication processes (where automation present): IV compounding, 
+repackaging, dispensing, loading and refilling in automated dispensing cabinets  
+i. All defined “High Alert” medications should be labeled as such in the Electronic Medical Record in a face up manner 
+to the administering provider 
+j. Limit the storage of high-alert medications to areas with personnel trained for safe preparation and administration. 
+III. Readers of this policy should refer to the attached High Alert Restrictions reference document for detailed instructions for 
+handling high-alert medications. 
+ 
+REFERENCES 
+MM 01.01.03 EP1. The hospital identifies, in writing, its high-alert and hazardous medications. The Joint Commission Medication 
+Management Standards 
+MM 01.01.03 EP2. The hospital has a process for managing high-alert and hazardous 
+medications. The Joint Commission Medication Management Standards 
+MM 01.01.03 EP3. The hospital implements its process for managing high-alert and hazardous medications. The Joint Commission 
+Medication Management Standards Meds Requiring Special Monitoring Protocol  High Alert Medications Restrictions 
+(see High-Alert Policy PH-03-10) 
+Drug(s) Actions to Prevent Errors Comments 
+Prescribing Preparation  
+& Dispensing 
+Administration  
+& Monitoring 
+Storage 
+Authorized prescriber 
+Order Set 
+Protocol 
+Standard Dose 
+Standard Conc. 
+Standard Form 
+Double-check 
+Labeling 
+Infusion Pump 
+Double-check 
+Patient care unit restrictions 
+Unit storage restriction 
+Antifibrinolytics  
+(excludes 
+cathether 
+occlusion doses) 
+  
+  
+  
+  
+● 
+  
+  
+  
+● 
+  
+● ● a. Standard concentrations and 
+dosing:  see applicable protocols 
+Alteplase only:  
+b. Orders require starting dose and 
+continuous rate when applicable 
+c. Infusion pump must be used to 
+administer 
+Epinephrine, 
+Norepinephrine 
+Phenylephrine 
+infusions 
+        ●       ●   ● ● a. Standard concentrations:  see 
+protocol 
+b. Restricted patient care units: see 
+Meds Requiring Special Monitoring 
+document, exception: code blue 
+situations 
+c. Orders require starting dose and 
+titration 
+d. Infusion pump must be used to 
+administer 
+Insulin infusion     ●   ●       ● ● ●   a. Insulin infusion titration protocol 
+must be utilized 
+b. Restricted patient care units: see 
+Meds Requiring Special Monitoring 
+document 
+c. Standard concentration: see 
+protocol 
+d. Infusion pump required for 
+administration 
+e. Independent double check:  two 
+nurses prior to administration Insulin pens                   ●   ● a. Insulin vials will be stored 
+separately.  Different formulations will 
+be stored separately. 
+b. Independent double check: two 
+nurses prior to administration 
+c. Bedside Barcode Scanning (BCMA) 
+should be used to verify product 
+Methotrexate (all 
+formulations) 
+      ●     ● ● ● ●   ● a. Standard dose:  oral methotrexate 
+will default to weekly dosage. 
+b. Independent double check:  two 
+pharmacists before dispensing IV 
+c. Label to include "Cytotoxic" 
+d. Infusion pump required for 
+administration of IVPB and continuous 
+infusions 
+e. Independent double check: two 
+nurses prior to administration 
+f.  Storage restrictions:  main and 
+satellite pharmacies 
+Morphine, 
+hydromorphone, 
+fentanyl, 
+meperidine inj. 
+      ●               ● a. Stored separately in Pyxis 
+b. Meperidine restricted to treatment of 
+rigors 
+c. Max single dose of hydromorphone 
+is 2mg (exception: end of life care) 
+Morphine, 
+hydromorphone, 
+fentanyl 
+infusions/ PCAs 
+  ● ●   ●       ● ●   ● a. Stored separately in Pyxis 
+b. Electronic order sets and standard 
+protocol must be used 
+c. Standard concentration: see 
+protocol 
+d. Infusion pump must be used to 
+administer 
+e. Fentanyl Infusion must be secured 
+in LockBox during administration 
+e. Two nurses must verify order and 
+pump settings (see NMA016) 
+Sufentanil, 
+alfentanil, 
+remifentanil inj. 
+●                   ● ● a. Stored separately in Pyxis 
+b. Authorized prescriber:  
+Anesthesiologists, CRNAs 
+c. Restricted patient care units:  OR d. Pop-up will generate in Pyxis stating 
+“High Alert” 
+Vecuronim, 
+rocuronium, 
+cisatracurium, 
+atracurium, 
+succinylcholine 
+●       ●       ●   ● ● a. Authorized prescriber:  physicians 
+authorized to perform deep sedation, 
+residents, CRNAs 
+b. Storage Restrictions:  OR, ICU, RSI 
+Kits 
+c. Standard concentration: see 
+protocol 
+d. Infusion pump required for infusion 
+e. Storage Bins will be marked as 
+“high alert” in Pyxis 
+Intrathecals  
+(methotrexate, 
+cytarabine, 
+baclofen, 
+betamethasone, 
+penicillin G) 
+●         ● ● ●   ● ●   a. Authorized prescribers: medical 
+oncologists, interventional radiologists  
+b. Independent double check:  two 
+pharmacists before dispensing 
+c. Syringe size ≤ 10mL 
+d. Label to include "Caution:  For 
+Intrathecal Use Only" 
+e. Only preservative-free formulations 
+used for preparation. 
+Potassium vials 
+(chloride, 
+phosphate, 
+acetate) 
+                      ● a. Storage restrictions: main and 
+satellite pharmacies, OR Perfusion 
+trays 
+b. Storage Bins will be marked as 
+“High Alert” 
+Potassium riders 
+(chloride, 
+phosphate, 
+acetate) 
+        ●       ●       a. Standard concentration: see 
+protocol 
+b. Infusion pump required for infusion 
+Heparin injections 
+and infusions  
+(exclude 
+flushes/locks) 
+      ● ●       ●       a. Heparin infusion titration protocol 
+must be utilized 
+b. Infusion pump required for 
+continuous or intermittent infusion 
+c. Storage restrictions:  main and 
+satellite pharmacies 
+d. Standard concentrations: see 
+protocol  e. Storage Bins will be marked as 
+“high alert” 
+Sodium chloride 
+>0.9% inj. 
+(e.g. 3%, 14.6%, 
+23.4%) 
+        ●       ● ●     a. Storage restrictions:  main and 
+satellite pharmacies, ICUs 
+b. Infusion pump required for 
+continuous or intermittent infusion 
+c. Two nurses must verify order and 
+pump settings 
+Vincristine, 
+vinblastine, 
+vinorelbine  
+(non-intrathecal) 
+●         ● ● ● ● ●   ● a. Authorized prescriber:  medical 
+oncologist 
+b. Independent double check by two 
+pharmacists before dispensing 
+c. Vincristine and vinblastine can only 
+be prepared and dispensed in a 
+minimum volume of 25mL of 0.9% 
+sodium chloride injection minibag 
+d. Vinorelbine can only be prepared 
+and dispensed in a minimum volume 
+of 25mL of 0.9% sodium chloride 
+delivered in a minimum of a 30mL 
+minibag 
+e. Minibag labeled "Fatal if given by 
+other routes", "For IV Use Only" 
+f. Independent double check by two 
+registered nurses prior to 
+administration 
+g. Use of an infusion pump for 
+administration 
+h. Storage restrictions: main pharmacy 

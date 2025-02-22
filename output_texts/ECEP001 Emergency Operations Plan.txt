@@ -1,0 +1,954 @@
+ 1 
+ This Plan may be activated when an event suddenly or significantly occurs that: 
+A. Disrupts the environment of care, (for example, damage to the buildings and/or grounds due to severe 
+windstorms, tornadoes, or hurricanes.).  
+B. Disrupts care and treatment, (for example loss of utilities- electricity, water, telephones - due to floods, riots, 
+accidents, or emergencies within the hospital or in the surrounding community); or  
+C. Changes or increases the demand for services (for example, infectious disease outbreak, bioterrorism attack, 
+natural disaster, building collapse, or airplane crash in the community).  
+ 
+Policy:  
+Should an emergency condition or situation occur, is responsible for providing acute healthcare services within 
+the hospital’s capacity and capability as appropriate to people affected by the event. Response actions may 
+include, but are not limited to 
+A. Maintaining existing operations 
+B. Conserving resources and/or curtailing services 
+C. Coordinating with community partners to ensure patient care and resource sharing when appropriate 
+D. Obtaining additional resources from outside the hospital within the community or outside the local 
+community 
+E. Evacuating patients from the hospital in instances where the environment is not safe for patient care. 
+ 
+Procedure: 
+Authority to Activate the Emergency Operations Plan  
+The Administrator on Call (AOC) or designee has the authority to activate or discontinue the hospital’s Incident 
+Command System (ICS). Activation may also occur by joint decision between the Manager, Environmental 
+Safety and the AOC.  
+A. The Chief Executive Officer (CEO) and Chief Operations Officer (COO) will be notified as soon as possible 
+whenever an emergency event plan is activated.  
+B. The AOC/Incident Commander will notify the PBX page operator to announce the appropriate code three 
+times to notify staff that the appropriate emergency event plan has been activated and will notify 
+Marketing/Communications to issue the appropriate Mass Text/Lake Alert to all Team Members. Children’s 
+hospital with notify team members via the VOALTE message system. (See ECEP012 for a current list of 
+emergency event codes.)  
+C. Activation of the Emergency Operations Plan is divided into the following categories to scale the hospital’s 
+response appropriate to the emergency.  
+1. Code ( ) Alert will be called after the Incident Commander (Administrator on Call) or designee has 
+assessed the situation or event and has determined that the "Alert Stage" is needed prior to activation 
+of the Emergency Event Procedures. When a Code Alert is called, departments will: 
+i. Check and update the departmental phone list (Administration will check and update 
+Directors, Department phone list).  
+ii. Review department specific roles during emergencies.  
+iii. Check communications devices i.e., charge cell phones/walkie-talkies.  
+iv. Notify off-duty Staff of the Alert and informing them that they are on "stand by" and are to 
+remain in town and be prepared to proceed to the hospital if called in.  
+v.  Report status to the Command Center when finished. 
+2. Code  2 
+i. Announcement of an emergency code signals full activation of the emergency plan. See 
+ECEP012 for a list of emergency codes.  
+3. Code (Drill) 
+i. Code ( ) Drill signals that an emergency plan exercise or drill is occurring.  
+ii. During an emergency plan exercise, all departments will implement their emergency plan 
+appropriate to the event. One exception is that personnel will not proceed to the Hospital 
+when contacted. When staff call-out procedures are tested, the following information will be 
+recorded for the drill evaluation and forwarded to the Safety Officer. 
+1. How many employees were called? 
+2. How many employees were contacted? 
+3. How many employees would be able to report to the Hospital? 
+iii. At the conclusion of the drill an all-clear announcement will be made.  
+ 
+Incident Command  
+When the decision has been made to activate the Emergency Operations Plan, the Administrator on Call (AOC) 
+will establish an Incident Command Center. The AOC is designated as the Incident Commander and will assign 
+the Incident Command Team positions to leaders available for the position at the time of emergency.  
+A. The hospital Incident Commander is responsible for overall coordination of the hospital response to the event.  
+B. The hospital uses an Incident Command System (ICS) that is compliant with the National Incident 
+Management Structure (NIMS) for managing the hospital’s response to disaster events.  
+C. See Appendix A for ICS organizational chart and description of roles.  
+ 
+Response Procedures and Resources 
+A. See also specific emergency event policies, plans, and procedures for the following:  
+1. Evacuation (ECEP003) 
+2. Code Gray - Severe Weather (Tornado ECEP-004; Hurricane ECEP005) 
+3. Code Black - Bomb Threat (ECEP006) 
+4. Code Red - Fire (ECEP007) 
+5. Infectious Disease / Biological Terrorism / Pandemic Influenza (ECEP008) 
+6. Code Purple – Loss of Utilities, Information Systems or Telecommunications (ECEP009) 
+7. Code Orange - Chemical Contamination (ECEP010) 
+8. Code Green - Radiation Exposure (Radiation Safety Plan) (ECEP013) 
+9. Code Yellow - Mass Casualty Incident (ECEP016) 
+10. Code Pink – Missing Person (ECSE001) 
+11. Code Silver – Active Shooter / Hostage (ECSE019) 
+12. Emergency Security Plan (ECEP011) 
+13. Emergency Security Procedures (ECSE016) 
+ 
+B. Notification of Emergency Event:   
+When the decision to implement an emergency plan is made, the following will take place: 
+1. PBX operator will be instructed to announce "Code “(color)" three times to alert staff within the  3 
+building.   
+2. Marketing/Communications will be instructed to issue the appropriate alert via the Mass Text/Lake 
+Alert System/VOALTE system (Children’s Hospital) 
+3. All departments will implement their respective departmental emergency checklists and, when 
+appropriate, contact off duty staff to determine their availability to return to the hospital. 
+4. All personnel on duty will remain within the hospital until released by their Department Head or 
+designee. 
+ 
+C. Communication During an Emergency Event  
+1. The Public Information Officer is responsible for ensuring ongoing communication throughout the 
+event.  
+2. Internal Communication (to staff, patients, guests) 
+i. Staff are notified of an emergency event or plan activation by the following 
+1. Overhead announcement of an emergency code to alert.  
+2. Notification through a departmental call tree. 
+3. Ongoing communication is provided through Team Member Alerts, email 
+communication, Mass Text/Lake Alert System and scheduled leadership and 
+departmental briefings. 
+4. A Disaster Information Line is provided for staff to hear pre-recorded information 
+about the event and actions they should take.  
+5. In the event of a Code Purple, refer to ECEP009: Information Systems and/or 
+Telecommunications Failure – Responsibility Matrix 
+ii. Patients and Guests are informed of an emergency event by hospital leadership through direct 
+communication (scripting provided to staff) or information published through internal 
+communication vehicles (for example: Currents / Lake Link or electronic bulletin boards).  
+1. During emergency event plan exercises, staff will advise guests that the alert is a “test 
+of the hospital’s emergency plan.”  
+3. External Communication  
+i. Communication with external authorities is managed through the hospital command center.  
+ii. Response to Media requests is the responsibility of the Public Information Officer. 
+iii. The Logistics group will proactively contact vendors and supply distributors to ensure an 
+uninterrupted supply chain.  
+iv. Coordination with other healthcare organizations is the responsibility of the Liaison Officer. 
+See the Louisiana Hospitals Regional Emergency Response Plan.  
+4. Communications Equipment 
+i. Each department is responsible to ensure that communications equipment assigned to the 
+department is always operational and charged. Equipment includes but is not limited to 
+cellular telephones, pagers, PDA’s. 
+ii. Telecommunication Information Systems maintains radios to be deployed to the Incident 
+Command Center to support communication when appropriate.  
+iii. Radios:  
+1. LWIN 700 MHz radio is available for external communication 
+2. Handheld radios (walkie-talkies) are available for assignment when necessary. The  4 
+Motorola Capacity Plus Radio System is available for use by Plant Services, 
+Security, Housekeeping and Nutrition Services.  The Emergency Departments at both 
+the Regional Medical Center and Lake Livingston also utilize their own handheld 
+radios for daily and emergency use.  The Respiratory Care Department has a radio for 
+use to communicate with the Emergency Department during an emergency. 
+D. Resources and Assets 
+1. The hospital maintains an adequate inventory to sustain operations for at least four (4) days operation.  
+i. When additional resources are needed, the request will first be directed to internal sources 
+such as existing contracted agreements and relationships. Resource specific contracts are in 
+place in key resource areas including Nutritional Services, Pharmacy, Materials Management 
+and Facilities. 
+ii. The decision to request additional supplies, medication, food/water, or facility supplies from 
+external sources such as the Parish or State will be made by the Incident Commander and 
+Logistics Chief based on data supplied by the resource areas.  
+a. nd tracking requests made through these avenues. 
+b. The hospital will notify the Region 9 HDRC when supplies are received.  
+2. Any supply, equipment item or other resource shared with another healthcare facility 
+or community agency will be tracked to ensure proper financial accounting and/or 
+return of the equipment. 
+2. Materials Management  
+i. Upon plan activation, Materials Management will assess current inventory and contact 
+distributors for additional supplies as needed.  
+1. Contact information for vendors is maintained by Materials Management.  
+2. A Disaster Supply Order is maintained at the hospital’s primary distributor and is 
+available for delivery on request.  
+3. A Disaster Treatment Cart is maintained in Materials Management for immediate 
+delivery to the Emergency Care Unit when needed.  
+ii. Materials Management will monitor utilization of patient care supplies and report status to the 
+Command Center (Logistics Chief) as requested. Immediate notification will be made should 
+any key supply item be identified as in short supply without pending restock.  
+iii. A cache of personal protective equipment (N-95 respirators) is maintained in Materials 
+Management for use during a disaster response to protect employees. The decision to access 
+the cache is the responsibility of the Logistics Chief. 
+3. Pharmacy  
+i. Upon plan activation, Pharmacy will assess current inventory and contact distributors for 
+additional supplies as needed.  
+1. Contact information for vendors is maintained by Pharmacy.  
+2. Agreements with primary distributors are in place to provide additional medications 
+and pharmaceutical supplies when needed.  
+ii. Pharmacy will monitor utilization of medications and report status as requested to the 
+Logistics Chief. Immediate notification will be made should any key medication be in 
+identified short supply without pending restock.  
+iii. A cache of medications used for prophylaxis during a biological event is maintained in 
+Pharmacy for hospital use. Medications are rotated to ensure minimal loss when the 
+expiration date is reached.  5 
+4. Linen Services  
+i. Upon plan activation, Linen Services will assess current inventory and contact distributors for 
+additional supplies as needed.  
+1. Contact information for vendors is maintained by Linen Services  
+ii. Linen Services will monitor utilization of supplies and report status as requested to the 
+Logistics Chief. Immediate notification will be made should supplies be identified in short 
+supply.  
+1. Staff will be advised to conserve linen use in any event where supply is limited, or 
+delivery of support supplies is delayed.  
+iii. A Disaster Linen Cart containing back-up linens for immediate delivery to the Emergency 
+Care Unit when needed. 
+5. Nutritional Services 
+i. Upon plan activation, Nutritional Services will assess current inventory and contact 
+distributors for additional supplies as needed 
+1. Contact information for vendors is maintained by Nutritional Services. 
+ii. Nutritional Services will monitor utilization of food and water and report status as requested 
+to the Logistics Chief. Should food and/or water supplies become depleted, immediate 
+notification will be made.  
+6. Equipment and supplies are available for decontamination of victims exposed to chemicals and 
+radiation. 
+i. A decontamination team is trained to respond to external emergencies involving 
+contamination with chemical or radiation events.  
+ii. See ECEP010 – Chemical Contamination (Code Orange) Plan 
+iii. See ECEP013 – Radiation Contamination (Code Green) Plan 
+ 
+E. Security and Safety 
+1. The Safety and Security Officer is responsible for implementing appropriate safety and security 
+measures during emergency event plan activation. 
+2. The decision to activate Secured Access procedures will be approved by the Incident Commander in 
+consultation with the Safety and Security Officer. 
+i. See also Emergency Security Plan (ECEP011) and Emergency Security Procedures 
+(ECSE016).  
+ii. All staff MUST always wear an OLOL photo identification badge, especially in an 
+emergency event. If Secured Access has been implemented, the badge is required to enter to 
+the facility.  
+iii. Visitor access may be restricted and will require registration depending on the level of 
+Secured Access implemented.  
+iv. Vehicle access may be restricted with non-emergency traffic redirected when necessary.  
+1. Access for emergency services vehicles and patients seeking care for an emergency 
+medical condition will not be restricted.  
+3. Additional security resource needs will be communicated to the Safety and Security Officer when 
+identified.  
+i. If additional staff is needed to implement the security plan, staff from the Environmental 
+Services Department will be assigned to support security whenever possible.  6 
+ii. Community-based law enforcement support may be requested through the Mayor’s Office of 
+Homeland Security and Emergency Preparedness (MOHSEP) 
+1. Community-based law enforcement support received will be assigned and monitored 
+by the Safety and Security Officer.  
+2. Requests for the OLOLRMC, Children's Hospital, Lake Ascension, and/or North ED 
+campus will be directed to the Region 2 HDRC. 
+3. Requests for the OLOL-Livingston campus will be directed to the Region 9 HDRC.  
+4. Special attention will be made to ensure the security of children and other vulnerable groups.  
+i. See Child Safety and Security (ECSE015) and OrgClin018 for identification and supervision 
+policy. 
+ii. If a child is unattended, efforts will be made to contact the appropriate parent/guardian to 
+identify the child.  
+iii. When necessary, a separate area will be established to temporarily house children until they 
+can be reunited with parent/guardian.  
+                          
+F. Staff  
+1. All employees are essential and will be assigned to assist in the event response until released by the 
+Incident Commander or his/her immediate supervisor.  
+i. Disaster Staffing Teams are designated to support an extended response. See Disaster 
+Staffing (ECEP-014). 
+2. Personnel Pool 
+i. The Incident Commander and/or Logistics Section Chief have the authority to activate the 
+Personnel Pool. The Incident Commander will determine where the Personnel Pools will be 
+located depending on the situation and available space. 
+ii. Human Resources is responsible for coordinating the personnel pool.  
+iii. All staff called in will report to the Personnel Pool. 
+Exception:  
+1. In a Mass Casualty Incident, staff from the following departments, are directed to 
+respond to their unit/area until given further instructions: Critical Care Units, 
+Emergency Care Unit, Laboratory, Pharmacy, Physical Therapy, Radiology, 
+Respiratory Care, and Perioperative Services. (See also ECEP016 Mass Casualty 
+Incident). 
+2. Managers from these areas are responsible for evaluating the need for staff during a 
+Mass Casualty Incident and releasing staff for other assignment as quickly as 
+possible. 
+iv. If a department or service area is suspended by the Incident Commander, those staff will 
+report to the appropriate Personnel Pool for assignment. 
+v. Staff assignments are made based on identified needs as well as the person’s skills and 
+abilities.   
+3. Physicians 
+i. Members of the Medical Staff and employed Physicians will report to the Medical Staff 
+Office or Command Center for assignment.  
+ii. Emergency credentialing of volunteer physicians will follow procedures defined by the 
+Medical Staff Bylaws, Governmental Proclamations, and Executive Orders.  7 
+iii. Physicians are required to wear an OLOL issued identification badge during their assignment.  
+1. Volunteer physicians will be provided a temporary badge by the Medical Staff 
+Office.  
+4. Volunteers 
+i. The Incident Commander in coordination with the Operations Section Chief, Planning 
+Section Chief and Medical Staff Specialist will determine if volunteer medical professionals 
+or non-medical volunteers will be included in the hospital’s response.  
+ii. Volunteer assignments will be managed through the Personnel Pool and Medical Staff Office 
+(physicians and Licensed Independent Practitioners). 
+iii. Whenever possible, volunteer medical professional’s credentials will be verified prior to 
+assignment. See also Volunteer Practitioners Policy (ECEP-015) 
+iv. Volunteers are required to wear an identification badge issued by Our Lady of the Lake 
+during their assignment. 
+5. Family Support and Dependent Care 
+i. The decision to offer family support (lodging) and dependent care will be made by the 
+Incident Commander. Dependent Care will only be available as a last resort for staff that is 
+unable to make prior arrangements for children during an emergency event.  
+ii. Support in the form of lodging will be available to staff members’ immediate family when 
+appropriate.  
+6. Psychosocial Support / Critical Incident Stress Debriefing 
+i. A Psychosocial Support Team will be available to support staff, patients, victims and family 
+of patients/victims when appropriate. Key staff members have been trained in Critical 
+Incident Stress Management procedures to facilitate psychosocial support activities.  
+ii. Leadership is responsible for monitoring staff during a response and requesting the 
+Psychosocial Support Team when needed.  
+ 
+G. Utility Systems and Physical Environment 
+1. Plant Services will ensure that emergency utility systems (i.e., emergency generator, fuel tanks, back 
+up water supply, HVAC, etc.) are fueled, functional, and maintained appropriately. 
+i. Emergency electricity is available through back-up generators. (See ECUS003). Generator 
+support is prioritized for critical areas through a uniquely identifiable (red) receptacle.  
+1. A current list of all areas supplied by emergency power is maintained in Plant 
+Services. 
+2. Fuel for generators is stored in diesel tanks.  
+3. Agreements are in place with a fuel vendor to provide additional fuel when 
+requested. 
+ii. Water for equipment and sanitary purposes is provided by Baton Rouge Water Company. 
+1. Disruption of water/sewer services will trigger water conservation procedures. 
+2. Personal care kits will be used to provide for patient hygiene needs. 
+3. Waterless products will be used for patient and staff hygiene.  
+iii. HVAC is not supported with emergency generator power at some locations. 
+1. Loss of HVAC will be compensated with placement of temporary HVAC units (spot 
+coolers) in critical areas.   8 
+2. Requisitions for temporary HVAC units will be coordinated through the Incident 
+Command Center. 
+iv. Medical Gas and Vacuum systems are supported with additional tanks of portable gasses 
+through agreement with the hospital’s medical gas vendor. Portable suction units are 
+available through Central Supply. 
+v. Hazardous Materials and Wastes will be stored in a secure location during any plan 
+activation. 
+1. Plant Services is responsible for management of hazardous materials and wastes. 
+2. Upon plan activation, Plant Services will contact the hospital’s waste vendor to 
+request additional containers or collection as needed.  
+3. Additional security may be assigned to monitor storage areas housing hazardous 
+materials and waste if needed.  
+a. Incidents of inappropriate access to the storage area will be reported 
+immediately to the Safety and Security Officer in the Command Center.  
+vi. Information Systems (electronic medical record system, telecommunications, etc.) are 
+coordinated by FMOLHS Information Systems. 
+1. The Incident Command center will coordinate with FMOLHIS to ensure operation of 
+information systems necessary for hospital operations. 
+2. Downtime procedures will be used should the hospital experience a loss of 
+information systems.  
+ 
+H. Patient Care Operations 
+1. An Operations Chief is assigned to coordinate clinical activities including patient scheduling, triage, 
+assessment, treatment, admission, transfer and discharge.  
+2. The Incident Commander in consultation with the Medical Staff Specialist and Operations Section 
+Chief will determine the extent to which patient care operations will be modified to respond to the 
+emergency event.  
+3. The Incident Commander is responsible for notifying the Louisiana Department of Health 
+(LDH), Health Standards Division if the hospital exceeds licensed bed capacity as a result of the 
+event. (See Appendix C for a sample letter). 
+4. Bed Capacity  
+i. For community-wide events, the OLOLRMC, Children's Hospital, and OLOL Ascension will 
+report bed capacity to the Parish and State using the State’s web-based resource tracking tool 
+as requested. This information is submitted to assist the Regional Hospital Coordinator in 
+managing patient flow within the community. 
+1. The Beds Coordinator/House Manager is responsible for updating information at 
+established intervals (usually every 8-12 hours) or as often as necessary to 
+communicate an accurate picture of hospital resources.  
+2. Capacity information reported will include the OLOL-Lake Livingston and North ED 
+campus. 
+ii. The following will be considered to increase capacity for an influx of victims, if needed. (See 
+Appendix D for additional information.) 
+1. Evaluating existing patients for potential discharge to home or an alternate care 
+facility. (See also alternate care facility below.) 
+2. Canceling or rescheduling elective surgical procedures.  9 
+3. Converting treatment areas for use as overflow patient care areas.  
+4. Canceling or rescheduling routine imaging orders to accommodate disaster victims. 
+iii. Additional patient care areas may be opened as overflow for the ED or other care areas at the 
+direction of the Incident Commander and/or Operations Section Chief (See Appendix D) 
+1. Alternate care areas at the OLOL-Livingston campus and North ED campus may be 
+identified to support operations on that campus. These areas may include the 
+Community Room or other conference room space.  
+a. The decision to open additional patient care areas at the OLOL Livingston 
+campus and/or the North ED campus will be coordinated through the 
+Incident Command Center at OLOLRMC. 
+ 
+5. Perioperative Services / Procedure Areas 
+i. Perioperative Services is responsible for evaluating scheduled surgical procedures to 
+determine those that may be rescheduled or cancelled as appropriate to the event. The number 
+of scheduled procedures and Operating Rooms available will be reported to the Operations 
+Section Chief as soon as possible, and as often as requested throughout the event. 
+ii. The Incident Command, Operations Section Chief and Medical Staff Specialist will 
+determine the extent of any changes to scheduled services or procedures.  
+iii. Staff not assigned to work in surgical areas due to cancelled procedures or reduced case 
+volume is to report to the Personnel Pool for reassignment to other care areas as needed.  
+6. Inpatient Care Areas (Patient Care Units) 
+i. Department managers will evaluate current patients to identify any patients that may be 
+discharged to make additional beds available for incoming patients. This information will be 
+reported to the Operations Chief as soon as possible.  
+ii. Managers will also evaluate staffing and release any staff not needed to maintain current 
+census to the Personnel Pool for reassignment. As staffing needs are identified, the manager 
+will request support from the Personnel Pool. 
+7. Clinical Support Areas (Pharmacy, Laboratory, Blood Bank, Imaging and Respiratory Care) 
+i. All areas will complete an inventory of supplies, scheduled services, and capacities and report 
+status to the Operations Section Chief as soon as possible and as often as requested 
+throughout the event. 
+ii. The Incident Command, Operations Section Chief and Medical Staff Specialist will 
+determine the extent of any changes to scheduled services or procedures.  
+ 
+iii. Morgue 
+1. The Laboratory/House Manager is responsible for monitoring capacity within the 
+hospital morgue and alerting the Command Center when necessary.  
+2. Mortuary support for the OLOLRMC campus, Children's Hospital and the North ED 
+campus (in Baton Rouge) will be requested from the East Baton Rouge Parish 
+Coroner’s Office and/or through the East Baton Rouge Parish Mayor’s Office of 
+Homeland Security and Emergency Preparedness when necessary. 
+3. Support for Lake Ascension campus will be requested through the Ascension Parish 
+Coroner’s Office when necessary. 
+4. Support for the OLOL-Livingston campus (in Walker) will be requested through the 
+Livingston Parish Coroner’s Office when necessary.   10 
+8. Care of Vulnerable Populations (For Example: Pediatrics, Elderly, Sensory Impaired, Non-English 
+Speaking)  
+i. Special care will be taken to ensure the safety of vulnerable patients received during a 
+disaster response.  
+ii. See OrgClin005 (Deaf and Hearing-Impaired Services), PC05 (Deaf Talk Video Phone), and 
+OrgClin10 (Foreign Language Interpreters) for support procedures for deaf/hearing impaired 
+or non-English speaking patients 
+ 
+I. Evacuation 
+1. The hospital’s primary strategy is to shelter in place.  
+2. The Incident Commander is responsible for determining when the environment can no longer support 
+patient care and evacuation is required.  
+3. If evacuation of the hospital is required or if capacity needs dictate, patients may be transferred to an 
+alternate care facility. Agreements are in place within FMOLHS for alternate care facilities should 
+evacuation to out of state facilities be required.  
+4. The Liaison Officer will assist the Incident Commander in coordinating transfer of patients to an 
+alternate care facility outside of the hospital.  
+5. The Liaison Officer will coordinate with the Region 2 and/or Region 9 Hospital Designated Regional 
+Coordinator to facilitate movement of patients within the State. Whenever possible, patients will be 
+transferred to hospitals within the same Region or within Louisiana instead of moving to out of state 
+facilities. Patients will be directed to facilities within FMOLHS before seeking placement in other 
+facilities within Louisiana or in another state.  
+6. See also Evacuation Policy (ECEP003) 
+ 
+Recovery 
+A. Patient Care Operations 
+1. The Incident Commander will notify the PBX page operator when to announce an “All Clear” of the 
+appropriate code called to notify staff that the emergency event plan has been deactivated.  
+2. The Incident Commander will gradually deactivate HICS positions and staff will resume normal daily 
+operations including re-scheduling elective procedures and returning all areas to the pre-event 
+function.  
+3. The Incident Commander will determine when to deactivate the Personnel Pools and all staff will be 
+released.  
+B. Physical Plant / Facility 
+1. Plant Services will assess the hospital building for structural damage, if necessary. If structural 
+damage has occurred, Plant Services will ensure that the area is safe for use before it is repopulated. 
+Interim Life Safety Measures (see ECLS001) will be implemented when necessary. 
+2. In the event Utility service was interrupted, Plant Services will ensure the service is repaired and 
+returned as soon as possible.  
+3. Documentation of expenses related to Utility service failure will be submitted to the Finance Section 
+Chief.  
+C. Financial 
+1. The Finance/Administration Section Chief is responsible for coordinating tracking and documentation 
+of all emergency event expenses. Each department is responsible for ongoing tracking of expenses 
+related to the emergency event and submitting these documents to the Finance/Administration Section  11 
+Chief as soon as possible following the event.  
+2. Personnel Expenses will be compiled by Payroll in coordination with Department Managers.  
+3. Equipment Expense for any equipment purchased or rented for use during the event response or 
+recovery phase must be clearly documented and submitted to the Finance/Administration Section 
+Chief. No equipment will be purchased or rented without prior approval from the Incident 
+Commander.  
+4. Materials / Supplies for any supplies purchased for use during the event response or recovery phase 
+must be clearly documented and submitted to the Finance/Administration Section Chief. No supplies 
+will be purchased without prior approval from the Incident Commander.  
+5. Sheltering expenses for any citizens provided shelter during a disaster are to be submitted to the 
+Finance/Administration Chief.  
+6. Risk Management and Claims will investigate any workers compensation, general or professional 
+liability claims as appropriate.  
+D. Information Technology 
+1. See also FMOLHS IS Disaster Recovery Plan   12 
+Appendix A: Incident Command System 
+A. Incident Command System (ICS) 
+1. The Administrator on Call (AOC), or designee, will act as the Incident Commander during plan 
+activations.  
+2. The Incident Commander is responsible for assigning ICS positions to the most appropriate senior staff 
+member available for the position at the time of the emergency event. (See also ICS Organizational Chart) 
+3. The Incident Commander will determine which ICS positions will be activated and deactivated depending 
+on the nature of the event.  
+4. The Command Center will be established in an area designated by the Incident Commander.  
+5. The Incident Command management team will consist of the following positions listed below. Hospital 
+leaders assigned to these roles are responsible for completing all tasks defined in the position’s Job Action 
+Sheet.  
+6. All assigned an ICS position will operate in twelve (12) hour shifts for the duration of the activation 
+period. 
+Position: Assign to: General Responsibilities (See also Appendix 
+B.):  
+Incident Commander Administrator on Call, House 
+Manager, CEO, COO 
+Organizing and directing the overall strategy for 
+the hospital’s response including management 
+and support activities. 
+Public Information 
+Officer  
+Corporate Communications, 
+other appropriate senior 
+leader 
+Acting as the conduit for information to internal 
+and external stakeholders, including staff, 
+visitors and families, and the news media, as 
+approved by the Incident Commander. 
+Liaison Officer VP Business Development or 
+other appropriate senior 
+leader 
+Functioning as the contact person for 
+representatives from other agencies. The Liaison 
+Officer will work in coordination with the 
+Incident Commander and other responding 
+agencies to obtain additional resources from 
+community resources. 
+Safety Officer Manager, Environmental 
+Safety, Director of Security, 
+or other appropriate senior 
+leader 
+Oversight of general safety and security 
+operations during the event and has the 
+authority to stop/halt any operations that poses 
+immediate threat to life and health. 
+Hospital Designated 
+Regional Coordinator 
+Regulatory Safety Officer Serve as liaison between Region 2 hospitals 
+and community response agencies.  
+Medical/Technical 
+Specialist 
+Depends on the type of 
+incident and situation 
+The Medical/Technical Specialist will advise 
+the Incident Commander on issues relating to 
+their specialty as pertinent to the event. 
+Operations Section 
+Chief 
+VP Patient Care Services, 
+House Manager, other 
+appropriate senior leader 
+Developing and implementing tactics to carry 
+out the objectives established by the Incident 
+Commander and organize, assign, and supervise 
+Staging, Medical Care, and Business Continuity 
+Branch resources.  13 
+Position: Assign to: General Responsibilities (See also Appendix 
+B.):  
+Planning Section Chief VP Planning/Business 
+Development, VP Human 
+Resources, House Manager, 
+or other appropriate senior 
+leader 
+Oversight of all incident-related data gathering 
+and analysis regarding incident operations and 
+assigned resources. The Planning Section Chief 
+will also develop alternatives for tactical 
+operations, conduct planning meetings, and 
+prepare the Incident Action Plan (IAP) for each 
+operational period 
+Logistics Section Chief VP Ancillary Services, VP 
+Professional Services, or 
+other appropriate senior 
+leader 
+Organize and direct operations associated with 
+maintenance of the physical environment and 
+with the provision of human resources, 
+materials, and services to support the incident 
+activities.   
+Infrastructure, Security, Hazardous Materials, 
+Vendor agreements to obtain additional patient 
+care supplies, pharmaceuticals, nutritional 
+supplies, or facility resources will be 
+coordinated through the Logistics Section 
+Chief. 
+Finance/Administration 
+Section Chief 
+Chief Financial Officer, 
+Controller or VP Finance, 
+other appropriate senior 
+leader 
+Monitor the utilization of financial assets and 
+the accounting for financial expenditures and 
+supervise the documentation of expenditures 
+and cost reimbursement activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  15 
+B. Incident Command Organizational Chart 
+ 
+ 
+Incident Commander 
+Liaison Officer 
+Medical/Tech. Specialist(s) 
+Safety / Security Officer 
+Public Information Officer 
+Operations Section Chief 
+Hospital Designated Regional 
+Coordinator 
+Finance/Admin Section 
+Chief 
+Logistics Section Chief 
+Planning Section Chief 
+Response roles for managing 
+personnel time; procurement; 
+compensation; cost 
+Response roles for 
+Communications (equipment); 
+Staff support; Personnel Pool; 
+Infrastructure (Physical Plant, 
+EVS, Nutritional); Security 
+Response roles for managing 
+resources Patient Tracking; 
+Equipment/Material Tracking; 
+Documentation Unit 
+Response roles for patient 
+care operations (inpatient, 
+outpatient, ambulatory); Decon 
+Team; Business Continuity  16 
+Appendix B: ICS Position and Department Specific Responsibilities Roles and Responsibilities 
+A. Incident Commander  
+1. Direct the management and use of OLOL resources to respond to the event. Includes responsibility 
+for Children's Hospital, OLOL North ED and OLOL-Livingston campus resources. 
+2. Activate the appropriate disaster plan and ICS roles for the event.  
+3. Complete an initial situation assessment and assign ongoing resource assessment and reporting to 
+appropriate hospital leaders. 
+4. Ensure timely reporting of changes in hospital operating status to appropriate regulatory agencies. 
+(See Louisiana Hospital Licensing Standard, Section 9335 M.) 
+B. Public Information Officer 
+1. Develop and/or conduct regular status update messages, briefings, and forums to ensure that timely, 
+appropriate and accurate information is provided to staff, hospital patients, and guests during any 
+emergency. 
+2. Monitor news reports (television, radio, and internet) for information about the event during the 
+response.  
+3. Respond to requests for media for information related to the event. 
+C. Safety / Security Officer 
+1. Oversee response operations to ensure safety and security during the event. 
+2. Take action to stop any response operations that pose an immediate threat to life and health. 
+3. Oversee Security Department staff and coordinate security operations. 
+4. Implement the hospital access control plan as appropriate to the event.  
+5. Respond to security issues and concerns 
+6. Coordinate with community law enforcement agencies assigned to support the hospital. 
+D. Liaison Officer 
+1. Serve as the primary contact person for representatives from external agencies. 
+2. Respond to requests from other agencies and coordinate with external agencies to obtain additional 
+resources when necessary.  
+E. Medical Staff Office / Technical Specialist (Note: Role may include multiple people depending on the type 
+and scope of event.) 
+1. Advise the Incident Commander on issues relating to their specialty when appropriate to the event. 
+2. Serve as liaison between Medical Staff Office and the hospital Incident Commander for managing the 
+role of Medical Staff (employed and non-employed physicians) and other Licensed Independent 
+Practitioners. 
+F. Operations Section Chief 
+1. Develop and implement strategy and tactics to carry out response objectives established by the 
+Incident Command team.   
+2. Areas reporting to the Operations Section Chief:  
+i. Patient Care Services: Coordinate and provide inpatient care services as appropriate during 
+the disaster response and recovery periods. 
+1. Emergency Care Unit (Adult, Treatment Center, Pediatric, Livingston and North ED) 
+a. Implement appropriate triage procedures to effectively manage incoming 
+victims.  17 
+b. Coordinate and provide emergency care as appropriate.  
+2. Perioperative Services (Pre-Op, OR (all departments), PACU) 
+a. Provide surgical services as appropriate during the disaster response and 
+recovery period. 
+b. Evaluate scheduled surgical procedures to determine those that may be 
+rescheduled or cancelled as appropriate to the event. 
+c. Report the number of scheduled procedures and Operating Rooms available 
+to the Operations Section Chief as soon as possible, and as often as requested 
+throughout the event. 
+ii. Clinical Support Areas (Pharmacy, Laboratory, Blood Bank, Imaging and Respiratory Care) 
+1. Complete an inventory of supplies and scheduled services and report status to the 
+Operations Section Chief as soon as possible and as often as requested throughout the 
+event. 
+2. The Incident Commander in consultation with the Department Leader and Operations 
+Section Chief will determine the extent to which departmental operations will be 
+modified to respond to the emergency event. 
+3. Staff not assigned to work in a clinical support area due to cancelled procedures or 
+reduced procedure volume is to report to the Personnel Pool for reassignment to other 
+care areas as needed.  
+G. Planning Section Chief 
+1. Oversee incident related data gathering and analysis. Develop alternatives for tactical operations and 
+prepare the Incident Action Plan.  
+2. Areas reporting to the Planning Section Chief: 
+i. Access Services and Health Information Management 
+1. Implement disaster registration and patient tracking procedures. 
+2. Provide information about patient census, admissions and discharges as requested to 
+the Incident Command Team. 
+ii. Patient Logistics / Bed Control:  
+1. Complete an initial and ongoing assessment of available hospital capacity for 
+admitting patients and reporting to the Planning Section Chief as soon as possible, 
+and as often as requested throughout the event. 
+2. Participate in decision-making related to modifying patient care operations and 
+opening of additional patient care areas to accommodate the flow of patients related 
+to the disaster.  
+3. Report hospital bed and service capacity through the web-based resource tracking 
+tool provided by the State and according to the schedule established by the Hospital 
+Designated Regional Coordinator and/or State (usually every 8-12 hours). Capacity 
+reporting to include Children's Hospital, OLOL-Livingston campus and North ED 
+campus resources. 
+H. Logistics Section Chief 
+1. Organize and direct operations associated with maintaining the physical environment and with 
+provision of human resources, materials and services to support response activities. 
+2. Areas reporting to the Logistics Section Chief: 
+i. Facility Support Areas (Plant Services, Housekeeping, Information Systems,)  18 
+1. Plant Services  
+a. Ensure all emergency utility systems are fueled, functional and maintained 
+appropriately.  
+b. Ensure adequate supplies of fuel (for building operation and fleet/critical 
+transportation vehicles), water for building operations and other utility 
+resources are available.  
+c. Complete an assessment of fuel and other utility resources and report status 
+to the Logistics Section Chief as soon as possible and as often as requested 
+throughout the event.  
+d. Monitor utilization and report issues or concerns to the Logistics Section 
+Chief.  
+e. Maintain contact with vendors to ensure timely resupply when needed.  
+f. Ensure the security of hazardous materials and wastes throughout the event.  
+2. Housekeeping 
+a. Provide Housekeeping services to support patient care operations throughout 
+the event. 
+b. Facilitate collection of biohazard waste bins (if necessary) to maintain safe 
+work environment. 
+3. Information Systems  
+a. Ensure operation of hospital information systems, telecommunication 
+systems and electronic medical record. 
+b. Complete an assessment of resource capacity and report status to the 
+Logistics Section Chief as soon as possible and as often as requested 
+throughout the event.  
+c. Monitor utilization and report issues or concerns to the Logistics Section 
+Chief.  
+d. Maintain contact with vendors to ensure timely response to system issues 
+when identified.  
+ii. Non-Clinical Support Areas (Materials Management, Surgical Materials, Linen, Nutritional 
+Services, Transport) 
+1. All non-clinical support areas will complete an inventory of supplies and scheduled 
+services and report status to the Logistics Section Chief as soon as possible and as 
+often as requested throughout the event. 
+2. The Incident Commander in consultation with the Department Leader and Logistics 
+Section Chief will determine the extent to which departmental operations will be 
+modified to respond to the emergency event 
+3. Staff not assigned to work in a non-clinical support area due to cancelled procedures 
+or reduced volume is to report to the Personnel Pool for reassignment to other care 
+areas as needed.  
+4. Materials Management and Surgical Materials 
+a. Ensure adequate supplies are available to support ongoing patient care 
+operations throughout the event. 
+b. Monitor utilization and report status to the Logistics Chief as requested. 
+c. Maintain contact with vendors to ensure resupply when needed.   19 
+5. Linen Services 
+a. Ensure adequate linen supplies are available to support ongoing patient care 
+operations throughout the event. 
+b. Monitor utilization and report status to the Logistics Chief as requested. 
+Recommend implementation of conservation measures when appropriate. 
+c. Maintain contact with vendors to ensure resupply when needed.  
+6. Nutritional Services 
+a. Ensure adequate supplies of food and water are available to support ongoing 
+patient care operations and staff support throughout the event. 
+b. Monitor utilization and report status to the Logistics Chief as requested. 
+Recommend implementation of conservation measures when appropriate. 
+c. Maintain contact with vendors to ensure resupply when needed.  
+7. Transport 
+a. Ensure adequate equipment is available and staged to support ongoing 
+patient care operations. 
+b. Monitor utilization and report status to the Logistics chief as requested.  
+c. Request additional staffing support from the Personnel Pool as needed.  
+8. Human Resources 
+a. Operate the hospital Personnel Pool to manage assignment of staff to 
+essential tasks as needed during the event.  
+b. Ensure timely credentialing of clinical volunteers and manage their 
+assignment to essential tasks as needed during the event. (Note: Medical 
+Staff Office is responsible for physician and LIP volunteers.) 
+c. Manage assignment of non-clinical volunteers to essential tasks as needed 
+during the event.  
+I. Finance / Administration Section  
+1. Monitor the utilization of financial assets and the accounting for financial expenditures and supervise 
+documentation of expenditures and cost reimbursement activities.  
+2. Areas reporting to the Finance / Administration Section Chief:  
+i. Payroll 
+ii. Accounting / Financial Operations 
+iii. Risk Management / Worker’s Compensation 
+iv. Purchasing 
+J.  Department Head Responsibilities  
+1. All departments and employees are essential and will assist in the event response until released by the 
+Incident Commander.  
+2. Each Department Head is responsible for a complete understanding of the role of his/her Department 
+and training each employee in their assigned role during an emergency.  
+3. Department heads are to be available to fill roles on the Leadership Team as assigned by the 
+Administrator on Call.  
+4. Department Heads are responsible for keeping a current list of their employees and phone numbers 
+and distributing revised lists as appropriate. 
+5. The Department Head or designee will initiate the call tree for their respective departments when  20 
+notified to do so by Administration. When call list is completed a report of number of employees 
+reached is to be reviewed by the Department Head or designated representative, and forwarded to 
+Administration with the following:  
+i. The number of successful contacts made in the department/unit.  
+ii. The person reporting. 
+  21 
+Appendix C: Notification to LDH of Exceeding Licensed Capacity (Use hospital letterhead.) 
+ 
+DATE 
+ 
+ 
+Louisiana Department of Health 
+Health Standards Division 
+ 
+ 
+VIA FACSIMILE 225-342-0157 
+ 
+ 
+Re. Hospital Licensing Standards, Section 9335 M.  
+ 
+Dear Sir or Madam,  
+ 
+Please be advised that due to an influx of patients related to (NAME OF DISASTER/STORM), Our Lady of the 
+Lake Regional Medical Center has temporarily exceeded its licensed bed capacity as follows. 
+ 
+Licensed Beds: NUMBER (as of DATE) 
+ 
+Total Beds Exceeding Licensed Beds: NUMBER (as of DATE / TIME) 
+ 
+For additional information, contact Administration at 225-765-8866.  
+ 
+ 
+ 
+Stephanie G. Manson 
+Chief Operating Officer 
+Our Lady of the Lake Regional Medical Center  22 
+Appendix D: Disaster Surge Capacity 
+When necessary to accommodate an influx of patients in a disaster situation, the Incident Commander may direct 
+additional care areas are opened within the hospital and in non-traditional areas on the hospital campus. The 
+hospital will coordinate with other hospitals in Region 2 for patient placement in large-scale community-wide 
+disasters. Tier 1 facilities will accommodate higher acuity patients, and Tier 2 hospitals will be used for lower 
+acuity patients within the hospital’s capability and capacity. For example, all surge areas at OLOLRMC may be 
+used for “critical care” (as defined by the HHS Grant) and lower acuity patients directed to Tier 2.  
+ 
+Resources 
+Hospital beds licensed but not currently staffed are available within 24 hours for immediate response to an influx 
+of patients. 
+Additional beds may be created in perioperative care areas and by doubling occupancy in renovated patient 
+rooms. 
+Non-traditional areas may be used for lower-acuity patients.  
+Surge Locations OLOLRMC  and Children’s Hospital Campuses 
+Department Location Acuity Level Estimated Bed 
+Count1 
+Licensed Beds (not currently staffed) 
+• Critical Care  High / Critical Care2 2 
+• Inpatient – Adult  Moderate / High 20 
+• Rehabilitation  Moderate / High 29 
+• Psychiatric  Moderate / High 8 
+    
+Additional beds for higher acuity / critical care patients can be created in pre-op and post-op areas. 
+• St. Mary’s Admission Unit   High / Critical Care 25 
+• St. Mary’s Admission Tower  High / Critical Care 14 
+• Post Anesthesia Care Unit – Main  High / Critical Care 17 
+• Post Anesthesia Care Unit – Tower  High / Critical Care 15 
+Additional inpatient areas for moderate to high acuity patients can be created by making the following areas 
+double occupancy / semi-private areas.  
+• Orthopedics  Building 1, Floor 6 Moderate / High 30 
+• Cardiology 2  Building 2, Floor 4 Moderate / High 36 
+• Medicine 2 Building 2, Floor 5 Moderate / High 36 
+• Surgical Trauma Unit  Building 2, Floor 6 Moderate / High 36 
+Non-traditional areas can be converted to patient care space in the following locations.  
+• Auditorium Building 2, Floor 1 Low 25 
+• Graduate Clinical Education 
+Building 
+5220 Essen Lane Low 50 
+Beds available at Children’s Hospital    
+Pre/Post - CH 8300 Constantine  18 
+PACU - CH 8300 Constantine  10 
+    
+  TOTAL  361 
+ 
+1The decision to open surge beds is made by the Incident Commander. Bed counts in this table are estimates provided for planning 
+purposes only. Actual surge beds will depend on the type of event, available resources including staffing, patient care supplies, status of 
+physical environment, facility resources (fuel, water, gasses, etc.) and regulatory requirements.  
+2 “Critical Care” for disaster surge capacity is defined as having one (1) electrical outlet, one (1) 50 PSI oxygen outlet, one (1) 50 PSI air 
+outlet and one (1) suction outlet or portable suction outlet. See Health and Human Services (HHS) Hospital Preparedness Program for 
+additional information.   23 
+Equipment / Supplies OLOLRMC 
+Patient beds are available through vendor relationships (Hill-Rom and Stryker) 
+Stretchers may be used for patient beds. 
+Temp Beds and Cots, located in the Storage Building, Disaster Response Supply Rooms 1 and 2 (Rooms 102 and 
+104) 
+ 
+Appendix E – Designated Emergency Operations Areas OLOL Ascension Campus 
+FUNCTION LOCATION 
+INCIDENT COMMAND CENTER Administration 
+ 
+PUBLIC MEDIA/PRESS INFO. Suite 3010 Conference Room, Plaza 2 
+Alternate – Front Water Fountain, parking in front of 
+HWY 30 Orthopedic Suite 
+PERSONNEL POOL 
+Clinical/Non-clinical 
+7am-5pm Visitor Information Desk – First Floor, Plaza 
+2 
+5pm-7am Back Loading Dock Hall outside of BioMed 
+FAMILY AND VISITORS Outpatient Waiting  
+ 
+TRIAGE Emergency Dept. (Ambulatory Entrance) 
+Green Level – ICU Waiting Room 
+OUTSIDE COMMUNICATION Incident Command Center/800 MHz Radio/ ESF 8 
+Portal 
+CRITICAL VICTIMS-Immediate Life Threatening 
+(life-threatening hemorrhaging, sucking chest 
+wounds, respiratory distress, open fractures, etc.) 
+Emergency Dept.  
+Space for __17___victims 
+SERIOUS VICTIMS-Delayed Treatment (moderate 
+lacerations w/ minor bleeding, closed fractures of 
+major bones 
+Pre-op Holding Area 
+Space for __7___victims 
+ 
+MINOR INJURY VICTIMS-Minimal treatment 
+(small lacerations, closed fractures of small bones, 
+etc.) 
+Recovery Room  
+ (Space for __20___ victims) 
+MORGUE #1 Morgue (large cooler w/ 2 shelves) 
+Up to 4 victims   
+ 
+MORGUE #2 Back (east) entrance to OR area  
+(Refrigerator Truck if needed)  24 
+DISCHARGES Outpatient Area 
+TRANSFERS (Outside) Emergency Department (Ambulance Entrance) 
+INTENSIVE CARE ICU Area 
+ 
+SURGERY/RECOVERY Operating Room/RR/ ASC 
+ 
+MED/SURG UNIT Med/Surg 2nd Floor 
+ 
+STAFF SLEEPING QUARTERS Cath Lab Waiting Room and areas designated by IC 
+and Administrative Supervisors 
+ 
+SPECIAL NEEDS SHELTERS DRC Region 2 
+Ascension Parish Medical Needs Registry 
+http://specialneeds.apgov.us/ 
+Ascension Parish –OHSEP (225) 450-1208 
+O2 Mobile Trailer 
+“MASH” Fast Track Unit Auditorium 
+ 
+Bereavement Area for Mass Casualty 
+ 
+Cath Lab Waiting Room 
+ 
+ 
+ 

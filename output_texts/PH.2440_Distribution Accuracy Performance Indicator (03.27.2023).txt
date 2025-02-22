@@ -1,0 +1,104 @@
+ 
+PH.2440_Distribution Accuracy Performance Indicator 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Distribution Accuracy Performance Indicator 
+PAGES: 
+2 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2440 (03/12/2020) 
+ORIGINAL EFFECTIVE 
+DATE: 02/07/2017 
+REVISIONS EFFECTIVE: 
+03/27/2023 
+POLICY NUMBER:  
+PH.2440 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy assures that the pharmacy has processes in place to track distribution accuracy 
+POLICY: 
+Pharmacy will have processes in place to track errors in the distribution process and report them to the Quality 
+Management Committee (QMC) on at least a quarterly basis.  
+ 
+DEFINITIONS: 
+None 
+PROCEDURE: 
+[URAC P-MD 3-1 (a-i, a-ii, a-iii, a-iv)] [ACHC Standard DRX5-11B] [ACHC Standard DRX6-1A] 
+[ACHC Standard DRX6-3F] 
+ 
+A. Description of Indicator: 
+This measure assesses the percentage of prescriptions delivered to the wrong recipient. (The 
+recipient may be either a patient or a patient’s health care provider)  
+ 
+B. Frequency of Activities: 
+Data will be collected monthly and the rate calculated on a monthly basis then reviewed by the 
+QMC Quarterly.  
+ 
+C. Responsibility:  
+The pharmacy manager has been designated the responsibility for collecting, tracking and 
+trending data as well as presenting it to the QMC for review.  
+ 
+D. Methods of Data Collection: 
+1. Issues will be categorized by the below subject matter in order to meet URAC requirements: 
+a. Part A measures the percentage of prescriptions mailed with an incorrect address. 
+b. Part B measures the percentage of prescriptions mailed with a correct address that were 
+not delivered to the correct location. 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+3/27/2023 12:54 PM 
+ 
+ 
+PH.2440_Distribution Accuracy Performance Indicator 
+2 
+c. Errors or complaints that reveal, predict or otherwise point to patient or employee harm 
+are to be reported to the pharmacy manager immediately and acted upon in a way to 
+help mitigate, treat or otherwise respond to addressing and relieving patient or employee 
+pain and suffering. Completion of Incident Form or Complaint Form should include 
+taking any steps (if applicable) to prevent future similar occurrences. 
+(1) Once categories are established, data is collected on each of the categories; 
+(2) On a quarterly basis, data is depicted in a control chart to determine trends; 
+(3) All staff is informed on the improvement activities to minimize adverse events. 
+E. Threshold/Goal: 
+1.  98% of all medications dispensed will be distributed accurately 
+a. Numerator 
+(1) Part A: The number of drugs and products dispensed with an incorrect address. 
+(2) Part B: The number of drugs and products delivered to the wrong location 
+despite having the correct address on the package. 
+b. Denominator = All drugs and products dispensed by the organization to or on behalf of 
+a specific patient during the measurement period. 
+2. If goals are not achieved there will be a written plan of correction. 
+3. If goals are set by the pharmacy, they will be re-evaluated if acceptable limits are not met on a 
+consistently basis as the goal may have been set too high. 
+ 
+F. Reporting: 
+1. Summary analysis of all medication dispensing errors is forwarded to QMC for review and 
+development of corrective action plans when indicated.   
+a. Errors are reported internally to the QMC. 
+b. Errors are reported externally when requested by payors or pharmaceutical 
+manufacturers. 
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: P-MD 3-1 
+• ACHC Standards: DRX5-11B, DRX6-1A, DRX6-3F 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 
+ 
+ 
+  

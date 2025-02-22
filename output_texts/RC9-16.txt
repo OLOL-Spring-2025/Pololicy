@@ -1,0 +1,31 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center  
+Subject: Correlation of patient’s blood gas results  
+with the appropriate blood gas analyzer Section: Blood Gas Lab 
+Date of Origination: January 1997 Signature: 
+Date of Last Revision: October 6, 2021 Serial Code: RC9-16 
+                 Reviewed: October 3, 2023 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care  
+ 
+PURPOSE: 
+To identify which blood gas machine analyzed a specific patient’s blood gas results 
+ 
+PROCEDURES 
+A. Access the Aqure Blood Gas Information System. 
+B. Click on Patient Results Tab 
+C.        Select the appropriate hospital and device.  
+D. Select the appropriate date range for sample analyzed. 
+E.        Click on Filter. 
+F.        Review the accession number or medical record number if applicable. 
+G. In this view, the following is displayed: analysis time, approval status, sample 
+type, patient ID, patient first and last name, operator, and device. 
+H.  Choose the sample you want to review. Once you select the results, you can view 
+the device demographics (blood gas analyzer) in order to correlate the patient’s 
+blood gas results to the appropriate blood gas analyzer. 
+ 

@@ -1,0 +1,146 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Blood Gas Lab 
+Subject:  Detection and correction of reporting 
+errors for blood gases  
+Date of Origination: May 1983 Signature: 
+Date of Last Revision: October 10, 2022 Serial Code: RC9-17 
+       Reviewed: October 1, 2024 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is t o detect clerical errors, significant analytical errors, pre -analytical 
+errors, or unusual blood gas results, and provide for a timely correction of such errors. 
+ 
+PROCEDURE: 
+A. Avoidance/detection of errors or unusual results 
+1. The Testing Therapist is the first line of defense against pre -analytical, analytical, 
+or clerical errors. 
+  a. Sample Quality 
+    In the case of each sample acquired, the therapist is to consider the nature of 
+the sample draw, for example: 
+   For arterial puncture - 
+   - did the syringe fill quickly, indicating probable puncture of an artery  
+    versus a vein? 
+   - was the sample an "acceptable" sample as per policy. 
+   - was the patient on the correct oxygen device? 
+   For capillary samples - 
+   - did the tube fill without "milking' the site? 
+   - was undue exposure to air, bubbles avoided? 
+   Questionable samples or samples handled improperly should be excluded  
+   for patient evaluation and an acceptable sample acquired. Erroneous samples 
+will be rejected at the instrument. 
+  b. Correlation with Clinical Situation 
+    When analysis has been performed, the results of the analysis should 
+be reviewed by th e testing therapist prior to reporting in the EMR.  
+Any values that do not appear reasonable considering the patient's 
+clinical condition or situation, or the nature of the sampling process, 
+should be questioned and confirmed before reporting said values.      
+First level confirmation is to rerun the sample on a different analyzer.  
+If the original analyzer is found to be at fault, the problem is reported 
+to the Supervisor for troubleshooting and corrective action.  Once a decision is made as to the correct result, the sample should be verified 
+in the Radiometer analyzer, or the Epoc EDM  and the  patient’s 
+electronic medical record. In the Radiometer analyzer the erroneous 
+result will be rejected. In EPOC the inaccurate specimen is recorded 
+on the Unacceptable Error Log as erroneous. (This log is reviewed by 
+the Blood Gas Lab Supervisor or Respiratory Care Supervisor.) In the 
+EMR, the correct values will be resulted and verified into the patient’s 
+chart.  
+  c. Data Transmission Errors 
+    Once the values have been accepted as valid, the therapist checks the 
+printed or computer displayed results to confirm that the values are 
+indeed those reported by the analyzer. Additionally, the accession 
+number in the blood gas analyzer must match the one entered in the 
+computer system in order for the data to transmit successfully. 
+  d. Clerical Errors 
+    There is potential for clerical errors if the entry of an incorrect 
+Accession number is inputted in the blood gas analyzer or in the  
+EMR, requiring the therapist to manually input the values in  the 
+EMR. Patient demographic information must be reviewed in the 
+EMR after the Accession # is entered. Mis-entry of the Specimen ID 
+can be virtually eliminated by using the bar code reader instead of 
+keying in the number.  If manual entry is necessary, great care must 
+be exercised to avoid transposition of digits . Clerical errors as a 
+source of faulty results are quite limited as all reports are sent directly 
+from the analyzer to a printer (through an intervening computer 
+system).  Only in periods of equipment or computer failure would 
+handwritten results occur, and in such times, great care must be 
+exercised to assure accuracy in transcription. If a clerical error within 
+the laboratory records occur, the error will be corrected in the EMR. 
+The correct result will replace the incorrect entry and a system 
+comment will be posted below the new result stating the previous 
+result value. The EMR will maintain the record of the person, date, 
+and time of the corrective entry.   
+  e.  Specimen Labels 
+   If the lab personnel become aware of a potential error in patient 
+   identification or other information on the specimen label, the sample  
+   should be discarded immediately and the specimen recollected. 
+ 2. Computer Restrictions  
+  a. The EMR includes Abnormal and Critical Value Ranges and on -
+screen flags of these ranges.  Values within the normal range are 
+displayed and do not have any letter designations next to them.   
+Values that are not within normal limits and those that are critical, will 
+have an indicator to alert the clinician of abnormal results.  
+   Physicians will be notified for critical values within sixty minutes.  
+This affords the physician the opportunity to question or reject the 
+results if unreasonable.   b. The EMR will not accept values in the wrong format.  For example, it 
+will not accept a pH with two leading digits or no leading digit. 
+   c. The EMR has absolute reject ranges beyond which input will not be 
+accepted. The reference ranges and units of measure for every test are 
+transmitted with the patient result across the interface. 
+  d. The EMR will not report results for a test other than the ordered Blood 
+Gas test because of its unique specimen number.  Therefore, it will 
+not, for example, send Blood Gas results as a CBC order if the wrong 
+Specimen ID is entered and it is for a CBC. 
+ 3. Review of Results 
+   The Respiratory Care Blood Gas Lab Supervisor will review blood 
+gases analyzed since the last review 2 times per week to detect any 
+clerical errors, significant analytical errors, or unusual results.  
+Samples analyzed over the weekend and holidays will be reviewed on 
+the next working day by the Respiratory Blood Gas Lab Supervisor as 
+part of our Quality Management program. 
+   Values that seem inconsistent with the recorded patient information, 
+or that are in questionable ranges are flagged and investigated.  The 
+therapist is contacted for input on quality of sample, patient condition, 
+oxygen device, etc., and possible education. On site supervisors are 
+available 24 hours a day 7 days a week to address any questions. 
+4. Accession number availability/order entry 
+When an accession number is unavailable, the sample identifier will 
+be the patient’s medical record number.  The respiratory therapist will 
+enter the patient’s medical record number into the accession number 
+field on the blood gas analyzer. When the accession number becomes 
+available, the respiratory therapist will replace the medical record 
+number with the accession number in the accession number field. The 
+results will be approved and sent to the patient’s EMR.   
+5. PI Checks for Instrument/Report Agreement 
+Results from the blood gas analyzers are placed in the patients' medical 
+record.  The blood gas instruments are integrated with the EMR and 
+results are transmitted from the analyzer into the medical record upon 
+verification of results. This integration allows for accurate 
+transmission of results into the patient’s medical record. 
+ 
+    
+ 
+B. CORRECTION OF DETECTED ERRORS 
+1. Every effort is made to assure that errors are detected before being sent to the patient's 
+medical record.  If investigation finds that incorrect values have been reported in a 
+patient’s medical record, timely correction is completed.  
+ 
+2. The patient's physician and nurse are contacted by the therapist, or the Supervisor, and 
+made aware of the erroneous report and the reason for it. This is documented in EPIC 
+via a Corrected Results communication log.   
+3. If the error is the result of reporting to the wrong patient or some other clerical or 
+computer transmission failure, the results in the EMR shall be manually corrected.   
+ 
+4. If the error is found to be due to sample or analytical problems, a new sample shall be 
+collected and analyzed, unless directed otherwise by the physician.  When the correct 
+values are available, the results in the EMR shall be manually corrected.   
+ 
+5. The corrected results shall be manually entered and verified in the EMR. The EMR 
+will retain both the corrected results as well as the erroneous results. 
+ 

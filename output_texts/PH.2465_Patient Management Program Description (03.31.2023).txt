@@ -1,0 +1,668 @@
+ 
+PH.2465_Patient Management Program Description 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Patient Management Program Description 
+PAGES: 
+12 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2465 (11/30/2021) 
+ORIGINAL EFFECTIVE 
+DATE: 02/07/2017 
+REVISIONS EFFECTIVE: 
+03/31/2023 
+POLICY NUMBER:  
+PH.2465 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies.   
+PURPOSE: 
+This policy outlines the patient management program at the pharmacy.  This policy applies to pharmacies listed with 
+NCPDP as specialty pharmacy providers. 
+POLICY: 
+The pharmacy has a defined Pati ent Management Program (PMP) for its specialty pharmacy patient population that 
+implements services to meet the needs of individual patients.  The goals of the pharmacy’s PMP are to engage patients to 
+help educate, coordinate care and ensure patients receive specialty medication without significant delays.  The objectives 
+of the pharmacy’s PMP are to make care more accessible and affordable, attract & retain more patients, and optimize 
+patient care.  [URAC PM 1-1 (a-ii)] 
+DEFINITIONS: 
+1. Patient Management Program (PMP) is a collaborative process that assesses, plans, implements, coordinates, 
+monitors, and/or evaluates options and/or services to meet a patient’s health needs through communication and 
+available resources to promote quality, cost-effective outcomes. Patient management may include the patient 
+and/or the care giver, agent or representative authorized to act on the patient’s behalf. 
+2. Specialty Medication (prescription) – medications that require complex storage, handling, or administration, are 
+used to treat rare or complex disease states, or have a high cost to dispense.  
+3. Pharmacy Benefit Manager (PBM) - a company that administers the drug benefit program for an employer or 
+health plan. 
+4. Proportion of days covered (PDC) – the percent of days in a given period where a patient was compliant 
+(covered) with medication calculated as #days in “covered” period / # of days in period X100. 
+5. Auxiliary personnel: Personnel that supports patient and liaison workflows.  This may include the following: 
+Engagement Center personnel, Patient Support Center (PSC) personnel, and/or pharmacy technicians. 
+6. Clinician: The term clinician describes the pharmacists and registered nurses who provide care to patients as part 
+of the Patient Management Program. 
+7. QMC: Quality Management Committee 
+PROCEDURE: 
+A. Scope of Services and Patient Management Documentation 
+1. Patient management documentation is located in the patient records section of the pharmacy software and 
+patient management software. [URAC PM 2-3 (a)] 
+2. The PMP provides services to all patients receiving a specialty prescription. [URAC PM 2-2 (a)] 
+a. The PMP excludes services to patients receiving healthcare provider administered (HCPA) 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+3/31/2023 1:13 PM 
+ 
+ 
+PH.2465_Patient Management Program Description 
+2 
+medications unless required by the drug manufacturer or payor. 
+b. The PMP excludes services to patients who are hospitalized, incarcerated, or residing in a skilled 
+nursing facility (SNF).  Care will be coordinated with clinical employees at the facility. 
+c. The PMP excludes services to patients receiving retail and targeted retail medications. 
+d. The PMP excludes services to animals receiving specialty prescriptions. 
+3. The PMP actively facilitates participation by all patients with prescriptions for specialty medications. 
+[URAC PM 2-2 (b)] 
+a. Patients are made aware of the PMP when they speak to their liaison or auxiliary personnel.  The 
+term auxiliary personnel describe personnel that provides support as part of the PMP and may 
+include the following: Engagement Center personnel, Patient Support Center (PSC) personnel, 
+patient assistance technician, and/or pharmacy technicians. 
+(1) The benefits of the program are explained to the patient at their initial meeting/conversation 
+which include: 
+(a) 24-hour access to a pharmacist for consultation 
+(b) Personalized refill reminder calls 
+(c) Clinical interventions by the pharmacist if necessary 
+(d) Adherence monitoring 
+(i) Liaisons or auxiliary personnel will document the number of doses remaining for 
+patients monthly or as appropriate for their medication refill schedule.  If the 
+patient is non-adherent the clinician will be notified by triggering an intervention 
+in the PMP software.  The clinician will make outreach to the prescriber as 
+needed.  The term clinician is used to describe the pharmacists and registered 
+nurses who provide care to patients as part of the PMP. 
+4. The pharmacy documents when patients opt out of the PMP including the reason in the patient management 
+software. [URAC PM 2-2 (c)] 
+5. The PMP is provided in accordance with third party payor programs. 
+a. The pharmacy provides communication in the electronic medical record (EMR), via third party 
+benefits billed through pharmacy operating system (POS) and will coordinate with patients regarding 
+external entities that would need to be notified and get authorization to coordinate with those 
+authorized entities. 
+B. Structure and Oversight 
+1. The PMP is developed under the supervision of a clinical oversight body. [URAC PM 2-1 (a)] 
+a. The clinical oversight body is the QMC of the pharmacy. 
+2. The PMP follows specific drug and/or disease state clinical processes and workflows and is overseen by the 
+senior clinical pharmacist. [URAC PM 2-1 (b-i)] 
+a. The QMC is composed of licensed pharmacists and one of whom is the pharmacy manager who is 
+the Senior Clinical Pharmacist as well as other specialty pharmacy stakeholders. 
+3. The PMP is implemented in a way that ensures that clinical services are provided by a pharmacist, registered 
+nurse, or other qualified health professional. [URAC PM 2-1 (b-ii)] 
+a. T he pharmacy’s PMP is overseen by the senior clinical staff person who is the pharmacy manager  
+and is delivered by pharmacists, registered nurses, and/or other qualified health care professionals 
+with experience and expertise in patient management. [URAC PM 2-1 (b-i)] 
+b. While the pharmacy encourages, promotes, and facilitates direct communication between employees 
+and patients, only clinicians will engage in the provision of clinical information to patients.  
+Employees that provide non-clinical support will frequently provide valuable information to patients 
+that may include, but is not limited to insurance coverage, co-payments, financial assistance, 
+shipment and delivery, advance refill planning, and when needed, triage calls to a clinician. 
+4. Offers services that are specific to each drug and/or disease state based on medical or scientific evidence 
+and/or demonstrated clinical practice guidelines/protocols. [URAC PM 1-1 (a-i)] 
+a. The information utilized in the PMP is derived from manufacturers’ FDA approved prescribing 
+information and evidence-based medicine sources.  The pharmacy uses Lexicomp as a clinical 
+resource and the clinical practice guidelines in the patient management software.  Clinical guidelines 
+are used as applicable.  All clinical conversations occur between clinicians and patients (except in 
+those cases where patients approve of conversation with a family member or caregiver) and/or  
+PH.2465_Patient Management Program Description 
+3 
+patients’ healthcare providers.  Clinical interventions are consistent with, and supported by, the 
+current medical or scientific evidence and/or clinical practice guidelines/protocols.  Clinical practice 
+guidelines and clinical resources are reviewed by the organization’s senior clinical officer and 
+approved by the QMC annually. [URAC PM 7-1] 
+5. The QMC reviews and updates the following at least annually or as needed throughout the year: [URAC PM 
+2-1 (c)] 
+a. Services offered; [URAC PM 2-1 (c)] 
+(1) During the annual PMP review the QMC evaluates a list of current services provided by the 
+specialty pharmacy program.  The QMC ensures the list is accurate.  The QMC members have 
+an opportunity to provide feedback and recommendations on services that could be added in 
+the future. 
+b. Clinical protocols and program modules based on drug and disease state established using clinical 
+guidelines; [URAC PM 2-1 (b)] [URAC PM 2-1 (c)] 
+(1) During the annual PMP review the QMC reviews the clinical map to ensure it meets current 
+clinical guidelines as well as identified best practices.  The clinical map provides details on the 
+disease specific protocols, including recommended assessment cadence and medication 
+specific templates utilized by the clinicians.  The QMC members have an opportunity to 
+provide feedback and recommendations on best practices.  The QMC also reviews and 
+approves the specialty drug list. 
+c. The escalation process based on clinical information gathered by non-clinician or system; [URAC 
+PM 2-1 (b-iii)] [URAC PM 2-1 (c)] 
+(1) During the annual PMP review the QMC reviews the below escalation process to ensure its 
+accuracy and approves the process.  The QMC members have an opportunity to provide 
+recommendations on improvements to the process. 
+(a) When the liaison or auxiliary personnel discovers clinical information that needs to be 
+escalated to a clinician, the liaison or auxiliary personnel triggers an intervention to the 
+clinician.  Examples of clinical information that would need to be escalated to a 
+clinician include, but are not limited to, side effects, adverse events, new medication, 
+new allergy, new comorbidity, non-adherence, etc. 
+(b) Once an intervention request is received by the clinical team, a clinician will review the 
+patient’s profile in the PMP software.  The PMP software allows for clinical oversight 
+by allowing clinicians to view non-clinician activities/assessments as well as past 
+clinical activities/assessments.  After this review, the clinician contacts the patient and 
+the prescriber if necessary.  Outcomes of all interventions are documented within the 
+patient profile in the PMP software. 
+(c) Clinicians review escalation processes. 
+d. Clinical resources used within the program: [URAC PM 2-1 (c)] 
+(1) During the annual PMP review the QMC reviews the clinical resources utilized.  The QMC 
+members review the list to ensure its accuracy and then review and approve the use of the 
+materials.  The QMC members have an opportunity to provide recommendations on additional 
+resources they would like to see used, if applicable. 
+e. Educational materials: [URAC PM 2-1 (c)] 
+(1) During the annual PMP review the QMC reviews the educational resources provided to 
+patients.  The QMC members review the list to ensure its accuracy and then review and 
+approve the use of the materials.  The QMC members have an opportunity to provide 
+recommendations on additional educational items they would like to see provided to patients, 
+if applicable. 
+C. Patient Management Program Rights and Responsibilities 
+1. Welcome Packet will be given to all patients which will include information on the PMP, Patient Bill of 
+Rights and Responsibilities, and Notice of Privacy Practices.  The Welcome Packet will also include printed 
+drug monographs, packing slip (medication expense statement), and other supportive information (i.e., 
+disease information) as appropriate and available.  The receipt of the Welcome Packet is documented in the 
+PMP software.  
+PH.2465_Patient Management Program Description 
+4 
+a. The rights and responsibilities of participating in the PMP are shared with the patient with the first 
+dispense of the medication via the Welcome Packet, which includes: 
+(1) The right to have personal health information only in accordance with state and federal law. 
+[URAC PM 3-1 (a-i)] 
+(2) Th e right to identify the program’s employees, including their job title, and to speak with an 
+employee’s supervisor if requested. [URAC PM 3-1 (a-ii)] 
+(3) The right to speak to a health professional. [URAC PM 3-1 (a-iii)] 
+(4) The right to receive information about the PMP. [URAC PM 3-1 (a-iv)] 
+(5) The right to decline participation, or disenroll, at any point in time. [URAC PM 3-1 (a-v)] 
+b. Th e responsibility to give accurate clinical and contact information and to notification when there is a 
+change. [URAC PM 3-1 (b-i)] 
+c. The responsibility to notify the treating prescriber of their participation in the PMP. [URAC PM 3-1 
+(b-ii)] 
+D. Clinical Assessments 
+1. Onboarding 
+a. An onboarding patient assessment is conducted for each patient receiving a specialty prescription.  
+The onboarding assessment is completed prior to dispensing of the medication.  The patient’s chart 
+and medical history is reviewed to determine if therapy prescribed is appropriate. 
+b. The onboarding assessment is completed by a clinician and determines appropriateness of therapy 
+given the patient’s: 
+(1) Diagnosis [URAC PM 4-1 (a-i)] 
+(a) The clinician reviews the prescribed medication therapy to ensure that it is consistent 
+with the provided diagnosis and treatment guidelines according to FDA-approved 
+prescribing information and other available consensus guidelines. 
+(2) Medication List [URAC PM 4-1 (a-ii)] 
+(a) The clinician reviews the patient’s full medication list (including over the counter 
+(OTC) and herbal medications) in the EMR.  Drug-drug interactions, as well as any 
+actions taken, are documented in the PMP software. 
+(3) Comorbidities [URAC PM 4-1 (a-iii)] 
+(a) The clinician reviews the patient’s full list of comorbidities in the EMR, and any 
+concerns or actions taken (i.e., prescriber intervention) are documented in the PMP 
+software. 
+(4) Allergies [URAC PM 4-1 (a-iv)] 
+(a) The clinician reviews the patient’s allergy information in the EMR to check for 
+contraindications. 
+(5) Medical history [URAC PM 4-1 (a-v)] 
+(a) The clinician reviews the patient’s medical history in the EMR. 
+(6) Ability to self-administer medication. [URAC PM 4-1 (a-vi)] 
+(7) Therapeutic goals based on possible outcomes of therapy [URAC PM 4-1 (a-vii)] 
+(a) The clinician reviews the patient’s EMR to evaluate the patient’s past medical visits 
+with the specialty prescriber and selects individual therapeutic goals for the patient.  The 
+clinician reviews the goals of therapy upon speaking with the patient to ensure patient is 
+agreeable. 
+c. If the patient’s prescriber is outside of our health system, we will obtain onboarding information 
+directly from the patient upon speaking with them. 
+d. Any issues identified by a clinician during the onboarding assessment are communicated to the 
+prescriber for further guidance and documented as a clinical intervention within the PMP software.  
+Patients will be notified of any impact this has to therapy, therapy start date, and/or delivery of their 
+medication.   
+2. Initial Assessment 
+a. An initial patient assessment is conducted for each patient receiving a specialty medication.  A 
+clinician will attempt to counsel the patient prior to their therapy start date.  Workflow protocols 
+dictate that outreach attempts to contact the patient start one (1) day prior to the scheduled delivery  
+PH.2465_Patient Management Program Description 
+5 
+date.  When turnaround time is short, a clinician will begin outreach as soon as the initial delivery of 
+the medication is coordinated with the patient and the clinician is notified. [URAC PM 5-1 (a)] 
+b. The initial assessment is completed by a clinician who provides education and reevaluates the 
+appropriateness of therapy. 
+c. Patient and caregiver education requirements 
+(1) Are provided prior to the first use of medication and includes: 
+(a) Expectations and possible outcomes of therapy [URAC PM 5-1 (a-i)] 
+(b) Proper use [URAC PM 5-1 (a-ii)] 
+(c) Duration of therapy [URAC PM 5-1 (a-ii)] 
+(d) Timely administration or intake [URAC PM 5-1 (a-ii)] 
+(e) Side effects, including prevention, minimization, and management [URAC PM 5-1 (a-
+iii)] 
+(f) Missed dose management [URAC PM 5-1 (a-iv)] 
+(g) Contraindications [URAC PM 5-1 (a-v)] 
+(h) Safety precautions [URAC PM 5-1 (a-v)] 
+(i) W hen to report new or changed medications, including prescribed and over- the-counter 
+medications and supplements [URAC PM 5-1 (a-vii)] 
+(j) Disposal [URAC PM 5-1 (a-vi)] 
+(k) Safe handling [URAC PM 5-1 (a-vi)] 
+(l) Storage [URAC PM 5-1 (a-vi)] 
+(m) Vaccinations, as appropriate [URAC PM 5-1 (a-viii)] 
+(n) Rotation of medication inventory such that the oldest product is used first, and 
+examination of expiration dates to avoid utilization of expired product. 
+(2) Is provided as needed and upon request from the patient and/or caregiver, physician, or other 
+health care provider [URAC PM 5-1 (b)] 
+(a) Needs are reevaluated during reassessments. 
+(3) The clinician utilizes clinical and educational resources, decision support tools, and other 
+materials to support patient-shared decision-making when necessary. Examples of these 
+resources are as follows: [URAC PM 5-1 (c)] 
+(a) LexiComp 
+(b) Clinical Map 
+(c) Clinical guidelines 
+(d) Package inserts 
+(e) Primary literature 
+(4) During initial and reassessments patients may also be guided to manufacturer online 
+educational resources/videos, referred to Patient Advocate Groups either through the 
+manufacturer or within their community, and/or provided additional patient targeted resources. 
+[URAC PM 5-1 (c)] 
+(5) Engaging patients in shared decision-making between patients and clinicians 
+(a) The pharmacy provides relevant, ongoing health improvement education via verbal 
+counseling with a clinician and through written materials.  All education and counseling 
+information is documented in detail in the pharmacy operating system including any 
+educational resources provided to individual patients. 
+(i) If patients decide not to participate in the PMP, this will be documented in the 
+PMP Software. 
+(ii) Clinicians will consult clinic notes and labs in the EMR to ensure medications 
+taken by the patient are appropriate. 
+(b) Includes community and financial resources, support, and advocacy groups when 
+necessary [URAC PM 5-1 (c)] 
+(i) As  needed, the pharmacy provides patients wi th information on community 
+resources and assistance such as location of support groups for their disease states. 
+This information is provided in the Welcome Packet. [URAC PM 5-1 (c)] 
+(a) Liaisons and/or auxiliary personnel proactively look for copay assistance 
+and funding for patients to ensure all patients can afford their medication.   
+PH.2465_Patient Management Program Description 
+6 
+The liaison and/or auxiliary personnel provides information to the patient 
+on available financial assistance and provides the patient with the out-of-
+pocket cost. [URAC PM 5-1 (c)] 
+3. Clinical Reassessments  
+a. The pharmacy’s PMP periodically reassesses participating patients to ensure the effectiveness and 
+safety of medications used.  The reassessment process is based on disease state, medication and 
+patient specific factors.  Reassessments are incorporated into the clinical protocols and program 
+modules are evidence based. 
+b. A periodic reassessment is conducted no more than 12 months from the previous assessment to 
+determine if the medication remains appropriate given the patient’s: [URAC PM 4-2 (a)] 
+(1) Current medication list [URAC PM 4-2 (a-i)] 
+(a) T he pharmacy employees conduct a medication reconciliation by asking patients during 
+initial contact for a list of prescription medications, OTCs and herbals and then confirms 
+it matches the list in the EMR.  Patients are asked during refill and clinical assessments 
+if there have been any changes. [URAC PM 4-2 (a-i)] 
+(b) When the pharmacy employees are informed of a new medication, allergy, or disease 
+state by the patient, they will notify the clinician by triggering a clinical intervention in 
+the PMP software. 
+(c) The clinician will then review the added information, evaluate appropriately, and 
+document in the PMP software. 
+(i) The clinician will contact the patient regarding any new allergies, drug-drug 
+interactions, or disease interactions if they deem necessary from their review. 
+(ii) The clinician will contact the prescriber regarding any new allergies, drug-drug, or 
+disease interactions if they deem necessary from their review. 
+(2) Experience of adverse reactions to the medication [URAC PM 4-2 (a-ii)] 
+(a) Patients are asked if they have experienced any adverse reactions during refill calls and 
+clinical assessments. 
+(b) When a clinician becomes aware of an adverse drug event that might compromise the 
+health of a patient or affect their treatment outcomes, the clinician will instruct the 
+patient to contact their prescriber. The clinician may also elect to reach out to the 
+patient’s prescriber. 
+(3) Adherence to therapy [URAC PM 4-2 (a-iii)] [URAC P-OPS 4-1 (a, b)] 
+(a) The pharmacy employees monitor adherence in several ways: 
+(i) Proportion of Days Covered (PDC) data from the POS which assess the 
+percentage of specialty patients covered by prescription claims for the same drug 
+or for another drug in the same therapeutic class, within a specified calendar 
+range. 
+(ii) Recording fill dates in the PMP software 
+(iii) Requesting dose count from patients upon refill 
+(b) When a patient is deemed to be non-adherent, the pharmacy clinicians will encourage 
+adherence and offer guidance on strategies that may improve adherence.  This may 
+include, but is not limited to, providing pill boxes, suggesting phone apps that prompt 
+dose administration, education materials, etc.  Should a clinician determine that missed 
+medication doses compromise the health or potential treatment outcome of a patient, 
+they will communicate the refill history to the prescriber. [URAC PM 5-1 (a, b, c)] 
+[URAC PM 6-1 (a)] [URAC PM 4-3 (a)] 
+(4) P rogress towards achieving the patient’s therapeutic goals based on outcomes of therapy 
+[URAC PM 4-2 (a-iv)] 
+(a) During each reassessment, patients are asked to rate their quality of life on a scale of 1 
+to 10 in order to help determine if the patient is achieving therapeutic benefits from the 
+medications.  The patient’s response is documented and if they indicate they feel the 
+medication is not working for them, an intervention is triggered to the clinicians to 
+review and provide counseling as applicable.  All counseling is documented and if  
+PH.2465_Patient Management Program Description 
+7 
+deemed necessary the clinician contacts the prescriber or refers the patient to contact 
+their prescriber. [URAC PM 4-2 (a-iv)] 
+c. Based upon the results of the reassessment process, the pharmacy may involve another program or 
+healthcare provider (i.e. patient’s provider/prescriber of the medication). 
+d. The clinician uses the EMR to review information pertinent to assessing if the patient is receiving 
+therapeutic benefits from their medication(s). 
+(1) The clinician reviews prescriber/clinic notes in the EMR prior to contacting the patient. 
+(2) The clinician reviews any labs pertaining to the medication prior to contacting the patient. 
+e. Onboarding, initial, and reassessments as well as interventions are completed by a pharmacist or a 
+registered nurse. [URAC PM 2-1 (b-ii)] [URAC PM 4-2] 
+4. Clinical Interventions 
+a. The PMP maintains processes to: 
+(1) Make and document targeted clinical interventions based on patient assessments and as 
+needed. [URAC PM 4-3 (a)] 
+(a) Clinical interventions may include, but are not limited to: 
+(i) Dosage and duration of therapy evaluations and/or recommendations 
+(ii) Side effect and adverse event management 
+(iii) Allergic reactions 
+(iv) Actual or potential drug interactions (drug-drug, drug-food, drug-disease) 
+(v) Non-adherence, misuse/abuse 
+(vi) Other disease state and medication concerns 
+(a) Smoking cessation 
+(b) Depression screening 
+(2) Document outcomes for clinical interventions made for a patient within the PMP software 
+and/or the EMR. [URAC PM 4-3 (b)] 
+(3) A nalyze data, identify trends and report program intervention data to the QMC. The QMC in 
+turn reviews and analyzes reported data during quarterly meetings. [URAC PM 4-3 (c)] 
+E. Medication Fill Protocols 
+1. Initial Medication Fill 
+a. Before a new patient’s first m edication order is dispensed, they speak with a pharmacist to discuss 
+the prescribed medication.  When unable to reach a patient prior to a refill, the a ttempted outre ach 
+call is docu mented. After  attempting to reach a patient at least 3 times, the pharmacy staff notifies 
+the prescriber.  All patient contact attempts are documented. 
+b. Initial fill documentation is in the PMP software. 
+2. Medication Refill 
+a. The pharmacy does not dispense refills until the patient has utilized at least 75% of the medication 
+delivered with the previous fill. 
+b. Refill documentation and call attempts are documented in the PMP software. 
+F. Coordination of Care  
+1. The develops processes to: 
+a. Effectively communicate with prescribers and other healthcare providers involved in the 
+management of individual patient issues. [URAC PM 6-1 (a)] 
+(1) Health Insurance Portability and Accountability Act (HIPAA) and other privacy 
+requirements allow for an exchange of information between professionals and community 
+resources who have the need to know for the purpose of coordinating patient care. The 
+pharmacy clinicians or other employees will share information with prescribers, or their agents 
+related to the care of their mutual patients. The communication may include potential drug-
+drug interactions, noncompliance, or other information that a prescriber or their agent would 
+need to know to provide the highest level of care.   HIPAA and other privacy requirements also 
+allow for the communication between clinicians or other employees with payers, insurers, law 
+enforcement personnel and other narrowly defined personnel within the scope of pharmacy 
+practice.  
+(a) Information shared with prescribers may be shared via  
+PH.2465_Patient Management Program Description 
+8 
+(i) Secure fax 
+(a) All outbound fax transmission will be sent to the prescribers’ fax number 
+on record to minimize the risk 
+(ii) Secure email 
+(iii) Messaging service in EMR 
+(a) Electronic prescriptions and requests for electronic prescriptions from 
+pharmacies require secure authentication to minimize the risk 
+(b) Use of the EMR messaging system is a secure method that is utilized to 
+contact prescribers within the health system 
+(iv) Phone 
+(b) Information shared with support healthcare providers may be via: 
+(i) Secure fax 
+(ii) Secure email 
+(iii) Phone 
+(2) When technology is utilized, every reasonable effort will be made to ensure that the selected 
+route of transmission is used in a way to minimize the risk the information will be misdirected 
+to an inappropriate party. El ectronic prescriptions and requests for electronic prescriptions 
+from pharmacies require secure authentication to minimize this risk.  All outbound fax 
+transmissions will be sent to the prescriber’s fax number on record to minimize the risk of 
+misdirection to an inappropriate party.  
+(3) While the pharmacy encourages, promotes and facilitates direct communication between 
+employees and patients, the pharmacy will function within scope of HIPAA and other 
+applicable privacy regulations. Each new patient receives a copy of the pharmacy Privacy 
+Practices with their first prescription and every drug monograph printed from pharmacy 
+operating system is included with every medication dispensed.  
+(4) Promotion of referrals, when appropriate, to other health care providers such as another 
+specialty pharmacy for limited distribution drugs, assistance programs, or financial aid 
+programs. This is accomplished by contacting the other organizations and transferring 
+prescriptions, as well as contacting patients and prescribers to inform them of the transfer and 
+the transferred-to organization’s information. [URAC PM 6-1 (a)] 
+(a) The pharmacy assesses and determines the need for home-based injection training and 
+other nursing services and will collaborate with clinic to coordinate such services as 
+necessary. 
+b. Support transition of care [URAC PM 6-1 (b)] 
+(1) Optimization of positive therapeutic outcomes occurs through the promotion of continuity of 
+care during patient transition. This includes medication reconciliation and the facilitation of 
+collaboration among patient's health care providers. This is achieved by performing a 
+medication reconciliation where the pharmacy identifies the most accurate list of medications 
+the patient is on at the transition of care. 
+(a) When a patient transitions care to the pharmacy, the liaison or auxiliary personnel will 
+go over their medication list prior to their first prescription fill. 
+(i) This list will be compared to the most recent medication list in the EMR. 
+(ii) The clinician will be notified of the updates to the medication list. 
+c. When identified, liaisons, auxiliary personnel, and clinicians dispatch issues with social determinants 
+of health, to the appropriate entity for further evaluation and management. [URAC PM 6-1 (c)] 
+(WHO Determinants of Health https://www.who.int/news-r oom/questions-and-
+answers/item/determinants-of-health) 
+(1) Prescribers, registered nurses, social workers, and other members of the healthcare team are 
+made aware of other factors shared with our team that affect the health of our patients. These 
+may include, but are not limited to: 
+(a) Economic/financial environment, including income status. 
+(b) Social environment, including support networks, cultural customs, and beliefs. 
+(c) Physical environment, including safe housing and healthy workspaces.  
+PH.2465_Patient Management Program Description 
+9 
+2. Patient information will be stored in a centralized patient record in the pharmacy operating system; additional 
+information may be stored in patient management software if available or a paper file if needed. Included in 
+this this record shall be a care plan.  
+a. Pharmacists develop care plans for every patient and base the plan on the therapy and initial 
+assessment of the patient. Care plans are specific to individual patients but may be therapy specific in 
+the absence of unremarkable assessment data. 
+b. Concerns that arise with individual patients during the reassessment process will be addressed in the 
+care plan. Examples are a serious side effect warranting provider outreach or a patient admitted to a 
+hospital because of inappropriate/ineffective therapy. Updates to the care plan are done through the 
+reassessment process as well as counseling.  
+c. Pharmacy staff will encourage patients and responsible parties to participate in the development and 
+maintenance of the care plan. 
+d. Changes in care plans are based on reassessment data and are noted in the patient file. Any 
+communication with MD, clinicians, etc. will be documented. 
+e. Care plans will be reviewed/updated: 
+(1) Updates to the care plan are based on frequency in which the patient is receiving therapy. 
+(2) When there are changes in response to therapy. 
+(3) When MD orders change. 
+(4) At request of patient. 
+f. All patients will require that a care plan be updated in the patient management software that will be 
+reviewed prior to dispensing medication and based on therapy protocols. The care plan will be 
+reviewed for: 
+(1) Appropriateness (care being provided is still needed),  
+(2) Effectiveness (client/patient outcomes/response to care),  
+(3) Determining if all needed care/services are being provided, and  
+(4) Change in client’s/patient's condition. 
+3. Care plans shall include: 
+a. Start of care date; 
+b. Client/patient demographics; 
+c. Principle diagnosis and other pertinent diagnoses; 
+d. Medications: dose/frequency/route; 
+e. Allergies/Sensitivities as well as relevant nondrug substances which may 
+include: 
+(1) Peanuts 
+(2) Soy 
+(3) Latex 
+(4) Shellfish 
+(5) Adhesives/tapes 
+(6) Disinfectants (e.g. iodine, hexachlorophene/phisohex) 
+f. Orders for specific clinical services, treatments, and procedures; 
+g. Equipment and supplies; 
+h. A statement of problems/needs determined upon assessment, including patient-
+specific transitions of care needs;  
+i. Strategies/interventions to address the problems/needs;  
+j. Expected outcome/goals and measurable goals to demonstrate resolution based 
+upon the problems/needs;  
+k. Interventions; 
+l. Monitoring; 
+m. Functional limitations, if applicable; 
+n. Diet and nutritional needs, if applicable; and 
+o. Safety measures, if applicable. 
+4. The plan of care should be reviewed at every re-dispensing as well as: 
+a. Prior to dispensing medication 
+b. Based on therapy protocols  
+PH.2465_Patient Management Program Description 
+10 
+c. When there are changes in client’s/patient’s response to therapy 
+d. When physician’s orders change 
+e. At the request of client/patient 
+f. As defined in the organization’s policies and procedures  
+5. The development of the care plan and any revisions to the plan will involve the patient, 
+family and/or the caregiver. The pharmacy promotes the empowerment of patient or 
+caregiver to self-treat and self-manage their condition or disease; this is accomplished 
+by educating the patient/caregiver and prescriber with clinical information to help 
+manage the patient’s condition . Documentation of this plan of care will be made in the 
+pharmacy records (written or electronic) using patient management system.  
+6. When requested by payers, the pharmacy has the capability to generate the following 
+information to those payers through the pharmacy operating system:  
+a. A record of patient referral, intake and outcome of first prescription order 
+(patient, prescriber, drug, quantity, date dispensed, or reason why not 
+dispensed) during the reporting period 
+b. A record of all patient prescriptions dispensed (new and refill) during the 
+reporting period 
+c. A record of all patients who did not receive an expected prescription refill on a 
+projected date of service and the reason why (when known) during the reporting 
+period.  Common reasons reported include: 
+• Drug not dispensed due to lost insurance coverage 
+• Drug discontinued due to lack of efficacy 
+• Drug discontinued due to side effects 
+• Drug not dispensed due to payer denied approval 
+• Dru g not dispensed as patient could not afford co-pays 
+• Drug not dispensed as patient has sufficient supply on hand 
+7. Information about third party payer programs and multi-disciplinary teams such as patient assistance 
+programs, case management and home care agencies is included in the care plan, when necessary .  
+G. Annual PMP Evaluation [URAC PM 7-1] 
+1. The pharmacy shall comply with Payer’s Guideline Management programs, if any, to optimize outcomes and 
+promote the safe, clinically and cost-effective uses of certain Specialty Drugs based on evidence-based 
+medical guidelines. 
+2. The PMP evaluation [URAC PM 1-1 (a-ii)] 
+a. Is completed at least annually by the QMC [URAC PM 7-1 (a-i)] 
+(1) The QMC reviews the PMP for value and effectiveness [URAC PM 7-1 (a-ii)] 
+(2) The QMC reviews the goals and objectives of the program [URAC PM 7-1 (a-iii)] 
+(3) The QMC makes recommendations and updates to the PMP based on the evaluation [URAC 
+PM 7-1 (c)] 
+b. Is at minimum, inclusive of the following outcomes: 
+(1) Clinical benefits  [URAC PM 7-1 (b-i)] 
+(a) Clinical Outcome 1 
+(i) Measure/Goal– Proportion of Days Covered (“PDC”) > 80%/year per disease 
+category 
+(ii) Methodology – On a quarterly basis data will be collected from the pharmacy 
+software system to calculate proportion of days covered. 
+(iii) Proportion of days covered will be calculated as: 
+The number of days in a period covered (the number of days that a patient has 
+medication to cover the day) divided by the number of days in a period. 
+PDC=            Number of days in “covered” period 
+Number of days in period x 100% 
+This number will be calculated on a quarterly basis and reported to the QMC.  The 
+QMC analyzes this data and identifies performance trends on adherence. [URAC 
+P-OPS 4-1 (c)]   
+PH.2465_Patient Management Program Description 
+11 
+(a) Strengths: easy to calculate using claims data and does not require 
+eligibility information; provides a measure of consistency of use; helps 
+pharmacies keep patients compliant to drug therapies; good for measuring 
+compliance for long-term treatment. 
+(b) Weaknesses: provides adherence information only for the period of time 
+when subjects are receiving drugs. PDC provides a measure of consistency 
+of use but provides no information on persistency of use. Variable PDC 
+does not provide information on those subjects who stop or interrupt 
+therapy, which is a common practice in many medical conditions. 
+(b) Clinical Outcome 2 
+(i) Measure/Goal – 80 % of patients agree that participating in the pharmacy PMP 
+has helped them self-manage their medication. 
+(ii) Methodology –The pharmacy will obtain percentage by calculating the number of 
+patients who agree that participating in the PMP has helped them self-manage 
+their medication over the total number of patients assessed. Data is documented 
+during the patient reassessment process and is pulled from the patient management 
+system. 
+(a) Strengths- Information is easy to collect as the clinician already speaks to 
+specialty patients on a regular basis. 
+(b) Weakness- Patients may not provide an honest answer or chose not to 
+answer at all. 
+(2) Financial benefits [URAC PM 7-1 (b-ii)] 
+(a) Measure/Goal - The pharmacy will assist its patient management population in 
+achieving a total of $25,000 each year in copay assistance and funding. 
+(b) Methodology – Data will be pulled from Cover My Meds and will be calculated by 
+adding the total number of dollars saved. 
+(i) Strengths - easy to track and staff already assist patients with obtaining copay 
+assistance. 
+(ii) Weakness - some patients may not qualify for copay assistance. 
+(3) Patient satisfaction 
+(a) Measure/Goal - The pharmacy will achieve an average patient satisfaction rating of 9 
+out of 10 from the PMP participants. 
+(b) Methodology – Data will be pulled from the patient satisfaction survey question results 
+located in the patient management system. The pharmacy measures overall satisfaction 
+by asking the patient to rate their satisfaction with the pharmacy services on a scale of 1 
+to 10. This question is asked during patient management assessment calls and is 
+documented in the patient management system.  The overall satisfaction percentage is 
+calculated the average of the rating provided by the patient on the above-mentioned 
+scale. 
+(i) Strengths - Information is easy to collect as the clinician already speaks to 
+specialty patients on a regular basis. 
+(ii) Weakness - Patients may not provide an honest answer or chose not to answer at 
+all. 
+(4) Health-related, quality of life outcomes other than clinical and financial 
+(a) Measure/Goal –PMP participants will rate their quality of life as an 8 or higher out of 
+10. 
+(b) Methodology - Data will be pulled from the quality of life survey question results 
+located in the patient management system. This question is asked during patient 
+management reassessment calls and is documented in the patient management system. 
+(i) Strengths - Information is easy to collect as the clinician already speaks to 
+specialty patients on a regular basis.  
+PH.2465_Patient Management Program Description 
+12 
+(ii) Weakness - Patients may not provide an honest answer or chose not to answer at 
+all. 
+(5) Clinical intervention outcome benefits [URAC PM 7-1 (b-iv)] 
+(a) Measure/Goal – The pharmacy will achieve 90% or more clinical intervention 
+acceptance rate. 
+(b) Methodology – The overall intervention acceptance rate is the total number of 
+interventions accepted by the patient, provider, or other healthcare provider over the 
+total number of clinical interventions. 
+(i) Strengths – Information is easy to collect as the clinician already speaks to the 
+patient/provider.  
+(ii) Weakness – Patients/providers may not provide an honest answer or chose not to 
+answer at all. 
+3. The organization is capable of generating reports to demonstrate results of the program evaluation to current 
+and prospective payors upon request. The report will be provided to the current or prospective payor within 
+30 days of the request. The report will be emailed to the representative of the company that requested it.  
+4. Interested parties can submit their requests in writing to the Pharmacy Manager or Director of Retail 
+Pharmacy. Payers, insurers, employer groups, prescribers and other qualified parties will receive the 
+requested information in writing within 30 days of their request or as stated in the terms of their agreement.  
+Reports will be provided to only those parties that have a valid, existing relationship with the pharmacy or are 
+evaluating such a relationship. Only the most current outcomes evaluation report will be provided unless 
+requested in writing and deemed appropriate by the Pharmacy Manager or Director of Pharmacy.  
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• ACHC Standards: DRX5-1A, DRX 5-1B, DRX5-1C, DRX5-1D, DRX5-2A, DRX5-2B, DRX5-2C, DRX 5-2G, 
+DRX5-2I, DRX5-4A, DRX5-5A, DRX5-5E, DRX6-1A, DRX6-3F, DRX5-15C, DRX2-1A, DRX5-9A, DRX5-
+12A, DRX5-15C, DRX7-9B 
+• URAC Standards: PM 1-1, PM 2-1, PM 2-2, PM 2-3, PM 3-1, PM 4-1, PM 4-2, PM 4-3, PM 5-1, PM 6-1, PM 
+7-1, P-OPS 4-1 
+• PH.2428 Cultural Awareness 
+• PH.2431 Ongoing Patient Support and On-Call Services  
+• PH.2432 Customer Satisfaction Performance Indicator   
+• PH.2435 Review of Marketing and Communications Materials  
+• PH.2437 Quality Management Program Description 
+• PH.2440 Distribution Accuracy Performance Indicator  
+• PH.2441 Complaints and Incidents Performance Indicator 
+• PH.2433 Access to Services Performance Indicator 
+• PH.2445 Medication Dispensing Accuracy Performance Indicator 
+ 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 
+ 
+ 

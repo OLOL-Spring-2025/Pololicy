@@ -1,0 +1,710 @@
+Approved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 18
+1.PURPOSE -- SCOPE
+Provide guidelines for disposition of managed equipment including associated 
+PHI storage devices.
+This applies to all TRIMEDX Associates and all managed equipment in, or 
+intended to be in, the TRIMEDX CMMS.
+2.REFERENCE DOCUMENTS
+3.DEFINITIONS
+3.1.Computerized Maintenance Management System (CMMS) – TRIMEDX 
+uses RSQ as its maintenance management system. 
+3.2.Covered Entity – Health care providers involved in the transmission of 
+protected health information (PHI). This transmission can take place for 
+the purpose of payment, treatment, operations, billing, or insurance 
+coverage. Covered entities can include organizations, institutions, or 
+persons. 
+3.3.Decommissioned – A sub-status of the managed equipment record. 
+Device is rendered inoperable and cannot be returned to service at any 
+hospital/facility. 
+3.4.Disposition – The deactivation of the device from the CMMS and physical 
+removal of said device from the environment of care and availability for 
+patient use at its current inventory location. 
+3.5.Disposition of Equipment Form (DEF) – The form required to receive the 
+HAA approval of the device to be dispositioned and to ensure the removal 
+of PHI from the device if identified by HAA. 
+3.6.Inactive – A sub-status of the device record contained in the CMMS 
+defined as a device that is in operating order but is being removed from 
+hospital/facility inventory. The device can be reactivated and used at 
+another hospital/facility or reactivated at current hospital/facility with 
+proper performance verification and equipment record updates. 
+3.7.Managed (Covered) equipment – Any device, equipment or tool that is 
+actively managed under a TRIMEDX contract by virtue of it being 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 18
+included in the CMMS inventory. This is inclusive of associated PHI 
+storage devices. 
+3.8.PHI Storage Device – Any component contained within or attached to 
+managed equipment, or the entire piece of equipment, identified as 
+having the potential to contain PHI. 
+3.9.Protected Health Information (PHI) / Electronic Protected Health 
+Information (ePHI) - Protected health information is the term given to 
+health data created, received, stored, or transmitted by HIPAA covered 
+entities and their business associates in relation to the provision of 
+healthcare, healthcare operations and payment for healthcare services. 
+Protected health information is often shortened to PHI, or in the case of 
+electronic health information, ePHI. 
+3.10. RUDR – A proprietary TRIMEDX algorithm that recommends when 
+equipment should be replaced, upgraded, decommissioned or 
+reallocated.
+4.ABBREVIATIONS
+4.1.HAA – Hospital Authorizing Agent
+4.2.PHI – Patient Health Information 
+4.3.ePHI – Electronic Patient Health Information 
+4.4.DEF – Disposition of Equipment Form
+4.5.CMMS – Computerized Maintenance Management System
+4.6.RUDR – Replaced, Upgraded, Decommissioned, Reallocated
+5.RESPONSIBILITIES
+TRIMEDX Associates are responsible for learning, understanding and 
+performing duties as described in this policy and procedure as it pertains to 
+their specific role and responsibilities.
+5.1.Disposition Requestor:
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 3 of 18
+5.1.1. The Disposition Requestor is the individual that formally initiates the 
+dispositioning of managed equipment and is responsible for 
+completing Section 1 of the DEF. 
+5.1.2. This individual may be either the HAA, TRIMEDX Associate, 
+TRIMEDX Managed Associate, TRIMEDX Director or TRIMEDX Site 
+Manager. 
+5.1.3. If the Disposition Requestor is not the HAA, the HAA must verify 
+and approve the reason for dispositioning. 
+5.2.IT Department Representative or Customer Designated 
+Representative:
+5.2.1.Individual(s) who are authorized to receive possession and 
+responsibility for PHI storage devices from TRIMEDX Associates as 
+part of the dispositioning of managed equipment. 
+5.2.2.Responsible for completing DEF confirming transfer of 
+responsibility for PHI storage device. 
+5.2.3.Responsible for the proper handling of PHI on managed equipment 
+throughout its lifecycle. 
+5.2.4.Responsible determining and performing the proper method for 
+handling, destroying and/or encrypting PHI.
+5.3.Hospital Authorizing Agent (HAA):
+5.3.1.Hospital Department Manager or Director. 
+5.3.2.Responsible for completing all applicable sections of the DEF. 
+6.PROCEDURE
+It is TRIMEDX policy to support the disposition of managed equipment for its 
+customers with the following guidelines:
+This policy and procedure is applicable to TRIMEDX managed equipment, 
+including components associated with this equipment that are capable of 
+storing PHI. 
+TRIMEDX Associates shall follow this policy and procedure for all 
+dispositioning service events associated with managed equipment. 
+Customer is the owner/leaser of managed equipment. 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 4 of 18
+TRIMEDX is not responsible for the physical security of any managed 
+equipment except when TRIMEDX has officially taken possession of the 
+equipment, for example when the equipment has been moved to the 
+clinical engineering shop. 
+TRIMEDX shall not transfer managed equipment between separately 
+addressed locations for any purpose or reason without following this 
+procedure and reactivating the managed equipment at the new location 
+before being put back into use, with the exclusion of TRIMEDX owned test 
+equipment. 
+TRIMEDX shall not be responsible for managed equipment transfers, 
+delivery receipt, shipping and/or inventory outside of the TRIMEDX 
+CMMS. 
+TRIMEDX shall not be responsible for any non-TRIMEDX policies and 
+procedures. 
+TRIMEDX shall not be responsible for activities associated with any third 
+party such as, but not limited to, couriers, brokers, rental agencies, 
+recycling, data destruction or similar entities that are used for equipment 
+movement, deinstallation, disposition and/or similar activities. 
+TRIMEDX will not take responsibility for performing or facilitating with any 
+party outside the Hospital Authorizing Agent (HAA), the destruction of any 
+managed equipment and/or associated PHI. 
+TRIMEDX will not take responsibility for confirming the destruction, 
+removal or encryption of PHI. 
+TRIMEDX will not take responsibility for, nor perform, any activities to 
+secure, erase, encrypt or destroy PHI on managed equipment. 
+TRIMEDX shall not take responsibility for identifying whether PHI is 
+resident on managed equipment. 
+TRIMEDX Associates will determine if managed equipment is capable of 
+containing PHI. 
+TRIMEDX Associates shall record chain of custody for managed 
+equipment for all process steps during the dispositioning process as 
+defined herein. 
+TRIMEDX Associates shall adhere to all applicable TRIMEDX policies and 
+procedures in conducting work on behalf of its customers. Any deviation 
+must be formally requested, reviewed, approved and documented. 
+TRIMEDX Associates shall report through email any unauthorized 
+deviation or failure to comply with any TRIMEDX policy or procedure, 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 5 of 18
+whether by themselves or others, to their TRIMEDX Manager. 
+TRIMEDX Associates shall immediately report, upon discovery, any loss, 
+breach, misplacement, security issue or unexpected scenario involving 
+managed equipment and/or associated data and PHI to their TRIMEDX 
+Manager. The situation shall be reported by said Manager to the 
+TRIMEDX Legal team using the ServiceNow 'Service Desk', located on 
+the TRIMEDX Snap page. A Legal request should be opened by following 
+the instructions outlined in the "How to Open A Legal Request" document 
+attached to this Policy and Procedure. The instructions are also found on 
+the Legal Snap site. 
+TRIMEDX Associates shall complete procedural and process steps in the 
+order prescribed and not begin working on any step in the process until all 
+required preceding steps are completed in sequence. 
+TRIMEDX Associates may complete one form for a group of like managed 
+equipment if they have exactly the same attributes for Manufacturer, 
+Model, Description, reason for disposition, PHI capability and presence of 
+PHI as identified by following this procedure and all managed equipment is 
+being dispositioned at the same point in time. All unique combinations will 
+require that this process be completed with a separate form. 
+TRIMEDX Associates will not be responsible for deciding the reason and 
+type for the disposition of managed equipment. Should a TRIMEDX 
+Associate act as the Disposition Requestor, it shall be at the request of the 
+HAA, and it is the responsibility of the HAA to review and approve the 
+disposition reason and type as documented. 
+This procedure describes the specific requirements of TRIMEDX Associates for 
+the disposition of managed equipment or certain components of equipment that 
+is actively inventoried in the TRIMEDX CMMS.
+If HAA or Hospital IT Department Representative/Customer Designated 
+Representative declines to sign or complete any aspect of the policy and 
+procedure, the TRIMEDX associate shall document the reason in the work notes 
+and notify the TRIMEDX Site Manager who shall cancel the Disposition 
+WO/WOT in CMMS and inform the TRIMEDX Director.
+Should a deviation from the policy and procedure be deemed necessary, the 
+deviation must be formally requested and documented with specific, defensible 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 6 of 18
+rationale supporting the request including, but not limited to, the reason for the 
+deviation, why the policy and procedure cannot be followed, scope, risks and 
+duration. The request shall first be presented to the TRIMEDX Division Vice 
+President who will review, approve or reject. If approved, it will then be presented 
+by the TRIMEDX Division Vice President to the TRIMEDX Vice President of 
+Legal and Vice President of QRC and Medical Technology Affairs to review and 
+approve or reject. Deviations should be infrequent and typically the result of 
+special cause variation and are allowed in order to help the business address 
+unanticipated circumstances in a reasonable way.
+6.1Disposition of Equipment Form (DEF) is initiated 
+6.1.1Can be completed with the paper form or electronically through the 
+CMMS.
+6.1.2 Section 1: To be completed by Disposition Requestor 
+6.1.2.1Disposition Requestor shall provide Name/Title. 
+6.1.2.1.1Requestor may be a person within the Covered Entity or a TRIMEDX 
+Associate at the request of the HAA. 
+6.1.2.2Disposition Requestor shall identify managed equipment for 
+disposition and shall provide the following attributes for each unit to be 
+used by TRIMEDX to complete Section 2: CEID number(s), Serial 
+Number(s), Manufacturer, Model (Name and/or Number) and Description. 
+6.1.2.3If the request is for multiple "like" units, as defined in the policy 
+section of this document only one form is necessary. If all managed 
+equipment is the same and one form will be used the Requestor must 
+attach a list of the equipment with their attributes to the form and identify 
+that multiple units are being dispositioned on the form and reference the 
+attachment. 
+6.1.2.4If the request is for multiple unique devices, based on device type, 
+attributes or timing, a unique form for each type shall be required. 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 7 of 18
+6.1.2.4.1Disposition Requestor shall select the appropriate reason for 
+disposition. 
+6.1.2.4.1.1Traded-In/Sold – Managed equipment or associated component or 
+accessory is being traded-in/sold and is changing ownership. 
+6.1.2.4.1.2Network/OS Issue – Managed equipment or associated component 
+being disposed due to a software, firmware, operating system, 
+networking or a relate cause.
+6.1.2.4.1.3RUDR Recommendation – Managed equipment has been 
+recommended for disposition or reallocation via the TRIMEDX 
+algorithm.
+6.1.2.4.1.4RSQ Data Correction – Managed equipment is duplicated, 
+incorrectly entered, or otherwise listed in RSQ MMS incorrectly.
+6.1.2.4.1.5Excess Inventory – Managed equipment or associated component 
+is not regularly needed for clinical use and/or the facility is downsizing 
+their clinical install base.
+6.1.2.4.1.6Facility Closing – Hospital/facility is closing. 
+6.1.2.4.1.7Temporary Device – Managed equipment is no longer required.
+6.1.2.4.1.8Unrepairable – Managed equipment that is no longer operable.
+6.1.2.4.1.9Other – A reason should be provided if options do not meet 
+scenarios listed above (e.g., surplus of equipment). 
+6.1.2.4.1.10Could Not Locate (CNL): 
+6.1.2.4.1.10.1Determined by following TRIMEDX Could Not Locate Policy 
+and Procedure. 
+6.1.2.4.1.10.2Hospital has requested/notified TRIMEDX that the managed 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 8 of 18
+equipment is no longer in the hospital/facility. 
+6.1.2.4.1.11If the reason for disposition is CNL, skip to Section 2. 
+6.1.2.4.1.12If the reason for disposition is not CNL, then Disposition Requestor 
+shall confirm that the managed equipment identified for disposition is 
+physically located and verified to exist. If the Disposition Requestor is 
+not a TRIMEDX Associate the requestor may enlist the help of 
+TRIMEDX Associates to perform this task. 
+6.1.2.4.1.13If the device cannot be located, stop the disposition process, inform 
+the TRIMEDX Site Manager and follow the TRIMEDX Could Not 
+Locate policy and procedure. 
+6.1.2.4.2Disposition Requestor shall select the appropriate type for disposition.
+6.1.2.4.2.1Could Not Locate (CNL):
+6.1.2.4.2.1.1Determined by following TRIMEDX Could Not Locate Policy and 
+Procedure. 
+6.1.2.4.2.1.2Hospital has requested/notified TRIMEDX that the managed 
+equipment is no longer in the hospital/facility. 
+6.1.2.4.2.2Donated – Managed equipment or associated component or 
+accessory is being donated to another party.
+6.1.2.4.2.3Returned – Managed equipment is a loaner or rental unit and is 
+being returned.
+6.1.2.4.2.4Sold – Managed equipment or associated component or accessory 
+is being sold and is changing ownership.
+6.1.2.4.2.5Traded in – Managed equipment or associated component or 
+accessory is being traded-in and is changing ownership.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 9 of 18
+6.1.2.4.2.6Reallocated – Managed equipment or associated component is 
+moving to another facility/care setting within the same affiliation.
+6.1.2.4.2.7RSQ Data Correction – Managed equipment is duplicated, 
+incorrectly entered or otherwise listed in RSQ CMMS incorrectly.
+6.1.2.4.2.8Other – A reason should be provided if options do not meet 
+scenarios listed above (e.g., surplus of equipment).
+6.1.3 Section 2: To be completed by TRIMEDX 
+6.1.3.1TRIMEDX Associates shall confirm the managed equipment is part 
+of the active TRIMEDX CMMS inventory and confirm the managed 
+equipment information. If managed equipment is not in active inventory 
+stop the disposition process and inform the TRIMEDX Site Manager and 
+HAA. 
+6.1.3.1.1CEID 
+6.1.3.1.2Serial Number 
+6.1.3.1.3Manufacturer 
+6.1.3.1.4Model 
+6.1.3.1.5Description 
+6.1.3.2TRIMEDX Associates shall open a Disposition WO/WOT in the 
+TRIMEDX CMMS. 
+6.1.3.3TRIMEDX Associates shall confirm whether or not the managed 
+equipment is capable of containing PHI. 
+6.1.3.4If the managed equipment is not capable of storing PHI, complete 
+Section 3. 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 10 of 18
+6.1.3.5If the managed equipment is capable of storing PHI, the TRIMEDX 
+Associate shall inform the HAA that they must confirm and document if the 
+managed equipment contains PHI and where it is located in order to 
+proceed (i.e., Hard Drive, Tape, CDs, Flash Drive, etc.). 
+6.1.3.6HAA shall determine if the managed equipment contains PHI 
+6.1.3.6.1If the managed equipment does not have PHI on it proceed to Section 
+3. 
+6.1.3.6.2If the managed equipment contains PHI. 
+6.1.3.6.2.1If the reason for disposition is CNL proceed to Section 6. 
+6.1.3.6.2.2If the reason for disposition is not CNL, TRIMEDX Associates shall 
+confirm the managed equipment PHI storage device is present. 
+6.1.3.6.2.2.1If managed equipment PHI storage device cannot be located 
+proceed to Section 5. 
+6.1.3.6.2.2.2If managed equipment PHI storage device is located proceed to 
+Section 4. 
+6.1.4 Section 3: To be Completed by HAA 
+6.1.4.1HAA shall confirm the correct managed equipment information from 
+Section 2. 
+6.1.4.2HAA shall confirm that this managed equipment does not contain 
+PHI. 
+6.1.4.3HAA shall provide their Name, Title, Signature, and Date.
+6.1.4.3.1Can be captured via paper DEF form, electronic signature, or email 
+approval through the Disposition WOT. 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 11 of 18
+6.1.4.3.2The form is now complete. Attach the form to the applicable WOT. 
+Proceed to the Completion of Disposition WO/WOT section below 
+for further instruction. If the electronic process was followed within the 
+CMMS, the form will automatically attach. 
+6.1.5 Section 4: Managed equipment Located/PHI Storage Device Present 
+6.1.5.1HAA shall confirm the correct managed equipment information from 
+Section 2.
+6.1.5.2HAA shall confirm that this managed equipment contains PHI. 
+6.1.5.3HAA shall provide their Name, Title, Signature, and Date. 
+6.1.5.3.1Can be captured via the paper DEF form or electronic signature via the 
+disposition WOT
+6.1.5.3.2TRIMEDX Associates shall confirm they have located the managed 
+equipment and the PHI storage device is present. 
+6.1.5.4If at any time in the Disposition of Equipment process (prior to this 
+step, during or after) it is determined that the device, equipment and/or 
+component containing PHI is missing, lost, stolen, compromised or some 
+other abnormal scenario exists, immediately report this to your TRIMEDX 
+Director or Site Manager. The situation shall be reported by said Director 
+and/or Manager to the TRIMEDX Legal team using the ServiceNow 
+'Service Desk', located on the TRIMEDX Snap page. A Legal request 
+should be opened by following the instructions outlined in the "How to 
+Open A Legal Request" document attached to this Policy and Procedure. 
+The instructions are also found on the Legal Snap site. 
+6.1.5.5TRIMEDX Associates shall: 
+6.1.5.5.1Determine if PHI storage device is removable or not. 
+6.1.5.5.2For managed equipment that is immobile or for non-removable PHI 
+storage devices associated with the managed equipment that is 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 12 of 18
+immobile and being dispositioned: 
+6.1.5.5.3Provide to the HAA the last known location and access to the managed 
+equipment. 
+6.1.5.5.3.1Provide their Name, Title, Signature, Date. 
+6.1.5.5.4Can be captured via the paper DEF form or electronic signature via the 
+disposition WOT
+6.1.5.5.4.1For removable PHI storage devices: 
+6.1.5.5.5Remove PHI storage device. 
+6.1.5.5.5.1The TRIMEDX Associate shall ensure that the managed equipment 
+and storage device are secured physically using reasonable methods 
+from the time that they receive possession of the device until they 
+deliver and receive acknowledgement of receipt by the Hospital IT 
+Department Representative or Customer Designated Representative. 
+6.1.5.5.5.2Never leave the equipment or storage device unsecured and never 
+allow the device or equipment out of your possession without written 
+acknowledgement of receipt of possession from an authorized 
+representative. 
+6.1.5.5.5.3Record the Serial Number or Unique Identifier from the storage 
+device if applicable on DEF. 
+6.1.5.5.5.4Take pictures of all Storage devices with Serial Number or Unique 
+Identifier visible (if applicable) and attach to the WOT. 
+6.1.5.5.5.5Ensure that when photographing the device to not include anything 
+in the background or any kind of sensitive information (such as PHI), 
+only the device should be visible. 
+6.1.5.5.5.6Before loading the pictures into the CMMS review the images to 
+confirm that only the devices and associated identifiers are visible. If 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 13 of 18
+there is anything else visible either crop the image or take a new 
+picture before uploading the image. Delete the photographs with other 
+identifiers from the camera/phone. Do not load any images that do not 
+conform to this requirement 
+6.1.5.5.5.7Provide their Name, Title, Signature, Date. 
+6.1.5.5.6Can be captured via the paper DEF form or electronic signature via the 
+disposition WOT
+6.1.5.5.6.1Deliver PHI Storage Device to the Hospital IT Department 
+Representative or Customer Designated Representative. 
+6.1.5.5.6.2Hospital Department IT Department Representative or Customer 
+Designated Representative shall: 
+6.1.5.5.6.2.1Acknowledge that they have received possession of the PHI 
+storage device. 
+6.1.5.5.6.2.2Provide their Name, Title, Signature, Date. 
+6.1.5.5.6.2.2.1Can be captured via the paper DEF form or electronic 
+signature via the disposition WOT
+6.1.5.5.6.2.3Hospital Department IT Department Representative or Customer 
+Designated Representative declines to complete any of these 
+steps, do not turn over the storage device, secure it and notify the 
+TRIMEDX Site Manager to cancel the Disposition WO/WOT in 
+CMMS. 
+6.1.5.5.6.3Form is now complete, attach form to the applicable WOT (Proceed 
+to section Completion of Disposition WO/WOT of the policy for 
+further instruction). If the electronic process was followed within the 
+CMMS, the form will automatically attach.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 14 of 18
+6.1.6 Section 5: Managed Equipment is located/PHI Storage Device Not 
+Present
+6.1.6.1HAA acknowledges the correct managed equipment information 
+from Section 2.
+6.1.6.2HAA indicates that this managed equipment contains PHI. 
+6.1.6.3HAA indicates where the PHI is stored on the managed equipment: 
+(e.g. Hard Drive, Tape, CDs, Flash Drive etc.). 
+6.1.6.4TRIMEDX Associate confirms the managed equipment is located 
+and the PHI storage device is not present. 
+6.1.6.5TRIMEDX Associate obtains acknowledgement from the HAA that 
+the PHI storage device is not present. 
+6.1.6.6HAA provides their Name, Title, Signature, Date. 
+6.1.6.6.1Can be captured via the paper DEF form or electronic signature via the 
+disposition WOT
+6.1.6.7TRIMEDX Associate provides their Name, Title, Date, and 
+Signature. 
+6.1.6.7.1Can be captured via the paper DEF form or electronic signature via the 
+disposition WOT
+6.1.6.8TRIMEDX Associate notifies TRIMEDX Site Manager and Hospital 
+Department Manager. 
+6.1.6.9Form is now complete, attach form to the applicable WOT (Proceed 
+to section Completion of Disposition WO/WOT of the policy for further 
+instruction). If the electronic process was followed within the CMMS, the 
+form will automatically attach.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 15 of 18
+6.1.7 Section 6: Could Not Locate Managed equipment 
+6.1.7.1HAA acknowledges the correct managed equipment information 
+from Section 2.
+6.1.7.2HAA indicates that this managed equipment contains PHI. 
+6.1.7.3HAA indicates where PHI is stored on the managed equipment or 
+associated accessory (e.g., Hard Drive, Tape, CDs, Flash Drive etc.). 
+6.1.7.4TRIMEDX Associate confirms the managed equipment could not be 
+located. 
+6.1.7.5TRIMEDX Associate obtains acknowledgement from the HAA that 
+the managed equipment could not be located, and PHI storage device has 
+not been retrieved by TRIMEDX. 
+6.1.7.6HAA provides their Name, Title, Signature, Date. 
+6.1.7.6.1Can be captured via the paper DEF form or electronic signature via the 
+disposition WOT
+6.1.7.7TRIMEDX Associate provides their Name, Title, Date, and 
+Signature. 
+6.1.7.7.1Can be captured via the paper DEF form or electronic signature via the 
+disposition WOT
+6.1.7.8TRIMEDX Associate notifies TRIMEDX Site Manager and Hospital 
+Department Manager. 
+6.1.7.9Form is now complete, attach form to the applicable WOT (Proceed 
+to section Completion of Disposition WO/WOT of the policy for further 
+instruction). If the electronic process was followed within the CMMS, the 
+form will automatically attach.
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 16 of 18
+6.2Completion of the Disposition WO/WOT:
+6.2.1Attach the DEF to the WOT in the TRIMEDX CMMS. 
+6.2.2Include list of other managed equipment if form was for bulk disposition.
+6.2.3Document the required information in the 'Close Note' tab. 
+6.2.4Is managed equipment being Inactivated or Decommissioned? (see 
+definitions section) 
+6.2.4.1If Inactivated is selected, document why is the managed equipment 
+being inactivated. This should match the reasoning selected on the DEF. 
+6.2.4.2If Decommissioned is selected, document how is managed 
+equipment decommissioned. This should match the reasoning selected on 
+the DEF.
+6.2.5Select the type of disposition being performed.
+6.2.6Authorizing Agent should match the HAA on the DEF. 
+6.2.6.1If HAA is not available for selection, put in a ticket through 'Report 
+an Issue' to add the HAA. 
+6.2.6.2Customer Disposition Form Attached? 
+6.2.6.3If a Hospital/Facility form is also required by the Hospital/Facility 
+policy, attach the form in addition to the DEF. 
+6.2.6.4Disposition Date: 
+6.2.6.4.1This should be the date that the managed equipment is being removed 
+from the TRIMEDX active inventory. 
+6.2.6.5Complete Labor Line Information. 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 17 of 18
+6.2.6.6Complete Service Notes. 
+6.2.6.6.1Service Notes – Summarize disposition process that matches the 
+attached DEF. 
+6.2.6.7Complete the WOT. 
+6.2.6.7.1TRIMEDX Site Manager closes the WO after review and confirmation 
+that the appropriate process and information has been completed and 
+attached. 
+6.2.6.8Managed equipment status changes to Disposition. 
+6.3If Open WOTs exist on Managed Equipment that is being Dispositioned: 
+6.3.1Upon completing the disposition WOTs if other open WOTs exist, a modal 
+will appear to allow to submission of WOTs to move to the incomplete 
+status after the Site Manager has approved the Disposition WO. 
+6.3.1.1WOTs that cannot be submitted to move to incomplete are any 
+WOTs marked as; Potential Incident, Billable, Affected Alert, or has 
+part/vendor orders that have no been received. 
+6.3.2If the WOTs are not submitted to move to incomplete based upon the 
+closure of the Disposition WOT, then the following process must be 
+followed to incomplete any remaining open WOTs. 
+6.3.2.1Locate any WOTs remaining open on the managed equipment 
+being dispositioned. 
+6.3.2.2Add Labor Line Information. 
+6.3.2.3Add a Service Note summarizing any work that has been done 
+related to this WOT. 
+6.3.2.4Click the 'Incomplete WOT' button. 
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0091 Revision: 3
+Document Type: TMX Effective Date: May 13, 2021
+Department: CE Operations Origination 
+Date:
+      
+Title: Disposition of Equipment
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 18 of 18
+7.QUALITY RECORDS
+8.PROCESS FLOWCHART
+Appendix A: Additional Resources
+END OF DOCUMENT
+COPY

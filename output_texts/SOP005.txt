@@ -1,0 +1,244 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Operating Room 
+Title: Blood Delivery, Operating Room  
+Policy Reference #: SOP005 
+Supersedes #: 07/23/92; 09/29/87; 
+09/20/91; 03/00 
+Date of Origination: 09/29/1987 Review Date: 08/8/2024 
+Revision Date: 08/2/2021 
+ 
+PURPOSE: 
+To state the process for the delivery of blood and blood components in the Operating Room 
+ 
+POLICY: 
+All blood and blood components will be administered with the order of a physician according to the 
+procedure as follows. 
+ 
+DEFINITIONS: 
+EMR: Electronic Medical Record  
+ 
+PROCEDURE: 
+A. Preoperative  
+1. Prior to the start of a case the circulator will verify:  
+a. That the patient is properly consented for blood transfusion (for non-
+emergent situations). A new consent must be obtained for each hospital 
+admission. 
+b. Verify blood band is on the patient, properly completed, and not expired 
+(within 72hrs). 
+c. If blood is already ordered and Blood Bank has available cross matched 
+blood or blood product(s). 
+d. Any equipment or resources required for autologous transfusion are readily 
+available and working.  
+ 
+B. Ordering Blood 
+1. See section I for Mass Transfusion Protocol 
+2. If additional blood or blood product are required during the surgery, the 
+anesthesia provider will document the verbal order in the EMR. 
+a.  Follow Order Entry sequence for ordering blood/blood products, under 
+‘anesthesia blood administration’ order set.  
+3. If blood loss is excessive and a mass transfusion is ordered, follow policy NBL-
+003.  
+4. When the blood or blood product is available, transfusion results will appear in 
+EMR under the ‘Lab’ activity tab in the patient’s record.  2 
+5. Complete a Blood Bank Product Request form for each blood product to be 
+administered. Blood Bank number must be recorded from patient’s armband 
+onto the Product Request form for Red Blood Cell issue. Take form to 
+Transfusion Service 
+6. The surgeon or anesthesia provider may order: 
+a. Autologous Blood or Fresh Frozen Plasma, designating the number of units 
+to thaw. 
+1. NOTE: One-hour preparation time is required for each unit of 
+autologous blood and 24 hour expiration time limit after blood has 
+been thawed. 
+b. Platelets, designating the number of units for apheresis.   
+c. Cryo Precipitate, designating the number of units. 
+1. NOTE: For information regarding all blood/blood component 
+Turnaround Times from the Blood Band reference OLOL policy# 
+NBL-002 
+C. Specimen Collection  
+1. Re-labeling of Blood Bank samples is prohibited. All samples are to be labeled 
+in the presence of the patient, prior to leaving the bedside. No exceptions will be 
+made. 
+2. If the Blood Bank needs a blood sample, the anesthetist will draw the sample 
+into a large purple top tube (9ml EDTA)  and order a crossmatch.  
+3. Patients must have 2 blood types from 2 separate phlebotomies before 
+crossmatched Red Blood Cells or Fresh Frozen Plasma can be given out for 
+transfusion. This sample may be drawn in a 3 mL purple top labeled using 2 ID 
+process. It cannot be drawn at the same time as the crossmatch sample 
+4. If a computer generated lab label is available, label the specimen tube(s) with 
+that label. Record initials and / or team member’s Lawson id, date and time 
+collected on the tube and attach a Blood Bank Identification System unique 
+number to the tube. 
+ 
+If a computer generated lab label is not available, the computer generated chart 
+label or handwritten patient information is acceptable. (Must have 2 pt. IDs) 
+Record Lawson id, date and time collected on the tube and attach Blood Bank 
+Identification System unique number to the tube. 
+  
+5. Write initials and/or team member’s Lawson ID, date and time of draw on the 
+Blood Bank Patient Identification System bracelet insert, which is found on the 
+bottom of the Blood Bank Patient Identification System label sheet. 
+6. Remove the Blood Bank Patient Identification System insert from the label sheet 
+and place it in the red plastic armband sheath. 
+7. Secure the plastic Blood Bank Patient Identification System armband to the 
+patient’s wrist or ankle. Do not apply the band too tightly. Allow ample slack. 
+Try to put the armband on the same arm as the hospital armband. 
+8. Send in a green STAT lab bag. 
+9. The name of person who drew specimen and the date and time must be recorded 
+in the EMR or on the label if EMR is not properly functioning.     3 
+10. All specimens will be transported to the Blood Bank by OR staff. 
+ 
+ 
+ 
+D. Patient Blood Identification Band 
+1. Blood bands must reside on the patient. If it is removed, a new blood band and 
+type and type and match must be completed.  
+2. During many procedures the patient’s Blood ID Band is inaccessible to RN 
+circulator because of patient position and potential compromise of the sterile 
+field.  The Blood Bank Identification Number should be double verified with the 
+Anesthesia provider prior to positioning and draping and recorded by the 
+Circulating Nurse in a readily accessible location that may be referenced by 
+perioperative personnel as needed.  The location of this information should be 
+reported as part of any intraoperative “handoff” procedure. 
+3. When checking a Blood ID Band, the RN circulator, Anesthesia Provider,  
+Perfusionist or another trained licensed person will verify all information:  
+a. the patient’s name, Medical Record Number, and blood bank identification 
+number with the corresponding information labeled on the Blood ID Band. 
+4. When blood or blood products are required for emergent use 
+(uncrossmatched/emergency released) no Blood Bank armband is required for 
+issue or transfusion. Patient information will be matched using the Emergency 
+Request for Blood/Blood Products form supplied with the products from 
+Transfusion Services. No unit tags will be present on blood or blood products 
+issued in these emergent situations 
+5. Platelets, plasma and cryoprecipitate orders do not require the use of 
+Blood Bank Patient Identification System 
+ 
+E. Blood Verification  
+1. Patient identification is to be performed based on the location of the blood band 
+ID in section D. 
+2. Patient Identification : (performed at bedside) 
+a. Must be performed by either two RNs 
+b. One individual conducting the identification verification must be the 
+qualified RN who will administer the blood or blood component to the 
+patient. 
+c. The second individual conducting the identification verification must be 
+qualified to participate in the process (i.e. RN, LPN, MT) 
+d. These two staff members (named above) compare the patient’s name and 
+date of birth on the patient’s armband with the patient’s name and date of 
+birth on the blood unit tag and if transfusing RBCs they must also compare 
+the patient’s Blood Bank Identification System unique number on the 
+blood unit tag and the patient’s Blood Bank armband 
+3. For Emergency Only: Match patient identification on patient armband to 
+information on the Emergency Request for Blood/Blood Products Form supplied 
+by Transfusion Services with the products.  4 
+4. Both staff members verifying patient and blood product must sign the Blood 
+Bank unit tag and record the start time on the tag. All identification attached to 
+the unit shall remain attached until the transfusion has ended 
+ 
+F. Blood Administration  
+1. Banked blood delivered via peripheral and central lines will be administrated 
+according to Patient Care Services Policy for blood and blood product 
+administration. (NBL-002)). 
+2. The only IV solution to be used with blood and blood products is 0.9% NaCl 
+USP (Normal saline). This solution may be used to prime and flush blood 
+administration set, and to dilute blood. 
+3. Blood tubing must be changed after the administration of two (2) units of 
+blood/blood products. 
+4. If using a blood warmer to administer blood these guidelines must be followed: 
+a. The temperature of the warming device should not exceed 42° 
+b. The blood should be administered in four (4) hours or less. 
+c. The reissue of warmed blood is prohibited 
+5. During CAB procedures, the Perfusionist will administer bank blood via the 
+cardiopulmonary bypass pump per order of the surgeon or the anesthesia 
+provider. 
+6. Autologous Blood Recovery System – Per the order of the surgeon or 
+anesthesiologist, an autologous blood recovery system will be used in specific 
+types of surgical procedures.  The system will be prepared by the Circulator and 
+the Anesthesia Technician (or trained technician).  The salvaged blood will be 
+prepared according to the manufacturer’s guidelines and given on the order of 
+the Anesthesia Provider. 
+7. All blood/blood product administration are recorded by the anesthesia provider 
+in the Intraoperative anesthesia record.  
+8. After the blood bank unit tag has been completed, the completed tag is placed in 
+the patient’s folder to be scanned into the EMR.  
+9. Anesthesia will monitor or any blood transfusion reactions. Such an event will 
+follow Policy NBL002 and documented in EMR. 
+ 
+G. Blood Storage System 
+1. When multiple units of blood are needed, Blood Bank personnel will place the 
+units in a storage system with coolants. 
+2. The blood storage system may only be out of lab for less than four hours.  If the 
+storage system must be used for greater than four hours, the blood bank 
+personnel will provide a temperature monitoring device inside the storage unit to 
+recheck the temperature.  Temperature monitoring will be performed by Blood 
+Bank personnel with the assistance of the OR Circulating Nurse as requested. 
+3. Plasma and red cells are placed in blood storage system.  Cryoprecipitate and 
+platelets are left at room temperature. 
+4. The RN circulator and anesthesia provider will be responsible for the blood 
+storage system.  5 
+5. The storage system should remain closed except for removal of blood units in 
+order to maintain internal temperature of the blood storage system. 
+6. If the storage unit becomes visibly soiled, it will be wiped with approved 
+disinfectant. 
+ 
+H. Unused Units of Blood and Transporting Blood to another unit 
+1. At the completion of the case, the RN circulating must assure that unused units 
+remain in the blood storage system and are returned to the Blood Bank by OR 
+Staff. 
+2. If the surgeon orders a unit to be given in the Post Anesthesia Care Unit (PACU) 
+any available product from the OR will transport with the patient.  Any 
+remaining units are to be returned to the Blood Bank. 
+ 
+I. Mass Transfusion  
+1. In trauma situations, when the attending Physician/Surgeon deems it necessary 
+to facilitate emergency blood volume replacement, the transfusion team will be 
+notified to institute the Massive Transfusion Protocol (MTP) 
+2. MTP will remain in effect until canceled by the attending Physician/Surgeon. 
+3. Blood identification bands will be placed on the ankle instead of the forearm to 
+facilitate access 
+4. MTP physician’s verbal order is first called directly to Transfusion Services 765-
+8891, bypassing the electronic medical record system. Caller provides the Blood 
+Bank Technologist with the following.  
+a. Identification (MR/Trauma #) 
+b. Patient’s weight in kg 
+c. Gender 
+d. Ordering physician’s name 
+e. Location to which blood products are to be delivered 
+f. Contact number for ongoing communication between departments 
+5. If not done prior to the initiation of MTP, send patient blood samples to lab for 
+STAT 
+6. Type & Match, CMP, CBC and Coagulation Panel (PT, PTT, Platelets & 
+Fibrinogen). 
+7. One nurse attending the patient is assigned as the MTP coordinator and a blood 
+bank technologist is designated as the Blood Bank coordinator. 
+8. The nurse MTP Coordinator does the following:  
+a. Update the Blood Bank coordinator if the patient is relocated. 
+b. Monitor patient response to MTP and lab values relevant to protocol. 
+c. Monitor and document blood product administration, keeping a running 
+chronology. 
+d. Order STAT coagulation panels with fibrinogen following administration 
+of each batch. 
+e. Upon receipt of coag lab results, promptly communicates those results to 
+the physician, for consideration of MTP batch alteration.  6 
+f. Maintain communication between lab team and bedside team regarding all 
+aspects of MTPf. Notify the Blood Bank @ 5-8891 immediately when 
+MTP termination order is received. 
+g. Ensures immediate return of all unused MTP blood products to the Blood 
+Bank. 
+9. Standard ADULT (Patient ≥ 50kg) MTP COMPONENT BATCHES 
+-6 units PRBC 
+-6 units of Thawed Plasma or FFP 
+-20 units of Cryoprecipitate (Cryo) 
+-1 Platelet, Apheresis 
+ 
+ 
+REFERENCES: 
+Autologous Blood Transfusion Infusion… (N/BL001) 
+Blood and Blood Products, Administration of… (N/BL002) 
+Massive Transfusion for Trauma Emergency Resuscitation (NBL-003) 
+ 

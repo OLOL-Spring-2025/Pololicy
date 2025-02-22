@@ -1,0 +1,505 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Microbiological Air and Surface 
+Monitoring Program 
+Policy Reference #: PH0536 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 5/30/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy serves as the comprehensive microbiological air and surface monitoring program for 
+all sterile compounding areas where Compounded Sterile Preparations (CSP) are prepared within 
+FMOLHS Baton Rouge Market Pharmacies.  
+1.2. The microbiological monitoring program at FMOLHS Baton Rouge Market Pharmacies provides 
+information on the environmental quality of the compounding area(s) including data that is used 
+to:  
+• determine if a state of microbial control exists within Primary Engineering Controls (PECs), 
+Secondary Engineering Controls (SECs), and the sterile compounding area collectively  
+• assess the effectiveness of cleaning procedures and agents  
+• identify environmental quality trends over time  
+• identify potential routes and risks of contamination  
+• allow for implementation of corrective actions to minimize the risk of CSP contamination 
+• detect trends over time 
+1.3. The microbiological monitoring program includes data collected via two sampling methods: 
+• Viable airborne sampling – volumetric active air sampling conducted in classified areas to 
+detect and assess microbial air quality. 
+• Surface sampling – sampling of high touch, materials staging, and direct work surfaces to 
+evaluate facility and work surface cleaning and disinfecting procedures, materials handling 
+procedures, and personnel competency in related work practices.  
+2. Policy  
+2.1 It is the policy that FMOLHS Baton Rouge Market Pharmacies maintain a microbiological air and 
+surface monitoring program in all sterile compounding areas to include 1) viable impact 
+volumetric airborne particulate sampling and 2) surface sampling.] Refer to Sterile Compounding 
+Program Overview for all sterile compounding locations.  
+2.2 The microbiological monitoring program includes viable impact volumetric airborne particulate 
+sampling (air sampling) under dynamic operating conditions and surface sampling at the end of 
+a compounding activity or shift and before the area has been cleaned and disinfected. 2.3 Viable impact volumetric airborne particulate sampling is performed by an independently 
+certified testing agency.  
+2.4 Surface sampling is performed by an independently certified testing agency or by the DP or AT.   
+• Monthly surface sampling is performed by internal staff and semi -annual and/or ad hoc 
+sampling is performed by an independent 3rd party.  
+2.5 All classified ISO locations at FMOLHS Baton Rouge Market Pharmacies are maintained under the 
+following action levels: 
+o ISO Class 
+Viable Air Sample 
+CFU/cubic meter of air 
+per plate 
+Viable Surface Sample 
+CFU per sampling 
+device 
+ISO 5 > 1 >3 
+ISO 7 > 10 > 5 
+ISO 8 > 100 > 50 
+ 
+2.6 The frequency of microbiological sampling occurs based on the category of CSPs compounded.  
+ 
+Sample Type Category 1 CSPs Frequency Category 2 CSPs Frequency 
+Air Sample Every 6 months Every 6 months 
+ 
+Surface Sample 
+Monthly Monthly 
+In conjunction with media fill testing 
+ 
+ 
+2.7 All personnel who perform microbiological air and surface sampling at FMOLHS Baton Rouge 
+Market Pharmacies are trained and competent in all sampling procedures and this training is 
+documented in SoleSource® Simplifi 797®.  
+• The DP determines personnel who are trained in microbiological monitoring. 
+• Training in microbiological monitoring is annual and includes: 
+o Surface sampling procedures 
+o Incubation of sample procedures 
+o Analysis and documentation of microbiological sampling results and trends 
+2.8 Microbiological air and surface sampling are performed under the following circumstances: 
+• Upon the opening of the sterile compounding area to establish a baseline of control 
+• In conjunction with the certification of new facilities and new equipment 
+• After any servicing of facilities or equipment • In response to identified problems  
+• In response to identified trends 
+• In response to changes that impact the sterile compounding environment 
+ 
+2.9 The locations for microbiological air and surface sampling are denoted on the sterile 
+compounding facility diagram Appendix One and represent locations posing the highest potential 
+for CSP contamination. 
+• Air sampling locations are established in all ISO Class 5 PECs, all ISO Class 7 rooms and ISO 
+Class 8 rooms in selected high traffic areas.  
+• Each sampling location on the sterile compounding facility diagram has an associated Sample 
+ID. All Sample IDs are unique, duplicating Sample IDs is not allowed within the facility even if 
+the sterile compounding area is in a physically different location within the facility. The 
+designation is as follows: 
+o Air Samples: A1, A2, etc. 
+o Surface Samples: S1, S2, etc. 
+2.10 All active air sampling devices are calibrated yearly or per manufacturer recommendation and 
+preventative maintenance occurs as required by the manufacturer and documented per the 
+independent testing agency’s policy.  
+2.11 All microbial air and surface monitoring procedures, testing results, investigations into 
+actionable results and corrective actions are documented the independent testing agency’s 
+reports and SoleSource® Simplifi797®.  Monthly surface sampling results are scanned into the 
+shared T: drive. 
+2.12 Personnel performing microbiological sampling in Hazardous Drug (HD) compounding locations 
+follow all policies and procedures associated with USP <800>.  
+• All equipment used in HD locations is deactivated and decontaminated upon the conclusion 
+of testing per USP <800> policies. 
+3. Roles & Responsibilities 
+3.1 The Designated Person(s): 
+• Compiles and evaluates results from microbial air and surface sampling. The data is 
+reviewed to determine if contamination is present in the sterile compounding areas at 
+unacceptable levels and detect trends. The DP also assesses: potential risks for 
+contamination of CSPs, potential routes of contamination of CSPs, that proper personnel 
+practices are being followed, and the adequacy of cleaning and disinfecting agents and 
+procedures.  
+• Reviews results from microbiological air and surface sampling in conjunction with sterile 
+compounding staff training records, personnel visual observations and personnel 
+competency assessments to assess the state of microbial control in the sterile compounding 
+area and to identify potential risks of contamination. 
+• Formulates corrective action plans in response to any adverse findings with microbiological 
+air and/or surface sampling with the involvement and input of subject matter experts (e.g. 
+microbiologist, facilities and HVAC systems engineers, etc.) as needed.  • Reviews results and data after corrective action plans are implemented to confirm that the 
+actions taken are effective in achieving a state of microbial control in the sterile 
+compounding area. 
+ 
+3.2. Microbiological sampling personnel: 
+• Complies with hand hygiene and garbing requirements 
+• Only enters controlled areas under the supervision and guidance of the Designated 
+Person(s). 
+• Ensures all equipment and supplies introduced into a classified sterile environment are 
+appropriately cleaned and disinfected.  External vendor equipment that has been exposed 
+external environmental conditions is cleaned of all visible dirt and contaminati on and then 
+wiped with a sporicidal agent prior to entry into a controlled area.  The equipment is then 
+cleaned and disinfected as it is introduced into the sterile area (i.e., crossing the line of 
+demarcation) and again before being placed inside of a PEC, if applicable.     
+4.  Procedures 
+Viable Air Sampling: 
+ 
+4.1 Volumetric active air sampling occurs in all ISO classified areas during dynamic operating conditions 
+• Air sampling locations are identified on the sterile compounding facility 
+diagram in Appendix One.  
+• Air sampling is performed in hazardous drug compounding areas. When 
+performing air sampling in hazardous drug areas, follow all USP <800> 
+precautions, including donning appropriate PPE. 
+• Air sampling occurs under static conditions upon the opening of a new sterile 
+compounding location or after major repair and/or construction in the sterile 
+compounding location.  
+ 
+4.2 Air sampling occurs:  
+• Initially upon opening of sterile compounding facility and every 6 months 
+ 
+4.3 The unidirectional airflow inside the Primary Engineering Control (PEC) is not disturbed when air 
+sampling is conducted. Refer to volumetric air sampler manual for instructions of use, including 
+the direction of airflow after media impaction occurs. Never compromise first air inside the Direct 
+Compounding Area (DCA) of the PEC when performing air sampling.   
+ 
+4.4 Microbiological growth media used for air sampling supports the growth of bacteria and fungi.  
+• Certificate of Analysis (COA) for all growth media used for air sampling is obtained from the 
+manufacturer. 
+o All COA documents are verified to be sure the media meets the expected growth 
+promotion and sterilization requirements and are retained. 
+ 
+4.5 Incubate air samples at temperatures that promote growth of bacteria and fungi. The incubator 
+temperatures are monitored the independent testing agency or their contracted laboratory.  
+• Two incubators are used: o One set for 30 to 35oC 
+o One set for 20 to 25oC  
+• The incubators are located outside of the sterile compounding area in a dedicated area 4.6 Complete air sampling documentation forms every time an air sampling activity occurs. Include the 
+following information (at minimum) on the form: 
+• Date and time of air sampling 
+• Individual(s) sampling 
+• Growth media used – including manufacturer, type, lot number and 
+expiration 
+• Air sampler used 
+• Volume of air drawn 
+• Sampling conditions (dynamic or static, regular scheduled testing or testing 
+after remediation) 
+• Sampling locations 
+• Incubation temperatures and length of incubation 
+• Final growth media reading results 
+ 
+4.7 Active air sampling procedure:  
+• Remove sampling plates from the refrigerator and check the expiration date. 
+Wipe the outside of the manufacture’s overwrap with Sterile Isopropyl 
+Alcohol (sIPA). 
+• Collect all supplies needed for air sampling and disinfect with Peridox RTU® 
+or sIPA prior to moving components into the ISO 7 environment.  
+• Allow sampling plates to come to room temperature prior to sampling. 
+• Complete all hand hygiene and garbing procedures prior to the beginning of 
+air sampling procedures 
+• Follow all instructions supplied for the active air sampling device, this includes 
+placement of media 
+• The device used for air sampling is cleaned with sIPA and allowed to dry. 
+• Move all components into the ISO 5 environment. 
+• Sanitize gloved hands with sIPA and remove required plates from overwrap 
+• Collect two samples, one TSA for bacteria and one Sabouraud Dextrose Agar 
+(SDA) for fungi. of at least 1 cubic meter (or 1000 L) of air at each sampling 
+location indicated on the facility testing diagram.  
+• Sanitize gloved hands and retrieve growth media from testing device upon 
+completion, replace lid and apply tape or a clear wax seal if needed to secure. 
+Label sampling plate on the base using a permanent marker with the Sample 
+ID per facility diagram sampling plan, the date of air sample and the initials of 
+the individual performing the air sample.   
+• Invert sampling plate and incubate: 
+o Place each sample from every location in separate incubators 
+o Incubate one sample from each location at 30o – 35oC for a minimum 
+of 48 hours for bacterial growth 
+o Incubate the second sample from each location at 20 o – 25oC for a 
+minimum of 5 days for fungal growth  
+Count and record the total number of discrete colonies detected as CFU per cubic meter of air for each 
+media type. Record all information on the active air sampling environmental sampling form indicating: 
+type of environmental sample (air), location of air sample, date of sample, and number of CFUs observed.  Surface Sampling: 
+4.8 Surface sampling occurs in all ISO classified areas during dynamic operating conditions 
+• Surface sampling locations are identified on the sterile compounding facility diagram in 
+Appendix One.  
+• Surface sampling is performed in hazardous drug compounding areas. All USP 
+<800> precautions are followed when surface sampling occurs in this type of 
+compounding location.  
+• Surface sampling occurs under static conditions upon the opening of a new 
+sterile compounding location or after major repair and/or construction in the 
+sterile compounding location. 
+ 
+4.9 Surface sampling is performed:  
+• Monthly at the end of compounding activity or shift and before the area has been cleaned 
+and disinfected. 
+• In conjunction with media-fill testing to assess aseptic manipulation competency 
+o Surface sampling is performed on the DCA following media-fill testing 
+• Every 6 months by an independent testing agency during recertification. 
+ 
+4.10 The microbiological growth media devi ces used for surface sampling support the growth of 
+bacteria and fungi. For monthly surface sampling, plates of TSA with lecithin and polysorbate 80 
+is used for both bacteria and fungi. The independent testing agency is to use TSA for bacteria and 
+MDA for fungi during recertification testing. 
+• Surface sampling devices contain general microbial growth media supplemented with 
+neutralizing additives to neutralize the effects of any residual disinfecting agents. 
+• Surface sampling devices have a raised convex surface 
+• Sterile swabs wetted with sterile water or a sterile neutralizing buffer may be used to sample 
+irregular surfaces and hard to reach locations such as crevices, corners, and spaces between 
+surfaces  
+• Certificate of Analysis (COA) for all growth media used for air sampling is obtained from the 
+manufacturer. 
+o All COA documents are verified to be sure the media meets the expected growth 
+promotion, pH, and sterilization requirements. 
+ 
+4.11 Incubation of surface samples occurs at temperatures that promote growth of bacteria and fungi. 
+Monitoring of incubator temperatures occurs  by the independent testing agency or their 
+contracted laboratory, or manually by pharmacy staff for monthly surface sampling.  
+Documentation of incubator temperatures for monthly surface sampling  occurs in SoleSource® 
+Simplifi 797®. • Two incubators are used: 
+o One is set for 30 to 35oC 
+o One is set for 20 to 25oC 
+• The incubator is located outside of the sterile compounding area in a 
+dedicated area 
+ 
+4.12 Complete surface sampling documentation forms every time a surface sampling activity occurs. 
+Include the following information (at minimum) on the form: 
+• Date and time of surface sampling 
+• Individual(s) sampling 
+• Growth media used – including manufacturer, type, lot number and 
+expiration 
+• Sampling conditions (dynamic or static, regular scheduled testing or testing 
+after remediation) 
+• Sampling locations 
+• Incubation temperatures and length of incubation 
+• Final growth media reading results 
+ 
+4.13 Surface sampling procedure for monthly testing:  
+• Remove sampling devices from the refrigerator and check the expiration 
+date. Wipe the outside of the manufacture’s overwrap with sIPA. 
+• Collect all supplies needed for surface sampling and disinfect with Peridox 
+RTU® or sIPA prior to moving components into the ISO 7 environment.  
+• Allow sampling devices to come to room temperature prior to sampling. 
+• All hand hygiene and garbing procedures are completed prior to the 
+beginning of surface sampling procedures. 
+• Move all components into the ISO 5 environment, wiping each component 
+with sIPA. 
+• Sanitize gloved hands with sIPA and remove the cover from the surface 
+sampling device. 
+• Using a rolling motion, firmly press the growth media surface onto the surface 
+being sampled. 
+• Place the cover back on the surface sampling device and apply tape to secure 
+cover if needed. 
+• Sampled area is wiped with 70% sterile Isopropyl Alcohol (IPA) to remove 
+residue 
+• Sampling devices are covered and stored so that condensation does not drip 
+onto the agar  
+• The growth media is incubated: 
+o At 30o – 35oC for a minimum of 48 hours for bacterial growth 
+• Examine growth media daily if possible, and at the completion of 48 hours. Count 
+and record the total number of discrete colonies detected as CFU per surface 
+sample. Record all information on the surface sampling environmental sampling 
+form indicating: type of environmental sample (surface), location of surface sample, 
+date of sample, and number of CFUs observed.  
+o The surface sample is then incubated at 20 o – 25oC for a minimum of 5 days for fungal 
+growth • Examine growth media daily if possible and at the completion of 5 days. Count and 
+record the total number of discrete colonies detected as CFU per surface sample. 
+Record all information on the surface sampling environmental sampling form 
+indicating: type of environmental sample (surface), location of surface sample, date 
+of sample, and number of CFUs observed. 
+• At the conclusion of surface sampling all sites in the sterile compounding area, thoroughly 
+clean all sampled locations with Peridox RTU® followed by sIPA prior to resuming sterile 
+compounding. 
+ 
+4.14 Surface sampling procedure for semiannual recertification:  
+• Remove sampling devices from the refrigerator and check the expiration 
+date. Wipe the outside of the manufacture’s overwrap with sIPA. 
+• Collect all supplies needed for surface sampling and disinfect with Peridox 
+RTU® or sIPA prior to moving components into the ISO 7 environment.  
+• Allow sampling devices to come to room temperature prior to sampling. 
+• All hand hygiene and garbing procedures are completed prior to the 
+beginning of surface sampling procedures. 
+• Move all components into the ISO 5 environment, wiping each component 
+with sIPA. 
+• Sanitize gloved hands with sIPA and remove the cover from the surface 
+sampling device 
+• Using a rolling motion, firmly press the growth media surface onto the surface 
+being sampled 
+• Place the cover back on the surface sampling device and apply tape or a clear 
+wax seal to secure cover if needed 
+• Sampled area is wiped with 70% sIPA to remove residue. 
+• Sampling devices are covered and stored so that condensation does not drip 
+onto the agar  
+o Place each sample from every location in separate incubators 
+o Incubate one sample from each location at 30o – 35oC for a minimum 
+of 48 hours for bacterial growth 
+o Incubate the second sample from each location at 20 o – 25oC for a 
+minimum of 5 days for fungal growth  
+o Count and record the total number of discrete colonies detected as 
+CFU per surface sample device. Record results as CFU per surface 
+sample device. Record all information on the surface sampling 
+environmental sampling form indicating type of environmental 
+sample (surface), location of surface sample, date of sample, and 
+number of CFUs observed.  
+• At the conclusion of surface sampling all sites in the sterile compounding 
+area, thoroughly clean all sampled locations and disinfect per policy prior to 
+resuming sterile compounding.  
+ 
+Shipping Microbiological Samples:: 
+ 
+4.15 Microbiological samples not incubated at FMOLHS Baton Rouge Market Pharmacies are shipped 
+to a vendor within 24 hours of collection for incubation, CFU counting and identification.   
+4.16 Microbiological samples not identified at FMOLHS Baton Rouge Market Pharmacies are shipped 
+to a vendor within 24 hours for identification.  
+ 
+4.17 Complete the necessary chain of custody forms and prepare, package, and ship/deliver media 
+per the specifications provided by the 3rd party laboratory, ensuring samples are protected from 
+damage and environmental extremes during transit.  
+ 
+Reading and Interpreting Results: 
+4.19 Compare all CFUs recovered to previous sample data to identify adverse results or trends over 
+time.  
+• This comparison occurs even when the results fall below the action level for the 
+sample taken. 
+4.20 Consult a microbiologist and /or a member of Infections Disease/Infection Prevention 
+department to assist in determining appropriate remediation steps and assess trends in resulted 
+alert or action levels. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+o ISO Class 
+Viable Air Sample 
+CFU/cubic meter of air per plate 
+Viable Surface Sample 
+CFU per sampling device 
+Alert Level Action Level Alert Level Action Level 
+ISO 5 >0 > 1 >0 >3 
+ISO 7 >5 > 10 >0 > 5 
+ISO 8 >50 > 100 >25 > 50 Actionable Findings:  
+ 
+4.21 If levels of CFUs measured at any of the air sampling or surface sampling testing locations 
+exceeds the action level, attempt to identify the microorganisms present down to the genus level 
+with the assistance of a microbiologist. Take immediate action, investigate the cause of the out 
+of limits sample and begin a corrective action plan. 
+• The microbiologist assists with determining the risk of compromising the sterility of 
+CSPs based on the results; especially in the case of any concerning organisms. 
+• The microbiologist assists with determining the appropriate remediation steps for the 
+ISP classified locations with actionable findings. 
+ 
+4.22 The corrective action plan is dependent on the number of CFUs resulted and the microorganism 
+recovered. 
+• Examples of corrective actions include: process or facility improvements, personnel training, 
+cleaning and disinfection, or HEPA filter repair and/or replacement 
+o The corrective action investigation includes evaluation of any trends reviewed at each sampling 
+location.  
+o Immediate action is dependent on the ISO classification of the sample location. Examples of 
+immediate action based on location: 
+ 
+Immediate Actions based on ISO Classifications and Occurrence Frequency 
+ 
+ISO 
+Classification: 1st Occurrence 2nd Occurrence 
+ISO 5 PEC - Sporicidal clean PEC 
+- Decrease BUD to 12 hours 
+- Schedule repeat testing 
+- Cease compounding in ISO 5 PEC until 
+repeat testing passes 
+- Triple clean (sporicidal, germicidal and 
+sIPA) 
+- Schedule repeat testing 
+ISO 7 SEC  
+Buffer or Ante 
+-Sporicidal clean 
+-Schedule repeat testing  
+-Decrease BUD to 12 hours until repeat 
+testing passes 
+-Triple clean (sporicidal, germicidal and 
+sIPA) 
+-Schedule repeat testing 
+ISO 8 SEC  -Sporicidal clean 
+-Schedule repeat testing 
+-Triple clean (sporicidal, germicidal and 
+sIPA) 
+-Schedule repeat testing 
+**Any subsequent occurrences, drop BUD 
+to 12 hours until repeat testing passes 
+o The corrective action investigation includes a team consisting of but not limited to: 
+• Pharmacy/facility leadership 
+• Infection prevention specialist 
+• Engineering and/or facilities operations leadership 
+• Environmental Services 
+• Outside cleaning services 
+• Microbiology department or microbiologist o All members contributing to a corrective action are documented on the corrective 
+action plan. 
+o The investigation and corrective action are contingent a number of factors including, 
+but not limited to: 
+• ISO classification of area with actionable environmental findings  
+• Magnitude of actionable finding  
+• First or repeated actionable finding upon retest 
+• Environmental trends in actionable sites and controlled area(s) over time 
+• ISO certifications current and in good standing 
+• HEPA filter repairs and/or replacements 
+• Maintenance of air flow systems current (e.g. air conditioner, exhaust and/or supply 
+fans) 
+• Maintenance and repairs of facility and compounding area current 
+• Personnel training and competencies current and in good standing 
+• Controlled and observed access for all non -compounding personnel and 3 rd parties 
+entering the controlled environment 
+• Proper selection, use, and timing of use of cleaning, disinfecting, and application of 
+sporicidal agents 
+• Other potential factors (e.g. major facilities repair or construction projects inside or in 
+the vicinity of the controlled area; actionable environmental findings elsewhere in the 
+facility(ies) or community; etc.) 
+• Following implementation of the corrective action and abatement of the assumed 
+contamination(s), re-test the location(s) per steps outlined previously. 
+• To confirm action plan effectiveness, compile and review data obtained from re -
+testing and update action plan with this data.  
+• Document the corrective action and all follow up air and surface sampling Solesource® 
+Simplifi 797®. 
+ 
+5. Definitions 
+5.1 Certificate of analysis (COA): A report from the supplier of a component, container, or closure 
+that accompanies the supplier’s material and contains the specifications and results of all 
+analyses and a description of material 
+5.2 Designated Person (DP) : One or more individuals assigned to be responsible and accountable 
+for the performance and operation of the compounding facility and personnel in the preparation 
+of CSPs. 
+5.3 Dynamic operating conditions:  Conditions in the compounding area in which operating 
+personnel are present and simulating or performing compounding. The conditions should reflect 
+the largest number of personnel and highest complexity of compounding expected during 
+routine operations.  
+5.4 ISO Class: An air-quality classification from the International Organization for Standardization 
+5.5 Primary Engineering Control (PEC):  A device or zone that provides and ISO Class 5 air quality 
+environment for sterile compounding. 
+5.6 Restricted-access barrier system (RABS) : An enclosure that provides HEPA -filtered ISO Class 5 
+unidirectional air that allows for the ingress and/or egress of materials through defined openings that have been designed and validated to preclude the transfer of contamination and that 
+generally are not to be opened during operations. 
+5.7 Secondary Engineering Control (SEC): The area where the PEC is placed (e.g. a cleanroom suite 
+or SCA). It incorporates specific design and operational parameters required to minimize the risk 
+of contamination within the compounding area.  
+5.8 Triple clean:  consists of two separate and distinct applications of an approved one -step 
+disinfectant cleaner (allowing for full wet contact time between applications) followed by a 
+separate application of an approved sporicidal disinfectant; remove cleaning agent residue with 
+sIPA. 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 proposed version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version. 
+6.3 CAG-009:2020 CETA Certification Application Guide USP Viable Environmental Sampling & 
+Gowning Evaluation.  
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 5/2025 
+7.1 Initial version published by Wolters Kluwer 2022.  
+7.2 Revised 5/2024 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+  APPENDIX ONE – Facility Diagrams 
+OLOL Inpatient Pharmacy 
+  
+OLOL Non-Oncology Infusion 
+  
+North Baton Rouge Outpatient Infusion Pharmacy
+  
+ 
+OLOL at Ascension Inpatient Pharmacy 
+  
+ 
+OLOL Children’s Hospital Inpatient Pharmacy 
+  
+ 
+OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+ 
+ 

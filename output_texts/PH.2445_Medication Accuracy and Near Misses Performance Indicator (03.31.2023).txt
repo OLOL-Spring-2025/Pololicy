@@ -1,0 +1,156 @@
+ 
+PH.2445_Medication Dispensing Accuracy Performance Indicator 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Medication Dispensing Accuracy and Near Misses 
+Performance Indicator 
+PAGES: 
+3 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2445 (02/07/2020) 
+ORIGINAL EFFECTIVE 
+DATE: 02/07/2017 
+REVISIONS EFFECTIVE: 
+03/31/2023 
+POLICY NUMBER:  
+PH.2445 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) pharmacies. 
+PURPOSE: 
+This policy assures that the pharmacy tracks medication errors. 
+POLICY: 
+The pharmacy has a process to report and record all medication dispensing errors. 
+DEFINITIONS: 
+Medication Error is any preventable or avoidable event that may cause or lead to inappropriate medication use or may 
+cause harm to patient. Medication errors may occur by the patient or while the patient is in the control of the health care 
+professional or caregiver. 
+Near Misses are internal errors, which are found internally and corrected prior to dispensing and/or shipping the 
+me
+dications (if a dispensing error is detected prior to the final check by the pharmacist, this is considered a near miss). 
+[URAC P-OPS 3-1 (a-i)] 
+PROCEDURE: 
+[URAC P-OPS 3-1 (a-i, a-ii, a-iii, a-iv)] [ACHC Standard DRX6-1A] [ACHC Standard DRX6-3F] 
+A. Description of Indicator: 
+1.
+ Medication Dispensing Accuracy  
+i. Assesses the percentage of prescriptions that the organization dispensed accurately. 
+B. Frequency of Activities: 
+Data collection and rate calculation is completed monthly. Dispensing accuracy rates are reported to the 
+Quality Management Committee (QMC) quarterly. 
+C. Responsibility:  
+The Pharmacy Manager has been designated the responsibility for collecting, tracking and trending data as 
+well as presenting it to the QMC for review.  
+D. Methods of Data Collection: 
+1. Any medication not dispensed accurately will be reported on a complaint form, the complaint log, and 
+resolved immediately. 
+2. Impact of medication events on clients is remediated and then recorded.  Recorded instances and their 
+remediation are used to revise policies, procedures and training modules to ensure the adverse event is not 
+repeated.   
+3. Errors or complaints that reveal, predict or otherwise point to patient or employee harm are to be reported to 
+the Pharmacy Manager immediately and acted upon by him/her in a way to help mitigate, treat or otherwise 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+ 
+3/31/2023 9:27 AM 
+ 
+ 
+PH.2445_Medication Dispensing Accuracy Performance Indicator 
+2 
+respond to addressing and relieving relieve patient or employee pain and suffering. Completion of a complaint 
+form should include taking any steps (if applicable) to prevent future similar occurrences. 
+E. Threshold/Goal: 
+1.  99% of all medications dispensed will be dispensed accurately. 
+i. Numerator = Sum numerator parts A-F 
+ii. Denominator = All drugs and products dispensed by the organization to or on behalf of a specific patient 
+during the measurement period. 
+iii. The Medication Dispensing Accuracy Rate will be calculated on a monthly basis. 
+2. If goals are not achieved there will be a written plan of correction. 
+3. If goals are set by the pharmacy, they will be re-evaluated if acceptable limits are not met on a consistently 
+basis as the goal may have been set too high. 
+F. Reporting: [URAC P-OPS 3-1 (a-ii, a-iii, a-iv)] 
+1. Summary analysis of all medication dispensing errors is forwarded to QMC for review and development of 
+corrective action plans when indicated on at least a quarterly basis. 
+i. Errors are reported internally to the QMC. 
+ii. Errors are reported externally when requested by payors or pharmaceutical manufacturers. 
+2. The QMC shall analyze data and identify performance trends on dispensing accuracy during quarterly QMC 
+meetings.  Documentation of this review shall be found in the QMC meeting minutes. 
+i. If the above-mentioned goals are not met, the QMC shall implement a QIP and/or action plan designed 
+to improve or correct identified problems as needed. 
+G. Instructions:  
+1. Issues will be categorized by the below subjects to meet URAC requirements: 
+i. Part A: The number of drugs and products in the denominator in which an incorrect drug and/or 
+product was dispensed (i.e., a consumer received a drug other than the one for which a prescription was 
+submitted). 
+ii. Pa rt B : The number of drugs and products in the denominator that were dispensed to an incorrect 
+recipient (i.e., a prescription was dispensed to a consumer other than the one for whom the prescription 
+was written.  
+iii. Pa rt C : The number of prescriptions in the denominator that were dispensed at an incorrect strength.  
+iv. Part D: The number of prescriptions in the denominator that were dispensed in an incorrect dosage 
+form. (Examples of incorrect dosage form include incorrect route of administration specified, sustained 
+release mistakenly dispensed in place of rapid release, tablet mistakenly dispensed in place of liquid, 
+optic drops dispensed in place of ophthalmic drops).  
+v. Pa rt E : The number of drugs and products in the denominator that were dispensed with incorrect 
+patient instructions, i.e., the instructions on the label did not match the prescriber's instructions and/or 
+the drug or product container had the wrong ancillary labels (e.g., "Take with Food," "may Cause 
+Dizziness") attached. Missing ancillary labels are generally not tracked and are excluded from this 
+measure.  
+vi. Pa rt F : The number of drugs and products in the denominator that were dispensed as an incorrect 
+quantity. 
+2. Sample Size: 100% of all reported or discovered Medication Dispensing Errors  
+H. Near Miss Performance Indicator 
+1. Description of Indicator: 
+i. Near Misses 
+1. Assesses the number and type of near misses. 
+2. Frequency of Activities: 
+i. Data is collected monthly; the rate is calculated monthly and reported to the QMC quarterly. 
+3. Responsibility 
+i. The Pharmacy Manager has been designated the responsibility for collecting, tracking and trending, and 
+presenting data to the QMC for review. 
+4. Methods of Data Collection: 
+i. Specialty drug near miss will be reported on a spreadsheet with categorized near misses. 
+5. Threshold/Goal:  
+PH.2445_Medication Dispensing Accuracy Performance Indicator 
+3 
+i. Goal is for one (1) near miss per quarter. 
+ii. If goals are not achieved, there will be a written plan of correction. 
+iii. If goals are set by the pharmacy, they will be re-evaluated if acceptable limits are not met on a consistent 
+basis as the goal may have been set too high. 
+6. Reporting: [URAC P-OPS 3-1 (a-ii, a-iii, a-iv)] 
+i. Summary analysis of near misses is forwarded to the QMC for review and development of corrective 
+action plans when indicated on at least a quarterly basis. 
+1. Near misses are reported internally to the QMC. 
+2. Near misses are reported externally when requested by payors or pharmaceutical manufacturers. 
+ii. The QMC shall analyze data and identify performance trends on near misses during quarterly QMC 
+meetings. Documentation of this review shall be found in the QMC meeting minutes. 
+1. If the above-mentioned goals are not met, the QMC shall implement action plans designed to 
+improve or correct identified problems as needed. 
+7. Instructions: 
+i. Near misses are to be documented whenever a near miss is identified. 
+ii. Near miss reports should be collected monthly and reported to the QMC at least quarterly. 
+8. Sample size: 
+i. 100% of all discovered near misses.  
+ 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+• URAC Standards: P-OPS 3-1 
+• ACHC Standards: DRX6-1A, DRX6-3F 
+ 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  
+ 

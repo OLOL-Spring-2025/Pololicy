@@ -1,0 +1,19 @@
+OLOLRMC
+LABORATORY ADMINISTRATION
+BR, LA 70808
+Deaths in which poison is suspected
+Deaths following an injury or accident, either old or recent
+Deaths due to drowning, hanging, burns, electrocution, gunshot wounds, stabs or cutting, 
+lightening, radiation exposure,  strangulation, suffocation, or smothering
+Deaths due to trauma from whatever cause
+Deaths due to criminal means or by casualty
+Deaths in prison or while serving a sentence
+CORONER'S CASES:
+PGL does not perform autopsies on any of the following cases.  
+Suspicious, unexpected, or unusual deaths
+Sudden or violent deaths
+Deaths due to unknown or obscure causes or in any unusual manner
+Bodies found dead
+Deaths due to suspected suicide or homicide
+Version 9/2022 - DML
+T:\Data\lab\Compliance\Policies\Autopsy Manual\Coroner's Cases 9.22

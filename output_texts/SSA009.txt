@@ -1,0 +1,185 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Administration 
+Title: Surgical Media Data Retention Policy 
+- Network based Archive solution 
+Policy Reference #: SSA009 
+Supersedes #:  
+Date of Origination: 10/1/2018 Review Date: 08/8/2024 
+Revision Date: 10/1/2018 
+ 
+ 
+PURPOSE: 
+To provide a policy for retention of images captured via Integration devices in the Operating 
+Rooms & Clinics within the facility and/or initially stored on a Network based Archive solution. 
+ 
+POLICY: 
+Media recorded in conjunction with surgical procedures and examinations are stored for multiple 
+purposes, including retention as part of the patient Legal Medical Record (LMR), research, and 
+teaching. Images are to be stored in compliance with HIPAA regulations and Our Lady Of the Lake 
+Hospital (OLOL) Legal Department requirements. It is the policy of Our Lady Of the Lake that 
+Department of Surgery media has a standardized storage process.  
+ 
+DEFINITIONS:  
+ 
+Still Image: Photograph, fixed or non-moving visual information; common file type is .jpg.  
+ 
+Video Image: Moving visual images or pictures including those with Regular resolution (</= 720 
+dpi format, usually 480 or 720) and HD resolution (> 720 dpi, usually 1028 or 4K); common file 
+type is .mpg.  
+ 
+Clinical Media: media files (still images or videos) that are considered part of the Legal Medical 
+Record (LMR). When possible, these files are ideally stored in PACS, Epic, or stored with a link to 
+Epic.  
+ 
+Research Media: media files with patient identifiers or re-identification key on file or its metadata.  
+ 
+Teaching Media with Patient Identifiers: media files with patient identifiers on file or its metadata; 
+image does not contain written patient information and is also not so unique as to be identifiable. 
+These videos are managed the same as Research Media.  
+ 
+Teaching Media without Patient Identifiers: media files with NO patient identifiers on file or its 
+metadata; image does not contain written patient information and is also not so unique as to be 
+identifiable.  
+  2 
+Re-identification key: a listing containing numbers and/or letters that tie a Still Image or Video 
+Image directly to a patient record.  
+ 
+Naming convention: random number preferred; cannot use patient identifiers  
+ 
+Storage of key: on OLOL owned device/storage (does not leave institution) separate from the 
+media. 
+ 
+PROCEDURE: 
+ 
+A. Management of Clinical Media  
+1. Management of Clinical Media, Still Images  
+i. Clinically relevant Still Images from devices (or stored on on network based 
+arhchive) should be managed as Clinical Media.  
+ii. Identifiable Still Images should not be saved for research purposes only 
+unless part of an approved research study. Still Images that may be needed 
+later for research purposes should be included in the LMR.  
+iii. Completely de-identified images can be saved for teaching purposes and 
+stored in the same manner as teaching videos (Section B).  
+iv. Still Images of patients captured via handheld devices. (These conditions are 
+in addition to the OLOL Patient Photography Policy) 
+1. Personal phone use is not allowed unless using an approved 
+application that sends the images directly to the medical record. 
+2. Images containing PHI: Photography consent is required except for 
+metadata the camera automatically records with each file (date shot). 
+GPS locator is to be disabled on handheld image capture devices.  
+v. To be included in the LMR, Still Images from image capture devices (e.g. 
+endoscopic camera), both from clinic and OR, are be transferred to short 
+term storage (e.g. Stream Connect server) after a procedure, such as during 
+the debriefing, and then uploaded for clinical use into Epic, or other storage 
+device or server. Note: the availability of hardware and software solutions 
+may impact image management.  
+vi. The clinician will decide which images are clinically relevant and those 
+images are transferred from the image capture device (e.g. endoscopic 
+camera) to short term storage (e.g. StreamConnect server). Those files are 
+then ideally auto-transferred to Patient Record when ready.  
+vii. Until long term storage on EPIC or other long term OLOL server/storage 
+system is available, clinically relevant Still Images will remain on Network 
+Archive if transferred there from OR devices.  
+ 
+2. Management of Clinical Media Including Videos  
+i. Clinically relevant videos of less than 150 MB will be included in the LMR 
+from image capture devices. Videos are transferred to short term storage 
+after a procedure (e.g. during a debriefing) and can then be uploaded for 
+clinical use into Epic, or other storage device or server. (See B.3.iii) Note:  3 
+the availability of hardware and software solutions may impact image 
+management.  
+ii. Inclusion of videos > 150MB in the LMR is strongly discouraged. 
+Clinically relevant segments of longer videos can be included after editing to 
+one or more shorter videos that contain clinically relevant information.  
+iii. The clinician will decide which short videos (<150 MB) are clinically 
+relevant (e.g. exam findings) and those videos are transferred from the image 
+capture device to short term storage (e.g. StreamConnect server); the 
+clinician, at a later time, chooses the videos on StreamConnect that are saved 
+to Patient Record.  
+ 
+3. Retention Schedules for Clinical Media  
+i. On image capture devices: Oldest files are deleted as space is needed, at a 
+given capacity that maximizes performance.  
+ii. Short term storage (e.g. StreamConnect server): 12 months from date of 
+creation 
+iii. Long term storage: Per Health Information Management (HIM) policy for 
+components of the LMR.  
+ 
+B. Management of Teaching Media without Patient Identifiers  
+1. Still Images and Video Images  
+i. Still Images and Video Images for teaching purposes should be transferred 
+from short term storage without attached identifiers and saved to personal or 
+departmental storage. USB devices can be used to save fully de-identified 
+files. De-identified images do not contain the patient’s full facial or 
+comparable image. Additionally, the file (including file properties) does not 
+contain any direct patient identifiers, including name, medical record 
+number, re-identification key, and/or element of date (birth, admission, 
+procedure, etc.).  
+ 
+2. Retention Schedules for Management of Teaching Media without Patient 
+Identifiers 
+i. On image capture devices: Automatically (oldest files are deleted as space is 
+needed, at a given capacity that maximizes performance).  
+ii. Short term storage (e.g. StreamConnect server): N/A – deleted in set time 
+frame as per clinical media policy (12 Months from date of creation). 
+iii. Long term storage: Limited only by departmental decisions regarding 
+teaching utility, and availability and integrity of storage devices.  
+ 
+C. Management of Research Videos and Teaching Media Containing Patient Identifiers 
+or Keys  
+1. Files with OLOL Patient Identifiers  
+i. Files with OLOL Patient Identifiers must be saved long term on an OLOL-
+owned, HIPPA compliant OLOL server/storage solution; the Department or 
+Service requesting video retention bears the cost of server storage.  
+  4 
+2. Files Containing Identifier Key  
+i. Files without OLOL patient identifiers but containing an identifier key that 
+can be traced back to the patient via a key can be saved on USB or 
+Departmental devices under the following conditions:  
+ii. To minimize inadvertent loss of Protected Health Information (PHI), videos 
+saved for research or teaching purposes should be transferred from short 
+term storage to long term storage without attached OLOL patient identifiers 
+and saved with an identifying “key” that is saved separate from the video 
+file and separate from Epic. The “key” can be used at a later time if “re-
+identification” is needed. 
+ 
+3. Physical Storage Requirements  
+i. Videos captured for purposes preparatory to research may not be removed 
+from OLOL (the videos must remain on OLOL’s secured network or 
+devices).  
+ii. Videos captured pursuant to an approved protocol must be stored in a 
+manner consistent with the approved protocol.  
+iii. The department or service must have a policy and procedure for collecting 
+and managing research and teaching videos. There must be an identified 
+OLOL administrator responsible for video management. Video retention 
+must be addressed in the policy and procedures and consistent with this 
+policy.  
+iv. Videos should be indexed and allow for expectations of video availability 
+in the event they are requested for a legal proceeding.  
+ 
+4. Retention Schedules for Research Media and Teaching Media with Identifiers  
+i. On image capture devices: N/A – deleted on a space needed basis as per 
+clinical media policy.  
+ii. Short term storage (e.g. StreamConnect server): deleted in set time frame as 
+per clinical media policy (365 days). Implementation of this policy will not 
+begin until final approval of the policy. 
+iii. Long term storage: Files on the OLOL server – files can be retained as long 
+as Department purchased space is available: unanticipated technical and 
+financial situations may impact length of storage of files saved for research 
+and teaching. 
+iv. USB Devices: Only OLOL’s owned and secured USB devices may be used 
+to store videos, unless alternate storage is provided for by an approved IRB 
+protocol.  
+ 
+D. Preservation of Evidence  
+1. If any individual knows or reasonably should know that there is a substantial 
+chance that a claim will be filed, and that media retained under this policy may be 
+material and relevant to the claim, he/she must:  
+2. Contact Risk Management immediately, so that they can advise on what evidence 
+should be secured and how to secure it.  
+3. Preserve and store all media associated with the potential claimant. 

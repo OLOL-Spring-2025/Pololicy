@@ -1,0 +1,45 @@
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Section: Blood Gas Lab 
+Subject:  Calibration of the ABL 90 Flex Blood Gas Analyzer 
+Date of Origination: October 1995 Signature: 
+Date of Last Revision: October 30, 2020 Serial Code: RC9-09 
+Date of Last Review:  October 1, 2024 
+Purpose 
+To properly ready the ABL 90 Flex equipment in order to be assured correct values are 
+obtained. 
+ 
+Equipment 
+A. ABL 90 Flex Blood Gas Analyzer 
+B. Sensor Cassette 
+C. Solution Pack 
+ 
+Calibrations 
+Calibration material is labeled for content and calibration values by the manufacturer.  
+The date in which calibration materials are placed in service is tracked through Aqure 
+with expiration dates monitored by the ABL 90 Flex analyzer.  The system performs 
+calibrations automatically at prescribed intervals and with each sample. No operator 
+action is necessary for routine calibration; operators can manually place a machine in 
+calibration if needed.  Routine calibration of the sensors occurs as follows: 
+ 
+ 
+A. 1-Point calibrations  
+The analyzer calibrates most parameters automatically. Only the recommended 
+sensitivity calibration of the oximetry parameters is manual. The calibration 
+adjusts the optical system of the analyzer to make sure that the results of the 
+oximetry parameters are accurate and reliable. This tHB calibration is performed 
+every three months. 
+  
+B. Errors in calibration 
+If the system detects a problem for a parameter, the system repeats the calibration 
+twice. If the calibrations are not successful, the system disables the parameter. A 
+parameter will reactivate automatically once it has completed a successful 
+calibration.  
+ 
+C. Storing calibrations in Aqure 
+Calibration data is automatically sent and stored in the Aqure data management 
+system and reviewed by management at weekly and monthly intervals. 
+ 
+D. Recalibration will be performed by lab personnel in the event that QC fails to 
+meet established criteria, after major maintenance/service, or when it is 
+recommended by the manufacturer. 
+ 

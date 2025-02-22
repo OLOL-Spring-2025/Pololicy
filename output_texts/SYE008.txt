@@ -1,0 +1,33 @@
+ Policy Reference Number 
+Page 1 of 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Surgical Services Section: Endoscopy 
+Title: Duodenoscope Monitoring Policy Reference #: SYE008 
+Supersedes #:  
+Date of Origination: Aug 1, 2015 Last Date Reviewed: 09/27/2024 
+Last Date Revised: 9/18/2023 
+ 
+PURPOSE:  To define the process for reprocessing and monitoring the cleanliness of duodenoscopes. 
+ 
+POLICY:  Duodenoscopes will be reprocessed according to manufacturer’s IFU. After manual 
+cleaning, the biopsy channel and elevator mechanism will be tested for protein prior to high level 
+disinfection. Duodenoscopes will be high level disinfected twice. 
+ 
+PROCEDURE:  
+1. After use, inspect and manually clean duodenoscope according to manufacturer’s IFU. Inspect 
+the elevator in the open and closed position to ensure that no visible debris remains. 
+2. When manual cleaning complete, use the protein detection test per IFU to test for bioburden 
+(blood, protein, etc.) Proceed to HLD when the protein detection test passes. If fails, manually 
+clean again. Re-test. 
+3. Proceed to high level disinfection by following AER instruction for use. Inspect and dry scope, 
+then purge with air, alcohol, and air per manufacturer’s IFU. Hang and store scope according to 
+manufacturer’s IFU. 
+ 
+REFERENCES: 
+ 
+https://www.cdc.gov/hai/settings/lab/lab-duodenoscope-culture-method.html 
+ 
+https://www.uptodate.com/contents/endoscope-
+disinfection?source=search_result&search=duodenoscope&selectedTitle=4~24#H1103614363 
+ 
+http://medical.olympusamerica.com/duodenoscope 

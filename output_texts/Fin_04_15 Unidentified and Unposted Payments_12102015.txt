@@ -1,0 +1,108 @@
+1 
+ 
+POLICIES AND PROCEDURES MANUAL 
+  
+Our Lady of the Lake Regional Medical Center  Manual: Business Office 
+ Chapter:  
+Subject:  Unidentified/Unposted Payments Section:  
+Date of Origination:  May 1, 2014 Supersedes:   
+Date of Last Revision: November 9, 2015 Serial Code: Fin.04.15 
+Date of Last Review:  December 10, 2015  
+ 
+ 
+ 
+POLICY 
+ 
+It is the policy of FMOL to maintain Unidentified/Unposted payments account(s) as clearing 
+accounts for payments received but unable to locate or post.  Every attempt will be made to 
+clear the balances within the same month by locating and posting to the correct AR account.  
+Any unidentified/unposted amounts remaining after month-end will be researched and 
+cleared within 60 days of the payment posting date.   
+ 
+PURPOSE  
+ 
+To provide a standardized methodology of accounting for and locating unidentified/unposted 
+payments and to appropriately relieve AR in a timely manner.  Increase customer satisfaction by 
+reducing inappropriate statements and billings.   
+ 
+PROCEDURE  
+ 
+1. After all efforts are exhausted to locate unbalanced amounts by day-end, or if payments 
+are received late in the day and unable to be posted the same day, any remaining 
+amounts will be placed in the Unlocated or Unposted accounts.   
+• Unlocated – Unable to identify AR account to post 
+• Unposted – Unable to complete posting of funds received that day. 
+2. Reconciliation - OLOL 
+a) Move amount from unbalanced column to the unidentified/unposted column on 
+the Reconciliation Spreadsheet. 
+b) Post individual amounts to the unidentified/unposted accounts in Rhumba from 
+the Reconciliation sheet with Payer and Deposit date indicators on each line 
+item.  Each payment item posted must match the amount listed in the Recon 
+sheet 
+c) If unable to post due to unidentified account, post to unposted in Rumba 
+d) On the 15th and the last day of the month, after the designated cutoff time, 
+Unidentified/unposted Oncology amounts must be adjusted to zero using the 
+appropriate Oncology’s to CDM code. After Oncology account is adjusted to 
+zero, no more funds can be placed in this account. 
+ 
+ 
+ 2 
+ 
+PROCESS: 
+ 
+1.  Resolving Unidentified/Unposted accounts 
+a) Obtain listing of detail transactions weekly to the unidentified accounts 
+b) Enter “absolute value” for each transaction amount and sort so that all same 
+credit and debit amounts are listed together. 
+c) Identify single transactions to be cleared from the unidentified accounts 
+d) After a minimum of 3 (three) attempts to contact patient or payer by phone, 
+and 1 (one) time by mail, amounts will be refunded along with appropriate 
+communication.  Exceptions will be made for payments for which we are 
+awaiting remits. 
+e) Reconcile unidentified account(s) within 60 days. 
+ 
+2. Each calendar month an account is established in the patient accounting information 
+system for applying unidentified payments.  The account is established as follows: 
+a. Patient Last Name: “Unidentified 
+b. Patient First Name: “YYYYMM (i. e. 201512=December 2015) 
+ 
+3. Establish an unidentified payment log using Excel to track the management of ALL 
+unidentified payment by month of receipt.  At a minimum, record; 
+a. Payer 
+b. Check Number 
+c. Check Date 
+d. Check Amount 
+e. Patient Name 
+f. Dates of Service 
+g. Comments 
+h. Account Number (when identified) 
+i. Post Date (when applied to the correct account) 
+j. Amount Posted (to the correct account) 
+4. Establish a network folder for the purpose of storing unidentified payment documentation 
+by month of receipt (i.e. check copy and accompanying documentation). 
+ 
+5. Upon receipt of payment, efforts are made to identify any and all related account(s) 
+within one (1) business day of receipt. 
+ 
+6. Post payment to the unidentified account for the calendar month. 
+ 
+7. If successful in identifying an account, it is recommended that more than one staff 
+member review the information and research the payment in an attempt to identify the 
+correct patient account in the patient accounting information system(s). 
+ 
+8. Contact the issuer of the check and request additional information. 
+ 3 
+ 
+9. After all efforts have failed to identify the cash, poster will submit for refund to the issuer 
+and return the payment with a cover letter indicating the inability to identify the proper 
+account for posting. 
+ 
+10. All unidentified account payments are to be refunded to the payer no later than the last 
+business day of the month following the month of receipt of payment (i.e. May 2015 
+receipt by the last business day of June 2015).  The unidentified account balance should 
+be $0.00 (zero dollars). 
+ 
+11. If unable to properly identify a payer, money should be refunded following the State of 
+Louisiana escheat statutes. 
+ 
+ 

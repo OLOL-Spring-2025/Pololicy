@@ -1,0 +1,184 @@
+Sheet: Checklist
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | Facility Name: | nan | nan | nan | nan | nan | nan | nan | nan | Documenting for Regulatory Code | nan | nan | nan | nan
+nan | nan | _________________________________________________ | nan | nan | nan | nan | nan | nan | nan | nan | LS | LS.01.02.01 | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Project/Work Order Number: | nan | Project Title: | nan | nan | nan | nan | nan | nan | nan | nan | EP | 2 - 14 | nan | nan | nan
+____________________________________ | nan | _________________________________________________ | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Daily Inspection Items                                           *For Items checked "FAIL", attach a description of the deficiency and corrective action steps taken* | nan | Mon | nan | Tues | nan | Wed | nan | Thurs | nan | Fri | nan | Sat | nan | Sun | nan
+nan | N/A? | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan
+nan | nan | Pass | Fail | Pass | Fail | Pass | Fail | Pass | Fail | Pass | Fail | Pass | Fail | Pass | Fail
+All exits and egress are unobstructed and useable, including the Work Activity Area. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Alternate Routes are identified, if required. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+All personnel have training if alternate exits have been designated. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Work Activity workers know the means of egress. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+The means of egress in the Work Activity area are inspected daily. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+There is free and unobstructed means to access emergency services. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Fire Alarm Detection and Suppression System will both remain in full service. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+A temporary, but equivalent, system is provided when fire system is impaired and is documented that it is inspected and tested monthly. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Before the fire alarm systems are taken out of service, plans are taken to compensate, including notification of appropriate authority having jurisdiction (local fire dept., insurance carrier, etc.). | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Work Activity area is clean and orderly. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Temporary Work Activity partitions are smoke tight and built of noncombustible or limited combustible material. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Work Activity area is properly restricted from the rest of the facility with appropriate signage. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | Project Title: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | _________________________________________________ | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nannan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Daily Inspection Items                                           *For Items checked "FAIL", attach a description of the deficiency and corrective action steps taken* | N/A? | Mon | nan | Tues | nan | Wed | nan | Thurs | nan | Fri | nan | Sat | nan | Sun | nan
+nan | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan | Date: ___________ | nan
+nan | nan | Pass | Fail | Pass | Fail | Pass | Fail | Pass | Fail | Pass | Fail | Pass | Fail | Pass | Fail
+Access to Work Activity area is limited to authorized personnel. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Smoking is prohibited in the Work Activity area and adjacent areas. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Storage, housekeeping, and debris removal practices are enforced to reduce the flammability and combustibility fire load of the building to the minimum necessary to conduct daily operation. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Additional fire fighting equipment and in-use training are provided to personnel. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Additional Fire Drills are required by ILSM Policy | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Facility wide safety education programs are conducted to ensure awareness of any Life Safety Code issue deficiencies, Work Activity Hazards, and Interim Life Safety Measures are in place. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+The need for Daily Fire Inspection or Fire Watch is established and personnel instructed according to the nature of the job and the work in progress. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+OLOL Representative/Designee Signature | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Sheet: LSA
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Facility/Building Name | nan | nan | nan | nan | nan | nan | nan | nan | nan | Date | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Documenting for Regulatory Code | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+LS | nan | EP | nan | nan | nan | nan | nan | nan | nan | nan | nan
+LS.01.02.01 | nan | 1-15 | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Project Name: | nan | nan | Project/ Work Order No. | nan | nan | nan | nan | nan | Entity: | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Project Implementation Date: | nan | nan | ILSM Evaluation Date: | nan | nan | nan | nan | nan | Estimated Completion Date: | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Project Manager: | nan | nan | Telephone: | nan | nan | nan | nan | nan | Project Manager Mobile # | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nannan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | Criteria | nan | nan | Points | Score | nan | nan | Criteria | nan | Points | Score
+1 | Job Length | nan | nan | nan | nan | nan | 2.0 | Impact on Patient Care | nan | nan | nan
+nan | Greater than 3 months | nan | nan | 20 | nan | nan | nan | Work is in patient area | nan | 20 | nan
+nan | From 1 to 3 months | nan | nan | 15 | nan | nan | nan | Near ambulatory patients | nan | 15 | nan
+nan | Less than 1 month | nan | nan | 10 | nan | nan | nan | Near visitor / staff areas | nan | 10 | nan
+nan | Less than 1 week | nan | nan | 0 | nan | nan | nan | Near staff only | nan | 0 | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+3 | Hazards of Work Activity Materials | nan | nan | nan | nan | nan | 4.0 | Hazards of Work Activity Methods | nan | nan | nan
+nan | Unprotected flammable | nan | nan | 20 | nan | nan | nan | Open flame | nan | 20 | nan
+nan | Excessive combustible | nan | nan | 15 | nan | nan | nan | Heat producing / elec welding | nan | 15 | nan
+nan | Low Hazards Only | nan | nan | 0 | nan | nan | nan | Low Hazards Only | nan | 10 | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+5 | Fire / Smoke Separations | nan | nan | nan | nan | nan | 6.0 | Impact on Exiting (Building Exit) | nan | nan | nan
+nan | Missing | nan | nan | 25 | nan | nan | nan | Exit blocked | nan | 25 | nan
+nan | Significant Compromise | nan | nan | 15 | nan | nan | nan | Exit obstructed | nan | 20 | nan
+nan | Minor Penetrations | nan | nan | 10 | nan | nan | nan | Exit penetrated | nan | 15 | nan
+nan | nan | nan | nan | 0 | nan | nan | nan | nan | nan | 0 | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+7 | Impact on Exit Access (Corridors) | nan | nan | nan | nan | nan | 8.0 | Impact on Fire Alarms | nan | nan | nan
+nan | Redirect / reroute exit | nan | nan | 25 | nan | nan | nan | Multiple zones | nan | 20 | nan
+nan | Redirected exits not visible | nan | nan | 15 | nan | nan | nan | One zone | nan | 15 | nan
+nan | Exit access width reduced | nan | nan | 10 | nan | nan | nan | In zone - no working system | nan | 5 | nan
+nan | nan | nan | nan | 0 | nan | nan | nan | nan | nan | 0 | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+9 | Temp Work Activity Partitions | nan | nan | nan | nan | nan | 10.0 | Doors | nan | nan | nan
+nan | Multiple partitions in zone | nan | nan | 20 | nan | nan | nan | Excessive fire door deficiencies | nan | 20 | nannan | One partition | nan | nan | 15 | nan | nan | nan | Excessive smoke door deficiencies | nan | 10 | nan
+nan | Barricades | nan | nan | 10 | nan | nan | nan | Patient Doors | nan | 5 | nan
+nan | No partition necessary | nan | nan | 0 | nan | nan | nan | nan | nan | 0 | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+11 | Access to Emergency Department & Building Exterior | nan | nan | nan | nan | nan | nan | Note: | nan | nan | nan
+nan | Emergency Dept. blocked | nan | nan | 25 | nan | nan | nan | 1)  A score of 100 point or more on this  Life Safety Assessment form will require a more detailed review and evaluation by the Project Manager and may result in implementation of ILSM. | nan | nan | nan
+nan | Building exit blocked > 50' | nan | nan | 20 | nan | nan | nan | nan | nan | nan | nan
+nan | Building exit blocked < 50' | nan | nan | 10 | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | 0 | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Preliminary Life Safety Assessment Score | nan | nan | nan | nan | nan | nan | nan | 2)  A score greater than 0 in Criteria Sections 5, 6, 7, or 8 will require an ILSM Evaluation regardless of total points scored. | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Sum of 5, 6, 7, 8 | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Impact on egress? | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+ILSM Required? | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | (Signature) Project Manager: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | (Signature) Contractor Representative: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | (Signature) Safety Officer: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Sheet: ILSM Flow Chart
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Facility Name | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | Date
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Documenting for Regulatory Code | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nanLS | nan | EP | nan | nan | nan | nan | nan | nan | nan | nan | nan
+LS.01.02.01 | nan | 1-15 | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Recommended Standard Measures | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Sheet: ILSM and matrix
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | Facility Name | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | HVI Stairwells 3,5,6,7,8,9 | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Documenting for Regulatory Code | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | Date | nan | nan | nan | nan | nan | nan | nan
+LS | nan | nan | nan | EP | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+LS.01.02.01 | nan | nan | nan | 1-15 | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Specific ILSMs to Implement | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Project Name: | nan | nan | nan | nan | Project/Work Order No. | nan | nan | nan | nan | Entity: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Project Implementation Date: | nan | nan | nan | nan | ILSM Evaluation Date: | nan | nan | nan | nan | Estimated Completion Date: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Project Manager | nan | nan | nan | nan | nan | nan | nan | Telephone: | nan | nan | nan | Project Manager Mobile # | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+BELOW WRITE YOUR DETERMINATION OF REQUIRED MEASURES AND           HOW YOU WILL IMPLEMENT THEM:                                                           | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | Signatures: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+I am using the recommended measures listed below in row(s) ___________ | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Deficiency | nan | nan | nan | nan | Measures Taken | nan | nan | nan | nan | nan | nan | nan | Life Safety Representative | nan | nan | nan | nan | nan | nan | Date | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nannan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | Project Manager | nan | nan | nan | nan | nan | nan | Date | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | Contractor Representative | nan | nan | nan | nan | nan | nan | Date | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Interim Life Safety Measures (ILSM) Matrix | nan | nan | nan | nan | nan | nan | 1.  Emergency Forces Notification | 2.  Posting Signage of Alternate Exits  | 3.  Implement ILSM Procedure | 4.  Ensuring Egress (Daily basis of areas affected) | 5.  Providing temporary but equivalent fire alarm and detection | 6.  Additional Fire Fighting Equipment | 7.  Temporary Construction Barriers | 8.  Increased Hazard Surveillance | 9.  Controlling Combustibles | 10. Additional training of Personnel on use of fire-fighting equipment | 11. Conducting one (1) additional Fire Drill Per Shift | 12. Inspects temporary systems monthly | 13. Provide Life Safety Training to affected areas. | 14 Training to compensate for structural or compartmental fire safety features | 15. Emergency Forces Clean Access | 16. Prohibits Smoking | 17. Other
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Code Deficiencies | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+1 | Excessive fire/smoke door deficiencies | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | nan | nan | X | X | nan | nan | nan | nan | nan | nan | X | nan
+2 | Lacking a code complying smoke or fire barrier | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | X | nan | X | X | nan | X | nan | X | X | X | X | nan
+3 | Fire exit stairs discharge not properly maintained | nan | nan | nan | nan | nan | X | nan | X | X | nan | nan | nan | nan | nan | nan | nan | nan | X | X | X | X | nan
+4 | Excessive travel distance to an approved exit | nan | nan | nan | nan | nan | nan | X | X | X | nan | nan | nan | X | X | nan | X | nan | nan | X | nan | X | nan
+5 | Lack of two remote exits | nan | nan | nan | nan | nan | nan | nan | X | X | nan | X | nan | X | X | nan | X | nan | nan | X | nan | X | nan
+6 | Non-conforming building construction type | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | X | nan | X | X | nan | nan | nan | X | X | nan | X | nan
+7 | Improperly protected vertical openings | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | nan | nan | X | X | nan | nan | nan | X | X | nan | X | nan8 | Large penetrations in fire barriers | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | X | nan | X | X | nan | nan | nan | nan | nan | nan | X | nan
+9 | Corridor walls do not extend to the structure | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | nan | nan | X | X | nan | nan | nan | nan | X | nan | X | nan
+10 | Hazardous areas not properly protected | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | nan | nan | X | X | nan | nan | nan | nan | nan | nan | X | nan
+Construction Related Issues | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+11 | Blocking off an approved exit | nan | nan | nan | nan | nan | nan | X | X | X | nan | nan | nan | nan | X | nan | nan | nan | X | nan | nan | X | nan
+12 | Rerouting of traffic to the emergency room | nan | nan | nan | nan | nan | nan | X | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | X | nan | X | X | nan
+13 | Major renovation of an occupied floor | nan | nan | nan | nan | nan | nan | nan | X | X | nan | X | X | X | X | nan | X | nan | nan | nan | nan | X | nan
+14 | Replacing fire alarm system (Out of service) (4 hours) | nan | nan | nan | nan | nan | X | nan | X | nan | X | X | nan | X | X | X | X | X | X | nan | nan | X | nan
+15 | Installing sprinkler system (Out of service) (10 hours) | nan | nan | nan | nan | nan | X | nan | X | nan | nan | X | nan | X | X | X | X | nan | nan | nan | nan | X | nan
+16 | Significantly modifying smoke or fire barrier walls / keeping fire door open | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | nan | X | X | X | nan | X | nan | X | X | nan | X | nan
+17 | Adding an addition to an existing structure | nan | nan | nan | nan | nan | X | nan | X | X | nan | X | X | X | X | nan | X | nan | X | nan | X | X | nan
+Maintenance & Testing | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+18 | Taking a fire alarm system out of service (4 hours) | nan | nan | nan | nan | nan | X | nan | X | nan | X | X | nan | nan | X | X | nan | nan | x | nan | nan | X | nan
+19 | Taking a sprinkler system out of service (10 hours) | nan | nan | nan | nan | nan | X | nan | X | nan | nan | X | nan | nan | X | X | nan | nan | x | nan | nan | X | nan
+20 | Disconnecting multiple alarm devices within smoke zone  | nan | nan | nan | nan | nan | nan | nan | X | nan | nan | X | nan | X | X | X | X | nan | nan | nan | nan | X | nan
+21 | Hot Work (more than 24 hours) | nan | nan | nan | nan | nan | nan | nan | X | X | nan | X | nan | X | X | nan | nan | nan | nan | nan | nan | X | nan
+22 | Fire/ Smoke Damper Deficiencies | nan | nan | nan | nan | nan | nan | nan | x | nan | nan | nan | nan | nan | x | nan | nan | nan | nan | nan | nan | x | nan
+23 | Fire Rated (door) assemblies not rated | nan | nan | nan | nan | nan | nan | nan | x | nan | nan | nan | nan | nan | x | nan | nan | nan | nan | nan | nan | x | nan
+24 | Relocate O2 Tank/ Alarm Systems/ Valves | nan | nan | nan | nan | nan | nan | nan | x | nan | nan | nan | nan | nan | x | nan | nan | nan | nan | nan | nan | x | nan
+Evaluation Results: | nan | nan | nan | nan | nan | nan | nan | nan | nan | COMMENTS: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+1) Interim Life Safety Measures (ILSMs) are not required because: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+     _____ no life safety features will be compromised. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | (Explanation Attached) | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+     _____ appropriate equivalent measures will be implemented.   | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+2) Interim Life Safety Measures (ILSMs) are required by this project: | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+     _____ ILSM Implementation Record is attached. | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nannan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+nan | nan |   | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan

@@ -1,0 +1,218 @@
+ 1 
+OLOL IP/EC Risk Assessment _ Temperatures in the ORs 
+ 
+Population at 
+Risk 
+Activity Analysis Priority 
+Risks  Impact Prevention 
+Potential 
+Overall 
+priority 
+ 
+ 
+Patients having 
+surgical procedures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AORN and ASHRE 
+indicate approved 
+humidity and 
+temperature ranges to 
+include 
+ -Humidity 30%-60% 
+ -Temperature 68-75◦ F 
+ 
+Requests and need for 
+temperatures outside of 
+established range in 
+operating rooms 
+ 
+ 
+SOS010 – Environmental 
+Controls has detailed 
+algorithm on intervening 
+in the event of humidity 
+values out of range. 
+ 
+APIC guide 2018 – 
+evidence suggesting a 
+relationship between 
+ambient room 
+temperature in the OR 
+and infections is weak to 
+nonexistent. 
+ 
+Temperature can cause 
+sweating and cognitive 
+risks creating unsafe 
+environment. 
+ 
+How temperature affects 
+humidity and potential 
+condensation can 
+increase contamination 
+risk 
+ 
+ 
+Failure to 
+maintain 
+appropriate 
+temperature 
+can potentially 
+have a negative 
+impact on 
+patient safety 
+and pose the 
+following risks 
+to the patient 
+population: 
+ 
+Hypothermia 
+potential for 
+increased risk of 
+- delayed 
+wound healing  
+-Lowered 
+immune 
+response 
+-Bleeding 
+ 
+ 
+ 
+ 
+ 
+Hypothermia 
+-Non healing 
+surgical sites & 
+lowered immune 
+response 
+increases risk for 
+infection. 
+ 
+-bleeding alters 
+hemodynamic 
+status  
+ 
+Humidity 
+could affect 
+compliance to the 
+equipment 
+manufacturer’s 
+recommendations 
+for use and thus 
+compromise the 
+integrity and 
+proper use of the 
+equipment.  
+ 
+may affect the 
+integrity of the 
+sterile items and 
+cause infection 
+due to the use of 
+ 
+Patient 
+warming 
+devices and 
+monitoring 
+techniques 
+used to 
+maintain 
+normothermia  
+ 
+Established 
+algorithm to 
+determine safe 
+parameters for 
+surgeries 
+within rooms 
+that are out of 
+range. 
+ 
+Temperature 
+and humidity 
+are monitored 
+by team. 
+Variances 
+outside alarm 
+parameters are 
+reported.  
+ 
+ 
+High  2 
+Population at 
+Risk 
+Activity Analysis Priority 
+Risks  Impact Prevention 
+Potential 
+Overall 
+priority 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Humidity 
+potential for 
+increased risk of 
+- patient 
+supplies to be 
+stored outside 
+of manufacturer 
+guidelines  
+-surgical site 
+infections 
+compromised 
+products. 
+ 
+ 
+Action plan:    
+• Include how we are mitigating risks 
+o Follow algorithm in Policy SOS010 when HVAC fails 
+o Assess and monitor patient’s ability to maintain normothermia using warming devices 
+ 
+  
+Risk Assessment Team Members: 
+▪ Infection Control  
+▪ Chief Nursing Officer 
+▪ Vice President Physician Executive  
+▪ Senior Director Surgical Services 
+▪ Environmental Safety Manager 
+▪ OR Regulatory Manager 
+▪ Director Plant Services 
+References: 
+• ANSI/ASHRAE/ASHE Standard 170-2017 (2020) 
+• Humidity Control Events in Perioperative Care Areas, ASHRAE 2019 
+• AORN 2024: Design and Maintenance of the Surgical Suite 
+• APIC Infection Preventionist’s Guide to the OR 2018 
+ 
+ 

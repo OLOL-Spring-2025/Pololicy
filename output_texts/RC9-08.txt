@@ -1,0 +1,144 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Blood Gas Lab 
+Subject:  Blood Gas Machine Maintenance  
+Date of Last Review: March 25, 2024 Signature:  
+Date of Last Revision:March 25, 2024 Serial Code: RC9-08 
+FORMULATED BY: 
+Respiratory Care 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+To ensure that the required maintenance for the analyzer is completed and thus provide 
+proper operation of the analyzer.  
+ 
+PROCEDURE: 
+A. Daily Maintenance 
+1. Check refrigerator and room  temperatures. The refrigerator temperature 
+should be 2-8°C. The room temperature should be 15-25°C.  
+NOTE: If the temperature 15 -25°C is not attainable, we will place all 
+consumables, QCs, verification material, and the analyzer in an area where 
+it is in compliance with manufacturer temperature recommendations.  
+ 2. Ensure all analytes are operational. (QC and Calibrations WNL) 
+3. Check the measured barometric pressure. If it is outside the range of 7 25-
+800 mmHg, adjust the barometer setting in the machine to the measured 
+value.  Refer to the ABL90 flex operator’s manual for this process.  
+4. Check the remaining sample life/expiration date of all sensor cassettes and 
+solution packs. 
+5. Clean and disinfect the analyzers and work area.  Refer to the maintenance 
+section of the ABL90 flex operator’s manual. 
+6. On days the analyzer is in operation, the laboratory personnel will check the 
+analyzer for readiness of use and record it on the Daily Maintenance 
+Checklist log.  
+7. On days that an analyzer is in operation, the room temperature will be  
+checked and documented on the log daily in each blood gas lab.  The 
+acceptable temperature range is  defined by the manufacturer of  the blood 
+gas instrument. The temperature maintained in each lab will be according 
+to the analyzer and supplies stored within the physical laboratory space. The 
+temperature log in each blood gas lab states the temperature range to be 
+maintained and checked.  
+8. On days that an analyzer is in operation, the room humidity will be checked 
+and documented on the log daily in each blood gas lab.  The acceptable 
+humidity range is defined by the manufacturer as 20-80%.  
+ 
+ 
+ B. Weekly Maintenance 
+1. The Blood Gas Lab Supervisor  will review all QC , Calibrations, patient 
+samples and maintenance tasks including standard deviations, coefficient 
+variants weekly.  This will be recorded in Aqure, electronic data management 
+system. 
+C. Monthly Maintenance 
+1. The Laboratory Director’s designees will review and sign all temperature logs, 
+maintenance logs, QC, and calibration data monthly .  This review of systems 
+will be documented electronically  in Aqure. The designee will notify the  
+Laboratory Director of any outliers, trends or omissions. For numeric QC data, 
+QC statistics are calculated monthly to define and monitor analytic 
+imprecision. This data will be displayed and reviewed in Aqure.  
+2. Perform External Quality Controls monthly in accordance with RC9-22 
+ 
+D Semiannual Maintenance 
+1. Perform Calibration Verification Testing in accordance with RC 9-10, and also 
+under the following conditions: 
+a. change of reagent lots for chemically or physically active critical 
+components, unless the lab can demonstrate that the use of different 
+lots does not affect the accuracy of patient/client test results, and the 
+range used to report patient/client test data 
+b. if QC reflects an unusual trend or shift or are outside the laboratories  
+acceptable limits and other means of assessing and correcting 
+unacceptable control values failed to identify and correct the problem 
+c. after major preventative maintenance or change of a critical instrument 
+component 
+d. when recommended by manufacturer 
+ 
+E. All Monthly, Weekly, and Semiannual maintenance will be recorded in Aqure for 
+all analyzers. A record of date when placed in service and serial numbers for all 
+sensor cassettes and solution packs are maintained and tracked in Aqure. All repairs 
+and routine service procedures are maintained for all instruments in the Service 
+Repair Tab of the CAP Binder. 
+ 
+F. "As Required Procedures” 
+1. Change the Sensor Cassette 
+The sensor cassette icon appears on the banner indicating the number of test left on 
+the sensor cassette. This enables you to replace the sensor cassette at a time when 
+the system is not busy. The analyzer automatically performs a quality control and 
+calibration following this procedure in order to validate the new sensor cassette. 
+For further guidance refer to the operator’s manual. 
+Calibrations are done more frequently in the 24 -hour period that follows a sensor 
+cassette replacement. After a sensor cassette replacement, a calibration is 
+performed with every measurement for the first four hours. 
+ 2. Temperature & Humidity Corrections  
+Acceptable ranges are specified on all logs. If the humidity, refrigerator or ambient 
+temperature is outside the acceptable range as defined by manufacturer for 
+temperature and humidity dependent equipment and environments, the following 
+steps must be taken.  
+a. Adjust the thermostat to correct the temperature or humidity problem. 
+While waiting for the temperature  or humidity to come in range, perform 
+step “b”. 
+b. For refrigerator, transfer sensors to a refrigerator that is functioning 
+properly. For room temperature  or humidity , the analyzer will be placed 
+“out of use” and all other controls or cartridges will be transferred to a lab 
+that is in compliance with manufacturer temperature recommendations.  
+c. Notify Plant Services for inspection and/or repair of faulty unit if reset of 
+the thermostat does not correct the problem. 
+d. Note and initial occurrence and corrective measure taken in the temperature 
+log. 
+e. Remove from service if the humidity or temperature exceeds 
+manufacturer’s recommendations. Prior to resulting lab values, the 
+instrument performance must be verified as stated in letter “G” of this 
+policy. 
+f. If blood gases were ran while the machine was out of acceptable 
+temperature or humidity ranges, refer to policy RC9-07, letter “B” of that 
+policy.  
+ 
+3.  Change the Solution Pack  
+The solution pack icon appears on the banner  indicating the number of activities  
+left on the  solution pack. This enables you to replace the  solution pack at a time 
+when the system is not busy. For further guidance refer to the operator’s manual . 
+When the solution pack changes lot the system automatically runs all three levels 
+of internal QC. 
+ 
+4. A video presentation of the above procedures can be viewed by tapping 
+Consumables > Replace > Solution Pack buttons. Then tap the “Press to start video 
+guidance" button. 
+ 
+5. The operator’s manual is readily available at each instrument.  For instrument set 
+up, refer to the operator’s manual.  If the instrument requires a shutdown refer to 
+operator’s manual or Radiometer technical support.  
+ 
+6. Annually the barometric pressure within the analyzer will be compared to the 
+barometric pressure at the Baton Rouge Metropolitan Airport. The Baton Rouge 
+Metropolitan Airport barometric pressure can be found at 
+www.globalair.com/airport/baton-rouge-metropolitan-ryan-field-btr.aspx. The 
+barometric pressure will be converted from inches of mercury to millimeters of 
+mercury. The pressure will be within 10 mmHg of each other. If th e barometric 
+pressures are not within range, the barometric pressure of the analy zer will be adjusted to be within range per the manufacturer’s manual (See ABL90 Flex Plus 
+Instructions For Use). 
+ 
+G.  Service and repair of instruments 
+ Performance of instruments is verified after repair to ensure they run according to 
+ expectations. This will be validated by running and passing three levels of quality 
+ control material. This will be documented in the electronic management system. 
+ 
+H. Laboratory Records will be retained for a minimum of two years.  Should the lab  
+ cease operation all records will be maintained for a minimum of two years. 

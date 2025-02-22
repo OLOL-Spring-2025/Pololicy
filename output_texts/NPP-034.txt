@@ -1,0 +1,147 @@
+NPP-034 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Patient Care 
+Subject:  Pediatric Falls Prevention Section:  Patient Care 
+Date of Origination:  March 26, 2007 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+September 4, 2020 
+June 7, 2024 
+Serial Code:  NPP-034 
+  
+PURPOSE: 
+To establish a means of identifying patients at risk for falls in the pediatric setting. 
+ 
+POLICY:  
+Inpatient, Emergency Services and Ambulatory Hospital Setting 
+ 
+A Pediatric Falls Risk Assessment will be performed by a registered nurse on all pediatric patients between the 
+ages of 2-14 years, excluding intubated pediatric patients.  All patients less than two years of age are at risk for 
+developmental falls hence a Pediatric Safety General Care Plan and standard pediatric safety precautions will be 
+initiated.  For patients 15 years and older, refer to Falls Prevention, Adult Policy #NPC-067.  Once a patient has 
+been extubated, the fall risk assessment will be performed when the plan of care is reviewed.  A pediatric falls 
+risk assessment will be documented in the electronic medical record: 
+• At time of triage in the Emergency Department and in the event of a fall 
+• On hospital admission and then twice daily and in the event of a patient fall 
+• Upon patient transfer/receiving of the patient 
+ 
+A. Inpatient 
+1. In the event of a fall, the patient is re-assessed using the Pediatric Falls Risk Assessment and appropriate 
+interventions will be implemented.  The patient’s attending physician and family will be notified of the 
+patient’s fall as soon as possible. A safety event must be entered on any fall that occurred. Document the 
+patient fall in the EMR (Electronic Medical Record) under the Assessment Flow Sheet “Shift Event” 
+row (select fall).  A Post Fall Evaluation sub-section will appear within the Provider Notification 
+category.  Based on the selections made on the tool, the fall score will automatically calculate a score. 
+a. With a score of one (1) or less, the nurse will implement Standard Safety Precautions for all 
+inpatients. 
+b. For the pediatric patient with a score of two (2) or greater, the nurse will implement Standard Safety 
+Precaution and Fall Precautions with appropriate age interventions. 
+2. Safety Interventions are implemented according to Pediatric Fall Risk Assessment score and as 
+appropriate for the patient. Safety interventions are detailed below: 
+ 
+ 
+ 
+ 
+ 
+ 
+Select nursing intervention based on total score and as appropriate for the patient. NPP-034 
+Page 2 of 3 
+Score of 1 or less Score of 2 or greater 
+Implement Standard Pediatric Safety 
+Precautions. 
+ 
+ 
+* Verify patient identification band is correct and 
+on child   and parent. 
+*Do not leave infant unattended on any elevated 
+surface (ie crib, couch, etc.) 
+* Side rails up  
+* Call bell in reach. 
+* Bed in lowest position or appropriate height 
+and locked. 
+* Family/caregiver stays in room with child. 
+* Familiarize patient and/or caregiver with 
+environment. 
+* Instruct to call for assistance as needed. 
+* Offer toileting every 2-4 hours. 
+* Bedpan/urinal in reach. 
+* Place personal items within reach. 
+* Instruct family/caregiver on age-appropriate 
+bed while hospitalized. 
+* Instruct family/caregiver on Infant Safe Sleep 
+Practices when appropriate. 
+* Use supplemental lighting when appropriate. 
+* Keep floor clear of objects, linens and toys. 
+*Safety straps must be used in infant devices (ie 
+bouncy seats, swings, car seats, high chairs, etc.) 
+*Do not place infant devices on high surfaces (ie 
+bouncy seats, car seats, etc.) 
+Implement High Fall Risk-Precautions and the Plan of Care 
+with interventions appropriate to the patient: 
+ 
+* Apply color coded fall risk armband. 
+* Educate patient/family/caregiver on fall prevention. 
+* Apply non-skid socks for the ambulatory child. 
+*Instruct family to call for assistance prior to ambulation. 
+* Request a caregiver stay with child at all times. 
+* Use bubble-top device for small child. 
+* Instruct caregiver to set appropriate limits to ensure safety 
+of child. 
+* Monitor effects of medications. 
+* Place patient in close proximity to nurse’s station. 
+* Remain with patient when up to bathroom or bedside 
+commode. 
+* Use bed alarms when appropriate. 
+*Consider use of additional staff when assisting patient 
+*Collaborate with PT/OT for mobility strategies 
+*Include fall status in shift hand-off 
+ 
+3. Use of side rails is not intended as a means to restrict the patient to the bed; however, they are intended 
+as a means of safety for the young pediatric patient to prevent falling out of the bed. 
+a. Educate patient/caregiver on purpose of using side rails. 
+b. Beds are routinely kept in low position except when nursing care or treatments are in progress.   
+c. If a patient\caregiver refuses to have side rails raised, document in the electronic record. 
+ 
+B. Emergency Department 
+1. The patient is assessed using the appropriate fall risk assessment based on age. For the patient 2-14yrs 
+the Graf-Piff scale will be utilized. For patients 15yrs and above the Kinder Scale will be utilized. 
+2. In the event of a fall, the patient is re-assessed using the appropriate Falls Risk Assessment. The 
+patient’s attending physician and family will be notified of the patient’s fall as soon as possible.  The 
+Unit Director must be notified. 
+3. For the pediatric emergency room patient with a score of two (2) or greater, the nurse will implement 
+safety interventions as appropriate for the patient. Safety Interventions are detailed below: 
+a. Call bell in reach and stretcher in lowest position except when nursing care or treatments are in 
+progress. 
+b. Apply color coded fall risk armband. NPP-034 
+Page 3 of 3 
+c. Educate patient/family/caregiver on fall prevention and instruct to call for assistance if needed. 
+d. Apply non-skid socks for the ambulatory child. 
+e. Instruct the family to call for assistance prior to ambulation. 
+f. Request a caregiver stay with child at all times. 
+g. Monitor affects of medications. 
+h. Include Fall status in shift hand off. 
+i. Hourly safety rounding 
+j. Room door/curtain open as per nurse discretion while maintaining patient privacy. 
+ 
+4. Post Fall Procedure: 
+a. In the event of a fall, a safety event will be entered. 
+b. Post Fall Documentation will be completed in the EMR – Narrator under Screening Assessments – 
+Post Fall Evaluation and appropriate safety interventions will be implemented and documented. 
+ 
+C. Clinic Settings 
+1. Refer to Falls Risk Screening in the Clinic Setting, NG1017 
+ 
+ 
+ 
+Cross Reference Policy: 
+Falls Prevention Adult Policy NPC-067 
+Falls Risk Screening in the Clinic Setting NPG1017 
+ 
+REFERENCES: 
+Graf, Elaine (2016).  General Risk Assessment for Pediatric In-Patient Falls.  (4th Ed.) . Chicago, Illinois, 
+Children’s Memorial Hospital.  
+ 

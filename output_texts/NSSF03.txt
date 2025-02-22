@@ -1,0 +1,308 @@
+ 1 
+ 
+ 
+ 
+Policies and Procedures Manual Manual: Nutritional Services 
+Our Lady of the Lake Regional Medical Center Chapter: Safety 
+Subject:  Hazardous Analysis of Critical Control Points HACCP Section:  
+Date of Origination: January 1996 Supersedes:  
+Date of Last Revision: June 2012 Serial Code: NSSF03 
+Date of Last Review: September 2015 
+ 
+ 
+ 
+ 
+Hazard Analysis and Critical Control Point (HACCP) Plan 
+ 
+The purpose of this policy is to identify hazards and critical control points in food preparation, 
+establish critical limits for preventive measures, develop and implement procedures for 
+monitoring critical control points and establish methods for corrective action to be taken when 
+monitoring shows that a critical limit has been exceeded. 
+ 
+ The Nutritional Services Department adheres to the Hazard Analysis and Critical Control Point 
+(HACCP) process designed to prevent the occurrence of potential food safety problems. The 
+HACCP process works in conjunction with Nutritional Services policy & procedures for 
+employee dress code and infection control. In addition, the HACCP process serves as one of the 
+ongoing monitors for the Process Improvement Plan as it relates to patient care.  
+ 
+Procedure: 
+ 
+1. Food is purchased through foodservice distribution companies that comply with good 
+manufacturing practices. The director should make periodic visits to inspect the facilities 
+of the Prime Vendor. 
+ 
+2. Each morning the AM supervisor records the temperatures of all the refrigerators, 
+freezers, reach-in cooler, dish machine, and pot machine with temperature logs provided.  
+Any units not within the acceptable range will be shut down and food transferred to 
+holding area of <40 degrees.  If internal temperature of food is > 45 degrees it shall be 
+discarded.   
+ 
+3. Upon receipt of refrigerated and frozen foods the production manager or storeroom clerk 
+will check the temperatures of the food and visually inspect the packaging to insure 
+quality. 
+i) If the recorded temperatures do not adhere to department standards (frozen foods: 
+0F- 20F; refrigerated foods: < 40F), the delivery of that pallet is rejected. 
+   2 
+ 
+ 
+ 
+4. Upon the completion of the cooking process of all food items, the cooks check the 
+internal temperature of all foods.  If the internal temperature (of specific food type; i.e. 
+chicken, beef, etc.) does not adhere to the department standard, the food is to be cooked 
+or chilled until the desired temperature is obtained. 
+ 
+5. When the food is placed on the steam table, the supervisor and/or cook(s) at each meal is 
+to record all food temperatures. If hot foods (>140º) and cold foods (<40º) do not meet 
+department standards respectively, the food is to be returned to the production cooks. The 
+production cooks, in turn, continues cooking the hot food item(s) until the desired 
+internal temperature is reached. Cold items are to be chilled in the freezer until the 
+desired temperature is achieved. 
+ 
+6. A test tray from each meal period will be used by the Patient Service’s Manager to verify 
+temperature appropriateness on a weekly basis.  Plate temperatures should be 170 
+degrees; pellet base temperatures should be 225 degrees.   
+ 
+7.        Leftover foods must be chilled down to an internal temperature of 70 degrees within 2 
+hours and then down to 40 degrees in an additional 4 hours (a total of 6 hours of cooling is 
+allowed) Procedure must be documented on heating and cooling log. 
+   3 
+ 
+ 
+ 
+ 
+HACCP Refrigerator Temperature Log -- One Form per Month 
+Refrigerator Location:    
+ Use a separate temperature Log Sheet for each walk-in/reach-in refrigeration location. 
+ Maintain refrigerator temperature at 40F (4C) or below during stable times. 
+ Check and record temperature ocen a day (i.e. at opening of the operation)  
+ Complete corrective action column if temperatures are not in proper ranges.  
+Check either an accurate internal probe (hanging or standing refrigerator thermometer) or Built -in 
+equipment thermometer 
+Month:  
+Date Time  Temp. Corrective Action / Comments Employee 
+Initials 
+1         
+2         
+3         
+4         
+5         
+6         
+7         
+8         
+9         
+10         
+11         
+12         
+13         
+14         
+15         
+16         
+17         
+18         
+19         
+20         
+21         
+22         
+23         
+24         
+25         
+26         
+27         
+28         
+29         
+30         
+31         
+   KEEP ON FILE FOR ONE (1) YEAR     © Sodexho   All rights reserved.            KEEP ON FILE FOR ONE YEAR              USE BACK OF FORM FOR CORRECTIVE ACTION               Form #867            Rev. 7 / 2006 
+ 
+ 
+ 
+HACCP COOLING AND REHEATING CHART  
+TIME/TEMPERATURE LOG FOR POTENTIALLY HAZARDOUS FOODS 
+Critical Control Points: 
+ --   Food is cooled quickly and safely from 140ºF (60ºC) to 70oF (21oC) within 2 hours and then to 40oF (4oC) or below within an additional 4 hours (total 
+cooling time 6 hours). 
+ --   Food that is cooked, cooled and reheated for hot holding is reheated rapidly (within 2 hours) to 165 oF (74oC) for 15 seconds.  
+SEE REVERSE SIDE OF THIS FORM FOR: 
+ --   Corrective action steps if time/temperature requirement for cooling and reheating have not been met.  
+ --   Temperature recording procedure where operation is closed before cooling period has been completed.  
+ 
+ 
+DATE 
+ 
+ 
+PRODUCT 
+ 
+ 
+QTY 
+ 
+EMPL. 
+INIT. 
+ 
+COOLING 
+PROCEDURE 
+ 
+PRODUCT 
+REUSED 
+ 
+REHEATING 
+PROCEDURE (*) 
+ 
+    Starting  
+Time 
+ 
+Temp.  
+After 2  
+Hours 
+ 
+Final 
+Temp.  
+After 6  
+Hours (**) 
+ 
+Date 
+ 
+Meal 
+ 
+Starting  
+Time 
+ 
+Final  
+Time 
+ 
+Intern.  
+Temp. 
+ 
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+ (*)    NOTE:   Complete this column if reheating of a leftover product is required. 
+(**)  NOTE:  If no employees are available to record final temperature, list steps taken to assure safe cooling process on reverse side of  this form. 
+ 
+ 
+    © Sodexho   All rights reserved.            KEEP ON FILE FOR ONE YEAR              USE BACK OF FORM FOR CORRECTIVE ACTION               Form #867            Rev. 7 / 2006 
+ 
+ 
+ 
+HACCP CRITICAL CONTROL POINTS               Date: ____    
+DAILY TEMPERATURE LOG              DAILY TASTE PANEL GUIDELINES 
+ 
+(1)  MINIMUM INTERNAL TEMPERATURE REQUIREMENTS 
+ FOR COOKING RAW FOODS 
+      (2) TASTE PANEL 
+EVALUATION CODES   
+RECOMMENDED SERVING 
+ TEMPERATURES  ** 
+165ºF (74ºC) for 15 seconds Poultry (solid & ground); Stuffed Foods (all varieties); Dishes that 
+include previously cooked potentially hazardous ingredients  
+ 
+A = Excellent 
+ 
+B = Acceptable, recipe review needed 
+ 
+C = Corrective action required 
+ 
+D = Rejected, product may not be 
+served 
+Cold Foods:  Below 40F (4C) 
+Soups:  160-180F (71-82C)  
+Meat, Poultry, Seafood, Eggs:  
+145-165F (63-74C) 
+Other Entrees:  160F (71C) 
+Sauces & Gravies:   
+160-180F (71-82C) 
+Vegetables: 160-180F (71-82C) 
+ 
+ 
+ 
+**  To ensure hot or cold food at point of 
+consumption 
+155ºF (68ºC) for 15 seconds Ground Meats (beef, pork, veal, lamb, and fish); Pork (steaks & 
+chops); Injected Meats; Game; Shell Eggs for hot holding 
+155ºF (68ºC) for 22 seconds Pork roasts 
+145ºF (63ºC) for 15 seconds Beef, Veal, Lamb (steaks & chops); Seafood; Shell Eggs for 
+immediate service; Pasteurized Egg Dishes 
+145ºF (63ºC) for 4 minutes Beef, Veal, Lamb roasts 
+140ºF (60ºC) for 15 seconds Commercially processed, ready-to-eat food, heated for the first 
+time, to be hot-held for service 
+135ºF (57ºC) & hold for 45 min. Roast Beef (per Sodexho recipe) 
+You must record the internal temperature and verify the 45 
+minute holding time on this form.  
+   
+ THERMOMETERS CLEANED, SANITIZED AND CALIBRATED        
+ 
+Product 
+Name 
+ 
+Empl. 
+Initials 
+Cooking (1) 
+Internal temps. 
+Taste 
+Panel 
+(2) 
+Code 
+Holding Temperatures (3) 
+Hot foods 140ºF or above     Cold foods 40ºF 
+or below 
+Cooling Temperatures (4) Reheating Temps (5) 
+Start 
+Time 
+Initial 
+Temp 
+Temp 
+2 hrs 
+Final Temp 
+6 hrs Start 
+Time 
+Final 
+Time 
+Internal 
+Temp 
+Time Temp Time Temp Time Temp Time Temp 
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+ 
+(3) HOLDING TEMPERATURE REQUIREMENTS 
+HOT FOODS: HOLD AT 140F (60C) OR ABOVE 
+COLD FOODS: HOLD AT 40F (4C) OR BELOW 
+Product temperature must be recorded on this log at 
+two (2) hour intervals during holding and serving.  If 
+products are held and served for less than two (2) 
+hours, product temperatures must then be recorded at 
+the beginning and end of service. 
+ 
+(4) COOLING TEMPERATURE  
+REQUIREMENTS 
+COOL FOODS FROM 140ºF (60ºC) TO 70F (21C) 
+WITHIN 2 HOURS AND THEN TO 40F (4C) IN 4  
+MORE HOURS 
+If no employees are available to record the final cooling 
+temperature, list steps taken to ensure safe cooling 
+process on reverse side of this form. 
+ 
+(5) REHEATING TEMPERATURE  
+REQUIREMENTS 
+REHEAT FOODS TO 165F (74C) WITHIN TWO  
+HOURS FOR 15 SECONDS 
+Use this column if reheating leftovers.  Leftovers can be reheated 
+one time only.   © Sodexho   All rights reserved.           KEEP ON FILE FOR ONE YEAR          USE BACK OF FORM FOR CORRECTIVE ACTION              Form #867      Rev. 7 / 2006 
+ 
+ 

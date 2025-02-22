@@ -1,0 +1,114 @@
+ 
+Plant Services 
+ 
+ PS013 
+Page 1 of 2 
+Title: Emergency Generator – Areas and 
+Systems Fed   
+Revision Date: 01/18/18 
+Review Date: 03/20/2024 
+Reference # PS013 Origin Date: August 1988 
+ 
+ 
+PURPOSE: 
+To provide a safe physical environment for patients, staff and visitors at Our Lady of the Lake Regional 
+Medical Center (OLOL). 
+ 
+POLICY: 
+An up-to-date listing of all areas/systems fed from the emergency generator shall be maintained 
+according to current Joint Commission and other National Fire Protection Association (NFPA) 
+standards. 
+ 
+PROCEDURES: 
+Listing - Areas fed by emergency generator 
+1. Alarm Systems 
+A. Fire warning and detection 
+B. Medical gas alarm panels 
+C. Elevator entrapment alarm 
+D. Emergency generator annunciation panels 
+E. Domestic hot water temperature alarm (high) 
+F. Steam pressure alarm (low) 
+G. All alarms serving tissue storage units (blood, bone, and tissue) 
+ 
+2. All refrigerated storage units used for the storage of: 
+A. Blood - lab 
+B. Bone - lab 
+C. Tissue - lab/eye bank 
+D. Medication dispensing equipment – Pharmacy 
+ 
+3. Egress Illumination 
+ 
+4. Elevators 
+ 
+5. Emergency Care areas 
+A. Adult Emergency  
+B. Pediatric Emergency  
+C. Emergency Mental and Behavioral Health 
+ 
+6. Emergency Communication System 
+A. Telephone system 
+B. P.B.X.  
+Plant Services 
+ 
+ PS013 
+Page 2 of 2 
+C. Page system/beeper 
+D. Emergency radio system 
+ 
+7. Exit signs - Illumination of all signs must be provided by Emergency Generator unless sign is 
+equipped with battery and tested per requirements (see PS027, Emergency Lighting) 
+ 
+8. Medical air compressors 
+ 
+9. Medical/surgical vacuum system - all units 
+ 
+10. Critical Care Units 
+• 1 NORTH GBC/MBH 
+• 4MNT 
+• CAR 1 
+• CCDU 
+• CVL 
+• Endoscopy 
+• HVAU 
+• HVC7 
+• HVC8 
+• HVCU 
+• HVI OR 
+• Main OR 
+• Main PACU 
+• MED 1 
+• MED 2 
+• MED 5 
+• MED 6 
+• MICU 
+• NCCU 
+• Nephrology 
+• Neurology 
+• Oncology 
+• Ortho 
+• PCU 
+• PEAU 
+• PEDS 1 
+• PEDS 2 
+• PEDS 3 
+• PEDS 4 
+• Peds PACU 
+• PICU 
+• Rehab 
+• SICU 
+• SMAU/SMAT 
+• Specials 
+• STU 
+• SUR 2 
+• SURG 
+• TNCC 
+• Tower OR 
+• Tower PACU 
+• Trauma
+11. Power is supplied via emergency generator systems to many areas though a uniquely identifiable 
+receptacle. The color (red) shall be used to identify such receptacles. 
+ 
+REFERENCES: 
+Joint Commission, Environment of Care 
+NFPA 99-2012: 6.4.2.2.3; NFPA 110-2010: 7.9 
+ 

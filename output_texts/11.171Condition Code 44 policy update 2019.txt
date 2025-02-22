@@ -1,0 +1,119 @@
+ 1 
+OUR LADY OF LAKE RMC  
+ 
+CARE MANGEMENT 
+POLICY 
+EFFECTIVE DATE: 
+June 2012 
+Reviewed  
+10/1/2024 
+POLICY #: 
+ 
+CM 01 
+ 
+SUBJECT: 
+ 
+Condition Code 44 
+ 
+PAGE 1 OF 1 
+ 
+APPROVED BY: 
+Nicole Telhiard 
+ 
+I. PURPOSE: 
+ 
+ The purpose of Condition Code 44 is to ensure that all Utilization Review (UR) 
+activities, including the review of medical necessity of hospital inpatient admission and 
+continued stays, are fulfilled as described in 42 CFR 482.30. 
+  
+II. APPLIES TO: 
+ All Physicians, Care Management, Utilization Review Nurse, HIM, revenue integrity 
+  
+III POLICY: 
+ Condition Code 44—Inpatient Admission changed to Outpatient:  This code is used 
+when a physician has ordered inpatient services, but upon internal utilization review 
+performed before the claim is submitted, the hospital determines that the services do not 
+meet inpatient criteria for medical necessity. 
+ 
+The hospital must ensure that all UR activities, include the review of medical necessity 
+of hospital inpatient admissions and continued stays are fulfilled. As the Department of 
+Health and Hospital (DHH) State Operation Manual states, a non-physician cannot make 
+a final determination that a patient’s stay is not medically necessary or appropriate; 
+however, there is an expectation that case management staff, while utilizing hospital 
+admission protocols and /or criteria will facilitate the communication between 
+practitioners and the UR Committee. 
+ 
+CMS has established the policy for the use of Condition Code 44 to address those 
+infrequent occasions such as a late-night or weekend admission when no case manager 
+(or hospital personnel) is on duty to offer guidance. When an internal review determines 
+that, and inpatient admission does not meet hospital criteria and the patient should have 
+been registered as an outpatient it would be appropriate to use Condition Code 44. 
+ 
+Services billed under Condition Code 44 are covered and reimbursed on the same terms 
+and conditions as if they had been provided in the outpatient setting, as long as all of the 
+following criteria are met:  The decision to change patient status must be made by the 
+hospital’s UR Committee 
+• one member of the UR Committee with attending physician’s 
+concurrence  2 
+• in all other cases, the decision must be made by two physician members 
+of the UR Committee 
+• the attending physician’s concurrences must be documented in the 
+patient’s medical record 
+• the change in status must be made prior to discharge or release of the 
+patient, and 
+• the hospital has not submitted a claim for the inpatient admission. 
+ 
+ 
+IV. RESPONSIBILITY: 
+ Care Management, Utilization Review Nurse, Attending Physician, UR Committee 
+ 
+V. PROCEDURE: 
+ 1. Care Management Staff- The Care Manager / Utilization Review Nurse will 
+conduct medical record review to ensure medical necessity and appropriate level 
+of care assignment, justification of treatment, and quality of care. The Care 
+Manager / Utilization Review Nurse will contact the attending physician and the 
+UR Committee or designee (Care Management Physician Advisor) when there is 
+a question for whether the inpatient admission is appropriate. 
+ 
+UR Committee 
+The determination that an admission or continued stay is not medically necessary must 
+either be made by: 
+• One member of the UR Committee if the attending physician responsible 
+for the care of the patient either concurs with the determination or fails  
+to present their views when afforded the opportunity, or  
+• Two Member of the UR Committee in all other cases 
+The UR committee consults with the attending physician and allows them to present their 
+views before making the determination.  If the UR committee determines that the 
+admission is not medically appropriate for Inpatient status, and the attending physician 
+does not provide additional information or still disagrees with the physician representative 
+from the UR committee, the UR committee must give written notification of change in 
+status from the inpatient to outpatient to the hospital responsible for the care of the patient 
+not later than 2 days after the determination. 
+ 
+Upon written notification by the UR committee that the admission is not medically 
+necessary the following steps will occur: 
+1.  All entries in the medical record will be maintained in their original format; 
+2. If the patient’s status changes in accordance with the requirements for the use of 
+Condition Code 44, the change must be fully documented by the physicians in the 
+medical record, complete with orders and notes that indicate why the change was 
+made, the care that  was furnished, and the participants in making the decision to 
+change the patient’s status including physician signature. 
+3. Notify the Manager/Director of Care Management, Administration. 
+4. Present the patient/family with the MOON document.  Ensure signed letter gets 
+scanned into EPIC  3 
+5. Care Management Department will ensure the status change order is entered and 
+will document code 44 information into the electronic medical record. 
+6. The Manager /Director of Care Management or assigned staff  will review and 
+report Condition Code 44 cases to the UR committee as requested 
+ 
+REFERENCE 
+CMS Manual System, Pub 100-04 Medicare Claims Processing, Transmittal 1803, August 
+2009 
+ 
+VII REVISED DATE: 
+ 4/2017 Changed approver,2/2019 revised, changed approver 
+VIII REVIEWED DATE: 
+ 2/2015, 4/18,10/1/2024 
+ 
+ 
+ 

@@ -1,0 +1,126 @@
+ 
+PH.2455_Adverse Events 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Adverse Events 
+PAGES: 
+3 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2455 (03/27/2023) 
+ORIGINAL EFFECTIVE 
+DATE: 02/07/2017 
+REVISIONS EFFECTIVE: 
+11/25/2024 
+POLICY NUMBER:  
+PH.2455 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy outlines adverse events and the adverse drug event reporting process. 
+POLICY: 
+A. An adverse event is an unexpected occurrence involving death or serious physical or psychological injury of a 
+patient/consumer, or the risk of such of occurrence. Serious injury specifically includes loss of limb or function. 
+Adverse events signal the need for immediate investigation and response.  
+B. All adverse drug events will be documented, investigated, and resolved in a consistent and timely manner in order 
+to ensure quality patient care.  Documentation of adverse drug events are submitted through the health system 
+electronic reporting tool (RLDatix) as described in PH.2450 Quality and Error Management. 
+DEFINITIONS: 
+Adverse Event is a clinical occurrence that is inconsistent with or contrary to the expected outcomes. An adverse event 
+or adverse drug reaction is unexpected in normal therapeutic use and may cause life-threatening conditions. An adverse 
+drug event (ADE) shall be defined as any medication error, potential adverse drug event, or an adverse drug reaction 
+(ADR) 
+Medication error is any preventable event that may cause or lead to inappropriate medication use or form while the 
+medication is in control of the healthcare professional or patient. This may include prescribing errors, dispensing errors 
+or medication administration errors  
+Potential adverse drug event (PADE) is a mistake in prescribing, dispensing, or planned medication administration that 
+is detected and corrected through intervention, by healthcare worker or patient, before actual medication administration  
+Adverse drug reaction (ADR) is an unintended physical reaction to a drug when it is used in the approved manner.  An 
+allergic reaction and an idiosyncratic reaction are also considered ADR’s.  Side effects are not included in this definition. 
+PROCEDURE: [URAC P-PSC 1-3 (a)] 
+A. Th e goal s of this policy are:  
+1. to have a positive impact in improving patient care; 
+2. to focus attention on understanding the causes that underlie the event; 
+3. to reduce the probability of a reoccurrence of the event in the future; 
+4. to increase the general awareness and enhance strategies for prevention 
+B. When adverse events occur in a health care organization, it is necessary that appropriate individuals within the 
+organization be aware of the event; investigate and understand the causes that underlie the event; and make changes 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+ 
+11/25/2024 4:32 PM 
+ 
+ 
+PH.2455_Adverse Events 
+2 
+in the organization's systems and processes to reduce the probability of such an event in the future. The leaders are 
+responsible for establishing processes for the identification, reporting, analysis, and prevention of adverse events 
+and for ensuring the consistent and ongoing implementation of a root cause analysis. A standardized reporting 
+mechanism will be employed:  
+1. ADEs can be reported to the pharmacy via telephone or in person. The pharmacy provides a New Patient 
+Welcome Packet to all patients which includes pharmacy contact information and guidance on when to 
+contact the pharmacy to report any issues or concerns. Should a patient or another healthcare provider report 
+an ADE, it will receive the highest priority level until resolved.  
+2. All ADEs will be referred to a pharmacist for appropriate follow-up; 
+3. Forms will be thoroughly and accurately completed with factual, specific, and objective information so that 
+the circumstances can be critically evaluated; 
+4. All clinically significant ADEs will be communicated to the prescribing physician immediately; The 
+pharmacy will contact prescribers to inform them of adverse events reported by patients or caregivers.  
+5. If the ADE is an ADR, new information (i.e., allergy) must be immediately documented in the patient’s 
+medical record. 
+C. Adverse Events that are subject to review by advisory boards and accrediting bodies include: 
+1. an occurrence or event which results in an unanticipated death; or 
+2. an event in which major permanent loss of function (not related to the natural course of the patient's illness 
+or condition) occurs  
+D. When such an event occurs, Pharmacy is expected to prepare a thorough and credible root cause analysis and action 
+plan within 45 calendar days of the event or of becoming aware of the event. The organization may submit the 
+written analysis and plan to its accrediting body at its discretion and as advised by their legal counsel.   
+E. If  a pplicable, a detailed analysis shall be compiled which includes a possible plan of correction and a process for 
+quality improvement or the discussion will take place during Quality Management Committee meetings. Pharmacy 
+will conduct a root cause analysis which:  
+1. focuses primarily on systems and processes, not on individual performance; 
+2. progresses from special causes in clinical processes to common causes in organization processes; 
+3. identifies changes which could be made in systems and processes that would reduce the risk of such events 
+occurring in the future; 
+4. is thorough and credible 
+F. Pharmacy, as it provides patient/consumer care in the delivery of medical equipment and rehabilitation 
+technological services, utilizes the FDA Med-Watch criteria in establishing its definition and reporting requirement 
+of adverse events. [URAC P-PSC 1-3 (a)] 
+1. The following are reportable adverse events:  
+a. Death -when a medication causes death or contributed to the death of a patient; 
+b. Life-threatening - when a medication may have resulted in the death of a patient if use of the medication 
+had continued; 
+c. Hospitalization - when the medication caused or contributed to the hospitalization of a patient; 
+d. Disability -when a medication may have caused or contributed to a permanent injury or impairment of 
+the patient; 
+e. Intervention - if medical or surgical intervention was necessary to preclude permanent damage due to 
+the use of the medication. 
+G. The Pharmacy Manager will be notified when a reportable adverse event occurs, and appropriate action will be 
+taken.  
+H. All adverse events will be reported to the Quality Management Committee (QMC) for review and    analysis. The 
+Pharmacy Manager will complete an FDA Med Watch Report on severe or previously unrecognized ADEs and 
+send these to the FDA (www.FDA.gov/medwatch) and ISMP (Institute for Safe Medication Practices) when 
+appropriate. [URAC P-PSC 1-3 (a)]  
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+  
+PH.2455_Adverse Events 
+3 
+STATUTORY/REGULATORY AUTHORITY: 
+• ACHC Standards: DRX6-1A, DRX6-3F 
+• URAC Standards: P-PSC 1-3 
+• PH.2450 Quality and Error Management 
+ 
+ATTACHMENTS:  
+N/A 
+ 
+Policy Oversight by: 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.  

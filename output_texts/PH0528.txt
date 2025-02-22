@@ -1,0 +1,321 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Sterile Compounding Program Overview Policy Reference #: PH0528 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy provides an overview of FMOLHS Baton Rouge Market Pharmacies’ Sterile 
+Compounding Program which operates pursuant to the current version of USP <797>, related 
+USP chapters, relevant Federal regulatory guidelines (e.g., FDA guidance), and in accordance with 
+the Louisiana State statutes governing sterile compounding practices. The Sterile Compounding 
+Program outlines the following: 
+• Type of healthcare organization or practice(s) engaged in sterile compounding 
+• Type and location of compounding area(s) and ISO Class 5 hoods used 
+• Categories of CSP compounded 
+• Personnel performing sterile compounding 
+• General types of sterile preparations compounded 
+• Patient populations served  
+1.2. The overriding goal of the Sterile Compounding Program is to minimize harm, including death, to 
+patients that could result from:  
+• Microbial contamination [nonsterility] 
+• Excessive bacterial endotoxins 
+• Variability from the intended strength of correct ingredients 
+• Physical and chemical incompatibilities 
+• Chemical and physical contaminants, and/or  
+• Use of ingredients of inappropriate quality 
+1.3. Sterile compounding is defined as combining, admixing, diluting, pooling, reconstituting, 
+repackaging, or otherwise altering a drug or bulk drug substance to create a sterile medication. 
+While not an exhaustive list, the following CSPs are considered sterile preparations:  
+• Injections 
+• Intravenous infusions  
+• Irrigations for internal body cavities (i.e., any space that does not normally communicate with 
+the environment outside of the body, such as the bladder cavity or peritoneal cavity). [Note— 
+Irrigations for the mouth, rectal cavity, and sinus cavity are not required to be sterile.]  
+• Ophthalmic dosage forms  
+• Aqueous preparations for pulmonary inhalation. [Note —Nasal dosage forms intended for 
+local application are not required to be sterile.]  
+• Baths and soaks for live organs and tissues  • Implants  
+1.3. USP <797> defines CSP risk levels or categories of compounding that are primarily based on the 
+state of environmental control under which the CSP is compounded, the probability for microbial 
+growth during the time the CSP is stored, and the time period within which the CSP is to be used.  
+USP <797> redefined CSP into the following categories:   
+• Immediate Use CSPs  – compounded in less than ISO Class 5 conditions (e.g. bedside or 
+countertop), with 3 or fewer sterile products, and a maximum BUD of 4 hours after the 
+initiation of compounding. 
+• Category 1 CSPs – compounded in ISO Class 5 PEC located in a segregated compounding area 
+with a maximum BUD of 12 hours when stored at room temperature or 24 hours when 
+refrigerated. 
+• Category 2 CSPs  – compounded in an ISO Class 5 PEC located within a classified sterile 
+compounding facility and adhering to USP BUDs based on storage conditions, administration 
+of CSP sterility testing, sterilization method, and sterility of starting components. 
+• Category 3 CSPs – compounded in an ISO classified sterile compounding facility with increased 
+garbing, environmental monitoring, compounding oversight requirements, and CSP sterility 
+and endotoxin testing requirements allowing for extended BUD assignments. 
+1.4. Administration of medication, preparation of allergenic extract prescription sets, blood -derived 
+and other biological material processing that occurs physically removed from sterile 
+compounding activities, and sterile radiopharmaceuticals is not in the sco pe of the Sterile 
+Compounding Program and USP <797>. 
+2. Policy  
+2.1 The Sterile Compounding Program at FMOLHS Baton Rouge Market Pharmacies is summarized 
+in Appendix One . The Program includes the following type(s) of facilities and sterile 
+compounding areas where sterile compounding of Category 1 and 2 CSPs occurs:  
+Our Lady of the Lake Regional Medical Center/Baton Rouge, Louisiana : OLOL Inpatient Pharmacy, 
+OLOL Non-Oncology Infusion and OLOL Cancer Institute Infusion Pharmacy  
+Inpatient Pharmacy Cleanroom Suite – Category 2 CSPs 
+Non-Oncology Infusion Segregated Compounding Area 502 – Category 1 CSPs 
+Our Lady of the Lake Children’s Hospital/Baton Rouge, Louisiana : OLOL Children’s Hospital 
+Inpatient Pharmacy and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+Inpatient Pharmacy Cleanroom Suite – Category 2 CSPs 
+St. Jude Affiliate Pharmacy Cleanroom Suite – Category 2 CSPs 
+LSU Health Baton Rouge/Baton Rouge, Louisiana : North Baton Rouge Outpatient Infusion 
+Pharmacy 
+Outpatient Cleanroom Suite – Category 2 CSPs 
+Our Lady of the Lake at Ascension/Gonzales, Louisiana : OLOL at Ascension Inpatient Pharmacy 
+Inpatient Cleanroom Suite – Category 2 CSPs 
+    
+ 
+ 
+2.2 Personnel who compound or have direct oversight of compounding personnel are required to 
+successfully complete and remain current in all Sterile Compounding Core Competencies.  These 
+personnel include: 
+Pharmacy Technicians 
+Pharmacists 2.3 Personnel supporting, but not directly compounding, are required to successfully complete and 
+remain current in selected Sterile Core Compounding Competencies directly related to their 
+limited role(s).  These personnel include: 
+Verifying pharmacists 
+2.4 Personnel not involved in sterile compounding or visitors are escorted and overseen by the 
+Designated Person(s) or designee and expected to comply with all aspects of the Sterile 
+Compounding Program (e.g. hand hygiene, garbing, conduct, etc.).     
+2.5 Patient populations served by CSPs prepared under the Sterile Compounding Program include: 
+Inpatient and outpatient clinic 
+Adult, pediatric, neonates, and geriatric 
+2.6 General types of compounded sterile products prepared under the Sterile Compounding 
+Program include: 
+Non-hazardous, hazardous, and chemotherapy 
+Single patient and batched CSPs 
+Sterile-to-sterile only 
+Single use CSPs only 
+High-risk CSPs including intrathecal, epidural and interventricular CSPs 
+Ophthalmic injections and drops 
+2.7 Types of primary engineering controls used to compound sterile products prepared under the 
+Sterile Compounding Program include: 
+LAFWs 
+BSCs 
+3. Roles & Responsibilities 
+3.1 The Designated Person(s) (DP): The DP is responsible for the Sterile Compounding Program and 
+is accountable for the performance and operation of the sterile compounding facility and 
+equipment; environmental monitoring and maintaining a state of microbial c ontrol within 
+controlled areas; personnel competency qualification; and ongoing compliance with the 
+Standard Operating Procedures. 
+4.  Procedures 
+4.1  The  Sterile Compounding Program is guided by policies and standard operating procedures, 
+which are further outlined in this policy manual.  
+4.2. All Sterile Compounding Program policies and procedures are reviewed every 12 months, at a 
+minimum, by the Designated Person and relevant committees.   
+4.3  Any changes to Sterile Compounding Program policies and procedures are approved by the 
+Designated Person and communicated to personnel in a manner commensurate with the 
+degree of change.  
+ 
+5. Definitions 
+ 
+5.1 Biological safety cabinet (BSC) : A ventilated cabinet with an open front and inward and downward 
+unidirectional HEPA-filtered airflow and HEPA -filtered exhaust. A BSC used to prepare a CSP must be 
+capable of providing an ISO Class 5 or better environment for preparation of the CSPs. 
+5.2 Classified area: An area that maintains an air quality classification based on the ISO standards (see 
+also the definition for ISO class).5.3 Compounded sterile preparation (CSP): A preparation intended to be 
+sterile that is created by combining, admixing, diluting, pooling, reconstituting, repackaging, or otherwise 
+altering a drug product or bulk drug substance 5.4Compounding area: The area where compounding is occurring (i.e., a cleanroom suite, inside the 
+perimeter of the SCA, or AECA). 
+5.5 Compounding aseptic containment isolator (CACI): A type of RABS that uses HEPA filtration to provide 
+an ISO Class 5 unidirectional air environment designed for the compounding of sterile HDs.  
+5.6 Compounding aseptic isolator (CAI): A type of RABS that uses HEPA filtration to provide an ISO Class 
+5 unidirectional air environment designed for compounding of sterile non-HDs. 
+5.7 Containment ventilated enclosure (CVE): A full or partial enclosure that uses ventilation principles to 
+capture, contain, and remove airborne contaminants through HEPA filtration and prevent their release 
+into the work environment. 
+5.8 Immediate-use CSP: CSP aseptically compounded outside of ISO classified air for direct and immediate 
+administration to a single patient with a maximum BUD of 4 hours after the initiation of compounding. 
+5.9 Integrated vertical laminar flow zone (IVLFZ): A designated ISO Class 5 area serving as the PEC within 
+an ISO Class 7 or cleaner buffer room. In the IVLFZ, unidirectional airflow is created by placing HEPA filters 
+over the entire surface of the worktables and by effective placement of air returns. 
+5.10 Laminar airflow workbench (LAFW): A device that is a type of LAFS that provides an ISO Class 5 or 
+better air quality environment for sterile compounding. The device provides a unidirectional HEPA-filtered 
+airflow. 
+5.11 Pharmaceutical isolator: An enclosure that provides HEPA -filtered ISO Class 5 unidirectional air 
+operated at a continuously higher pressure than its surrounding environment and is decontaminated 
+using an automated system. It uses only decontaminated interfaces or rapid transfer p orts for materials 
+transfer.  
+5.12 Primary engineering control (PEC): A device or zone that provides an ISO Class 5 air quality 
+environment for sterile compounding. 
+5.13 Secondary engineering control (SEC): The area where the PEC is placed (e.g., a cleanroom suite or 
+an SCA). It incorporates specific design and operational parameters required to minimize the risk of 
+contamination within the compounding area.  
+5.14 Segregated compounding area (SCA): A designated, unclassified space, area, or room with a defined 
+perimeter that contains a PEC and is suitable for preparation of Category 1 CSPs only. 
+ 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+7. Approval and Review Summary 
+Approved 
+by/date: 
+Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2022.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3 Reviewed with formatting changes 11/2024. 
+ 
+ 
+  APPENDIX ONE: FMOLHS Baton Rouge Area Pharmacies’ Sterile Compounding Program Overview 
+Healthcare Facility 
+Type / Location 
+Description of 
+Compounding Area(s) 
+Type of PECs 
+Used 
+CSP Categories 
+Compounded 
+Type of CSPs 
+Prepared 
+Personnel 
+Performing or 
+Overseeing 
+Compounding 
+Primary Patient 
+Populations 
+Served 
+OLOL RMC Hospital Sterile Cleanroom 
+suite – hazardous and 
+non-hazardous, 
+clinical practice sites 
+LAFW, BSC Immediate-
+use, Category 
+2 CSPs 
+non-hazardous, 
+hazardous, 
+chemotherapy, 
+sterile-to-sterile, 
+single use, 
+intrathecal, 
+epidural, 
+intraventricular, 
+proprietary bag 
+and vial 
+Pharmacists, 
+pharmacy 
+technicians 
+Inpatient, 
+pediatric, adult, 
+geriatric 
+OLOL Ascension 
+Hospital 
+Sterile Cleanroom 
+suite – non-hazardous 
+LAFW Category 2 
+CSPs 
+Non-hazardous, 
+hazardous, 
+sterile-to-sterile, 
+proprietary bag 
+and vial 
+Pharmacists inpatient OR 
+suite 
+OLOL Non-Oncology 
+Infusion 
+Segregated 
+Compounding area - 
+non-hazardous only 
+LAFW Category 1 
+CSPs 
+non-hazardous, 
+sterile-to-sterile, 
+single use 
+Pharmacists, 
+pharmacy 
+technicians 
+Outpatient, adult 
+OLOL Cancer 
+Institute Infusion 
+Pharmacy 
+Sterile Cleanroom 
+suite – hazardous and 
+non-hazardous 
+LAFW, BSC Category 2 
+CSPs 
+non-hazardous, 
+hazardous, 
+chemotherapy, 
+sterile-to-sterile 
+Pharmacists, 
+pharmacy 
+technicians 
+Outpatient, adult 
+North Baton Rouge 
+Outpatient Infusion 
+Pharmacy 
+Sterile Cleanroom 
+suite – hazardous and 
+non-hazardous 
+LAFW, BSC Category 2 
+CSPs 
+non-hazardous, 
+hazardous, 
+chemotherapy, 
+sterile-to-sterile 
+Pharmacists, 
+pharmacy 
+technicians 
+Outpatient, adult 
+OLOL Children’s 
+Hospital 
+Sterile Cleanroom 
+suite – hazardous and 
+non-hazardous, 
+clinical practice sites 
+LAFW, BSC Immediate-
+use, Category 
+2 CSPs 
+non-hazardous, 
+hazardous, 
+chemotherapy, 
+sterile-to-sterile, 
+single use, 
+intrathecal, 
+epidural, 
+intraventricular, 
+proprietary bag 
+and vial 
+Pharmacists, 
+pharmacy 
+technicians 
+Inpatient, 
+pediatric 
+OLOL Children’s 
+Hospital St. Jude 
+Affiliate Pharmacy 
+Sterile Cleanroom 
+suite – hazardous and 
+non-hazardous 
+LAFW, BSC Category 2 
+CSPs 
+non-hazardous, 
+hazardous, 
+chemotherapy, 
+sterile-to-sterile 
+Pharmacists, 
+pharmacy 
+technicians 
+Outpatient, 
+pediatric 
+ 
+ 
+ 

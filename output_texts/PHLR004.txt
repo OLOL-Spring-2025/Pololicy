@@ -1,0 +1,350 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 1 of 7 
+PHLR004 
+ 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLR004 
+PHLEBOTOMIST RESPONSIBILITIES 
+       Date Issue Date Effective Date 
+ Prepared/Revised By ZJA/LC 9/7/2019 9/21/2019 9/21/2019 
+Reviewed By LC 9/13/2019 Origination Date 
+Medical Director Review A Harton 9/21/2019 APR 5, 1997 
+ 
+PURPOSE:  
+Provide description of tasks necessary for satisfactory job performance 
+ 
+Addresses: 
+Supervisors 
+Venipuncture Charge Techs 
+Venipuncture Phlebotomists 
+ 
+POLICY: 
+A. Phlebotomist Responsibilities 
+To describe basic tasks expected to be performed by Phlebotomists working in the 
+Venipuncture section of the laboratory 
+1. Report for your assigned work shift in a timely manner 
+• Acceptable report time is from seven minutes before the assigned start time to 
+seven minutes after the assigned start time 
+• Clock start time using the ATM/KRONOS System 
+i. Go to the Lakelink site 
+ii. ATM/KRONOS 
+iii. Enter username and password 
+iv. Time Stamp 
+2. Expect to work to the end of your assigned shift 
+• Check out with the Charge Tech before leaving 
+i. Turn in phlebotomist draw sheet  
+ii.  Return Rover, printer, and all batteries to charging station at the end of 
+each shift 
+iii. Return pager  
+• Clock out using the ATM/KRONOS System 
+• Acceptable dismissal time is from seven minutes before the assigned end time to 
+seven minutes after the assigned end time 
+ 
+i.  Go to the Lakelink site 
+ii. ATM/KRONOS 
+iii. Enter username and password OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 2 of 7 
+PHLR004 
+ 
+ 
+iv. Time Stamp 
+3. Hospital provided name badges are to be worn on the upper body in a readable upright 
+position 
+4. The hospital provides phlebotomy carts to be shared among employees 
+• Carts are to be adequately stocked with supplies before leaving the laboratory to 
+begin the work shift 
+• Carts are to be restocked with necessary supplies before leaving at the end of your 
+shift 
+• Carts and trays are not to be left unattended in the hallways 
+• Phlebotomy supplies may not be given to nonhospital personnel 
+ 
+5. Charge Techs will assign draws to the phlebotomist on the Patient Draw Lists according 
+to order priority 
+• STATS – draw immediately (within 15 minutes of order time) send sample 
+immediately to Central Processing; verify within 1 hour of order 
+• TIMED – draw + 15 minutes of assigned time; verify within 2 hours of order 
+• DISCHARGE PENDING - draw immediately (within 15 minutes of order time) 
+send sample immediately 
+• DAILY – sample drawn and processed within 4 hours of order time 
+• ROUTINE – sample drawn and processed within 4 hours of order time 
+• AM – sample to be drawn during morning round hours (0400-06:30) 
+6. Draw only patients who have been properly identified by the 2ID/3ID process (refer to 
+Patient Identification Procedure) 
+7. Scan the lab specimen label with the Rover device to capture the time drawn and your 
+Network ID.  If using a chart label or handwriting the information on the tube, write the 
+time drawn and network ID. 
+8. Collection delays are documented under “Deferred Draw” in the Rover /EPIC 
+Hyperspace. Notify the patient’s nurse or other unit person of delay.  Document the 
+following information: 
+• Reason for not being able to draw a patient 
+• The time of attempted draw is captured with the Rover/Hyperspace 
+• The name of the unit person notified 
+9. Send drawn samples to Central Processing in a timely manner 
+• Use the pneumatic delivery system to send sample to collections using the “RED” 
+pneumatic tubes only. 
+• Call for pickups if the tube system is down or unavailable 
+• Do not hold samples on your phlebotomy cart 
+10. Dispose of sharps and contaminated materials in appropriate location and in approved 
+biohazard containers 
+11. Clean the outpatient draw station following use; do not leave a mess for the next person  
+12. Read the message board for current patient information and personal notes 
+13. Finish pending work before leaving; notify the Charge Tech of unperformed draws 
+14. Perform outpatient draws as requested by the Charge Tech OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 3 of 7 
+PHLR004 
+ 
+ 
+15. Perform other duties as requested by the Department Supervisor, Phlebotomy Operations 
+Coordinator, or Charge Tech 
+16. Keep the pager on your person not on your cart. 
+ 
+ 
+B. Phlebotomy Charge Tech Responsibilities 
+To describe departmental duties that the Charge Tech is expected to perform during the 
+duration of the assigned shift.  In addition to phlebotomist responsibilities, the Charge Tech 
+is responsible for: 
+1. Checking with the shift supervisor/charge tech for problems or unfinished draw assignments 
+2. Check all orders on the Patient Draw Lists in EPIC Hyperspace. 
+3. Update the Charge Tech workload recording sheet to reflect current staffing: 
+• Phlebotomist name 
+• Current hospital location (if applicable to shift) 
+• Assigned pager number 
+• Assigned Rover Device 
+ 
+4. Ensure current shift phlebotomists have assigned pagers, Rovers and wireless printers; reiterate 
+the need for the phlebotomist to call in between patient draws or when paged for any additional 
+work or updates. 
+ 
+Procedure: 
+5. Laboratory orders to draw patients should be accurately and drawn timely 
+• Assign collections to phlebotomist on Patient Lists 
+• Laboratory orders requested through EPIC for lab collection will appear on the Inpatient 
+Draw List based on draw priority.  Orders are released at 00:31, 04:05, 07:05, 08:05, 12:05, 
+16:05, and 20:05 daily. 
+i. Nonblood samples 
+1. Collected by unit staff 
+6. Charge Tech is responsible for assigning patient draw orders based on: 
+• Request Priority 
+• Phlebotomist location 
+• Nursing/Physician direction 
+7. The methods of communication between charge tech and phlebotomist are the following 
+• Pager system 
+• Phlebotomist call back 
+• Overhead – Hospital PA system (hospital operator) 
+8. Monitor work flow in the section to ensure patients are being drawn according to order priority 
+and the samples returned to the laboratory in a timely manner 
+9. Review laboratory orders before assigning orders to a phlebotomist for draw: 
+• Crossmatch requests checked for sample present in lab 
+• Special container requirements for requested testing 
+• Testing that requires multiple draws at specified time intervals 
+• Special processing requirements 
+• Resticks/Redraws  
+• Priority requests OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 4 of 7 
+PHLR004 
+ 
+ 
+10. Phlebotomists are to send specimens via the medical center’s pneumatic tube system to the 
+Central Processing department of the laboratory. 
+11. Unit Collect Samples: 
+• Phlebotomist is to document using “Deferred Draw” if the unit will collect a sample.  
+Phlebotomist will document the nurse’s network ID and not initials.  Notify Charge Tech if 
+a nurse will collect sample without a phlebotomist present 
+• Charge Tech will reassign the collection in EPIC Hyperspace from a “lab collect” to a “unit 
+collect” draw. 
+• Unit collect samples that are collected while the phlebotomist is present should be tubed or 
+delivered to the laboratory by the phlebotomist 
+12. Print and clear Patient Draw lists 
+• Assign collections to all phlebotomist as required throughout the shift 
+• Print the Patient Draw List after each release of new orders (00:31, 04:05, 07:05, 08:05, 
+12:05, 16:05, and 20:05 daily) and after all collections have been assigned 
+• Laboratory orders will disappear from the Patient Draw list after the collection is completed 
+by the phlebotomist.   
+• The Charge Tech will follow up on any collection delays, order errors, cancellations, or 
+special instructions on the Patient Draw List. 
+13. Answer questions concerning the status of requested orders 
+14. Assign phlebotomist to Code and Trauma calls  
+15. Transfer phone calls as required 
+16. Accept orders and dispatch outreach phlebotomists for after hour outreach collections 
+17. Account for personnel by recording schedule changes on Department schedule 
+18. Restock supply storage as required 
+19. Keep the work area clean and phlebotomy carts parked in the Phlebotomy Cart room or in the 
+Venipuncture Department underneath the countertops. 
+20. Line of authority for all shifts: 
+• Venipuncture Charge Tech 
+• Hematology Charge Tech / Evening Shift Supervisor (evenings M-F) 
+• On Call Supervisor 
+21. Night Shift Charge Tech is responsible for: 
+• Cleaning of department counter tops and phones; document cleaning 
+• Organizing the morning round laboratory orders by room number and floor 
+ 
+Successful Performance of duties includes: 
+1. Ensuring that each VP Tech arrives at work on time  
+2. Makes sure that each VP Tech completes all work assigned to them 
+3. Distribute the workload in a fair manner 
+4. Monitor the workload by recording each assigned order for drawing and the name of person 
+charged with the responsibility of drawing 
+5. Ensure that workload tallies are completed and turned in at the end of each shift 
+6. Document problems that occur on your shift and relays events to the Supervisor 
+7. Documents all off-site draws in the Outreach Draw Log 
+8. Ensure that each VP Tech restocks their carts before leaving at end of their shift 
+9. Ensure that each VP Tech logs out of the computer before they walk away from a terminal  
+10. Print the Patient Draw List each time EPIC releases new orders and after work has been 
+assigned to the phlebotomist. 
+11.  Maintain order in the Dept. during staff shortages and other crisis situations. OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 5 of 7 
+PHLR004 
+ 
+ 
+12. Schedule lunch breaks around the workload 
+13. Be role model as people will only follow if there is someone to lead 
+ 
+Limitations of the Procedure 
+1. Timed Requests 
+• Emphasize the proper drawing of Coagulation tests, cardiac enzymes, drug levels, and 
+calcium timed requests. 
+2. Phone modification of orders or priority 
+• Follow nursing or physician requests 
+• Deliver collected samples rapidly to Lab Central Processing 
+• Notify Central Processing personnel of importance of the request 
+ 
+C. Phlebotomy Operations Coordinator Responsibilities 
+To describe departmental duties that the Phlebotomy Coordinator is expected to perform during 
+Morning Rounds.  In addition to phlebotomist responsibilities, the Phlebotomist Coordinator is 
+responsible for: 
+• The Morning Round draw sequence has been directed by the Medical Staff 
+• Nursing Units are to be drawn and the collected samples returned to the laboratory in the manner 
+described 
+• Timely drawing allows laboratory results to be available in the patient’s chart when physicians 
+make their rounds 
+• Patients seen first by their physician are those in most critical need 
+• Morning Rounds have been designed to allow for the timely reporting of laboratory test 
+information to the areas of need providing the greatest service to our patient 
+ 
+1. The direction of the phlebotomy team during the Morning Round 
+• Assures the completion of rounds as directed by the Medical Staff 
+ 
+• The draw floor sequence is: 
+ 
+• HVI Tower Building  
+▪ 02:30 – HVAU (2nd floor) 
+▪ 03:00 –  MICU (6th floor)   
+▪ 04:00 –  HVCU (3rd floor) 
+▪ 04:45 –  SICU & NCCU (5th floor) 
+▪ 06:30 –  HV7 (7th floor) & HCV8 (8th floor) 
+• Tower Building 
+▪ 04:00 –  ORTHO (6th floor) 5W, 5E (5th floor) 
+▪ 04:45 –  MED 5, MED 1 (4th Floor) 
+▪ 06:30 –  PICU, PEDS 1, PEDS 2 (3rd floor) 
+• Main Building 
+▪ 0300  –  TNCC, CCDU, PCU (2nd floor) 
+▪ 0400  –  CAR1, 4MNT, MED 2 (4th floor) 
+▪ 0445  –  NEURO, MED 6 (5th floor) 
+▪ 530    –  STU, SURG, SURG2 (6th floor) 
+▪ 0615  –  PEAU, PEDS3, PEDS4 (3rd floor) 
+▪ 0630  –  REHAB, GERI, PSYCH  OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 6 of 7 
+PHLR004 
+ 
+ 
+2. The collection of Timed draws during the hours of Morning Rounds (04:00 – 6:30) 
+• Timed draws for the following tests are to be drawn at the requested time 
+▪ PTT’s 
+▪ Cardiac tests – CPK, Troponin 
+▪ Drug levels – Peaks and Troughs 
+▪ Timed Calcium requests on the 6th floor 
+• Timed requests for other tests are to be drawn with the Morning round at the requested time  
+• Phlebotomy Operations Coordinator assigns a phlebotomist to draw the timed order at the 
+requested time 
+3. The timely return of collected samples to the laboratory 
+4. The orderly movement of team members from one draw area to the next 
+5. The assignment of problem patient draws to team members 
+• Timed draws 
+• Couldn’t gets 
+• Delayed collections 
+• Special requested testing 
+6. Make individual assignments, as necessary, to meet the goal of timely completion of the Morning 
+Draws 
+ 
+Procedure: 
+1. The Phlebotomy Operations Coordinator assignment is: 
+• Noted on the Venipuncture Team Sheet 
+• Assigned to various individuals depending on experience 
+• Responsible for reporting late team member arrivals 
+2. The Night Shift Charge Tech gives the AM shift Charge Tech laboratory orders for 5W, 4N, 4S, 
+4W, 4E 
+3. The Phlebotomy Operations Coordinator dispatches the Morning Round Team as follows 
+• One experienced Phlebotomist to 5W 
+• Balance of team to 4N, 4S 
+• A member of the team may be sent to draw 4E and 4W 
+• Is responsible for reporting lake team member arrival on the 4th floor 
+4. The Phlebotomy Coordinator distributes a number of patient draws to each member of the team 
+• Number of patient draws limited to 6 -10 
+• Patient draws are to be in consecutive rooms to promote efficiency 
+5. The Phlebotomy Operations Coordinator assures that drawn samples are picked up and sent to 
+Collections 
+• Drawn samples should be pickup from each Phlebotomist every 15 – 20 minutes 
+• Samples are sent to Collections via the Pneumatic Tube System 
+• Collections can be called for a pickup on floors not having access to the Pneumatic Tube 
+6. The Phlebotomy Operations Coordinator monitors the progress of the draw on the floor 
+• Gives team members additional laboratory draws as phlebotomist complete assignments 
+• Helps as requested with difficult draws 
+• Participates and draws patients as necessary due to missing staff members 
+7. The Phlebotomy Operations Coordinator begins to move phlebotomists to the next assigned floor 
+by giving laboratory orders to those who have completed their draws 
+8. The Phlebotomy Coordinator monitors members left behind as well as those passed ahead to the 
+next floor OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 7 of 7 
+PHLR004 
+ 
+ 
+9. The process is repeated as the Morning Round Team cascades through the assigned draw 
+sequence 
+ 
+Limitations of the Procedure 
+1. Staffing levels will affect the role of the Phlebotomist Operations Coordinator 
+• Absenteeism may require the Phlebotomy Operations Coordinator to participate primarily 
+as a team member 
+• Modification of duties will be necessary 
+• Be an encouragement to the team 
+• Maintain the draw rotation 
+• Inform the Night Shift Charge Tech of your progress 
+2. The Supervisor will support the Phlebotomy Operations Coordinator on the floors during high 
+volume weekdays 
+• Making rounds and assisting team members 
+• Picking up drawn samples and sending them to the laboratory 
+3. On weekends and holidays the Phlebotomy Operations Coordinator often assumes Charge Tech 
+responsibilities and must return to Collections at 06:15 
+4. Assign team members to draw the pediatric patients 
+• Send an experienced pediatric Phlebotomist with an inexperienced person to help hold 
+and learn 
+• Pediatric patients are to be collected according to the time and priority of the order.  
+Otherwise collect last after all of floors with the exception of Geri and Psych. 
+• Check with each patient’s nurse for laboratory order changes before drawing 
+ 
+REVISIONS 
+4/5/1997 (created); 10/4/2017; 9/13/2019 
+ 
+ 

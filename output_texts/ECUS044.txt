@@ -1,0 +1,176 @@
+ ECUS044 
+Page 1 of 4 
+OUR LADY OF THE LAKE HEALTH REGIONAL MEDICAL CENTER 
+Policy Manual: Environment of Care Section: Utilities Management 
+Title: Lockout Tagout 
+Policy 
+Reference #: ECUS0441 
+Supersedes #:  
+Date of Origination: January 2018 Review Date: 10/31/202410/06/2021; 
+04/02/2020 
+Revision Date: 10/31/2024 
+ 
+ 
+PURPOSE: 
+This procedure establishes the minimum requirements for the lockout / tag out of energy sources. These 
+procedures shall be used to ensure that before staff performs any servicing or maintenance activities 
+where the unexpected energizing, start up or release of stored energy could occur and cause injury, all 
+potential hazardous energy shall be isolated and locked / tagged out. 
+ 
+DEFINITIONS: 
+Affected/Other Staff –Staff whose job requires him/her to operate or use a machine or equipment on 
+which servicing or maintenance is being performed under lockout or tagout, or whose job requires 
+him/her to work in an area in which such servicing or maintenance is being performed.  
+ 
+Authorized Staff –Staff who locks out or tags out a machine or piece of equipment in order to perform 
+servicing or maintenance on that machine or piece of equipment.  
+ 
+Energized – Connected to an energy source or containing residual or stored energy.  
+ 
+Energy-Isolating Device – A mechanical device that physically prevents the transmission or release of 
+energy, including but not limited to the following: a manually operated electrical circuit breaker; a 
+disconnect switch; a manually-operated switch by which the conductors of a circuit can be disconnected 
+from all ungrounded supply conductors and, additionally, no pole can be operated independently; a line 
+valve; a block; and any similar device used to block or isolate energy. Push buttons, selector switches 
+and other control circuit-type devices are not energy-isolating devices.  
+ 
+Staff Supervisor – An individual administratively in charge of authorized staff assigned to perform 
+maintenance or service requiring the use of locks or tags.  
+ 
+Hazardous Energy – Electrical, mechanical, hydraulic, pneumatic, chemical, nuclear, thermal, 
+gravitational or any other form of energy that could cause injury due to the unintended motion of 
+energizing, start‐up, or release of such stored or residual energy in machinery, equipment, piping, 
+pipelines or process systems. 
+ 
+Lockout – The placement of a lockout device and tag on an energy-isolating device, in accordance with 
+an established procedure, that ensures the energy-isolating device and the equipment being controlled 
+cannot be operated until the lockout device is removed.   ECUS044 
+Page 2 of 4 
+Lockout Device – A device that utilizes a positive means, such as a key-operated padlock, to hold an 
+energy-isolating device in the safe position and prevent the energizing of a machine or equipment.  
+ 
+Personal Protective Equipment (PPE) – Safety equipment used by authorized staff during the 
+lockout/tagout procedures.  
+ 
+Point of Operation – The area where the work actually takes place. It is the place where tools and 
+material meet. 
+ 
+Program Administrator – Person responsible for researching, developing, administering and evaluating 
+programs in response to the identified needs of the organization. Note: A Program Administrator may 
+also be a supervisor and/or authorized staff. 
+ 
+Qualified staff – Persons capable, as determined by their knowledge and skills, of working safely on 
+energized system. This capability includes familiarity with the proper use of special precautionary 
+techniques, personal protective equipment, insulating and shielding materials and insulated tools. This 
+capability also includes familiarity with the construction and operation of the equipment and the hazards 
+involved. 
+ 
+Tagout – The placement of a tagout device on an energy-isolating device, in accordance with an 
+established procedure, to indicate that the energy-isolating device and the equipment being controlled 
+may not be operated until the tagout device is removed. 
+ 
+Tagout device – A prominent warning device with a means of attachment, which can be securely-
+fastened to an energy-isolating device in accordance with an established procedure to indicate that the 
+energy-isolating device and the equipment being controlled may not be operated until the tagout device 
+is removed.  
+ 
+POLICY: 
+The objective of this program is to protect personnel from injury when lockout of energy is required to 
+ensure the safety of those working in or near danger zones. Work will not begin until all forms of 
+hazardous energy are identified and controlled to a zero hazardous energy level. 
+• Lockout is required if the work being done requires a person to place any part of their body into an 
+area where a danger zone exists. Locks and/or lockout devices must be attached to the energy control 
+point to keep the hazardous energy from being reintroduced to the equipment while work is being 
+conducted.  
+• There may be multiple energy control points that affect work in a danger zone; each point must be 
+identified and controlled. 
+• The lockout must provide complete energy isolation, without possible override. Note: push-buttons, 
+selector switches, interlocks, emergency shutoffs, software controls and other control circuit type 
+devices are not energy control points and cannot be used to fulfill this program. 
+• Work will not begin until all forms of hazardous energy are identified and controlled. 
+• All staff and contractors must have individual locks and keys such that the individual is the only 
+person who possesses the key.  ECUS044 
+Page 3 of 4 
+• If multiple technicians are working on the same task, the lead technician will be the one to lockout or 
+tag out the system.  Primary responsibility is vested in authorized staff for a set number of those 
+working under the protection of a group lockout or tag out device (such as an operations lock). 
+• When more than one crew, craft, department, etc. is involved, assignment of overall job-associated 
+lockout or tag out control responsibility will be assigned to authorized staff designated to coordinate 
+the affected work forces and ensure continuity of protection and each authorized staff member shall 
+affix a personal lockout or tag out device to the group lockout device, group lockbox, or comparable 
+mechanism when he or she begins work, and shall remove those devices when he or she stops 
+working on the machine or equipment being serviced or maintained. 
+• In situations where it is impossible to install a lock or apply a locking device, contact Control Room 
+for consultation and direction. 
+• This program does not apply to electric equipment for which electrical energy is the only energy 
+source and it can be isolated and controlled by unplugging the equipment from the outlet and 
+keeping the plug under the exclusive control of the staff performing the servicing or maintenance. 
+Also, the program does not apply to installations under the exclusive control of electric utilities for 
+the purpose of power generation, transmission and distribution. 
+• When the Authorized Staff member who applied the lockout device is not available to remove it, 
+they shall be contacted and instructed to return to remove it if possible. If this is not possible the 
+Control Room shall be contacted for further instruction. The removal of a lockout device has serious 
+consequences and must not be taken lightly.   
+• Inspect/audit lockout tag out procedures annually. 
+• Provide effective training as mandated for all Staffs covered by this procedure. 
+• Only qualified staff may work on energized system parts or equipment that have not been de-
+energized under the lockout/tagout procedures of this document for testing and troubleshooting 
+purposes.  
+PROCEDURES: 
+The following steps are required each time lockout/tagout is performed.  
+ 
+Preparing equipment for lockout/tagout.  
+Basic procedure to de-energize equipment 
+1. The Authorized Staff should review the equipment to be de-energized, to identify all forms of 
+hazardous energy. 
+2. Identify the area of work and the lockout/tagout restriction zone.  
+3. Identify the proper control point of each source of hazardous energy. 
+4. The Authorized Staff shall obtain lock(s), tag(s), and locking and/or blocking devices. Outside 
+contractors shall provide their own lock(s), tag(s), and locking and/or blocking devices. 
+5. Notify workers of intent to de-energize—affected staff and the Control Room must be notified by 
+the Authorized Staff prior to the application of any lockout or tagout device. 
+6. Begin shutdown, de-energize and dissipate any residual energy (springs, hydraulic pressure, water 
+pressure, steam, flywheels, gravity, etc.) by blocking, bleeding down or other appropriate means.  
+7. Apply lockout devices to each energy source. Once the lockout device has been applied, the key 
+shall be removed and remains exclusively in the Authorized Staff’s possession.  ECUS044 
+Page 4 of 4 
+8. Where more than one Authorized Staff member will be working on a machine or piece of 
+equipment, each Authorized Staff member must apply their own lock or tag to the energy -isolation 
+device. The key for each lock must be in the possession of the staff who applied the lock. 
+9. Confirm the equipment has been de-energized by initiating a normal startup procedure. Ensure that 
+no Authorized or Affected Staff are in the restricted area prior to attempting the restart of the 
+equipment. Do not enter the machine until it is confirmed that all energy sources have been locked 
+out. When verification is complete, return the machine to the neutral or OFF position. 
+10. Wear the appropriate PPE. 
+11. Begin work. 
+ 
+Restoring the equipment to normal operation when service is complete.  
+Basic procedure to remove lockout/tagout devices and reenergize the equipment 
+1. Inspect the work area to ensure that all nonessential items, tools, etc., have been removed from 
+the danger zone. 
+2. Check that all the guarding and safety controls have been properly replaced. 
+3. Notify Affected Staffs and ensure that all personnel are in a safe location prior to reenergizing 
+the equipment. 
+4. Remove locks, tags and blocking devices. 
+5. Reenergize the equipment/system according to the start-up procedures specific to each piece of 
+equipment. 
+6. Confirm the system is operating properly and safely before returning control of the equipment 
+back to any Affected Staffs. 
+7. Remove and clean or dispose of PPE.  
+8. Check locks, tags and lockout devices for damage or cleaning needs. Replace as needed. 
+ 
+OUTSIDE CONTRACTORS 
+Outside contractors hired by OLOL, that may be required to work on equipment containing Hazardous 
+Energy, shall be required to have a documented Lockout/Tagout procedure. The outside contractor shall 
+provide OLOL with a digital and hard copy of this Lockout/Tagout procedure to keep on file. The 
+contractor’s Lockout/Tagout procedure shall equal or exceed the OLOL Lockout/Tagout policy and 
+follow its procedures.  Outside contractors shall be required to provide their own Energy-Isolating 
+Devices and PPE. 
+ 
+REFERENCES: 
+NFPA 70E – Standard for Electrical Safety in the Workplace: 2018 Edition 
+OSHA Control of Hazardous Energy 29 CFR 1910.47 
+ 
+ 
+ 
+ 

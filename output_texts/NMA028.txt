@@ -1,0 +1,197 @@
+Page 1 of 5  
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Patient Care Services/Nursing Section: Medication 
+ 
+Title: Management of Non-chemotherapeutic 
+Extravasation or Infiltration in Adults 
+Policy 
+Reference #: NMA-028 
+Supersedes #:  
+Date of Origination: May 7, 2013 Review Date:  May 31, 2024 
+Revision Date: May 8, 2023  
+PURPOSE: 
+To minimize the risk of extravasation and to facilitate the timely and effective management of 
+extravasations. 
+DEFINITIONS: 
+Extravasation: the unintentional escape of fluid from its physiologic contained space into the 
+surrounding tissue  
+- 2016 Infusion Therapy Standards of Practice define as “inadvertent infiltration of vesicant solution 
+or medication into the surrounding tissue” 
+ 
+Vesicants: agents known to cause blistering and necrosis when extravasated. 
+- 2016 Infusion Standards of Practice define as “agent capable of causing tissue damage when it escapes 
+from the intended vascular pathway into surrounding tissue” 
+ 
+POLICY: 
+A. The following non-cytotoxic (non-chemotherapeutic) agents are known vesicants: 
+ 
+Calcium salts ≥ 10% Sodium chloride > 0.9% 
+Dextrose ≥ 10% Epinephrine 
+Mannitol ≥ 5% Norepinephrine 
+Potassium ≥2meq/mL Dopamine 
+Sodium bicarbonate ≥8.4% Phenylephrine 
+Radio contrast media/dyes  Dobutamine 
+Phenytoin Parenteral nutrition 
+ 
+B. Suspect extravasation if the patient has the following signs or symptoms: 
+a. Signs: swelling, redness or blanching, blister formation, unexplained reduced IV flow rate, 
+necrosis, lack of blood return, or ulceration 
+b. Symptoms: tightness, burning, pain or aching, tingling sensation, itchiness 
+ 
+C. An infiltration scoring system and a phlebitis scoring system is available in the nursing 
+documentation portion of the electronic medical record (See Appendix). The use of these scoring 
+systems must be charted if extravasation is suspected or confirmed. 
+ 
+D. Suspected or confirmed extravasation should be treated immediately. See “procedures” for 
+management below. 
+ 
+E. When necessary, wound care should be consulted. Page 2 of 5  
+PROCEDURES: 
+ 
+A. Immediate management 
+1. As soon as extravasation is suspected, immediately stop the infusion, disconnect the 
+tubing as close to the catheter hub as possible. Attach a syringe to the hub and 
+attempt to aspirate the remaining drug from the catheter. The line should not be 
+flushed as this may redistribute the vesicant. 
+2. Notify the house supervisor. 
+3. Estimate the amount of extravasated solution and notify the physician at the time of 
+the occurrence to obtain orders for treatment. If deemed necessary, utilize the 
+A. Critical Care - Regitine for Extravasation or Infiltration 
+B. Critical Care - Hyaluronidase for Extravasation or Infiltration 
+4. If antidotes are not indicated, a warm or cold compresses may be used and the 
+effected limb should be elevated for 24 to 48 hours as directed by the physician. 
+ 
+B. Antidote administration 
+ 
+Regitine (phentolamine): indicated for dopamine, norepinephrine, epinephrine, phenylephrine, or 
+dobutamine extravasation). 
+ 
+1. Treatment is most effective if given within 6 to 8 hours of extravasation. It should 
+not be administered if 12 or more hours have lapsed from the time of extravasation. 
+2. Retrieve phentolamine from the Pyxis machine. This item is available on override in 
+Critical Care areas (ICU’s, ECUs) for use as defined by the extravasation order set. 
+A. Call pharmacy for phentolamine if the item is not available in the  Pyxis 
+machine (e.g. due to drug shortages) or if extravasation occurs outside of 
+Critical Care areas. 
+3. Using a 10mL syringe, withdraw 2mL (10mg) of phentolamine and add 8mL of 0.9% 
+normal saline to make a 1mg/1mL phentolamine solution. 
+4. Disconnect IV tubing from the hub of the catheter (if not already done) and inject 
+1mL of the phentolamine solution. Then, remove the catheter. 
+5. Using a hypodermic needle, inject 0.5 to 1mL of the remaining phentolamine 
+subcutaneously in multiple sites around the perimeter of the infiltrated area (at least 5 
+injections with one half-inch between sites) 
+A. It may not be necessary to use all the prepared phentolamine. The amount of 
+the solution used will vary with the size of the area of infiltrated tissue. 
+B. Erythema, pain, and hypotension may occur 
+C. If the dose is effective, normal skin color should return to affected area 
+within one hour. 
+6. Place a limb alert band on the affected limb. 
+7. Warm compresses may be applied for patient comfort for 15 to 20 minutes 3 to 4 
+times per day for 24 to 48 hours 
+8. Elevate the affected limb for 24 to 48 hours Page 3 of 5  
+ 
+ 
+Hylenex (hyaluronidase): used for extravasation of concentrated electrolytes (listed above) 
+including parenteral nutrition, mannitol, phenytoin, and radio contrast media/dyes (large volume). 
+ 
+1. Treatment is most effective if given within 1 to 2 hours of extravasation 
+2. Contact pharmacy by phone to retrieve one - 150unit/mL vial of hyaluronidase. 
+3. Using a 10mL syringe, withdraw 1mL of hyaluronidase and 9mL of 0.9% normal 
+saline which makes a 15 units/mL solution. 
+4. Using a 25-gauge needle, inject 0.2mL of the 15 unit/mL hyaluronidase solution 
+subcutaneously in multiple sites around the perimeter of the infiltrated area (at least 5 
+injections with one half-inch between sites) 
+A. Erythema, pain, and urticaria may occur. If urticaria develops, contact a 
+physician to alert him/her of a potential allergic reaction. Use of oral or IV 
+antihistamines may be necessary. 
+5. Place a limb alert band on the affected limb. 
+6. Cold compresses may be applied for patient comfort for 15 to 20 minutes 3 to 4 times 
+per day for 24 to 48 hours 
+7. Elevate the affected limb for 24 to 48 hours. 
+ 
+C. Post-event documentation & reporting 
+1. Document the following in the patient’s medical record: 
+i. Date 
+ii. Time 
+iii. Type of access 
+iv. Location of access 
+v. Drug sequence 
+vi. Drug administration technique 
+vii. Approximate amount of drug extravasated 
+viii. Patient response 
+ix. Appearance of the site 
+x. Attending physician (if different from treating physician) & house manager 
+notification 
+xi. Follow up measures 
+2. Report the event utilizing the hospital’s electronic safety event manager system 
+ 
+REFERENCES: 
+1. Phentolamine product insert 
+2. Hylenex product insert 
+3. Ong, Jennie, Gerpen Ruth V. Recommendations for management od noncytotoxic vesicant 
+extravasations. J Infus Nurs. 2020; 43(6): 319-343. 
+4. Gorski L, Hadaway L, Hagle ME, McGoldrick M, Orr M, Doellman D. Infusion therapy standards of 
+practice. J Infus Nurs. 2016;39 (suppl 1):S1–S159 
+5. Micromedex Healthcare Series Drugdex Consults: non-cytotoxic drug extravasation therapy (online 
+access). Last accessed May 2013. 
+6. Chemotherapy and Biotherapy Guidelines and Recommendations for Practice. ONS, 2009, p.105- 
+110. 
+7. Schummer W, Schummer C, Bayer O, et al. Extravasation injury in the perioperative setting. Anesth 
+Analg 2005; 10: 722-7. Page 4 of 5  
+8. Doellman D, Hadaway L, Bowe-Geddes LA, et al. Infiltration and extravasation: update on 
+prevention and management. J Inf Nursing 2009; 32(4): 203-11 
+9. Kassner E. Evaluation and treatment of chemotherapy extravasation injuries. J Pediatr Oncol Nurs 
+2000; 17(3): 135-48 
+10. Upton J, Mulliken JB, Murray JE. Major intravenous extravasation injuries. Am J Surg 1979; 137: 
+497-506 
+11. Gaze NR. Tissue necrosis caused by commonly used intravenous infusions. Lancet 1978; 2: 417-9 
+12. Bellin MF, Jakobsen JA, Tomassin I, et al. Contrast medium extravasation injury: guidelines for 
+prevention and management. JBR-BTR, 2004: 87:93-6 
+13. Infusion Nurses Society. Infusion nursing standards of practice. J Infus Nurs. 2011;34 (l)(suppl):Sl- 
+S110. 
+ 
+14. Refer to Facility Online ReferencePage 5 of 5  
+Appendix: 
+ 
+Infiltration Score 
+(graded according to the most severe presenting indicator) 
+Grade Clinical Criteria 
+0 No symptoms of infiltration 
+1 Skin blanched 
+Edema less than 1 inch in any direction 
+Cool to touch 
+With or without pain 
+2 Skin blanched 
+Edema less than 1-6 inches in any direction 
+Cool to touch 
+With or without pain 
+3 Skin blanched or translucent 
+Gross edema greater than 6 inches in any direction 
+Cool to touch 
+Mild to moderate pain 
+Possible numbness 
+4 Skin blanched or translucent 
+Skin tight, leaking 
+Skin discolored, bruised, swollen 
+Gross edema greater than 6 inches in any direction 
+Deep pitting tissue edema 
+Circulatory Impairment 
+Moderate to severe pain 
+Infiltration with any amount of blood, irritant, vesicant 
+ 
+ 
+Phlebitis Score 
+(graded according to the most severe presenting indicator) 
+Grade Clinical Criteria 
+0 No symptoms of phlebitis 
+1 Erythema at site with or without pain 
+2 Pain at site with erythema and/or edema 
+3 Pain at site with erythema and/or edema 
+Streak formation 
+Palpable cord less than 1 inch 
+4 Pain at site with erythema and/or edema 
+Streak formation 
+Palpable cord greater than 1 inch 
+Purulent drainage 
+ 

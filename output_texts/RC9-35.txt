@@ -1,0 +1,90 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center   
+Subject:  Installation and validation of New               Section: Blood Gas Lab  
+Instruments or New Analytes  
+Date of Origination: July 10, 2013 Signature: 
+Date of Last Revision: July 11, 2023 Serial Code: RC9-35 
+       Reviewed: July 11, 2023 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY:    
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to define the process for initiating and validating a new 
+instrument or new analytes in the blood gas lab prior to implementation. 
+ 
+POLICY: 
+A. For each analyte tested, the lab must have data on accuracy, precision, and 
+reportable range for the initiation of a new instrument. This testing will be 
+conducted by multiple team members of the laboratory personnel. A method 
+performance validation protocol will be written for the validation of each 
+instrument.  This protocol will outline the details of the validation and will 
+define the responsible parties for the validation process.  The laboratory 
+director will review and approve the protocol prior to the implementation of 
+the instrument prior to patient testing.  This protocol will be within the 
+guidelines of this policy and is attached as an addendum (RC9-35-VP) 
+B. For the initiation of a new analyzer or analyte the following methods will be 
+utilized by laboratory personnel:  
+1. Quality Control: QC ranges are established by the manufacturer. Precision 
+of the instrument will be demonstrated by analyzing 20 QC data points for 
+3 levels for a simple study. A complex study will demonstrate precision by 
+variability of the user analyzing 3 levels of QC over a time frame of 20 
+consecutive days. For the EPOC analyzer, 3 levels of QC will be ran for 
+31 consecutive days. QC will be reviewed and analyzed to determine 
+precision of the instrument. 
+2. The Analytical Measurement Range will be determined by the following 
+method: The initial determination of the Analytical Measurement Range 
+will be determined by analyzing calibration verification materials of all 
+levels.  The Low AMR value will be calculated by taking the highest of 
+the lowest range values for each analyte, then subtract 15% of each 
+analyte. Record each analyte value as the low Analytical Measurement 
+range. For the High AMR, take the lowest of the high range of each 
+analyte and add 15% to each value. Record this as the high Analytical Measurement Range. If the calculated ranges exceed the manufacturer’s 
+reportable range, then the manufacturer’s reportable range will be utilized. 
+The Analytical Measurement Range will be posted in the Blood Gas Lab 
+at each analyzer. The process for analyzing calibration verification 
+materials is defined in policy RC9-10.   
+3. Correlation Studies: 20 patient samples will be analyzed on the new 
+instrument and compared to an instrument already in use of the same 
+manufacturer when applicable. If manufacturer changes, one machine will 
+be correlated with the old manufacturer. This “master machine” will be 
+compared to any other machines of the same manufacturer. Each analyte 
+will be documented, compared and validated. Each analyte will be within 
+ten percent of the analyte it is compared to for verification of accuracy. 
+The COHb and MetHb will be within two points of each other for 
+verification of accuracy. Lactate will be within one point of each other for 
+verification of accuracy. A Representative from the manufacturer will 
+compile a report which analyzes results to validate instrument.  The 
+validation report will be reviewed by the laboratory director.  Patient 
+correlation studies will be used to determine accuracy of the instrument. 
+4. Validation of normal range for the initiation of a new instrument will be 
+verified by conducting a study or utilizing a referenced study, or citing a 
+published text book reference. For a normal range study, a sample size of 
+20 patients will be obtained, analyzed, and documented for review.  The 
+results will be compiled to verify that the performance of the new 
+instrument is within 10% of the normal range.  Patient condition will be 
+considered with review of each blood gas result. 
+C. Data from the above components will be reviewed by the Respiratory Director or lab 
+designee and the Laboratory Director as documented on the Instrument 
+Implementation Checklist prior to implementing the new analyzer.   
+D. Validation studies will be kept on file for the life of the instrument/method plus two 
+years.   
+ 
+Validation of Back-up Blood Gas Analyzers 
+If all blood gas analyzers a t Lake Livingston, Lake North Baton Rouge , Lake Ascension 
+and Children’s Hospital campuses are not operational, an analyzer from main campus will 
+be utilized until service can be restored. Once an analyzer arrives at its location , 
+revalidation will occur which will include calibration, running all three levels of internal 
+quality control, and running three levels of external quality control three times. Upon return 
+to main campus, the analyzer will be revalidated by means of calibration, running all three 
+levels of internal quality control, and running three levels of external quality control three 
+times. Calibration and three levels of internal quality control material will ensure accuracy. 
+Precision will be determined by running all three levels of external quality controls three 
+times. 
+ 
+ 
+ 

@@ -1,0 +1,105 @@
+______________________________________________________________________________ 
+Policies and Procedures Manual Manual: Cardiovascular Lab 
+Our Lady of the Lake Regional Medical Center Chapter: CVL 
+Subject:  Station Responsibilities,  
+                Care of Patient in CVL Section: Patient Care 
+Date of Origination: August 1988 Supersedes:  1994 
+Date of Last Revision:  5/31/2018 Serial Code: NCR 004 
+Date of Review: 07/31/24 
+ 
+Distribution:   Cardiovascular Lab 
+ 
+Formulated By: Cardiovascular Lab 
+ 
+Purpose:  To provide a policy to define station responsibilities for care of patients in  
+   CVL. 
+ 
+Applies To:  Cardiovascular Lab 
+ 
+Policy: CVL personnel will be responsible for the satisfactory completion of 
+station duties for their assigned station during a procedure. 
+ 
+Procedure: 
+ 
+I. Personnel will be assigned a station responsibility for each case.  They will be 
+responsible, but not limited to the following: 
+1. Circulating Nurse 
+a. Identify patient utilizing 2ID process, 3ID if pediatric before entering 
+CVL. 
+b. Check patient chart for Orders, H & P, Moderate Sedation, 
+Informed/Procedure Consent, and Lab work. 
+c. Completes pre-incision (pre-op) checklist & “time out” in Epic. 
+d. Connects patient to monitoring equipment. 
+e. Provides for patient comfort. 
+f. Instructions given and patient’s questions addressed and documented in 
+Epic. 
+g. Patency of IV ensured. 
+h. Provides continuous assessment of patient during the procedure. 
+i. Relays information to cardiologist and other team members. 
+j. Administers appropriate medications and treatments per physician’s 
+orders.  Label meds according to National Patient Safety Goals. 
+k. Assists scrub and physicians in accessing equipment and maintaining 
+aseptic technique. 
+l. Monitors procedure for breaks in sterility. Documents and informs 
+physician of all breaks in sterile technique. 
+m. Acts as room coordinator and patient advocate during the procedure. 
+n. Responsible for administering nursing care while patient is in CVL. o. Responsible for reviewing procedure documentation and verify correct 
+procedure information and medications administered in Epic log. 
+p. Gives report to receiving RN or Charge person via phone or bedside 
+report. 
+q. Assists with room turnover after completion of procedure. 
+r. Completes CVL paperwork for charges during procedure. 
+ 
+2. Scrub position 
+a. Checks and labels pulse distal to procedure site and communicates to 
+monitor personnel. 
+b. Scrubs, gowns and gloves utilizing aseptic technique. 
+c. Sets up sterile scrub table. 
+d. Drapes patient using sterile technique and maintains sterile technique 
+during procedure. 
+e. Assists physician with equipment, instruments and supplies during the 
+procedure. 
+f. Prepares manifold, sheaths, catheters, PQ needle, and flushes for 
+procedure. Labels fluids on the table. 
+g. Communicates to other team members, information that needs to be 
+documented. 
+h. Reports any change in patients condition to physician and other team 
+members. 
+i. At completion of the procedure, rechecks pulse distal to site and 
+communicates to monitor the condition of the site, and the amount of 
+contrast used. 
+j. Gives post procedure instructions. 
+k. Pulls sheath and maintains hemostasis when applicable. 
+l. Transports patient to appropriate nursing unit when applicable. 
+m. Helps turn over Lab for future use. (Clean up) 
+ 
+3. Radiology Technologist or Credentialed Licensed Physician 
+a. Positions the C arm and roadmaps images. 
+b. Sets parameters on power injector when the procedures involves “stepping 
+the table”. 
+ 
+4. Physiologic Monitor. 
+a. Notifies family of patient status prior, during and post procedure. 
+b. Labels papers for procedures 
+c. Measures and documents mid-chest level. 
+d. Assures transducer placement at mid-chest level. 
+e. Spikes pressure bag fluids and contrast container. 
+f. Calibrate and balance hemodynamic transducer. 
+g. Responsible for continuous monitoring of hemodynamic and 
+documentation of procedure according to policy. 
+h. Records pre-op 12 lead EKG in Sensis and populates database with patient 
+information.  Sensis: select patient from browser for hemodynamics. Epic: find patient on status board and open log. 
+ 
+i. Alerts physician and circulator of arrhythmias and/or changes in 
+hemodynamic pressures. 
+j. After procedure is complete in Sensis, create “waveform report” and save.  
+Close Sensis. 
+k. Ensures that images are in Visage. 
+l. Prints pictures per physician request. 
+m. Helps turn over Lab for future use. (clean up) 
+n. Set parameters for the power injector on cardiovascular procedures 
+excluding those procedures that involve “stepping the table” (RT’s only). 
+ 
+ 
+ 
+ 

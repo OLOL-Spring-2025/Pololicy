@@ -1,0 +1,82 @@
+NSCL03 
+POLICIES AND PROCEDURES MANUAL Manual:  Nutritional Services 
+Our Lady of the Lake Regional Medical Center Chapter:  Clinical Nutrition 
+Subject:  Diet Orders Section:   
+Date of Origination:  January 1st, 1985 Supersedes:       
+Date Last Revised: July 2017 Serial Code:  NSCL03 
+Date Last Reviewed: July 2019 
+ 
+DIET ORDERS 
+ 
+ 
+Policy: 
+ 
+All diet orders are provided based upon physicians' diet orders. 
+ 
+Procedure: 
+ 
+Diet prescriptions are ordered via the electronic medical record upon physicians’ order. The diet order is 
+transmitted to the nutritional services system  (Cbord). Cbord will receive interfaces from Epic of  diet 
+initiation, modifications, and discontinuations for diet orders, NPO orders, tube feeding orders, allergies, and 
+fluid restrictions.  
+ 
+Modified Diets: 
+ 
+The specific guidelines for each diet - both regular and modified are based upon The Academy of Nutrition 
+and Dietetic Nutrition Care Manual, the currently approved diet manual for Our Lady of the Lake . No 
+substitutions in the diet can be provided that conflict with the diet prescription without the physician or 
+dietitian’s approval. Diet orders may be modified by the Registered Dietitian Nutritionist to downgrade a diet 
+to adjust texture consistency (i.e. Regular diet to Mechanical soft, or Soft diet to Puree) for patients who have 
+mouth sores, broken dentures, weakness, etc. A physician order is necessary to upgrade a diet (i.e. pureed to 
+mechanical soft), unless the diet was downgraded by the Registered Dietitian Nutritionist and it doesn’t 
+exceed the texture of the original diet order. [Reference policy NSCL01] 
+ 
+Patient Tray Identification: 
+ 
+Meal trays for individual patients are identified by name and date of birth. All new diets, changes, new admits, 
+transfers, and discharges that have been entered into the Epic electronic medical record are transmitted to the 
+nutritional services department via real-time interface to Cbord.  The call center operator or catering associate 
+verifies the diet order changes that have taken place prior to each meal period to adjust items that may now 
+be non-compliant with patient’s most recent diet order.  
+ 
+ 
+ NSCL03 
+Review of Therapeutic Diets: 
+ 
+The call center operator or catering associate , Nutrition Care Technician, Dietitian, or Clinical Nutrition 
+Manager will review, calculate and make any necessary changes for modified diet menus after the patients 
+have made a selection. These employees are to review the menus for: 
+ 
+1. Nutritional adequacy 
+2. Fulfillment of the modified diet principles and make any appropriate changes to meet modified 
+diet requirements. 
+ 
+Temporary Shut Down of the Epic System: 
+ 
+If and when the action system is temporarily not in operation, the following procedures will be followed. 
+ 
+An Announcement will be made by the Medical Center PBX operator or a memorandum for scheduled 
+maintenance will be issued if the Epic System is not in operation.  The Epic down time manual process should 
+be followed. During this period of time all messages, diet changes, discharges, transfers and admissions will 
+be received by the Patient Nutritional Services unit by telephone or by fax. A written record of these changes 
+will be kept in order to maintain Patient Nutritional Service unit records. 
+ 
+• If however the Epic System is not functioning: 
+1. Operators will use the most recent Diet Order list printed from Epic as a reference and as the official 
+authorization record for the prescribed diet.  
+ 
+• If Room Service Choice (RSC) is temporarily unavailable because of internet malfunction, Cbord will 
+be used to manually print Room Service tickets, reports, and place orders. IS must be notified of the 
+dysfunction of internet and system at (225) 765-4357. 
+ 
+• If Cbord is temporarily down because of a system malfunction: 
+1. Operators will use the diet order list (from Epic and Cbord) as the official authorization record of the 
+prescribed diet. 
+ 
+2. Call center operator or catering associates will use paper menus to record patient’s meal order. 
+Completed menu will be copied and provided to  the Patient Services supervisor to execute meal 
+preparations.  
+ 
+ 
+ 
+ 

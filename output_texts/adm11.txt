@@ -1,0 +1,34 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Emergency Srvs. 
+Our Lady of the Lake Regional Medical Center   
+Subject:  Patient Logbook - Control Register Section:  Administrative 
+Date of Origination:  February 23, 1987 Supersedes:       
+Date Last Revised: 
+Date Last Reviewed: 
+March 12,2019 
+January 9, 2025 
+Serial Code:  ADM-11 
+  
+PURPOSE: 
+To define the parameters and maintenance of the patient control register. 
+POLICY: An electronic patient log is maintained for the Emergency Department and serves as a control 
+register for every patient who presents and is registered for treatment. The log is part of the Electronic 
+Medical Record System . Information maintained in the Electronic Patient Log is maintained according 
+to Records Management Retention Schedule, but in no event shall  the logs be retained for less than 10 
+years. 
+1. The log contains the following information: 
+a. Patient Name, Age, and Gender 
+b. Date, Arrival Mode, and Time of Arrival 
+c. Nature of Illness or Injury, based upon presenting symptoms 
+d. Disposition of the Patient 
+e. Time of Departure 
+f. Name of On-Call or Treating Physician 
+2. Manual (non -electronic) logbooks kept prior to 01/01/2011 will be maintained in accordance 
+with the Records Management Retention Schedule and will be retained for no less than 10 years. 
+ 
+ 
+ 
+ 
+ 
+ 
+  

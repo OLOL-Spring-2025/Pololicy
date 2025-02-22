@@ -1,0 +1,102 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+ 
+SUBJECT:  Non-Invasive Positive Pressure Ventilation (NPPV) 
+and Heated High Flow Nasal Cannula (HFNC) Procedures 
+PAGE 1 OF 2 
+ 
+DEPARTMENT:  Respiratory Care Effective 
+11/1/2018 
+APPROVED BY:  Shantelle Graves, Director of Respiratory 
+Care 
+Last review 
+11/3/2022 
+ 
+PURPOSE: To establish a standard operating procedure for respiratory therapists to remain consistent 
+in caring for patients with respiratory disorders when non-invasive positive pressure ventilation or 
+heated high-flow nasal cannula is ordered by the physician or other provider.  
+ 
+PROCEDURE: 
+ 
+PROCEDURE FOR NON-INVASIVE POSITIVE PRESSURE VENTILATION (NPPV): 
+ 
+A. Non-invasive ventilation: 
+1. Upon receiving the order, the respiratory therapist will deliver the equipment to the patient’s 
+room, set the patient up on the device, conduct a complete respiratory assessment, and 
+document it in the EMR. 
+i. The respiratory therapist will ensure network integration of the ventilator and 
+test audible and visual alarms upon placement of a patient on the ventilator and 
+at the start of each shift.  
+ii. The respiratory therapist will document in the patient’s EMR that audible and 
+visual alarms were tested and passed.  
+iii. If there is an interruption in the network integration in which the respiratory 
+therapist cannot quickly troubleshoot the resolution, then the shift supervisor will 
+be notified to enter a footprint ticket, and the respiratory therapist will enter a 
+safety event in the RLDatix system. 
+iv. The respiratory therapist will remove and replace the ventilator if the network 
+integration issue cannot be resolved or the ventilator fails audible and visual 
+alarm testing.  
+ 
+2. Assessment of patients on NPPV will occur within the frequencies listed below: 
+i. ICU – every 2 hours 
+ii. PCU – every 4 hours 
+iii. Continuous floor – every 4 hours 
+iv. ED – every 2 hours 
+v. OSA floor – every 6 hours while in use 
+3. Location for NPPV use: 
+i. NPPV will be initiated in the ED, ICU, PACU or progressive care units. ii. NPPV will be ordered as QHS or continuous with or without protocol (depending 
+on the location of the patient). 
+iii. If the patient is admitted to the acute floor from the ED, the protocol will be 
+followed in an effort to wean the patient from NPPV.  
+iv. Patient should not be admitted to the acute floor on continuous NPPV if FiO2 
+requirements exceed 0.5. 
+v. For patients on the acute floors with continuous NPPV, the following will apply: 
+a. A pulmonary consult will be needed if the patient cannot be weaned within 
+12 hours of admission to the floor. 
+b. A pulmonary consult will be needed if continuous NPPV is reapplied after 
+initial discontinuation on the floor. 
+4. Transporting a patient on NPPV:  Patients with a continuous order of NPPV will be 
+transported on the device by a respiratory therapist.  The respiratory therapist will ensure the 
+proper amount of oxygen is available during transport.  Communication will occur prior to 
+the transport with the patient’s nurse and the team in the accepting location (for example, 
+CT, MRI, PCU, ICU, etc.). The process for transport is defined in the SOP for Transporting 
+Patients on Advanced Oxygen Devices.  
+5. The physician will be notified at any time of the following reasons: 
+i. patient condition deteriorates during the weaning process  
+ii. a pulmonary consult is required as stated above 
+iii. the patient is weaned and removed from the BiPAP  
+ 
+ 
+PROCEDURE FOR HEATED HIGH-FLOW NASAL CANNULA (HFNC): 
+ 
+A. High Flow Nasal Cannula Order Care 
+1. Upon receiving the order, the respiratory therapist will deliver the equipment to the 
+patient's room, set the patient up on the device, conduct a complete respiratory 
+assessment, and document it in the EMR.  
+2. Patients on High Flow Nasal Cannula should be assessed every 4 hours regardless of 
+location in the hospital. 
+3. Location for HFNC use: 
+i. HFNC may be utilized in the ICU, ED, or progressive care units at max settings 
+ii. HFNC may be initiated on the acute floors not to exceed 20 lpm flow rates. 
+iii. If the patient requires more support than 20 lpm but less than 30 lpm for 4 hours, 
+contact the physician.  If the patient requires more support than 30 lpm, contact 
+the physician immediately, as the patient should be transferred to a higher level of 
+care. A pulmonary consult may be requested by the attending physician.  
+iv. HFNC may be ordered as continuous with or without the protocol. 
+4. Transporting a patient on HFNC:   
+i. Patients with an order for HFNC will be transported on a transport Vapotherm unit 
+when on flowrates of 20 lpm or greater, and for all pediatric patient transports.  
+The process for transporting patients on HFNC is defined in the SOP for 
+Transporting Patient on Advanced Oxygen Devices.  ii. The respiratory therapist and nurse will work with the receiving department 
+(radiology, special procedures, another nursing unit, etc.) to prepare for a mode of 
+safe transport. 
+iii. The respiratory therapist will accompany all patient transports that require the VPT 
+transport device on HFNC.  
+ 
+ 
+Note: 
+• As with any order, if the order is unclear, the respiratory therapist should call the 
+physician for any order clarification.   
+• The respiratory therapist should communicate with the nurse and physician when 
+condition changes or there is a change in therapy delivered.  
+• If there are any questions regarding this procedure or the protocols mentioned, the 
+respiratory supervisor may be contacted at 225-202-4578.  

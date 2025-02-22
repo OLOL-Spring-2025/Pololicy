@@ -1,0 +1,262 @@
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: General 
+Title: Sentinel Events and Root Cause Analysis Policy Reference #: OrgOps/GN/018 
+Supersedes #: AD/A/049 
+Date of Origination: June, 2000 Last Review Date: July 1, 2015 
+Last Revision Date: April 22, 2024 
+ 
+GOALS OF THE SENTINEL EVENT POLICY:  
+The policy has the following six goals: 
+1. To establish a mechanism for identifying, investigating, and responding to sentinel events. 
+ 
+2. To have a positive impact in improving patient care, treatment, and services and in preventing 
+unintended harm. 
+ 
+3. To focus the attention of a hospital that has experienced a sentinel event on understanding the 
+factors that contributed to the event (such as underlying causes, latent conditions and active 
+failures in defense systems, or hospital culture), and on changing the hospital’s culture, systems, 
+and processes to reduce the probability of such an event in the future. 
+ 
+4. To increase the general knowledge about patient safety events, their contributing factors, and 
+strategies for prevention 
+ 
+5. To maintain the confidence of the public, clinicians, and hospitals that patient safety is a priority. 
+ 
+6. To ensure the completion of a thorough and credible Root Cause Analysis (RCA).  
+  
+DEFINITIONS:  
+ 
+I. Sentinel Event:  
+A sentinel event is a patient safety event (not primarily related to the natural course of the 
+patient’s illness or underlying condition) that reaches a patient and results in any of the 
+following: 
+• Death 
+• Severe harm (regardless of duration of harm) 
+• Permanent harm (regardless of harm) 
+ 
+ 
+An event is also considered sentinel if it is one of the following: 
+• Death caused by self-inflicted injurious behavior if any of the following apply: (1) 
+while in a healthcare setting, (2) within 7 days of discharge from inpatient services, (3) 
+within 7 days of discharge from emergency department (ED), or (4) while receiving or 
+within 7 days of discharge from the following behavioral health care services; Day 
+Treatment/Partial Hospitalization Program (PHP)/Intensive Outpatient Program (IOP), 
+Residential, Group home, and Transitional Supportive Living Unanticipated death of a 
+full-term infant 
+• Homicide of any patient while receiving care, treatment, and services while on site at  
+the organization/facility or while under the supervision/care of the organization 
+• Homicide of a staff member, licensed independent practitioner, visitor, or vendor while 
+on site at the organization/facility or while providing care/supervision to patients/clients 
+• Any intrapartum (related to the birth process) maternal death 
+• Severe maternal morbidity (leading to permanent harm or severe harm) 1 
+• Sexual abuse/ assault / forced observations / taking explicit audio, photo or video of 
+any patient receiving care, treatment, and services while on site at the 
+organization/facility or while under the supervision/care of the organization2 
+• Sexual abuse/assault / forced observations / taking explicit audio, photo or video of a 
+staff member, licensed independent practitioner, visitor, or vendor while on site at the 
+organization/facility or while providing care/supervision to patients 
+• Physical assault (leading to death, permanent harm, or severe harm) of any patient 
+receiving care, treatment, and services while on site at the organization/facility or while 
+under the supervision/care of the organization 
+• Physical assault (leading to death, permanent harm, or severe harm) of a staff member, 
+licensed independent practitioner, visitor, or vendor while on site at the 
+organization/facility or while providing care/supervision to patients 
+• Surgery or other invasive procedure performed at the wrong site, on the wrong patient, 
+or that is the wrong (unintended) procedure for a patient regardless of the type of 
+procedure or the magnitude of the outcome3 
+• Discharge of an infant to the wrong family 
+• Abduction of any patient receiving care, treatment, and services 
+ 
+1 A patient safety event that occurs from the intrapartum through the immediate postpartum period (24 hours), requiring the 
+transfusion of 4 or more units of packed red blood cells (PRBC) and/or admission to the intensive care unit (ICU). 
+Admission to the ICU is defined as admission to a unit that provides 24- hour medical supervision and can provide 
+mechanical ventilation or continuous vasoactive drug support. Sources: American College of Obstetrics and Gynecology, 
+the US Centers for Disease Control and Prevention, and the Society of Maternal -Fetal Medicine 
+ 
+2  Nonconsensual sexual contact of any type with an individual. Sexual abuse includes, but is not limited to, the following:  
+• Unwanted intimate touching of any kind, especially of the breasts, buttocks, or perineal area  
+• All types of sexual assault or battery, such as rape, sodomy, and coerced nudity (partial or complete)  
+• Forced observation of masturbation and/or sexually explicit images, including pornography, texts, or social media  
+• Taking sexually explicit photographs and/or audio/video recordings of an individual and maintaining and/or 
+distributing them (for example, posting on social media); this would include, but is not limited to, nudity, fondling, and/or  
+intercourse involving an individual  
+ 
+Generally, sexual contact is nonconsensual in the following situations:  
+• When the individual lacks the cognitive or legal ability to consent even though appearing to want the contact to 
+occur  
+• When the individual does not want the contact to occur 
+3  Invasive procedure is defined as  
+A procedure in which skin or mucous membranes and/or connective tissue are incised or punctured, an instrument is 
+introduced through a natural body orifice, or foreign material is inserted into the body for diagnostic or treatment -related 
+purposes. Examples of invasive procedures include central line and chest tube insertions, biopsies and excisions, and all 
+percutaneous procedures (for example, cardiac, electrophysiology, interventional radiology). Exclusions include 
+venipuncture, which is defined as a collection of blood from a vein. Note: This exclusion is still considered a patient safet y 
+event and should be reviewed by the appropriate local quality and safety teams.  
+ 
+  
+• Any elopement (that is, unauthorized departure) of a patient from a staffed around-the-
+clock care setting (including the ED), leading to death, permanent harm, or severe harm 
+to the patient 
+•  Administration of blood or blood products having unintended ABO and non-ABO (Rh, 
+Duffy, Kell, Lewis, and other clinically important blood groups) incompatibilities, 
+hemolytic transfusion reactions, or transfusions resulting in severe harm, permanent 
+harm, or death.4  
+• Unintended retention of a foreign object in a patient after an invasive procedure, 
+including surgery5 
+• Severe neonatal hyperbilirubinemia (bilirubin >30 milligrams/deciliter) 
+• Fluoroscopy resulting in permanent tissue injury when clinical and technical 
+optimization were not implemented and/or recognized practice parameters were not 
+followed6 
+• Any delivery of radiotherapy to the wrong patient, wrong body region, unintended 
+procedure, or >25% above the planned radiotherapy dose 
+• Fire, flame, or unanticipated smoke, heat, or flashes occurring during direct patient care 
+caused by equipment operated and used by the organization. To be considered a 
+sentinel event, equipment must be in use at the time of the event; staff do not need to be 
+present.7  
+•  Fall in a staffed-around-the-clock care setting or fall in a care setting not staffed 
+around the clock during a time when staff are present resulting in any of the following:  
+o Any fracture 
+o Surgery, casting, or traction  
+o Required consult/management or comfort care for a neurological (for 
+example, skull fracture, subdural or intracranial hemorrhage) or internal (for 
+example, rib fracture, small liver laceration) injury  
+ 
+4  If a clinical determination warrants the use of Rho(D) positive blood to a Rho(D) negative recipient or uncrossmatched 
+blood for emergent or lifesaving interventions, it would not be considered a reviewable sentinel event. §Administration of 
+blood or blood products where safety, potency, or purity has been compromised while the blood product in question was in 
+the laboratory’s control would be considered a sentinel event. Source: Food and Drug Administration, Center for Biologics 
+Evaluation and Research. 21 CFR 606.171. 
+5 The time period after an invasive procedure encompasses any time after the completion of final skin closure, even if the 
+patient is still in the procedural area or in the operating room under anesthesia. A failure to identify and correct an 
+unintended retention of a foreign object prior to that point in the procedure represents a system failure, which requires 
+analysis and redesign. It also places the patient at additional risk by extending the surgical procedure and time under 
+anesthesia. If a foreign object (for example, a needle tip or screw) is left in the patient because of a clinical determinati on 
+that the relative risk to the patient of searching for and removing the object exceeds the benefit of removal, this would not  
+be considered a reviewable sentinel event. However, in such cases, the organization shall (1) disclose to the patient the 
+unintended retention and (2) keep a record of the retentions to identify trends and patterns (for example, by type of 
+procedure, by type of retained item, by manufacturer, by practitioner) that may identify opportunities for improvement.  
+6 Source: Adapted from National Council on Radiation Protection and Measurements (NCRP): Outline of Administrative 
+Policies for Quality Assurance and Peer Review of Tissue Reactions Associated with Fluoroscopically Guided 
+Interventions. (https://ncrponline.org/wp-content/themes/ncrp/PDFs/State ment_11.pdf) and the US Food and Drug 
+Administration (FDA). Accessed July 20, 2021 
+7 Key Terms; Fire:  A rapid oxidation process, which is a chemical reaction resulting in the evolution of light and heat in 
+varying intensities. Source: National Fire Protection Association. NFPA 901: Standard Classifications for Incident 
+Reporting and Fire Protection Data. Quincy, MA: NFPA, 2016. 
+ 
+  
+o A patient with coagulopathy who receives blood products as a result of the fall  
+o Death or permanent harm as a result of injuries sustained from the fall (not 
+from physiologic events causing the fall)  
+ 
+ 
+In cases in which the hospital is uncertain that a patient safety event is a sentinel event as defined by 
+The Joint Commission, the event will be presumed to be a sentinel event and the hospital’s response 
+will be reviewed under the Sentinel Event Policy according to the prescribed procedures and time 
+frames. 
+ 
+Such events are considered “sentinel” because they signal a need for immediate investigation and 
+response.  All sentinel events must be reviewed by the hospital and are subject to review by The Joint 
+Commission if requested.  An appropriate response includes all of the following: 
+• A formalized team response that stabilizes the patient, discloses the event to the patient and 
+family, and provides support for the family as well as staff involved in the event 
+• Notification of hospital leadership 
+• Immediate investigation 
+• Completion of a comprehensive systematic analysis for identifying the casual and contributory 
+factors 
+• Strong corrective actions derived from the identified casual and contributing factors that 
+eliminate or control system hazards or vulnerabilities and result in sustainable improvement 
+over time 
+• Timeline for implementation of corrective actions 
+• Systemic improvement 
+ 
+All sentinel events will be identified and responded to appropriately as defined by the attached 
+guidelines (Appendix A).  Appropriate response includes: 
+a) Conducting a timely, thorough, and credible root cause analysis. 
+b) Developing an action plan designed to implement improvements to reduce risks;  
+c) Implementing the improvements; and 
+d) Monitoring the effectiveness of those improvements when deemed necessary. 
+ 
+II. Patient Safety Events that are Non-Sentinel Events 
+ 
+Sentinel events are one category of patient safety events.  Patient safety events also include no-
+harm events, close calls, and hazardous conditions, which are defined as follows: 
+• An adverse event is a patient safety event that resulted in temporary (non-sentinel) 
+harm to a patient 
+• A no-harm event is a patient safety event that reaches the patient but does not cause 
+harm. 
+• A close call (or “near miss” or “good catch”) is a patient safety event that did not reach 
+the patient. 
+• A hazardous (or “unsafe condition(s) is a circumstance (other than a patient’s own 
+disease process or condition) that increases the probability of an adverse event. 
+The hospital determines how it will respond to patient safety events that do not meet the Joint 
+Commission’s definition of sentinel event.  These types of events shall prompt notification of  
+hospital leaders, investigation, and corrective actions, in accordance with the hospital’s process 
+for responding to patient safety events that do not meet the definition of sentinel event.  (Refer 
+to Safety Event (Incident or Variance) Reporting Policy OO/GN/019).  An adverse event may 
+or may not result from an error. 
+ 
+No-harm events, close calls, and hazardous conditions are tracked via Safety Event system and 
+used as opportunities to prevent harm, in accordance with the hospital’s process for responding 
+to patient safety events that do not meet the definition of sentinel event.  (The scope of the 
+safety program includes the full range of safety issues, from potential or no-harm errors 
+[sometimes referred to as near misses, close calls, or good catches] to hazardous conditions and 
+sentinel events.) 
+ 
+ 
+SUPPORT DOCUMENTS: 
+Appendix A – Sentinel Event Guidelines 
+Appendix B – Sentinel Event Determination Form 
+ 
+ 
+ 
+REFERENCES: 
+"Sentinel Event Policy and Procedures | Joint Commission." The Joint Commission. January 2024 
+ 
+OLOL Policy OO/GN/019 Safety Event (Incident or Variance) Reporting  
+ 
+ 
+  
+APPENDIX A 
+ 
+SENTINEL EVENT GUIDELINES 
+1. Any significant adverse event observed or discovered should be reported per policy 
+immediately to the impacted department manager and House Manager.  The unit 
+manager and/or House Manager will then contact Risk Management and the 
+Administrator on Call (AOC).  The AOC will alert the CEO, COO and Senior 
+Management Team responsible for the impact department/unit, and Corporate 
+Communications to prepare for any necessary media responses.  Risk Management will 
+notify Quality Management/Patient Safety by the next working day.  A patient safety 
+report should be entered immediately. 
+2. With the assistance of the Quality/Patient Safety Department, the department/unit 
+leader will initiate the investigation which includes developing a timeline of events.  
+Initial findings will be presented to the Medical Director, Patient Safety & Quality, 
+Chief Medical Officer, Chief Nursing Officer or designee.  The Sentinel Event 
+Determination form (Appendix B) will be used to determine if the event is sentinel.  
+Once deemed sentinel, an RCA Team will be commissioned and must complete the 
+RCA framework within 45 days of discovery of the event.  The team shall include but 
+not be limited to:  
+i. Those team members directly involved in the event; 
+ii. Quality Management/Patient Safety; 
+iii. Risk Management; 
+iv. Regulatory Management 
+v. Unit/Department Managers impacted by the event; and a  
+vi. Senior Management Representative 
+3. Once deemed sentinel, the CEO will determine if the event will be reported to The Joint 
+Commission. 
+4. The RCA and action plan will be presented to the leadership team.  The RCA and 
+action plan shall include risk reduction strategies to be implemented by the team with 
+measures of success, responsible parties, and timelines for implementation. 
+5. If the RCA and action plan is not deemed thorough and credible by the leadership team, 
+the RCA team will meet to modify the plan.  The plan is then re-presented for approval. 
+6. The summary of the event with findings and risk reduction strategies will be presented 
+to the leadership team in an effort to promote transparency and shared learnings within 
+the organization. 
+7. Discussion of the error with the patient and/or family members should occur when 
+there is clear clinical significance or potential clinical significance to the error per 
+policy. 
+8. All analysis, changes, recommendations and measures related to the operational 
+processes will be maintained by the Quality/Patient Safety Department. 
+9. The Medical Staff’s Professional Practice Evaluation Committee will be responsible for 
+reviewing the physician component of the review. 
+    

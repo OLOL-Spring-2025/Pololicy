@@ -1,0 +1,349 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+ 
+Page 1 of 8 
+LBA076 
+ 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA076 
+SPECIMEN INTEGRITY 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 5/18/2023 5/31/2023 5/31/2023 
+Lab Administration Review J. Teague 5/30/2023 Origination Date 
+Laboratory Medical Director Review A Nunez 5/29/2023 10/2009 
+ 
+ 
+I. POLICY 
+The laboratory strives to establish and maintain the quality of samples submitted for testing 
+through all phases of analysis:  pre-analytic, analytic, and post-analytic in order to meet or 
+exceed Patient Safety Goals. The accuracy of an analytic result depends on the initial quality 
+of the specimen, including adherence to pre-analytic parameters for the ordered test.  Proper 
+collection techniques are essential. 
+II. PROCEDURE 
+A. Pre-Analytic 
+Each collection of a specimen can represent a hazard to the patient.  In the pre-analytical 
+phase of testing, specimens must be handled appropriately from the moment they are 
+obtained to the moment they are tested.  Compromised specimens can occur when a 
+container is mislabeled or unlabeled, when a container is not transported to the lab at a 
+specific temperature, or not transported to the lab within a specific time frame. Vital 
+collection information can be lost when the specimen isn’t collected appropriately in the 
+computer system. 
+1. Patients will be identified using a “2ID” or “3ID” process to improve sample 
+identification at the time of specimen collection. 
+2. Specimens will be labeled at the time of collection, in the presence of the patient.  
+Pre-labeling tubes with patient information is prohibited. 
+3. Collection, including capturing all necessary collection information, will be 
+completed prior to sending specimens to lab for testing.   
+4. Retrievable vs Irretrievable Specimens 
+a. Retrievable Specimens - Specimens that are considered easily recollected, 
+with minimal or no negative impact on the patient and can be characteristically 
+representative of the original specimen. 
+i. Blood 
+ii. Urine 
+iii. Swabs OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+ 
+Page 2 of 8 
+LBA076 
+iv. Sputum 
+v. Stool 
+vi. All Transfusion Services testing samples – see section 4b. 
+b. Transfusion Services testing samples (Type and Screen, Draw and Hold, 
+Prepare RBC, and ABO/Rh) are NEVER allowed to be relabeled.  NO 
+EXCEPTIONS.  They must be redrawn.  These specimens must be labeled 
+with the patient’s full name, Blood Bank Identification number, and a 2nd 
+Patient identifier.  Date/Time drawn, and the identity of the collector may be 
+documented electronically but must be included on the specimen when 
+electronic documentation is not available.  Transfusion Services specimens 
+without all necessary patient identification will be rejected and must be 
+recollected. 
+c. Irretrievable Specimens - Specimens that cannot be easily recollected, have 
+the potential to cause significant negative impact to the patient, and any 
+recollection that will not absolutely represent the original sample and can be 
+identified with a reasonable degree of certainty may be considered 
+irretrievable. Irretrievable specimens are usually obtained via invasive 
+procedures.  The following list is not all inclusive.  Refer to appropriate 
+supervisor or pathologist for exceptions requested by the physician. 
+i. CSF (cerebral spinal fluid) 
+ii. Body Fluid 
+iii. Cytology Specimens 
+iv. Tissue specimens (biopsies, resections, etc.) 
+v. Culture samples collected prior to antibiotic therapy 
+vi. Extremely difficult sticks 
+vii. Pediatric urine specimens 
+viii. Other Pediatric Specimens as determined by treating providers 
+5. Criteria for Specimen Rejection – Recollect Required 
+a. Unlabeled 
+i.   No label affixed to the innermost specimen container.  
+ii. Specimen label does not contain 2 patient identifiers.   
+iii. Specimen label is unreadable. 
+iv. All specimens must contain – 2 Patient-Specific Identifiers.  
+Acceptable identifiers include:  
+1. Name 
+2. Date of Birth (DOB) 
+3. Medical Record Number (MRN) 
+4. Accession Number – Scannable barcode or complete readable 
+numbers 
+5. Social Security Number (SSN) 
+6. LabCorp Number – acceptable for LabCorp Outpatient 
+specimens only OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+ 
+Page 3 of 8 
+LBA076 
+v. Specimens containing 2 patient-specific identifiers listed above may be 
+relabeled by licensed laboratory staff if the label is compromised.  
+Specimen integrity will be maintained by double checking the 2 
+identifiers on the original label against the 2 identifiers on the new 
+label.  Examples include but are not limited to: 
+1. Original label is placed horizontally around the tube and can’t be 
+read by barcode scanner. 
+2. Original label can’t be read by barcode scanner due to weak or 
+skipped printing.  
+3. Misalignment of label printer has caused a portion of the name 
+and/or MRN to be cut off and 2 other acceptable identifiers such 
+as DOB and Accession number are present. 
+4. Specimens missing 2 acceptable identifiers must not be relabeled 
+unless they are considered irretrievable. See section A6c. 
+b. Mislabeled – Wrong blood in tube 
+i. Specimens with two different patient chart/specimen labels  
+ii. Specimens with incorrect patient label 
+c. Unusable Specimen due to Improper Collection – These specimens are of 
+poor quality and are highly likely to produce inaccurate results.  Lab Team 
+Members are trained to detect and reject unusable specimens.  Poor quality 
+specimens will be rejected at the lab’s discretion. Clotted or other unusable 
+specimens that have potential to harm instruments will not be tested.  
+Examples of unusable specimen below are not all inclusive: 
+i. Specimens collected in the wrong media, collection device, or 
+anticoagulant which are not acceptable for testing per manufacturer’s 
+package instructions. 
+ii. Proper storage requirements not followed. 
+1. Room Temperature 18-25°C 
+2. Refrigerated 2-8° C 
+3. Frozen -15° C or colder 
+iii. Proper collection procedures not followed.  
+iv. Grossly hemolyzed samples 
+v. Specimen is of insufficient quantity (QNS) 
+vi. Specimen is from unacceptable source or is wrong sample type 
+vii. Specimen received outside of acceptable testing time frame (ex. 
+semen analysis, coagulation testing, etc.) 
+viii. Specimen is clotted (if this is contraindicated for a specific test) 
+ix. Improper blood to anticoagulant ratio 
+x. Improper specimen to preservative ratio 
+xi. Contaminated with other body fluids or IV fluids 
+xii. Specimen emptied/spilled into biohazard bag 
+xiii. Incorrectly timed OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+ 
+Page 4 of 8 
+LBA076 
+d. Requisition vs Specimen Discrepancy – Patient identification must match 
+both name and 2nd identifier between the specimen and test requisition.  Where 
+applicable, source/site must also match between specimen(s) and test 
+requisition to be acceptable. 
+e. Collection Information Incomplete – The following information may be 
+documented electronically rather than on the specimen label.  Collection 
+information must be complete and available. These omissions DO NOT require 
+that the specimen be recollected. If any collection information is missing the 
+specimen(s) will be considered “Incomplete Collection”.  Specimens submitted 
+to the lab prior to completing all required collection information will not be 
+accepted or tested by the lab until the collection is appropriately documented in 
+EPIC by the responsible collector or other responsible team member.   
+Laboratory will return the specimen(s) to the collection area accompanied by 
+the “Specimen Collection Incomplete” notification form (LBA076-D) so that 
+missing collection documentation can be completed.   
+i. Date of collection 
+ii. Time of collection 
+iii. Identity of the Collector 
+iv. Specimen source (ex. Blood, Urine, Fluid) 
+v. Specimen Site (ex. Vein, central line, pleural fluid) 
+6. Specimen Rejection Process – Inpatient and FMOLHS Facilities 
+a. The patient’s nurse or the unit’s charge nurse will be contacted by lab staff and 
+advised of need to recollect the specimen.  Communication may occur through 
+phone or Voalte notification.  Retrievable Specimens should always be 
+recollected. 
+b. Retrievable Specimen 
+i. Lab staff will “redraw” the specimen in EPIC.  The specimen will 
+return to “draw list” to be collected. 
+ii. Lab staff must document in the “redraw” comments:  reason for 
+redrawing and the person notified. Can use “.rej” to produce canned 
+verbiage.  
+iii. Discard Specimen 
+iv. If multiple specimens/departments are involved, the team member that 
+detects the issue will notify other departments as needed to have 
+specimens redrawn. 
+v. Downtime - Use form LBA076-A Inpatient Mislabeled/Unlabeled 
+Specimen form for retrievable specimens only if specimen cannot be 
+marked for “redraw” in epic.  Ex.  Computer Downtime or Manual 
+Process needed (Specimen is completely unlabeled, and Patient cannot 
+be identified).  
+c. Irretrievable Specimen - Recollection not an option  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+ 
+Page 5 of 8 
+LBA076 
+i. Team Member who collected and mislabeled the specimen or other 
+available designee willing to take responsibility must come to the lab 
+to identify and correct the specimen.   
+ii. Form LBA076-A - Inpatient Mislabeled/Unlabeled Specimen Form 
+will be filled out by lab staff. 
+iii. All corrections will be witnessed by a Lab Team Member.  As a 
+witness, it is the responsibility of lab staff to ensure that the form is 
+completely and correctly filled out. 
+iv. Deliver sample to department to run. Notify the department that the 
+specimen is questionable. 
+v. Result interpretation caution will be added to the chart comments by 
+the resulting technologist by using “.rela” to produce canned verbiage 
+informing the physician that the specimen has been relabeled and 
+results should be interpreted with caution. 
+vi. Forward completed Form LBA076-A - Inpatient Mislabeled/Unlabeled 
+Specimen Form to the Compliance Officer for file. 
+d. Irretrievable Specimens tested by Pathology Group of Louisiana (PGL) 
+Irretrievable specimen errors detected by PGL will be forwarded to the 
+applicable facility’s lab to facilitate onsite correction by the responsible area.   
+i. PGL will notify applicable Lab.  
+ii. The affected specimen(s) will be returned to the lab for correction. 
+iii. Lab will follow process outlined in steps C.3.a-f. 
+iv. Corrected specimens will be returned promptly to PGL for 
+processing/testing and PGL will add any necessary cautions for 
+interpretation by physician. 
+e. FMOLHS Facility Labs 
+OLOLRMC Main and Affiliate Labs (Ascension, Assumption, Children’s 
+Hospital, Livingston, North Baton Rouge, and Woman’s MOB Lab) as well as 
+other FMOLHS Labs (Lourdes, St. Francis, Angels, St. Dominic, etc.) may 
+refer Inpatient specimens to each other for testing independently of the Lab 
+Corp Outreach business agreement.  Any issues with these specimens will be 
+treated as listed above.  Irretrievable specimens that can’t be transported back 
+to the collecting facility will be corrected using the Outreach 
+Mislabeled/Unlabeled Specimen Form (LBA076-E). 
+7. Outpatient Specimen Rejection Process  
+FMOLHS Outreach Business is owned and operated by LabCorp.  Through a reverse 
+lab agreement and at the discretion of LabCorp, Outreach specimens may be routed 
+to OLOLRMC Main or Affiliate Labs for testing.  The following is the established 
+process for specimen rejection per LabCorp SOP. 
+a. Retrievable Specimen OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+ 
+Page 6 of 8 
+LBA076 
+i.  Lab staff will complete the LabCorp “Test In Question (TIQ)” form 
+and fax to LabCorp’s provided number. 
+ii. If multiple specimens are involved, the team member that detects the 
+issue will notify other departments of error as needed. 
+iii. Retrievable specimens will be discarded.  Do not run specimens 
+manually. 
+iv. Cancel applicable orders in epic using the appropriate rejection reason. 
+v. Forward completed paperwork to Compliance Officer for file. 
+b. Irretrievable Specimen - Recollect not an option 
+Irretrievable Outpatient specimens should remain limited to specimens 
+collected by a Physician/PA/NP.  Facilities such as Baton Rouge Orthopedic 
+Clinic (BROC), Surgical Specialty Center (SSC), and Lake Surgery Center 
+may have specimens collected by both OR Physicians and LabCorp 
+phlebotomists.  NOTE: Facilities listed may not be all-inclusive. Specimens 
+collected incorrectly by LabCorp phlebotomists will be considered retrievable 
+and will be rejected following the process outlined in section 7ai-v. 
+i. Physician’s Office will be faxed form LBA076-E - Outreach 
+Mislabeled/Unlabeled Specimen Form  
+ii. The form must be completed by an individual willing to take legal 
+responsibility for the correction before the test will be resulted in the 
+computer.   
+iii. Specimens will be tested offline, and results documented on 
+manual/downtime form.   
+iv. Hold results until resolution from Physician’s Office or until 3 days 
+have passed. If no resolution after 3 days, notify Lab/Department 
+Supervisor.  Supervisor will attempt to get correction completed. 
+Document all attempts at correction. 
+v. If no resolution after 7 days, notify Compliance Officer who will 
+discuss with a pathologist to determine next steps.   
+vi. Results will not be given until the form is complete. 
+vii. Once form is complete, results may be entered into the computer. 
+viii. Result interpretation caution will be added to the chart comments by 
+the resulting technologist by using “.rela” to produce canned verbiage 
+informing the physician that the specimen has been relabeled and 
+results should be interpreted with caution. 
+ix. OLOLRMC Lab and Affiliate labs do not return mislabeled or 
+unlabeled specimens.  If there is a request that the specimen be 
+returned, notify a Lab Supervisor (on-call if needed) and the General 
+Pathologist (or pathologist on call).  DO NOT return rejected 
+specimens without authorization from Supervisory Staff. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+ 
+Page 7 of 8 
+LBA076 
+B. Analytic 
+1. Specimens received in the lab should remain labeled at all times.  When aliquoting is 
+required, specimen integrity will be maintained by double checking the 2 identifiers 
+on the original tube against the 2 identifiers on the aliquot tube before pouring off. 
+2. When pipetting is necessary to transfer aliquots, one disposable pipet is used per 
+patient. 
+3. Aliquoting is never to be performed where there is a likelihood of cross-
+contamination due to splashing.  If a lab accident occurs in which cross-
+contamination is suspected, all specimens involved must be recollected unless more, 
+uncontaminated specimen is available. 
+4. Specimens shared between departments and specimens that may not be easily 
+retrievable if testing is not performed within acceptable time and/or temperature 
+limits may be investigated at technologist discretion or at the request of a healthcare 
+provider.  Existing patient orders intended for a specimen that has already been 
+collected and received in the laboratory but have not been documented as collected 
+in the computer system, may be documented as collected by lab staff to ensure all 
+needed patient testing is performed.  Lab staff will use the collection information 
+(collector, date, and time collected) already attached to the specimen.  All lab staff is 
+trained in manual/downtime documentation entry. 
+C. Post-Analytic 
+1. Questionable Results - Technical staff will review results that cause delta checks 
+and may consult with the nurse or physician responsible for the patient if results are 
+inconsistent with patient history.  Questionable results may result in recollection. 
+a. Comm log should be initiated for documentation of communication regarding 
+questionable results. 
+b. Scripting - “Are these results expected for this patient?”  
+c. If results are expected, tech will document in comm log and verify results in 
+the system. 
+d. If results are not expected, tech will document in comm log and mark 
+specimen for “redraw”. 
+2. Registration or Identification Errors - In the event of a mis-registration that is not 
+revealed until testing is complete, the patient will be re-registered correctly and the 
+results from the incorrect patient will be credited. In the event of a misidentification 
+that is not revealed until testing is complete, the patient(s) involved will be 
+recollected and results will be credited or corrected as applicable.  
+a. Remove results from computer (Epic will accept blank values). 
+b. Enter comment in computer as to why results are being corrected/removed. 
+c. Credit Patient 
+d. Notify appropriate Healthcare provider of the corrected report and document 
+notification in the Comm Log using the Topic “corrected results”. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+ 
+Page 8 of 8 
+LBA076 
+3. Corrections - Any event requiring a corrected laboratory report to be submitted will 
+be called to an appropriate clinical representative and appropriately documented. 
+4. When multiple specimens/departments are involved, the team member that detects 
+the issue will notify other departments as needed to have specimens redrawn or 
+corrected as applicable. 
+D. Specimen Integrity Monitoring – Quality Assurance Review 
+Rejected specimens with focus on patient safety affecting mis-collections (Unlabeled, 
+mislabeled, and improper collections) are monitored monthly to identify trends.  Data 
+regarding specimen integrity is posted on Lab’s TeamLink SharePoint site Quality folder 
+and is available to Department Supervisors, Nurse Managers, and Attending Physicians. 
+Data includes units involved as well as names of individual collectors and tally of mis-
+collected specimens per collector.  Re-training, counseling, and/or disciplinary action is 
+recommended for employees or units with repeated errors. Increased frequency of high-
+risk errors is reported by the Compliance Officer at Laboratory Quality meetings and at 
+other Organizational Committee meetings as needed.  
+III. REFERENCES 
+CAP Standards:  GEN.40490, GEN.40491, GEN.40492, GEN.40825 
+IV. ASSOCIATED POLICIES 
+OrgClin018 - Patient Identification/Alert Bands  
+NBL004 - Properly Labeling Lab Specimens  
+NBL002 - Blood Bank Specimen Collection… 
+Phlebotomy Specimen Collection Manual 
+V. REVISIONS 
+10/2009 (created), 3/24/15, 10/4/17, 4/15/18, 10/20/2020, 5/18/2023 

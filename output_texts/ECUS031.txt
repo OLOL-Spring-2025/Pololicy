@@ -1,0 +1,114 @@
+ ECUS031 
+Page 1 of 3 
+OUR LADY OF THE LAKE HEALTHREGIONAL MEDICAL CENTER 
+Policy Manual: Environment of Care Section: Utilities Management 
+Title: Utilities Failure - Generator 
+Policy 
+Reference #: ECUS031 
+Supersedes #:  
+Date of Origination: January 2018 Review Date: 12/27/2022 10/31/2024 
+Revision Date: 02/26/20, 10/31/24 
+ 
+ 
+POLICY: 
+If the emergency generator power system should fail, Our Lady of the Lake Health Regional Medical 
+Center will implement interim life safety measures to protect patients, staff, and visitors. 
+ 
+PROCEDURES: 
+1. Each emergency generator system is tested and inspected based on NFPA® 110 standards, state 
+requirements, and manufacturer recommendations.  If a generator/Emergency Power Supply 
+System should fail during a test, or during actual operations, or at other times, it will be repaired 
+as quickly as possible.  (If it cannot be returned to service and pass the monthly test within the 
+same 12-hour shift, a backup generator will be brought in and connected for use until the primary 
+generator can be repaired and pass the test). 
+ 
+2. A risk assessment will be performed, based on factors such as other available connected 
+generators within the system that could take over the same load, the time to repair the engine, 
+and the availability of replacement generators.  Additional factors include the ability to move 
+patients to areas not affected by the failure, and the potential consequences’consequences of the 
+failure.  If the system cannot be repaired within a few hours, a backup generator will be required 
+and installed. 
+ 
+3. Once that generator is installed, it will be tested with the existing emergency power system 
+components in place, andplace and must pass the monthly test as required.  This generator must 
+remain in place until the prime generator is ready to return to service, andservice and has passed 
+the test.  Only after the prime generator is tested can the backup generator be removed from 
+service.   
+ 
+4. If the prime generator provides power to the Operating Rooms and other emergency areas, these 
+areas must not be used until an operating, tested generator is in place.  As soon possible, patients 
+should be moved from areas served by the failed generator to areas served by an operating 
+generator until a functional generator is in place. 
+ 
+5. The repaired generator must be tested, and pass test, following appropriate repairs and/or prior to 
+disconnection and removal of the backup emergency generator.  The backup emergency 
+generator must be tested on a monthly schedule just as the primary set until the installed 
+generator is back in service and tested.  ECUS031 
+Page 2 of 3 
+ 
+6. Whether the Incident Command System (ICS) is implemented will depend on the coverage of the 
+damaged generator and the ability of other generators to take up the load of the failed generator.  
+If significant services or section of the hospital are affected, the ICS should be activated until the 
+backup generator is in place and tested. 
+ 
+REFERENCES: 
+Joint Commission, Environment of Care (EC).02.05.07 
+Element of Performance (EP) 4, weekly inspections 
+EP 5. Monthly testing for at least 30 minutes 
+EP 6. Monthly testing with a dynamic load of at least 30% 
+EP 9. Every 36 months, test for a minimum of four continuous hours 
+EP 10. Every 36 month test uses a dynamic or static load of at least 30% ECUS031 
+Page 3 of 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power and generator failure. 
+Determine extent of the problem,  
+location, and circuits involved. 
+Determine needs of critical care and OR patients. 
+If needed, evacuate patients that need support  
+to an area of the facility that has power.  
+Evaluate estimated time of repairs.   
+ 
+ 

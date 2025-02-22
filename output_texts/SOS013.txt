@@ -1,0 +1,43 @@
+ 1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: 
+ 
+Surgical Services 
+ 
+Section/Chapter: Administration 
+Title: Steam Outage for Autoclave Policy Reference #: SOS013 
+Supersedes #: 11/29/90; 09/26/91 
+Date of Origination: 11/29/1990 Review Date: 01/09/2025 
+Revision Date: 12/20/2021 
+ 
+ 
+ 
+PURPOSE: 
+To provide direction during a steam outage, shutdown, or event that effects the sterilizer. 
+ 
+ 
+PROCEDURE: 
+Plant Services 
+1. Plant services will notify the Senior Divisional Director of Surgical Services or 
+designee, sterile processing, and the operating room area in the event of a steam 
+outage. A restoration time will be given so that daily operations can be assessed.  
+ 
+O.R. and SPD 
+1. The Nurse Manager or designee in the Operating Room and /SPD Dept. will turn off 
+the autoclaves and place a "Do Not Use" tag on them. 
+ 
+2.  The water temperature in the lines affects the STERIS units. If the temperature is too 
+hot or too cold the units will shut down.  Plant Services and STERIS must be called.  
+When temperature is resumed the units may be used after performing a warmup 
+cycle and then completing one biological test must verified before the sterilizer is 
+released for use. 
+ 
+3. Installation of a new autoclave, any major repairs to an autoclave or an event that 
+affects the sterilizer (steam shutdown), quality testing must be performed to include 
+a. Three consecutive Bowie-Dick tests 
+b. Three consecutive biologicals in an empty load 
+2. Results of biological indicator’s and Bowie-Dick tests must be verified 
+before the sterilizer is released for use. 
+ 
+Reference:  
+Policy SOS005, Biological Indicators (Spore Testing) for Steam Sterilization  

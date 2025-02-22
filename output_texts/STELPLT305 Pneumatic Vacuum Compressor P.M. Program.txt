@@ -1,0 +1,69 @@
+OUR LADY OF THE LAKE ASCENSION   
+ 
+POLICIES AND PROCEDURES: 
+  
+PLANT OPERATIONS 
+EFFECTIVE DATE: 
+  
+1/95 
+NUMBER:   STELPLT305 
+SUBJECT: 
+Pneumatic Vacuum Compressor P.M. Program 
+Page 1 of 1  
+Reviewed/Revised: 
+1/01, 09/02, 10/03, 12/04, 12/05, 12/06, 12/07, 12/08, 12/09, 8/12, 
+6/15, 3/18, 10/19, 7/21 
+APPROVED BY: 
+Justin Brown 
+  
+  
+APPLIES TO: 
+  
+            Plant Operations 
+  
+POLICY: 
+  
+            There are readings taken and operational checks made daily.  Monthly and annual 
+servicing is performed on all pneumatic vacuum compressors. 
+  
+SCOPE: 
+  
+Applies to all Engineering team members so to maintain equipment efficiency and to prevent sudden 
+breakdowns. 
+  
+PROCEDURE: 
+  
+            Daily Preventative Maintenance 
+  
+            1.  Record running vacuum pressures. 
+            2.  Check oil level at sight glass. 
+            3.  Note run time on each unit 
+  
+            Monthly Preventative Maintenance 
+  
+             1.    Check overall operations. 
+2.     Lubricate areas as needed. 
+ 3.    Correct all air or oil leaks. 
+4.  Clean equipment.  UNITS MUST BE KEPT CLEAN. 
+5.  Oil is changed very six (6) weeks. 
+6.  Check gauges, lights and alarms 
+ 
+Annual Preventative Maintenance (to be completed by a qualified Med Vac Vendor) 
+  
+ 1.   Inspect starter contacts for wear.  Clean as needed. 
+ 2.   Check for loose connections in the plumbing and electrical systems and correct. 
+3. Repaint any other accessories if paint is chipping or corrosion is found  
+4. Read motor ampere.  All leads should read close to the same.  Take corrective action as needed.      
+5. Filters are changed annually for each compressor. 
+  
+RESPONSIBILITY:   Plant Operations 
+ 
+Revised 12/04: Changed Approved By 
+No Changes: 12/05 
+Revised Changes 12/06: Under Daily PM No. 1; we changed from “start and stop” to “running”, No. 2; delete out all together, No. 3 remove “drip ratio” to 
+“level at sight glass.  Monthly PM No. 2 & 3 remove all together and No. 5 changes from “Monthly” to “Annual”.  Added to Mont hly stating that the “oil 
+is changed every six (6) weeks and added to the Annual that “filters are changed every 3500 hours for each compressor.  8/12-updated prev main info,  
+6/15 No Changes, 3/18 No Changes, 10/19 Name Change, 7/21 no change    
+                 
+  
+  

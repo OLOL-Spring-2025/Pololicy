@@ -1,0 +1,83 @@
+ 
+OS008 
+1 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Oncology Support  
+SUBJECT:  
+Cancer Registry Quality Control (CoC S6.1) - Oncology 
+PAGES: 
+2 
+REPLACES POLICY (NUMBER/DATE): 
+N/A 
+ORIGINAL EFFECTIVE 
+DATE: 4/1/22 
+REVISIONS EFFECTIVE: 
+03/15/24 
+DATE LAST REVIEWED: 
+03/15/24 
+POLICY NUMBER: 
+OS008 
+ 
+SCOPE: 
+Applies to Franciscan Missionaries of Our Lady Health System, Inc. (FMOLHS) and its wholly owned sponsored 
+organizations that propose and adopt System wide policies. 
+PURPOSE: 
+To provide guidelines to ensure high-quality cancer registry data collected in the Our Lady of the Lake Cancer Institute 
+(OLOLCI) cancer registry. 
+POLICY: 
+ This policy explains the activities used to evaluate the quality of cancer registry data and activity.   
+DEFINITIONS: 
+  
+PROCEDURE: 
+I. The Cancer Registry Quality Coordinator will work with the registry staff and other departments to oversee and 
+implement the quality control policy and procedure.   
+II. The OLOLCI cancer registry quality control policy will include the following elements:  
+a. Review criteria will include at least 10% of the annual analytic caseload (up to 200 cases annually) and 
+will include cases from each of the Oncology Data Specialists (ODS) abstracting cases within the 
+OLOLCI cancer registry. 
+b. The quality review will be performed on a monthly basis by the CoC Program Manager, who is an ODS 
+in good standing. 
+c. Quarterly audits will be performed by the Louisiana Tumor Registry (LTR) and reported to the OLOLCI 
+Cancer Registry through LTR’s Data Quality Indicator (DQI) report.  A percentage of these external 
+audits will be counted towards meeting the 10 percent of the annual analytic requirement.  
+III. The following areas will be evaluated for all analytic cases: 
+a. Case Finding 
+b. Abstracting timeliness 
+c. Percentage of information coded as unknown (will also utilize the NCDB Data Completeness Reports) 
+ 
+OS008 
+2 
+IV. The accuracy rate will be set at 90% for the following areas of the annual quality review. 
+a. Class of case 
+b. Primary site 
+c. Histology 
+d. Grade 
+e. AJCC or other appropriate staging system as appropriate for cancer site 
+f. First course of treatment 
+g. Follow-up information 
+i. Date of first recurrence 
+ii. Type of first recurrence 
+iii. Cancer status 
+iv. Date of last cancer status 
+V. Cancer registry data submitted to the NCDB will meet the established quality and timeliness criteria included in 
+the annual NCDB Call for Data. 
+VI. Documentation of the quality control activity will include a copy of the completed excel tracking form titled, 
+“Quality Review” that includes all of the quality review data items, overall compliance score and comments 
+from the reviewer as well as the registrar who abstracted the original case.  
+VII. The results of the cancer registry abstract quality review will include the percentage of accuracy for all areas 
+evaluated.  Recommendation and any necessary action plan to address area(s) that fall below the established 
+accuracy rate, will be reported to the cancer committee at least annually.  Discussion will also be documented in 
+the cancer committee minutes.  
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+STATUTORY/REGULATORY AUTHORITY: 
+N/A 
+ATTACHMENTS:  
+Cancer Registry Quality Control excel tracking sheet “Quality Review” 
+ 
+Policy Oversight by:  Amy Wall 
+ 
+TITLE Manager, Cancer Registry 
+ 

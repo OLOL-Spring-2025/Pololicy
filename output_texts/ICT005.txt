@@ -1,0 +1,71 @@
+ 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  IV Access and Injection of Contrast Media Section:  CT / MRI 
+Date of Origination:   Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+August 2014 
+01/15, 01/17, 12/17, 5/19, 1/21/ 3/23, 
+2/24 
+Serial Code:  ICT 005 
+  
+PURPOSE: To establish guidelines for evaluating safe IV access and conforming to accepted 
+guidelines with regards to the injection of IV contrast material.  
+ 
+POLICY:               Authorized personnel will access and safely administer contrast media according to 
+procedure. 
+ 
+PROCEDURE: 1. Contrast media will be stored in a secure area accessible by authorized personnel only 
+and stored in an environment suggested by the manufacturer. 
+              2. The technologist may inject patients only if the following criteria are met: 
+    A. State mandated guidelines are followed.     
+ B. The technologist appropriately documents the type and amount of contrast     
+injected.   
+ C. All incidents must be reported within twenty-four hours to the supervisor.  This 
+includes, but is not limited to, reactions, misadministration, and infiltration. 
+ D. Injections are to be administered through a 22 gauge or larger IV catheter in 
+the mid forearm or higher, with the exception of CT angiograms and pulmonary 
+embolism studies which require a 20 gauge or larger in the mid forearm or higher. 
+ 
+Should a patient arrive with a patent IV access in a location or size different than 
+listed above, it is to the Radiologist discretion if the current access may be used. 
+ 
+Power PICCS may be injected with the power injector up to a rate of 5ml/sec with 
+a psi setting of 300.  No other PICC lines may be used for power injected contrast. 
+ 
+ Mediports may only be used in the event no peripheral line could be obtained and 
+with Radiologist approval.  Mediports are to be hand injected except for the 
+power ports.  Power ports may be power injected with a rate of 5ml/sec and a 
+maximum PSI of 300.   If being used for a power injection, the power port must 
+be accessed using a power port access needle that indicates it is power injector 
+compatible.  No other access kits are to be power injected through. 
+ 
+Central lines may only be power injected in the event no peripheral line could be obtained and with Radiologist approval unless the catheter is designed for power 
+injection and states the acceptable rate on the catheter.  If a routine central line is 
+used for power injection, the injector must be lowered to a setting of maximum 50 
+psi with a flow rate of 2.5ml/sec or less. Power injectable central lines may be 
+used with the flow rate stated on the catheter hub.  
+If CT Angio is ordered with a non-power rated central line, CURRENT IV access 
+will need to be changed to a power injectable line.  (9 French Cordis sheaths are 
+acceptable at a rate of 4ml/sec for CT Angio) 
+ 
+ 3. Question patient regarding any history of allergic reactions to medicines or contrast 
+media. 
+                 4.  Make positive identification of the patient and contrast prior to the injection. 
+ 
+  5.  Ensure all appropriate PPE is available as well as any other needed supplies.  
+    
+6.  After injection, observe patient for any adverse reactions. The most common, are 
+headache, nausea, rash, flushing of face and itching.  
+ 
+7.  In the event of severe reaction, notify radiologist or physician on site immediately. 
+ 
+8.  In the event a repeat procedure is required, the radiologist will determine the 
+appropriate interval of time before reinjection as well as the amount of contrast needed.  
+   
+ 
+  
+ 

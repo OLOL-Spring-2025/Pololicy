@@ -1,0 +1,58 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Blood Gas Lab 
+Subject:  Operation of the EPOC Blood Gas 
+Analyzer Section: Volume 4 
+Date of Origination:  April 1, 2012 Signature: 
+Date of Last Revision:January 31, 2024 Serial Code: RC9-20A 
+                 Reviewed: January 31, 2024 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to ascertain the following actual values from blood-pH, pCO2, 
+pO2, Na, K, Ca, Glucose and in addition these calculated values-base excess, bicarbonate, 
+and carbon dioxide content.  It will also define how to order, log-in, enter/verify every lab 
+result, and save it in the EMR (electronic medical records). 
+ 
+EQUIPMENT: 
+A. Epoc Reader and Epoc Host 
+B. Test Cards 
+C. Heparinized blood sample 
+D. Unsterile gloves 
+ 
+SAMPLING PROCEDURES: (All sampling procedures will be in accordance with 
+the manufacturer’s recommendation, located in the operator’s manual).  
+ 
+A. Verify the machine is ready to analyze a sample. 
+1. Turn on the epoc Reader and epoc Host. 
+2. Start the log in to the epoc Host. Connect the Host to the Reader. 
+3. Start the test. 
+4. Insert a new Test Card into the Reader. 
+5. Enter patient ID, select tests and Type of Sample (arterial, capillary, venous) 
+6. Allow the epoc Reader to calibrate. 
+7. Mix the blood well. Insert the syringe or capillary tube completely into the 
+sample port to prevent leakage. 
+8. Introduce blood sample into Test Card. 
+9. Observe results and optionally print test results. 
+10. Remove Test Card and discard in a biohazard trash receptacle.  
+ 
+ 
+ 
+  B. Preparation of the EMR to receive blood gas result 
+1. In the EMR, order the appropriate sample type and analytes. 
+2. Print the sample barcode and scan to collect the specimen. Change the 
+collection time to the correct time the test was performed. 
+3.         Log the accession number into the EMR to receive the specimen. 
+4. Patient’s blood gas results and settings will be manually entered into the 
+patient’s EMR. Verify all patient information and results are correct prior to 
+final verify.  
+5. For manual entries, print the ticker tape from the analyzer and the EPIC 
+Blood Gas Report per the manual entry procedure. Place them in the manual 
+entry folder for review by the Blood Gas Lab Supervisor. 
+ 
+ 

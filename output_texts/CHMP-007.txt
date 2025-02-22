@@ -1,0 +1,120 @@
+CHMP-007 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Medication/Pharmacy 
+Subject:  Antibiotic Lock Therapy  Section:  Medication/Pharmacy 
+Date of Origination:  April 11, 2013 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+ 
+June 7, 2024 
+Serial Code:  CHMP-007 
+  
+PURPOSE: 
+ 
+To develop guidelines for the use of antibiotic lock therapy in the treatment of non-hemodialysis central line-
+associated blood stream infections (CLABSI), central venous line (CVL) infections, and any other indication 
+deemed necessary. 
+ 
+DEFINITIONS: 
+ 
+Antibiotic lock therapy consists of filling and closing a central venous catheter lumen with an antibiotic solution 
+and then allowing it to dwell for a period of time while the catheter is idle.  Antibiotic lock therapy should not be 
+used alone for the treatment of CLABSI.  Instead, it should be used in conjunction with systemic antimicrobial 
+therapy.  Several antibiotics have been used in antibiotic lock therapy, with vancomycin and gentamicin being 
+the most commonly utilized.   
+ 
+POLICY: 
+ 
+I. Patient Selection for Antibiotic Lock Therapy 
+ 
+Antibiotic lock therapy is indicated for patients with CLABSI involving long-term catheters with no signs of 
+exit site or tunnel infection for whom catheter salvage is the goal. 
+ 
+II. Prescribing 
+ 
+A. Antibiotic lock therapy may be ordered with consultation of Infectious Diseases recommendation.  The 
+prescriber will enter an order denoting the specific solution requested the exact volume of solution to be 
+instilled into the catheter, and how often each dwell will last. 
+            To estimate the volume of the central venous catheter, the nurse will use one of the following methods: 
+1. The following table can be used if the length of the central catheter is known: 
+ 
+Type of CVC Catheter size 
+(internal diameter) Number of lumens Volume (mL) 
+Broviac 2.7 Fr Single 0.15 
+Broviac 4.2 Fr Single 0.3 
+Broviac 6.6 Fr Single 0.7 
+Hickman 9.0 Fr Dual 1.3/0.6 
+Hickman 7.0 Fr Dual 0.8/0.6 
+Hickman 9.6 Fr Single  1.8 
+Hickman 12.5Fr Triple 1.6/0.7/0.7 CHMP-007 
+Page 2 of 3 
+ 
+2. To estimate the central venous catheter, the nurse will use a syringe and measure the volume required 
+until the first drops of blood enter the syringe.  This is the volume of the central venous catheter lumen.   
+a. The prescriber will add an additional 0.1 mL to this measured volume for patients < 15 kg or an 
+additional 0.2 mL to this measured volume for patients ≥15 kg to ensure the volume of the 
+antibiotic lock covers the entire length of the central venous catheter lumen.   
+b. The maximum antibiotic lock volume is 3 mL.   
+c. An order should be entered to inform all patient caregivers of the estimated volume of the central 
+venous catheter lumen. 
+ 
+3. If unable to determine the volume of the central venous catheter lumen using the methods mentioned in 
+either “1” or “2”, the following table can use used to estimate the volume of the central venous catheter: 
+ 
+Weight of patient (kg) Volume of antibiotic lock if 
+undetermined volume 
+0-4.9 0.1 mL 
+5-9.9 0.2 mL 
+10-14.9 0.3 mL 
+15-19.9 0.4 mL 
+20-24.9 0.5 mL 
+25 or greater 0.7 mL 
+           Data supplied by Daniel H. Teitelbaum, MD, University of Michigan, C.S. Mott Children’s Hospital 
+ 
+B. The following antibiotics may be ordered for antibiotic lock therapy: 
+1. Vancomycin 5 mg/mL in NS 
+2. Gentamicin 5 mg/mL in NS 
+3. Cefazolin 10 mg/mL in NS 
+4. Any other antibiotic requested for antibiotic lock therapy will require consultation and approval by 
+the Section of Infectious Diseases and Pharmacy. 
+ 
+III. Administration 
+ 
+A. Administration of the antibiotic lock therapy may be performed by a nurse or at home by the patient or 
+caregiver that has demonstrated competency in line care. 
+ 
+B. The central venous catheter will be flushed with normal saline before instillation of the antibiotic lock 
+solution. 
+1. The antibiotic lock solution will have a dwell time of once per day during a period of time that the 
+patient is off IV medications and/or parenteral nutrition given through the central venous catheter.   
+2. Minimum dwell time will be four hours 
+3. Maximum dwell time will be 24 hours.   
+4. When the specified dwell time is complete, the antibiotic lock solution will be withdrawn from the 
+line and discarded.  
+5. If the antibiotic lock solution is unable to be withdrawn, the solution should be flushed through the 
+line, followed by normal saline, and the primary team should be notified.  
+6. When scheduling conflict exist with dwell time and medication administration consult with 
+pharmacy.  
+ 
+C. The duration of antibiotic lock therapy will be 10-14 days in attempt to salvage the catheter.  
+ CHMP-007 
+Page 3 of 3 
+ 
+ 
+REFERENCES: 
+ 
+Antibiotic lock therapy for the conservative treatment of long-term intravenous catheter-related infections in 
+adults and children:  When and how to proceed?  Guidelines for clinical practice 2020.  Infectious 
+Diseases Now, 51(3), 236-246. 
+ 
+Chesshyre, E., Goff, Z., Bowen, A., & Carapetis, J. (2015).  The prevention, diagnosis, and management of 
+central venous line infections in children.  The Journal of Infection, 71Suppl 1, S59-S75.  
+https://doi.org/10.1016/j.jinif.2015.04.029 
+   
+http://www.bardaccess.com/picc-hick-brov-leon.php?section=Specifications  
+ 
+ 

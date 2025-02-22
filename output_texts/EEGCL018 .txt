@@ -1,0 +1,93 @@
+ 
+Policies and Procedures Manual Manual: Neurophysiology 
+Our Lady of the Lake Regional Medical Center Chapter: Clinical 
+Subject: Stat EEG 
+Date of Origination: September 9, 2009 Supersedes:   
+Date of Last Revision: May 23, 2023    
+Date of Last Review:  May 23, 2023 Serial Code: EEG/CL-18 
+         
+Purpose:  
+The purpose of this policy is to establish the requirements for obtaining a Stat EEG during 
+standard business hours, after hours, and on a holiday. This policy will also define what 
+constitutes a Stat EEG order. 
+Policy: 
+I. Hours of Operation 
+ 
+A. EEG Standard Business Hours: 
+a. Monday – Friday: 7:30 AM through 4:00 PM 
+b. Saturday – Sunday: 8:00 AM through 12:00 PM 
+c. Christmas Day, New Year’s Day, Good Friday, July 4th, 
+Labor Day, and Thanksgiving: 8:00 AM through 12:00 PM 
+ 
+B. EEG After Hours:  
+a. Monday – Friday: 4:00 PM through 7:30 AM 
+b. Saturday – Sunday: 12:00 PM through 8:00 AM 
+c. Christmas Day, New Year’s Day, Good Friday, July 4th, 
+Labor Day, and Thanksgiving: 12:00 PM through 8:00 AM 
+ 
+II. Indications and Non-Indications 
+ 
+A. Absolute Indication of Stat EEG 
+The only legitimate and universally accepted indication for a Stat EEG is to evaluate 
+the possibility of non-obvious status epilepticus or nonconvulsive status epilepticus 
+(NCSE) because this type may in itself be harmful to the brain and affects prognosis. 
+To justify a stat EEG, there should be a reasonable suspicion for NCSE, that is, not 
+every patient with coma or unresponsiveness should be suspected of being in 
+nonconvulsive status. 
+ 
+ 
+ 
+ 
+ B. Other Indications Constituting a Stat EEG 
+a. Management of status epilepticus. 
+b. After treatment for seizure or status epilepticus, when the patient fails to wake up 
+in the expected amount of time, if it is not explained by sedative medications 
+(e.g., high-dose benzodiazepines).  
+c. There is no clear underlying process (e.g., anoxic, or metabolic encephalopathy, 
+stroke, or subarachnoid hemorrhage) that explains the coma or mental status 
+changes. In this situation, there are often clinical clues, such as abnormal 
+movements suggestive of seizure activity (muscle twitches or clonic jerking).  
+d. For patients who are pharmacologically paralyzed. 
+ 
+C. Following are not indications for STAT EEG 
+a. The patient had a seizure and is recovering.  
+b. The patient is clinically seizing.  
+c. Abnormal mental status or coma that is readily explained (e.g., stroke, 
+subarachnoid hemorrhage, intracerebral hemorrhage, or traumatic brain injury)  
+d. Confirmation of brain death  
+e. The patient needs to be discharged. 
+ 
+III. Ordering a Stat EEG 
+ 
+A. If a Stat EEG is ordered after hours: 
+a. The attending physician inputs a Stat EEG order. 
+b. The attending physician will contact neurology for approval of Stat EEG. 
+c. Within the EEG order set, it will prompt the physician to select “yes” or “no” if 
+neurology approved the Stat order. 
+d. Once neurology has been contacted by the ordering physician, the on-call 
+neurologist will contact the charge respiratory supervisor. 
+e. The respiratory supervisor will contact the EEG technologist. 
+f. The EEG technologist will notify neurology of completion. 
+ 
+B. If a Stat EEG is ordered during business hours: 
+a. The technologist will be notified via the EPIC input process and will perform the 
+STAT within 2-hours from the order input time. 
+b. If needed, the technologist can be contacted via office phone. 
+c. The EEG technologist will notify neurology of completion. 
+ 
+ 
+ 
+ 
+  
+IV. Interpreting and Reporting: 
+a. Urgent interpretation by a qualified neurophysiologist or neurologist should be 
+prioritized. Reporting physician must read EEG within 1 hour of the study, 
+preferably before disconnecting.  
+b. Interpreters should promptly communicate findings of critical clinical 
+significance, including seizures or emergent neurological conditions, to the 
+ordering healthcare provider. 
+c. Prelim report should be put on the same day of the study and comprehensive 
+reports should be generated within 24 hours of the study including documenting 
+key findings, clinical correlations, and recommendations for further management 
+or intervention. 
+ 

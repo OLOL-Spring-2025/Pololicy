@@ -1,0 +1,36 @@
+POLICIES AND PROCEDURES MANUAL Manual:  Access Services 
+Our Lady of the Lake Regional Medical Center Chapter:    
+Subject:  HITECH Law & Opting Out of Using Insurance Section:    
+Date of Origination:  June 2015 Supersedes:       
+Date Last Revised or 
+Reviewed: June 1, 2015; 
+Jan 1, 2018 
+ Serial Code:    
+ 
+PURPOSE:    
+To define how the HITECH law impacts patient registrations.  To define what steps registrars are 
+to take when a patient requests to opt-out of using his/her health insurance. 
+ 
+ 
+POLICY: 
+Under the final HITECH rule, when patients pay out of pocket in full, they can instruct their 
+provider to refrain from sharing information about their treatment with their health plan 
+ 
+The patient has the right to not have his/her claim filed to his/her health insurance, provided 
+that he/she pays for the services out of pocket, in full, at the time of service.  
+ 
+PROCEDURE: 
+If the patient “opts out” and decides not to bill his/her health insurance for whatever reason, the 
+registrar will do the following: 
+1. Register the patient as “Private Pay” – The patient is responsible for payment in 
+FULL WITHOUT DISCOUNT.  The registrar will run PPE and remove the 
+discount by entering “0” under the private pay discount and recalculate. AGAIN – 
+the patient MUST pay in FULL prior to services being rendered.  
+2. If patient cannot pay in FULL – The registrar will enter the patient’s health insurance 
+into the registration software and collect copay/deductible/co-insurance. 
+3. Click “do not bill insurance” in EPIC. 
+4. Notify the Business Office that the patient has opted out.   
+• Ask the Business Office to put the patient’s account on hold so that other 
+insurance is not added.   
+• Ask the Business office to add notes in the billing system to indicate that 
+this is an “opt-out” patient. 

@@ -1,0 +1,79 @@
+POLICIES AND PROCEDURES MANUAL   Manual: Organizational  
+Our Lady of the Lake Regional Medical Center   Chapter: Imaging Services 
+Subject: Gadolinium Contrast                            Section: MR  
+Date of Origination: 6/1/2006     Supersedes: 
+Reviewed: 01/17, 5/19, 6/19, 1/21, 3/23, 8/24      Serial Code: IMR 021 
+Date Last Revised: 6/14/2019/ 10/23/ 8/24        
+                        
+PURPOSE: 
+Reduce the incidence of Nephrogenic Systemic Fibrosis (NSF) associated with gadolinium by 
+determining which patients are at highest risk. 
+POLICY: 
+Group 1 Contrast Agents 
+Imaging services does not stock any Group 1 Gadolinium-Based Contrast Agents (GBCA). 
+Group 2 Contrast Agents 
+Current group 2 agents are Clariscan and Gadavist. 
+Patients receiving Group 2 GBCA’s will not require assessment with a questionnaire or 
+laboratory testing prior to intravenous administration. As in all instances, Group 2 GBCAs 
+should only be administered if they are deemed necessary by the supervising radiologist, and the 
+lowest dose needed for diagnosis should be used as deemed necessary by the supervising 
+radiologist. 
+Group 3 Contrast Agents 
+Current Group 3 agent is Eovist. 
+Patients receiving a Group 3 GBCA will be screened for risk factors and renal function prior to 
+receiving contrast. The following criteria should be used to determine if an estimated Glomerular 
+Filtration Rate (eGFR) is needed: 
+• > 60 years of age 
+• Renal disease, including dialysis, transplant, single kidney, renal cancer, or 
+kidney surgery 
+• Hypertension requiring medical therapy 
+• Diabetes mellitus 
+• Metformin or metformin-containing drug combinations 
+ 
+A serum creatinine will be obtained to calculate an eGFR in all patients with any of the above 
+stated risk factors.  Normal values less than 30 days will be adequate. Abnormal values less than 10 days old will be adequate. Otherwise they should be repeated. All ER patients meeting 
+screening criteria should have a result within the last 48 hours.  If an ER patient over the age of 
+17 has a pending creatinine in the lab (regardless of risk factors above), contrast will not be 
+administered until the eGFR value is resulted.  Any results with an eGFR Below 30 are reported 
+to the Radiologist for contrast determination. 
+ 
+Dialysis Patients: 
+Always consult with Radiologist for contrast determination for any patient who is on dialysis.  If 
+a contrast-enhanced cross-sectional imaging study is required in a dialysis patient, consider 
+contrast enhanced CT, rather than an MRI, assuming the anticipated diagnostic yield is similar.  
+If contrast-enhanced MRI is medically necessary, the examination should be performed as 
+closely before hemodialysis as is possible.  
+Metformin: 
+Metformin does not need to be held prior to, or after administration of a GBCA.  
+Pregnancy: 
+GBCA should only be administered when there is a potential significant benefit to the patient or 
+fetus that outweighs the possible but unknown risk of fetal exposure to free gadolinium ions.   
+The radiologist should confer with the referring physician and document medical necessity in the 
+radiology report. 
+Breastfeeding: 
+Because of the very small percentage of gadolinium-based contrast medium that is excreted into 
+the breast milk and absorbed by the infant’s gut, available data suggest that it is safe for the 
+mother and infant to continue breast-feeding after receiving such an agent.  
+Ultimately, an informed decision to temporarily stop breast-feeding should be left up to the 
+mother after these facts are communicated. If the mother remains concerned about any potential 
+ill effects to the infant, she may abstain from breast-feeding from the time of contrast 
+administration for a period of 12 to 24 hours. There is no value to stop breast feeding beyond 24 
+hours. The mother should be told to express and discard breast milk from both breasts during that 
+period. In anticipation of this, she may wish to use a breast pump to obtain milk before the 
+contrast-enhanced study to feed the infant during the 24-hour period following the examination.  
+ (Adapted from the ACR Manual on Contrast Media, 2023): 
+Contrast Injection Coverage 
+The following providers may be considered capable of providing direct supervision of intravenous 
+contrast material administration. 
+ • A radiologist (MD/DO) 
+Or – one of the following under the general supervision of a radiologist:  • Non-radiologist physicians (MD/DO)  
+• Advanced practice provider (NP, PA)  
+• Registered nurses following a symptom- and sign-driven treatment algorithm 
+**To accommodate this need and for consistency with CMS, the ACR will continue to accept remote 
+supervision for contrast administration (Direct Supervision for Contrast Studies (Updated 4/2024) 
+ 
+(Adapted from the ACR Manual on Contrast Media, 2024, ACR-SPR Practice Parameter for the 
+use of Intravascular Contrast Media)  
+ 
+ 
+ 

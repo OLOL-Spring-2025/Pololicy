@@ -1,0 +1,26 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  SYNtrac Provisioning  Section:  Nuclear Medicine 
+Date of Origination:  January 6, 2015 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+January 21, 2019 
+02/19, 1/21, 3/23, 2/24 
+Serial Code:   
+    
+POLICY:  SYNtrac Provisioning 
+DEFINITION:  SYNtrac Department Management System: A product of Cardinal Health that is used by 
+the Nuclear Medicine Technologists, where available. This product can be used for 
+ordering doses, tracking the dose administered to patients, maintaining health physics and 
+QA/QC records, as well as documenting waste and inventory management.  
+PROCEDURE:  
+1. The department Super User will set up all new employees with a SYNtrac account. 
+2. Super Users will audit employees who have access to SYNtrac on an annual basis. If it is 
+determined by the Super User that an employee no longer needs access to SYNtrac then that 
+user’s access will be terminated.  
+3. Upon termination of an employee, the Super User will delete the terminated employee’s access 
+to SYNtrac immediately.   
+ 

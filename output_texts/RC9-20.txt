@@ -1,0 +1,63 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Blood Gas Lab 
+Subject:  Operation of the ABL90 Flex Blood Gas 
+Analyzer Section: Volume 4 
+Date of Origination: October 1995 Signature: 
+Date of Last Revision: August 5, 2019 Serial Code: RC9-20 
+         Reviewed: October 1, 2024 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to ascertain the following actual values from blood-pH, pCO2, 
+pO2, Na, K, Cl, Ca, Glucose,  tHb, O2Hb, COHb, and METHb  and in addition these 
+calculated values-base excess, bicarbonate, and carbon dioxide content.  It will also define 
+how to save the result in the EMR(electronic medical records). 
+ 
+EQUIPMENT: 
+A. ABL90 Flex Blood Gas Analyzer 
+B. Heparinized blood sample 
+C. Unsterile gloves 
+ 
+SAMPLING PROCEDURES: (All sampling procedures will be in accordance with 
+the manufacturer’s recommendation, located in the operator’s manual).  
+Syringe Sample 
+A. Preparation of the EMR System to receive blood gas result 
+1. Verify the physician order for a Blood Gas in the patient’s EMR. Print the 
+accession bar code label and the complete the collection process. 
+2. Obtain the specimen from the patient. Receive the specimen in the EMR. 
+B. Verify the machine is ready to analyze a sample. 
+1.  The system is ready to analyze samples when the following conditions 
+exist. 
+a. The analytes to be measured are in calibration. 
+b. Select the appropriate sample type arterial  or capillary on the 
+ABL90 Flex interface. 
+3. Select analytes to be tested. Mix the blood well. Lift the inlet handle to the 
+syringe position. Place and hold the tip of the syringe in the center of the 
+inlet gasket. Push the syringe into the analyzer and hold it there until the 
+analyzer indicates to remove the syringe. Close the inlet. The system will 
+automatically aspirate the sample.  
+4. Scan the accession label with the barcode gun or key in the accession 
+identification number. Double check input to ensure the number is correct.  5. Once the analysis is complete, the results will be sent to the patient’s EMR. In 
+the EMR, complete device information that is applicable.   
+6. All blood gas results must be reviewed and verified prior to saving in the 
+patient’s EMR. 
+C. For blood gases sampled and analyzed in the OR, by the perfusionist during a 
+surgical procedure, the following process will apply: 
+1. These blood gases will be POC ordered. The user will scan wrist band of 
+patient, order will be placed,  specimen will be “collected” and “received” 
+in the EMR.  The specimen will be analyzed with values resulting to Aqure 
+and the patient’s EMR. 
+2. The date and time that the specimen is analyzed in the blood gas instrument 
+will be the valid receive time of record.  This time will be reported in Aqure. 
+3. Verification of results must be completed in the EMR to finalize the process. 
+Critical values will follow policy RC9-4. 
+D. Vacuum tube sampling 
+Testing of vacuum tube samples must be aspirated into a syringe. Proceed with 
+syringe sampling procedure as stated above. 
+E. All laboratory results may be retrieved and printed in a report that has been 
+approved by the Respiratory Laboratory Director. 

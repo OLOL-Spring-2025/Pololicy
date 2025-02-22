@@ -1,0 +1,90 @@
+ PH-03-08 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: 
+Medication Use, 
+Storage and 
+Handling 
+Title: Medications:  Temperatures: Storage and 
+Monitoring 
+Policy Reference #: PH-03-08 
+Supersedes #: PH-09-04-O 
+Date of Origination: 07/01/2000 Last Date Reviewed:  05/07/2024 
+Last Date Revised: 09/28/2021 
+ 
+POLICY: 
+All drugs shall be stored at appropriate temperatures that do not exceed manufacturer's 
+recommendations or warnings.   
+DEFINITIONS: 
+Storage temperatures are defined as follows: 
+• Cold - Any temperature not exceeding 8°C (46°F). 
+• Freezer -  between- –50°C and –15°C (--58°F and 5°F). 
+• Refrigerator - between 2°C and 8°C (36°F and 46°F). 
+• Cool - Any temperature between 8°C and 15°C (46°F and 59°F).  Articles, for which storage in a 
+cool place is directed, may be stored in a refrigerator unless otherwise indicated. 
+• Room Temperature - Same as controlled room temperature. 
+• Controlled Room Temperature -  A temperature held between 15°C and 30°C (68°F and 77°F). 
+• Warm -  A temperature between 30°C and 40°C (86°F and 104°F). 
+• Excessive Heat -  Any temperature above 40°C (104°F). 
+• NonSpecific Conditions -Where storage conditions are not specified or limited, it is understood 
+that protection from moisture, freezing, and excessive heat shall be provided. 
+ 
+PROCEDURE: 
+Pharmacy has the responsibility of ensuring the proper storage of medications that require refrigeration.  
+Refrigerators connected to automated dispensing cabinets (ADC) will have temperature monitoring 
+through the ADC technology.  At some campus locations, third party vendors may monitor refrigerators 
+remotely with recordings taken every hour.   Pharmacy personnel may also monitor medication 
+refrigerator temperatures throughout shifts.    Reports can be generated upon request for compliance 
+purposes and are reviewed regularly to determine if a refrigerator needs to be replaced. 
+Temperatures are to be maintained between 2°C and 8°C (36°F and 46°F).  The Pharmacist-in-Charge, 
+Pharmacy Supervisor or their designee will be responsible for assessing the refrigerator and document 
+any action taken to correct the variation. If the refrigerator temperature continues to be out of range, the 
+medications stored within that refrigerator will be relocated to another refrigerator temporarily. 
+Continued problems will be reported to plant services (Trimedx) for maintenance and if necessary, the 
+refrigerator will be taken out of service or replaced.  PH-03-08 
+Page 2 of 2 
+Medication Refrigerators and Freezers without continuous monitoring: 
+Additional refrigerators and freezers throughout the hospital that store medications will be monitored 
+manually and recorded in the software system Simplifi 797 where applicable.  Recorded temperatures 
+must be between 2°C and 8°C (36°F and 46°F) for refrigerators and between –25°C and –10°C (--13°F 
+and 14°F) for freezers.  Readings outside this range will be documented with actions captured 
+electronically.   Refrigerators and freezers must be rechecked to ensure adjusted temperature has 
+returned to within range. If the temperature continues to be out of range, the medications will be 
+relocated to another refrigerator or freezer temporarily. Continued problems will be reported to plant 
+services (Trimedx) for maintenance and if necessary, the equipment will be taken out of service or 
+replaced. 
+ 
+ Actions 
+Temperature Out of Range (Too Hot) 
+1. Document awareness variation and recheck in one hour. 
+2. If still out of range after 1 hour, verify that device is still working and make adjustments to the 
+temperature, while documenting that an adjustment has been made.   
+3. Verify that temperature is heading in the proper direction after change and pass on information 
+during shift change. 
+Temperature Out of Range (Too Cold) 
+1. Document awareness of variation and recheck in one hour. 
+2. If still out of range after 1 hour, verify that refrigerator is not frozen and the freezer is clear of 
+excess frost.   
+3. If frozen, take out of service to defrost and replace with spare. 
+4. If not frozen, make adjustment to refrigerator temperature and recheck in 1 hour. Document 
+findings after recheck.   
+5. Verify that temperature is heading in the proper direction after change and pass on information 
+during shift change. 
+Refrigerator Labeling 
+A sticker shall be affixed to each refrigerator identifying storage contents. 
+• Medications only, no food 
+ 
+REFERENCES: 
+ 
+MM 03.01.01 EP2.  The hospital stores medications according to the manufacturer’s recommendations, 
+according to a pharmacist’s instructions.  The Joint Commission Medication Management Standards 
+MM 03.01.01 EP4.  The hospital has a written policy addressing the control of medication between receipt 
+by an individual health care provider and administration of the medication, including safe storage, 
+handling, security, disposition, and return to storage. .  The Joint Commission Medication Management 
+Standards 
+ 
+USP Standards: 
+http://www.uspnf.com/sites/default/files/usp_pdf/EN/USPNF/revisions/659_rb_notice.pdf 
+ 
+ 
+ 

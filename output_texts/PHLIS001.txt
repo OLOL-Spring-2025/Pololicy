@@ -1,0 +1,93 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 1 of 2 
+PHLIS001 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLIS001 
+RECEIVING COLLECTED SPECIMENS 
+       Date Issue Date Effective Date 
+ Prepared/Revised By ZJA/LC 9/3/2019 9/22/2019 9/22/2019 
+Reviewed By LC 9/17/2019 Origination Date 
+Medical Director Review A Harton 9/22/2019 JAN 2000 
+ 
+PURPOSE: 
+Provide for the receiving of specimens collected by phlebotomists utilizing EPIC Hyperspace: Receiving 
+Activity/EPIC Rover Device All Labs Assigned to Me  
+ 
+Addresses: 
+Venipuncture Charge Techs 
+Central Processing Medical Laboratory Assistants 
+Venipuncture Phlebotomists 
+ 
+POLICY: 
+To provide for the accurate documentation of the time of specimen draw and the phlebotomist performing the 
+draw 
+ 
+PROCEDURE: 
+A. Collection of specimens by phlebotomist on the floor 
+1. Select Rover device from storage cabinet. 
+2. Ensure Rover Device is fully charge. If the battery level is low, switch it with a fully charge battery form 
+the charging station. 
+3. Enter the access code 6565 to access the Rover device home screen 
+4. Select the Rover icon 
+5. At the login screen, enter designated Network ID and password/passcode. 
+6. Select the “Patient Icon” at the bottom of the screen 
+7. In the list, select “Inpatient Lab Draws”, View Assigned Lab Draws, View Lab Draws Assigned to Me”. 
+8. Perform proper Patient Identification (refer Patient Identification procedure) 
+9. Draw and label collection tubes 
+10. When collection is not performed electronically via Rover or Hyperspace, the time of draw and 
+collector’s network ID is required to be documented on the specimen 
+11. Required documentation is to be clear and easily read 
+12. Rubber band together collected specimen tubes and any unattached laboratory orders 
+13. Place the rubber banded patient specimens in a bio-hazard bag 
+14. Specimens drawn by individual phlebotomists should be sent to the laboratory in a single 
+bio-hazard bag whenever possible 
+ 
+B. Receiving specimens performed by Central Processing Techs 
+1. Wear proper PPE while processing collected specimens 
+2. Remove patient specimens from bag and/or rubber bands, keep specimens and any additional laboratory 
+labels together to simplify receiving OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 2 of 2 
+PHLIS001 
+ 
+3. Group multiple accession numbers by patient name 
+4. To access Epic: 
+a. Open Team Link. 
+b. Click on the Epic Hyperlink. 
+c. Double click on Epic Hyperspace. 
+d. Log in using your credentials.  
+e. Select LALK Laboratory in the department field.  
+5. Opening the Receiving activity:  
+a. Click on the Receiving activity from the start-up activities.  
+6. Using the Receiving activity:  
+a. Before using the activity, verify that LALK Laboratory is displayed on the top left of the screen. 
+b. Enter the specimen ID to be received: 
+i. Use the scanner to read the specimen ID barcode on the specimen label which 
+automatically receives the specimen. Scanning function is the preferred method when 
+receiving specimens in Epic.  
+1. If the collection date and time are missing the specimen cannot be received. 
+Contact the collector and have them complete the collection date and time of 
+collection in order to process the specimen.   
+ii. If you are unable to contact the collector, using specimen lookup, manually enter the 
+specimen ID in the specimen field.  
+1. If the collection date and time are missing the specimen cannot be received. Enter 
+the current date and time.  
+2. Click Receive.  
+3. When scanning function is not used, a scan override must be performed.  
+4. Enter the appropriate scan override reason and click accept.  
+iii. A green checkmark will appear in the received status box.  
+c. Sample status changes from ORDERED to ON TEST.  
+d. Receive only the containers actually received in the laboratory.  
+ 
+REVISIONS 
+01/2000 (created); 10/11/2017; 9/3/2019 
+ 
+ 

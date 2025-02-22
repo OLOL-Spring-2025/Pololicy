@@ -1,0 +1,133 @@
+Blood/Body Fluid Exposure - Post-Exposure Process Flow            Revised 2-14-14 
+            Reviewed 2-7-19 
+ 
+  
+ 
+Blood/Body Fluid 
+event occurs.  STOP 
+1. EXPOSED calls 
+Lake Line Direct.  
+2. Lake Line Direct uses 
+algorithm to determine if 
+an exposure has occurred. 
+Is event an 
+exposure? 
+ 3. Lake Line Direct instructs 
+person to complete safety event. 
+NO – Does not meet exposure 
+criteria.  
+YES - Meets exposure criteria. 
+4.  Lake Line Direct collects 
+information for EXPOSED and 
+SOURCE PATIENT.  
+5.  Lake Line Direct orders STAT 
+labs for SOURCE PATIENT and calls 
+Lab/Phlebotomy to alert. 
+• If patient is known HIV 
+POSITIVE, additional HIV 
+testing is not required. 6. Lab collects SOURCE PATIENT 
+specimen and processes sample.  
+9. Lab calls Lake Line Direct with 
+POSITIVE SOURCE PATIENT results.  
+Lake Line Direct checks system to 
+verify NEGATIVE result.   
+ 
+NOTE:  
+• Lab results are available within 
+30 minutes of when the sample 
+is received.  
+• NEGATIVE results will NOT be 
+called to Lake Line Direct. 
+8. Lake Line Direct instructs 
+EXPOSED to go to 
+Laboratory for blood draw.    
+12. EXPOSED person is 
+instructed to go to 
+Pharmacy for PEP. 
+11. Lake Line Direct 
+communicates POSITIVE 
+HIV result (if new lab 
+result). 
+ 
+8:00AM - 4:00PM, M – F: 
+Employee Health,  
+765-8750, Select Option 9 
+ 
+After Hours, Weekend:  
+House Manager, 765-8297 
+ 
+14. Pharmacy reviews 
+medical history and 
+medication list. 
+ 
+See Pharmacist checklist 
+for details. 
+ 
+13. Lake Line Direct faxes 
+medical history to 
+Pharmacy and calls 
+Charge/Supervising 
+Pharmacist to alert. 
+15. Pharmacy contacts 
+Triage MD to advise Rx is 
+being issued. 
+PHONE: 765-8556 
+ 
+MOBILE PHONE:  
+Day: 572-6792 
+Night: 572-6949 
+ 
+18. YES - Pharmacy refers EXPOSED 
+to Triage MD for counseling. 
+PHONE: 765-8556 
+ 
+Note: Exposed person will be 
+registered in the ED. 
+16. Pharmacy dispenses 
+first dose and 
+documents on blue 
+ticket.  
+19. Pharmacy faxes blue ticket to 
+Worker’s Comp.  FAX: 765-8893 
+22. Laboratory collects sample from EXPOSED. 24. Laboratory instructs EXPOSED to 
+follow-up with Employee Health on 
+next business day. 
+20. Pharmacy instructs EXPOSED 
+to go to Laboratory for blood 
+draw.  
+Go to BBF Exposure  
+follow-up process. 
+21. Laboratory instructs 
+EXPOSED to complete 
+coversheet and places in box 
+for Employee Health to pick-up. 
+Is result HIV 
+POSITIVE? 
+8:00AM - 4:00PM, M – F: 
+Refer to Plaza Pharmacy 
+PHONE: 765-8951 
+Select Option 4 
+FAX: 765-3472 
+ 
+After Hours, Weekend: 
+Refer to Main Pharmacy 
+PHONE: 765-4434 
+FAX: 765-3280 
+ 
+ 
+Go to Step 21: 
+Laboratory 
+10. Lake Line Direct orders Expanded 
+Lab Panel for EXPOSED and calls 
+Lab/Phlebotomy to alert. 
+7. Lake Line Direct orders 
+Basic Lab Panel for 
+EXPOSED.    
+First dose 
+refused? 
+17. YES - Pharmacy documents 
+refusal on blue ticket.  
+Labs refused? 
+23. YES – Lab documents refusal 
+on LABEL and places with 
+Employee Health packet.  

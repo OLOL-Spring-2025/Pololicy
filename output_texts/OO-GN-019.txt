@@ -1,0 +1,187 @@
+ OO-GN-019 
+Page 1 of 5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Organizational Section: General 
+Title: Safety Event (Incident or Variance) 
+Reporting 
+Policy Reference #: OrgOps/GN/019 
+Supersedes #: ECSF007 
+Date of Origination: May 1980 Last Review Date: December 26, 2024 
+Last Revision Date: November 13, 2023 
+ 
+PURPOSE 
+The purpose of this policy is to establish a systematic and consistent approach for reporting safety events 
+that occur within Our Lady of the Lake Health. The aim is to ensure that all safety events are reported, 
+analyzed, and addressed in a timely manner to prevent recurrence and improve patient safety. 
+ 
+SCOPE 
+This policy applies to all employees, medical staff, and contractors, who work within Our Lady of the 
+Lake Health. 
+ 
+DEFINITIONS 
+A. First Aid - care which is provided in the Emergency Care Unit and does not include any services for 
+follow up care or hospital admission. 
+B. Safety event (variance or incident) – any occurrence, which deviates from policy or procedure of the 
+hospital, interrupts orderly routine care, or exposes the hospital to risk. 
+a. Near Miss Safety Event – refers to an event that could have resulted in harm to a patient 
+but did not. 
+b. Actual Safety Event – a safety event which reaches a patient and may result in no harm, 
+temporary harm, severe harm, or death. Refers to an event which impacts the patient in 
+such a way that the patient may require additional treatment or monitoring, prolonged 
+hospitalization, or where the patient has experienced serious physical or emotional harm 
+or death. 
+E. Safety Event Reporter: Any employee, medical staff member or contract worker who enters a safety 
+event in the safety event reporting system.  
+F. Root Cause Analysis (RCA): a systematic process used to identify the underlying or fundamental 
+causes of an issue, problem, or event. The goal of RCA is to determine what happened, why it 
+happened, and how to prevent it from happening again in the future. It is a structured approach that 
+helps organizations and individuals investigate and understand the root causes of problems rather 
+than just addressing the symptoms. 
+G. Visitor – A non-employee and may include students, volunteers, medical staff members, and 
+contract workers. 
+ 
+POLICY: 
+Safety events are opportunities for learning and improvement through a transparent and non-punitive 
+approach to reporting and to use the data to evaluate the culture of safety and quality of care. 
+ 
+A. A high priority is placed upon extending assistance to patients, visitors, medical staff and employees.  
+If injury is involved, arrangements for providing first aid should be initiated without delay. First aid 
+should never be delayed.  If the injured individual experiences an actual safety event, see policies for  OO-GN-019 
+Page 2 of 5 
+Disclosure of Unanticipated Outcome, Medical Errors, (OC-007) and/or Sentinel Events and Root 
+Cause Analysis  (OO-GN-018). 
+ 
+B. Safety Event Reports are considered hospital documents and part of the quality review process.  
+Copies, including screenshots, of the report should not be made nor given to the patient, visitor, 
+employee, or any third-party outside of FMOLHS, unless directed by Risk Management.  Copies of 
+the report should not be maintained. Notify Risk Management if a request is made for a copy. 
+ 
+SEVERITY CATEGORY: The initial severity category is designated by the safety event reporter. 
+Severity category may be upgraded or downgraded after review.  A Root Cause Analysis should be 
+considered for any error in categories F, G, H, and I or for any identified trends or patterns regardless of 
+severity.  See policy on Sentinel Events and Root Cause Analysis (OO-GN-018). 
+ 
+Category Description 
+A Circumstances exist with capacity to cause an event/error or variance in care (A Good Catch) 
+B Event/error and/or an omission occurred BUT DID NOT reach the patient/resident. 
+C Event/error reached the patient/resident BUT caused NO harm. 
+ 
+D Event/error increased the need for monitoring/intervention BUT caused NO harm. 
+*E Event/error increased the need for treatment/intervention AND caused TEMPORARY harm. 
+*F Event/error that contributed to or resulted in TEMPORARY harm AND required initial or 
+prolonged hospitalization. 
+ 
+*G Event/error that contributed to or resulted in PERMANENT harm AND required initial or 
+prolonged hospitalization. 
+*H Event/error that required intervention necessary to sustain life. 
+ 
+*I Event/error that contributed to or resulted in DEATH (UNEXPECTED DEATH) 
+X Death not related to an 
+event
+ 
+Not 
+Known 
+There is not enough information available to assign a Severity Category for this event.  
+ 
+*Assign follow-up to appropriate leader 
+  OO-GN-019 
+Page 3 of 5 
+ 
+PROCEDURES: 
+ 
+Patient Safety Event 
+Reporting Process: 
+1. A safety event report should be completed and submitted through Our Lady of the Lake Health's 
+electronic reporting system within 24 hours of the event occurrence. This application is located 
+on OLOL’s intranet, TeamLink.   
+2. The report will include details about the event, including the date, time, location, individuals 
+involved, and a description of what happened. 
+3. If equipment was involved in the event, tag the equipment, and remove it from service.  List the 
+serial number, model number and other identifiers on the Safety Event Report. Notify the 
+Biomedical Department and provide the safety event report number. 
+4. Safety event reports are reviewed by quality outcomes analyst or other designated personnel and 
+assigned to an appropriate department for investigation and analysis. Appropriate supervisory 
+and management personnel are notified of the event through the safety event reporting system. 
+5. Investigation of the safety event is completed and documented by the appropriate leader, 
+appointed delegate or subject matter expert within time frames as set forth by the safety event 
+management workflow. All events Categories A-D are closed within 15 days of initial report and 
+Categories E-X are closed within 30 days with exception of Root Cause analysis which is 45 
+days.  
+ 
+Feedback mechanisms and Data Reporting:  
+1. Our Lady of the Lake Health leaders are expected to provide feedback to employees who report 
+safety events, including near misses, on the status of the investigation and any actions taken to 
+address the event. 
+2. Our Lady of the Lake Health will also provide feedback to employees on the impact of their 
+reporting on patient safety and encourage continued reporting. 
+3. Data on safety events, including near misses, incidents, and adverse events, will be collected, 
+and analyzed regularly to identify trends, prioritize improvements, and monitor progress. 
+4. Our Lady of the Lake Health will provide regular reports on safety events and their outcomes to 
+relevant stakeholders, including leadership, departments, and regulatory agencies. 
+ 
+Near Miss Reporting:  
+1. All near miss safety events should be reported and analyzed to identify potential risks and 
+prevent future harm. 
+2. The reporting process for near misses is the same as reporting for all safety events. 
+3. The investigating department will evaluate the near miss, determine any root causes to 
+implement corrective actions to mitigate recurrence. 
+ 
+Patient Harm and Potential for Patient Harm: 
+1. If a safety event results in harm to a patient, the investigating department must report the event to 
+Our Lady of the Lake Health's quality department and follow Our Lady of the Lake Health's adverse 
+event reporting policy.  OO-GN-019 
+Page 4 of 5 
+2. Notify Risk Management immediately if there is a serious injury, a clinically significant medical 
+error, unanticipated outcome, or sentinel event. If the event occurs after hours, notify the House 
+Manager who will contact the Administrator-On-Call. 
+3. If a safety event has the potential to harm a patient, the investigating department must report the 
+event to Our Lady of the Lake Health's quality department and implement appropriate corrective 
+actions to prevent harm.  
+4. It is appropriate to notify the patient's physician of all variances. If the physician was notified, 
+indicate this on the safety event report and include the physician's name.  Document in the medical 
+record if the physician was notified, the physician response, and the patient’s response to any 
+interventions provided.   
+5. If the physician requests a Safety Event Report, the employee shall indicate in the report that it was 
+requested by a physician and indicate the name of the requesting physician. 
+6. Facts concerning the patient event are to be documented in the medical record. Do not reference the 
+Safety Event in the medical record. 
+7. Employees and medical staff should refrain from making statements or conjectures regarding 
+possible liability, fault or financial responsibility to the patient or family and should not report such 
+conjectures or opinions in the safety event report or medical record. Contact Risk Management for 
+guidance and questions about appropriate communication with the patient and family.  See 
+Disclosure of Unanticipated Outcome, Medical Errors, (OC-007).  
+ 
+Visitor Safety Event 
+1. Any safety event involving a visitor will be reported through the safety event reporting system. The 
+report should include visitor identification and telephone number or contact information, details 
+about the event including date, time, location, environmental conditions, individuals involved and 
+any witnesses. 
+2. The visitor may be offered first aid, if appropriate, which he/she has the right to refuse. If the visitor 
+wishes to receive treatment, escort the visitor to the ECU and advise the ECU of the event.  Do not 
+give a copy of the Safety Event Report to the ECU or to the patient.  
+3. While first aid is offered to anyone needing medical attention, courtesy first aid is not routinely 
+extended to visitors fainting or becoming ill on the premises. A sincere effort to extend assistance 
+and exhibit professionalism will be a priority. The visitor should be the guarantor of payment for 
+services. 
+4. Employees and medical staff should refrain from making statements or conjectures regarding 
+possible liability, fault or financial responsibility to the patient or family and should not report such 
+conjectures or opinions in the safety event report or medical record.  
+ 
+Employee Event 
+1. Any safety event involving an employee will be reported in the safety event reporting system 
+regardless of injury.  For safety events involving multiple employees, a safety event report should be 
+entered for each employee involved.  For questions about reporting employee safety events, contact 
+Risk Management office.    
+2. The employee should notify the Employee Health Department of any injury requiring first aid.  
+3. If the employee requires emergent medical care, the supervisor of the employee should notify the 
+ECU that said employee is coming to the Emergency Department for treatment, when applicable.   
+4. Blood and Body Fluid exposures are managed by a nurse navigator in Lakeline Direct and Employee 
+Health.  When exposures occur, the employees will call 225-765-5253 and follow instructions for  OO-GN-019 
+Page 5 of 5 
+testing and source patient assessment.  See policy EH1006 “Employee Health Blood and Body Fluid 
+Exposures”. 
+5. If further medical follow-up is required, the employee will notify the Employee Health Department 
+for approval.  
+ 
+ 
+ 

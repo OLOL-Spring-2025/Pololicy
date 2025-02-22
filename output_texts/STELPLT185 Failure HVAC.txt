@@ -1,0 +1,106 @@
+OUR LADY OF THE LAKE ASCENSION   
+ 
+  
+POLICIES AND PROCEDURES: 
+  
+Plant Operations 
+EFFECTIVE DATE: 
+  
+1/95 
+NUMBER:   STELPLT185 
+SUBJECT: 
+Failure H.V.A.C. System 
+  
+Page 1 of 2 
+Reviewed/Revised: 
+1/01, 09/02, 10/03, 12/04, 12/05, 12/06, 12/07, 12/08, 12/09, 8/12, 
+6/15, 3/18, 10/19, 7/21 
+APPROVED BY: 
+Justin Brown 
+    
+  
+  
+Applies to: 
+  
+Plant Operations 
+  
+Policy: 
+  
+In the event of failure to all or part of the HVAC system, the following steps will be taken. 
+  
+Responsibility: 
+  
+Plant Operations 
+  
+Procedure: 
+  
+Air Conditioning: 
+  
+1.                  Check to make sure that the chillers are operating.  Check the unit for the following: 
+  
+a.                  Control panel 
+b.                  Electrical problem 
+c.                   Mechanical failure 
+d.                  Air restriction on the cooling towers 
+e.                  Operation of chill water circulation pumps 
+f.                   Operation of condenser water pumps 
+  
+2.         When the Plant Operations personnel are unable to identify the problem, contact the 
+Manager of Facilities and or supervisor/designee to call in outside contractor support. 
+  
+  
+ 
+   
+  
+POLICIES AND PROCEDURES – CONTINUED                                                Page 2 of 2  
+FAILURE  H.V.A.C.  SYSTEM 
+  
+  
+3.         Notify the Administrative House Supervisor. 
+  
+Heating: 
+  
+1.                  Check to make sure that the boilers are operating properly. Check the boilers for the 
+following: 
+  
+a.                  Operation of fuel supply valves 
+b.                  Malfunctions on the boiler control panel 
+c.                   Boiler water level 
+  
+2.             If the boilers are operating properly, the temperature in the heat exchangers should be 
+checked. If the temperature is not within range, check the temperature controls and correct. 
+ 
+3.             Check the operation of hot water circulating pumps. 
+ 
+4.             If the heating system failure is due to a boiler failure, refer to policy on Boiler Failure. 
+ 
+5.             If the heating system failure if due to the failure of the hot water circulating pumps or heat 
+exchangers, make the necessary repairs.   If the Plant Operations personnel are unable to 
+identify the problem and solve the problem, contact the Manager of Facilities /designee for 
+instructions. 
+ 
+6.             Notify the Administrative House Supervisor and Administration/designee. 
+ 
+Ventilation: 
+  
+1.              Check the fresh air and exhaust fans to assure that they are functioning properly.  Check the 
+ventilation system for the following: 
+  
+a.                  Electrical failure 
+b.                  Mechanical failure 
+c.                   Filtration system for obstructions 
+d.                  Fire dampers are closed and obstructing flow 
+  
+Should a failure occur to the central H.V.A.C. system (water supply, water chiller, and cooling 
+tower) requiring a prolonged shutdown, then arrangements will be made for portable emergency air 
+conditioning equipment to provide temporary services until the system is repaired. The House 
+Supervisor and Administrator “on call” will be notified.  
+  Note:    The ideal situation would be to pre-consult with the company of this type to insure 
+adequate sizing and hook-up capabilities. 
+ 
+ 
+No Changes: 12/09/05,  
+6/15 Changed Administrative Supervisor to Administrative House Supervisor 
+3/18 changed plant ops director to manager of facilities 
+10/19 Name Change 
+7/21 No Change 

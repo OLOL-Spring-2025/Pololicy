@@ -1,0 +1,306 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Receiving and Storage of Hazardous 
+Drugs 
+Policy Reference #: PH0552 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for receiving and storage of Hazardous Drugs (HDs) where 
+HDs are prepared and/or handled within FMOLHS Baton Rouge Market Pharmacies.  
+• Receiving is defined as acceptance of HDs from the wholesaler, distributor, manufacturer, 
+or other source, inspection of the shipment, and removal from shipping containers, and 
+identification of and delivery to the storage destination.  
+• Storage is defined as the retention of HDs into the pharmacy/organization inventory for 
+future use, within a designated location, and at the appropriate temperature.  
+1.2. Harm to healthcare personnel from occupational exposure to HDs can occur throughout the 
+medication-use process including receipt  and storage. Even when a HD is received in proper 
+packaging, there is still the potential for risk for HD contamination to personnel and the 
+environment. Therefore, it is important to don proper Personal Protective Equipment (PPE) for 
+personnel safety when receiving and storing HDs.  
+1.3. This policy refers to receipt and storage of all HD active pharmaceutical ingredients (API), 
+antineoplastic HDs requiring manipulation (beyond counting or repackaging), and other non -
+antineoplastic and reproductive risk only HD dosage forms for which an Assessment of Risk (AoR) 
+has not been performed. 
+2. Policy  
+2.1 HDs are received and stored using methods that protect employees, the surrounding 
+environment, and others who may encounter these HDs within FMOLHS Baton Rouge Market 
+Pharmacies. 
+• Corrugated cardboard or external shipping containers are not allowed in any negative 
+pressure areas.  
+2.2 Access to areas where HDs are received, stored, and prepared is limited to authorized staff only. 
+2.3 HD storage areas have proper signage indicating that HDs are stored inside.  
+2.4 HDs are stored separately from nonhazardous drug inventory except where stipulated in the AoR. 2.5 HDs are never stored on the floor.  
+2.6 Unless the storage area is defined differently in an AoR, HD storage occurs in a room (with fixed 
+walls) that is negative pressure to the areas adjacent, is vented to the outside, and has at least 12 
+air changes per hour (ACPH) to ensure the adequate dilution of vapors and removal of 
+contaminants. HDs may be stored inside C-SCAs or HD buffer rooms. The storage room is not ISO 
+classified unless the HD storage room is located inside cleanroom suite. 
+2.7 Any personnel who may be expected to handle any form of HDs during receiving, stocking, and 
+inventory wears appropriate personal protective equipment (PPE) as defined in this policy. 
+2.8 Any personnel who may be expected to handle any form of HD during receiving and storing of 
+HDs are trained on proper handling of HDs, competency evaluated, and documented in 
+SoleSource® Simplifi 797® at least annually. Training includes: 
+• Identifying HDs according to the FMOLHS Baton Rouge Market Pharmacies HD list  
+• Use of required PPE 
+• Response to exposure of HDs, spill management, and proper disposal of HDs 
+• HD materials movement and handling 
+3. Roles & Responsibilities 
+3.1 The Designated Person (DP): 
+• Ensures all HDs are identified per the National Institute for Occupational Safety and Health 
+(NIOSH) list and maintains the list of HDs specifically handled at this facility annually. 
+• Ensures all personnel have education and training in the foundational knowledge and skills 
+needed to handle HDs and perform receiving and storage job duties successfully and safely; 
+per this policy and in order to minimize HD exposure in the facility. 
+• Provides immediate access to the SOPs, USP <800> and supporting Chapters and supporting 
+regulations, and other expert documentation to perform job duties successfully and safely.  
+3.2 Receiving Personnel and other personnel involved in handling HDs during the receipt and storage: 
+• Remain current and in good standing on all required education, trainings, evaluations, and 
+assessments pertaining to handling HDs.  
+• Ensure proper handling, receipt and storage of all HDs per all HD policies and/or drug-specific 
+AoR. 
+4.  Procedures 
+Receipt of Hazardous Drugs: 
+4.1 PPE worn when receiving HDs: 
+• Don rear opening chemotherapy gown and secure fasteners to ensure gown stays in place 
+during HD drug handling tasks. 
+• Don one pair of chemotherapy gloves over the cuff of the gown.  
+o Perform hand washing after doffing gloves worn to receive HDs. 
+• Additional PPE when the integrity of the shipping container is not known or is in question:  
+Don two pairs of chemotherapy gloves (one pair under the cuff and one pair over the cuff of 
+a chemotherapy gown), a chemotherapy gown, eye protection, and an elastomeric half-mask 
+with multi-gas cartridge and P100 filter respirator  o Fit test receiving personnel (with exact respirator in use), prior to using respirator per 
+Occupational Safety and Health Administration (OSHA) respiratory protection 
+standard (29 CFR 1910.134) 
+o Perform hand washing after doffing gloves worn to receive HDs. 
+4.2 Receive HDs in a location that is neutral or negative pressure. Receipt does not occur in a positive 
+pressure area. Inspect shipping container for any signs of damage or HD residue or leakage or 
+evidence of broken glass.  
+4.3 The location where HDs are received into stock contains the following items: 
+• Trace HD waste receptacle 
+• Multiple sizes of nonsterile, chemotherapy gloves 
+• Chemotherapy gowns 
+• Disposable, plastic backed, preparation mats, as needed, on which to place HD containers as 
+they are removed from the packaging in which HDs are shipped 
+• Spill kit 
+• Agents for decontamination, cleaning, and decontamination; including low -lint wipers for 
+applying agents 
+4.4 When the shipping container is intact and there is no evidence of HD leakage:  
+• Receipt in negative pressure storage room: 
+o Don chemotherapy gown and chemotherapy gloves. 
+o Move shipping containers into negative pressure storage room.  
+o Place disposable, plastic backed, preparation mats on the receiving counter/table. 
+o Before opening impervious bags, inspect the inside contents for broken HD.  
+o If contents inside bag are intact, remove items from bag and place onto disposable, 
+plastic backed, preparation mat as needed. 
+o Wipe outside of HD packaging with decontaminating agent. Discard used wipers into 
+trace waste receptacles.  
+o Decontaminate gloved hands.  
+o Scan HD items into inventory. If scanner/computer moves throughout inventory 
+locations, make all effort to not contaminate scanner/ computer and wipe 
+scanner/computer with decontaminating wiper after use. If scanner works from inside 
+a plastic bag, utilize plastic bag to protect the scanner from HD residue.  
+o Decontaminate the bins used to transport impervious bags into the negative pressure 
+storage room. 
+o Once all items are checked into inventory, move items to the storage location inside 
+the negative pressure storage room either inside bins at room temperature or inside 
+the refrigerator. Move items that are not stored in the negative pressure storage room 
+to their storage location with the non -hazardous inventory by placing inside the 
+decontaminated bins and moved out of negative pressure storage room. 
+o Dispose of disposable, plastic backed, preparation mat, if used, in the trace HD waste 
+receptacle.  
+o Remove gown by releasing the fastener, then grasp the gown at the hip area and pull 
+gown down and away from body.  Once the gown is off the shoulders, pull one arm at 
+a time from the sleeves so the gown arms are bunched at the wrist.  Then roll the exposed side of the gown inward until it is a tight ball.  Dispose of gown in trace HD 
+waste receptacle. 
+o Remove gloves by slowly removing the first contaminated glove and place into the 
+other gloved hand. Slide index finger under the remaining glove, and slowly pull the 
+glove off inside out without touching glove surface to ungloved hand or fingers making 
+a packet of the two gloves, and discard into trace HD waste receptacle. Wash hands 
+with soap and water.  
+o When HD inventory is being stored with non-hazardous inventory, don chemotherapy 
+gloves prior to placing item into correct storage bin. Doff gloves as described above, 
+then wash hands with soap and water. 
+• Receipt in neutral location: 
+o Determine the location to receive HDs that is separate from receipt of other 
+medication inventory. 
+o Place disposable, plastic backed, preparation mats on the receiving counter/table. 
+o Don chemotherapy gown and chemotherapy gloves. 
+o Open shipping container and look inside for visible signs of damage. If damage is seen, 
+stop receipt and follow steps for damaged container receipt. 
+o Remove impervious plastic bag from shipping container and place onto disposable, 
+plastic backed, preparation mat as needed. 
+o Before opening impervious bags, inspect the inside contents for broken HD.  
+o If contents inside bag are intact, remove items from bag and place onto disposable, 
+plastic backed, preparation mat as needed. 
+o Wipe outside of HD packaging with decontaminating agent. Discard wipers used into 
+trace waste receptacles.  
+o Decontaminate gloved hands. 
+o Scan HD items into inventory. If scanner/computer moves throughout locations, make 
+all efforts to not contaminate scanner/ computer and wipe scanner/computer with 
+decontaminating wiper after use . If scanner works from inside a plastic bag, utilize 
+plastic bag to protect the scanner from HD residue. All effort is made to not 
+contaminate the scanner. Decontaminate scanner after use. 
+o Once all items are checked into inventory, place items back into impervious plastic 
+sealed bags for transport into the negative pressure buffer room for storage or place 
+items into their storage location with the non-hazardous inventory. 
+o Disinfect the outside of the impervious bag containing the HDs by wiping with and a low-
+lint wipe saturated with sporicidal disinfectant prior to moving into the sterile 
+compounding suite. 
+▪ Chemotherapy gloves are worn when wiping down outside of the bag. 
+▪ Sporicidal disinfectant remains on the bag for the proper contact time. 
+o Disinfected impervious bag containing HDs are placed inside the interlocking pass-through 
+into the negative pressure buffer room.  
+o Disinfected impervious bags containing the HDs are moved into the ante room by opening 
+the ante room door placed on a cart or table on the inside of the ante room. The bag is 
+then moved into the negative pressure drug storage or buffer room through the neg ative 
+pressure room door.  o Properly garbed personnel wipe down the outside of the drug primary packaging before 
+placing the drug into the storage location either inside bin at room temperature or inside 
+the refrigerator.    
+o PPE is doffed as described above.  
+4.5 If the shipping container is damaged or there is evidence of HD residue or leakage and none of 
+the contents need to be removed: 
+• If the transport packaging is still intact and HD residues are not leaking from the primary 
+packaging or transport packaging, then continue with the steps below. 
+• Enclose the transport packaging in an impervious container and seal the container without 
+further manipulation. 
+• Label the outer container as “Hazardous Drug.” 
+• Place the impervious container in the segregated area that has been designated as 
+intermediate storage for drugs and supplies being returned to the supplier or distributor. 
+• If the supplier/distributor does not want the damaged primary packages returned, dispose of 
+the impervious container in the appropriate HD container for disposal. 
+• Since these drugs are more than trace waste, regardless of the drug (s) involved, dispose in 
+black RCRA waste. 
+ 
+4.6 If the shipping container is damaged and must be opened (e.g., to remove other HDs that are not 
+broken), the following steps are taken: 
+• Notify the DP of the damaged packaging. This is handled as a HD spill. See HD Spill policy.  
+• Don all appropriate PPE in the order and manner required to work in the location of the C -
+PEC and as described above. All hand hygiene and garbing and materials movement policies 
+and procedures are followed when working in a sterile suite. 
+• Transport the package in an impervious container to a C -PEC and place it on a disposable, 
+plastic-backed preparation mat.  
+• Carefully open the package. 
+• Carefully remove the drug package(s) that are intact and undamaged.  
+• Decontaminate each of these items with a low -linting wipe(s) that has been saturated with 
+the designated decontamination agent, and place the decontaminated items in an area in the 
+C-PEC that is not contaminated with HD residue. 
+• Leave the damaged item inside the packaging and place it in an impervious container. 
+• Decontaminate gloved hands and the impervious, sealed container and transfer it out of the 
+C-PEC. 
+• Doff outer pair of gloves. 
+• Label the impervious container as “Hazardous Drug.” 
+• If the distributor wants it back to verify breakage, place the container in the segregated area 
+that has been designated as intermediate storage for drugs and supplies being returned to 
+the supplier or distributor. 
+• If the supplier/distributor does not want the container returned, dispose of the container in 
+the appropriate HD container for disposal. 
+• Since these drugs are more than trace waste, regardless of the drug (s) involved, dispose in 
+black RCRA waste.   
+• The receiving personnel complete at Hazardous Drug Spill Report Form and the DP completes 
+the remainder of the form. • After the spill is thoroughly cleaned and before sterile compounding is resumed, the C-PEC is 
+deactivated and decontaminated. C -PEC is then cleaned and disinfected with an EPA 
+registered one-step sporicidal disinfectant cleaner. After the dwell time is ach ieved, wipe all 
+surfaces inside the C-PEC with sterile IPA. 
+ 
+ 
+Storage of Hazardous Drugs: 
+4.7 PPE worn when storing HDs: 
+• If storing HDs in a negative pressure storage location, don one pair of chemotherapy gloves 
+before placing inventory into storage locations. 
+• If storing HDs in a negative pressure buffer room, follow all hand hygiene and garbing 
+procedures prior to entering the negative pressure drug storage location, see Hand Hygiene 
+and Garbing policy and HD PPE policy for all required procedures. Don hair cover, facial hair 
+cover, mask, two pairs of shoe covers, chemotherapy gown, and chemotherapy gloves before 
+placing inventory into storage locations.     
+4.8 Configure all bins, drawers, or storage containers where HDs are stored to reduce the risk of 
+breakage and facilitate the containment of spills in the event of container leakage.  
+4.9 Store HD vials and other dosage forms inside their primary packaging (e.g., manufacturer’s 
+plastic-coated box) to further safeguard the dosage form from breakage and spills should it fall 
+or be dropped. 
+4.10 Store antineoplastic HDs that require further manipulation (other than counting or repackaging 
+final dosage forms) and any HD active pharmaceutical ingredients (APIs) separately from non -
+HDs. 
+4.11 The storage location for antineoplastic HDs that require further manipulation (other than counting 
+or repackaging final dosage forms) and any HD API includes all of the following: 
+• Fixed walls 
+• Maintains a negative pressure of 0.01” to 0.03” w.c. to the adjacent spaces 
+• Has at least 12 air changes per hour (ACPH) 
+• Exhaust is externally vented outside of the building terminating 10 feet above the roof and 
+not located near any air intake per appropriate building codes and standards.   
+4.12 Where not defined differently in an AoR; storage of HDs occurs in a separate negative -pressure 
+HD storage area, a negative -pressure buffer room, or Containment Segregated Compounding 
+Area (C-SCA) designated for HD compounding. 
+• When stored in the negative-pressure buffer room there is adequate room for storage and 
+the room maintains all required standards for certification.  
+4.13 Store non -antineoplastic (NIOSH Table 2), reproductive risk -only (NIOSH Table 3), and final 
+dosage forms of antineoplastic dosage forms with other non -hazardous inventory, as 
+determined by the AoR. Disinfect the outer packaging before placing inside plastic bins.  
+4.14 HDs used for nonsterile compounding are not stored in the areas designed for sterile 
+compounding, as the additional activity of personnel coming to get inventory may negatively 
+affect these areas. 4.15 Store refrigerated antineoplastic HDs that require further manipulation (other than counting or 
+repackaging final dosage forms) and any HD API in a dedicated refrigerator in a negative pressure 
+area with at least 12 ACPH (i.e., containment storage room, HD buffer room, or C-SCA). 
+• If the refrigerator has a compressor, then the refrigerator should be placed adjacent to an 
+exhaust in the room. Ideally, the exhaust placement is aligned with the location of the 
+compressor (top or bottom) in the refrigerator. 
+• If the refrigerator is solid state (does not have a compressor), then it may be placed in a 
+location within the C-SCA or HD buffer room that is most advantageous to the workflow. 
+4.16 Multidose vials (MDV) of antineoplastic HDs requiring manipulation that have been partially used are stored in the 
+C-PEC, C-SCA, dedicated HD refrigerator, or hazardous buffer room consistent with the storage conditions described 
+in the package insert. 
+• CSTD vial spike remains in the MDV  
+• Decontaminate vial surfaces, place vial inside sealed bag if needed. 
+• Move MDV inside sealed bag to proper storage location within the HD buffer room.     
+4.17 Never load Antineoplastic HDs into an Automated Dispensing Cabinet (ADC) unless otherwise 
+specified in the AoR.   
+ 
+5. Definitions 
+5.1 Active Pharmaceutical Ingredients (API): Any substance or mixture of substances intended to be 
+used in the compounding of a drug preparation, thereby becoming the active ingredient in that 
+preparation and furnishing pharmacological activity or other direct effect in the diagnoses, cure, 
+mitigation, treatment, or prevention of disease in humans and animals or affecting the structure 
+and function of the body.  
+5.2 Assessment of Risk (AoR) : Evaluation of risk to determine alternative containment strategies 
+and/or work practices. 
+5.3 Containment segregated compounding area (C-SCA): A type of C-SEC with nominal requirements 
+for airflow and room pressurization as they pertain to HD compounding. 
+5.4 Chemotherapy glove: A powder -free medical glove that meets the ASTM Standard Practice for 
+Assessment of Resistance of Medical Gloves to Permeation by Chemotherapy Drugs (D6978) or 
+its successor. Gloves are either sterile or non-sterile depending on use.  
+5.5 Chemotherapy gown : Gown used for handling HDs that is disposable, polyethylene -coated 
+polypropylene (or a similar laminate) to resist permeation by HDs, seamless, closes in the back, 
+has long sleeves, and has cuffs made of elastic or a knit material.    
+5.6 NIOSH: National Institute of Occupational Safety and Health 
+5.7 Resource Conservation and Recovery Act (RCRA): The public law that creates the framework for 
+the proper management of hazardous and non-hazardous solid waste  
+5.8 Trace HD Waste : Materials that have come into contact with or may contain only a residual 
+amount of HD. Usually less than 3% of HD material by weight.   
+ 
+6. Related Policies, Documents, References 6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc. <795> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.3 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.4 Occupational Safety and Health Administration (OSHA) respiratory protection standard (29 CFR 
+1910.134) 
+6.5 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22.  
+6.6 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 
+7. Approval and Review Summary 
+ 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 

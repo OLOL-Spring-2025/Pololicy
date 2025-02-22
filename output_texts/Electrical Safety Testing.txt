@@ -1,0 +1,87 @@
+Approved
+Standard Operating Procedure
+Document #: TMX-SOP-0077 Revision: 5
+Document Type: TMX Effective Date: Mar 1, 2009
+Department: CE Safety Origination 
+Date:
+Mar 1, 2009
+Title: Electrical Safety Testing
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 1 of 2
+1.PURPOSE -- SCOPE
+Recognizing that the term "Electrical Safety" refers to a process within the healthcare 
+environment, and not merely a specific procedure, TRIMEDX will collaborate with our 
+customers to help provide an electrically safe environment. One such action in support of 
+the process of Electrical Safety is to complete specific types of testing on electrically 
+powered medical equipment. Electrical safety testing of clinical electrical/electronic 
+devices is the responsibility of TRIMEDX, in accordance with the terms of our specific 
+customer agreements to prevent harm to patients and staff.
+Leakage current and ground resistance values will be measured during the incoming 
+inspection and/or maintenance procedures for each device when electrical safety testing 
+is a required component of the inspection(s). Values (outputs) must be recorded on the 
+work order and the indication of pass or fail within limits stated in the criteria section of 
+each testing procedure. 
+Devices that are not in the scope are battery powered (under 20 or 12 volts) devices and 
+two-pronged devices where visual inspection of cord is acceptable to ensure it is double 
+insulated and intact.
+2.REFERENCE DOCUMENTS
+3.DEFINITIONS
+4.ABBREVIATIONS
+4.1. ESI – Electrical Safety Inspection
+5.RESPONSIBILITIES
+5.1.TRIMEDX Site Manager
+5.1.1.Ensure that TRIMEDX technicians comply with this policy/procedure
+5.1.2.Review completed Work Orders to ensure Electrical Safety Testing is 
+completed and documented
+5.2.TRIMEDX Technician
+5.2.1.Conduct Electrical Safety Testing as mandated by this policy/procedure
+5.2.2.Properly document conducted testing under Work Order Repair Notes
+COPYApproved
+Standard Operating Procedure
+Document #: TMX-SOP-0077 Revision: 5
+Document Type: TMX Effective Date: Mar 1, 2009
+Department: CE Safety Origination 
+Date:
+Mar 1, 2009
+Title: Electrical Safety Testing
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being 
+used.
+Copyright © 2020 TRIMEDX All information contained herein is confidential and 
+proprietary to TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 2
+6.PROCEDURE
+6.1.Perform electrical safety testing on electrically powered medical devices during 
+incoming inventory on new equipment prior to initial clinical use and following 
+repairs and modifications.
+6.2.NFPA 99, 2012 Testing requirements for electrical equipment within healthcare 
+facilities:
+6.2.1. Physical Integrity of the power cord by visual inspection
+6.2.2. Resistance between the appliance chassis and ground pin of the attachment 
+plug must be less than 0.50 ohm.
+6.3.Leakage Current Tests:
+For Fixed Equipment: tested prior to installation while equipment is temporarily 
+insulated from ground; the leakage current flowing through the ground conductor 
+of the power supply to ground of the permanently wired devices shall not exceed 
+10.0 mA (ac or dc) with all grounds lifted
+6.3.1.For Touch Current - Portable Equipment: touch current for cord-connected 
+equipment shall not exceed 100 microamperes with ground wire intact with 
+normal polarity; shall not exceed 500 microamperes with ground wire 
+disconnected
+6.3.1.1.Lead Leakage Current Tests: 
+6.3.1.1.1.For Portable Equipment: leakage current between all patient 
+leads connected together shall be measured with power plug 
+connected normally and device on; leakage current shall not 
+exceed 100 microamperes for ground wire closed and 500 
+microamperes for ground wire open
+6.3.1.1.2.Use Attachment 1: Summary of Limits for Portable Equipment 
+as a reference.
+7.QUALITY RECORDS
+8.PROCESS FLOWCHART
+Appendix A: Additional Resources
+END OF DOCUMENT
+COPY

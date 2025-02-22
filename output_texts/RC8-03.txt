@@ -1,0 +1,73 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter:  
+Subject:  BIPAP Section: Ventilator 
+Date of Origination: June 1995 Supersedes:  
+Date of Last Revision: October 21, 2021 Serial Code: RC8-03 
+Date of Last Review:  October 21, 2021 
+ 
+         
+PURPOSE: 
+The purpose of this policy is to outline the proper use of Bipap across the facility and 
+outline proper assessment.  
+ 
+PROCESS: 
+THERAPIST RESPONSIBILITIES AFTER INSTITUTION OF NON-INVASIVE 
+VENTILATION: 
+A. A physician order must be received to initiate Non -Invasive Ventilation on any 
+patient.  
+B. All proper handwashing and infection control precautions will be maintained 
+while engaged in patient care.  
+C. The respiratory therapist will place patient on ordered Non -invasive ventilation 
+settings.  The Respiratory therapist will conduct a complete patient assessment.  
+The assessment will include but is not limited to the following: auscultation of 
+breath sounds to verify equal breath sounds and proper chest expansion,  heart 
+rate, respiratory rate, work of breathing and SpO2.  All assessment parameters 
+will be documented in the patient’s EMR. .   
+D. If not already ordered, the therapist may request an arterial blood gas after 
+instituting continuous non-invasive ventilation. 
+E. The respiratory therapist will explain all procedures to the patient. 
+F. The respiratory therapist will document set values as well as all measured 
+parameters in the patient EMR.  
+G. The respiratory therapist will set appropriate alarms.  These alarms will be 
+assessed with each patient assessment to ensure the appropriateness of the 
+settings.    
+H. The non -invasive ventilator settings should be checked and documented in 
+accordance with the patient’s order and acuity: 
+a. Non-invasive ventilation Continuous: should be assessed no less frequent 
+than every four hours with the recommended frequency of every 2 hours.   
+b. Non-invasive ventilation QHS:  assessment and documentation should be 
+no less frequent than every 6 hours.   
+I. The following parameters should be checked: 
+1. Appropriateness of the mask fitting and the skin integrity beneath it.  
+2. Inspiratory Pressure and Expiratory Pressure 
+3. Exhaled tidal volume and minute ventilation 
+4. Total respiratory rate 5. FiO2 
+J. Indications and contraindications will be considered for any patient receiving non-
+invasive mechanical ventilat ion. The physician should be contacted for all 
+concerns regarding indications and contraindications. 
+1. Indications for BiPAP 
+a. Unacceptable hypoventilation and CO2 retention. 
+b. Clinical signs of ventilatory muscle fatigue. 
+c. Unacceptable hypoxemia. 
+d. Post-extubation difficulties/upper airway obstruction. 
+2. Contraindications for BiPAP 
+a. Lack of spontaneous respirations 
+b. Pre-existing pneumothorax or pneumomediastinum. 
+c. Hypotension due to or associated with intravascular volume depletion. 
+d. Pre-existing bullous lung disease 
+e. Nosebleeds 
+f. Decreased level of consciousness  
+g. Inability to clear secretions or excessive secretions 
+h. Patient with increased risk of vomiting 
+ 
+K. The disposable ventilator circuit will be changed only when visibly soiled, as 
+recommended by the Centers for Disease Control Guidelines. 
+L. Psychological considerations - The therapist will make every effort to 
+communicate with the patient regarding all procedures. 
+ 
+ 
+VENTILATOR OPERATION: 
+ 
+For specific instructions on the operation of the non -invasive ventilators, please refer to 
+the respective operator manuals for the device.  

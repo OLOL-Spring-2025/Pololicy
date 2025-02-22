@@ -1,0 +1,270 @@
+OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 1 of 6 
+LBA019 
+LABORATORY ADMINISTRATION MANUAL 
+LBA019 
+ 
+TURN AROUND TIME (TAT) 
+ 
+ 
+PURPOSE 
+ 
+To define the laboratory’s expected turnaround time in order to ensure that results are 
+reported in a timely manner to optimize patient care and outcomes.   
+ 
+This policy refers to Laboratory Turnaround Time.  It applies to specimens that have 
+been collected by laboratory staff, therefore avoiding factors outside of the laboratory’s 
+control.  For example: delays in receiving nurse collected specimens and transport 
+time.             
+ 
+DEFINITIONS 
+ 
+Total Turnaround Time  
+Defined as the cumulative time taken for a sample to be processed. It includes the 
+start time at which the test is ordered, the time the sample is taken from the 
+patient, time spent in transportation, its arrival at processing/registration, pre-
+analytical and post-analytical phases until verification by laboratory staff, the 
+result being issued, and its subsequent receipt by the requesting physician.  
+   
+Laboratory Turnaround Time  
+Defined as the total time taken for a sample to be processed within the laboratory,  
+from its arrival in processing/registration until a result has been verified and  
+released into the computer system.   
+ 
+ 
+POLICY  
+ 
+Clinical Laboratory services are geared to provide timely and accurate test results, which 
+contributes to high quality patient care. Our goal is to provide services in a consistent 
+manner throughout all areas of departmental services, allowing physician caregivers to 
+make effective patient care decisions. 
+ 
+Multiple aspects of the testing process that contribute to turnaround times are monitored.  
+STAT inpatient, Emergency Care, and Outpatient turnaround times are monitored 
+routinely to ensure test results are available in a timely manner and to identify 
+opportunities for quality improvement. For specific quality assurance purposes, 
+laboratory administration may decide to also focus on assessing additional components of 
+the total testing process if these times can be accurately monitored and documented. This 
+may then result in assessment of pre-analytical and/or post-analytical components as well 
+as the analytical component of test turnaround time. OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 2 of 6 
+LBA019 
+ORDER CLASSIFICATIONS 
+ 
+Prioritization of specimen collection/reporting is determined by the order classification. 
+  
+• STAT Tests- Test results that are urgently needed for the diagnosis or treatment 
+of the patient.  
+o Highest priority.   
+o Used to identify "potential life threatening condition."   
+o STAT samples are collected immediately and reported within one hour 
+(maximum time) of receipt in lab.  See expected TAT section below. 
+o There may also be a need for certain locations with high risk patients to 
+require expediting of specimens on a regular basis as a “STAT”. 
+▪ ECU 
+o STAT testing should be limited to critical patient needs. 
+ 
+• ASAP (As Soon As Possible) - Test results that are needed as soon possible for 
+the diagnosis or treatment of the patient.  
+o Second tier of priority.   
+o Collected and reported within two hours of order. 
+ 
+• TODAY/ROUTINE- Tests that are collected and batched for efficiency and cost 
+effectiveness.  
+o These results are not needed on an immediate basis for diagnosis or 
+treatment.   
+o To be collected after other priority specimens and reported within 4 hours 
+of order. 
+ 
+• AM- To be collected by the established schedule for each unit.  
+o Reported within 2 hours of collection.   
+ 
+• TIMED-Orders specifying collection at a specific time usually coordinated with 
+medication schedules, procedures, or processes.   
+o Timed requests are reported within two hours of order. 
+ 
+ 
+LIMITATIONS 
+ 
+For tests performed within the Laboratory, the main factors directly affecting laboratory 
+turnaround times are delays in receipt of sample, assay frequency, and abnormal results 
+requiring further sample processing/dilutions, etc.  
+ 
+ 
+REFERRAL TESTING 
+ 
+Referral tests are shipped to outside laboratories throughout the day, Monday through 
+Friday.  Tests referred to outside laboratories have varying turnaround times that are 
+established by the referral laboratory.  Because most of these tests are esoteric and have OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 3 of 6 
+LBA019 
+complex testing methodologies, turn-around times can vary greatly from test to 
+test.   Please refer to the OLOL On-line Test Catalog for more information on specific 
+tests. 
+ 
+ 
+ 
+OUTREACH LABORATORY SERVICES 
+ 
+Test results performed in-house are reported, excluding batch tests, the same day or 
+following day dependent upon the time specimens are received within the laboratory. 
+ 
+STAT Testing for Outreach Clients: 
+• Our goal is to have STAT results available within one hour from the time the 
+specimen is received within the laboratory.  
+• STAT testing should be limited to critical patient needs. 
+ 
+ 
+NOTIFICATION WHEN TESTING IS DELAYED 
+ 
+The section responsible for the delay of patient reporting will notify (and document) the 
+appropriate person(s) regarding the circumstances leading to a significant delay in the 
+timely reporting of lab results. The policy for notification when testing is delayed was 
+developed with the input of Nursing Leadership. 
+ 
+ 
+PROCEDURE 
+ 
+The following TAT limits are defined for common laboratory tests performed continually 
+by this lab.  Some specimens requiring special treatment may exceed these TATs.  
+Batched tests and other specific tests (Microbiology, Transfusion Services, Special 
+Chemistry) may have longer turnaround times.  Please refer to individual department 
+policies and procedures for individual testing.   
+ 
+ 
+ROUTINE/EXPECTED TURNAROUND TIMES 
+ 
+Order Classification Measurement Times 
+ECU STAT In lab to result <30 min 
+STAT In lab to result <45 min 
+AM In lab to result <2 hours 
+ASAP Order to result <2 hours 
+TIMED Order to result <2 hours 
+TODAY/ROUTINE Order to result <4 hours 
+ 
+*Note: Abnormal/Reactive tests results may take longer than these prescribed times due 
+to required further processing and repeating for confirmation of results. OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 4 of 6 
+LBA019 
+ 
+ 
+ 
+ 
+ 
+ 
+STAT TESTING AVAILABLE  
+• Definition of STAT Test- Test results that are urgently needed for the diagnosis or 
+treatment of the patient. Used to identify "potential life threatening conditions." 
+• Any test can be ordered as STAT, but the following tests are performed STAT. 
+ 
+ 
+Chemistry 
+Acetaminophen Cocaine Urine Screen Methotrexate 
+Albumin  CPK Level Opiate Urine Screen 
+Alcohol CPK MB Panel (No Troponin) Phenobarbital 
+Alkaline Phosphatase Creatinine Level Phosphorus Level 
+Amikacin Peak CSF Glucose Potassium Level 
+Amikacin Random Depakene (Valproic Acid) Potassium Plasma Level 
+Amikacin Trough Digoxin Propoxyphene Urine Screen 
+Aminophylline (Theophylline) Dilantin (Phenytion) Protein Total 
+Ammonia Direct Bilirubin Renal Function Panel 
+Amphetamine Urine Screen Drug Screen Urine Salicylate 
+Amylase Level Electrolytes Level Sodium Level 
+Barbiturate Urine Screen GGTP Tetrahydrocannabinol Screen Urine 
+Basic Metabolic Panel Gentamicin Peak Tobramycin Peak Level 
+Benzodiazepine Urine Screen Gentamicin Trough Tobramycin Trough Level 
+Bilirubin Level (direct and indirect) Gentamicin Random Tobramycin, Random Level 
+Brain Natriuretic Peptide (BNP) Glucose Level Tricyclic Antidepressant Screen 
+BUN Level HCG Titer Quant-Pregnancy Troponin Adv Level 
+Calcium Level HIV Ab/Ag combo Urea Nitrogen Urine Random 
+Carbamazepine Level Parathyroid Hormone (iPTH)* Uric Acid Level 
+Cardiac Enzymes (No Troponin) Lactic Acid Level Vancomycin Peak Level 
+Chem12(Comprehensive Metabolic 
+Panel) Lipase Vancomycin Trough Level 
+Chloride Level Lithium Level Vancomycin Random Level 
+Cholinesterase Pseudocholinesterase Liver Profile (Hepatic Function)  
+CKMB Level Magnesium Level  
+CO2 Methadone Urine Screen *iPTH -intraoperative testing-
+requires advance notification 
+Hematology 
+CBC PTT Urine Pregnancy  
+Hemogram Fibrinogen Serum Pregnancy  
+Hemoglobin and Hematocrit D-Dimer Acetone OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 5 of 6 
+LBA019 
+Platelet Count AT III Platelet Function Assay 
+Retic Count ANTI-Xa  
+Sed Rate Thrombin Time  
+Sickle Screen Urinalysis  
+PT/INR Transfusion Reaction Urinalysis  
+Serology 
+Mononucleosis 
+Mycoplasma pneumoniae 
+Cryptococcal antigen 
+Microbiology 
+Gram stain 
+Gastric occult blood 
+Fecal occult blood 
+Rapid Flu 
+Rapid RSV 
+Rapid Rotavirus 
+Rapid Strep A 
+  
+For all other lab tests and blood components consult the lab for availability and 
+turnaround times. 
+ 
+REPORTING OF RESULTS 
+ 
+All results are available through the patient’s EMR.  For outpatient test reporting refer to 
+individual client reporting systems (Atlas, EPIC, or secure fax). 
+ 
+All critical results shall be reported according to the Laboratory Administration Critical 
+Values Policy (LBA018) and OLOL Organizational Policy (OC-044). 
+ 
+ 
+ 
+REVISIONS 
+3/20/15 (created), 7/20/17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR LADY OF THE LAKE RMC 
+BATON ROUGE, LA     70808 
+Page 6 of 6 
+LBA019 
+ 
+ 
+ 
+ 
+ 
+ 
+    By    Date 
+ Prepared/Revised D. Leger 7/20/17 
+Blood Donor Service Director Review D Gremillion 10/3/2017 
+Core Lab Director Review J Teague 9/22/2017 
+Outreach Director Review E Landry 9/26/2017 
+Medical Director Review A Harton 9/16/2017 
+ Effective Date 10/6/2017 
+ Origination Date 3/20/15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

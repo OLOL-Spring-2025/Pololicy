@@ -1,0 +1,180 @@
+  
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: Nitric Oxide Setup and Delivery DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 5/1/2024 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP# 
+ Page 1 of 4 
+ 
+Purpose:   
+The purpose of this Standard Operating Procedure is to outline the systematic process for setting up, 
+operating, and transitioning between consoles for Genosyl DS Delivery System designed to deliver Nitric 
+Oxide (NO) therapy. By following this SOP, respiratory therapists ensure the safe and effective 
+administration of NO therapy while maintaining equipment integrity and adherence to institutional 
+protocols. 
+ 
+1. The Genosyl DS delivery system consists of two consoles that are identical in operation. The components of each 
+delivery module are: 
+• Silver on-off power button 
+• Nitric oxide delivery port.  
+• Adaptive sensor port  
+• nitric oxide manual ventilation port  
+• Calibration port  
+• Water trap with gas sample port. 
+• Interactive touchscreen user interface.  
+• Cassette access door 
+• Two cassette bays  
+2.  Genosyl DS Cassette 
+       The cassette contains the material that will be converted to nitric oxide once activated. 
+• Confirmed the cassette state window is blue.  
+• The plastic perforation below the cassette state window has not been punctured. 
+• The expiration date has not passed. 
+•  If the cassette state window is not blue or the plastic perforation has been punctured. The 
+material within the cassette has been inert and cannot dose nitric oxide gas.  
+ 
+3. Ventilator Circuit Components and System Setup and Connections 
+The components and accessories that make up the Genosyl DS delivery system circuit. 
+1. Adaptive Sensor 
+2. NO Gas Injection Adapter x 2 
+3. Adapter 22mm ID 
+4. Inline Breathing Circuit Filter 
+5. GENOSYL DS Gas Lines: NO Injection Line (red) Sample Line (blue); Manual Ventilation Line (clear) 
+6. Water Trap x 2 
+7. Injection Line Filter  
+8. GENOSYL DS Manual Ventilation Bag NO Adapter 
+9. 6-inch corrugated tubing    
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: Nitric Oxide Setup and Delivery DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 5/1/2024 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP# 
+ Page 2 of 4 
+ 
+1. We will establish connections to the console and a standard ventilator circuit. Push and twist. Clockwise, 
+the short Y end of the red NO injection line to the red NO delivery port on the front panel of the top 
+console. 
+2. Push and twist. Clockwise, the short Y end of the blue sample line to the gas sample port on the front of 
+the water trap that is attached to the top console. 
+3. Repeat connections for the red NO injection line and the blue sample line on the bottom console.  
+4. Connect the adaptive sensor cable to the adaptive sensor port on the console that will be used to dose 
+genocidal.  
+5. Connect the adaptive sensor to the adaptive sensor cable by aligning the gold tabs and snapping the 
+connector in place.  
+6. Connect the adaptive sensor to the injection adapter. 
+7. Connect the red NO injection line to the injection adapter.  
+8. Connect the inline breathing circuit filter to the distal end of the injection adapter.  
+9. Place the injection assembly on the dry side of the circuit before the heater humidifier.  
+10. Push and twist clockwise. The lure lock collar of the sample line onto the sample port of the gas sample 
+tee. Place the gas sample T in the inspiratory limb of the patient's circuit. Gas sample T should be placed 
+six to 12 inches from the patient circuit Y.  
+11. Ensure the blue stopcock valve is in the open position. 
+12. To set up the manual ventilation connection, push and twist the clear line to the end of the manual 
+ventilation line clockwise to the manual ventilation port on the front panel of the top and bottom console. 
+Connect the manual ventilation line to the. NO injection port of the manual. Ventilation bag and NO 
+adapter 
+ 
+ 
+Ventilator 
+    Heater   
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: Nitric Oxide Setup and Delivery DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 5/1/2024 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP# 
+ Page 3 of 4 
+ 
+ 
+4. System Startup 
+• Ensure the power cord is firmly seated in the power supply and connected to the back of each console.  
+• Ensure the black rocker power switch is pushed downward towards the power connector.  
+• Press the silver power buttons on both consoles. 
+• The display screens will illuminate, and the consoles will beep. Indicating the power is on. 
+ 
+5. Cassette Insertion & Water Trap/Sample Line Leak Test 
+• You will need two cassettes for the dosing console and at least one for the backup console. 
+Confirmed the cassette state window on each cassette is blue and the plastic perforation below the 
+cassette state window has not been punctured. Check the expiration date for each cassette to 
+ensure it is not expired.  
+• Open the cassette, access doors, and insert two cassettes into the dosing console and at least one 
+cassette into the backup console by pushing the middle of each cassette until it clicks, indicating 
+proper seating.  
+• The consoles will acknowledge that a cassette has been inserted.  
+• A sample line leak test will automatically appear on both consoles. Follow the on-screen prompts to 
+complete the water trap sample line leak test. First, close the blue stopcock located at the end of 
+the blue sample line. Once the test is complete. Reopen the stopcock to the same position as 
+pictured on the screen and press accept.   
+ 
+6. Cassette Activation/ Nitric Oxide Dosing 
+• Entering the prescribed dose of nitric oxide is the next step.  
+• Press the set button on the primary console, which has the adaptive sensor connected. You will 
+notice that 20 PPM is pre-populated. You may use the numeric keypad to change the dose by simply 
+typing over it and pressing OK. The console will activate one of the two cassettes and begin dosing 
+NO at the enter dose. 
+•  If the set button is not present on the screen. Ensure there is flow through the patient's respiratory 
+device and the adaptive sensor icon is green with an arrow.  
+• When there isn't an adaptive sensor connected. Press the set button. Select the total flow range on 
+the user interface that matches the flow of the patient's gas delivery system bias flow and minute 
+ventilation. Enter the prescribed dose of nitric oxide and press OK.   
+7. Manual Ventilation & Dosing 
+• Press the button and switch to manual on the dosing console. Follow the onscreen prompts, which ask 
+you to ensure the clear NO manual ventilation line is attached to the manual ventilation port on the 
+front panel. Then press confirm.    
+  
+STANDARD OPERATING PROCEDURE 
+TITLE: Nitric Oxide Setup and Delivery DEPARTMENT:  Respiratory Care 
+SOP No:  OLOLRC-SOP# 
+AUTHOR: Tim Cordes 
+EFFECTIVE DATE: 5/1/2024 Last REVIEW DATE:  
+ 
+                                                                                                                                                                         
+No: OLOLRC-SOP# 
+ Page 4 of 4 
+ 
+• Manual nitric oxide dosing will default to the set dose in primary mode. The dilution flow rate will 
+default to 10 liters per minute. Ensure this matches the flow through your manual ventilation system. If 
+an adjustment of the nitric oxide concentration is required. Press the green up or down arrows. If an 
+adjustment to the dilution flow rate is required. Press the LPM value, and a drop-down menu will 
+expand. 
+•  To return to primary mode once manual ventilation is complete. Select switch to primary. Follow the 
+on-screen prompts and then press confirm. If the adaptive sensor is not connected, select switch to 
+primary and select the total flow range on the user interface that correlates with the flow of the 
+patient's gas delivery system. Press OK and then press confirm. The NO dose that was used during 
+manual ventilation will automatically carry over to the primary. 
+ 
+8. Cassette Transition 
+• When a cassette approaches depletion, the console will automatically transition from the actively dosing 
+cassette to the secondary cassette. This is shown by a moving arrow that indicates which cassette the 
+console is transitioning. Once the transition is complete, the console will alert you to which cassette 
+needs to be replaced with a new one.   
+ 
+9. Console Use as a Backup 
+• The backup console should be used to maintain Genosyl DS delivery of NO in the unlikely event of 
+abrupt discontinuation. Press the set button on the backup console. Enter the dose, select the 
+appropriate total flow range, and press OK. The console will activate one of the two cassettes and begin 
+dosing Genosyl DS delivery at the entered dose. if the adaptive sensor was connected, unplug the 
+adaptive sensor cable and move it to the newly activated backup console, which is now your dosing 
+console. 
+10. GENOSYL Delivery System- Console Shutdown  
+• When you are finished using the system, follow these steps for shutdown. Ensure the target dose is set 
+to 0. If the Settings tab is not displayed, press the menu tab to access the sub-level tabs. Press the 
+settings tab on the display menu.  
+• Press the red system Shutdown icon. Press confirm to shut down. The consoles will eject the cassettes 
+during the system shutdown. Wait until the console shuts down and the display screen appears blank 
+prior to proceeding. Repeat the steps for the other console.  
+• Open the cassette access door and remove the cassettes by pulling them straight out. Verify the color of 
+each cassette state window. The ones that are no longer blue have been used and can be discarded. The 
+blue ones can still be used. Close the cassette access door. 
+ 
+ 

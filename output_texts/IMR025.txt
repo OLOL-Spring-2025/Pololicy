@@ -1,0 +1,31 @@
+POLICIES AND PROCEDURES MANUAL      Manual: Organizational    
+Our Lady of the Lake Regional Medical Center     Chapter: Imaging Services  
+Subject:  Pacemaker in MRI                                 Section: MRI    
+Date of Origination: 02/13/2023          Supersedes:             
+Date Last Revised: 6/23               Serial Code: IMR025 
+Reviewed: 3/23, 2/24                              
+                  
+PURPOSE:  
+Establish guidelines for performing MRI exams on patients with MRI compatible cardiac 
+pacemakers. 
+POLICY:  
+Screening: All patients who have an order for an MRI must be screened to determine if a MRI 
+Compatible cardiac pacemaker is in place.  
+For patients who have a cardiac pacemaker, the vendor may require a Cardiology Screening 
+Order. The Cardiology Order requires a signature by the patient’s personal cardiologist prior to 
+scheduling of the study. If the personal cardiologist is unavailable, the ordering provider is to 
+obtain the signature of an alternate cardiologist. At that time, it will be determined if the 
+pacemaker is MR Safe or Conditional for MR Imaging based on manufactures recommendation.  
+ 
+If a cardiology form is required it is reviewed by MRI staff, the clinical representative of the 
+manufacturer is contacted to schedule the study. The MRI technologist will coordinate the 
+scheduled study with the radiology nurse. 
+  
+When the patient arrives in the department, the clinical application representative or MRI 
+technologist will directly, remotely, or with an IPAD, connect to the pacemaker and place the 
+device in MRI mode for the duration of the examination. The nurse will be present to monitor 
+the patient via cardiac monitor.  
+These are guidelines and may vary based upon a certain clinical situation.  For example, patient 
+requiring sedation, difficulty in obtaining cardiologist signature, or manufacturer requiring 
+pacemaker is at least six (6) weeks post implantation.  
+  

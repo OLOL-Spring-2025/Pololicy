@@ -1,0 +1,55 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  Package Receipt and check-in of Radioactive 
+Materials 
+Section:  Nuclear Medicine 
+Date of Origination:  July 2003 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+January 14, 2019 
+02/2019, 1/21, 3/23, 2/24 
+Serial Code:  INM 011 
+    
+POLICY: PACKAGE RECEIPT AND CHECK-IN OF RADIOACTIVE MATERIALS 
+ 
+PROCEDURE: 
+Upon receipt of radioactive materials a registered/certified or eligible Nuclear Medicine Technologist, licensed 
+by the state of Louisiana will inspect the package for any damage or wetness. If either of these conditions exists 
+the technologist will perform protocols defined in ACTION PROTOCOLS, listed below.  
+The package will be assayed by the technologist with a survey meter equipped with a "pancake" G-M detector. 
+The readings will be recorded on the package check-in register, or Syntrac where applicable. 
+The package check-in register/or Syntrac, will include the following data: 
+A. The date and the time of check-in. 
+B. Label type. 
+C. Transportation index on label. 
+D. Reading in MR/HR both at the surface and at 1 meter. 
+E. Background reading in MR/HR. 
+F. Initials of technologist doing the check-in. 
+ 
+RECEIVING AND OPENING PACKAGES OF RADIOACTIVE MATERIAL 
+As a matter of radiation safety to the employees and the general public, the following procedure should be 
+followed when receiving packages of radioactive material. 
+All shipments of radioactive material shall be delivered to the Nuclear Medicine department. The technologist 
+in charge or designee, shall be responsible for receipt and logging of the shipment. 
+All packages shall be subject to visual inspection promptly, upon receipt in the facility. If there is no physical 
+damage or surface wetness observed, accept the package and proceed to package survey.  
+If the package arrives by exclusive use vehicle such as pharmacy delivery, no wipe testing is required unless the 
+shipment is more than 20 Ci of Mo-99 or if the package contains more than 10 Ci in the aggregate of Tc-99m, 
+Ga-67, T1-201, and/or I-131.  2 
+If these limits are exceeded, contamination surveys (wipes) must be done. If the results of the wipe testing is 
+higher than 2,200 DPM, the Carrier and the LADEQ must be notified promptly.      (*Net CPM x 9.1 = DPM) 
+The following is not required by regulation, but it is advised for safety of the Nuclear Medicine personnel. 
+On every shipment of radioactive material, survey the exterior of the package with the survey meter at the 
+surface or at 3 feet from the surface. If the level at the surface exceeds 200 mr/hr or 10 mr/hr at 3 feet, notify the 
+carrier and the LADEQ at once. 
+ACTION PROTOCOLS 
+If a package is received and is wet, or obvious damage has occurred, the package is to be surveyed and wipe 
+tested immediately. If the results of these tests reveal activity levels two (2) times background (NET), isolate 
+and shield the shipment immediately, call the vendor or pharmacy, notify the Radiation Safety Officer and the 
+department manager. 
+ 
+ 
+ 

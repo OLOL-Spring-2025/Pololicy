@@ -1,0 +1,117 @@
+NICP-005 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Neonatal Intensive Care  
+Subject:  Neonate Exchange Transfusion Section:  Patient Care 
+Date of Origination:  October 23, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+ 
+August 23, 2024 
+Serial Code:  NICP-005 
+  
+PURPOSE: 
+To provide standard for exchange transfusion for the following patients:  
+▪ To treat alloimmune hemolytic disease of the newborn. 
+▪ To treat significant unconjugated hyperbilirubinemia with risk of kernicterus due to any cause when 
+intensive phototherapy is unsuccessful. 
+a. To remove circulating bilirubin to reduce levels and prevent kernicterus 
+b. To replace antibody-coated red cells with antigen-negative cells 
+▪ Polycythemia 
+ 
+POLICY: 
+The policy for performing neonatal exchange transfusions is as follows: 
+ 
+EQUIPMENT: 
+Blood Warmer and tubing 
+Exchange Transfusion Tray/Kit  
+Cut down/umbilical line tray and/or Hemodynamic/Central Line Cart 
+Appropriate personal protective equipment (PPE) 
+Assorted syringe sizes 
+Sterile drapes, gloves, gowns, and mask 
+Stop-Cocks (2-4) 
+Crash Cart with Emergency Drugs  
+Radiant warmer 
+Cardiac pulmonary and pulse oximetry monitoring 
+4 x 4 Gauze 
+Suction and oxygen set up 
+Unit of cross-matched whole blood 
+Glucose monitor 
+Mayo stand 
+Sterile towels 
+ 
+▪ An exchange transfusion maybe performed by a physician/NNP.  Once initiated it should be carried out 
+to completion without interruption, except emergencies. 
+▪ See Ebsco Health Online Resource for Exchange Transfusion in the Newborn NICP-005 
+Page 2 of 3 
+ 
+I.  PROCEDURE:  
+1. Determine need for exchange based on established NICU lab values 
+a.  Partial: Amount to be determined per NNP/physician. 
+b. Single – 1 x circulating blood volume (Term 80ml/kg; Pre-Term 100ml/kg) 
+Replaces approximately 60% of circulating volume 
+c.  Double – 2 x circulating blood volume 
+Replaces approximately 85% of circulating volume 
+2. Discuss need with parents and obtain informed consent. 
+3. Send type and cross match to lab and any other lab as ordered. 
+4. Obtain and set up necessary equipment 
+5.  Place infant on radiant warmer with temperature probe in place, cardiopulmonary monitor and pulse  
+     oximetry.  Ensure alarms are audible and set appropriate.  Record vital signs as ordered. 
+6. If feeding has occurred recently, discuss with provider if gastric contents need to be aspirated. 
+7. Verify if blood glucose and Calcium levels are to be obtained before, during and after procedure.  
+8. Assist physician/NNP with establishing vascular access if not already present. Exchange transfusions are  
+    typically done utilizing umbilical access (UAC/UVC). 
+  *Procedure may be done with single UVC in place and used for withdrawal and infusion.   
+*If a UAC and UVC are in place, then blood may be removed through the UAC and infused through  
+  the UVC.  The correct placement of the UVC/UAC must be checked by x-ray before the procedure  
+  begins.  Once the placement is confirmed, the UVC should be stabilized to assure that it does not  
+  move. 
+9.  Obtain IV access and/or verify patency. Infuse intravenous fluids as ordered. 
+8.  Obtain blood products when ready.  Verify ABO group, Rh type, age, donor number and expiration date  
+       with two RNs.  Verify blood bank number on identification band with blood bag.   
+9.   Those assisting with procedure don PPE (gown, gloves, eye protection). 
+10.   Proceed with setting up blood warmer and tubing per manufacturer’s recommendations. 
+11.  Physician/NNP should don sterile PPE. 
+12.  Create a sterile field with sterile drapes. 
+13.  Consider best option for warming blood.  Prime tubing with blood and connect filtered tubing to blood  
+        bag and open tubing to clear bag.  Place the discard container below the radiant warmer to allow          
+        gravity to assist with drainage. 
+14.  Verify lines are connected accordingly by tracing tubing to points of origin at the patient. The  
+       physician/NNP places the stop cock after proper disinfection of the hub on the  
+       umbilical line port.  The tubing should be labeled at the connection site closest to the neonate at the   
+       connection site and at the connection site closest to the source when there are different access site or  
+       several bags (*Note Ebsco Health Online procedure Image for Exchange Transfusion in the Newborn).  
+15.  Prior to beginning procedure, the provider performing the procedure should determine the volume of  
+       the aliquots to be exchanged and the time period over which the exchange will take place.   
+       Documentation of the procedure should include a tally of volume exchanged. 
+16.  Conduct a time out immediately before starting exchange to ensure correct patient, positioning, and  NICP-005 
+Page 3 of 3 
+ 
+       procedures are all identified, and all relevant information and necessary equipment are available. 
+17.  On-going monitoring and documentation of vital signs and cardiopulmonary status will occur as the  
+       provider aspirates the patient’s blood, discards and injects donor blood using aliquots.  This process will  
+       be repeated until the desired volume is exchanged and in accordance with infant’s tolerance of  
+       procedure.  
+18.  Gently aspirate from blood transfusion bag to prevent RBC sedimentation. 
+19.  Be prepared to administer Calcium Gluconate as ordered to prevent hypocalcemia if blood products  
+       have been citrated.  
+20.  Obtain serial lab as ordered at the initiation, during and post procedure. 
+21.  Clamp blood tubing and disconnect from line.  Flush catheter as prescribed. 
+ 
+II.  POST-PROCEDURE:    
+1.  Monitor vital signs for 2 hours post procedure. 
+2.  Maintain NPO status for prescribed period post procedure. 
+3.  Monitor for transfusion reaction. 
+4.  Monitor abdomen for ileus, bowel necrosis and perforation. 
+5.  Obtain any additional lab; continue to monitor glucose as ordered. 
+6.  Resume phototherapy as ordered. 
+ 
+REFERENCE: 
+Gomella, T.L., Eyal, F.G., & Bany-Mohammed, F.  (2020).  Gomella’s Neonatology Management, Procedures, 
+On-call Problems, Diseases, and Drugs (8th Ed.).   New York:  McGraw Hill. 
+Beauman, S.S & Bowles, S. (2019).  Policies, Procedures, and Competencies for Neonatal Nursing Care (6th 
+Ed).  National Association of Neonatal Nurses. 
+ 

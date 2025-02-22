@@ -1,0 +1,372 @@
+NSCL01 
+Page 1 of 8 
+ 
+POLICIES AND PROCEDURES MANUAL Manual:  Nutritional Services 
+Our Lady of the Lake Regional Medical Center Chapter:  Clinical Nutrition 
+Subject:  Standards for Nutritional Care Section:   
+Date of Origination:  July 1st, 1988 Supersedes:       
+Date Last Revised:  February 2021  Serial Code:  NSCL01 
+Date Last Reviewed: February 2021  
+ 
+ 
+ 
+STANDARDS FOR NUTRITIONAL CARE 
+ 
+Diet Manual: 
+ 
+Our Lady of the Lake Regional Medical Center has adopted the Academy of Nutrition and Dietetics (AND) 
+Nutrition Care Manual1 as the official diet manual. The diet manual is reviewed and updated by AND 
+annually. This diet manual serves as the official guideline for ordering diets, writing diets, and conducting 
+patient counseling. The diet manual is an evidenced based resource for the Registered Dietitian Nutritionist 
+(RDN). The diet manual provides a standard of practice for the RDN that practices in the facility.  
+ 
+The department purchases an annual subscription to both the Nutrition Care Manual and the Pediatric 
+Nutrition Care Manual. Both diet manuals are available on-line and may be accessed by all medical center 
+staff via TeamLink (Applications → Lake Applications → References → Nutritional Care Manual). In the 
+event of a computer downtime, healthcare providers may find a hard copy of the diet manuals in the 
+Nutritional Services department. Medical center staff can request nutritional material and the department in 
+turn, will fax or hand deliver the material to the nursing unit requesting the information. Nursing staff is 
+educated on where the diet manual is located electronically and where it is located during downtime 
+procedures.  
+ 
+If a physician orders a diet not currently in the diet manual, the operator is responsible for notifying the 
+dietitian covering that unit. The dietitian will contact the physician for clarification of the diet and to aid 
+him/her in selecting a diet from the diet manual.  
+ 
+Medical Nutrition Therapy Ordering: 
+ 
+Diet orders and nutrition related services are ordered via the electronic medical record upon physicians’ 
+order. The diet order is transmitted to the nutritional services system to be prepared for and delivered to the 
+patient. Diet orders and nutrition related services or consults are viewed by the Registered Dietitian 
+Nutritionist (RDN) or the Nutrition Care Technician within the electronic medical record. The RDN or 
+Nutrition Care Technician will provide services ordered in the timeframe established as noted below.  
+ 
+Within the scope of practice and as approved by the Medical Executive Committee, all RDNs at this facility 
+are able to order the following in the electronic medical record using Per protocol: cosign required, verbal, 
+or telephone orders:  NSCL01 
+Page 2 of 8 
+ 
+➢ Calorie Count: 
+o RDNs have the ability to initiate and discontinue calorie counts as part of RDNs 
+assessment to evaluate patient’s oral intake adequacy and need for alternative nutrition 
+support.  
+➢ Diet Orders:  
+o For changing diet texture to a more restrictive order based on a patient’s tolerance, 
+difficulty chewing or swallowing related to mouth sores, broken dentures, weakness, etc., 
+consistency as recommended by a Speech Therapist, or per a patient’s request (i. e. 
+Regular to mechanical soft or pureed). A physician order is necessary to upgrade a diet (i.e. 
+pureed to mechanical soft), unless the diet was downgraded by the RDN and it doesn’t 
+exceed the texture of the original diet order. 
+o To modify room service appropriateness on diet orders and allow the patient to participate 
+or opt out of meal selections.  
+o To modify diet orders as necessary for patients on medications that may have food –drug 
+interactions; such as MAO-inhibitors and theophylline. Reference policy: NSCL05 
+➢ Nutritional supplements:  
+o To allow RDNs the ability to initiate, modify, and discontinue oral nutrition supplements 
+and modular diet components based on the RDN’s nutritional assessment or patient 
+request according to the availability within the formulary. The justification/rationale for 
+the order or modifications are documented in the medical chart.  
+➢ Tube feedings:  
+o To allow the RDN the ability to implement and modify enteral feeds and modular 
+components determining product formula, rate, strength, and length when a consult for 
+the “RDN to implement and manage feeds” has been placed. 
+➢ Speech Therapy Consult 
+o To allow RDNs to consult speech therapist with concerns for dysphagia 
+➢ Weights:  
+o To order daily or weekly weights when needed for completion of nutrition assessment or 
+reassessment or for monitoring purposes for patients on total parenteral nutrition or who 
+are being closely monitored by an RDN for other medical reasons, i.e. refeeding  
+syndrome, malnutrition, etc.  
+ 
+ 
+PURPOSE:  
+ 
+This policy sets forth guidelines for patients identified at nutrition risk during the initial screening shall 
+receive a comprehensive assessment in accordance with the ADIME guidelines.  
+ 
+POLICIES:  
+ 
+An initial screening, assessment, and prioritization process is implemented to identify patients who may 
+require medical nutrition therapy(ies). Patients identified at nutrition risk during the initial screening will 
+be further evaluated with comprehensive assessment and receive nutrition  intervention(s) when 
+applicable.  
+ 
+PROCEDURES: 
+ 
+RDN is available on site from Monday through Friday and on Sunday from 7:00 A.M. – 3:30 P.M. On NSCL01 
+Page 3 of 8 
+ 
+Saturday and major holidays, the RDN is on call. To get in contact with someone from the clinical nutrition 
+team during the weekday and Sunday, call the clinical nutrition office (225)-765-8366. On the weekends 
+and holidays, call the weekend pager (225)-378-4317. 
+ 
+Initial Screening: 
+ 
+Nursing 
+ 
+• An initial screening assessment and prioritization process is implemented to identify patients 
+who may require medical nutrition therapy(ies). Patients identified at nutrition risk during the 
+initial screening will be further evaluated with comprehensive a ssessment and receive nutrition 
+intervention(s) when applicable.  
+ 
+• Nursing completes Nutrition Screen in the electronic medical record within 24 hours of 
+admission. Based on results of screening, the nurse will select option for “Dietitian Screening 
+Needed”. The Nutrition Care Technician or RDN acts on information/consults resulting from the 
+nursing admission screen within designated timeframes. 
+ 
+a. Have you recently lost weight without trying? If yes, how much weight have you lost?  
+b. Have you been eating poorly because of decreased appetite? 
+c. Difficulty Chewing or Swallowing 
+d. Pressure Ulcer or Non-Healing Wound 
+e. Home Diet 
+f. Home Nutrition Support 
+g. Dietitian Screening Needed 
+ 
+• The Malnutrition Screening Tool (MST) is the only nutrition screening tool in the adult, acute care 
+population that has demonstrated both reliability and validity to capture under nutrition; therefore, 
+its two questions regarding unintentional weight loss and appetite will be adopted into the nursing 
+nutrition screen process.  
+ 
+1. Have you lost weight recently without trying? Yes (comment), No 
+If yes, weight loss amount?  
+2-13 lbs 
+14-23 lbs 
+24– 33 lbs 
+> 33lbs 
+Unable to determine 
+2. Have you been eating poorly because of a decreased appetite? Yes (comment), No 
+If the nurse answers yes to two or more of the questions above, then the “Dietitian Screening Needed” 
+should be selected.  
+Registered Dietitian/Diet Technician NSCL01 
+Page 4 of 8 
+ 
+• Once the nutritional screen is completed, the RDN or Nutrition Care Technician will review the 
+patient list to determine which patients need further screening. Further screening will consist of a 
+review of the medical record for nutritionally significant factors (weight loss, labs, wounds, and 
+nutrition support) and a visit to the patient/caregiver to obtain additional information regarding the 
+patient’s nutritional status and diet history. The RDN/Nutrition Care Technician will generate a short 
+note to document screening results in the electronic medical record.   
+ 
+• All screens from the MST must be completed within 48 hours by the RDN or Nutrition Care 
+Technician. The Nutrition Care Technician is responsible for referring high risk patients to the RDN. 
+All screens from the MST without the above parameters (loss of weight, decreased appetite), the 
+RDN or Nutrition Care Technician will have 72 hours to complete.  
+ 
+• The RDN or Nutrition Care Technician will further screen the “Dietitian Screening Needed” 
+referrals to determine if the patients are at nutritional risk. Further screening will consist of a  
+The Registered Dietitians and Diet Techs will complete further screening checking patients for the 
+following criteria: 
+o TPN/PPN 
+o New Enteral (NG, PEG) 
+o Consults  
+o ICU Patients on Ventilator 
+o NPO or Clear Liquid > 5 days 
+o Pressure Ulcers stage II, III, and IV. 
+o Length of Stays 
+ 
+ 
+Assessment: 
+ 
+ Levels of Acuity 
+Prioritization Table 
+ 
+**Deemed Stabled defined as: TF @ goal rate per RD recommendation or 2 consecutive notes with recommendation and no changes made my MD, and Tolerating 
+TF (+bowel sounds, BM, Residuals WNL)** 
+ 
+ 
+When a patient has been identified at nutrition risk, the following will be completed by the RDN within 
+established time frames: 
+(High) 48 Hours (Moderate) 72 Hours  (Low)  
+Consults Pressure Ulcer Stage II  Length of Stay (LOS) 
+New Enteral (NG, PEG) Poor Appetite > 3 days  
+TPN/PPN   
+ICU Patient on Ventilator      
+Malnutrition Risk   
+NPO/Clear Liquid greater than 5 
+days (assessed on day 5) 
+  
+Pressure Ulcer Stage III & IV   
+Tech Referall   NSCL01 
+Page 5 of 8 
+ 
+• assessment of the nutritional needs of the patient based on available data 
+• development and implementation of a nutrition care plan 
+• reassessment (to monitor nutrition care plan and adjust as necessary) until goals are met 
+• documentation of all nutrition care in the medical record 
+• education of patient and/or caregiver, as appropriate 
+ 
+The nutrition care provided to the patient will be based on their degree of nutritional risk.  
+• Low Risk: Patient may be followed by a Nutrition Care Technician for ongoing screening and 
+referral to the RDN as appropriate. (Low risk patients on ICU floors will be seen by RD’s only). 
+• Moderate and High Risk: Patients will be further investigated by  the RD for  comprehensive 
+nutritional assessment and an appropriate nutritional care plan will be implemented. 
+ 
+Risk Level Documentation 
+Low Risk The RDN/Nutrition Care Technician will generate a note to document screening 
+results in the electronic medical record. The RDN can document a nutritional 
+assessment if warranted. 
+Moderate Risk The RDN will generate a note to document screening results in the electronic 
+medical record.  
+High Risk The RDN will generate a note to document a nutritional assessment in the 
+electronic medical record. 
+ 
+   
+ 
+Based on nutritional risk, the RDN will perform nutritional assessments within 48 hours on patients deemed 
+high priority and within 72 hours on patients deemed moderate or low priority. Consults received from 
+physicians, nurses, and/or patients or patient’s family member will be considered high priority. These high 
+priority patients will receive nutrition intervention within the same time frame as high risk patients for 
+evaluation or assessment from the RDN. Patients identified at low nutritional risk for length of stay, will 
+complete a nutrition screen within 72 hours after notification in EMR. During the initial assessment the RD 
+or Nutrition Care Technician will state the patients level of nutritional risk. This will determine when the 
+patient will be followed up on. See Follow up guidelines chart below.  If the screen indicates the need for 
+nutritional intervention, the patient will be referred to the RDN for a nutritional assessment. (Refer to the 
+Levels of Acuity Table for the criteria and intervention above). After resolution of the nutrition risk and 
+after all goals are met, the RDN/Nutrition Care Technician may sign off for the patient. 
+ 
+Consults 
+ 
+Registered Dietitian 
+• Will complete the nutrition assessment within 48 hours of receiving Physician consult.  
+ 
+Diet Tech 
+• Will complete the following consults: 
+o Diet Educations (Except new dialysis and new diabetes) 
+o Increase PO intake 
+o Supplements 
+o Food preferences (is not a clinical issue, this is a food service issue) Diet techs will refer 
+this consult to the Patient Services Team.  NSCL01 
+Page 6 of 8 
+ 
+ 
+ 
+In “Comfort Care” events, the RDN or Nutrition Care Technician can provide palliative care as needed, 
+focusing on a diet as patient desires or as needed to keep the patient comfortable within medical guidelines. 
+In such cases, a full assessment may be deferred and documentation in the medical record will be made by 
+the RDN or Nutrition Care Technician to indicate notification of comfort care measures. The patient will be 
+re-assessed if status changes or if a nutrition consult is requested.  
+ 
+Documentation of nutrition assessment, and particularly the care plan, should be carried out using 
+documentation tools such as an interdisciplinary plan of care and interdisciplinary patient education 
+whenever possible. The RDN will also document using the standardized language of the Nutrition Care 
+Process. 
+ 
+Discharge planning for nutritional care requires the collaboration of Nutrition Services with the patient, 
+family, and other health care professionals to ensure the continuity of nutritional care for the patient after 
+discharge. The RDN will identify discharge planning needs during the course of the nutrition assessment. 
+ 
+Hand off Communication: When the care of a patient transfers from one dietitian to another, there is a 
+“hand-off” of information about the patient.  While the information may be documentation from the 
+electronic medical record or verbal, there must always be the opportunity to ask and respond to questions, 
+in a timely fashion. Information communicated during the “hand -off” includes the patient’s current 
+condition, nutrition interventions implemented and the patient’s response to the interventions. 
+Documentation in the medical record shall only include hospital approved abbreviations and at a 
+minimum, do not use the Dangerous Abbreviations, Acronyms and Symbols as published by the Joint 
+Commission.2 
+ 
+Reassessment (Patient Monitoring) 
+ 
+Follow-Up Guidelines 
+ 
+ 
+ 
+Reassessment will occur according to established time frames and when there are significant changes in 
+patient condition or diagnosis. The RDN will be made aware of these changes by rounds, visits to the 
+High Risk Moderate Risk Low Risk 
+2X/Week 
+Or as identified by RD/designee 
+1X/Week 
+Or as identified by RD/designee 
+7-10 Days  
+Or as identified by RD/designee 
+ New or unstable TPN Stable Tube Feeding LOS 
+New or unstable Tube feeding Pressure Ulcer Stage II or > Stable weight or no significant 
+weight loss 
+Severe Malnutrition Moderate Malnutrition   
+NPO/Clear Liquid greater than 5 
+days 
+PO intake < or = 25%  
+ICU Patients on Ventilator   
+Decubitus stage II or > with PO 
+intake  < 25% 
+  NSCL01 
+Page 7 of 8 
+ 
+patient care areas, and communication with other members of the health care team. RD’s can follow up 
+on a patient more often then these guidelines if they feel it is necessary, but at minimum will follow 
+these guidelines.  
+ 
+Reassessment are based on what information is obtained during initial screening and assessment. During 
+initial assessment the RD or Nutrition Care Technician determined the patient nutritional level of risk. This 
+level determines when the patient will be followed up on. Patients receiving nutrition support (tube feeding 
+or TPN) may require additional follow-up as deemed necessary by the RDN. 
+ 
+At reassessment, patients may be reviewed for (a) appetite, (b) percent meals consumed, (c) presence of 
+nausea, vomiting, or diarrhea, (d) lab values, and (e) changes in weight, diet or nutrition support that may 
+affect the patient’s nutritional status. At reassessment, the RDN or Nutrition Care Technician may document 
+a change in the patient’s level of acuity according to changes in medical status or intervention. 
+ 
+ 
+ 
+Other processes that will alert dietitians for reassessment may include by are not limited to: 
+• Change in patient’s medical status as obtained from medical rounds or other interactions 
+• Initiation of nutrition support 
+• Initiation of calorie counts 
+ 
+Nutrient Intake Analysis (Calorie Counts) 
+ 
+Calorie counts will be performed upon a physician order, RDN order, or as part of a nutritional consult. The 
+clinical nutrition team is notified of the calorie count order via the electronic medical record. The Registered 
+RDN is responsible for completing the initial nutrition assessment noting the patient’s caloric and protein 
+needs. If the Nutrition Care Technician is able to hang the calorie count collection envelope before the RDN 
+can see the patient and complete the nutrition assessment, the Nutrition Care Technician may do so. Calorie 
+Counts will be conducted for three days unless otherwise indicated by the physician or RDN. The nursing 
+team will document the percentage or amount of each food and/or drink consumed on the patient’s menu 
+ticket and place the tickets in the calorie count envelope. The Nutrition Care Technician or RDN will collect 
+the menu tickets and record the results. Providing the patient is not on tube feeding or receiving any form 
+of parenteral nutrition, the Nutrition Care Technician may end the calorie count.  
+ 
+In-patient Nutrition Education 
+ 
+Nutrition counseling or therapeutic diet instruction will be performed by a RDN or Nutrition Care 
+Technician per physician’s consult. If possible, a physician consult should be placed at least 48 hours prior 
+to a patient’s discharge to provide adequate time for effective patient counseling. If a sufficient amount of 
+time cannot be allowed for the RD N or Nutrition Care Technician  to perform the instruction, diet 
+information will be mailed to the patient and will include the Clinical Nutrition office phone number. 
+ 
+Education materials can be acquired through the Academy of Nutrition & Dietetics’ Nutrition Care Manual.  
+These materials can be accessed from any hospital computer on the TeamLink webpage: (Applications → 
+Lake Applications → References → Nutritional Care Manual).   
+ 
+New onset of Diabetes should be referred to the Diabetes and Nutrition Center (see below). 
+ NSCL01 
+Page 8 of 8 
+ 
+Outpatient Nutrition Consultation 
+ 
+Outpatient nutrition consultation is completed by the Diabetes and Nutrition Center 225-765-8020. 
+ 
+Nutrition Care Documentation 
+ 
+All nutrition care documentation is located in the electronic medical record: 
+• Epic → Notes → Progress Notes or Consults 
+Type of Documentation: 
+• Nutrition Assessment 
+• Nutrition Reassessment 
+• Nutrition Risk Factor Screen 
+• Nutrition Risk Factor re-screen 
+• Malnutrition Risk Screen 
+• Patient Education  
+• Plan of Care  
+• Calorie Count  
+• Tube feeding Recommendation  
+• TPN Recommendation  
+• Nutritional Recommendation  
+ 
+ 
+REFERENCES: 
+1 Academy of Nutrition and Dietetics.  (2020). Nutrition Care Manual®. http://nutritioncaremanual.org 
+2 www.http://www.jointcommission.org/assets/1/18/dnu_list.pdf (accessed on 9.28.16) 
+ 
+ 
+ 

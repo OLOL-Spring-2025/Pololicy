@@ -1,0 +1,1066 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Quality Assurance & Quality Control 
+Program-Sterile Compounding 
+Policy Reference #: PH0543 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 5/8/2024 
+Last Date Revised: 5/8/2024 
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the Sterile Compounding Program quality assurance and quality control 
+responsibilities and processes for FMOLHS Baton Rouge Market Pharmacies where Compounded 
+Sterile Preparations (CSPs) are compounded, verified, and stored prior to dispensing. The policy 
+serves as FMOLHS Baton Rouge Market Pharmacies’ written Quality Assurance and Control 
+Program (“Quality Program”) consisting of:   
+• Quality Assurance (QA) : The procedures, activities, and oversight that ensures the 
+compounding process consistently meets quality standards 
+• Quality Control (QC): The sampling, testing, and documentation of results that, when taken 
+together, ensure CSP specifications have been met prior to release and dispensing 
+1.2. The Quality Program is a comprehensive system that supports continual quality improvement 
+within the Sterile Compounding Program and is designed to ensure: 
+• Regulatory and statutory compliance 
+• Adherence to policies and procedures 
+• Prevention and detection of errors or other quality deficiencies 
+• Evaluation and handling of complaints and adverse events 
+• Appropriate investigations and corrective actions 
+1.3. The Quality Program integrates information and data collected from patients, caregivers, and 
+providers; compounding and support personnel; technical, mechanical, and scientific 
+professionals; and supporting organizational and industry experts with the ulti mate goal of 
+ensuring patient safety through consistent and repeatable high quality CSPs prepared in a safe 
+and controlled compounding environment.  
+2. Policy  
+2.1. The Designated Person(s) is responsible to define, implement, and oversee FMOLHS Baton Rouge 
+Market Pharmacies’ Quality Program and ensure it includes, at a minimum, the following 
+integrated components: • Compounding Personnel Training & Competency Evaluation 
+• Standard Operating Procedures (SOPs) 
+• Compliance Documentation Review & Audit 
+• CSP Verification 
+• CSP Release Inspections & Testing 
+• Controlled Area(s) Cleaning, Disinfecting, & Safety 
+• CSP Containers, Packaging, Repackaging, Labeling, and Storage Practices 
+• Responsible Personnel 
+2.2. Sterile Compounding Program compliance related activities and documentation (e.g., inspection 
+or analytical laboratory reports, competency forms and checklists, electronic and written 
+records, and supporting documentation) are reviewed and audited at least once annually to 
+ensure: 
+• All required regulatory and statutory sterile compounding requirements are successfully 
+completed within the appropriate timeframe, memorialized with the appropriate 
+documentation, and reviewed by the DP (if appropriate) 
+• Out of specification findings, occurrences, and events are investigated and remediated 
+• Corrective actions are fully documented, and data collected in response to corrective 
+actions is reviewed to confirm action taken have been effective 
+• Opportunities of continual process improvement are identified and initiated 
+2.3. Sterile compounding personnel performance and technique are audited on a regular and ongoing 
+basis to validate compliance with procedures, workflows, and conduct as defined in Sterile 
+Compounding Program policies and procedures designed to maintain a state  of control in the 
+compounding environment and ensure patient safety through the preparation of sterile, 
+accurate, and consistent CSPs. 
+3. Roles & Responsibilities 
+3.1 The Designated Person(s) (DP): 
+• Partner with Pharmacy Management  to develop, implement, and manage the Sterile 
+Compounding Quality Program 
+• Educate Compounding Personnel on the Quality Program including individual and team 
+quality related responsibilities, processes, documentation, and tools 
+• Alert and engage Pharmacy Management of issues impacting quality or regulatory and/or 
+statutory changes impacting the Quality Program 
+• Ensure quality assurance audits of the Sterile Compounding Practice compliance and related 
+documentation are conducted on a timely basis 
+• Oversee remediation and documentation of any deficiencies found in QA audit process 
+3.2. Compounding Personnel: 
+• Understand individual and compounding team role and responsibilities in supporting sterile 
+practice quality assurance and control through compliance with all the Sterile Compounding 
+Program policies and procedures (i.e., Standard Operating Procedures or SOPs) 
+• Alert DP or compounding supervisor of any known or suspected deficiencies, failures, or out 
+of specification results related to any aspect of sterile compounding operations and assist 
+with remediation efforts if appropriate, including, but not limited to issues with:  o Facilities operations or certification 
+o Engineering controls (e.g., PECs/SECs) 
+o Environmental controls for compounding and drug storage locations (e.g., pressure 
+differentials, temperatures, humidity; functioning of HVAC or airflow systems)  
+o Equipment, supplies, components, containers 
+o Cleaning, disinfecting, or application of sporicidal disinfectants 
+o Materials movement and personnel conduct with controlled areas 
+o Sterile compounding and release inspections and tests 
+o Personnel training and competency evaluations 
+o Documentation of compliance activities 
+4. Procedures 
+Sterile Program Quality Assurance Compliance Review & Audit 
+4.1. Review Sterile Compounding Program compliance activities and audit at least annually to ensure 
+all regulatory and statutory requirements and supporting documentation are effectively and fully 
+completed within the appropriate timeframe(s) and per policy. This audit also confirms DP and 
+compounding personnel compliance with policies and procedures and allows for the detection 
+and potential prevention of other quality deficiencies. 
+4.2. Confirm compliance documentation is retained in a readily retrievable electronic and/or written 
+format and can be easily located with minimal instruction. 
+4.3. Facilities and environmental controls QA audit parameters  follow criteria in the table below. 
+Refer to the Facilities & Environmental Controls policy and Certification & Recertification policy 
+for additional information regarding these regulatory requirements.  
+REQUIREMENT 
+COMPLIANCE  
+ACTIVITY 
+FREQUENCY 
+QUALITY ASSURANCE 
+PARAMETER 
+FACILITIES & ENGINEERING CONTROLS 
+Sterile facilities 
+certification / 
+recertification  
+Initially & every 
+6 months* 
+Performed by a 
+qualified 
+certification 
+vendor 
+• Formal sterile suite certification report & ISO classification 
+certificate for each sterile suite/area; includes: 
+o Total particle count testing under dynamic conditions (SECs only)  
+o Airflow testing results demonstrating air velocity, room air 
+exchange rate, and room pressure differentials at doorways 
+(SECs only) 
+o HEPA filter integrity testing (SECs & PECs) 
+o Dynamic airflow smoke pattern test (PECs only) 
+• Certificate of compliance posted on each PEC 
+Total particle 
+counts / ISO 
+classifications 
+• Sampling plan diagram 
+• ISO Class 5 (PEC): < 3520 
+• ISO Class 7 (Buffer Room & Ante Room to a Hazardous Buffer 
+Room): < 352,000 
+• ISO Class 8 (Ante Room): < 3,352,000 
+SEC air 
+exchanges per 
+hour (ACPH) 
+• ISO Class 7 Areas: > 30 ACPH (must show contribution of ACPH from 
+HVAC system and PECs separately plus total ACPH) 
+• ISO Class 8 Areas: > 20 ACPH 
+SEC pressure 
+differentials (at 
+doorways) 
+• Positive pressure to neutral areas (Ante to Non-classified Area): 
++0.02 in. w.c. 
+• Positive pressure to positive pressure area (Ante to Buffer): +0.02 
+in. w.c. REQUIREMENT 
+COMPLIANCE  
+ACTIVITY 
+FREQUENCY 
+QUALITY ASSURANCE 
+PARAMETER 
+• Positive pressure to negative pressure area (Ante to Hazardous 
+Ante/Drug Storage/Buffer): -0.01 to -0.03 in. w.c. 
+• Negative pressure to negative pressure area (Hazardous Ante/Drug 
+Storage to Hazardous Buffer): -0.01 to -0.03 in. w.c. 
+SEC & PEC HEPA 
+filter integrity 
+testing 
+• 99.99% efficacy documented for each HEPA filter 
+• Description of patch size applied to HEPA filter (PEC HEPA filters 
+should not exceed 2% of filter surface area) 
+PEC dynamic 
+airflow smoke 
+patter test & 
+video 
+• Documented and video evidence of successful completion of 
+airflow smoke pattern test performed “under dynamic operating 
+conductions demonstrating unidirectional airflow and sweeping 
+action over and away from the preparation” 
+OOS or Failure 
+Investigation & 
+Corrective 
+Action Plans 
+As needed 
+• Documentation of facilities or engineering controls OOS or failures, 
+investigation to determine root cause(s), corrective action plan, 
+and review of remediation to confirm actions taken have been 
+effective  
+ENVIRONMENTAL CONTOLS 
+SEC pressure 
+differentials (at 
+doorways) 
+Measured by 
+continuous 
+monitoring device  
+• Daily review and documentation of pressure differentials every day 
+compounding occurs (see above for required pressure differential 
+values/ranges) 
+SEC and drug 
+storage location 
+temperatures  
+Measured by 
+continuous 
+monitoring device 
+or recorded 
+manually 
+• Daily review and documentation of compounding room and drug 
+storage location temperatures every day compounding occurs 
+o Compounding areas: < 20°C (recommended for compounder 
+comfort; not a firm requirement) 
+o Ambient Drug Storage Areas (Controlled Room Temp): 20 - 25°C 
+o Refrigerated Drug Storage Areas: 2 - 8°C 
+o Frozen Drug Storage Areas: -25 to -10°C 
+SEC humidity 
+• Daily review and documentation of compounding room humidity 
+every day compounding occurs 
+o Compounding areas: < 65% (recommended for compounder 
+comfort; not a firm requirement) 
+Calibration, 
+maintenance, 
+and certification 
+records 
+Every 12 
+months 
+For each continuous monitoring system, device, or gauge monitoring 
+pressure differentials, temperatures (room and drug storage 
+locations), and humidity: 
+• Documentation of annual calibration and certification by a 
+qualified technician as needed 
+• Documentation of maintenance as needed 
+OOS or Failure 
+Investigation & 
+Corrective 
+Action Plans 
+As needed 
+• Documentation of daily pressure differential, temperature, or 
+humidity monitory OOS or failures results, investigation to 
+determine root cause(s), corrective action plan, and review of 
+remediation to confirm actions taken have been effective  
+*Facilities are also recertified after events impacting the quality of the environment including, but not limited 
+to redesign, construction/major repairs, relocation or replacement of PEC, or room configuration/traffic pattern 
+changes that could affect airflow or air quality. 
+4.4.  Microbial air and surface sampling QA audit parameters follow criteria in the table below. Refer 
+to the Microbial Air & Surface Sampling policy  and Out of Specification policy  for additional 
+information regarding these regulatory requirements.  REQUIREMENT 
+COMPLIANCE  
+ACTIVITY 
+FREQUENCY 
+QUALITY ASSURANCE 
+PARAMETER 
+MICROBIAL AIR & SURFACE SAMPLING  
+Viable Air 
+Sampling Results  
+Every 6 months 
+ 
+• Viable sampling diagram (including sites within PECs and SECs sufficient 
+to adequately characterize the state of microbial control within area)  
+• Sampling results reports:  
+o Date, time, & person performing sampling 
+o Identification of sampling locations and person/entity who 
+performed sampling 
+o Media incubation dates and temperatures 
+o Media used: manufacturer, lot number, expiration date, and 
+validation of growth promotion (e.g., control plate results) 
+o Sampling equipment used: manufacturer, model, certification  
+o CFU enumeration per site (reported as a single number per site if 
+only TSA media plates used; reported as 2 separate numbers if two types 
+of media plates are used per site)  
+o Microbial identification of CFUs to the genus level (not required 
+unless action levels are exceeded) 
+ISO Class Viable Air Sample 
+CFU/m3 of air per plate 
+(1000L sample) 
+Viable Surface Sample 
+CFU per sampling plate 
+ISO 5 > 1 > 3 
+ISO 7 > 10 > 5 
+ISO 8 > 100 > 50 
+ 
+Surface Sampling 
+Results 
+Every Month 
+ 
+Sampling results 
+after OOS events  
+As needed and 
+for major air 
+handling system 
+maintenance 
+• OOS event written description including: 
+o Date, time, and location (e.g., area(s) impacted) 
+o Impact to environmental controls (e.g., pressure differentials, 
+temperatures, and/or humidity) 
+o Impact to operations of PECs, if applicable 
+o Impact to compounding operations and immediate remediation 
+steps taken (e.g., restricting compounding operations, 
+temporarily reclassifying sterile suite as a SCA or Category 1 
+compounding with BUDs limited to a maximum of 12 hours 
+room temp or 24 hours refrigerated, etc.) 
+o Remedial cleaning after event, if applicable 
+o Validation of restored state of microbial control (e.g., sampling 
+results report) 
+OOS or Failure 
+Investigation & 
+Corrective 
+Action Plans 
+As needed 
+• Documentation of OOS results (e.g., CFUs exceeding action levels 
+at any site, pathogenicity of microorganisms identified, or trends 
+of actionable results, etc.), investigation to determine root 
+cause(s), corrective action plan, and review of remediation to 
+confirm actions taken were effective 
+• Resampling report results confirming successful remediation 
+COAs for media 
+used onsite 
+Media ordered 
+for 
+environmental 
+sampling 
+For each lot of media used: 
+• Manufacturer (or internal) lot number and expiration date 
+• Manufacturer COA verifying media has been tested and meets 
+expected microbial growth promotion, media pH within acceptable 
+limits, and sterilization requirements 4.5. Personnel training and competency QA audit parameters  follow criteria in the table below. 
+Refer to the Personnel Training & Evaluation policy for additional information regarding these 
+regulatory requirements. 
+REQUIREMENT 
+COMPLIANCE  
+ACTIVITY 
+FREQUENCY 
+QUALITY ASSURANCE 
+PARAMETER 
+PERSONNEL TRAINING & COMPETENCY EVALUATIONS  
+Compounding 
+Personnel  
+Initially & 
+every 6 or 12 
+months 
+depending on 
+evaluation 
+For each employee: 
+• Competency documentation showing successful completion 
+initially (prior to compounding) and every 12 months of: 
+1. Foundational and job-related knowledge exam –  
+▪ Initially & Ongoing: minimum 80% passing score 
+2. Observed validation of core skills in maintaining the quality of 
+the sterile compounding environment (e.g., cleaning, materials 
+movement, etc.) 
+▪ Initially & Ongoing: 100% observed skills assessment 
+• Competency documentation showing successful completion 
+initially (prior to compounding) and every 6 months of: 
+3. Observed Hand Hygiene & Garbing Competency including 
+gloved fingertip (GFT) results –  
+▪ Initially: performed three (3) times with zero (0) CFUs 
+detected & 100% passing score 
+▪ Ongoing: performed once with zero (0) CFUs detected & 100% 
+observed skills assessment 
+4. Observed Aseptic Technique Competency including media fill 
+(MF) and post media fill GFT and surface sample (SS) results 
+▪ Initial & Ongoing: no turbidity in MF, < 3 CFU on GFT, & < 3 
+CFU on SS & 100% observed skills assessment 
+• Documentation of media manufacturer, lot number, & expiration 
+date plus incubation dates and temperatures for competencies 
+using media (i.e., #3 & #4) 
+• Evaluation date, time, and evaluator name for all observed 
+competencies (i.e., #2, #3, & #4) 
+Personnel directly 
+overseeing 
+compounding  
+Initially & every 
+12 months 
+See above 
+Exception: #3 & #4 competencies are performed initially and once 
+every 12 months 
+Personnel 
+performing 
+Immediate Use 
+Compounding  
+Initially & every 
+12 months 
+See above 
+Exception: personnel who exclusively perform immediate use 
+compounding are only perform job-related knowledge exam (#1) & 
+observed core skills assessment (#2) 
+Personnel 
+providing 
+supporting roles 
+Initially & every 
+12 months 
+Personnel who exclusively perform supporting roles located outside 
+of controlled compounding areas (e.g., remote verification 
+pharmacists): see above 
+Compounding 
+Personnel 
+performing 
+specialized roles  
+Initially & every 
+12 months 
+For each compounder performing a specialized role (e.g., Assigned 
+Sterile Trainers and personnel performing air and/or surface 
+sampling, managing incubation of media, etc.): 
+• The DP observes and documents competency in the specific skills 
+and knowledge needed to perform the specialized role  
+Competency 
+Failure & As needed 
+• Documentation and description of failed results, investigation, 
+prescribed remedial training and/or corrective action plan, and 
+review of remediation to confirm actions taken were effective REQUIREMENT 
+COMPLIANCE  
+ACTIVITY 
+FREQUENCY 
+QUALITY ASSURANCE 
+PARAMETER 
+Corrective 
+Action Plans 
+• Results of repeated competencies (required for failures, refer to 
+policy for more information) 
+COAs for media 
+used onsite 
+Media/media fill 
+components 
+ordered for 
+personnel 
+sampling 
+For each lot of media used: 
+• Manufacturer (or internal) lot number and expiration date 
+• Manufacturer COA verifying media has been tested and meets 
+expected microbial growth promotion, media pH within acceptable 
+limits, and sterilization requirements 
+4.6. Cleaning of controlled compounding area QA audit parameters  follow criteria in the table 
+below. Refer to the Cleaning, Disinfecting, & Application of Sporicidal Agent policy for additional 
+information regarding these regulatory requirements. 
+REQUIREMENT 
+COMPLIANCE  
+ACTIVITY 
+FREQUENCY 
+QUALITY ASSURANCE 
+PARAMETER 
+CLEANING & DISINFECTING 
+Cleaning, 
+Disinfecting, & 
+Application of 
+Sporicidal Agents 
+Per Policy 
+Refer to the policy for a detailed description of the cleaning tasks, 
+frequency, and agents to be used; in general, the following occurs:  
+Minimum 
+Frequency 
+Task/Area Cleaning Agent 
+Daily Cleaning & disinfecting: 
+• Interior of each PEC 
+(including work tray) 
+• Equipment resident in PEC  
+• Pass Through(s) 
+• Work surfaces outside of 
+PEC and with SECs (or SCA) 
+• Floors 
+• Sinks 
+EPA registered one 
+step disinfectant 
+cleaner or separate 
+agents  
+Monthly  • All daily tasks (above) 
+• Underneath PEC work tray 
+• Walls & Ceilings 
+• All surfaces outside of PEC 
+(not only high touch) 
+• Storage bins & shelves 
+• Equipment outside of PECs 
+Sporicidal Agent 
+(with cleaning & 
+disinfecting activity) 
+Ad Hoc As determined by the DP or per policy for  
+Out of Specification (OOS) occurrences 
+• Timely and complete documentation of regularly scheduled and ad 
+hoc cleaning tasks that occur including identification of person 
+completing task 
+OOS or Failure 
+Investigation & 
+Corrective 
+Action Plans 
+As needed 
+• Documentation of OOS results (e.g., incomplete or undocumented 
+cleaning tasks, cleaning agent defects, etc.), investigation to 
+determine root cause(s), corrective action plan, and review of 
+remediation to confirm actions taken were effective 
+4.7. Sterile supplies, components, and compounding equipment QA audit parameters  follow 
+criteria in the table below. Refer to the Equipment, Supplies, & Components for Sterile 
+Compounding policy for additional information regarding these regulatory requirements. REQUIREMENT 
+COMPLIANCE  
+ACTIVITY 
+FREQUENCY 
+QUALITY ASSURANCE 
+PARAMETER 
+STERILE SUPPLIES & COMPONENTS  
+Verification of 
+FDA Approved 
+Manufacturer 
+Prior to initial 
+order 
+Per new manufacturer used for nonsterile APIs (and recommended 
+for components used in nonsterile compounding): 
+• Verify manufacturing facility is FDA-registered 
+COAs for 
+nonsterile APIs & 
+components  
+Upon receipt of 
+item(s) 
+Per component or Active Pharmaceutical Ingredient (API) received 
+for use in nonsterile to sterile compounding: 
+• Verify APIs and components conform with sterility, apyrogenicity, 
+and physical and/or chemical specifications and conform with USP-
+NF monograph criteria (if monograph exists) 
+STERILE COMPOUNDING EQUIPMENT  
+Sterile 
+Equipment 
+Calibration, 
+Maintenance, & 
+Certification  
+Per 
+Manufacturer’s 
+Instructions 
+ 
+Per each piece of sterile compounding equipment (e.g., ACDs, 
+analytical balances, incubators, autoclave, dry heat oven, etc.): 
+• Documentation of calibration and certification by a qualified 
+technician  
+• Documentation of maintenance as needed 
+OOS or Failure 
+Investigation & 
+Corrective 
+Action Plans 
+As needed 
+• Documentation of OOS results (e.g., substandard APIs, 
+components, or supplies), investigation to determine root cause(s), 
+corrective action plan, and review of remediation to confirm 
+actions taken were effective 
+4.8. Compounding records and CSP release inspection QA evaluation parameters  follow criteria in 
+the table below. Refer to the Master Formulation Record & Compounding Record policy  and 
+Release Inspections & Testing policy  for additional information regarding these regulatory 
+requirements. 
+Requirement 
+Compliance  
+Activity 
+Frequency 
+Quality Assurance 
+Parameter 
+Compounding Records 
+Master Formula 
+Record (MFR) & 
+Compounding 
+Record (CR) 
+Creation; 
+BUD/storage/sta
+bility reference 
+MFR:  
+Per each unique 
+CSP formulation 
+for batched 
+CSPs 
+ 
+CR:  
+For every CSP 
+or CSP batch 
+For each unique CSP formulation batched CSP formulation: 
+• MFR: refer to policy for the required data and instructions included 
+in each MFR; confirm each MFR has validated BUD, storage 
+condition, and/or stability references (in addition to USP <797> 
+Chapter including USP-NF monograph or other published and 
+validated study or data) 
+For each Category 1, 2, or 3 CSP: 
+• CR: refer to policy for the required data included in each CR 
+o For CSPs not requiring a MFR, the CR can be prescription or 
+medication order or representation of the same stored in a 
+workflow management system, ACD, or similar 
+o For CSPs requiring a MFR, the CR must include a reference to a 
+MFR, component manufacturing information, measured 
+quantities used, and results of CSP release inspections & tests  
+Release Inspections & Tests 
+Visual 
+Inspections, 
+Measurements, 
+Physiochemical 
+Every CSP or 
+CSP Batch 
+Results documented on CR or implied by RPh final verification: 
+• Visual inspections: components & final CSP, label (including BUD 
+assignment & storage conditions), and container closure system  
+• Measurements: component and/or final CSP weights, volumes, etc. 
+• Calculations/Conversions: per formulation Requirement 
+Compliance  
+Activity 
+Frequency 
+Quality Assurance 
+Parameter 
+Tests, & 
+Calculations 
+OOS or Failure 
+Investigation & 
+Corrective 
+Action Plans 
+As needed 
+• Documentation of OOS results (e.g., failed release inspections or 
+tests, sterilization failures, etc.), investigation to determine root 
+cause(s), corrective action plan, and review of remediation to 
+confirm actions taken were effective 
+4.9. Standard operating procedure, complaints and adverse drug reaction (ADR) handling, and CSP 
+recalls QA evaluation parameters  follow criteria in the table below. Refer to the Good 
+Documentation policy and Complaints, Adverse Reactions, and CSP Recall Handling policy for 
+additional information regarding these regulatory requirements. 
+REQUIREMENT 
+COMPLIANCE  
+ACTIVITY 
+FREQUENCY 
+QUALITY ASSURANCE 
+PARAMETER 
+SOPs, Complaint and ADR Handling, & Recalls 
+Sterile Practice 
+SOPs & Annual 
+Review 
+Every 12 
+months 
+• SOPs meeting USP <797> documentation requirements  
+• Annual review, revisions, updates by Designated Person 
+• Staff communication regarding SOP updates  
+Complaints & 
+Adverse Drug 
+Reaction (ADR) 
+Handling 
+As needed per 
+reports by 
+patients, 
+providers, staff, 
+public 
+For each compliant or ADR: 
+• Reported, documented, and tracked per policy 
+• Patient/public harm risk assessment including severity and 
+response urgency determination 
+• Root cause analysis and investigation description 
+• Corrective action(s) description, timeline, and evaluation criteria if 
+appropriate 
+• Evaluation of data collected in response to corrective action; 
+determination if corrective action was successful 
+Recalls As needed 
+• Description of specific failures and impacted CSPs and/or CSP 
+compounding processes (e.g., CSP sterility, strength, endotoxin 
+burden, or other quality attribute)  
+• List of patients and prescribers effected (or potentially effected) 
+• Description of recall process and timeline for unused dispensed 
+CSPs  
+• Communication to prescribers (and patients/caregivers) 
+• Assessment of undispensed CSPs for inclusion in recall 
+• Disposal documentation for recalled CSPs 
+• Investigation, corrective action, and follow up to ensure failure has 
+been remedied and recall process has been concluded 
+• Reporting of ADR to appropriate regulatory bodies and required 
+follow up   
+Personnel Compliance Audits 
+4.10. Conduct compliance audits for compounding personnel and personnel performing 
+supporting roles that require entry into controlled compounding areas to ensure adherence to 
+policies and procedures, accountability for individual impacts on the state of control  within 
+controlled areas, and individual and team responsibility for patient safety.  • Whenever possible, perform audits remotely or in a manner that is undetected by personnel 
+to allow for observation of a more accurate representation of everyday behaviors and habits 
+• Whenever possible, schedule audits to occur separately from competency assessments and 
+at intervals that occur between scheduled competencies 
+PERSONNEL 
+CATEGORY 
+AUDIT TOPICS AUDIT FREQUENCY 
+Compounding 
+Personnel 
+• Hand hygiene & garbing including preparation prior to 
+entering controlled areas 
+• Materials movement into controlled areas 
+• Aseptic manipulations & technique 
+• Use of compounding equipment 
+• CSP labeling and BUD/storage assignment 
+• Cleaning, disinfecting, & applying sporicidal agents 
+• Movement and conduct within controlled areas 
+• Compounding and compliance documentation 
+Per individual 
+compounder: 
+Every six months  
+Direct 
+Compounding 
+Supervisors 
+• Hand hygiene & garbing including personal preparation prior 
+to entry into controlled areas 
+• In process and final CSP verifications 
+• Release inspections & tests 
+• Compounding and compliance documentation 
+• Oversight of controlled areas and entry of visitors 
+Per individual 
+compounding 
+supervisor: 
+Every six months 
+Compounders 
+Performing 
+Specialized 
+Roles/Tasks: 
+Compliance with SOPs for: 
+• Assigned Trainers 
+• Viable air and/or surface sampling 
+• Media incubation 
+Per individual:  
+Every six months 
+4.11.Document audit results in a level of detail that allows the DP and/or Pharmacy Management to 
+effectively follow up with personnel to provide feedback, coaching, and corrective actions if 
+needed. Retain audit documentation in a readily retrievable format and review and tr end 
+individual and/or team results to identify quality improvement, educational, and training 
+opportunities. 
+Evaluation and Handling of Complaints and Adverse Events 
+4.12. Refer to the Complaint, Adverse Drug Reaction, & CSP Recall Handling policy. 
+Investigations and Corrective Actions 
+4.13. When OOS, failures, complaints, or adverse drug reactions occur in any facet of the Sterile 
+Compounding Program, perform an investigation that is consistent with the extent of the 
+deviation and include an evaluation of historical trends for areas of concern. 
+4.14. Document the OOS, failure, complaint, or ADR per policy and ensure investigation findings, 
+corrective action plans, and data collected to validate effectiveness of corrective actions is 
+documented and retained in a readily accessible electronic or written format.  
+4.15. Investigations and immediate and longer-term corrective action plans include but are not limited 
+to the following:  AREA OF 
+COMPLIANCE INVESTIGATION  POTENTIAL CORRECTIVE ACTIONS 
+IMMEDIATE LONGER TERM 
+Facilities & 
+Engineering 
+Controls  
+(PECs / SECs; 
+HEPA Filters; 
+airflow & 
+exhaust 
+systems) 
+• Verification of current 
+certifications 
+• Certification report review for 
+deficiencies or discrepancies 
+• Evaluation of engineering & 
+technical systems, equipment, 
+HEPA filters for needed repairs 
+or replacement 
+• Evaluation of external factors 
+that could impact function (e.g., 
+power surges)  
+• Trends 
+• Risk assessment to 
+current compounding 
+operations & CSPs 
+• Halt or limit 
+compounding in 
+effected PEC or SEC 
+• If SEC, reclassify to 
+SCA until resolved 
+• Staff communication 
+• Repair or replacement of 
+equipment or systems 
+• Assessment of 
+certification vendor, 
+certification report, and 
+OOS or potential OOS 
+communication 
+• Assessment of and 
+revisions to certification 
+report review and sign 
+off process  
+Environment
+al Controls  
+(HVAC-
+controlled 
+Temperatures 
+& Humidity; 
+Pressure 
+Differentials) 
+• Verification that maintenance, 
+calibration, and certification of 
+monitoring of airflow and 
+monitoring systems and gauges 
+are current 
+• Evaluation of systems and 
+gauges for needed repairs or 
+replacements 
+• Assessment of proper staff 
+reading and documenting data 
+• Trends 
+• Risk assessment to 
+current compounding 
+operations, CSPs, & 
+compounding staff 
+• Halt or limit 
+compounding or drug 
+storage in effected 
+area 
+• If pressure differential 
+issue, reclassify to SCA 
+until resolved 
+• Staff communication 
+• Repair or replacement of 
+equipment or systems 
+• Placement of additional 
+monitoring devices 
+• Staff education about 
+daily monitoring and 
+maintenance of gauges 
+• SOP changes & revised 
+work instructions for 
+vendors/personnel 
+performing sampling 
+Personnel 
+Competenci
+es, Conduct, 
+& 
+Compoundin
+g 
+Performance 
+• Review of training process and 
+progress 
+• Review of performance records 
+and previous competency results 
+(if applicable) 
+• Interview of trainer and 
+compounding supervisors 
+• Interview with trainee 
+• Live or video QA audits 
+• CSP QC testing 
+• Trends 
+• Risk assessment of 
+previously 
+compounded CSPs  
+• Determine 
+compounding status 
+of individual (e.g., 
+removal or limited 
+work duties)   
+• Immediate training & 
+competency eval 
+• Ad hoc QA audits 
+• Staff communication 
+• Additional training, 
+observed skill, and 
+competency evaluations 
+• QA live or video audits 
+• Coaching or 
+Performance 
+improvement Plan 
+• SOP changes & staff 
+communication/training 
+Cleaning, 
+Disinfecting, 
+& 
+Application 
+of Sporicidal 
+Agents 
+• Review of personnel training & 
+competency records 
+• Review of cleaning logs, agents, 
+& dwell times used 
+• Review of cleaning procedures 
+• Live or video QA audits 
+• Risk assessment of 
+previously 
+compounded CSPs  
+• Remedial cleaning 
+with appropriate 
+agent(s) 
+• Coaching or training 
+• Staff Communication 
+• Additional training, 
+observed skill, and 
+competency evaluations 
+• QA live or video audits 
+• Coaching or training 
+• SOP changes & staff 
+communication/training 
+Environment
+al 
+Monitoring 
+(Viable Air &/or 
+Surface 
+Sampling) 
+• Review operating conditions 
+when samples taken (e.g., 
+trainees or visitors present 
+• Review of types of organisms, 
+locations, CFU counts, & trends 
+• Review personnel data (e.g., 
+training records, visual 
+observations, competencies)  
+• Review of cleaning practices & 
+documentation 
+• Risk assessment to 
+current compounding 
+operations & CSPs 
+• Remedial cleaning 
+with appropriate 
+agent(s) 
+• Perform and/or 
+reschedule retesting 
+ASAP 
+• Staff education and 
+retraining, if needed 
+• Assessment of 
+appropriateness of 
+engineering & 
+environmental controls 
+for current conditions 
+(e.g., volume, number of 
+personnel, etc.) AREA OF 
+COMPLIANCE INVESTIGATION  POTENTIAL CORRECTIVE ACTIONS 
+IMMEDIATE LONGER TERM 
+• Review of HEPA filter efficacy & 
+ACPH as reported in cert. report 
+• Review of materials movement  
+• Review of media COAs, 
+expiration, & proper storage 
+• Confirmation of air sampler 
+maintenance & certification 
+• Review of sampler’s training, 
+competency, and technique 
+• Individual coaching or 
+retraining if 
+appropriate 
+• Staff communication 
+• Smoke studies to find 
+airflow eddies, 
+turbulence, and/or 
+staled airflow 
+• Consider redesigning 
+workflows, traffic 
+patterns, & personnel 
+congestion points  
+• SOP changes & staff 
+communication/training 
+Sterile 
+Equipment, 
+Components
+, & Supplies 
+• Review of COAs and sign off 
+upon receipt and/or before use  
+• For equipment, confirmation of 
+current maintenance, 
+calibration, & certification 
+• For ACDs, review of daily 
+accuracy measurement records 
+• Review of manufacturer 
+information or recalls 
+• Review of proper use or 
+operation by compounding staff 
+• Trends 
+• Risk assessment to 
+current compounding 
+operations & CSPs 
+• Removal of 
+equipment, 
+components, supplies 
+until issue resolved 
+• Individual or team 
+coaching or training 
+• Staff communication 
+• Repair or replacement of 
+equipment 
+• Source components or 
+supplies for alternative 
+vendors 
+• SOP changes & staff 
+communication 
+• Additional training, 
+competency, and/or 
+quality audits 
+CSP Quality 
+and/or 
+Release 
+Testing 
+Failures 
+• Review release test procedure & 
+compliance with SOP 
+• Review facilities, engineering 
+and environmental controls 
+certifications 
+• Review compounding process 
+including supplies, components, 
+& equipment used 
+• Review personnel records of 
+compounder(s) & QA audits of 
+compliance  
+• Review of analytical laboratory 
+credentials & protocols 
+• Trends 
+• Patient risk 
+assessment & recall 
+determination if CSPs 
+dispensed prior to 
+final results 
+• Investigation for 
+other CSPs 
+potentially impacted 
+by quality issue; CSP 
+recall consideration 
+• Individual or team 
+coaching or training 
+• Staff communication 
+• SOP changes & staff 
+communication 
+• Additional training, 
+competency, and/or 
+quality audits 
+Complaints 
+& Adverse 
+Drug 
+Reaction 
+Reports 
+o Review of all areas of sterile 
+practice for possible 
+contributory or causative 
+factors; prioritize investigation 
+by the most likely causes; see 
+above 
+• Risk assessment to 
+current compounding 
+operations & CSPs up 
+to and including 
+halting or restricting 
+compounding 
+operations, limiting 
+BUDs to SCA or 
+immediate use until 
+issue resolved 
+• Reassigning 
+personnel involved 
+pending investigation 
+• Staff communication 
+Corrective actions 
+appropriate to address 
+the suspected or known 
+root cause(s); see 
+above 
+• Enhanced QA/QC 
+monitoring to ensure 
+corrective actions have 
+been effective 
+• Staff communication 
+o  5. Definitions 
+5.1. Cycle parameters: A description of the unique sterilization or depyrogenation parameters used 
+for a defined purpose or process including temperature, duration, and pressure (if appropriate). 
+5.2. Cycle validation indicators : including biological indicators and endotoxin challenge vials 
+(ECVs) used to validate the respective sterilization or depyrogenation cycles achieved the 
+conditions necessary to achieve the desired result in the CSPs or items included in the cycle; is 
+not absolute proof of sterility (or depyrogenation). 
+5.3. Load characteristics : A description and visual representation/diagram of each sterilization or 
+depyrogenation process such as maximum number of items loaded, configuration and placement 
+of items inside the load, and wrapping, if any, of the loaded items  
+5.4. Oversight: The review, monitoring, and supervision of actions taken by personnel, bearing 
+responsibility for those actions, and being available for consultation if and when needed even if 
+not physically present. 
+5.5. Quality assurance (QA): A system of procedures, activities, and oversight that ensures that the 
+compounding process consistently meets quality standards.  
+5.6. Quality control (QC): The sampling, testing, and documentation of results that, taken together, 
+ensure that specifications have been met before release of the CSP. 
+5.7. Release inspection and testing:  Visual inspection and testing performed to ensure that a 
+preparation meets appropriate quality characteristics. 
+5.8. Specification: The tests, analytical methods, and acceptance criteria to which any component, 
+CSP, container closure system, equipment, or other material used in compounding CSPs must 
+conform to be considered acceptable for its intended use. 
+5.9. Verify: To confirm that a method, process, system, or equipment will perform as expected under 
+the conditions of actual use. 
+6. Related Policies, Documents, References 
+6.1. United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2. United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.3. United States Pharmacopeial Convention, Inc.  <1163> Quality Assurance in Pharmaceutical 
+Compounding. Current version. 
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 5/2025 
+7.1. Initial version published by Wolters Kluwer 2023.  
+7.2. Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 7.3. Revised 5/2024 for use at all FMOLHS Baton Rouge Market Pharmacies, 

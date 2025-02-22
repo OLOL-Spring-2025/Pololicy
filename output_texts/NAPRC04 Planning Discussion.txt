@@ -1,0 +1,139 @@
+Policy & Procedure Manual  
+Administrative Page 1 of 3 
+ 
+Our Lady of the Lake Cancer Institute 
+Policy Manual: Policies and 
+Procedures/Organizational  Section: Oncology 
+Title: 
+Rectal Cancer Multidisciplinary Team 
+Treatment Planning Discussion, 
+Evaluation and Recommendation 
+Summary   
+Policy 
+Reference #: 
+NAPRC 04 Planning 
+Discussion        Standards 
+5.5 & 5.6 
+Supersedes #: Standard 2.5-2.6 
+Date of Origination: November 22, 2017 Review Date: March 25, 2024 
+Revision Date: July 14, 2023 
+ 
+ 
+PURPOSE:  
+  
+To provide guidelines for individualized treatment planning discussion on all rectal cancer patients who 
+undergo treatment at Our Lady of the Lake (OLOL) Cancer Institute and develop a standardized treatment 
+evaluation and recommendation summary. This policy addresses National Accreditation Program for 
+Rectal Cancer (NAPRC) standard 5.5 and 5.6. 
+ 
+ POLICY: 
+ 
+A. All rectal cancer patients who undergo treatment at OLOL Cancer Institute, excluding emergency 
+patients, must have an individualized treatment planning discussion conducted at a Rectal Cancer 
+Multidisciplinary Team (RC-MDT) meeting before beginning definitive treatment.  
+• Definitive treatment is defined as neoadjuvant therapy, surgical resection, or initiation of 
+palliative care.  
+• Emergency patients who do not require a treatment planning discussion are those that present 
+with tumor-related complications that require immediate or urgent treatment. Examples of 
+emergent conditions include, but are not limited to, rectal tumor perforation, life-threatening 
+tumor hemorrhage, and acute large bowel obstruction. 
+ 
+B. In the event the Rectal Cancer Program (RCP) at OLOL Cancer Institute accessions 100 or more 
+cases within a year, the RCP Director may develop criteria to determine which patients must be 
+presented at the RC-MDT for a treatment planning discussion. At least 100 cases must be 
+presented for treatment planning discussion in each year. 
+ 
+C. Before the initiation of definitive treatment, a standardized evaluation and treatment 
+recommendation summary is completed, recorded in the patient’s medical record, and provided to 
+the patient’s treating physician for a minimum of 50% of rectal cancer patients.  The treating 
+physician is responsible for ensuring communication of evaluation and treatment 
+recommendations to the patient. NAPRC standard defines a treating physician as the provider of 
+record treating the patient’s rectal cancer who seeks the opinion of the RC-MDT. The RC-MDT 
+at OLOL Cancer Institute has identified the treating physician as the physician who presents the 
+case to the RC-MDT.  Once the treatment summary recommendation is approved by the treating 
+physician, the summary will be sent to all physicians involved in the management of the patient’s 
+rectal cancer care. 
+ 
+ 
+ PROCEDURE:  Policy & Procedure Manual  
+Administrative Page 2 of 3 
+ 
+A. The RC-MDT treatment planning discussion must include, but is not limited to:  
+1. Review of diagnostic and staging studies 
+• Colonoscopy report (location of primary tumor and synchronous lesions) if present/ 
+available 
+• Biopsies of primary rectal cancer and metastases if present/available (Standard 5.1) 
+• CT scan or PET/CT of chest, abdomen, and pelvis (Standard 5.2) 
+• Rectal Cancer MRI (Standard 5.2) 
+• Pretreatment CEA level (Standard 5.4) 
+2. Documentation of Clinical Stage  
+• Clinical stage according to the American Joint Committee on Cancer 
+3. Creation of individualized treatment plan  
+• Neoadjuvant therapy regimen, when indicated 
+• Anticipated surgical procedure, when indicated 
+• Referral to radiation oncology, when indicated 
+• Referral to medical oncology, when indicated 
+• Palliative care, when indicated 
+ 
+B. The moderating physician and the RCP Coordinator complete a Treatment Planning Discussion 
+Form for each case presented to ensure all required elements listed above are discussed. 
+ 
+C. The physician who presents the patient to the RC-MDT is responsible for ensuring 
+communication and presentation of the evaluation and treatment recommendation summary to the 
+patient. 
+ 
+D. The RCP Coordinator documents the date the patient is presented to the RC-MDT for the 
+Treatment Planning Discussion, and which physician presented the case in the Treatment 
+Evaluation and Recommendation Summary recorded in the patient’s medical record. 
+ 
+E. The RCP Coordinator completes the Treatment Evaluation and Recommendation Summary in the 
+patient’s electronic health record (EHR), EPIC, then routes the completed summary to the 
+physician who presented the case to review and co-sign.  The RCP Coordinator sends the 
+summary to the patient’s treating physician, other physicians involved in the management of the 
+patient's rectal cancer care, and patient navigation, via inbox or fax through the EPIC EHR. 
+  
+F. The standardized Treatment Evaluation and Recommendation Summary includes, but is not 
+limited to: 
+• Tumor location in the rectum (lower, middle, or upper third) 
+• Indication of sphincter involvement 
+• Clinical (pretreatment) American Joint Committee on Cancer stage 
+• Pretreatment circumferential resection margin status (involved, threatened, or not 
+threatened) 
+• Carcinoembryonic antigen level (CEA) 
+• Neoadjuvant therapy recommendation 
+• Type and duration of neoadjuvant therapy recommended 
+• Anticipated date and type of surgical procedure 
+• Clinical research study eligibility and/or enrollment Policy & Procedure Manual  
+Administrative Page 3 of 3 
+G. The RCP Coordinator tracks the date of the Treatment Planning Discussion, as well as, the dates 
+the Treatment Evaluation and Recommendation Summary is completed, and provided to the 
+patient’s treating physician, on the NAPRC Patient Tracking spreadsheet. 
+ 
+CHART REVIEW:  
+ 
+At a minimum, the RCP Director reviews a random sample of 20 percent of eligible patient medical 
+records or a maximum of 100 cases each calendar year to evaluate compliance. The RCP Director may 
+delegate this review to an appropriately credentialed physician member of the RC-MDT. For any result 
+that does not meet the required percentages as listed in the rating criteria section, an action plan must be 
+developed and implemented.  
+ 
+ 
+SUPPORTING DOCUMENTS: 
+Commission on Cancer, National Accreditation Program for Rectal Cancer 2020, Standard 5.5 and 54.6.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

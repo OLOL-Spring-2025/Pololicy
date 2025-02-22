@@ -1,0 +1,303 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 1 of 6 
+PHLC009 
+ 
+PHLEBOTOMY POLICY AND PROCEDURE MANUAL 
+PHLC009 
+COLLECTION OF BLOOD BANK SPECIMENS 
+       Date Issue Date Effective Date 
+ Prepared/Revised By ZJA/LC 10/1/2017 10/1/2017 10/1/2017 
+Reviewed By LC 9/16/2019 Origination Date 
+Medical Director Review A Harton 9/22/2019 JUL 6, 1986 
+ 
+PURPOSE: 
+To provide for the proper collection of patient samples used for Blood Bank testing 
+ 
+Addresses: 
+Supervisors 
+Venipuncture Charge Techs 
+Venipuncture Phlebotomists 
+ 
+POLICY:  
+Patient identification is to be established by the Phlebotomist before performing venipuncture.  All non-pediatric 
+inpatients that are registered at OLOL shall be identified by at least two identifiers. Patients are to have a hospital 
+armband imprinted with their full name and corresponding date of birth attached to a wrist or ankle.  All pediatric 
+inpatients (defined as any patient prior to the 15th birthday) are identified by three identifiers. Verification of the 
+pediatric patient’s full name, date of birth, on armband and matched armband worn by the designated guardian of the 
+patient will be used to compare the laboratory label. Outpatients in areas without armbands are identified by 
+verification of full name and birth date.  The identifiers stated are used to label laboratory samples at time of collection 
+in the presence of the patient.  Required information must be present and match before the patient can be drawn. 
+ 
+A. The laboratory uses a blood bank armband identification system as a double identification procedure in the 
+collection of patient samples used in preparing blood for transfusion 
+1. The person drawing the sample is responsible for patient identification 
+2. The person drawing the sample writes their Network ID code, date, and time of draw on the laboratory 
+label, blood bank armband 
+B. Phlebotomists use the blood bank armband system when drawing patient samples for the following tests: 
+1. Type and Screen 
+i. Patient sample is used to establish patient blood type and antibody status 
+ii. Patient sample may later be used to set up a Prepare Order (within 3 days of draw) 
+2. Draw and Hold 
+i. Patient sample is drawn and held in the laboratory (no testing performed) 
+ii. Patient sample may later be used to set up a Prepare Order 
+ 
+MATERIALS: 
+1. Phlebotomy Supplies 
+2. 9ml Purple Top (EDTA) specimen tube 
+3. Blood Bank Card with bar-coded labels and Blood Bank Armband 
+4. Rover Device OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 2 of 6 
+PHLC009 
+ 
+PROCEDURES: 
+Inpatient Procedure: 
+A. The person collecting the requested sample identifies the patient 
+1. Scan the patient’s armband 
+2. Visually compare the information on the Rover device to the patient’s armband verifying the two patient 
+identifiers: 
+i. The full name (first and last) in the Rover matches the name (first and last) on the patient’s hospital 
+armband 
+ii. The date of birth on the Rover matches the date of birth on the patient’s hospital armband 
+3. While performing the visual comparisons, ask the patient (if capable) to state their name  
+4. Scan the patient’s armband with the Rover device, and visually verify that the displayed patient data 
+matches the patient’s armband. 
+5. Patients not having hospital approved armbands not physically attached to their wrist or ankle are not to be 
+drawn  
+B. Resolve patient identification discrepancies before drawing the patient 
+C. Check the patient’s wrist or ankle for a previous blood bank armband 
+1. Patient does not have a blood bank armband on their wrist or ankle – proceed to step D 
+2. Patient has a blood bank armband – check the draw date noted on the armband 
+• If the draw date is 2 days ago or less 
+1. Do not draw the patient 
+2. The sample currently held in the Laboratory can be used to set up additional requests 
+for units 
+• If the draw date is 3 days ago  
+1. Call the Transfusion Services (x5-8891) 
+2. The specimen in the Laboratory may or may not be able to be used 
+3. Follow Transfusion Services personnel instructions 
+• If the draw date is 4 or more days ago 
+1. Cut off the expired armband 
+2. Proceed to step D – draw new blood bank sample 
+3. A patient’s blood bank armband will expire at midnight on the 3rd day and must have a new sample 
+collected using a new blood bank card, and new blood bank armband  
+D. Draw the patient using standard venipunture technique 
+1. Specimen container is a 9ml Purple Top Tube (EDTA) 
+2. Collect as much sample as possible as needed volume will vary with patient 
+3. Ensure the sample does not leave the presence of the patient before being labeled with the required 
+documentation  
+E. Required Specimen Container documentation: (Label must contain patient’s full name and DOB) 
+1. Label the specimen tube with the Epic specimen label, patient chart label, or a handwritten label at the 
+patient’s bedside 
+2. Place a blood bank barcode label with number taken from the blood bank card and place 
+VERTICALLY on tube at the patient’s bedside  
+3. Write the date, time of draw, and your Network ID on the laboratory label at the patient’s bedside 
+F. Required Blood Bank Packet Card documentation: 
+1. Record the patient name and patient medical record number in the upper left-hand corner of the Packet 
+card by: 
+• Writing the information at the patient’s bedside 
+• Using a pre-printed patient label (chart label) 
+2. Record date, time of draw, and your Network ID at the patient’s bedside 
+G. Required Blood Bank Armband documentation: OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 3 of 6 
+PHLC009 
+ 
+1. Scan the EPIC patient labels to record the date and time of draw and the phlebotomist Network ID at 
+the patient’s bedside 
+ 
+H. After recording the required documentation, tear the blood bank armband label from the blood bank card 
+I. Push the blood bank armband label into the red plastic blood bank armband sheath 
+J. Ensure the armband “Hold” tab has extended fully outside of the sheath on the opposite end 
+K. Hold the “Hold” tab and pull the white strip of paper from the sheath 
+L. With fingers, seal the sheath smoothly across the armband 
+M. Attach the blood bank armband to the wrist or ankle of the patient exercising care so that the armband: 
+1. Displays the blood bank number, Network ID, date and time, ensuring all is readable 
+2. Is on tight enough so as not to slide over the patient’s hand 
+3. Not tight enough to cause discomfort or restrict circulation 
+4. Stays on the patient’s wrist or ankle 
+N. If using a Rover device and a laboratory label, scan the barcode on the collected sample and look at the devices 
+input screen: 
+1. If “does not match the patient” is displayed a mismatch exists between the scanned armband and the 
+laboratory label indicating an improperly identified patient – stop sample collection, discard any 
+collected material, remove blood bank armband, notify the charge tech of the error and request 
+instruction  
+2. If the comment is not displayed, the scanned armband information matches information scanned on 
+the laboratory label indicating proper patient identification - the collected sample can be accepted by 
+selecting the “C” to signal sample collection 
+O. If not using a Rover device, proceed with step P.  
+P. Remind the patient not to remove the blood bank armband; removing the armband before transfusion will 
+require redrawing of the patient. 
+Q. Place the specimen tube in a transport biohazard bag and seal 
+R. Place the blood bank card in the outside pouch on the biohazard transport bag 
+S. Send the specimen and blood bank card to the Central Processing Department for processing 
+ 
+ 
+Outpatient Procedure: 
+Outpatients requiring transfusion service can be drawn and their samples processed for compatibility without being 
+preregistered.  The outpatient requesting service is to present the following items: 
+• A physician (or Physician representative) order for, type and screen, or draw and hold lab order. 
+• A form of picture identification that includes date of birth 
+• A completed and signed “Outpatient Laboratory Testing” form which includes patient name, address, phone 
+number, insurance billing, and guarantor information 
+A. The person collecting the requested sample identifies the patient 
+1. Ask the patient to state their first and last name and date of birth 
+2. Confirm the patient’s full name (first and last) by comparing the stated name to the name appearing on 
+the physician order 
+3.  Confirm the date of birth found on either the physician order or the “Outpatient Laboratory Testing” 
+form 
+B. Resolve patient identification discrepancies before drawing the patient 
+C. Draw the patient using standard venipuncture technique 
+1. Specimen container is a 9ml Purple Top Tube (EDTA) 
+2. Collect as much sample as possible as needed volume will vary with patient OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 4 of 6 
+PHLC009 
+ 
+3. Ensure the sample does not leave the presence of the patient before being labeled with the required 
+documentation  
+D. Required Specimen Container documentation: (Label must contain patient’s full name and DOB) 
+1. Label the specimen tube with the following information: 
+• Patient’s first and last name 
+• Patient’s date of birth 
+• Date, time of draw, and Network ID of the collector  
+• Blood bank barcode label with number taken from the blood bank card and placed 
+VERTICALLY on tube in the presence of the patient 
+E. Required Blood Bank Packet Card documentation: 
+1. Record the patient name and patient DOB in the upper left-hand corner of the Packet card with the 
+following information: 
+• Patient’s first and last name 
+• Patient’s date of birth 
+• Date, time of draw, and Network ID of the collector, writing the information in the presence 
+of the patient 
+F. Required Blood Bank Armband documentation: 
+• Record Date and time of draw in the presence of the patient 
+• Record Network ID in the presence of the patient 
+1. After recording the required documentation, tear the blood bank armband label from the blood bank 
+card 
+2. Push the blood bank armband label into the red plastic blood bank armband sheath 
+3. Ensure the armband “Hold” tab has extended fully outside of the sheath on the opposite end 
+4. Hold the “Hold” tab and pull the white strip of paper from the sheath 
+5. With fingers, seal the sheath smoothly across the armband 
+2. Attach the blood bank armband to the wrist 
+• Ensuring blood bank number, Network ID, date and time, is readable 
+• Is on tight enough so as not to slide over the patient’s hand 
+• Not tight enough to cause discomfort or restrict circulation 
+• Stays on the patient’s wrist 
+G. Required lab documentation on the physician’s order: 
+• Date, time of draw, and Network ID of the collector  
+H. Remind the patient not to remove the blood bank armband until after they receive the transfusion; removing 
+the armband before transfusion will require redrawing of the patient. 
+I. Place the specimen tube in a transport biohazard bag and seal 
+J. Place the physician order, blood bank card, and “Outpatient Laboratory Testing” form in the outside pouch on 
+the biohazard transport bag 
+K. Deliver to Central Processing 
+ 
+Second Sample for Confirmatory Patient Blood Type Procedure: 
+All patients submitted for a Type and Screen with no prior blood type on file at OLOL will require a confirmatory 
+blood type on a second sample.  This sample must be drawn as a separate blood collection from the original sample 
+being submitted for the Type and Screen. Blood from a separate phlebotomy can also be any sample of blood that may 
+already be in the lab collected for a different test (if the sample was collected at a different time than the Type and 
+Screen sample).  Any appropriate specimen, that is stored and is properly labeled with two patient identifiers, is 
+acceptable for use. 
+1. When a sample is received in the Transfusion Services for a Type and Screen, Transfusion Services will 
+verify that the patient has a prior blood type history. OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 5 of 6 
+PHLC009 
+ 
+2. If the patient does not have a blood type history on file, Transfusion Services will check to see if the 
+patient has a sample (from a previous draw) located in the laboratory to utilize for confirmation of the 
+patient’s blood type. 
+3. The sample must have two patient identifiers documented on the tube. The laboratory accession number is 
+not considered a patient identifier and will not be accepted as a second patient identifier. 
+4. If Transfusion Services does not locate a second sample, Transfusion Services will order an ABO/Rh (no 
+charge) for sample collection if unable to locate a second sample. 
+5. Patient Identification: 
+i. Inpatients: The person collecting the requested specimen identifies the patient 
+1. Hold the laboratory label next to the patient’s armband 
+2. Scan the patient’s armband with the Rover device and visually compare the information on the 
+display to the patient’s armband verifying the two patient identifiers: 
+a. The full name (first and last) on the screen of the Rover device matches the name (first 
+and last) on the patient’s hospital armband 
+b. The date of birth on the screen of the Rover device matches the date of birth on the 
+patient’s hospital armband 
+3. While performing the visual comparisons, ask the patient (if capable) to state their name  
+4. Scan the patient’s armband with the Rover device, add scanned patient data to the collection list 
+and visually verify that the displayed patient data matches the information displayed on the 
+Rover device. 
+5. Inpatients not having hospital approved armbands not physically attached to their wrist or ankle 
+are not to be drawn  
+ii. Outpatients: The person collecting the requested specimen identifies the patient 
+1. Ask the patient to state their first and last name and date of birth 
+2. Confirm the patient’s full name (first and last) by comparing the stated name to the name 
+appearing on the physician order 
+3.  Confirm the date of birth found on either the physician order or the “Outpatient Laboratory 
+Testing” form 
+6. Resolve patient identification discrepancies before drawing the patient 
+7. Draw the patient using standard venipunture technique 
+i. Specimen container is a 2ml or 3ml Purple Top Tube (EDTA) 
+ii. Ensure the sample does not leave the presence of the patient before being labeled with the required 
+documentation  
+8. Required Specimen Container documentation:  
+i. Inpatients: (Label must contain patient’s full name and DOB) 
+1. Label the specimen tube with the EPIC specimen label, patient chart label, or a handwritten 
+label at the patient’s bedside 
+2. The blood bank barcode label with number is not required. 
+3. Write the date, time of draw and your Network ID on the laboratory label at the patient’s 
+bedside 
+4. Place the specimen tube in a transport biohazard bag, seal, and send to the Central Processing 
+Department for processing 
+ii. Outpatients: (Label must contain patient’s full name and DOB) 
+1. Label the specimen tube with the following information: 
+2. Patient’s first and last name 
+3. Patient’s date of birth 
+4. Date, time of draw, and Network ID of the collector  
+5. Place the specimen tube in a transport biohazard bag, seal, and send to the Central Processing 
+Department for processing OUR LADY OF THE LAKE RMC 
+LABORATORY 
+BATON ROUGE, LA 70808 
+ 
+Page 6 of 6 
+PHLC009 
+ 
+Limitations of the Procedure: 
+A. Trauma patients are identified by Trauma packet numbers as described in the Trauma procedure 
+B. Days are counted by beginning with the date noted on the blood bank armband as day 0 
+C. Another person may collect a sample via an indwelling access line or other method, but the attending 
+Phlebotomist is to: 
+1. Be present during the collection of the specimen 
+2. Perform the patient identification 
+3. Label and sign the specimen container, blood bank card, and blood bank armband 
+4. Place the blood bank armband on the patient wrist or ankle 
+5. Is responsible for the accuracy of the patient collection 
+D. A Phlebotomist may not accept responsibility for unlabeled specimens, incompletely processed nurse 
+collections, or specimen draws that were not witnessed by the phlebotomist 
+E. Inpatients not having hospital approved armbands attached to their wrists are not to be drawn for: 
+1. Type and Screen 
+2. Draw and Hold 
+F. Label specimen tubes, blood bank card, and blood bank armband at the patient’s bedside or in emergent 
+situations, in the presence of the patient (i.e. Trauma, Code) 
+G. Blood Bank Specimens for type and screen or draw and hold are never relabeled or corrected. The above 
+documentation is required, or the specimen will be rejected, and MUST be redrawn. 
+ 
+REFERENCES: 
+Typenex Flexi Blood Armband System 
+OLOL Institutional policy  
+ 
+REVISIONS 
+7/6/1986 (created); 10/01/2017 
+ 
+ 
+ 

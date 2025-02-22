@@ -1,0 +1,153 @@
+ 
+ 
+  
+To ensure that ALL ICD/AICD procedures 
+performed at Our Lady of the Lake Regional 
+Medical Center meet the standards for 
+medical necessity as outlined  by the Center 
+for Medicare and Medicaid Services (CMS) 
+and Local Coverage Determination or as 
+required by third party payer specific 
+criteria. 
+ICD Medical 
+Necessity  
+Compliance 
+process 
+Our Lady of the Lake Regional Medical Center 
+E. Michael Avaritt, MSN, RN 2017 ICD Policy for Medical Necessity Compliance Process.docx 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT:  
+Cardiovascular Lab – NCDR Registry Division 
+ 
+  
+SUBJECT: Implantable Automatic Cardioverter  
+Defibrillator/Implantable Cardioverter 
+Defibrillator (AICD/ICD) Medical Necessity 
+Compliance Process 
+NUMBER OF PAGES:   3 
+ 
+REPLACES POLICY (Number/Date): 
+N/A 
+ 
+Date of Origination:  10/25/17 
+Date of Last Revision:  06/25/2021 
+Date of Review:   7/31/17, 5/31/18, 5/31/20 
+ 
+ 
+ 
+  
+ 
+SCOPE: All implantation procedures of AICD’s/ICD’s performed as either Inpatient or Outpatient in an 
+Our Lady of the Lake Regional Medical Center (OLOLRMC) facilities.  
+ 
+PURPOSE: To ensure that Cardiac Cath Lab and Surgery procedures to implant an Implantable 
+Automatic Defibrillator, or Implantable Cardioverter Defibrillator (AICD or ICD) meet the standards for 
+medical necessity as outlined in the Center of Medicare and Medicaid Services (CMS) National and 
+Local Coverage Determination (NCD), or as required by other third party payer specific criteria. 
+ 
+POLICY: OLOLRMC will maintain procedures to ensure that implantation of AICD’s/ICD’s are 
+implanted when condition of the patient indicates that the procedure is medically necessary 
+according to established criteria in the NCD, and is conducted in a manner that considers the safety of 
+the patient and the provision of quality care.  
+ 
+Documentation defined as “hard stop form”  will be maintained that supports medical necessity, 
+shared decision making, and other pertinent clinical data.  This information will be maintained in an 
+electronic format in the medical record (EPIC) for access.  This documentation will be retained no less 
+than ten (10) years and in accordance with Compliance Retention schedules. 
+ 
+Monitoring programs will be developed and conducted by the Cardiovascular Lab Leadership and 
+Cardiovascular Quality Department to ensure continuous compliance with policy and procedure. 
+Results of this monitoring as well as any resulting change of practice or other corrective action will be 
+reported to the EP Committee on a regular basis.  
+ 
+DEFINITIONS: 
+AICD/ICD:  Implantable Automatic Cardioverter Defibrillator; an electronic device designed to 
+monitor, detect and treat life-threatening abnormal heart rhythm (tachyarrhythmia).  
+ 
+2017 ICD Policy for Medical Necessity Compliance Process.docx 
+ 
+PROCEDURE: 
+Note: This process is not intended to approve or deny a physician’s ability to implant an AICD/ICD that 
+is found to be medically necessitated. 
+ 
+1. Cardiovascular Quality Department will check the Epic Electronic Schedule daily for scheduled 
+Initial ICD Procedures. They check in early a.m. and again in the p.m. This information is then 
+logged daily in the T:Drive/Data/Cardiovascular Quality Dashboard/2015 ICD Tracking Folder 
+by team members.  
+2. Team member checks the Epic Anesthesia schedule daily for Initial ICD procedures A.M. and 
+P.M. and log in the T:Drive folder.  
+3. Team member reviews the EMR to evaluate Hard Stop status. (See below). The following 
+questions are asked:  
+a. Is this an Initial Implant? If YES – the form needs to be completed. If NO – proceed with 
+scheduling the procedure.  
+b. Has this patient had a CABG surgery within the past 90 days? YES or NO 
+c. Has this patient had a PCI procedure within the last 90 days? YES or NO 
+d. Has the patient had an MI within the last 40 days? YES or NO 
+     If ANY answer is YES (Questions b,c,d) STOP!! Procedure does NOT meet the criteria   
+     For implant/Needs further review. Case CANNOT be put on the schedule book until  
+     Further review/approval completed by the Physician Quality Review Committee.  
+4. If there is an OUTLIER – that record is brought to the Physician Quality Review Committee 
+(Joseph Deumite, MD, FACC; Henry Patrick, MD, FACC; Steven Gremillion, MD, FACC) for review 
+and clearance for the implant to proceed. Cath Lab is notified then by Reg istry Office of case 
+status. 
+5. Team Member  inputs every initial ICD Implant into the ICD Log located on the T:Drive 
+(T:Drive/Data/Cardiovascular Quality Dashboard/2015 ICD Tracking Folder).  Hard stop 
+questions are reviewed prior to the procedure for compliance . If compliance is met, the 
+procedure is performed.  If there is a question regarding compliance, the Cardiovascular Quality 
+Department notifies the Cath Lab and the ICD Physician Review Committee.  The procedure is 
+put on hold until a member of the ICD Physician Review Committee reviews the case and/or 
+speaks to the physician performing the procedure. 
+6. Cath Lab will contact the Cardiovascular Quality Department (via text or phone) regarding the 
+Initial ICD procedures that are added on and may fail the Hard Stop thereby requiring further 
+review prior to implant.  
+7. Team member checks the completed Master Daily Schedule the next day to ensure all Initial 
+ICD Implants have been evaluated for Hard Stop and logged into the T:Drive. 
+8. Implanting MD/Nurse calls Cath Lab to schedule procedure. Team member will complete the 
+ICD Pre-Op Scheduling Checklist by asking the following questions: 
+a. Is this an Initial Implant?  If YES – the form needs to be completed. If NO –form does not 
+need to be completed, proceed with scheduling.  
+b. Has the patient had a CABG procedure within the past 90 days?  
+c. Has this patient had a PCI procedure with the last 90 days? 
+d. Has this patient had an MI within the last 40 days? 
+If ANY answer is YES (Questions b,c,d) – STOP!! Does not meet criteria for implant/Needs 
+further review. Case cannot be scheduled until further review is completed.   
+         9. Upon patient discharge, there is a follow -up check on the Coding Summary to make sure                  
+the Principal Procedure Coding Summary is completed and provides appropriate documentation. 
+      2017 ICD Policy for Medical Necessity Compliance Process.docx 
+ 
+ 
+FOR QUESTIONS please contact Cardiovascular Disease Management Department located in Medical 
+Plaza 2, Suite 8001, 8th floor: 
+ 
+Noel D’Amico, BSN, RN               Jennifer Viator, BSN, RN               E. Michael Avaritt, MSN, RN 
+W: 225-765-8645                         W: 225-765-7935                           W:  225-765-8691 
+ C:  225-963-0424                         C: 225-921-9351                             C:  225-252-9294 
+Noe14290@ololrmc.com                         Jennifer.viator@ololrmc.com                   Michael.avaritt@ololrmc.com  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

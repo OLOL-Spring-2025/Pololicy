@@ -1,0 +1,34 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Monitoring of Electrical Supply for 
+Blood Gas Laboratory Section: Blood Gas Lab 
+Date of Origination: August 1993 Signature: 
+Date of Last Revision: November 13, 2017 
+ Serial Code: RC9-19 
+                      Reviewed: October 1, 2024 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+PURPOSE 
+The purpose of this policy is to delineate the steps followed to assure that the performance 
+of the diagnostic testing equipment used in the blood gas laboratory is not hampered by a 
+poor quality electrical supply. 
+ 
+PROCEDURE 
+A. The quality of the hospital's electrical supply is the responsibility of Plant Services, 
+and is monitored in that department. 
+B. Critical equipment is sustained on Uninterruptible Power Supply (UPS) units, 
+which incorporate power conditioning capabilities to avoid spikes, surges, power -
+loss, and brownouts. 
+C. The blood gas analysis units have surge suppression built in.  An in-line suppressor 
+protects any equipment without integral surge suppression. 
+D. Periodic monitoring of the electrical supply in the laboratory is not done unless 
+there is indication of problems.  The performance of Quality Control on each shift 
+is a more consistent monitor of the performance of the equipment than periodic 
+electrical monitoring, and will detect any problem of sufficient level to affect 
+performance. 
+ 

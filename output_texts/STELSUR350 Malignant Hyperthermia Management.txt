@@ -1,0 +1,292 @@
+ 
+         
+Our Lady of the Lake Ascension  
+ 
+Purpose:  
+Provide effective management of the patient with the diagnosis of malignant 
+hyperthermia (MH) Crisis, and to provide guidelines for care of patients that are MH 
+susceptible. 
+ 
+Applies:  
+Physicians, Anesthesia Staff, Surgical Department Staff, House Supervisor, Supportive 
+Nursing Staff, Respiratory Dept. and Laboratory, ECU and ICU departments and Cardio 
+Vascular Lab or any department where triggering agents may be used.   
+ 
+Policy:  
+Malignant Hyperthermia management will be applied to all patients diagnosed with 
+malignant hyperthermia, or are MH susceptible, utilizing the Malignant Hyperthermia 
+Association of America (MHAUS) protocol.  
+ 
+Responsibility:  
+It is the responsibility of the anesthesiologist and treating physician to diagnose this 
+condition and to direct the surgical team in the delivery of the MH protocol. 
+Procedure: 
+• Malignant hyperthermia (MH) is a potentially fatal, inherited 
+disorder usually associated with the administration of certain 
+general anesthetics and/or the drug succinylcholine  
+• The disorder is due to an acceleration of metabolism in skeletal 
+muscle causing severe rhabdomyolysis.   
+• While most cases of MH occur during general anesthesia, the 
+one-hour period immediately following surgery (including the 
+recovery room), or administration of a triggering agent, is also a 
+critical time. In addition, MH can occur if trigger anesthetics 
+and/or succinylcholine are used in any location, such as 
+emergency rooms, dental surgeries, surgeon’s offices or 
+intensive care units. 
+  
+I.  Preoperatively 
+ 
+POLICIES AND PROCEDURES  
+Surgical Services Manual 
+ 
+ 
+EFFECTIVE DATE 
+January, 1997 
+ 
+NUMBER 
+ 
+STESUR350 
+ 
+SUBJECT: 
+Malignant Hyperthermia (MH) Management 
+ 
+Page 1 of 6 
+ 
+    2 | P a g e  
+ 
+A. Assessment; When possible, Ask the patient, family and support persons 
+about personal and past family history of Adverse Anesthesia reactions 
+(unexplained fever or death during anesthesia) and any neuromuscular 
+disorders. Be Aware of clinical signs and symptoms of MH.  Notify anesthesia 
+personnel of any suspected history. 
+ 
+B.  Body temperature monitoring for all patients undergoing general anesthesia 
+for other than brief procedures. 
+  
+ C.  Capnographic monitoring for all patients undergoing general anesthesia or     
+            the administration of succinylcholine   
+ 
+D.  Dantrolene:  have dantrolene available wherever MH triggering agents are 
+used.   
+ 
+II. Signs and Symptoms 
+ 
+A.  Assessment:  is patient exhibiting signs or symptoms of an MH crisis?  
+• Severe tachycardia is usually the initial symptom  
+• Increased end tidal Co2 elevation. 
+• Is patient exhibiting severe masseter spasm? (Difficult to open the mouth) 
+         B.  Breathing:   
+•   difficulty ventilation and /or intubate due to masseter spasm  
+•   Severe Body rigidity after succinylcholine administration.  
+•    Body temperature increasing is usually a late symptom, occurring after   
+    the syndrome has progressed. 
+ 
+C.  Capnography:  elevation of endtidal CO2 despite proper ventilation and 
+adequate gas flows with properly functioning ventilation equipment 
+   Circulation:  Cardiac arrythmias, tachy/brady, hyper/hypotension. 
+ 
+D.  Drugs:  are you using triggering agents? (Succinylcholine, potent 
+halogens, desflurane, enflurane, halothane, isoflurane, methoxyflurane, 
+sevoflurane, trichloroethylene, Xenon). 
+ 
+ E.  Exposure:  Examine the patient, skin color, perfusion, temperature, urine        
+          color, extremities and muscle tone. 
+ 
+III. EMERGENCY TREATMENT OF MH CRISIS 
+                       (MHAUS Crisis Hotline: 1-800-MH-HYPER) 
+           (1-800-644-9737) 
+Discontinue the triggering agent immediately 
+ 
+The Anesthesiologist / Physician in charge will diagnose and announce the MH crisis 3 | P a g e  
+ 
+and stop the triggering agent, procedure or the surgery when possible.  If the surgical 
+wound closure is not possible, the wound should be packed with normal saline soaked 
+towels or sponges maintaining aseptic technique. 
+ 
+A. Call the MHAUS Crisis hotline for Assistance in treatment. 
+Assemble additional OR personnel for delegation of duties: respiratory, lab, 
+pharmacy, administrative notification. Ask for the MH supply cart to be delivered 
+to the OR with the Dantrolene, cooled IV fluids/irrigations and ice packs, and the 
+A-line and Central line set up trays and additional IV lines set up.  (Cart Location: 
+ Main OR core, and at the ASC: back surgery hallway outside OR 3).  
+B.  
+Breathing: Hyperventilate patient with 100% oxygen per ambu, or ventilator.  
+Assist anesthesia personnel in changing out the anesthesia machine and 
+change the breathing circuit and soda lime cannister. Unplug or disable the 
+inhalation agent vaporizers.   
+ 
+C. Cooling:  if the patient has increased temperatures use the following 
+cooling methods to reduce the temperature: 
+• Insert large gauge IV catheters.   
+• Change any lactated ringer’s solutions to cooled sterile normal 
+saline Do not use Lactated Ringer’s solution; it may contribute to the 
+patient’s acidosis. 
+• If the abdomen is open, irrigate the open peritoneal cavity with 
+cooled sterile saline.  
+•  Monitor amount of irrigation used for I&O documentation.   
+• Irrigate and lavage stomach by inserting a nasogastric tube and 
+connecting to cooled NS irrigation with cysto tubing. 
+• Bladder irrigation:  Insert a 3-way foley connected to cysto tubing 
+and cooled saline irrigation.   
+• Rectal lavage:  use a 30mL balloon foley and cysto tubing 
+connected to cooled NS solution, and a closed drainage bag.  
+•  Monitor I&O, document. 
+•  Apply topical ice packs to surface areas: neck, axilla and groin. 
+•  Avoid too rigorous cooling.  Discontinue if temp. is 38 C /100.4 F to 
+avoid hypothermia or excess shivering which will increase temp. and 
+metabolic demands 
+               Collect lab specimens: 
+• Electrolytes 
+• CBC 
+• ABGs;  
+• Clotting studies, PT, PTT, INR, fibrin studies 
+• Liver enzymes 
+• BUN, Creatinine 4 | P a g e  
+ 
+• CK levels 
+• urine, Myoglobinuria 
+ 
+D.   Begin mixing Dantrolene immediately as it is difficult to incorporate the 
+        powder into a liquid solution.     
+   Dosage and administration of Dantrolene 
+• Give Dantrolene IV:   2.5 mg/ kg IV push stat 
+for initial bolus and titrate the dose until the 
+signs are controlled.  
+• A maximum dose of 10 mg / kg is suggested, 
+more may be given as needed.    
+•  For reconstitution:  reconstitute a 20 mg, 
+70mL vial with 60mL of sterile water 
+(preservative free) and shake vigorously for 
+several minutes. This medication is difficult 
+to reconstitute. 
+ 
+ 
+E.  Evaluate:  
+• Electrolytes: especially K, Na, and pH 
+• ABGs; SAO2, ETCO2, pH 
+• Clotting studies; PT, PTT, INR, fibrin studies 
+• Liver enzymes 
+• BUN, Creatinine 
+• Myoglobinuria   
+• CK levels 
+• EKG rhythm 
+• Temperature 
+• Urinary output  
+ 
+IV. SECONDARY STEPS 
+ 
+A.  Assess Acidosis:  initial and subsequent arterial or venous blood gasses.  
+Determine if there is mixed metabolic and respiratory acidosis. 
+ 
+B.  Bicarbonate administration:  1-2 mEq/ kg guided by pH, base deficit/ABG 
+results. 
+ 5 | P a g e  
+ 
+C.  Circulation/monitoring: consider arterial line, central venous catheter for CVP 
+monitoring and drawing of subsequent lab specimens.   
+ 
+D. Dysrhythmias generally subside with the resolution of the hyper metabolic 
+phase of MH.  Dysrhythmias can be treated according to the ACLS protocol 
+as directed by the anesthesia person or physician in charge.    Remember the 
+impact of hyperkalemia. Treat with IV glucose/insulin (regular insulin) and 
+Calcium.  Diuresis:  assure diuresis greater than 1mL/kg/hour. 
+ 
+           E.  Electrolytes:  continue subsequent monitoring 
+ 
+F. Follow up:  A:  ABG and venous blood gasses, B:  Body temperature (core), 
+C:  end tidal CO2, CPK, Coagulation tests, D:  Diuresis (output and color) 
+Electrolytes   
+ 
+ 
+V.  POST-OPERATIVE, (Post –Crisis Problems) 
+ 
+ A.  Alkalinize urine and diurese, monitor for ARF (acute myoglobin uric renal 
+failure) If myoglobin urea develops, maintain urine flow at least 2 mL/kg/hr. 
+ 
+B.  Beware hypothermia with continued cooling, hyperkalemia, hypervolemic 
+overload, monitoring of filling pressures, fluid balance, electrolytes, temp, K, Ca, 
+coag. studies, Hct may require re-correction. 
+ 
+C.  Creatine Kinase (CK) levels track severity of the rhabdomyolysis:  if present, 
+beware of renal failure, which may follow marked rhabdomyolysis. Compartment 
+syndrome is rare but requires serial monitoring of extremities and abdominal girth 
+of bladder pressures after severe insults. 
+ 
+ D.  DIC with coagulopathy, thrombocytopenia, k hemolysis and abnormal 
+bleeding may follow major crises with severe shock and / or hyperthermia. 
+ 
+ E.  Elevated liver functions are often observed 12-36 hours post MH crisis. 
+ 
+ F.  Follow CNS functions serially after MH crisis: magnitude of crisis may or may 
+not correlate with CNS insult or injury. 
+ 
+ G.  Good communication and follow-up is essential among medical specialists in 
+the post-resuscitation and monitoring phase of the MH crisis for prevention of secondary 
+crisis-related organ insults.  Care may be transferred from an anesthesia care provider 
+to a pediatric or adult medical or surgical intensivist provided good information about the 
+MH crisis and post-resuscitation management is maintained. 
+ 6 | P a g e  
+ 
+ 
+VI. POST-ACUTE PHASE 
+ 
+A.  Awareness of re-occurrence signs.  Ask relatives about any problems/ 
+neuromuscular disorders. 
+ 
+ B.  Biopsy:  suggest biopsy for evaluation (specified biopsy centers) 
+ 
+ C.  Contact MHAUS for further information/ referral of patient for registry. 
+  
+ D.  Dantrolene 1 mg/kg, IV every 6 hrs. and continued for 24-48 hours after an 
+episode of Malignant Hyperthermia.  Documentation:  submit forms to the national/ 
+international North American MH Registry of MHAUS  www.mhreg.org  to obtain forms. 
+ 
+ 
+7.  ANESTHESIA FOR MH-SUSCEPTIBLE PATIENTS 
+ 
+A.  Anesthesia machine preparation: change circuits, disable or remove the 
+vaporizers, flush the machine at a rate of 10L/min for 20 min.  Change the CO2 
+absorption canisters. 
+ Anesthesia:  Use local or regional anesthesia or anesthesia with non- 
+triggering agents is acceptable.  Safe drugs include: barbiturates, 
+benzodiazepines, opioids, non-depolarizing neuromuscular blockers and  their 
+ reversal drugs and nitrous oxide. 
+ B.  Body temperature monitoring 
+ C.  Capnography, close monitoring for early signs of MH.  
+ D.  Dantrolene available.  May discharge if no problems after minimum of 2 
+hours. 
+ 
+8.  MH CRISIS HOTLINE:  1-800-MH-HYPER (1-800-644-9737) 
+      GENERAL INFO:  1-800 -98-MHAUS 
+ 
+ 
+ 
+Reference:  
+A. Malignant Hyperthermia Association of the United States.Video - “Malignant 
+Hyperthermia: Knowing Your Role, How to Handle a Malignant Hyperthermia Crisis”.  
+B. Brochure - Clinical Update 2002/2003 Managing Malignant Hyperthermia.  
+(Sherburne, NY: Malignant Hyperthermia Association of the United States, 2003. 
+C. Brochure - Preventing Malignant Hyperthermia, an Anesthesia Protocol. (Sherburne, 
+     NY: Malignant Hyperthermia Association of the United States. 1996). 
+D. OR text: Atkinson, L. J. And Fortunato, N. Operating Room Technique. MO: Mosby-  
+     Yearbook, Inc. 383-386. 
+E. Check Mate Classic. 1994. National Nurse Career Connection, Inc. 7 | P a g e  
+ 
+F.  Brochure:  ABCs of Managing Malignant Hyperthermia (MHAUS 4/1/2006) 
+G.  AORN 2005 Standards, Recommended Practices and Guidelines 
+H. http://www.mhaus.org/healthcare-professionals/be-prepared, 2014 
+ 
+ 
+ 
+Revised/Reviewed:    
+1/97; 08/98; 08/99; 08/00; 8/02; 11/03, 11/04, 3/2005, 1/2006,  
+Revised:  1/2007 to include the ABC management of MH crisis. 
+Revised: March 2018 to include departments outside of surgery 
+ 
+1/2008, 1/2009, 1/2010; 1 /2011; 1/2012, 1/2013; 1/2014; 1/2015; 3/2016; 7/2017; 7/2018; 
+7/2019; 9/2021; 9/2022; 9/2023; 9/2024; 1/2025 
+ 
+                                                                                                                                            
+                                                                                                                                            
+                                                                   
+Page 6 

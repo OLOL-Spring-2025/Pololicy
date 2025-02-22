@@ -1,0 +1,377 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Workflow and Aseptic Technique for 
+Sterile Compounding 
+Policy Reference #: PH0538 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised: 11/4/2024 
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for Sterile Compounding Workflow and materials handling 
+within a cleanroom suite and Segregated Compounding Area (SCA) to maintain the quality of the 
+compounding environment and minimize the risk of contamination to Com pounded Sterile 
+Preparations (CSPs) prepared within FMOLHS Baton Rouge Market Pharmacies.  
+1.2. This policy describes the procedures for Aseptic Technique of CSPs within a cleanroom suite and 
+SCA where CSPs are prepared within FMOLHS Baton Rouge Market Pharmacies.  
+• Aseptic technique is set of methods used to keep objects and areas free of microorganisms 
+and thereby minimize infection risk to the patient. It is accomplished through practices that 
+maintain the microbe count as an irreducible medium. 
+1.3. Sterile compounding workflow includes all the movement of materials within the designated 
+compounding and/or cleanroom area(s).  It is critical to control transfer of materials between 
+areas of lower quality air to higher quality air to minimize the influx  of contaminants, especially 
+activities such as: 
+• Entering and exiting SCA  
+• Entering and exiting ante room 
+• Entering and exiting buffer room 
+• Use of pass-through chambers 
+• Aseptic technique during compounding 
+1.4. This policy is not intended to describe the requirements and procedures for aseptic technique of 
+CSPs for Immediate Use within FMOLHS Baton Rouge Market Pharmacies.  
+• Policies and procedures for immediate use CSPs can be found in the Immediate Use 
+Compounding policy. 
+1.5. This policy outlines the steps for workflow and aseptic technique for compounding non-hazardous 
+sterile preparations. While many of the aseptic technique steps are the same for hazardous and 
+non-hazardous sterile compounding, additional workflow steps are required when working with 
+hazardous drugs (HDs). Please refer to USP <800> when working with HD CSPs.  
+2. Policy  2.1 It is the policy that compounding personnel maintain sterility of CSPs prepared within FMOLHS 
+Baton Rouge Market Pharmacies by ensuring aseptic technique is followed in the entirety of the 
+compounding process. 
+2.2 All furniture, equipment and other materials necessary for performing sterile compounding 
+activities that is moved into the classified areas and SCA are low-shedding and easily cleaned and 
+disinfected. 
+2.3 All furniture, equipment and other materials necessary for performing sterile compounding 
+activities that is moved into the classified areas and SCA are cleaned per this policy.  
+2.4 Cardboard and other outside shipping containers are not allowed into the classified areas and 
+SCA.  
+2.5 Personnel who compound CSPs within FMOLHS Baton Rouge Market Pharmacies independently 
+have successfully completed all required sterile compounding training and competency 
+programs. 
+2.6 All aseptic manipulations and processes occur inside an ISO Class 5 Primary Engineering Control 
+(PEC). 
+2.7 All personnel who compound CSPs within FMOLHS Baton Rouge Market Pharmacies  follow all 
+procedures in the Hand Hygiene and Garbing policy  including personnel conduct in the sterile 
+compounding area(s).  All supplies, medications, fluids and equipment are cleaned upon 
+entry/crossing the Line of Demarcation (LOD) with sIPA or sporicidal disinfectant.   
+2.8 Visibly dirty or soiled items/equipment are cleaned with sporicidal agent before introduction into 
+the sterile compounding area and then cleaned per this policy when crossing the LOD (and if 
+introduced into the Primary Engineering Control).  
+3. Roles & Responsibilities 
+3.1 The Designated Person(s) (DP): 
+• Ensure all furniture, equipment and materials necessary for sterile compounding is low 
+shedding and easily cleaned and disinfected  
+• Ensure all personnel involved in sterile compounding move materials, medications, fluids, 
+and supplies into sterile compounding locations and ISO classified areas per this policy in 
+order to maintain the sterility of the CSPs 
+• Ensure all personnel who compound CSPs are following aseptic technique throughout the 
+entirety of the sterile compounding 
+• Ensure technology supporting sterile compounding workflow is maintained and consistent 
+with organizational policies and procedures  
+• Communicate changes in workflow, procedures and systems to compounding staff.  
+3.2 Compounding personnel: 
+• Follow all policies and procedures for moving materials, medications, fluids, and supplies 
+into and out of the sterile compounding locations per this policy 
+• Follow aseptic technique throughout the entirety of sterile compounding  
+3.3 Pharmacist:  • Provide direct oversight of compounding personnel and procedures to ensure compliance.  
+• Perform in-process checks and final verification checks of CSPs per policy.  
+• Perform all CSP storage and/or dispensing processes per policy.  
+4. Procedures 
+Movement of Materials: Segregated Compounding Area (SCA): 
+4.1 Remove all materials moving into the SCA from outer shipping containers and cardboard. Move 
+these containers and carboard away from the immediate vicinity of the SCA and/or before 
+crossing the line of demarcation (LOD) or perimeter line.  
+4.2 Disinfect all materials that are introduced inside the perimeter of an SCA by wiping with a low-
+lint wipe saturated with sporicidal disinfectant or sterile 70% Isopropyl alcohol (sIPA) prior to 
+moving into the perimeter of the SCA. 
+• Wear gloves when wiping down materials. 
+• Ensure the integrity of all materials is not affected by wiping.  
+• Sporicidal disinfectant remains on the materials for the proper contact time.  
+• sIPA remains on the materials until it dries. 
+4.3 Disinfect all carts moving into the perimeter line of the SCA by wiping with a low -lint wipe 
+saturated with sporicidal disinfectant or sterile 70% Isopropyl alcohol (sIPA) prior to moving into 
+the perimeter line of the SCA. Ensure castors are also wiped down thoroughly. 
+4.4 Only introduce materials needed for sterile compounding activities inside the perimeter of the 
+SCA. 
+4.5 Move materials into their storage location within the SCA or use materials for compounding CSPs. 
+ 
+Movement of Materials: Sterile Compounding Suite: 
+4.6 Remove all materials moving into the sterile compounding suite from outer shipping containers 
+and cardboard.  
+4.7 Disinfect all carts moving into the ante room of the sterile compounding suite by wiping with a 
+low-lint wipe saturated with sporicidal disinfectant or sterile 70% Isopropyl alcohol (sIPA) prior 
+to moving into the sterile compounding suite. Ensure castors are also wiped down thoroughly. 
+4.8 Disinfect all materials that are introduced inside the sterile compounding suite by wiping with 
+and a low-lint wipe saturated with sporicidal disinfectant or sterile 70% Isopropyl alcohol (sIPA) 
+prior to moving into the sterile compounding suite.  
+• Gloves are worn when wiping down materials.  
+• Ensure the integrity of all materials is not affected by wiping. 
+• Sporicidal disinfectant remains on the materials for the proper contact time.  
+• sIPA remains on the materials until it dries. 
+4.9 Place wiped down items into a disinfected bin prior to moving into the sterile compounding suite.  
+4.10 Movement of Materials: Non-classified area to classified area 
+• Wiped down materials moving into the sterile compounding suite are placed inside the 
+interlocking pass-through. 
+• Wiped down materials moving into the sterile compounding suite are moved into the ante 
+room and placed on a cart or table on the inside of the ante room. 
+o Care is taken to ensure the ante room door is closed as soon as possible after passing 
+materials into the ante room.   
+4.11 Movement of Materials: Classified area to classified area  
+• Move materials needed for sterile compounding into the buffer room by placing inside the 
+interlocking pass-through. • Move materials needed for sterile compounding into the buffer room by opening the buffer 
+room door and placing items on cart or table inside the buffer room. 
+o Care is taken to ensure the buffer room door is closed as soon as possible after passing 
+materials into the buffer room.  
+• When moving a cart into the buffer room, the cart is wiped again with a low -lint wipe 
+saturated with sporicidal disinfectant or sterile 70% Isopropyl alcohol (sIPA) prior to moving 
+into the buffer room. Ensure castors are also wiped down thoroughly. 
+o Care is taken to ensure the buffer room door is closed as soon as possible after passing 
+a cart into the buffer room.  
+4.12 Properly garbed personnel move materials into storage locations within the sterile compounding 
+suite or use for compounding CSPs.  
+ 
+Sterile Compounding Procedure: 
+4.13 Personnel follow all policies and procedures outlined in Hand Hygiene and Garbing for Sterile 
+Compounding policy prior to compounding CSPs and working in the SCA and/or Cleanroom Suite.  
+4.14 Gather all materials needed for compounding CSPs prior to initiating compounding. 
+4.15 Check expiration date on all vials, ampules, and fluids being used for sterile compounding. 
+4.16 Check each vial, ampule, bag for: 
+• Changes in color 
+• Particles floating in the fluid 
+• Cloudiness 
+• Leakage or packaging defects that could impact the integrity of the sterile component 
+o If any of these present, do not use for compounding CSPs 
+4.17 All items necessary for compounding CSPs are wiped down with sIPA and a sterile low-lint wiper 
+and allowed to dry before moving materials into the Primary Engineering Control (PEC). 
+• The wiping procedure does not render the product label unreadable. 
+• Sterile supplies in sealed containers moving into the PEC may be removed from the outer 
+covering as the supplies are introduced into the PEC without needing to be wiped with sIPA 
+4.18 Movement of Materials – LAFW, BSC, OR IVFLZ: 
+• Spray gloved hands with sIPA 
+• Move all necessary materials that have been wiped with sIPA and allowed to dry onto the  
+side of the DCA of the PEC 
+• Once all materials have been transferred to the PEC, spray gloved hands with sIPA 
+4.19 Spray gloved hands with sIPA prior to beginning any CSP manipulations. Gloved hands remain in 
+the ISO 5 PEC for the entire sterile compounding process. When hands removed from PEC, spray 
+gloved hands with sIPA prior to putting them back into the PEC. 
+4.20 Items used for compounding are arranged inside the PEC so that all items are receiving first air. 
+All clean/unused items are located to one side of the DCA. All used items/discarded items are 
+arranged on the other side of the DCA. Clean and dirty items are not intermingled.  
+• Like items are arranged together to organize the direct compounding area (DCA) inside the 
+PEC.  
+4.21 IV workflow systems are arranged inside the PEC to the left or right of the DCA. First air is 
+maintained across the surface of the IV workflow system when CSPs are arranged on the 
+hardware. 
+ 
+Aseptic Technique: 
+4.22 Flip dust covers off vials, disinfect vial septum by wiping with an individual sIPA wipe three times 
+firmly in a single direction and allow to dry.  • Critical sites always receive first air after disinfection with sIPA. If first air is interrupted, wipe 
+the vial septum again with sIPA. 
+4.23 Wipe ampule necks with individual sIPA wipes and allow to dry prior to manipulation. The 
+individual sIPA wipes are used only once. 
+• Ensure all liquid is in the body of the ampule; lightly tap the head of the ampule, causing liquid 
+to drip down into the body of the ampule. 
+• Open ampule by wrapping a sIPA wipe around the neck of the ampule and snapping the neck 
+at the scored line if available, away from hands and body, and towards the side of the PEC.   
+• The ampule is never opened toward the HEPA filter of the PEC. 
+4.24 Assemble needle and syringe: 
+• Remove appropriately sized syringe for volume being drawn up from outer packaging. Do not 
+push syringe through paper backing, if present. Gently peel back the two sides of the 
+packaging without touching any of the critical sites. Place packaging trash off to the side. 
+Maintain first air across the luer lock of the syringe, as this is the critical site. Hold syringe in 
+hand as needle is opened.  
+• Remove outer packaging of appropriately sized needle and twist needle onto the syringe. Do 
+not push needle through paper backing, if present. Gently peel back the two sides of the 
+packaging without touching critical sites.  Care is taken to avoid twisting the needle cap off 
+needle; instead pull straight back in a single movement to avoid finger sticks.  
+4.25 Withdraw required volume from a vial: 
+• Pull back on the syringe to fill the syringe with air less than or equal to the volume of fluid 
+being removed from the vial 
+• Hold syringe so that the needle shaft is at a 45 o angle to the middle of the vial septum and 
+needle bevel is up. Pierce vial septum with tip of the needle, rotate the needle to 90o the vial 
+septum and push down through the vial septum in one fluid motion. To avoid vial septum 
+coring, do not twist the needle into the vial septum.  
+• Push air into the air space of the vial, invert vial and hold vial so as to not block first air to the 
+critical site. Ensure needle is now in the fluid space in the vial. 
+• Pulling back on the plunger flange, withdraw required volume from vial, taking care only to 
+touch the plunger flange and not the plunger shaft. 
+• Ensure plunger seal is in-line with the correct volume markings on the barrel of the syringe to 
+confirm correct volume withdrawn. 
+• Check for air bubbles in the syringe barrel. If bubbles are present, flick the barrel of the syringe 
+with fingers to move air bubbles to the top of the syringe. Push air into the vial into the air 
+space, move needle to the fluid space and withdraw to required volume markings on syringe.  
+• Withdraw needle from the vial and ensure required volume is still within the syringe. 
+o If required volume not in the syringe, disinfect vial septum with sIPA wipe and follow 
+all above steps. Do not enter the vial septum in the same location, always utilize an 
+unpierced area on the vial septum to avoid coring.  
+• Follow all the above steps to reconstitute other vials or withdraw volumes from more than 
+one syringe. 
+• Needles should not be used more than five (5) times, as this dulls the needle and contributes 
+to coring. 
+• Remove needle and replace with an unused needle if further manipulations need to be 
+performed with that syringe. 
+4.26 Withdraw required volume from ampule: • Ensure needle used in only one direction is a filter needle. The filter needle can be used to 
+withdraw contents from an ampule or push syringe contents into final dose.  
+• Insert filter needle or filter straw into the contents of the ampule 
+• Pulling back on the plunger flange, withdraw more than the required volume from the 
+ampule, taking care only to touch the plunger flange and not the plunger shaft. 
+• Remove the filter straw or filter needle from ampule and turn the syringe upward. 
+• Check for air bubbles in the syringe barrel. If bubbles are present, flick the barrel of the syringe 
+with fingers to move air bubbles to the top of the syringe. 
+• Remove filter straw or filter needle from the syringe and replace with a new appropriately 
+sized needle.  
+• Push the plunger flange upward to expel air bubbles and extra volume. Ensure plunger seal is 
+in-line with the correct volume markings on the barrel of the syringe to confirm correct 
+volume withdrawn. 
+4.27 Withdrawing or adding required volume from or into IV bag: 
+• Disinfect drug additive port of IV bag by wiping three times firmly in a single direction with 
+sIPA wipe and allow to dry 
+• With needle at a 90 o angle to the drug additive port, push needle into drug additive port 
+through the center of the port. To avoid coring, do not twist the needle into the IV bag port.  
+• Pulling back on the plunger flange, withdraw required volume from IV bag, taking care only 
+to touch the plunger flange and not the plunger shaft. 
+• Ensure plunger seal is in-line with the correct volume markings on the barrel of the syringe to 
+confirm correct volume withdrawn. 
+• Check for air bubbles in the syringe barrel. If bubbles are present, flick the barrel of the syringe 
+with fingers to move air bubbles to the top of the syringe. Push air into the bag then pull back 
+to withdraw required volume to markings on syringe.  
+• Pull back on the syringe to remove needle from the IV bag.  
+4.28 Medication reconstitution: 
+• Withdraw the required amount of diluent from a bag or vial; following steps above for 
+piercing bags and vials. 
+• Inject the required diluent into the medication vial; verifying with medication package insert 
+for the instructions for reconstitution (into the powder cake or into the side of the vial). 
+• Withdraw air from the vial equal to the amount of diluent injected then withdraw needle. 
+• Follow medication package insert for instructions on the method for ensuring the medication 
+goes into solution (can the medication be shaken or only swirled). 
+4.29 The following limits are always followed: 
+• The maximum number of times a needle is used is five (5) times 
+• The maximum number of times a single dose vial can be entered is five (5) times 
+• The selection of syringe size to use is based on volume being measured 
+4.30 When recapping needles, always utilize the one-handed scoop technique to avoid finger sticks: 
+• With the syringe in dominant hand and needle cap laying on the DCA, scoop up the needle 
+cap with the needle. Once cap resting over needle, press needle cap completely onto the 
+needle. 
+4.31 All steps (including taking all required pictures) and manipulations required for the IV workflow 
+system DoseEdge® are followed for all CSPs. 
+• First air to critical sites is maintained through all required steps. • All lot numbers and expiration dates are entered or captured in pictures, and all medications, 
+diluents, and fluids are scanned prior to commencing any manipulations of ingredients. 
+• The IV Workflow system is always used and IV workflow system data entry and compounding 
+steps are performed in the correct order when compounding CSPs except for the following 
+institutionally accepted bypass reasons:  
+o Barcodes that cannot be scanned 
+o Final volume on label is 1ml 
+o Unmapped products 
+4.32 Continuously inspect gloves during sterile compounding for holes, punctures, or tears. Gloves 
+are replaced immediately upon discovery of these defects. 
+• Do not don or doff gloves inside the PEC. 
+• To replace gloves: 
+o Step out of the buffer room or away from PEC when in a SCA 
+o Remove torn, punctured, or soiled gloves 
+o Reapply hand sanitizer to hands/wrists and allow to dry  
+o Don new pair of sterile gloves 
+4.33 Cover critical sites of completed CSPs with a tamper evident seal, cover, or cap as needed. 
+4.34 Compounding personnel inspect completed CSPs for cores, visible particles, discoloration, or 
+other defects before removal from the PEC. 
+4.35 Move completed CSPs from the PEC to a cart in the buffer room, accumulate all trash in the PEC 
+and discard, and place sharps into a hard-sided sharps container. 
+4.36 Wipe the DCA of the PEC with sIPA and allow to dry prior to beginning the next CSP. 
+4.37 Move completed CSPs from the SCA or sterile compounding suite through pass -throughs or 
+doors. 
+ 
+Conclusion of Compounding: Visual Inspection: 
+4.38 Pharmacists check completed CSPs on the IV workflow system software DoseEdge® or in person 
+on paper logs. Items checked include: 
+• Correct ingredients: medication, diluents, and fluids are used 
+• Correct measured volumes are removed from vials and/or fluid bags 
+• Correct measured volumes are injected into vials and/or fluid bags 
+• Correct/required supplies were used (i.e., filter needle/filter straw, correct needle size, 
+correct syringe size) 
+• All required steps are completed including lot number/expiration date recording and all 
+required pictures are taken  
+4.39 Compounding Personnel visually checks final CSPs for inappropriate physical appearance 
+including: 
+• Particles  
+• Foreign matter such as vial coring pieces 
+• Discoloration 
+• Cloudiness 
+• Other defects  
+• Ensure the container closure integrity: 
+o  Is free of leaks, cracks and improper seals 
+4.40 Pharmacist visually inspects the final CSP to ensure the label matches the medication order or 
+prescription. Refer to Release Inspections and Testing policy for additional criteria.  
+4.41 Pharmacist ensures correct Beyond Use Date (BUD) is located on the label of the final CSP. • BUD is determined by Category of CSP and facility conditions during compounding. Refer to 
+Establishing Beyond-use Dates policy for additional criteria.  
+4.42 Pharmacist initials completed CSP dose to indicate all checks have been completed 
+• Initials are either digital and printed on the CSP label or hand written 
+4.43 Any CSP found to have unacceptable quality; the CSP is not signed and immediately rejected.  
+• The CSP is clearly denoted by the pharmacist as rejected 
+• The CSP is removed immediately and segregated, then appropriately destroyed 
+4.44 Move completed, verified, and checked CSPs to the proper storage location and storage 
+conditions within the facility for future dispensation or dispense to the patient. 
+ 
+Visual Inspection Upon Release of CSP: 
+4.45 All CSPs that have been stored and not released on the day of compounding, are visually 
+inspected before dispensing by a pharmacist. 
+4.46 Visual inspection includes checking for: 
+• Precipitation  
+• Cloudiness 
+• Leakage  
+4.47 Any CSP found to have unacceptable quality; the CSP is not signed and immediately rejected.  
+• The CSP is clearly denoted by the pharmacist as rejected 
+• The CSP is removed immediately and segregated, then appropriately destroyed 
+4.48 Any defects found upon visual inspection are investigated as they may indicate a failure in closure 
+integrity, sterility and/or stability. 
+• The investigation is documented per the processes defined in the QA/QC policy.  
+ 
+5. Definitions 
+5.1 Beyond-Use Date (BUD):  The date and time after which a CSP shall not be used, stored, or 
+transported. The date is determined from the date and time the preparation is compounded. 
+5.2 Critical Site: A location that includes and component or fluid pathway surfaces (e.g., vial septum, 
+injection port, and beakers) or openings (e.g., opened ampules and needle hubs) that are 
+exposed and at risk of direct contact whit air (e.g., ambient room or HEPA filter ed), moisture 
+(e.g., oral and mucosal secretions), or touch contamination.  
+5.3 Designated Person(s) (DP): One or more individuals assigned to be responsible and accountable 
+for the performance and operation of the compounding facility and personnel in the preparation 
+of CSPs. 
+5.4 Direct Compounding Area (DCA):  A critical area within the ISO Class 5 PEC where critical sites 
+are exposed to unidirectional HEPA-filtered air, also known as first air. 
+5.5 EPA: Environmental Protection Agency 
+5.6 First Air: The air exiting the HEPA filter in a unidirectional air stream 
+5.7 Hazardous Drug (HD):  Any drug identified by at least one of the following six criteria: 
+carcinogenicity, teratogenicity or developmental toxicity, reproductive toxicity in humans, orang 
+toxicity at low dose in humans or animals, genotoxicity, or new drugs that mimic existing HDs in 
+structure or toxicity.  
+5.8 High-efficiency particulate air (HEPA) filtration: Being, using, or containing a filter designed to 
+remove 99.97% of airborne particles measuring 0.3 -micron or greater in diameter passing 
+through it.  5.9 Line of Demarcation (LOD): A visible line on the floor that separates the clean and dirty side of 
+the anteroom 
+5.10 Low-lint: Material that exhibits few, if any, fibers or other contamination, visible without 
+magnification, which is separate from, or easily removed from the material in a dry condition 
+5.11 Pass-through: An enclosure with sealed doors on both sides that should be interlocked. The pass-
+through is positioned between two spaces for the purpose of minimizing particulate transfer 
+while moving materials from one space to another. 
+5.12 Primary Engineering Control (PEC):  A device or zone that provides an ISO Class 5 air quality 
+environment for sterile compounding.  
+5.13 Restricted-access Barrier System (RABS):  An enclosure that provides HEPA -filtered ISO Class 5 
+unidirectional air that allows for the ingress and/or egress of materials through defined openings 
+that have been designed and validated to preclude the transfer of contamination, and that 
+generally are not to be opened during operations. Examples of RABS include Compounding 
+Aseptic Isolators (CAIs) and Compounding Aseptic Containment Isolators (CACIs). 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+7. Approval and Review Summary 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2024 
+7.1. Initial version published by Wolters Kluwer 2022. 
+7.2. Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3. Reviewed and revised with formatting changes 11/2024. 
+ 
+ 

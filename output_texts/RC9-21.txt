@@ -1,0 +1,59 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Blood Gas Lab 
+Subject: Proficiency Survey report for the Blood Gas  
+Laboratory  
+Date of Origination: January 1982 Signature: 
+Date of Last Revision: February 24, 2022 Serial Code: RC9-21 
+       Reviewed:  March 20, 2024 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+POLICY: 
+To validate quality controls and analyzer function, we perform CAP approved 
+proficiency testing three times per year, provided by an external independent agency.  
+The proficiency samples are processed on a minimum of one blood gas analyzer used for 
+routine blood gas determinations in a manner consistent with the handling of routine 
+patient samples, by personnel who routinely test patient samples. 
+ 
+The report of performance on this testing is reviewed by the Director of Respiratory Care 
+and the Laboratory Director within 30 days of its return, for evidence of problems.  Any 
+unacceptable scores are reviewed for needed corrective action (see below), and such 
+action is taken and documented.  If corrective action is indicated, that is so noted.  
+Attestation sheets indicating personnel who tested proficiency samples will be retained 
+for College of American Pathology review. In the event that CAP instructs the laboratory 
+to cease patient testing for an analyte due to repeat unsuccessful proficiency testing, the 
+laboratory will not analyze or report values for the analyte in question until approval from 
+CAP has been received.   
+ 
+In accordance with Clinical Laboratory Improvement Act of 1988, report of this 
+proficiency testing will be sent to the Center for Medicare and Medicaid Services.   
+ 
+Interlaboratory communication about proficiency testing samples before the submission 
+deadline of data to the proficiency testing provider is strictly prohibited.  Referral or 
+acceptance of proficiency specimens to outside laboratories is prohibited.  
+ 
+STEPS TO BE FOLLOWED IF PROFICIENCY TESTING IS UNACCEPTABLE: 
+ 
+A. Complete the PT Exception Investigation Worksheet from the College of American 
+Pathologists to evaluate the following possible sources of error:  
+1. Clerical 
+2. Procedural 
+3. Analytical 
+4. Specimen Handling 5. PT Material 
+B. Review the information from the investigation and document the 
+conclusion/summary on the Worksheet. 
+C. Develop an action plan and document it on the worksheet. 
+D. Review all information and action plan with Laboratory Director for approval prior to 
+implementation. 
+E. All Proficiency testing challenges that were intended to be graded but were not must 
+be evaluated by comparing the results to the reported results in the Participant 
+Summary.  This evaluation and comparison will be completed by the Blood Gas Lab 
+Supervisor, Manager or Director of Respiratory Care and documented.   
+1. If results are acceptable, no investigation is required. Acceptable limits may 
+be handwritten by the test results using the Participant Summary  
+2. If coded results are unacceptable, investigate and complete the PT Exception 
+Investigation Worksheet as described in the above step “A”.  

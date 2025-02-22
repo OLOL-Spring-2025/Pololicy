@@ -1,0 +1,170 @@
+Sheet: Sheet1
+CH-ELS-012 7582 | Giftshop Rx ONE Pharmacy Department Code Red | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-11-15
+ECLS-012 4830 | Department Code RED Safety and Response Plan for Mid City Pharmacy | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-11-14
+ECLS-012 7073 | O'Donovan Pharmacy Department Code RED | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-11-30
+OC060 | Controlled Substance Monitoring | Controlled Substance | Operational | Thomas Greene | Sr. Director of Pharmacy | 2025-05-15
+PH.2401 | Prescription Processing and Dispensing | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-24
+PH.2402 | Non-Sterile Prescription Compounding | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2403 | Pharmacy Patient Assistance Program | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+Ph.2405 | Hazardous Materials SPS | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-25
+PH.2406 | Payment Handling | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-12
+PH.2407 | Controlled Substances and Drugs of Concern | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2408 | Expired Medication and Medication Returned to Stock | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-22
+PH.2409 | Drug Ordering | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2410 | Product Procurement Supply Storage and Inventory | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-24
+PH.2411 | Prescription Pricing | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-12
+PH.2412 | Down Time Procedures | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-25
+PH.2413 | Docementation of Receipt of Medication by Patient | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2414 | Patient Counseling | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2417 | Central Fill Pharmacy | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2418 | Clinical Research  | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-24
+PH.2419 | Delegation Program | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2421 | Scope of Pharmacy Services | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2425 | Daily Log | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2426 | Financial Incentive | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2427 | Fraud Waste Abuse Audit | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2428 | Managing Cultural and Communication Needs | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2429 | Organization Framework | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05PH.2430 | Client and Referral Source Satisfaction | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-02
+PH.2431 | Ongoing Patient Support and On-Call Services | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2432 | Customer Satisfaction Performance Indicator | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-02
+PH.2433 | Access to Services Performances Inidcator | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-02
+PH.2434 | Policy And Procedure Maintenance  | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-17
+PH.2435 | Review of Marketing and Communicatin Materials | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2436 | PHI Shredding | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2437 | Quality Management Program Description | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-25
+PH.2438 | Identity Theft (Red Flag Rule) | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+Ph.2439 | Emergency Preparedness  | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2440 | Distribution Accuracy Performance Indicator | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-02
+PH.2441 | Complaints and Incidents Performance Indicator | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2442 | Risk Evaluatin Mitigation Strategy REMS | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-24
+PH.2443 | Infection Control and Waste Management | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2444 | Environmental Safety | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2445 | Medication Accuracy and Near Misses Performance Indicator | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-25
+PH.2446 | Special Education Requirements | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2447 | Product Safety Education | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2448 | Personnel Qualifications and Management | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2449 | Telephone Communication Process | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-24
+PH.2450 | Quality and Error Management  | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-25
+PH.2452 | Proactive Risk Assessment | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2453.001 | Prescription Deliveries | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-25
+PH.2454 | Unacceptable Medications | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2455 | Adverse Events | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2457 | Drug Utilization Review | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-28
+PH.2458 | Electronic Prescribing | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05PH.2459 | Information Management Program Description | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2461 | Machine and Equipment Maintenance | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-25
+PH.2462 | Admission Plan | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2463 | Discharge from Pharmacy Services | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2464 | Patient Complaint Process | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-08-30
+PH.2465 | Patient Management Program Descrpition | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-10-24
+PH.2466 | Regulatory Compliance | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-09-05
+PH.2468 | Patient Record Accuracy Performance Indicator | Retail Pharmacy_Community Pharmacy | Operational | Thomas Greene | Sr. Director of Pharmacy | 2024-11-01
+PH0103 | Orientation, Education and Training of Pharmacy Staff  | Administration and Personnel | Operational | Rose Dastoori | Pharmacy Supervisor  | 2025-06-04
+PH0104 | Dress Code | Administration and Personnel | Operational | Taylor Brashier | Pharmacy Supervisor  | 2025-11-04
+PH0106 | Pharmacy Time and Attendance | Administration and Personnel | Operational | Taylor Brashier | Pharmacy Supervisor  | 2026-01-06
+PH0108 | Disasters | Administration and Personnel | Operational | Taylor Brashier | Pharmacy Supervisor  | 2025-07-25
+PH0109 | Mission, Vision, and Goals | Administration and Personnel | Operational | Thomas Greene | Sr. Director of Pharmacy | 2025-05-15
+PH1105 | Emergency Procurement of Medications | Formulary and Medication Procurement | Operational | Amber Broussard | Director Integrated Operations | 2026-02-03
+PH0111 | Security of Staff and Medications | Administration and Personnel | Operational | Thomas Greene | Sr. Director of Pharmacy | 2025-05-15
+PH0112 | Electronic Devices | Administration and Personnel | Operational | Thomas Greene | Sr. Director of Pharmacy | 2025-11-04
+PH0201 | Patient and Family Education | Patient Care Services | Operational | Emily Waguespack | Pharmacy Supervisor  | 2025-07-05
+PH0202 | Drug Information Services | Patient Care Services | Operational | Dean Landry | Pharmacy Clinical Manager | 2025-05-21
+PH0204 | Pharmacist Communication | Patient Care Services | Operational | Emily Waguespack | Pharmacy Supervisor  | 2025-05-21
+PH0207 | Medication Therapy Monitoring and Monitoring Effects of Medications | Patient Care Services | Operational | Teri Ducote | Pharmacy Clinical Manager | 2025-05-05
+PH0208 | Clinical Services | Patient Care Services | Clinical | Emily Johnston | Pharmacy Clinical Manager | 2025-06-21
+PH0212 | Resolution of Conflicts Related to Drug Therapy | Patient Care Services | Operational | Ashley Joseph | Pharmacy Clinical Manager | 2025-06-06
+PH0215 | Pharmacist- Managed Warfarin Dosing | Patient Care Services | Operational | Danielle Ricks | Pharmacy Clinical Manager | 2025-06-02
+PH0217 | Patient Profiles | Patient Care Services | Operational | Teri Ducote | Pharmacy Clinical Manager | 2025-03-13
+PH0218 | Automatic Renal Dose Adjustment | Patient Care Services | Operational | Danielle Ricks | Pharmacy Clinical Manager | 2024-12-31
+PH0219 | Chemotherapy (Cytotoxic Agents) Administration | Patient Care Services | Operational | Lenore Forbes | Pharmacy Clinical Manager | 2025-06-25
+PH0220 | Clozapine Dispensing & Monitoring | Patient Care Services | Operational | Danielle Ricks | Pharmacy Clinical Manager | 2025-03-13PH0221 | Parenteral Nutrition (PN) | Patient Care Services | Clinical | Danielle Ricks | Pharmacy Clinical Manager | 2025-03-24
+PH0222 | Tikosyn (dofetilide) | Patient Care Services | Operational | Emily Johnston | Pharmacy Clinical Manager | 2025-03-24
+PH0223 | Intravenous to Oral Automatic Substitution | Patient Care Services | Operational | Emily Waguespack | Pharmacy Supervisor  | 2025-06-03
+PH0224 | Pharmacist-Managed Vancomycin & Aminoglycoside Dosing | Patient Care Services | Clinical | Emily Waguespack | Pharmacy Supervisor  | 2025-06-03
+PH0225 | Zoledronic Acid Renal Dosing | Patient Care Services | Clinical | Dean Landry | Pharmacy Clinical Manager | 2025-06-03
+PH0301 | Medications: Medication Use Improvement Plan | Medication Use, Storage and Handling | Clinical | Thomas Greene | Sr. Director of Pharmacy | 2025-04-30
+PH0302 | Medications: Formulas/Recipes | Medication Use, Storage and Handling | Operational | Peter Tran | Pharmacy Ops Manager | 2025-04-30
+PH0303 | Medications: Blood Derivatives | Medication Use, Storage and Handling | Operational | Emily Waguespack | Pharmacy Supervisor  | 2025-06-27
+PH0304 | Medications: Contrast Media | Medication Use, Storage and Handling | Operational | Amber Broussard | Director Integrated Operations | 2026-01-06
+PH0305 | Medications: Storage and Handling of Medications | Medication Use, Storage and Handling | Operational | Teri Ducote | Pharmacy Supervisor  | 2025-05-07
+PH0308 | Medications: Temperatures, Storage and Monitoring | Medication Use, Storage and Handling | Operational | Teri Ducote | Pharmacy Supervisor  | 2025-03-30
+PH0309 | Medications: Medication Area Inspections  | Medication Use, Storage and Handling | Operational | Emily Waguespack | Pharmacy Supervisor  | 2026-01-06
+PH0310 | Medications: High Alert Medications | Medication Use, Storage and Handling | Clinical | Dean Landry | Pharmacy Clinical Manager | 2025-05-20
+PH0311 | Medication Samples in Provider-Based Clinics | Medication Use, Storage and Handling | Operational | Ashley Joseph | CH Pharmacy Director | 2025-06-22
+PH0327 | Medications: Prepackaging | Medication Use, Storage and Handling | Operational | Taylor Brashier | Pharmacy Supervisor  | 2025-04-30
+PH0328 | Medications: Bulk Compounding | Medication Use, Storage and Handling | Operational | Peter Tran | Pharmacy Ops Manager | 2025-04-30
+PH0329 | Medications: Emergency Medications | Medication Use, Storage and Handling | Clinical | Dean Landry | Pharmacy Clinical Manager | 2026-02-03
+PH0331 | Medications: Vinca Alkaloid Preparation and Administration | Medication Use, Storage and Handling | Operational | Bryan Bordelon | Pharmacy Supervisor  | 2025-04-22
+PH2304 | Orders: Medication Orders | Medication Use, Storage and Handling | Operational | Amber Broussard | Director Integrated Operations | 2026-02-03
+PH0333 | Oral Ketamine for Intractable Pain | Medication Use, Storage and Handling | Clinical | Emily Johnston | Pharmacy Clinical Manager | 2026-01-06
+PH0501 | Facility and Personnel Specifications | Sterile Products | Operational | Peter Tran | Pharmacy Ops Manager | 2024-12-31
+PH0502 | Good Documentation Practices | Sterile Products | Operational | Peter Tran | Pharmacy Ops Manager | 2024-12-31
+PH0526 | Digital Image Capture & Retention | Sterile Products | Operational | Dean Landry | Manager Pharmacy | 2025-06-02
+PH0527 | Designated Person for Sterile Compounding | Sterile Products | Operational | Leann Fontenot | Pharmacy Supervisor  | 2025-11-04
+PH0528 | Sterile Compounding Program Overview | Sterile Products | Operational | Leann Fontenot | Pharmacy Supervisor  | 2025-11-04
+PH0529 | Immediate-Use Compounding | Sterile Products | Operational | Leann Fontenot | Pharmacy Supervisor  | 2025-11-04
+PH0530 | BUD Determination and Stability Considerations | Sterile Products | Operational | Leann Fontenot | Pharmacy Supervisor  | 2025-11-04PH0531 | Sterile Compounding Personnel Training and Competency | Sterile Products | Operational | Leann Fontenot | Pharmacy Supervisor  | 2025-11-04
+PH0532 | Hand Hygiene and Garbing for Sterile Compounding in a Cleanroom Suite | Sterile Products | Operational | Lenore Forbes | Pharmacy Supervisor  | 2025-12-02
+PH0533 | Hand Hygiene and Garbing for Sterile Compounding in a Segregated Compounding Area | Sterile Products | Operational | Lenore Forbes | Pharmacy Supervisor  | 2025-12-02
+PH0534 | Facilities and Engineering Controls for Sterile Compounding Areas | Sterile Products | Operational | Lenore Forbes | Pharmacy Supervisor  | 2025-12-02
+PH0535 | Certification and Recertification of Sterile Compounding Areas | Sterile Products | Operational | Lenore Forbes | Pharmacy Supervisor  | 2025-05-30
+PH0536 | Microbiological Air and Surface Monitoring Program | Sterile Products | Operational | Lenore Forbes | Pharmacy Supervisor  | 2025-05-30
+PH0537 | Cleaning and Disinfecting Compounding Areas | Sterile Products | Operational | Bryan Bordelon | Pharmacy Supervisor  | 2025-11-04
+PH0538 | Workflow and Aseptic Technique for Sterile Compounding | Sterile Products | Operational | Bryan Bordelon | Pharmacy Supervisor  | 2025-11-04
+PH0539 | Equipment, Supplies & Components for Sterile Compounding | Sterile Products | Operational | Bryan Bordelon | Pharmacy Supervisor  | 2025-11-04
+PH0540 | Master Formula & Compounding Records | Sterile Products | Operational | Bryan Bordelon | Pharmacy Supervisor  | 2025-11-04
+PH0541 | CSP Release Inspections & Testing | Sterile Products | Operational | Bryan Bordelon | Pharmacy Supervisor  | 2025-11-04
+PH0542 | Labeling of Compounded Sterile Preparations | Sterile Products | Operational | Peter Tran | Pharmacy Ops Manager | 2025-03-30
+PH0543 | Quality Assurance & Quality Control | Sterile Products | Operational | Peter Tran | Pharmacy Ops Manager | 2025-04-30
+PH0544 | CSP Handling, Storage, Packaging, Transport & Shipping | Sterile Products | Operational | Peter Tran | Pharmacy Ops Manager | 2025-04-30
+PH0545 | Out of Specification Events Impacting Sterile Facilities, Controls & Systems | Sterile Products | Operational | Peter Tran | Pharmacy Ops Manager | 2025-03-30
+PH0546 | Complaints, Adverse Drug Reactions & Recall Handling | Sterile Products | Operational | Peter Tran | Pharmacy Ops Manager | 2025-12-02
+PH0547 | Assessment of Risk for Hazardous Drugs | Sterile Products | Operational | Troy Neck | CH Pediatric Clinical Pharmacist | 2025-11-04
+PH0548 | Hazardous Drug Compounding and Materials Movement | Sterile Products | Operational | Troy Neck | CH Pediatric Clinical Pharmacist | 2025-11-04
+PH0549 | Facilities and Engineering Controls for Hazardous Drugs | Sterile Products | Operational | Troy Neck | CH Pediatric Clinical Pharmacist | 2025-11-04
+PH0550 | Personal Protective Equipment for Hazardous Drugs | Sterile Products | Operational | Troy Neck | CH Pediatric Clinical Pharmacist | 2025-11-04
+PH0551 | Hazardous Drug Training and Safety Program | Sterile Products | Operational | Troy Neck | CH Pediatric Clinical Pharmacist | 2025-11-04
+PH0552 | Receiving and Storage of Hazardous Drugs | Sterile Products | Operational | Danielle Sidney | Staff Pharmacist | 2025-11-04
+PH0553 | Labeling, Packaging and Transport of Hazardous Drugs | Sterile Products | Operational | Danielle Sidney | Staff Pharmacist | 2025-11-04
+PH0554 | Deactivation, Decontamination, Cleaning & Disinfection of Hazardous Drugs | Sterile Products | Operational | Danielle Sidney | Staff Pharmacist | 2025-11-04
+PH0555 | Hazardous Drug Spills | Sterile Products | Operational | Danielle Sidney | Staff Pharmacist | 2025-11-04
+PH0556 | Designated Person for Hazardous Drugs | Sterile Products | Operational | Danielle Sidney | Staff Pharmacist | 2025-11-04
+PH0557 | LSU Health North Code Red Safety and Response Plan | Pharmacy Code Red Policies | Operational | Leann Fontenot | Pharmacy Supervisor  | 2026-01-06PH0558 | OLOLRMC Inpatient Pharmacy Code Red Safety and Response Plan | Pharmacy Code Red Policies | Operational | Peter Tran | Pharmacy Ops Manager | 2026-01-06
+PH0559 | Perkins Surgery Center Code Red Plan | Pharmacy Code Red Policies | Operational | Teri Ducote | Pharmacy Supervisor  | 2026-01-06
+PH0600 | Policy Management and Revision | Administration and Personnel | Operational | Peter Tran | Pharmacy Manager | 2025-08-07
+PH0607 | Disposal of Wet Chemotherapy Containers | Hazardous Substances | Operational | Troy Neck | CH Pediatric Clinical Pharmacist | 2025-06-22
+PH0608 | Preparation & Storage of Intrathecal Chemotherapy | Hazardous Substances | Operational | Danielle Sidney | Staff Pharmacist | 2025-06-22
+PH0803 | Pediatric Transport Kit | Pediatric Services | Operational | Ashley Joseph | CH Pharmacy Director | 2025-06-03
+PH0905 | CII Safe Dispensing and Accountability | Controlled Substance | Operational | Thomas Greene | Sr. Director of Pharmacy | 2025-03-30
+PH0913 | IV Admixtures | Controlled Substance | Operational | Peter Tran | Pharmacy Manager | 2025-06-24
+PH1001 | Clinical Research and Participation: Managing Investigational Drugs | Investigational Drugs | Operational | Danielle Ricks | Pharmacy Clinical Manager | 2026-01-06
+PH1103 | Procurement of Medications-Routine | Formulary and Medication Procurement | Operational | Amber Broussard | Director Integrated Operations | 2025-12-02
+PH1104 | Supplying Medications to Other Healthcare Organizations | Formulary and Medication Procurement | Operational | Amber Broussard | Director Integrated Operations | 2025-12-02
+PH2313 | Orders: Non-Standard or Commercially Unavailable Compounded Drugs | Medication Use, Storage and Handling | Clinical | Ashley Joseph | CH Pharmacy Director | 2026-02-03
+PH1106 | Drug Recall | Formulary and Medication Procurement | Operational | Amber Broussard | Director Integrated Operations | 2025-06-02
+PH1107 | Unusable Drugs | Formulary and Medication Procurement | Operational | Amber Broussard | Director Integrated Operations | 2025-12-02
+PH1108 | Formulary Management | Formulary and Medication Procurement | Operational | Emily Johnston | Pharmacy Clinical Manager | 2025-06-22
+PH1109 | Non Formulary Drug Request | Formulary and Medication Procurement | Operational | Danielle Ricks | Pharmacy Clinical Manager | 2025-05-07
+PH1110 | Intracompany Transfer between Our Lady of the Lake Owned Facilities | Formulary and Medication Procurement | Operational | Amber Broussard | Director Integrated Operations | 2025-03-30
+PH1301 | Dispensing Containers | Medication Use, Storage and Handling | Operational | Ashley Joseph | CH Pharmacy Director | 2025-03-22
+PH1303 | Dispensing: Labeling of Medications | Medication Use, Storage and Handling | Operational | Taylor Brashier | Pharmacy Supervisor  | 2025-04-30
+PH1901 | Patient Data Processing | Billing and Finance | Operational | Thomas Greene | Sr. Director of Pharmacy | 2026-01-06
+PH2202 | Pharmacy Resident Professionalism | Pharmacy Residency | Clinical | Danielle Ricks | Pharmacy Clinical Manager | 2026-02-03
+PH1905 | Outpatient Infusion Auditing | Billing and Finance | Operational | Thomas Greene | Sr. Director of Pharmacy | 2025-05-15
+PH2317 | Orders: Adverse Drug Reaction | Medication Use, Storage and Handling | Clinical | Dean Landry | Pharmacy Clinical Manager | 2025-02-28
+PH0332 | Medications: Glucarpidase for Toxicity from High Dose Methotrexate in Adult Patients | Medication Use, Storage and Handling | Operational | Emily Johnston | Pharmacy Clinical Manager | 2026-02-03
+PH2208 | Resident Scope of Practice | Pharmacy Residency | Clinical | Emily Johnston | Pharmacy Clinical Manager | 2026-02-03
+PH2201 | Resident Grievance | Pharmacy Residency | Clinical | Rose Dastoori | Pharmacy Clinical Manager | 2026-02-03
+PH2205 | Program Assessment Strategy | Pharmacy Residency | Clinical | Emily Johnston | Pharmacy Clinical Manager | 2025-04-03PH2203 | Pharmacy Resident Moonlighting | Pharmacy Residency | Clinical | Rose Dastoori | Pharmacy Clinical Manager | 2026-02-03
+PH2204 | Pharmacy Resident Supervision | Pharmacy Residency | Clinical | Rose Dastoori | Pharmacy Clinical Manager | 2026-02-03
+PH2206 | Resident Duty Hours | Pharmacy Residency | Clinical | Rose Dastoori | Pharmacy Clinical Manager | 2026-02-03
+PH2210 | Resident Leave of Absence | Pharmacy Residency | Clinical | Rose Dastoori | Pharmacy Clinical Manager | 2026-01-06
+PH2211 | Chief Resident | Pharmacy Residency | Clinical | Emily Johnston | Pharmacy Clinical Manager | 2026-01-06
+PH2212 | Preceptor Development Policy | Pharmacy Residency | Clinical | Emily Johnston | Pharmacy Clinical Manager | 2025-04-07
+PH2213 | Resident Selection Policy | Pharmacy Residency | Clinical | Emily Johnston | Pharmacy Clinical Manager | 2026-01-06
+PH2209 | Resident Due Process | Pharmacy Residency | Clinical | Rose Dastoori | Pharmacy Clinical Manager | 2026-02-03
+PH2308 | Orders: Protocols and Order Sets | Medication Use, Storage and Handling | Clinical | Amber Broussard | Director Integrated Operations | 2025-04-30
+PH2311 | Orders: Sound Alike Look Alike Medications | Medication Use, Storage and Handling | Clinical | Taylor Brashier | Pharmacy Supervisor  | 2025-05-20
+PH0110 | Orders: Turnaround Time | Medication Use, Storage and Handling | Clinical | Emily Waguespack | Pharmacy Supervisor  | 2025-05-15
+PH1902 | Scope of Pharmacy Services | Administration and Personnel | Operational | Thomas Greene | Sr. Director of Pharmacy | 2026-02-03
+PH2318 | Medication Charges and Credits | Billing and Finance | Operational | Thomas Greene | Sr. Director of Pharmacy | 2026-02-03
+nan | Orders: Discharge Medications | Medication Use, Storage and Handling | Clinical | Taylor Brashier | Pharmacy Clinical Manager | 2025-05-08

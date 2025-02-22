@@ -1,0 +1,405 @@
+ 
+PH.2401_Prescription Processing and Dispensing 
+1 
+ 
+ 
+ 
+RESPONSIBLE DEPARTMENT: 
+Retail Pharmacy/Community Pharmacy 
+SUBJECT:  
+Prescription Processing and Dispensing 
+PAGES: 
+8 
+REPLACES POLICY (NUMBER/DATE): 
+PH.2401 (10/26/2021) 
+ORIGINAL EFFECTIVE 
+DATE: 11/11/2013   
+REVISIONS EFFECTIVE: 
+03/29/2023 
+POLICY NUMBER:  
+PH.2401 
+ 
+SCOPE: 
+Applies to team members who work in or for Our Lady of the Lake Hospital, Inc. (OLOLH) retail/community 
+pharmacies. 
+PURPOSE: 
+This policy establishes the outline of services and processes for filling and dispensing prescriptions through the OLOLH 
+owned pharmacies. 
+POLICY: 
+A. Prescription services will be provided by the pharmacy to all patients presenting with a valid prescription. 
+B. Prescription services are limited to usual and customary retail prescription services and specialty pharmacy 
+services that excludes IV admixtures or sterile preparations. 
+C. Prescriptions will be accepted via fax, telephone, e-script, or hard copy during regular business hours.  
+D. Prescriptions will be filled using a workflow system which includes barcode verification in addition to visual 
+verification. 
+E. The pharmacy ensures it verifies the patient’s eligibility. The following criteria are used: [URAC P-OPS 2-2 (a-i, 
+a-ii)] 
+1. The pharmacy must provide product/services required; 
+2.
+ Patient must reside or receive service in the state of Louisiana; and the 
+3. Patient must have ability to pay for services either through insurance or financial arrangements made with 
+the pharmacy aligned with the mission to serve those in need.  
+4. No other restrictions exist other than those imposed by manufacturers. 
+F. Prescription orders are reviewed and verified by pharmacist. The pharmacist reviews the prescription for the 
+following criteria:  
+1. Prescribers are verified using NPI and/or DEA numbers.  
+2. The pharmacy will accept prescriptions only from licensed prescribers. 
+3. Pharmacy personnel receiving prescriptions from previously unknown prescribers will verify the 
+prescriber’s authenticity using the NPI database, similar resource or direct contact with the office.  
+4. The pharmacy is notified by the Board of Pharmacy when a provider’s license has become inactive, 
+suspended, surrendered or terminated. Any prescribers whose licenses have become inactive, been 
+suspended, been surrendered, been terminated, or in any other way become inactive will be documented 
+in the operating system, their active prescriptions will be inactivated and patients contacted. Their records 
+will be flagged in the Pharmacy Operating Software to prevent dispensing future prescriptions until such 
+time as the prescribers are again licensed in good standing.  
+5. The prescription source verification process is compliant with state and federal law and regulations. 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+ 
+ 
+3/29/2023 1:33 PM 
+ 
+ 
+PH.2401_Prescription Processing and Dispensing 
+2 
+G. Prescriptions are reviewed for legibility and accuracy. If inaccuracies are identified, the prescriber is contacted for 
+resolution.  
+1. The prescription legibility verification and clarification process resolve incomplete and unclear 
+prescriptions. 
+2. This process includes verification and resolutions of prescription ambiguities and prescriptions that do not 
+make sense as written. 
+3. The information obtained through clarification is documented on the prescription and scanned into the 
+pharmacy software system or in the prescription notes section of the pharmacy software system if the 
+prescription is received electronically. 
+H. Prior to dispensing a prescription, the pharmacist will review all medication orders for appropriateness, clarity, and 
+accuracy. The pharmacist will also verify the prescriber, patient and/or caregiver, if necessary, in accordance with 
+state laws.  
+1. A pharmacist has oversight of the prescription intake and verification processes prior to dispensing.  
+I. The pharmacy accepts verbal, hardcopy, fax, or e-scribed prescription orders in accordance with state and federal 
+laws.  
+DEFINITIONS: 
+Patient – any person presenting a bona-fide prescription to the pharmacy  
+Prescription – an order from a licensed practitioner written within their scope of practice. 
+Discharge Prescription – a prescription written for a patient prior to or at the time of discharge for self-administration 
+after discharge. 
+340B Drug Pricing Program (“340B Program”) – a program under the regulatory oversight of HRSA that permits 
+certain covered entities to purchase drugs at a discounted price in order to stretch scarce federal resources thus reaching 
+more eligible patients and providing more comprehensive services. 
+Health Resources and Services Administration (HRSA) – the federal agency with oversight of the 340B Program. 
+Office of Pharmacy Affairs (“OPA”) – a department of HRSA responsible for maintaining the 340B database which 
+identifies covered entities, contract pharmacies, and other eligible 340B participants.  
+CII – Schedule II Controlled substance - any substance defined, enumerated, or included in federal or state statute or 
+regulations, 21 CFR §1308.11-15 or R.S. 40:964, or any substance which may hereafter be designated as a controlled 
+dangerous substance by amendment or supplementation of such regulations or statute. The term shall not include 
+distilled spirits, wine, malt beverages, or tobacco. 
+PROCEDURE: 
+A. Prescriptions will be:  
+1. Entered into the pharmacy software system by a certified technician or licensed pharmacist. 
+a. Prescription entry into the pharmacy operating system is checked against any physical prescription, 
+verbal prescription form, electronic prescription or faxed prescription received.  
+2. Verified by a licensed pharmacist 
+a. If the prescription is a new prescription for a current patient, the patient profile will be reviewed for 
+changes in dosing, medication, strength, prep or form, SIG, to see if any there is a change in therapy 
+or if a prescription needs to be discontinued in the pharmacy operating system.  
+3. Filled by a certified technician or licensed pharmacist. 
+4. Verified for accuracy by visual inspection and barcode verification by a licensed pharmacist. 
+5. Placed in a holding bin or on a rack until the patient or their designee arrives. 
+B. The pharmacy will ensure that claims are timely submitted to network providers.  Claims will be submitted in 
+accordance with agreements established with network providers and will be: 
+1. Accurate and complete  
+2. Reflect the actual date of fill.  
+PH.2401_Prescription Processing and Dispensing 
+3 
+3. Submitted online whenever possible with reasonable attempts to resubmit the claim and will contact the 
+PBM directly to resolve issue preventing submission. 
+4. Reversed when not picked up by patients in accordance with network agreement. 
+C. The pharmacy obtains the following information for patients enrolled in the Patient Management Program from 
+the patient, caregiver or prescriber during the enrollment process and ensures this information is kept up to date 
+by asking the patient, caregiver or prescriber for updates during each refill call: [URAC P-OPS 2-1 (a)] 
+1. Patient health history; [URAC P-OPS 2-1 (a-i)] 
+a. This information is documented in the patient management system. 
+2. Medication history; [URAC P-OPS 2-1 (a-ii)] 
+a. Medication history includes prescription medications the patient receives at the organization's 
+pharmacy as well as external pharmacies and over the counter (OTC) medications, if provided by the 
+patient. 
+b. This information is documented in the patient management system. 
+3. Allergies and past sensitivities; [URAC P-OPS 2-1 (a-iii)]  
+a. Obtained for each new prescription by  
+(1) Verbal communication from patient at drop off  
+(2) Written communication via e-script or fax from provider 
+(3) Verbal communication from provider or agent 
+(4) Written information in patient EMR (clinic and hospital records) 
+(5) Other communication as appropriate 
+(6) This information is obtained for all patients including those not enrolled in the specialty 
+pharmacy patient management program. 
+b. Entered into the patient management system or dispensing software for non-specialty patients by 
+technician or pharmacist. 
+c. Reviewed by a pharmacist during verification and checking of prescription, taking into account the 
+type and frequency of side effects, and potential drug interactions to determine if treatment 
+recommendations are warranted. Additionally, all refills will be verified at this time and provider 
+notified of any concerns.  
+4. Any pertinent information necessary to consult with the prescriber and counsel the patient and/or 
+caregiver, such as receiving authorization from the patient to speak with caregivers regarding their care. 
+[URAC P-OPS 2-1 (a-iv)] 
+5. The pharmacists ensure that each prescribed medication is indicated for the disease state for which it is 
+being prescribed. If the medication is being used off-label, the pharmacist will indicate in the patient file 
+that physician is using the medication in a manner that is off-label.  
+6. The pharmacy has each member sign a petition profile. The pharmacy will also maintain documentation 
+that substantiates (i) that a Covered Item was dispensed to a member and (ii) the amount that was paid for 
+such Covered item by the member. The pharmacy maintains documentation evidencing that (i) any 
+counseling required by law occurred, and (ii) to the extent applicable, the correct dispense as written 
+(DAW) code was transmitted.  
+D. The pharmacy identifies high risk groups as pregnant, elderly or infant/pediatric patients. 
+E. The pharmacy has established processes to label, package, and dispense products accurately.  
+F. The Pharmacy’s labeling process of medications/prescriptions is performed to meet the state and federal laws and 
+regulations to include the following:  
+1. Appropriate warning labels 
+2. Discard Date/Expiration Date 
+3. Pharmacy and provider contact information 
+4. Patient name 
+5. Directions 
+6. Drug name 
+7. Dispense date 
+8. Prescriber’s name 
+9. FDA Disclaimer  
+PH.2401_Prescription Processing and Dispensing 
+4 
+10. Prescription Number  
+11. Strength of Medication 
+12. Refill Information  
+13. Pharmacist’s initials 
+14. Any other appropriate information 
+G. Prevention of contamination, which includes cross-contamination [URAC P-OPS 2-4 (a)].  Any medications that 
+are not coated and have the potential to cross contaminate other medications are counted either through a manual 
+counting tray (cleaned after each use) or dispensed through the pharmacy automation system which is a closed 
+system.  
+H. The Pharmacy ensures that medications are packaged to maintain stability and usability for patients. All 
+medications are stored in light sensitive vials and are stored/dispensed per manufacturer guidelines.  
+I. The packaging for dispensing will include the following:  
+1. Appropriate temperature – medications are stored in a temperature and humidity-controlled environment 
+until dispensed to the patient. The patient receives written and, if requested, verbal counseling to include 
+storage instructions. 
+2. Child proof caps and senior overrides if requested.  
+3. Tamper evident sealing if prescription is shipped. 
+J. The Pharmacy is able to dispense emergency or interim supplies of medications, as needed, to prevent 
+interruption of services in the event of emergencies and local disasters. 
+K. Pharmaceuticals shall be stored separate from food items or other sources of contamination. 
+L. Pharmaceuticals are labeled as to the appropriate storage. 
+M. Prescription Dispensing by Pharmacist - The pharmacist will verify that medication orders are prepared in 
+accordance with the prescriber’s prescription, which includes the following: 
+1. Dispensing medications that match the prescription with regard to the correct: 
+a. Patient  
+b. Route of administration  
+c. Dosage and strength  
+d. Administration schedule or time  
+e. Medications  
+f. Weight based dosing regimens are evaluated with every refill to validate that the correct dose is 
+dispensed. Any dose consolidation opportunities are considered and intervened upon with the 
+prescriber. 
+2. The pharmacist will ensure that appropriate patient education material from appropriate sources (such as 
+the manufacturer, FDA, AMA, or other including drug monographs) is included with dispensed 
+medications.   
+3. If the pharmacist has any questions regarding the legibility of the prescription or needs to resolve any 
+discrepancies with the prescription, the pharmacist will contact the physician or physician representative to 
+clarify.  
+N. The pharmacy promotes cost effective healthcare practices through the elimination of duplicate/inappropriate 
+therapy, reduction of medication overuse, and the pharmacy’s Patient Assistance Program (Policy # PH.2403), 
+[URAC P-OPS 1-1 (c)] 
+O. The pharmacy maintains an open formulary.  Medications are ordered pursuant to valid prescriptions.  
+P. Pharmacists promote clinical appropriateness for each patient through review of medications, allergies and 
+medical conditions, utilization of available clinical resources, and consultation with providers, when necessary, 
+completing initial patient assessments, and reassessments. They also take into account issues related to the ease of 
+adherence and therapy management when there are multiple drugs available for the prescribed indication. For 
+example: tests needed, side effect profiles, simpler dosing regimens, etc.  
+Q. The following resources for medical literature and evidence-based processes are utilized as required: 
+1. Manufacturer’s Prescribing Information   
+PH.2401_Prescription Processing and Dispensing 
+5 
+2. Lexicomp 
+R. A Registered Pharmacist supervises Pharmacy Technicians, which means that the pharmacist must have a 
+physical presence to observe, direct and supervise the pharmacy technician prior to dispensing, sale or distribution 
+of medications.  
+S. Prescriptions may be:  
+1. Picked up from the pharmacy by patients or their designee during regular business hours. 
+2. Delivered to the bedside of patients being discharged from Our Lady of the Lake Hospital or Lake 
+Children’s Hospital. Counseling by a pharmacist will be offered in person or via phone.  
+3. Delivered to the patient or designee while in the provider’s office of infusion suite as a convenience to the 
+patient.  Counseling by a pharmacist will be offered in person or via phone.  
+4. Delivered according to policy PH.2453.001 Prescription Deliveries 
+T. Proper identification prior to filling or dispensing prescriptions will include the following obtained from the 
+patient or designee: 
+1. Patient name 
+2. Patient date of birth 
+3. Patient address 
+U. Proper identification will be required when picking up prescriptions for controlled substance prescriptions or 
+drugs of concern. 
+V. Signature will be required for each prescription transaction via electronic signature pad for all prescriptions. In the 
+event electronic signature pad is not available, verification of pick up will be reduced to writing and scanned into 
+the patient electronic medical record in the pharmacy software system. 
+W. Filled prescriptions will be held for 8-10 business days, after which time they will be reversed in the pharmacy 
+software system and returned to stock. The patient can initiate a new request to fill if they choose. 
+X. The pharmacy will maintain hardcopy prescription records on site for no less than 2 years from the date last filled, 
+after which time they will be stored at an off-site storage facility for no less than 10 + 1 years. 
+Y. Prescriptions will be filed digitally according to Louisiana State Board of Pharmacy regulations. 
+1. In lieu of filing the actual original hard-copy prescription, the pharmacy may use an electronic imaging 
+recordkeeping system capable of capturing, storing, and reproducing the exact image of a prescription, 
+including the reverse side of the prescription  
+2. Any notes of clarification of, and alterations to, a prescription shall identify the author and shall be directly 
+associated with the electronic image of the prescription;  
+3. The prescription image and any associated notes of clarification of, or alterations to, a prescription will be 
+retained for a period not less than two years from the date the prescription is last dispensed;  
+4. In the event a CII is filled, the hardcopy will be filed and stored separately.  
+5. The pharmacy may retain the hard copy prescriptions in order of date scanned in lieu of numerical order.  
+Z. Pharmacy Self Audits 
+1. The pharmacy will maintain an “audit box” containing the following documents: 
+a. Power of Attorney 
+b. Iron Mountain Reports  
+c. DEA 106 if applicable 
+d. CII Invoices for current month 
+e. CII Returns for current month 
+f. Controlled 3-5 Invoices for current month 
+g. Controlled 3-5 Returns for current month 
+h. Non-Control Invoices for current month 
+i. Non-Control Returns for current month 
+j. Completed Controlled Substance Inventory  
+k. Compound Worksheets 
+l. Inspection Reports 
+2. The pharmacist in charge will ensure that the audit box is maintained such that items are easily accessible.  
+PH.2401_Prescription Processing and Dispensing 
+6 
+3. Pharmacists in Charge will be randomly assigned the task of conducting audits of pharmacies other than 
+their own by the Senior Director of Pharmacy on a quarterly basis. 
+4. Audits will be completed using the Quarterly Pharmacy Audit form and submitted to the Director of 
+Pharmacy for review.  The audit will be completed by the 10th business day from the day assigned. 
+5. Audits findings will require: 
+a. The submission of a Corrective Action Plan (CAP) by the Pharmacist in Charge where the findings 
+occurred.  The CAP will be due to the Senior Director of Pharmacy by the 10th business day from the 
+date of discovery. 
+b. If the audit included a discovery of a significant loss, the Pharmacist in Charge will be responsible 
+for reporting to regulatory bodies as required. 
+6. The audit form will be saved in Teamlink>Quarterly self-audit> Store name 
+AA. Insurance Verification and Prior Authorization [URAC P-OPS 2-2] 
+1. To verify benefits, appropriate pharmacy personnel will contact primary and secondary payers, 
+providing clinical information to the payer organization to support the approval of a prior authorization 
+for a specialty drug.  If a claim rejects, the pharmacy staff will research the denial and notify the provider 
+and patient if necessary and provide reasonable assistance to the patient with appeals.  
+BB. The pharmacy employees work with the patient, prescriber and/or payor to resolve issues related to drug-
+utilization review, coverage or benefits, or medications that may be out of stock and/or on back order. 
+Pharmacists and technicians follow state and federal regulations regarding allowed tasks.  The appropriate 
+employee will make outreach to the patient, prescriber or payor about the issues/concern within 24 hours and 
+then work to obtain a resolution.  Documentation of the communication will be noted in the patient’s record. 
+[URAC P-OPS 2-3 (a-i, a-ii, a-iii)] 
+CC. The pharmacy does not dispense covered drugs (i) more than twelve (12) months after issuance of the 
+prescription order for non-controlled substances, (ii) more than six (6) months after issuance of the 
+prescription for controlled drug substances, or (iii) if prohibited by applicable law or the professional 
+judgement of the dispensing pharmacist.  
+DD. Copay Assistance [URAC P-OPS 2-2 (a-iii)]  
+1. The patient management system will monitor and flag patient assistance opportunities. If an opportunity is 
+available, the information is shared with the patient. 
+Note:  The information described herein does not create any legal rights and FMOLHS reserves the right to deviate 
+from, revise or eliminate this policy, at any time, in its sole discretion. 
+STATUTORY/REGULATORY AUTHORITY: 
+• ACHC Standards: DRX5-1D, DRX5-5A, DRX5-5F, DRX5-7A, DRX5-7A.01, DRX5-10A, DRX5-18B, DRX7-
+9A 
+• URAC Standards: P-OPS 1-1, 2-1, 2-2, 2-3, 2-4 
+• 46 La. Admin. Code Pt LIII, 2511 et seq. 
+• HRSA Office of Pharmacy Affairs http://www.hrsa.gov/opa/ 
+• Louisiana State Board of Pharmacy website http://labp.gov 
+• PH.2417_Central Fill Pharmacy 
+• 75 Fed. Reg. 10272 (Mar. 5, 2010) 
+• PH.2403_Pharmacy Patient Assistance Program 
+• PH.2453.001_Prescription Deliveries 
+ATTACHMENTS:  
+• Quarterly Self Audit form 
+ 
+Policy Oversight by: 
+ 
+Senior Director of Pharmacy for Our Lady of the Lake Hospital, Inc.   
+PH.2401_Prescription Processing and Dispensing 
+7 
+ 
+ 
+Compliance validation – to be completed by the Pharmacist in Charge 
+Mark only if compliant.  Plan of correction required for all 
+items not compliant. 
+Q1 
+Date________ 
+Q2 
+Date________ 
+Q3 
+Date________ 
+Q4 
+Date________ 
+Dispensing Log Book.  Is there a signature recorded for each 
+date? ☐ ☐ ☐ ☐ 
+Legend prescription book.  Are the prescriptions being filed 
+appropriately? Verify by looking at script number and 
+date.  Ensure that no controlled scripts are present 
+☐ ☐ ☐ ☐ 
+C3-5 prescription book.  Are the patient address and Doctor 
+DEA present? 
+☐ ☐ ☐ ☐ 
+CII prescription book.  Are the patient address and Doctor 
+DEA present?  Are the prescriptions being voided with 
+pharmacist’s signature and date? 
+☐ ☐ ☐ ☐ 
+Review the temperature log for the refrigerator and 
+freezer.  Are daily temperatures being recorded? 
+☐ ☐ ☐ ☐ 
+Review 10 return to stock prescriptions.  Are they properly 
+returned with protected patient information obscured?  Are 
+they within the 12 month expiration? 
+☐ ☐ ☐ ☐ 
+Review 10 random stock bottles.  Are they within the 
+expiration date? 
+☐ ☐ ☐ ☐ 
+Review 5 C3-5 invoices.  Are they signed and dated on each 
+page? 
+☐ ☐ ☐ ☐ 
+Review 5 CII invoices.  Are they signed and dated on each 
+page? 
+☐ ☐ ☐ ☐ 
+Review 5 Legend drug invoices.  Are they filed 
+appropriately?    
+☐ ☐ ☐ ☐ 
+Review the most current annual controlled inventory.  Is it 
+signed and dated with the name and address of the 
+☐ ☐ ☐ ☐ 
+Quarterly Pharmacy Audit  
+ 
+ 
+PH.2401_Prescription Processing and Dispensing 
+8 
+Compliance validation – to be completed by the Pharmacist in Charge 
+pharmacy listed?  Are there 5 years in file if pharmacy open 
+longer than 5 years? 
+Review CII order blanks.  Are they completed with each line 
+dated and received listed? 
+☐ ☐ ☐ ☐ 
+Can staff locate the Power of Attorney forms for control 
+substance ordering? 
+☐ ☐ ☐ ☐ 
+Review waiting bin.  Are prescriptions being returned to stock 
+within 14 days?   
+☐ ☐ ☐ ☐ 
+Is the emergency key secured and stored in a manner that 
+will indicate if it is accessed? 
+☐ ☐ ☐ ☐ 
+Is the pharmacy refrigerator free of any food items? ☐ ☐ ☐ ☐ 
+Are licenses and certifications up to date? ☐ ☐ ☐ ☐ 
+Review the compounding log.  Are compounds being 
+recorded appropriately? 
+☐ ☐ ☐ ☐ 
+If the pharmacy has experienced any controlled substance 
+losses is there a corresponding DEA 106 form on file? 
+☐ ☐ ☐ ☐ 
+Nursing home delivery tickets.  Are delivery tickets present 
+for each delivery?  Are all signed? (only form Rx ONE 
+MedPlaza) 
+☐ ☐ ☐ ☐ 
+     
+Signature of Pharmacist In Charge     
+ 
+ 

@@ -1,0 +1,394 @@
+ 
+1 
+Purpose:  
+The Loss of Utilities, Information Systems and/or Telecommunications Failure Plan is to provide for the 
+safety and protection of all patients, personnel, visitors and property during a loss of information systems 
+and/or telecommunications incident. 
+ 
+Policy:  
+The Loss of Utilities, Information Systems and/or Telecommunications Failure Plan will be used in 
+conjunction with the Emergency Operations Plan (ECEP001) to guide the hospital’s preparation and 
+response in the event of a loss of information systems/telecommunications incident.  
+ 
+Definitions:  
+Information Systems and/or Telecommunications Failure - Any interruption of the hospital’s computer 
+system or computer networking software (such as a virus that necessitates the shutting down the servers) 
+or any emergency that makes other electronic communication systems inoperable (telephone, beeper, cell 
+phone, two way radio, overhead paging, or fax) is considered an information systems/telecommunications 
+failure. 
+ 
+Preparedness: 
+In preparation for the possibility of an Information Systems and/or Telecommunications Failure: 
+• Maintain a hard copy of this plan and the Emergency Operations Plan (ECEP-001) in a readily 
+accessible location.  The Emergency Operations Plan contains information that serves as a useful 
+reference and companion to OLOL Code Policies. 
+• Maintain all Call Trees in an accessible, hard copy format.  Each department/unit must maintain a 
+departmental call tree, and call trees must be updated on a regular basis.  Call trees should contain 
+personnel mobile telephone numbers whenever possible, and hard copies must be maintained in 
+the department/unit. 
+• Ensure that each department/unit maintains all necessary paper forms to be utilized during a 
+downtime.  
+• Follow the procedures for staffing/utilizing the Personnel Pool as described in the Emergency 
+Operations Plan (ECEP001) Response Procedures and Resources, Section F. Staff, 2.  
+Personnel Pool. 
+• Refer to Attachment 2 of this policy for the location of Couriers/Runners if needed for transport 
+of materials and/or messages. 
+• Ensure that staff are educated about this procedure and participate in Code Purple 
+Drills/Exercises.   
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  EOC - Safety 
+Subject:  Code Purple – Loss of Utilities, Information 
+Systems, or Telecommunications. 
+Section:  A 
+Date of Origination:  August 2015 Supersedes:       
+Date Last Revised: 07/22/2021 Serial Code: ECEP009  
+Date Last Reviewed:  05/06/2024  
+2 
+Authorization to Activate: 
+1. The Administrator on Call (AOC) or designee has the authority to activate the plan when it is 
+determined that the hospital’s ability to communicate internally and /or externally has been 
+compromised.  
+2. The Administrator on Call (AOC) will assume the role of Incident Commander and activate 
+appropriate Hospital Incident Command System positions to respond to the event. 
+ 
+Notification: 
+1. A Team Member, upon becoming aware that the hospital’s ability to communicate internally 
+and/or externally has been compromised, will attempt to notify the House Manager of the 
+situation.  If it is not possible to notify the House Manager via an electronic method, the Team 
+Member or designee will attempt to contact the House Manager’s Office in person. 
+2. The House Manager will attempt to notify the AOC.  The House Manager will assume the role 
+of Incident Commander until such time as the AOC or other Senior Leader is available to 
+assume the role of Incident Commander. 
+3. An attempt will be made to contact Plant Operations and Information Systems to determine the 
+extent of the outage.  If it is not possible to contact Plant Operations and/or Information Systems 
+via an electronic method, the Team Member or designee will go to Plant Services and/or 
+Information Systems to obtain a status report. 
+4. Once a status report is obtained, the Incident Commander will review the situation with Plant 
+and/or IS and determine the appropriate level of response to maintain operations. 
+5. If required, the PBX Operator will be contacted.  If the PBX operator cannot be reached with a 
+house phone, the Incident Commander will attempt to contact the PBX operator using a cell 
+phone.  
+6. Once the PBX Operator is notified, the PBX page operator will clearly announce “Attention 
+Please: Code Purple” three times to alert staff of the situation as required by the on-scene 
+assessment. 
+7. The Incident Commander will activate cell phone call trees to notify appropriate personal, 
+including personnel of appropriate off-campus locations. 
+8. If required, the Incident Command Center will establish a conference bridge to facilitate 
+conference communication. 
+9. If needed, utilize cell phones to call for: 
+a. Incident Command Center – (225) 765-3429 
+b. Status Updates – (225) 765-6651 
+c. MET – (225) 765-1776 
+d. Code Blue – (225) 765-3333 
+e. Any other time-sensitive Code Event. 
+ 
+ 
+ 
+ 
+  
+3 
+Response: 
+ 
+• All emergency events will be managed by following the Emergency Operations Plan (ECEP-
+001) 
+• Utility Failure – Generator (reference policy ECUS031) 
+• Utility Failure – Natural Gas (reference policy ECUS032) 
+• Utility Failure – HVAC (reference policy ECUS033) 
+• Utility Failure – Sewage (reference policy ECUS038) 
+• Utility Failure – Med Gas/Vacuum (reference policy ECUS039) 
+• See also Responsibility Matrix (below). 
+ 
+ 
+Responsibility Matrix: 
+ 
+Department/ 
+Personnel Job Function/Responsibility 
+Administrator on Call/ 
+House Manager  
+▪ Assume the role as Incident Commander.  Proceed with establishing Incident 
+Command Center. 
+▪ Activate appropriate Hospital Incident Command System positions to respond 
+to an Information System and/or Telecommunications Failure. 
+▪ Obtain additional resources as needed. 
+PCS (Patient Care 
+Services)  
+▪ Compile a list of current Charge Nurses with cell phone numbers. 
+▪ Compile a list of Charge Nurses with cell phone numbers scheduled to work 
+during the next 24 hours.  
+Incident Commander ▪ Evaluate level of communication interruption and determine degree to which 
+communication with external partners (i.e. LERN, EMS, AASI, etc.) is 
+impacted, and instruct departments/units to activate call trees or compile list of 
+personal cell phone numbers for Charge Nurses scheduled for the next 24 hours. 
+Emergency 
+Department/Outpatient 
+Procedures 
+▪ Utilize process for manually maintaining billing sheets for codes to continue 
+charge capture. 
+▪ Utilize EMCO walkie-talkie radios to maintain internal departmental 
+communications if telephone communications are compromised. 
+PBX  ▪ Clearly announce, three times, on the overhead paging system “Code Purple” 
+and affected areas, if known.  
+▪ Clearly announce, three times, on the overhead paging system “All Clear Code 
+Purple” when all conditions have been restored to normal. 
+Nursing Units ▪ Activate Call Trees if possible, or compile list of personal cell phone numbers 
+for staff scheduled for the next 24 hours. 
+▪ Initiate downtime procedures. 
+▪ Utilize cell phones if house phones are inoperative for getting status updates, 
+contacting MET, calling Codes and physicians. 
+▪ Revert to paper documentation utilizing downtime forms. 
+▪ Use paper forms for requesting tests, pharmacy orders, and all other patient 
+needs. 
+▪ Utilize couriers from personnel pool to obtain diagnostic results and supplies. 
+Medical Staff 
+Office/Physicians 
+▪ Notify/update Physicians regarding unscheduled downtime. 
+▪ Compile list of Medical Staff/Physicians and cell phone numbers scheduled to 
+be on-call for the next 24 hours. 
+▪ Supply information regarding which systems are down and which remain  
+4 
+functional. 
+▪ Initiate downtime procedures. 
+▪ Determine if/when scheduled procedures, operating schedules and imaging are 
+affected. 
+▪ Utilize backup communications to nursing/ancillary staff should VoIP phones 
+be affected. 
+Security ▪ Utilize Motorola Capacity Plus System 2-way radios for communication as 
+needed in event telephone communication compromised. 
+Plant Services ▪ Utilize Motorola Capacity Plus System 2-way radios for communication as 
+needed in event telephone communication compromised. 
+Information Systems ▪ Implement IS Disaster Recovery Plan as needed. 
+▪ Utilize Motorola Capacity Plus System 2-way radios for communication as 
+needed in event telephone communication compromised. 
+▪ Issue mobile phones to Incident Command Center to be utilized as appropriate 
+as determined by Incident Commander. (Four Cell Phones, two AT & T and 
+two Verizon). 
+▪ Advise Command Center regarding the type of problem and projected outage 
+period. 
+Human Resources ▪ Form Personnel Pool, as described in the Emergency Operations Plan 
+(ECEP001) Response Procedures and Resources, Section F Staffing, Number 2 
+Personnel Pool. 
+▪ Designated Human Resources representative will stand up Personnel Pool. 
+▪ Dispatch Personnel Pool members to key areas (elevator lobbies and other 
+critical locations) to serve as messengers/runners/couriers as a back up to voice 
+communications. (Refer to Attachments 2 & 3 for location of 
+Couriers/Runners) 
+Ancillary Departments 
+- Clinical 
+▪ Suspend all non-emergency operations as practical. 
+▪ Compile list of personal cell phone numbers for staff scheduled for the next 24 
+hours. 
+▪ Activate Downtime procedures to enable continuity of ordinary 
+diagnostics/medication and resulting. 
+▪ Support Command Center and Clinical Departments as are able. 
+Ancillary Departments 
+– non-Clinical 
+▪ Suspend all non-emergency operations as practical. 
+▪ Compile list of personal cell phone numbers for staff scheduled for the next 24 
+hours. 
+▪ Support Command Center and Clinical Departments as are able. 
+ 
+Recovery: 
+1. See Emergency Operations Plan (ECEP-001) 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+5 
+Attachment 1: Potential Data Center Impacted 
+ 
+Application/System Department 
+Head 
+Cell 
+Number 
+OLOL 
+RMC 
+Lake 
+Livingston 
+North 
+ED 
+ Network Joe Bumpus 
+(IS) 
+225-315-
+5186 
+   
+Internet Access Team     
+Cisco Jabber Joe Bumpus 
+(IS) 
+225-315-
+5186 
+   
+Phones Team     
+Footprints Joe Bumpus 
+(IS) 
+225-315-
+5186 
+   
+Email Team     
+Email to Phones Team     
+SharePoint (Lake link) Team     
+Lake T:\H: \drives Team     
+Cerner 
+Powerchart/Firstnet/Surginet/Pharmnet/Radnet 
+     
+Cerner Printing      
+Cerner Prescription Printing      
+Handhelds      
+EPIC (Access & Printing)      
+PACS      
+Powerscribe 360      
+Spacelabs & Interfaces to Cerner      
+Dragon for both Epic & Cerner      
+VDI (Virtual Desktops) {Applications only or 
+Full Desktop} 
+     
+Cafeteria System (Gempay)      
+HBOC Registration & Billing       
+6 
+Application/System Department 
+Head 
+Cell 
+Number 
+OLOL 
+RMC 
+Lake 
+Livingston 
+North 
+ED 
+Bedboard      
+Pyxis      
+Epiphany      
+Apollo      
+Sensis    N/A  
+3M Coding & Abstracting      
+Remote Access      
+Patient Portal      
+Physician Portal      
+Employee Portal      
+OP Pharmacy (QS/1)      
+Telemedicine/Telestroke (Internet/WiFi)    N/A  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+7 
+Attachment 2: Locations for Couriers/Runners – Main Hospital 
+         
+Floor Locations for Couriers/Runners 
+1st  
+ 
+Elevator- C 
+ 
+Main 
+Elevators- E 
+ 
+Back Hall – 
+Pharmacy/Laboratory
+/Radiology 
+Back Hall – Central 
+Supply/Respiratory 
+Pharmacy 
+Plaza 1 
+ 
+2nd  
+ 
+HVI-Elevators- B 
+ 
+Tower 
+Elevators -D 
+ 
+Main Elevators near 
+Main Surgery 
+ER Ambulance 
+Entrance/Lobby 
+area 
+ TNCC 
+ 
+3rd  
+ 
+Peds-Elevators –C Peds-
+Elevators-D 
+Main Elevators-E   
+4th  
+ 
+HVI-Elevators-B Tower 
+Elevators-D 
+Main Elevators-E   
+5th  
+ 
+Elevators-C Tower 
+Elevators –D 
+Main Elevators-E   
+6th  
+ 
+HVI Elevators –B Tower 
+Elevators-D 
+Main Elevators-E   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+8 
+Attachment 3: Locations for Couriers/Runners – Children's 
+Hospital 
+ 
+Floor Locations for Couriers/Runners 
+1st  
+ 
+Patient/Staff Elevators East Stairwell (Stairway 7) West Stairwell (Stairway 1) 
+2nd  
+ 
+Patient/Staff Elevators East Stairwell (Stairway 7) West Stairwell (Stairway 1) 
+3rd  
+ 
+Patient/Staff Elevators East Stairwell (Stairway 7) West Stairwell (Stairway 1) 
+4th  
+ 
+Patient/Staff Elevators East Stairwell (Stairway 7) West Stairwell (Stairway 1) 
+5th  
+ 
+Patient/Staff Elevators East Stairwell (Stairway 7) West Stairwell (Stairway 1) 
+ 
+ 
+Attachment 4: Locations for Couriers/Runners – OLOL Ascension 
+ 
+Floor Locations for Couriers/Runners 
+1st Main Patient/Staff Elevators (ED/Telem 
+Elevator) 
+Patient/Staff Elevators (Front lobby/ 
+Medicine Unit) 
+2nd Main Patient/Staff Elevators (ED/Telem 
+Elevator) 
+Patient/Staff Elevators (Front lobby/ 
+Medicine Unit) 
+1st Plaza 2 Patient/Staff Elevators  
+2nd Plaza 2 Patient/Staff Elevators  
+ 
+ 

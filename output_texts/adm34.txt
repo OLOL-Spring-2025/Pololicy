@@ -1,0 +1,185 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Emergency Srvs. 
+Our Lady of the Lake Regional Medical Center   
+Subject:  Triage (Adult & Pediatric) Section:  Patient Care 
+Date of Origination:  September 11, 2020  Supersedes:       
+Date Last Revised: 
+Date Last Reviewed: 
+ February 14, 2023  
+ January 9, 2025 
+Serial Code:  ADM 34 
+ 
+  
+PURPOSE: 
+To provide a standardized system whereby patients presenting to the Emergency Department (ED) are 
+treated in order of priority based upon acuity utilizing the Emergency Severity Index (ESI) 5 level triage 
+system. The triage assessment does not constitute a medical screening exam.  
+ 
+Additional Reference:  MH-02 Care and Observation Monitoring of Behavioral Health Patients within 
+the ED.  
+DEFINITIONS:   
+LWBS (Left Without Being Seen) A patient classification that encompasses those individuals leaving 
+the emergency department before initiation of the medical screening exam.  
+LPTC (Left Prior Treatment Was Complete) A patient classification that encompasses those individuals 
+leaving the emergency department after the medical screening exam but before the provider documents 
+that treatment is complete.  
+POLICY: 
+1. Any patient presenting for care at Our Lady of the Lake will be offered a medical screening 
+exam (MSE) by a provider to determine if they have an emergency medical condition.  (Refer to 
+ADM01 Medical Screening Exam) . In addition, if the individual arrives with Law Enforcement 
+or becomes under Security / Law Enforcement custody, that individual must be offered an 
+appropriate MSE. The MSE must be completed prior to any Law Enforcement disposition / 
+removal. 
+2. If open treatment room available, the patient may be direct bedded and bypass triage area. A 
+triage assessment will be documented by registered nurse in patient’s assigned room.  
+3. A brief subjective and objective assessment including vital signs will be performed to  
+determine further ESI classification.  
+4. A patient requiring immediate lifesaving interventions will be triaged as the highest priority for 
+room placement (ESI Level 1) and will be taken directly to the treatment area. Some patients 
+bypass formal RN triage to facilitate patient care (i.e., trauma, cardiac arrest, walk-in/clinic care).  2 
+5. A patient presenting with a condition which poses a potential threat to life, limb or function 
+requiring rapid intervention / care will be triaged as emergent (ESI Level 2).  
+6.  ESI LEVEL 3, 4, or 5 will be determined based on predicted resources necessary to diagnose 
+and treat patient. An acuity level will be assigned to facilitate priority of patient care. 
+7.  At the time of triage, the Registered Nurse assessing the patient should include the following 
+information as applicable: 
+• Mode of arrival      
+• Chief Complaint   
+• Pre-hospital care prior to arrival / Mode of arrival  
+• Pertinent medical information/Past medical history 
+• Vital signs including assessment of pain  
+• Primary Assessment  
+• Allergies, particularly to drugs/medications 
+• Current Medications 
+• Immunization status  
+• Falls Risk Screening 
+• Suicide Risk Screening (Pediatrics age - 8 and above) 
+• Travel Exposure 
+8. Patients arriving by ambulance are assessed upon arrival by a Registered Nurse who will assign 
+an Acuity level using the ESI Triage. Depending upon the severity, the illness/condition will 
+determine the urgency of bed placement.  
+9. Patients who choose to leave before or after the triage process but never see a provider are 
+assigned LWBS status.  LWBS and LPTC patient status are dispositioned in the electronic 
+medical record (EMR) as appropriate.  
+ 
+SUBJECTIVE AND OBJECTIVE TRIAGE ASSESSMENT TO INCLUDE: 
+ 
+Full set of vital signs to include temperature, pulse, respiratory rate, blood pressure and pulse oximetry.  
+ 
+A pain assessment / level assigned on each patient, using the appropriate pain scale. 
+ 
+Nurse will utilize the Pediatric Assessment Triangle to assess general appearance, circulation, skin 
+turgor, and level of consciousness. (Ages 0 through age 17). 
+ 
+ 
+Temperature  
+• Oral temperatures may be taken on children 3 years and above or when developmentally 
+appropriate. 
+• Axillary temperature may be utilized when other means or temperature measurement are 
+clinically not feasible.  
+• Rectal temperatures will be taken on patients 6 months or younger, unless immuno-
+compromised, rectal bleeding, recent rectal surgery, or infection to the rectal area. Rectal 
+temperatures may be taken as ordered by the provider or at the nurses’ discretion. 
+  3 
+ 
+Height & Weight  
+ 
+• Height or length will be obtained on all patients stated height acceptable for adult patients.  
+• Head circumference will be obtained only if ordered by physician. 
+• An accurate weight in kilograms will be obtained on ED patients.  
+• For critically ill or injured child, a length-based resuscitation tape can be used to obtain estimated 
+weight.  
+• For critically ill or injured adult, an estimated weight may be necessary until patient stabilized 
+and resources allow ED to obtain actual weight. 
+ 
+ 
+ 
+Triage Nurse: 
+The triage nurse is responsible for monitoring all patients awaiting an assigned treatment room. Triage 
+responsibilities include: 
+• Communicating to the patient/family members the approximate wait time and documenting 
+accordingly. 
+• Reassessment of patient’s condition to include vital signs every 2-3 hours and more frequent as 
+needed. 
+• Communicate with the charge nurse regarding any significant changes in patient’s condition. 
+ 
+ 
+REVIEW OF ESI 5 LEVELS of TRIAGE: 
+ 
+TRIAGE LEVEL 1 – CRITICAL (Resuscitation) 
+The patient presents with the need for immediate lifesaving interventions. Patients will be placed 
+immediately in a patient care area, and the Physician/Charge nurse notified immediately.  
+It is understood that these will be recognized as a Level 1 prior to triage. Examples of Level 1 may 
+include but not limited to the following: 
+ 
+Level 
+1 
+Cardiopulmonary arrest, unresponsiveness, active seizure, required immediate intubation, 
+extensive burn injury, precipitous delivery, major multiple trauma, hemodynamically unstable, 
+respiratory distress 
+ 
+TRIAGE LEVEL 2 - EMERGENT 
+The patient presents with a condition that poses a potential threat to life, limb or function and requires 
+rapid medical interventions. Triage may take place at the bedside as this patient is a high risk for 
+deterioration. Examples of Level 2 may include but not limited to the following: 
+ 
+Level 
+2 
+New onset of confusion, disorientation, significant cardiac symptoms, severe pain, 
+Psychiatric/Suicidal ideations, pediatric age 1day to 4 months temp greater than 100.4, 
+SVT, Chemical exposures, Head trauma with Hx LOC/AMS, overdose, suspected  4 
+testicular torsion (testicular pain, swelling) active GI Bleed with abnormal vital signs 
+ 
+TRIAGE LEVEL 3 - URGENT 
+These patients present with a condition that could progress to a serious problem requiring emergency 
+intervention. The vital signs may or may not be WNL’s. The presenting condition is anticipated to 
+require two or more resources. Patients should be seen as soon as possible but should not suffer any 
+untoward effect if their care is delayed. Examples of Level 3 may include but  
+Not limited to the following: 
+ 
+Level 
+3 
+Asthma with moderate wheezing, migraine H/A, abdominal pain, gastroenteritis, significant 
+laceration, pleuritic type pain, bronchitis, potential fracture of extremity, geriatric age with 
+fever greater than 100.4, stable GI Bleed 
+ 
+ 
+ 
+TRIAGE LEVEL 4 – NON-URGENT 
+The patient presents with a condition that has a low potential for deterioration or complications. The 
+presenting condition is anticipated to require one resource. Examples of Level 4 may include but not 
+limited to the following:  
+ 
+Level 
+4 
+Dysuria, simple laceration, mild gastroenteritis, foreign body removal, ear infection, upper 
+respiratory infection 
+ 
+TRIAGE LEVEL 5 – MINOR 
+ 
+The patient presents with a condition that may or may not be a chronic problem. The presenting 
+condition is anticipated to require no resource utilization. Examples of Level 5 may include 
+But not limited to the following: 
+ 
+Level 
+5 
+Suture removal, generalized rash, pink eye, minor sore throat, re-check, prescription refill, 
+minor wounds/abrasion, toothache, STD check. 
+ 
+REFERENCE: 
+ 
+Gilboy N, Tanabe T, Travers D, Rosenau AM. Emergency Severity Index (ESI): A Triage Tool for 
+Emergency Department Care, [4]. (2020). Schaumburg, IL: Emergency Nurses Association. Retrieved 
+September 14, 2020, from https://www.ena.org/docs/default-source/education-document-library/esi-
+implementation-handbook-2020.pdf?sfvrsn=fdc327df_2 
+Thomas, D.O. and Bernardo, L.M. (2009). Core Curriculum for Pediatric Emergency Nursing. Sudbury, 
+MA: Jones and Bartlett.  5 
+Emergency Nurses Association (2012). Provider Manual Emergency Nursing Pediatric Course (4th ed.) . 
+Des Plaines, IL: Emergency Nurses Association. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

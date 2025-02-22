@@ -1,0 +1,154 @@
+ 
+NMA 025 Palliative Care Analgesic Infusion Therapy 
+1 
+ 
+RESPONSIBLE DEPARTMENT: 
+Patient Care Services/Nursing  
+SUBJECT:  
+Palliative Care Analgesic Infusion Therapy 
+PAGES: 
+4 
+REPLACES POLICY DATED: 
+8/2018 
+EFFECTIVE DATE:  
+12/10/2020   
+REVISION DATE: 
+ 07/06/2023 
+Review Date: 
+10/7/2024 
+SYSTEM POLICY NUMBER:  
+NMA- 025 
+ 
+SCOPE: 
+Applies to Our Lady of the Lake Hospital, Inc. (“OLOL”) and its wholly owned sponsored organizations (collectively 
+referred to herein as “Entity”) that propose and adopt Facility wide policies. 
+PURPOSE: 
+To ensure that analgesic infusion therapy is utilized in an effective, safe, secure, controlled manner to provide 
+smooth and efficient control of distressing pain or dyspnea in the imminently dying patient. 
+POLICY: 
+During end-of-life situations, Authorized Agent Controlled Analgesia (AACA) can be utilized for administration of 
+analgesia to a patient who is unable to self-administer and is experiencing pain and suffering.  The physician or advance 
+practice professional will enter an order to include specified medication, delivery route, concentration, and dosing 
+schedule.   
+Authorized Agent Controlled Analgesia is not permitted unless ordered by a physician or advance practice professional 
+and the patient has a “do not resuscitate” (DNR) order.   
+Authorized Agent Controlled Analgesia may be administered by the nurse responsible for the patient - Nurse Controlled 
+Analgesia (NCA) or a nonprofessional individual (i.e. parent, significant other) - Caregiver Controlled Analgesia (CCA)  
+“One of the primary purposes of medicine in caring for the dying is the relief of pain and the suffering caused by it.  
+Effective management of pain in all its forms is critical in the appropriate care of the dying.” Ethical and Religious 
+Directives for Catholic Health Care Services, Sixth Edition - Part 5 – Issues in Care for the Dying).   
+Patients should be kept as free of pain as possible so that they may die comfortably and with dignity…Medicines capable 
+of alleviating or suppressing pain may be given to a dying person, even if this therapy may indirectly shorten the 
+person’s life so long as the intent is not to hasten death.  (Ethical and Religious Directives for Catholic Health Care 
+Services, Sixth Edition - # 61).   
+In end of life situations, when the agreed upon goal of care by the physician, advance practice professional, patient and 
+family is comfort care, these medications may be given in a non-monitored setting. 
+Please reference the Palliative Care Analgesia Infusion Pump order set. 
+ 
+DEFINITIONS: 
+N/A 
+ 
+ 
+ 
+OUR LADY OF THE LAKE HOSPITAL 
+ 
+NMA 025 Palliative Care Analgesic Infusion Therapy 
+2 
+PROCEDURE: 
+General Information 
+1. Palliative Care analgesic infusion pump therapy can be administered through a subcutaneous, peripheral or 
+central line. 
+2. The physician or advance practice professional must order Palliative Care analgesic infusion pump 
+therapy, the narcotic, the delivery route and the dosage parameters. 
+3. Registered nurses (RNs) may initiate, program, change parameters, change injector vials (syringes) and 
+tubing and administer bolus doses via the analgesic infusion pump. 
+4. Two nurses, one being an RN, must verify orders, programming of pump, bolus doses, and any wastes. 
+5. If pain is not relieved, two nurses, one being an RN, will assess the pump functioning. 
+6. LPNs may verify parameters, verify bolus doses and witness wastes.  An LPN may also monitor the patient 
+with analgesic infusion therapy and document in the Electronic Medical Record (EMR). An LPN may 
+change an injector vial (syringe) if the vial, dosage and original order have been verified by an RN. 
+ 
+Pump Initiation 
+1. Order the PCA pump from central supply.  
+2. Central supply will deliver the pump.  
+3. The injector vials (syringes) will be located in the automated dispensing machine on the nursing unit 
+whenever possible.  They will come from main pharmacy when not in the automated dispensing machines. 
+4. Analgesia vials (syringes) must be changed every 72 hours; and tubing must be changed every 96 hours.  
+5. For pump loading, priming and programming, refer to manufacturer’s user manual. 
+ 
+Patient/Family Education 
+1. Prior to the initiation of the Palliative Care analgesic infusion pump therapy, education should be provided 
+to the patient and the family regarding the purpose and use of the device. 
+2. Minimal education requirements include: 
+▪ Medication type 
+▪ Dosage 
+▪ Frequency of use 
+▪ Use of the patient injection device (bolus cord). 
+▪ Signs and symptoms of potential side effects. 
+▪  The patient and family should be educated that only the nurse and caregiver(s) should administer 
+the medication via the injection device. 
+▪ Information on pump timing between doses. 
+3. The nurse initiating the PCA pump will document patient education in the Education section of the EMR   
+ 
+Documentation 
+A. Upon initiation of Palliative Care analgesic infusion pump therapy, the nurse shall document the 
+following components in the patient’s EMR:  
+ 1. Pain assessment and/or dyspnea assessment 
+ 2. PCA Settings (witness must verify settings) 
+  a. Mode 
+  b. PCA Medication 
+  c. Concentration  
+NMA 025 Palliative Care Analgesic Infusion Therapy 
+3 
+  d. Continuous Basal Rate (if applicable) 
+  e. Demand Dose (PCA dose on pump) (if applicable) 
+  f. Lockout Interval 
+  g. Hourly Dose limit 
+ 3. Sedation 
+  a. Sedation Scale: Pasero Opioid-induced Sedation Scale (POSS) 
+  b. Respiratory Status: Rate, depth, effort and breath sounds 
+c. Routine patient monitoring, including vital signs, pain and sedation scales, and respiratory 
+status shall be documented every four hours or as ordered by the physician 
+B. Documentation should also include the number of completed doses, partial doses, and denied doses 
+from each previous hour in the corresponding time column. 
+C. For a PCA dose change or bolus, two nurses, one being an RN, will review the physician order, change 
+the program on the pump, and document the new settings to include the witness verification in the 
+EMR. Routine PCA monitoring and documentation are to be resumed every hour for 4 hours, then 
+every 4 hours. 
+D. At each hand-off, two nurses, one being an RN, must verify and document settings and volume 
+remaining, to include electronic documentation of a witness. 
+E. When the bag/syringe is changed, the RN and a witness verify and document the new medication being 
+hung, the pump settings, and volume remaining. Verification by the witness is documented in the 
+EMR.  
+ 
+Discontinuing Pump 
+1. The order to discontinue Palliative Care analgesic infusion therapy must be received from a physician or 
+advance practice professional. 
+2. The nurse will verify that all history has been recorded, including the current hour’s therapy. 
+3. Remove narcotic from the pump. 
+4. Any remaining medication must be removed from the cartridge or bag and wasted by the nurse in the sink 
+in the presence of a witnessing nurse.  The nurse will document the volume remaining (waste amount), in 
+addition to the witness verification, in the EMR. (see policy (OC 060 Controlled Substance Monitoring) 
+5. If there is a discrepancy of more than 10% between the milligrams remaining in the patient record and the 
+actual amount wasted, notify the charge nurse and follow hospital protocol for narcotic discrepancy. 
+6. Place used pump with all cords in the soiled utility room for return to Central Supply. 
+ 
+Note:  The information described herein does not create any legal rights and OLOL reserves the right to deviate from, 
+revise or eliminate this policy, at any time, in its sole discretion. 
+STATUTORY/REGULATORY AUTHORITY: 
+• Patient Controlled Analgesia (PCA) Policy 
+• Palliative Sedation for Refractory Suffering at End of Life 
+• Controlled Substance Monitoring 
+•  Dynamic Health, 2020United States Conference of Catholic Bishops, (2009), Ethical and Religious Directives 
+for Catholic Health Care Services (Sixth Edition).  
+NMA 025 Palliative Care Analgesic Infusion Therapy 
+4 
+ 
+• Wuhrman, E., Cooney, M., Dunwoody, C., Eksterowicz, N., Merkel, S., and Oakes, L., (2007).  Authorized and 
+unauthorized (“PCA by proxy) dosing of analgesic infusion pumps: Position statement with clinical practice 
+recommendations.  Pain Management Nursing, 8:1, pp.4-11. 
+ 
+ATTACHMENTS:  
+• N/A 
+ 
+ 

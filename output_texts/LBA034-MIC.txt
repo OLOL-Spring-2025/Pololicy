@@ -1,0 +1,60 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 1 of 2 
+LBA034 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA034-MIC 
+MOLECULAR TESTING QUALITY ASSURANCE 
+        Date Issue Date Effective Date 
+ Prepared/Revised By D Leger 4/20/2021 5/13/2021 5/13/2021 
+Lab Administration Review   Origination Date 
+Medical Director Review A Harton 4/29/2021 4/20/2021 
+Medical Director Review A Nunez 4/22/2021  
+ 
+ 
+POLICY 
+Quality Assurance (QA) is the systematic process of monitoring and evaluating various aspects 
+of the laboratory to ensure that specified requirements are consistently being met.  Molecular 
+Microbiology testing requires focused monitoring for the presence of false positive results 
+particularly due to contamination. 
+ 
+This policy is specifically intended to address the molecular SARS-CoV-2 testing being 
+performed by OLOLRMC Main and Affiliate Laboratories.  See form LBA034-A – OLOLRMC 
+and Affiliate Labs COVID19 Test Methodologies for current covid testing performed in each lab.  
+The OLOLRMC Main Lab Molecular Department has specific procedures in place that address 
+its larger and more comprehensive test menu which will take precedence over this policy. 
+ 
+PROCEDURE 
+A report is generated from the LIS monthly for each lab that performs SARS-CoV-2 testing.  
+The percentage of positive vs negative results is calculated and assessed.   
+The following will be evaluated: 
+• Increases above 20% that do not correlate with community hospitalization and 
+positivity rates  
+• Increases compared to other OLOLRMC system labs 
+• Increases compared to historical lab positivity rate 
+Corrective Action for increased positivity rates due to suspected false positive results: 
+• Instrument will be cleaned per manufacturer’s instruction  
+• Take an environmental swab and run a test on the instrument 
+• Repeat QC  
+• If the above steps do not correct the issue contact manufacturer for guidance if needed 
+All evaluation, corrective action, and follow-up as needed will be documented. 
+  
+REFERENCE 
+CAP Standard: MIC.63252 
+ 
+ASSOCIATED POLICIES OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA 70808 
+ 
+ 
+Page 2 of 2 
+LBA034 
+ 
+LBA034 – Laboratory Quality Control and Quality Assurance 
+ 
+REVISIONS 
+4/20/2021(created) 

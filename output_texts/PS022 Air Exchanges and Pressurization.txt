@@ -1,0 +1,31 @@
+ 
+ 
+Plant Services 
+ 
+ PS022 
+Page 1 of 1 
+Title: Air Exchanges and Pressurization 
+Revision Date: 12/22/20 
+Review Date: 02/05/20 
+Reference # PS022 Origin Date: August 1988 
+ 
+PURPOSE: 
+To provide a safe physical environment for patients, staff and visitors at all Our Lady of the Lake 
+Regional Medical Center (OLOL) network locations. 
+ 
+POLICY: 
+Our Lady of the Lake will evaluate air exchanges per hour and positive/negative pressurization in areas 
+identified by ASHRAE 170 and the Ventilation Risk Assessment. 
+ 
+PROCEDURES: 
+1. Continuous monitoring of areas identified as high and medium risk achieved by ball-in-the-wall, 
+digital, and Trane Building Automation Systems (BAS).  Areas identified as low risk are 
+periodically evaluated. 
+2. A qualified vendor will test the HVAC system semi-annually.  
+3. The test report will be reviewed for conformance to ASHRAE 170 regulating air exchanges, 
+pressure relationships, humidity, and temperature.  Failure to meet standards shall be rectified 
+immediately. 
+4. Copies of the test reports will be retained in Plant Services for comparison with previous and future 
+testing. 
+ 
+ 

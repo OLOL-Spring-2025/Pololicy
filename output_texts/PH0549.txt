@@ -1,0 +1,256 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Facilities and Engineering Controls for 
+Hazardous Drugs 
+Policy Reference #: PH0549 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the design standards and acceptance criteria for hazardous drug sterile 
+compounding, hazardous drug nonsterile compounding, and hazardous drug storage facilities and 
+engineering controls within FMOLHS Baton Rouge Market Pharmacies.  
+• Sterile compounding facilities must be designed, outfitted, and maintained properly to 
+minimize the risk of contamination of compounded sterile preparations (CSPs).  
+• An area must be designated for nonsterile compounding. The area should be designed, 
+arranged, and used in a way that minimizes cross contamination from non-compounding 
+areas and other compounded nonsterile preparations (CNSPs). 
+• Facilities that contain hazardous drugs (HD) must be designed, outfitted, and maintained 
+properly to minimize the risk of HD contamination to personnel, patients, and the 
+environment.  
+1.2. Design standards and specifications guide new construction, remodels, and maintenance of 
+existing spaces to ensure compliance with USP <800>, Occupational Safety and Health 
+Administration (OSHA) standards, and other applicable standards or regulations  
+1.3. Containment Primary Engineering Controls (C -PEC) and Containment Secondary Engineering 
+Controls (C-SEC) aid in achieving required air quality classifications and containing the HD while 
+Supplemental Engineering Controls (Closed System Transfer Devices) solely aid in containing the 
+HD. 
+• Containment Primary Engineering Controls (C -PEC) are devices that HDs are compounded 
+within. Types of C-PECs are: 
+o Biological Safety Cabinet (BSC)  provide ISO Class 5 environment for sterile HD 
+compounding (nonsterile HD compounding can also occur in limited circumstances)  
+o Compounding Aseptic Containment Isolator (CACI) ISO Class 5 environment for sterile 
+or nonsterile HD compounding  
+o Containment Ventilated Enclosure (CVE)  non-classified environment for nonsterile HD 
+compounding 
+• Containment Secondary Engineering Controls (C -SEC) is the room in which the C -PEC is 
+placed. Types of C-SECs are: o Sterile compounding suite with an ISO Class 7 ante room and an ISO Class 7 negative 
+pressure buffer room  
+o Containment Segregated Compounding Area (C -SCA) are unclassified areas without 
+an ante room or buffer room, has fixed walls, is vented to the outside, and has at least 12 
+ACPH.  
+• Supplemental Engineering Controls  are adjunct controls {e.g., Closed System Transfer 
+Devices (CSTDs)} used during HD compounding to offer additional levels of protection. CSTDs 
+mechanically prohibit the transfer of environmental contaminants into the system and 
+prohibit the escape of HD or vapor concentrations outside the system. 
+• The ISO standards for air quality in controlled environments are provided below and 
+referenced throughout this policy.  
+ISO CLASSIFICATION OF PARTICULATE MATTER IN ROOM AIR 
+ISO Class Particle Count per Cubic Meter 
+3 35.2 
+4 352 
+5 3520 
+6 35,200 
+7 352,000 
+8 3,520,000 
+• Refer to the Sterile Compounding Program Overview for a summary of the types of C -PECs 
+and C-SECs used at FMOLHS Baton Rouge Market Pharmacies.  
+2. Policy  
+2.1 Designated areas must be available for the following HD activities: 
+• Receipt and unpacking of HDs 
+• Storage of HDs 
+• Nonsterile HD compounding 
+• Sterile HD compounding 
+2.2 Since many of the engineering controls for HDs require negative pressure environments, 
+FMOLHS Baton Rouge Market Pharmacies have redundancy built into the ventilation system as 
+to always maintain uninterrupted power.  
+2.3 When the negative pressure buffer room is used for HD storage, the room is adequately sized 
+for the storage contained within, maintains proper ISO classification, and has proper airflow 
+within the room.  
+2.4 HD receiving area(s) are neutral or negative pressure to the surrounding areas. Receiving HDs 
+does not occur in the sterile compounding areas or a positive pressure environment. 
+2.5 Design and Acceptance Criteria for C-PECs: 
+• All design requirements of PECs for Compounded Sterile Preparations (CSPs) and 
+Compounded Nonsterile Preparations (CNSPs) outlined in USP <797> and <795> policies are 
+followed in addition to the requirements of this policy. 
+• The C-PEC operates continuously if it supplies some or all of the negative pressure in the C -
+SEC or if the C-PEC is used for sterile compounding. • When C-PECs are turned off, turn unit on and after manufacturer-specified recovery time, C-
+PEC is decontaminated, cleaned, and disinfected (if used for sterile compounding) prior to 
+use.   
+• C-PEC for sterile compounding must be externally vented.  
+• C-PEC for nonsterile compounding must be externally vented or have redundant HEPA filters 
+in series.  
+• BSC used for sterile compounding must be Class II and BSC (if used) for nonsterile 
+compounding can be either Class I or II. 
+• If a C-PEC is used for non-HD compounding, the non-HD preparation is handled as if it is a HD 
+preparation with full USP <800> precautions per USP <800> policies.   
+2.6 Design and Acceptance Criteria for C-SECs and HD Storage: 
+• All design requirements of SECs for CSPs and CNSPs outlined in USP <797> and <795> policies 
+are followed in addition to the requirements of this policy. 
+• The C-SECs used for sterile and nonsterile compounding and the HD storage room must: 
+o Be externally vented 
+o Be physically separated from other preparation areas 
+o Have appropriate air exchange (Air Changes Per Hour or ACPH) 
+o Have a negative pressure between 0.01 and 0.03 inches of water column to all adjacent 
+areas 
+ C-SEC Type C-SEC Requirements 
+Sterile Hazardous 
+Drug 
+Compounding 
+ISO 7 buffer room  
+-Externally vented 
+-30 ACPH 
+-Negative pressure between 0.01 and 0.03“ w.c. 
+Nonsterile 
+Hazardous Drug 
+Compounding 
+Unclassified room 
+or ISO classified 
+storage room 
+-Externally vented 
+-12 ACPH 
+-Negative pressure between 0.01 and 0.03“ w.c. 
+HD Storage  
+Unclassified room 
+or ISO classified 
+storage room 
+-Externally vented 
+-12 ACPH 
+-Negative pressure between 0.01 and 0.03“ w.c. 
+ 
+• C-PECs used for CSPs and CNSPs are located in different C-SECs.  
+• If C-PECs used for sterile and nonsterile compounding are located in the same C -SEC, testing 
+demonstrates that ISO Class 7 is maintained in the C -SEC throughout the nonsterile 
+compounding activity.  Refer to the 795 policy Nonsterile and Sterile Compounding 
+Considerations for further criteria.  
+• If C-PECs used for sterile and nonsterile compounding are located in the same C -SEC, the C-
+PECs are placed at least 1 meter apart from each other and particle -generating activity does 
+not occur at the same time as sterile compounding. 
+• All surfaces of the C-SEC for nonsterile compounding are smooth, impervious, free from cracks 
+and crevices, and non-shedding. 
+2.7 HD Personal Protective Equipment (PPE) Doffing Area:  • All HD handling areas within FMOLHS Baton Rouge Market pharmacies  have a doffing area 
+for PPE removal that has been worn when handling or compounding HDs.  
+• Doffing area is required by USP <800> for negative-pressure HD buffer rooms that are entered 
+through the positive-pressure non-HD buffer rooms.  
+• Doffing area is immediately next to the door where you exit the negative pressure room.  
+• The chemotherapy gown and the outer pair of shoe covers are doffed inside the doffing area 
+immediately prior to leaving the room. 
+• A trace HD waste receptacle is positioned near the doffing area for proper disposal of trace 
+HD waste. 
+2.8 Water Sources: 
+• Sink for handwashing and eyewash location is located: 
+o In the ante room of a cleanroom suite at least 1 meter from the entrance to the negative 
+pressure buffer room. 
+o In the C-SCA or directly outside the C-SCA at least 1 meter from the C-PEC. 
+• Sink and eyewash should be hands-free use. 
+2.9 Containment Supplemental Engineering Controls - CSTDs: 
+• FMOLHS Baton Rouge Market Pharmacies provide adjunct controls to offer an additional level 
+of protection during compounding and administration. 
+• CSTDs are not used as a substitute for a C-PEC when compounding. 
+• CSTDs are used during HD compounding, when the dosage form allows. 
+• CSTDs are required to be used during HD antineoplastic administration when the dosage form 
+allows. 
+• CSTDs known or suspected to be physically or chemically incompatible with a specific HD are 
+not used for that HD compounding or administration.  
+2.10 Other design considerations for maintaining the HD compounding environment:  
+• Sterile compounding facilities must be designed to provide a well -lighted and comfortable 
+working environment. Refer to USP <1066> : Physical Environment That Promote Safe 
+Medication Use for additional details and considerations. 
+• Temperature and humidity:  
+o Refer to <797> and <795 > and their supporting Facility Policies for temperature and 
+humidity requirements for compounding and drug storage areas.  
+• Pressure: Pressure differentials minimize airflow between areas of different classifications. 
+o Negative pressure between 0.01 and 0.03” w.c. is required for HD storage and 
+compounding rooms (negative pressure buffer room in a cleanroom suite or a C-SCA). 
+o Where pressure differentials are required, a monitoring device must be used to 
+continuously monitor the pressure differential. Results must be reviewed and 
+documented at least daily on the days when compounding occurs. 
+2.11 Refer to applicable regulations and laws in pharmacy/organization jurisdiction for additional 
+HD drug storage and compounding facility requirement.  
+ 
+3. Roles & Responsibilities 
+3.1 The Designated Person (DP): • Ensures each area related to HD compounding and HD storage areas are operated, 
+maintained, monitored, and certified to have appropriate air quality and containment 
+engineering controls. 
+• Coordinates with building facilities and certification professionals to ensure preventative 
+maintenance activities and/or repairs are completed with minimal impact to pharmacy 
+operations. 
+• Directs corrective action and preventive action procedures to ensure facilities remain or 
+return to designed specifications.  
+• Ensures CSTDs used are appropriately used and ensures CSTD compatibility with all HDs 
+compounded including investigational agents (if applicable).  
+3.2 Personnel who compound and/or handle HDs: 
+• Know appropriate operating conditions for C -PECs and values and ranges for pressure 
+differentials for HD containment areas. 
+• Know appropriate use of CSTDs.  
+• Record environmental monitoring data. 
+• Report out of specifications facility issues to the DP for corrective action.  
+4.  Procedures 
+4.1 Documentation of Environmental Monitoring Specifications: 
+• Pharmacy personnel document temperature, humidity, and pressure in SoleSource® Simplifi 
+797® for each compounding area daily on days of operation. 
+• If any value is out of specifications, report to the Designated Person or charge pharmacist and 
+follow the procedure described in the 797 Out of Specifications policy. 
+4.2 Preventative Maintenance for C-PECs: 
+• Change prefilters for all C -PECs every six (6) months  or as indicated by the manufacturer or 
+operating conditions. Changes are documented on semiannual Allometrics® recertification 
+reports. 
+• Visual inspection of HEPA filters through the protective screen for staining, rips or tears occurs 
+every six months by Allometrics® during semiannual recertification.  
+• Visually assess all inside and outside surfaces C-PEC during the monthly clean, inspecting for 
+signs of rust or damage. 
+4.3 Certification requirements for C-PECs, C-SECs, and HD Storage: 
+• Biannually certify all C-PECs and C-SECs for all required parameters per USP <797>. 
+• Biannually certify HD Storage locations for: 
+o Negative pressure between 0.01 and 0.03“ w.c. 
+o At least 12 ACPH 
+o External ventilation 
+5. Definitions 
+5.1 ACPH: Air Changes Per Hour 
+5.2 Biological Safety Cabinet (BSC) : A ventilated cabinet often used for preparation of hazardous 
+drugs. These cabinets are divided into three general classes (Class I, Class II, and Class III). Class II 
+BSCs are further divided into types (Type A1, Type A2, Type B1, and Type B2). 5.3 Compounding Aseptic Containment Isolator (CACI): A specific type of CAI that is designed for the 
+compounding of sterile HDs. The CACI is designed to provide worker protection from exposure to 
+undesirable levels of airborne drugs throughout the compounding and material transfer processes 
+and to provide an  aseptic environment with unidirectional airflow for compounding sterile 
+preparations. 
+5.4 Containment Primary Engineering Controls (C-PEC): A ventilated device designed and operated 
+to minimize worker and environmental exposures to HDs by controlling emissions of airborne 
+contaminants. 
+5.5 Containment Secondary Engineering Controls (C-SEC): The room with fixed walls in which the C-
+PEC is place. It incorporates specific design and operational parameters required to the contain 
+the potential hazard within the compounding room.  
+5.6 Containment Segregated Compounding Area (C-SCA): A type of C-SEC with nominal requirements 
+for airflow and room pressurization as they pertain to HD compounding. 
+5.7 Containment Ventilated Enclosure (CVE): A full or partial enclosure that uses ventilation 
+principles to capture, contain, and remove airborne contaminants through HEPA filtration and 
+prevent release into the work environment.  
+5.8 Personal Protective Equipment (PPE): Items such as gloves, gowns, respirators, goggles, 
+faceshields, and others that protect individual workers from hazardous physical or chemical 
+exposures. 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc. <795> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.3 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings. 2019 version.  
+6.4 United States Pharmacopeial Convention, Inc.  <1066> Physical Environments that Promote Safe 
+Medication Use. 2015. Retrieved 12/30/2022. 
+6.5 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 
+6.6 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22.  
+7. Approval and Review Summary 
+ 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies. 
+7.3 Reviewed with no changes 11/2024. 
+ 

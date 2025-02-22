@@ -1,0 +1,96 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Calibration Verification Material Section: Blood Gas Lab 
+Date of Origination: March 1995 Signature: 
+Date of Last Revision: December 6, 2023 Serial Code: RC9-10A 
+         Reviewed: January 31, 2024 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to verify the calibration of blood gas, electrolyte and glucose 
+systems throughout the patient reportable range.  
+ 
+EQUIPMENT: 
+A. Blood gas/electrolyte analyzer  
+B. Calibration Verification Material (3 ampules of each level) 
+C. 18 gauge needle with 3 cc syringe 
+D. CVM data collection and recording form  
+ 
+PROCEDURE: 
+A. Preparation of equipment 
+1. Equilibrate CVM ampules to room temperature for at least 4 hours prior to 
+use, and follow manufacturer’s instructions. 
+2. Insert test card in the Epoc Reader and allow calibration to complete. 
+3. Aqueous control fluids must be ran as a QA test. 
+4. Verify that quality control results do not indicate a problem with the 
+analyzer.   
+B. Instructions for analyzing CVM 
+1. Obtain one ampule of CVM level 1 and a syringe.  
+2. Hold the ampule by its tip, shake the ampule vigorously for 5 to 10 seconds 
+to equilibrate the liquid and gas phases, and avoid prolonged contact. 
+3. Tap the liquid back into the base of the ampule. 
+4. Carefully snap open the ampule. 
+5. Immediately transfer the fluid from the ampoule into a plain syringe, 
+avoiding fast suction and thin needles in order to preserve the gases in the 
+solution. 
+6. Transfer the fluid immediately into an Epoc Test Card in the Epoc Reader.     
+7. Verify the results and record the results for level 1 analyte.  
+8. Repeat steps 1 -7 for levels 2, 3, 4 , and 5 .  To minimize the effect of 
+calibration drift, it is recommended that you sample in a specific order.  
+Begin sampling with level 1 and continuing with levels 2, 3,  4, and 5  
+respectively.  If all levels for each analyte are within the performance variability, continue to repeat this sampling sequence for each EPOC blood 
+gas analyzer until you have a minimum of three results for each analyte.    
+C. Verifying calibration of CVM 
+1. Record the results for each analyte per level. 
+2. Verify that your result is within the performance variability range listed for 
+the epoc System provided at www.siemens-healthineers.com. 
+3. If your result is not within the performance variability range, contact Epocal 
+Technical Support.   
+4.  The Analytical Measurement Range will be determined by the  following 
+method:  
+ Take the highest of the low range values for each analyte. Subtract 15% of 
+each analyte; pO2 subtract 50%. Low Analytical Measurement Range will 
+be set at or above the recorded values from previous statement . Take the 
+lowest of the high range of each analyte and add 15% to each value. High 
+Analytical Measurement Range will be set at or below the recorded values 
+from the previous statement . If the calculated ranges exceed the 
+manufacturer’s reportable range, then the manufacturer’s reportable range 
+will be utilized.  
+The Analytical Measurement Range will be posted near each analyzer. 
+5. Results falling outside of the Analytical Measurement Range will be 
+reported as greater than or less than the value of the analytical measurement 
+range in the EDM. For results that are outside of  the machines reportable 
+range, the physician will be notified that the result  falls outside of our 
+reportable measurement range. 
+ 
+D. Continuing the Analytical Measurement Ranges  
+1.   The initial Analytical Measurement Range (AMR) will be established using 
+the above method and recorded in the CAP binder (CVM tab). 
+2.  After the initial AMR is set, each time Calibration Verification Material is 
+ran, the values will be recorded in the CAP binder.   These highest of the 
+high values and the lowest of the low values will then be compared to the 
+current high and low AMR values.  AMR values will not be changed unless 
+the highest of the high CVM results is lower than the AMR for two 
+consecutive times, or the lowest of the low CVM results is higher than the 
+AMR for two consecutive times. If the AMR is changed, the new AMR will 
+be set by calculating the mean value from all samples measured that is 
+lowest or highest from the Calibration Verification Material. This new 
+AMR value will be set on all like instruments within the same CAP number. 
+ 
+ 
+SPECIAL CONSIDERATIONS: 
+A. Calibration Verification Material must be performed every six months.  This 
+material has been approved as matrix appro priate and is from an approved 
+manufacturer.  
+B. Storage of CVM will be in accordance to the manufacturer recommendations.  C. CVM will be sampled within 30 seconds of opening the ampule.  Prolonged contact 
+with the atmosphere affects the pH, PCO2, and PO2 result.  
+D. Excessive handling of the ampule can affect the temperature of CVM and cause 
+erroneous results. 
+ 
+ 
+ 

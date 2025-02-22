@@ -1,0 +1,130 @@
+NICP-007 
+Page 1 of 3 
+ 
+Policies and Procedures Manual Manual:  Children’s Hospital 
+Our Lady of the Lake Regional Medical Center Chapter:  Neonatal Intensive Care 
+Subject:  Umbilical Arterial Catheter Section:  Patient Care 
+Date of Origination:  October 23, 2020 Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+October 6, 2023 
+August 23, 2024 
+Serial Code:  NICP-007 
+  
+PURPOSE: 
+The UAC is utilized for arterial blood sampling and direct arterial blood pressure monitoring in the neonate.  Its 
+purpose is not for infusing glucose preparations, although it may be utilized in this manner per order of 
+physician/NNP.  All arterial lines must be attached to a pressure transducer system.  
+ 
+POLICY: 
+Full aseptic precautions should be taken in preparing equipment to be used for umbilical arterial catheter (UAC) 
+placement.  Infusion and blood sampling also require care and aseptic technique to prevent infection and air 
+embolism which are significant risks. 
+ 
+EQUIPMENT 
+Central line cart at bedside; UAC kit  
+Heparinized normal sterile saline (HNS), prepared by pharmacy 
+Masks (2), Sterile Gowns (2), Sterile glove sets (2) 
+Pressure Transducer System 
+T-Connector 
+ 
+A. PREPARATION OF INFANT   
+1. Obtain informed consent from parent/legal guardian. 
+2. Identify patient with 2 identifiers (3rd identifier if parent present) and perform time out prior to 
+procedure. 
+3. Place infant supine with EKG leads positioned for monitor accuracy; temp probe securely attached, 
+pulse oximeter in place and functioning. 
+4. Using developmental principles and ensuring the neonates safety, properly immobilize extremities at the 
+initiation of the procedure.   
+5. Document any bruising of lower extremities and/feet and toes. 
+6. Assess vital signs, glucose, and other physiologic functioning prior to beginning the procedure. 
+7. Avoid positioning in prone positioning.  
+ 
+B.  CARE OF ARTERIAL LINE 
+1. Prior to securing in place, follow insertion of UAC with chest-abdominal x-ray for placement. 
+2. Do not enter line for sampling or infusion until position verified by physician/NNP. 
+3. After verifying catheter position, secure line(s) with an occlusive dressing to secure the line(s) to the 
+infant’s abdomen. 
+4. End of catheter should be capped with a Microclave. 
+5. Zero UAC transducer once every 12 hours. 
+ NICP-007 
+Page 2 of 3 
+ 
+ 
+C.  SAMPLING  
+1. Turn proximal stopcock off to IV fluids 
+2. Clean port closest to the baby with alcohol. 
+3. Aspirate into 3 cc syringe via proximal port, 1.5-2 ml of blood to clear UAC of infusing fluid 
+4. Remove that syringe. Place back in packing/not touching any surfaces to keep sterile. 
+5. Obtain required amount of blood for labs with a new syringe. 
+6. Return blood that was aspirated into 3 ml syringe.  Do not allow any air bubbles into the UAC catheter 
+7. Turn distal stopcock off to IV fluids 
+8. Flush with 1-1.5 ml of heparinized saline from 5 ml syringe. 
+9. Turn distal stopcock off to IV fluids and flush 0.5 ml heparinized saline to clear UAC 
+10. Document the time the samples were obtained, how much blood was used, and the results if available 
+ 
+ See Ebsco Health Online Resource for Umbilical Catheter Blood Sampling 
+ 
+D. TO INFUSE KEEP OPEN SOLUTION 
+1. Prepare appropriate solution ordered per physician/NNP, label, flush through tubing and transducer 
+ridding line of all air bubbles. 
+2. Volume of syringe should be adequate to last 24 hours after tubing has been flushed. 
+3. Place syringe on pump and program rate as ordered (rate usually 0.5 -1 mL/hr.). Using sterile gloves, 
+attach UAC fluids to UAC. 
+4. Open stopcock from infusion syringe to infant, watch line closely for air bubbles and/or backup of blood 
+from line into tubing.  If occurs utilize stopcock systems, clear bubbles from line. 
+5. Record volume infused hourly on flow sheet. 
+6. Change tubing every 96 hours per protocol. 
+ 
+E. DOCUMENTATION 
+1.  Documentation should include: 
+• Prior to insertion procedure, vital signs, blood pressure, and condition of lower extremities 
+(including feet and toes). 
+• Infant’s tolerance to procedure, utilizing monitor/oximeter readings. 
+• After insertion, check site at least hourly for signs of bleeding.  Observe catheter position, watch for 
+infection, and document appearance of umbilicus. 
+• Infusion rate for heparinized fluids. 
+• Functioning of UAC, ability, and ease of aspirating or flushing line. 
+• Color/temperature/perfusion/pulses of lower extremities.  If changes, notify physician/NNP 
+immediately. 
+• If an extremity turns dusky and or cold, apply a heel warmer(s) to opposite leg and notify 
+physician/NNP. 
+• Blood pressure with cuff each shift to correlate with transducer and record on flowsheet.  
+  
+F. REMOVAL OF UMBILICAL ARTERY CATHETERS 
+1. Verify that the order to remove the UAC has been written by the physician/NNP. 
+2. Open sterile 4 x 4 gauze package/suture removal set.  Wear clean gloves. 
+3. Look for catheter centimeter markings, written numerals or black dots depending on the brand. 
+4. Turn stopcock on to fluids and off to infant.  Turn monitor pressure alarm off, if utilized.  Verify 
+centimeter placement of catheter before removing. 
+5. If sutures are present, remove sutures. 
+6. Grasp catheter firmly with one hand – use other hand to stabilize cord – gently pull until 5 cm mark is NICP-007 
+Page 3 of 3 
+ 
+reached (only 5 cm remain in artery).  Resistance maybe encountered.  The artery may spasm. Have 
+hemostat and gauze ready. 
+7. Tighten umbilical tape around stump, and gently withdraw remaining catheter.  If resistance and/or 
+pulsations continue notify physician/NNP. 
+8. If bleeding occurs, apply pressure from the inferior portion of the abdomen to occlude the arteries 
+(between the ilac and femoral insertion). If bleeding continues, notify NNP/physician.   
+9. Document estimated blood loss on nursing flow sheet.  Inspect the catheter to verify all catheter is out. 
+10. Some oozing may occur; however, document any blood loss on the flowsheet. 
+11. Do not cover artery or place baby on abdomen for one hour after pulling catheter. 
+12. Document the evaluation of extremities and umbilicus after the procedure. 
+ 
+See Ebsco Health Online Resource for Umbilical Catheter Removal 
+ 
+REFERENCES: 
+ 
+Infusion Nurses Society. Umbilical catheters. Journal of Infusion Nursing. 2016;39(1): S60-S62 
+ 
+NHS Royal Cornwell Hospitals. Insertion of umbilical lines (UAC, UVC) neonatal clinical guideline V3.0. 
+https://doclibrary-
+rcht.cornwall.nhs.uk/DocumentsLibrary/RoyalCornwallHospitalsTrust/Clinical/Neonatal/UmbilicalLine
+InsertionUACUVCNeonatalGuideline.pdf [pdf]. Updated April 2018. 
+ 
+Beauman, S.S & Bowles, S. (2019).  Policies, Procedures, and Competencies for Neonatal Nursing Care (6th 
+Ed).  National Association of Neonatal Nurses. 
+ 

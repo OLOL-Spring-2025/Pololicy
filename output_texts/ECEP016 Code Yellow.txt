@@ -1,0 +1,834 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Environment of Care 
+Our Lady of the Lake Regional Medical Center Chapter:  Emergency Management 
+Subject:  Mass Casualty Incident Code YELLOW 
+  Addendum A – Code Yellow Visitor/Family 
+     Management  
+Section:  A 
+Date of Origination:  December 2006 Supersedes:       
+Date Last Revised: 6/28/2021 Serial Code: ECEP016 
+Date Last Reviewed: 05/06/2024 
+ 
+PURPOSE: 
+The purpose of this plan is to provide for the safety of all patients, visitors, and staff in responding to a mass casualty 
+incident.  
+ 
+Definitions  
+A Mass Casualty Incident is either an internal or external incident or disaster which generates more patients than available 
+resources can manage using routine procedures.  
+ 
+Authorization and Activation: 
+1. After discussion with the ED charge nurse and ED attending physician, the house manager/house supervisor, in 
+collaboration with the administrator on call, has the authority to activate the Mass Casualty (Code Yellow) plan.  
+ 
+2. The Administrator On Call/ Incident Commander, under the direction and guidance of the Emergency Department 
+Medical Directors (Adult, Pediatric), “on duty” Emergency Department (ED) Physician and Chief Operating 
+Officer, will determine and activate appropriate Hospital Incident Command System positions to respond to the 
+event. 
+ 
+3. The Incident Commander, in coordination with the Operations Section Chief, Medical Staff Specialist, Planning 
+Section Chief and Logistics Section Chief, will decide if and when to implement Disaster Staffing policies and 
+procedures. 
+ 
+4. If the mass casualty event involves chemical and/or radioactive contamination, see also Chemical Contamination 
+Plan (ECEP-010) and Radiation Safety Plan (ECEP-013) 
+ 
+ 
+Notification: 
+1. The Emergency Department (ED) Charge Nurse or designee will call the PBX page operator and request them to 
+page and call the Administrator on Call (AOC) to notify them of the event 
+2. OLOL Hospital:  The ED Supervisor or “on duty” ED Physician will call and/or page the: 
+a. Medical Director of the Adult ED  
+b. Medical Director of the Pediatric ED  
+c. ED Divisional Director 
+d. ED Director 
+e. Nurse Mgr. Pediatric ED 
+3. OLOL Ascension: The House Supervisor will notify as appropriate to the affected areas. 
+a. VP Nursing/Ascension  
+b. Nursing Directors/Managers 
+c. Divisional Director of Ancillary Services  2 
+4. OLOL Children’s Hospital: The ED supervisor/charge nurse or on duty ED physician will call and/or page the 
+following: 
+a. Medical Director of the Children’s Hospital ED 
+b. Nursing Director of the Children’s Hospital ED 
+c. Medical Director of the Adult ED 
+d. ED Director 
+e. ED Divisional Director 
+ 
+5. If the decision is made to activate the HICS and Mass Casualty emergency event plan the: 
+a.  The AOC/Incident Commander will notify the PBX page operator to clearly announce three times 
+“Code Yellow and Number of Causalities” over the hospital paging system. (For Chemical 
+Contamination, see Code Orange Plan (ECEP010).  For Radiological Contamination, see Code Green 
+Plan (ECEP013). The AOC/Incident Commander at Children’s Hospital will send out message to all 
+team members via VOALTE message. 
+ 
+ 
+b. Administration will begin the Administrative call out process to all hospital leaders such as Senior 
+Administrators, Divisional/Senior Directors, Directors, Department Heads, Managers, and Supervisors 
+to inform them of the event. 
+ 
+Triage 
+A. Triage Plan 
+1. The Triage Officer and Triage Nurse will utilize START triage and assign patients to one of the following 
+categories: 
+• Red: Critical patients in need of immediate life-saving medical treatment or care 
+• Yellow: Relatively stable patients in need of prompt medical attention 
+• Green: Minor injuries that can wait for appropriate treatment 
+• Black: Deceased patients and those who have no chance of survival. 
+ 
+Response 
+• All emergency events are managed by following the Emergency Operations Plan (ECEP-001) 
+ 
+• See also Department Specific Response Mass Casualty Incident and Responsibility Matrix (below). 
+ 
+A. Medical Staff/ Physicians 
+• At OLOL Hospital, Intensivist and Trauma Physicians will report to the Emergency Department and 
+work under the direction of the Emergency Department Medical Director, to assist the ECU (Emergency 
+Care Unit) physicians in initial triage and treatment of victims.  
+• At OLOL Ascension, General Surgeons and Orthopedic Physicians will report to the Emergency 
+Department and work under the direction of the Emergency Department Medical Director, to assist the 
+ECU (Emergency Care Unit) physicians in initial triage and treatment of victims. 
+• At OLOL Children’s, Intensivists and Trauma Physicians will report the  ED and work under the 
+direction of the ED Medical Director, to assist the ED Physicians in the initial triage and treatment of 
+victims 
+• Members of the Medical Staff and employed Physicians will report to the Medical Staff Office for 
+assignment. 
+• All physicians who respond to the Emergency Department will work under the direction of the 
+Emergency Department Medical Director.  
+ 
+B. Victim/Patient Registration 
+• The Access Services personnel assigned to Triage area will assess the situation and determine the most 
+appropriate registration process to implement during the event. 
+• See also Disaster Plan Access Services Department  3 
+ 
+Department Specific Response, Mass Casualty Incident 
+ 
+A. Patient Care Areas 
+1. Emergency Care Unit 
+• Evaluate existing patients for potential discharge or immediate transfer to a patient care unit to 
+open ECU space.  
+• Implement Triage policies, plans, and procedures as needed. 
+• Open Fast Track to assist with triage, treatment, and patient throughput. 
+• Additional patient care areas may be opened as overflow for the Emergency Care Unit. 
+▪ OLOL Hospital 
+• Outpatient Oncology  
+• CVAA  
+• Endoscopy 
+• PACU (Main and Tower) 
+• Same Day Surgery 
+• Cardiac Catheterization Lab 
+• Auditorium or other meeting / classroom space 
+• Other areas as determined by the Incident Commander. These areas may include 
+buildings on the campuses but outside of the hospital. Example: Graduate Clinical 
+Education Building. 
+▪ OLOL Ascension 
+• ICU Waiting Area for Green Triage  
+• PACU (Medical Plaza 2 - ASC) 
+• Single Day Surgery Pre-Op Area 
+• Cardiac Catheterization Lab 
+• Sister Linda or other meeting/classroom space 
+•  
+▪ OLOL Children’s Hospital 
+▪ Preop/Postop 
+▪ PACU 
+▪ Radiology Holding/Triaged Green Patients 
+ 
+• ECU Charge Nurse will report regularly to the Medical Care Branch Director (part of Incident 
+Command) the number of victims received, type of injuries, and any resource needs identified.  
+▪ Briefing may include, but is not limited to: 
+• Number of patients holding for beds 
+• Diagnosis, type of bed needed, and any special needs 
+• Volume and acuity of ECU 
+• Future admissions/incoming arrivals of patients 
+• Staffing needs 
+• Status of PECs 
+•  
+2. Perioperative Services / Procedure Areas 
+• Evaluate scheduled procedures to determine those that may be rescheduled.  
+• Report the number of scheduled procedures and Operating Rooms available to the Medical Care 
+Branch Director and/or Incident Commander as soon as possible and as requested throughout the 
+event.  
+• Perioperative Service areas (Pre-Op, PACU, Procedure and OR) may be converted for use as 
+patient care areas on the direction of the Incident Commander and/or Operations Section Chief.  
+3. Medical Management 
+• Upon notification of the “Code Yellow” designated personnel will report to the ECU to assist 
+with patient admission, discharge, and patient transfers, as needed (see Responsibility Matrix) 
+4. All Other In-Patient Care Units  
+• Evaluate existing patients for potential discharge to home or an alternate care facility. 
+• Report unit census and bed availability to the Medical Care Branch Director and/or Incident  4 
+Commander as soon as possible and as often as requested throughout the event.  
+ 
+B. Clinical Support Areas (Pharmacy, Laboratory, Blood Bank, Imaging and Respiratory Care) 
+1. All areas will complete an inventory of supplies and scheduled services and report status to the Medical 
+Care Branch Director and/or Incident Commander as soon as possible.  
+2. All areas will send 2 or 3 staff to the ED with requested/needed equipment and supplies to assist in 
+managing the response. 
+ 
+C. Non-Clinical Support Areas 
+1. Access Services/Admissions: 
+• Access Services will send one (1) to  three (3) staff, as needed, to the ED to register victims to 
+assist with patient throughput.  
+• Will maintain an ongoing log/list of victims registered and provide the updated list to the Incident 
+Commander and/or Liaison Officer as often as requested.  
+2. Health Information Management 
+• Health Information Management will send one (1) to three (3) staff, as needed, to the ED to assist 
+with registering victims to help support patient throughput.  
+3. Materials Management/ Linen / Nutritional Services  
+• Upon notification of the “Code Yellow”, all areas will complete an inventory of supplies and 
+report any additional needs or support to the Infrastructure Branch Director as soon as possible.  
+• Materials Management will maintain a Disaster Treatment Cart containing critical patient care 
+supplies for use in a disaster, this cart will be brought to the Emergency Care Unit upon 
+notification of a “Code Yellow”. 
+• Linen Services will maintain an Emergency Linen Cart; this cart will be brought to the 
+Emergency Care Unit upon notification of a “Code Yellow”. 
+4. Security  
+• Upon notification of the “Code Yellow”, one (1) to three (3) personnel, as needed, will report to 
+the Emergency Care Unit for increased controlled access. 
+• Security will set-up, direct and manage traffic and crowd control in all designated areas such as: 
+receiving, triage, and/or treatment areas. 
+• Security will implement appropriate controlled access procedures upon notification of the “Code 
+Yellow”.  
+• Additional security resource needs will be communicated to the Security Branch Director when 
+identified. 
+5. Patient Transport 
+• Upon notification of the “Code Yellow’, one (1) to (3) personnel, as needed, will report to the ED 
+with proper transport equipment such as wheelchairs, stretchers, and other items as requested. 
+6. Pastoral Care 
+• Upon notification of the “Code Yellow”, one (1) to (3) personnel, as needed, will report to the ED 
+to provide comfort and support to victims, families of victims and staff, if needed. 
+   
+Responsibility Matrix 
+ 
+Department / 
+Personnel Job Function/Responsibility 
+Administrator on 
+Call /  
+House Manager 
+ Assume the role of Incident Commander and determine the need to implement emergency 
+event policies and procedures for a Mass Casualty Incident in consultation with the 
+Emergency Department Medical Directors and Emergency Department Physician. 
+ Activate appropriate HICS positions to respond to the incident.  
+ Notify PBX Page Operator to announce, “Code Yellow” and number of causalities 
+o Chemical MCI: (see Code Orange Plan ECSE010) 
+o Radiation MCI: (see Code Green Plan ECSE013) 
+ Assess and determine the need to implement surge policies, plans and procedures. 
+ Provide overall guidance and operations strategy tactics. 
+ Request status updates from appropriate HICS positions as soon as possible and as often as  5 
+Department / 
+Personnel Job Function/Responsibility 
+needed. 
+ Obtain additional resources when needed. 
+Emergency 
+Department (ED) 
+Physician or House 
+Manager 
+ Call and/or page the ED Medical Directors (Adult, Peds) to notify them of the event 
+ Call and/or page the ED Divisional Director to notify them of the event 
+ Call and/or page the ED Director to notify them of the event 
+ Call and/or page the Nurse Mgr. Pediatric ED to notify them of the event 
+ Call and/or page the OR Director 
+ Assess and help determine the need to implement the Mass Casualty Incident emergency 
+event plan 
+House Manager or 
+Designee (OLOL 
+Ascension) 
+ Call and/or page the VP Nursing to notify them of the event 
+ Call and/or page Unit Director/Manager to notify them of the event 
+ Call and/or page the OR Director/Call Team to notify them of the event 
+Emergency 
+Department Medical 
+Director 
+ Assess and determine the need to implement the Mass Casualty Incident emergency event 
+plan 
+ Advise the Incident Commander on all disaster medical operations. 
+Emergency 
+Department: Charge 
+Nurse 
+ Notify the PBX page operator to page and/or call the AOC/House Manager to notify them of 
+the event 
+ Assign personnel to the following positions: 
+o Triage Officer 
+o Triage Nurse 
+ Obtain patient census and bed availability report. 
+ Obtain and report regularly to the Medical Care Branch Director: 
+o Number of victims received 
+o Types of injuries 
+ Send any requests for additional supplies and/or manpower to the Medical Care Branch 
+Director 
+Emergency 
+Department  
+ Complete an inventory of all equipment and supplies, report status to the Medical Care 
+Branch Director as soon as possible and as often as requested 
+ Evaluate existing patients for potential discharge or immediate transfer to a patient care unit 
+to prepare the ED for surge capacity/operations. 
+ Prepare to expand/increase patient care operations for a mass influx of patients. 
+ Implement triage policies, plans, and procedures as directed. 
+Perioperative 
+Services/ 
+Procedures Areas 
+Supervisor assigns staff to complete the following tasks: 
+ Complete an inventory of supplies and scheduled services, report to the Medical Care Branch 
+Director as soon as possible. 
+ Evaluate scheduled procedures to determine those that may be rescheduled. 
+ Inventory and report census, bed availability, and operating room availability to the Medical 
+Care Branch Director as soon as possible and as often as requested. 
+ Prepare to expand units/areas for ED overflow and treatment areas. 
+ Send any requests for additional supplies and/or manpower to the Medical Care Branch 
+Director. 
+Patient Care 
+Units/Areas 
+ Evaluate existing patients for potential discharge to home or an alternate care facility. 
+ Inventory and report unit census and bed availability to the Medical Care Branch Director as 
+soon as possible and as often as requested. 
+ Send any requests for additional supplies and/or manpower to the Medical Care Branch 
+Director.  6 
+Department / 
+Personnel Job Function/Responsibility 
+Access Services Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to three (3) personnel to the Emergency Care unit to register victims to assist 
+with patient throughput. 
+ Maintain an ongoing log/list of victims registered. 
+ Provide ongoing list of victims registered to the Medical Care Branch Director when 
+requested. 
+ Send any requests for additional supplies and/or manpower to the Medical Care Branch 
+Director. 
+Health Information 
+Management (HIM) 
+Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to three (3) personnel to the Emergency Care Unit to assist with registering 
+victims to help support patient throughput. 
+ Send any requests for additional supplies and/or manpower to the Medical Care Branch 
+Director. 
+Medical 
+Management 
+Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to three (3)  Social Workers to the Emergency Care Unit to assist with patient 
+admission, discharge, and transfer as needed. 
+ Send any requests for additional supplies and/or manpower to the Medical Care Branch 
+Director. 
+Imaging Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to three (3) personnel to the Emergency Care Unit to assist with imaging needs, 
+bring appropriate/requested equipment. 
+ Complete an inventory of supplies and scheduled services, report status to the Medical Care 
+Branch Director as soon as possible and as often as requested. 
+ Evaluate and determine the need to cancel elective procedures. 
+ Prepare to increase treatment capacity within the imaging department to assist with patient 
+care needs and patient throughput. 
+ Continually monitor imaging supplies and needs, send any requests for additional supplies 
+and/or manpower to the Medical Care Branch Director. 
+Blood Bank Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to three (3) personnel to the Emergency Care Unit to assist with blood needs, 
+bring appropriate/requested blood supplies. 
+ Complete an inventory of supplies and scheduled services, report status to the Medical Care 
+Branch Director as soon as possible and as often as requested. 
+ Continually monitor blood supplies, send any requests for additional supplies and/or 
+manpower to the Medical Care Branch Director. 
+Laboratory Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to three (3) personnel to the Emergency Care Unit to assist with any laboratory 
+needs, bring appropriate/requested supplies. 
+ Complete an inventory of supplies and scheduled services, report status to the Medical Care 
+Branch Director as soon as possible and as often as requested. 
+ Prepare to increase treatment capacity within the laboratory department, to assist with patient 
+care and patient throughput. 
+ Continually monitor laboratory operations, send any requests for additional supplies and/or 
+manpower to the Medical Care Branch Director. 
+Pharmacy Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to two (2)  personnel to the Emergency Care Unit to assist with any 
+pharmaceutical needs, bring appropriate medications as requested. 
+ Complete an inventory of supplies, report to the Medical Care Branch Director as soon as 
+possible and as often as requested. 
+ Send any requests for additional supplies and/or manpower to the Medical Care Branch 
+Director. 
+Respiratory Care Supervisor assigns staff to complete the following tasks:  7 
+Department / 
+Personnel Job Function/Responsibility 
+ Send one (1) to two (2)  personnel to the Emergency Care Unit, with adequate/requested O2 
+supplies to assist with respiratory patient care needs. 
+ Complete an inventory of supplies and scheduled services, report to the Medical Care Branch 
+Director as soon as possible and as often as requested. 
+ Evaluate and asses the need for additional O2 support.  
+ Send any requests for additional O2 supplies and/or manpower to the Medical Care Branch 
+Director and/or Materials Management. 
+Materials 
+Management 
+Supervisor assigns staff to complete the following tasks:  
+ Bring the Disaster Treatment Cart to the Emergency Care Unit. 
+ Complete an inventory of supplies, report to the Infrastructure Branch Director as soon as 
+possible and as often as requested. 
+ Send any request for additional supplies and/or manpower to the Infrastructure Branch 
+Director. 
+Patient Transport  
+(Not available at CH 
+nor Ascension) 
+Supervisor assigns staff to complete the following tasks:  
+ Send one (1) to three (3)  personnel to the Emergency Care Unit to assist with patient 
+transport, bring appropriate/requested equipment (wheelchairs, stretchers, other items). 
+ Send any requests for additional supplies and/or manpower to the Staging Manager. 
+Housekeeping/Linen 
+Services 
+Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to three (3)  personnel to the Emergency Care Unit to assist with environmental 
+response needs. 
+ Complete an inventory of supplies, report to the Infrastructure Branch Director as soon as 
+possible and as often as requested. 
+ Send any requests for additional supplies and/or manpower to the Infrastructure Branch 
+Director. 
+Linen Services Supervisor assigns staff to complete the following tasks: 
+ Bring Emergency Linen Cart to the Emergency Care Unit. 
+ Complete an inventory of supplies, report to the Infrastructure Branch Director as soon as 
+possible and as often as requested. 
+ Send any requests for additional supplies and/or manpower to the Infrastructure Branch 
+Director. 
+Security Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to three (3) personnel to the Emergency Care Unit for increased controlled 
+access. 
+ Manage traffic, access, and crowd control. 
+ Assist with setting up and managing the Triage Areas. 
+ Assist clinical staff and triage staff with keeping victims and families of victims in the 
+designated receiving, triage, and/or treatment area.  
+ Assess and monitor the need for additional controlled access throughout the facility 
+ Send requests for additional supplies and/or manpower to the Security Branch Director. 
+ Continue to respond to other hospital security incidents.  
+Pastoral Care Supervisor assigns staff to complete the following tasks: 
+ Send one (1) to two (2)  personnel to the Emergency Care Unit to provide comfort and 
+support to victims, families of victims and staff, if needed. 
+ Send any requests for additional supplies and/or manpower to the Support Branch Director. 
+ 
+ 
+Recovery 
+1. See Emergency Operations Plan (ECEP-001). 
+ 
+  8 
+Addendum A 
+Code Yellow _Visitor/Family Management Plan 
+OBJECTIVE 
+The purpose of this SOP is to unify and standardize operations and management of guests, visitors and family arriving at 
+hospital during a mass casualty event.  In addition, this SOP provides the framework for managing donations and VIP 
+visitors during such an emergency event. 
+  
+SCOPE 
+To provide a standard procedure and framework for the management of large crowds of worried family members, guests 
+and visitors during a mass casualty event providing necessary support and information safely and accurately with 
+compassion. 
+ 
+DEFINITIONS 
+SOP’s: Standard Operating Procedures; GS: Guest Services; PxP; Patient Experience; HVI: Heart and Vascular Institute; 
+IC: Incident Command; AOC: Administrator on Call 
+ 
+RESPONSIBILITY 
+Patient Experience Lead OLOL Regional Medical Center 
+ 
+Family Care Mass Casualty Guidelines 
+ 
+Once a Code Yellow is called by AOC, at IC discretion, Code Yellow Visitor Management Family Care Procedure is 
+activated. 
+ 
+Security reroutes visitors from ED ramp to public parking at front entrance to OLOLRMC.  Facility locked down to allow 
+only entry through main front doors near front main welcome desk. 
+ 
+Family Care response team shall be led by the Patient Experience Lead and supported by Guest Services, Chaplains, 
+Security, Communications, Social Workers, Mental and Behavioral Health, Clinical team representative, and other non-
+clinical support services volunteers as needed. 
+ 
+Family Staging Area Recommendations 
+ 
+Family/Guests/Visitors will be greeted at main entrance to hospital and directed to staging area outside HVI auditorium. 
+ 
+Makeshift Intake information area will be established at main front door. 
+ 
+Guest Services desk in HVI lobby 1st floor will be utilized as staging area. 
+ 
+Team Members Needed to Staff Space 
+• Assess team members and determine location.   
+• Determine demographics of victims/families to assist with appropriate resources i.e. is an interpreter needed? 
+• 1 Family Care Director (Main Facilitator): Patient Experience Lead  9 
+o Assigns responsibilities to team members reporting for duty 
+o Provides updates to families every 30 minutes 
+o Establish liaisons to work with the families during their care 
+• 1 Intake Coordinator located at the front door  
+o Collect preliminary information required including name of visitor, contact information, missing or 
+injured loved one’s name, additional information pertinent to the current situation    
+• 1 clinical staff member to assist with medical needs (Nurse/Paramedic) 
+• 1 Social Services Unit Leader 
+o Ensures that social services/counseling services is being provided to patient’s families 
+• 1 Support Services Unit Leader 
+o Assigns team members to assist with donations, volunteers, and VIPs. 
+• 2 Spiritual Care/ Patient Family Counseling team members  
+o Identify small location within the space for prayer/meditation 
+• 2 Care Coordination representatives (Clinical Social Worker and/or Mental Health Therapist) 
+• 1 security officer at the door 
+• 1 Interpreter (additional may be needed based on the specifics at incident site) Interpreter on Wheels 
+• 4 guest services team members  
+o 2 runners 
+o 1 supplies and room maintenance 
+o 1 scribe (maintain a timeline of the events in the room, collect critical information from team members 
+including whether pictures of loved one(s) have been submitted, what updates they have already received, 
+a list of visitors for the patient for later use ) 
+• 1 Family Reunification Unit Leader 
+o Collaborates efforts to ensure that families are being reunited with their loved ones 
+o Communicator with families and friends 
+• 1 Travel Consultant  
+o Assist families and friends get from point A to B (i.e., airport to the hospital and back) 
+Outside stakeholders may be needed to assist with these efforts.  Examples are as follows, American Red Cross, 
+Department of Health, law enforcement, fire rescue, and community representatives Chamber of Commerce 
+Communications team to help display necessary communications on digital board or with signage as needed.  Ex. Please 
+have some form of state identification or a valid driver’s license ready to show Family Care response team.  
+ 
+All guests will be asked for state issued identification as well as  
+• Name  
+• Best Contact Phone Number 
+• Address 
+• Name of Family Member They are Looking For 
+• Family member description 
+• Any identifiable marks on family member (birth marks, tattoos) 
+• Designated Family Contact Name 
+• Family Contact Phone number 
+ 
+All visitors/family will be issued a distinct visitor badge to be worn at all times on upper left chest. (FAST PASS) 
+ 
+Family Care Response team shall make copies of ID’s and keep in Family name files at staging area.  Need access to 
+scanner and printer.  10 
+(Work with IC to request Federal Government waiver on HIPPA) 
+ 
+PxP Lead with aid of communications team to establish secure email families can send photos to to help aid in 
+identification of victims. 
+Connect@fmolhs.org  
+ 
+PxP Lead to stay in communication with IC relaying number of visitors, information requested, and support needed.  PxP 
+Lead to exchange cell phone number with IC.  
+ 
+Dietary will be contacted by PxP Lead to bring necessary nourishment, water, coffee. 
+ 
+Family Care Response team to locate and provide adequate phone chargers to families. 
+ 
+Medical care team to communicate with Family Care Response team and designated lead via Mass Casualty Phone line 
+provided by IT team and held at GS staging area. 
+ 
+HVI Classrooms to be utilized as private conference rooms as needed.  HVI Lecture hall to be utilized as needed for mass 
+announcements and communications. 
+Family Support & Donation Support Structure 
+ 
+ 
+  11 
+Supplies Needed 
+• Have the following supplies immediately available: 
+o Generic OLOLRMC email address for family members to submit photos:  connect@fmolhs.org 
+o Preprinted badges (Fastpass) 
+o Maps 
+o 6 Vests to assist in identifying team members 
+o Laptop or Desktop 
+▪ MCI Intake Coordinator 
+▪ PowerPoint presentation 
+o Monitor for PowerPoint presentation  
+o Phone list of resources/team members/transportation 
+o Additional Phone Lines & Phones 
+o Two to three scanners and printers? 
+o Additional Electrical outlets for charging purposes 
+o Phone chargers (move chargers down from waiting rooms) 
+o Books/coloring books/crossword puzzles, etc. 
+o Hospitality resources (lodging, restaurants, shopping, etc.) 
+o Food and beverage for family members and friends. 
+o MCI Kit with; stationary, maps of local area, Kleenex, clipboard, pre-printed hospital passes, and extra 
+cell phone chargers 
+Locating Families  
+• Number tables and keep a master list of family members located at each table 
+• One entrance and one exit 
+• Identify an internal space that allows all family members to stay onsite for as long as possible. If an offsite 
+location is necessary, identify a space that is large enough to comfortably accommodate all family members and 
+friends 
+• Use of dedicated email address to gather information from family members pertaining to possible patients in the 
+hospital from the incident  (connect@fmolhs.org) 
+o This can include photos, name, date of birth, physical descriptors 
+ 
+Insert MAP of HVI and Table set up 
+ 
+Informing Families 
+• Create an information sheet that can be given to families when they arrive to assist with commonly asked 
+questions/share helpful information which includes: 
+o Place cell phones on silent 
+o How to obtain a phone charger 
+o Social Media tips 
+o Connect@fmolhs.org email address to send pictures of family members 
+Have a PowerPoint presentation available containing OLOL site specific information provided on the information sheet 
+on large projector screen visible to all in room 
+• Keep television on news channel 
+ 
+ 
+Law Enforcement Handoff Recommendations  12 
+• Identify a law enforcement liaison (possibly an administrator) who will focus on law enforcement updates and 
+planning for next steps  
+• Restrict access to the area where death notifications are occurring 
+• If multiple families need to be notified about the status of their loved ones. Call all families out of the room at the 
+same time and then separate for updates.    
+• Identify an internal space that allows all family members to stay onsite for as long as possible. If an offsite 
+location is necessary identify a space that is large enough to comfortably accommodate all family members and 
+friends   
+ 
+Staffing Recommendations 
+ 
+Day 1 – First Shift – Group A (12 Hours) 
+Day 2 – Second Shift – Group B (12 Hours) – pull from offsite and other facilities 
+Days 3 through 10 –  Group A and B Days 1 through 5 
+    Group C and D Days 6 through 7 
+ Group A – Days 1-5 
+ Group B – Nights 1-5 
+ Group C – Days 6/7 – (Weekend) 
+ Group D – Nights 6/7 – (Weekend) 
+Incorporate a shift huddle with update and hand off. 
+Patient Liaison – Day 1-9 
+ - 4 patients max per liaison 
+ - 1 Care Coordinator per 2 liaisons (care coordination gets 8 patients, patient liaison 4 patients) 
+ - Victim spread sheet with all information – location, “Doe”, needs, media release, visits – updated daily 
+ - Resource sheet updated daily with consistent information 
+ - Goal is to completely transition to care coordination by day 10 
+Note:  Annual Crisis training/education for all leaders and teams designated above.  As well as ongoing counseling for 
+patient liaisons. 
+Front Desk – 2-3 Guest Services Reps at each site. 
+ 
+Activation Process of the Family Center for No-Notice Incidents 
+The following outlines a basic process for the establishment of a family center within the hospital: 
+• Incident occurs in the community. 
+• Families and friends arrive at the hospital. 
+• Activate family center (team and room). 
+• Security stops media from entering the hospital and family center. 
+• Checkpoint established to vet family/friends (ID check & Badging). 
+• Welcome area established at the front of the family center. 
+• Provide regular updates (every 30/60 minutes). 
+• Allow them to see their loved ones once confirmed (Family/friends escorted to patients room.) 
+VIP Visits 
+• Identify Patient Experience team member to do introductions:  
+o Be a support 
+o Consent approvals  
+• Media should have a liaison(communications team) that works closely with Patient Experience Team 
+• Determine VIP Tiers (team member/patient) whether or not the executive leadership team needs to be involved 
+• Use Proactive approach to who could come and days that would be convenient  13 
+Incident On-set (Beginning of the Incident) 
+• Back door approach/ parking plan/valet/media/security 
+• Isolate families/ private area for them. 
+o Have proxy provide contact list/ determine the number of immediate family members able to visit. 
+• All rooms with MCI patients should be run like an ICU, including being escorted to patient room.  
+• Tighter security when guest try to visit patient e.g. 
+o Name? 
+o Location? 
+o How are you related? 
+• Letter of explanation and expectation given (different translations needed)  
+o PowerPoint “our goal is to…” social media/privacy tips/ explain the why if asked 
+• If family/ patient wish to meet with the media it must be coordinated through OLOLRMC Communications.  
+• Fast Pass/ log and sign in at the designated entrance. 
+• When identified separate them by acuity/different needs 
+• Strategic with VIP visits based on timing and the patent’s needs.  
+ 
+Donations (Food, Gifts, Service & Monetary) Recommendations 
+In the days that followed the Pulse nightclub shooting on June 12, 2016, Orlando Health received hundreds of inquiries from 
+individuals and groups around the country that wanted to offer help. Many offered to send care packages, arrange for catered 
+meals, or send monetary donations to assist the families affected. Hundreds more sent cards and letters for the victims, their 
+family members, and Orlando Health team members. Through a combined effort, a procedure was quickly put into action for the 
+acceptance and distributing of these donations. During the debrief sessions, it was agreed upon that a more efficient process 
+should be created for use in the event that such an incident should ever occur again.  
+Donations: 
+• Banners 
+• Cards and inspirational gifts 
+• Food 
+• Water 
+• Services (clinical, therapy, salon, travel, accommodations and so on) 
+• Gift Cards  
+• Celebrity/ Government visits 
+Guidelines: 
+1. Establish a list of items needed and appropriate and what is not appropriate for the hospital.  
+2. Set up number and an email address for people to reach out and get answers of what we are truly in need of. 
+3. Prepare and automatic response listing the appropriate items needed and how people can help. 
+4. Provide a script and train operators, patient experience staff and volunteers how to answer the phone and respond 
+to the donations. 
+5. Provide a list of acceptable charities to donate to in the community. 
+6. Establish a fund within the foundation to support efforts around the incident.  
+7. Comprehensive tracking sheets- include quantity, contact person, phone number, address and description of items. 
+a. Tracking/ Spreadsheet for donations that come in through the departments and were not seen by Volunteer 
+Services or Community Relations 
+8. Work closely with security to determine the safety of all donations. 
+9. Establish a protocol for celebrity and government visits and assign a team member to each for visiting. 
+ 
+ 
+• Preparation for incident  14 
+o Designate a generic e-mail address and phone number in in partnership with the Foundation for fielding all 
+general donation inquiries in the midst of a crisis. A point-person should be selected who can be contacted on 
+the day of the incident and can put the plan into effect.  Guest and/or Volunteer Services Manager at the 
+hospital site. 
+o Designate liaison in the Foundation to receive inquiries regarding all monetary donations. 
+o Designate two liaisons from the Volunteer Services team who will direct all in-kind donations. If Foundation 
+representative is not available, utilize the current Gift-In-Kind Donation Form. 
+o Designate a liaison within the PxP department to assist with communications. 
+o Designate representatives from Food & Nutrition and Conference Services teams to be on-call in the event of 
+in-kind donations of food. 
+▪ If incident was a terrorist incident or other major criminal act do not accept food donations due to fears 
+of contamination/poisoning. 
+▪ Work with PxP Department to establish a list of the reputable restaurants that want to donate.  Once a 
+need arises PxP Department should work with the restaurant to obtain food donations.  This includes an 
+OLOLRMC team member going to the restaurant to pick up and deliver the food donations. 
+o Have an easy-to-access web page prepared with a list of all of the ways to help, to which all inquiries can be 
+directed. This page will be made live in the event of such a crisis. It will also include the contact information of 
+the liaisons mentioned above. Work in partnership with the Foundation to have this site created in a timely 
+manner. 
+▪ Share site on social media, and OLOLRMC website. 
+▪ Internal Communications should notify all team members via e-mail. 
+▪ Ensure the telecommunications team members are informed so that they can direct callers who contact 
+main OLOLRMC number. 
+• After incident has occurred 
+o Work in partnership with the Foundation to have the crisis website activated. 
+o Track and obtain list of departments involved in handling the crisis to use for distribution of donations. 
+o Brief Guest Services team on the procedure for donations as they are dropped off at the hospital. Contact the 
+appropriate Volunteer Services, Foundation and PxP reprehensive/liaison to assist.  
+o In-kind donations should be divided into two categories: donations for team members & donations for victims 
+and family members. 
+▪ Donations for Team Members 
+• Volunteer Services liaison should distribute the donations appropriately among departments 
+involved. 
+•  Donations should be tracked on a shared document so that the Foundation can receipt and 
+steward appropriately.  
+▪ Donations for Victims and Family Members 
+• Volunteer Services liaison should create a schedule to monitor the delivery of food donations 
+and to provide meal coverage for the families. The Food & Nutrition and Plant Services/ EVS 
+representatives should be involved with designating a space for serving the food and cleaning 
+the space in between deliveries. 
+• Cards and letters directed to the victims and their families should be screened for questionable 
+or discriminatory language prior to being distributed. Letters should not be in sealed envelopes, 
+Volunteers can be utilized for this task. 
+• In partnership with the foundation donations should be tracked on a shared document so that 
+the Foundation can receipt and steward appropriately. 
+ 
+Do’s & Don’ts for Donations (This list should be posted on the crisis webpage described above)  15 
+ 
+Accepted Donations 
+ 
+Unaccepted Donations 
+• Individually packaged food items (bags 
+of chips, granola bars, juice boxes, etc.) 
+[check dates] 
+• Generic Visa & MasterCard gift cards 
+• Gas gift cards 
+• Flowers [check patients’ allergies/ non 
+for ICU] 
+• Overnight kits for families 
+• Transportation donations 
+• Hotel lodgings 
+• Clothing items (Donation Closet) 
+• Homemade food dishes 
+• Monetary gifts (please direct to Our Lady of the 
+Lake Foundation) 
+• Unscheduled visits from chaplains, clinical staff, pet 
+therapy teams, etc. not associated with OLOLRMC. 
+• Blood donations from within a hospital facility.  
+Who? should be contacted for blood donations. 
+ 
+OLOLRMC is not in the business of large donations management operations due to the many difficulties that could be faced in 
+receiving, storing, securing, sorting, transporting, accounting for, and distributing them. 
+ 
+ 
+Services from Unaffiliated Volunteers: 
+ 
+Unaffiliated volunteers, spontaneous volunteers, are individuals who offer to help or self-deploy to assist in emergency 
+situations without fully coordinating their activities.  They are considered unaffiliated because they are not part of a disaster 
+relief organization or at least one that OLOLRMC regularly works with.  Although unaffiliated volunteers can be significant 
+resources, they do not have a pre-established relationship with our organization.  OLOLRMC would have to verify their training 
+or credentials and match them with the appropriate service area if they were going to use them.  Unaffiliated volunteers should 
+not be allowed into patient care areas or the family center without proper vetting and credentialing beforehand. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OLOLRMC VIP Checklist  16 
+This checklist can be used whenever OLOLRMC receives a VIP as a patient to include law enforcement officers. 
+# Action Item Complete 
+1 Confirm notification that a VIP is coming to hospital  
+2 Once confirmed ensure the proper individuals are notified: 
+ 
+Security through either a Security Leader or by dialing ??? on a hospital phone. 
+- Security will send out a PG-S notification 
+ 
+Administrative Supervisor 
+ 
+An ED Leader (Charge Nurse/Assistant Nurse Manager/ Nurse Operations Manager) OR  
+Unit Leader if patient is going somewhere else  
+ 
+The hospital COO and President 
+ 
+Media Relations (On-Call Representative) 
+ 
+Corporate Emergency Preparedness if additional support is needed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Action Items To Be Completed 
+ 
+# Action Item Complet
+e 
+1 Contact Valet Services Manager to identify location for additional vehicles to be parked 
+such as law enforcement, fire/rescue, family, friends, co-workers 
+- If patient(s) is arriving into the hospital via the ED the ED Valet Overflow lot can be 
+used 
+-  
+ 
+2 Contact Guest Services to ensure they do not allow visitors to access the hospital via 
+routes that are not for normal visitor traffic such as staff elevators and surgical hallways 
+ 
+3 Contact Conference Services to utilize conference rooms to accommodate all of the law 
+enforcement, fire/rescue, family, friends, co-workers of the patient 
+- If patient is in the ED-Trauma Room consider one of the multipurpose rooms 
+- If patient is in the Trauma ICU consider using NT 2 & 4 (if a large group of people 
+is expected) 
+ 
+ 
+4 Contact Food and Nutrition to have food and beverages brought to the conference room 
+identified by Conference Services (i.e. water, coffee, soft drinks, snacks, etc.) 
+ 
+5 Contact the Administrative Supervisor to ensure the patient is under an alias and NP 
+status 
+ 
+6 Ensure Media Relations has a media staging area identified in case the media show up at   17 
+the hospital 
+- Check with the authorities/family to see if they want to conduct a press briefing 
+7 Advise department leadership where patient is/goes that someone will be with the patient 
+to protect them and their family or ask them questions for investigative purposes. 
+ 
+8 Work with everyone that is at the hospital for the patient that is not a team member to 
+have them keep the hallways free and clear for other patients and families to move about 
+the area 
+ 
+9 Security will work with the authorities to see if a lock down is necessary or if other 
+assistance is needed + account for patients belongings 
+ 
+10 If needed, work with Internal Communications/Compliance to send messages to ensure 
+team members are not trying to access the patient’s records 
+ 
+11 See if hospital President wants to visit the authorities/family that are at the hospital  
+12 If family is from out of town notify them about the Hubbard House which is more 
+appropriate for sleeping arrangements 
+ 
+13 Have Guest Service put together a “busy bag” for children in the family to keep them 
+busy 
+ 
+14 Ensure no one is taking pictures inside the hospital   
+ 

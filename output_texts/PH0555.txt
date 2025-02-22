@@ -1,0 +1,267 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Hazardous Drug Spills Policy Reference #: PH0555 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures for safely managing hazardous drug spills and cleanup in 
+areas where Hazardous Drugs (HDs) are handled within FMOLHS Baton Rouge Market Pharmacies.  
+1.2. A HD is considered spilled any time the HD is not contained in its intended container (including 
+vial, bottle, intravenous bag, syringe, and other containers). HD spills can occur in any part of the 
+lifecycle of a HD throughout the organization from receipt, storage, compounding, transport, and 
+administration.  
+1.3. HD spills provide a source of HD contamination to patients, personnel, and the healthcare 
+environment. To reduce the risk of exposure to persons and the environment, swift recognition 
+of a HD spill, notification to proper personnel, and all spill cleanup p rocedures must be followed 
+to eliminate HD residue from the spill location.  
+1.4. This policy refers to HD spill management of all HD active pharmaceutical ingredients (API), 
+antineoplastic HDs requiring manipulation (beyond counting or repackaging), and other non -
+antineoplastic and reproductive risk only HD dosage forms for which an Assessment of Risk (AoR) 
+has not been performed. For HDs with an AoR, refer to AoR for spill management.  
+2. Policy  
+2.1 All local, state, and federal regulations pertaining to the disposal of HD waste are followed.  
+2.2 Only personnel who have knowledge, received training, demonstrate competency in HD spill 
+management, and are wearing appropriate personal protective equipment (PPE) respond to 
+cleaning a HD spill. Training is completed before being allowed to clean a HD spill independently 
+and annually. Training is documented in SoleSource® Simplifi 797.  
+2.3 PPE contained in the spill kits and worn when containing and cleaning a HD spill is approved by 
+the DP, fit tested (if applicable), and donned and doffed per policy requirements in HD PPE policy.  
+2.4 HD spill kits are located in all areas that HDs are routinely handled within FMOLHS Baton Rouge 
+Market Pharmacies. The following locations are where HD spill kits are located: HD receiving, 
+storage and compounding areas, and all locations where HDs are administered. 2.5 HD spill kits are commercially available with added facility specific items and each kit is able to 
+absorb approximately 1000 mL of a HD spill or more. 
+2.6 Spill kit expiration dates are checked monthly. 
+2.7 HD spill kits may contain, but are not limited to: 
+• Sufficient supplies to absorb a spill of about 1000 mL (or more if volume of 1 IV bag is routinely 
+greater) 
+• Signs denoting a HD spill is present and access is restricted 
+• Multiple sizes of ASTM D6978 tested disposable gloves (medium or large size) 
+o 1 outer pair (may be thicker utility gloves) 
+o 1 inner pair 
+• Disposable nonpermeable gown or coverall 
+• 2 pairs of disposable nonpermeable shoe covers 
+• Face shield 
+• Chemical splash goggles to be worn with face shield (for full range of splash protection) 
+• NIOSH-approved respirators 
+o Respirators may only be used by personnel who have been trained and fit -tested to the 
+appropriate respirator and use is dependent on spill size and type 
+• Absorbent, plastic -backed sheets and spill control pillows (pillows are made of absorbent 
+material) 
+• Disposable towels 
+• Sealable, thick plastic hazardous waste disposable bags (prelabeled with appropriate warning 
+label) 
+• One disposable scoop for collecting glass fragments 
+• One puncture-resistant container for glass fragments 
+• Required agents for deactivation, decontamination, cleaning, and disinfecting 
+2.8 Contaminated personal clothing is disposed of as HD waste. Hospital owned/laundered scrubs 
+are disposed of as HD waste and are not placed into the hospital laundry system.  
+ 
+3. Roles & Responsibilities 
+3.1 The Designated Person (DP): 
+• Ensures personnel on the HD spill response team are trained, demonstrate competency, and 
+maintain competency annually. 
+• Ensures all HD spills have a corresponding fully completed HD Spill Report Form   
+3.2 HD Spill Response Personnel: 
+• Undergo training and demonstrate competency initially and at least once annually in skills 
+and competencies related to all the procedures required to deactivate and clean a HD spill. 
+• Adhere to all HD spill procedures and sequence of procedures based on the location of the 
+HD spill, HDs that have spilled, and size of the HD spill. 
+• Complete timely documentation of the HD Spill Report Form and report HD exposure to 
+Employee Health if applicable.  
+• Reports all HD spills to the DP and enters safety event into RLDatix®. 
+3.3 Other Pharmacy Personnel: • Acknowledge initially and at least once annually receipt and understanding of  procedures 
+required to recognize a HD spill, personnel to alert, and initial steps that must be taken.  
+4.  Procedures 
+4.1 Train HD responders with didactic and hands -on training demonstrations on the following HD 
+spill management activities: 
+• HDs handled at the facility and the risk of volatility associated with HDs  
+• Determining size of the HD spill.  
+o Small spill: < 5mL or 5 grams 
+o Large spill: ≥ 5mL or 5 grams 
+o Commercial spill kits contain supplies to handle a HD spill of 1000 mL or less. Two spill kits 
+are required if spill > 1000 mL. 
+o HD spills greater than 2 liters may require assistance from outside the organization.  
+• Locations of all spill kits 
+• Contents of spill kits 
+• All PPE requirements for cleaning a HD spill, including knowing their personal glove size and 
+fit tested respirator size (if applicable) 
+• Respirator requirements: N95 vs fit tested full-facepiece, chemical cartridge-type respirator 
+or Powered Air Purifying Respirator (PAPR) 
+• Steps required to clean HD spill based on size and location 
+• Required agents for deactivation, decontamination, cleaning, and disinfecting (if spill in a 
+controlled area) 
+4.2 Respirator requirements for HD spill cleanup: 
+• Fit tested N95 respirators do not protect against HD gases, vapors, and provide little 
+protection against direct liquid splashes. A fit tested N95 respirator is only worn to clean an 
+HD spill when HD is not volatile at room temperature, the HD spilled is n ot powder, there is 
+no risk of HD splashing, and the spill is ≤ 1000 mL.  
+• A chemical cartridge-type respirator that is fit tested is worn when there is a risk of a volatile 
+HD respiratory exposure, HD powder, a risk of splashing, or spill > 1000 mL.  
+4.3 Train non-HD spill response personnel, who handle or work in the vicinity of HDs, on HD spill 
+recognition and proper actions when a HD spill has occurred.  
+4.4 Non-HD spill response training on HD spills include the following steps for proper action when a 
+HD spill has occurred: 
+• Determine if HD exposure has occurred and if required, seek treatment 
+• Do not touch or walk in the spill 
+• Contain or cover spill immediately, if possible 
+• Remove themselves and others from the immediate area 
+• Close door, if possible 
+• Post sign that states “Hazardous Drug Spill: Authorized Personnel Only”  
+• Call HD spill response trained personnel 
+• Document on the HD Spill Report Form  
+4.5 Spill Cleanup Procedure outside a Containment Primary Engineering Control (CPEC):  
+• Post sign to limit access to spill area (if not already performed) • Determine the drug and amount (mL or mg) of drug spilled 
+• Obtain and open spill kit. Ensure correct respirator, correct size PPE, decontamination agents, 
+cleaning agents, and other supplies are present. Obtain any missing items.   
+• Don PPE: back closing chemo gown, double shoe covers, and double HD gloves with the outer 
+glove being the thick gloves contained in the spill kit. 
+• Don fit-tested chemical cartridge-type respirator before entering the spill area. 
+• Contain spill utilizing spill kit from area of least contamination to most contamination. 
+o Place absorbent disposable towels on top of liquid spill, if not already in place.   
+o Place absorbent disposable pads or towels that have been wetted with water (do not 
+spray) on top of powder spill.   
+o Using the absorbent towels, contain the spill and carefully place contaminated towels in 
+HD waste bag.  
+o Carefully remove broken glass with plastic push tool and dustpan then place into 
+puncture-resistant container. Do not use any type of brush.  
+o Completely remove and place all contaminated material in disposable bags. 
+o Place container with the glass and the wipes with the liquid or powdered drug in a black 
+RCRA container. Place all other waste is trace HD waste containers.  
+• Clean the spill area with decontamination agent (followed by neutralizer if applicable). Allow 
+area to dry.  
+• Clean the area with designated cleaning agent. 
+• Disinfect the spill area if spill occurred in a controlled environment used for sterile 
+compounding. 
+• Place all materials used for decontamination and cleanup into disposable bags. Seal bags and 
+place in the appropriate final container for disposal as hazardous waste. 
+• Remove outer gloves and place into trace HD waste container. Carefully doff remaining PPE 
+with the inner gloves. Place all disposable PPE in trace HD waste container.  
+• Decontaminate reusable PPE.  
+• Remove inner gloves and wash hands thoroughly with soap and water. 
+4.6 Spill Cleanup Procedure inside a Containment Primary Engineering Control (C -PEC) by 
+compounder: 
+• Compounding personnel stop compounding and notify any other personnel working in the 
+area to exit and post sign to limit access to spill area. Ask exiting personnel to obtain help if 
+necessary.  
+• Cover spill with chemo prep pad(s). 
+• Don additional garb from spill kit if necessary. 
+• Do not turn off the C-PEC.  
+• If the spill has penetrated the deck and the front or sash of the BSC/CACI needs to be opened, 
+SRT personnel don fit-tested chemical cartridge-type respirator before opening front or sash, 
+personnel without proper respiratory and eye protection leave spill area.  
+• The C-PEC is not opened until the spill inside has been contained as much as possible.  
+• Wipe items required for the cleaning spill with sterile 70% Isopropyl Alcohol (sIPA) and using 
+appropriate technique, transfer items into the PEC. • For a powder spill, wet sterile absorbent towels with sterile water and place wetted towels 
+on top of powder.  
+• Place HD saturated wipes into hazardous waste bags from the spill kit. 
+• Using a push scoop, clean up any broken glass fragments and place into a puncture-resistant 
+container. Do not use a brush.  
+• Clean the spill area with sterile absorbent towels wetted with sterile decontamination agent 
+(followed by neutralizer if applicable). Allow area to dry.  
+• If the HD spilled into the intake perforations of the deck of the C-PEC, open C-PEC and follow 
+the same steps to decontaminate under the surface of the compounding deck. 
+• If the C-PEC is a CACI, change the sleeves if they have come into contact with the HD spill.  
+• Once the spill is contained and decontaminated, all interior surfaces of the C-PEC must be: 
+o Surface decontaminated 
+o Cleaned and disinfected with EPA registered one-step disinfectant cleaner and allowed to 
+dwell for appropriate contact time 
+o Wiped with sIPA  
+• All wipes used for decontamination, broken glass, and the spill itself are disposed of in black 
+RCRA containers. All other wipers used to clean spill area are disposed into trace HD waste 
+containers. 
+• If the HEPA filter has been splashed with HD liquid or powdered drug contaminates any 
+portion of the HEPA filter itself, the C-PEC is taken out of service.  
+o Place sign on the C-PEC stating, “Do Not Use – Contaminated with Hazardous Drug”.   
+o C-PEC is not placed back into service until it can be serviced by a certified professional, 
+replacing the HEPA filter if required.  
+4.7 Treatment of personnel with direct eye or skin exposure to HDs: 
+• Personnel call for help if needed. 
+• Contaminated clothing is removed immediately and disposed in trace HD waste receptacle. 
+• The affected eye is flushed with water for at least 15 minutes using and eye wash station 
+• Wash affected skin with soap and water and rinse thoroughly. 
+• Refer to drug-specific Safety Data Sheet (SDS) for additional first-aid measures 
+• The exposure is documented on the HD Spill Report Form and a safety event is entered into 
+RLDatix®.  
+• Exposure is reported to Employee Health.  
+4.8 Documentation 
+• All HD spills are recorded on the HD Spill Report Form: Addendum 1.  
+• HD Spill Report form is retained for 3 years. 
+• HD spill is reported to DP and a safety event is entered into RLDatix®. 
+4.9 Designated person conducts HD spill simulations 
+• HD spill simulations ensure all non-HD spill response personnel perform required procedures 
+for recognition of a HD spill initial steps to take when HD spill occurs. 
+• HD spill simulations ensure all HD spill response personnel members perform required 
+procedures for containing, deactivating, and cleaning a HD spill based on the size of the HD 
+spill and location of the HD spill.  
+ 5. Definitions 
+5.1 Active Pharmaceutical Ingredients (API): Any substance or mixture of substances intended to be 
+used in the compounding of a drug preparation, thereby becoming the active ingredient in that 
+preparation and furnishing pharmacological activity or other direct effect in the diagnoses, cure, 
+mitigation, treatment, or prevention of disease in humans and animals or affecting the structure 
+and function of the body. 
+5.2 Assessment of Risk (AoR) : Evaluation of risk to determine alternative containment strategies 
+and/or work practices. 
+5.3 Powered Air Purifying Respirator (PAPR):  Respirators that protect the user by filtering out 
+contaminants in the air and use a battery -operated blower to provide the user with clean air 
+through a tight-fitting respirator, a loose-fitting hood, or a helmet.  
+5.4 Safety Data Sheet (SDS): An informational document that provides written or printed material 
+concerning a hazardous chemical. The SDS is prepared in accordance with the Hazard 
+Communication Standard (HCS). [Previously known as a Material Safety Data Sheet (MSDS)]. 
+5.5 Trace HD Waste:  Materials that have come into contact with or may contain only a residual 
+amount of HD. Usually less than 3% of HD material by weight.  
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc. <795> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.3 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings. 2019 version.  
+6.4 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 
+6.5 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22. 
+7. Approval and Review Summary 
+ 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2022.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+7.3 Reviewed with no changes 11/2024. 
+ 
+  Addendum 1: 
+FMOLHS Baton Rouge Market Pharmacies 
+Hazardous Drug Spill Report Form 
+Spill Description 
+Date/Time of Spill: Location of Spill: 
+Name of Drug(s) Spilled:  Size of Container: 
+Type of Spill:  □ powder or □ liquid → □ concentrated drug or □ diluted drug 
+Approximate liquid volume: □ N/A □ <5 mL □ 5 to <10 mL □ 10 to 30 mL □ 31 to 50 mL □ >50 mL □ > 2000 mL 
+Activity Performed when 
+the HD Spill Occurred:  □ Receiving inventory □ Stocking □ Inventory transport □ Staging prior to compounding □ 
+Compounding □ Labeling □ Product transport □ Administration  
+□ Other (describe): 
+ 
+ 
+Name of personnel manipulating drug during spill:  
+Explain the cause of HD spill: 
+Was personnel manipulating drug during the spill garbed with PPE per policy? □ Yes □ No (describe): 
+Did personnel take action to contain spill/provide safety? □ Yes □ No (if no, describe why not): 
+ 
+Actions Taken: □ Covered spill □ Cleared area □ Secured area □ Placed sign □ Alerted HD SRT 
+Spill Cleanup  
+Personnel responsible for cleanup: Appropriate PPE: □ Yes □ No 
+Check all cleanup actions taken: □ Gross spill cleanup □ Wiped area with ___sterile water or ___tap water   
+□ Decontaminated area with: 
+□ Cleaned area with: 
+□ Disinfected area with sIPA: 
+Actions Taken for Immediate Skin or Eye Contact  
+Were personnel DIRECTLY exposed to spilled HD? □ No □ Yes (describe)  
+Comments (describe actions taken if personnel were directly exposed to HD spill or describe further pertinent information):  
+Signature of Cleanup Personnel: Date: 
+Signature of DP: Date:   

@@ -1,0 +1,83 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  HIM 
+Our Lady of the Lake Regional Medical Center Chapter:  2 
+Subject:  Correction of Errors Section:  G 
+Date of Origination:  August 22, 1994 Supersedes: July, 1999 
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+April 30, 2018 
+July 2009, March 2015 
+March 1, 2003, April 2021 
+Serial Code:  HIMG05 
+  
+PURPOSE: 
+It is the purpose of this policy to define the correct procedure for correcting errors in the medical record. 
+ 
+POLICY: 
+It is the policy of the Health Information Management Department of Our Lady of the Lake Regional 
+Medical Center that errors may be corrected in the medical record using acceptable technique. 
+ 
+PROCEDURE: 
+ 
+A. DOCUMENTATION ERRORS (see also Org Clin/008 – Documentation of Omissions and 
+Errors) 
+ 
+1. Do not attempt to erase, do not use ink eradicators (white out/liquid paper) or tape to cover and 
+error on paper documents. 
+ 
+2. Draw a single line with black ink through one word or single line errors; write the word “void” 
+or “ in error” above the error and initial.  The full signature of the person initiating the error entry 
+must appear in the chart for that day, otherwise, a full signature is required for the error entry. 
+ 
+3. Draw a single diagonal line with black ink through a multiple line entry, write the work “void” or 
+“in error” at the bottom of the entry and initial.  The full signature of the person initiating the 
+error entry must appear in the chart for that day, otherwise, a full signature is required for the 
+error entry. 
+ 
+ 
+B. ELECTRONIC PATIENT RECORD DOCUMENTATION ERRORS 
+ 
+1. Documentation errors made in the electronic record during the patient’s stay are corrected using 
+the “Send to Document Corrections” process (See Hyland Onbase Document Corrections Guide 
+and EPIC Chart Correction Guidelines). 
+  2 
+2. Corrections and additions are added to the electronic record using the “Epic Help Desk” button 
+in EPIC.  The author/owner of the document is tasked with making the correction once notified 
+of the error.  It is essential that the error be routed back to the appropriate person through the 
+established chart correction process.   
+ 
+3. Documentation errors and omissions/corrections that are noted more than 48 hours after the time 
+the information was collected, but prior to discharge, require notification and approval by Risk 
+Management and Health Information Management supervision before the correction is made in 
+the legal medical record.  Staff must notify and obtain approval by their department management 
+in order to initiate the correction process. 
+ 
+4. Documentation errors and omissions noted in the hand-written or electronic record after the 
+patient’s discharge will require approval by HIM Supervision and approval by Risk Management 
+Director. 
+ 
+ 
+C. ELECTRONIC ORDER ENTRY 
+ 
+1. If an error is noted prior to the order being carried out, the incorrect order should be voided. 
+ 
+2. If an error is noted after an order has been carried out: 
+ 
+For single-event orders that have been carried out, the order is completed and no action may 
+be taken to change that order.  The affected department should be notified to correct charges 
+and documentation. 
+ 
+ For ongoing active orders (i.e. with an ongoing frequency), the order should be voided.  The 
+“void” action will remove any uncharted prior or future tasks related to this order.  The 
+affected department shall be notified to correct charges and documentation. 
+ 
+ 
+ 
+ 
+__________________________________   __________________________ 
+Ramona Fryer       Date 
+VP of Revenue 
+ 
+ 

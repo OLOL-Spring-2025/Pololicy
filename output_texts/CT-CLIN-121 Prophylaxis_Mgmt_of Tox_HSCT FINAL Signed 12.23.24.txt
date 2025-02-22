@@ -1,0 +1,542 @@
+ 
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 1 of 13 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+SOP Manual: Blood Cancer and Cellular 
+Therapy Program 
+Section: Clinical 
+Title:  Prophylaxis and Management of Toxicities of Hematopoietic Cell 
+Transplantation (HSCT) and Other Therapies 
+Date of Origination: 12/4/2024 Policy Reference #: CT- CLIN-121  
+Revision Date:  Effective Date: 01/06/2025 
+ 
+SCOPE:  
+This policy/procedure applies to the Blood Cancer and Cellular Therapy Program (BCCT) 
+located at Our Lady of the Lake Regional Medical (OLOL). 
+PURPOSE:   
+To describe the practice for prevention and management of complications following 
+hematopoietic stem cell transplantation (HSCT). Appropriate prophylaxis/treatment is mandatory 
+in order to maximize the patient’s chance of survival, quality of life and level of function.  
+ 
+Administration of preparative regimens and cellular therapy products is known to be associated 
+with diverse and potentially serious patient complications. All transplant patients shall be 
+managed according to medical judgment and institutional practice guidelines.  
+ 
+DEFINITIONS:  
+1. High risk: leukemia, recent allogeneic transplant, prior history of mold infection, neutropenia lasting 
+>14 days, receiving ≥3 days of steroids, development of hemophagocytic lymphohistiocytosis (HLH), 
+significant GVHD.  
+2. A specific MD order shall be obtained for any blood cultures drawn from central line if peripheral 
+sticks are not successful.  
+3. Signs and symptoms of SOS may include changes in mental status, restlessness, significant weight 
+gain, increasing abdominal girth, appearance of jaundice, changes in color of urine, right upper 
+quadrant pain.  
+STANDARD OPERATING PROCEDURE: 
+A. The Clinical Program shall assure appropriate follow-up of recipients after administration of 
+preparative regimens and cellular therapy products, including, but not limited to, the 
+following:   
+1. Management of nausea, vomiting, pain, and other patient discomforts (i.e., Mucositis)   
+2. Monitoring of blood counts for anemia, neutropenia, and thrombocytopenia and 
+transfusion of blood products   
+3. Monitoring for infections and management of antimicrobials   
+4. Monitoring for graft failure and management of treatment    
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 2 of 13 
+ 
+5. Monitoring for hepatic sinusoidal obstruction syndrome (SOS), previously known as 
+veno-occlusive disease (VOD)  
+6. Monitoring for evidence of acute and chronic graft versus host disease (GVHD) using an 
+established staging and grading system. 
+B. Standardized (electronic or pre-printed) order sets addressing prevention and management of 
+anticipated symptoms, to include nausea, vomiting, and pain associated with administration 
+of preparative regimens, cellular therapy infusion and post-transplant recovery will be 
+utilized for all HSCT recipients.  
+C. Standardized order sets will include frequency of vital sign assessment and routine laboratory 
+sampling of peripheral blood counts and serum chemistries, criteria for blood product 
+transfusion, prophylactic anti-infective and antiemetic's, and management of febrile 
+neutropenia. The clinical care team to address individual patient considerations (e.g., known 
+drug allergies, clinical trial participation, etc.) may modify standardized order sets.  
+D. As required, the Our Lady of the Lake Regional Medical Center (OLOLRMC) Blood Cancer 
+and Cellular Therapy (BCCT) Clinical Program shall follow institutional standards of care, 
+policies, and procedures for rapid escalation of care, increased intensity of monitoring, and 
+relevant workup to address complications.  
+E. In the event of rapid escalation of care, increased intensity of monitoring, and/or relevant 
+workup to address complications, the clinical staff in charge at the bedside (or designee) shall 
+notify, as appropriate, the clinical staff, intensive care unit, emergency department, and/or 
+pharmacy in a timely manner.   
+PROCEDURE: 
+A. The clinical care team shall routinely monitor HSCT recipients during the peri- and post-
+transplant period to including but not limited to:   
+1. Vital sign assessment   
+2. Laboratory evaluation of peripheral blood counts and serum chemistries and   
+3. Regular physical examinations for signs and symptoms of infection, graft failure, 
+graft versus host disease (GVHD) or other complications.  
+4. Documented response to interventions in the appropriate location in the medical 
+record 
+B. Management of HSCT Patients for Antimicrobial Prophylaxis: 
+   
+ Prophylaxis Antimicrobial  Start Day  Stop Day  
+Bacterial  Levofloxacin 500 mg orally 
+(PO)/intravenously (IV) daily 
+(preferred)  
+Alternatives based on local resistance 
+patterns 
+ANC <500  ANC ≥1000   
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 3 of 13 
+ 
+Viral  Acyclovir 400 mg- 800 mg PO twice 
+daily (B.I.D.)   
+or Acyclovir 250 mg/m2IV B.I.D.  
+or Valacyclovir 500 mg PO B.I.D.  
+Day 1 following 
+HSCT   
+Administration  
+At least 1 
+year if CD4 
+count ≥200  
+Fungal  Low risk: Fluconazole 400 mg PO/IV 
+daily   
+High risk: Posaconazole tabs 300 mg 
+PO daily   
+or Voriconazole 200 mg PO BID or   
+Voriconazole 4 mg/kg IV B.I.D.  
+Micafungin 50-100 mg IV daily 
+if cannot tolerate   
+triazole antifungals  
+Day 1 following 
+HSCT   
+Administration or 
+when high risk 
+criteria met  
+ANC 
+≥1000  
+ 
+C. Management of Febrile Neutropenia 
+1. Orders for first documented fever when the absolute neutrophil count (ANC) of ≤500 
+cells/mm3:   
+a. A temperature of ≥38.0°C (100.4°F) then obtain the following diagnostic tests:   
+i. bacterial blood cultures x two (2) sets (peripheral, two separate sites)   
+ii. lactic acid   
+iii. urinalysis with culture (clean catch)   
+iv. chest x-ray, two (2) views (AP and lateral)   
+v. respiratory orders to be obtained if patient having respiratory symptoms, send 
+respiratory viral PCR panel (if not done in prior 7 days)   
+b. Start empiric antibiotics as indicated within 30-60 minutes (assuming normal 
+renal function, otherwise adjust as required)   
+2. Persistent fever after 72 hours on antibiotics:   
+a. Attending provider to consult Infectious Disease to guide additional workup and 
+antimicrobial treatment.  
+D. Management of Sinusoidal obstruction syndrome (SOS), previously known as veno-
+occlusive disease (VOD):   
+1. Obtain abdominal ultrasound including duplex studies to rule out other hepatic 
+abnormalities.  
+2. Obtain and monitor daily liver function tests.  
+3. Fluid restrictions:   
+a. administration of any intravenous medications in minimal volume    
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 4 of 13 
+ 
+b. avoiding sodium   
+4. Administer diuretics as needed.  
+5. Maintain hematocrit ≥ 25%.  
+6. Provide analgesia as needed.  
+7. Modify GVHD prophylaxis regimen doses to keep in therapeutic range. 
+8. Obtain a Gastroenterology consult. 
+E. Management of Renal Dysfunction:   
+1. Adjust or discontinue nephrotoxic agents.  
+2. Obtain Nephrology consult.  
+F. Management of Oral Mucositis:   
+1. Prophylaxis:   
+a. Recipients who are undergoing a preparative regimen for stem cell transplant 
+which includes Total Body Irradiation should receive Palifermin according to 
+standards of practice.  
+2. Treatment:   
+a. Assess for HSV/Candida, if positive, then treat accordingly   
+b. Provide mouth care with Magic mouthwash.  
+c. Provide analgesia as needed.  
+d. Toothettes in lieu of tooth brushing 
+G. Management of Gastrointestinal Toxicity:   
+1. Evaluate for infection with stool culture.  
+a. If the patient is having frequent watery bowel movements order clostridium 
+difficile PCR testing.  
+b. If C. diff PCR negative, manage diarrhea with Imodium after each loose bowel 
+movement (maximum eight (8) tablets every 24 hours period).  
+2. Consider viral etiologies such as CMV   
+3. Consider noninfectious etiologies such as GVHD   
+H. Management of Clostridium Difficile:   
+a. Prophylaxis:   
+a. All patients scheduled for allogeneic transplantation shall receive prophylactic 
+oral vancomycin 125 mg PO BID starting on day of admission and continued 
+through day of discharge.  
+2. For any transplant recipient that tests positive for Clostridium Difficile PCR, treatment 
+shall be based on the severity and/or the recurrence of the infection and current treatment 
+guidelines.  
+I. Management of Hemorrhagic Cystitis:   
+1. Mesna - may be used at the discretion of the transplanting physician.  
+2. Evaluate for bacterial and/or viral infection: send urine culture; also send urine for BK 
+virus, CMV, and Adenovirus PCR.  
+3. Evaluation for noninfectious etiologies include Cyclophosphamide and previous pelvic 
+radiotherapy.  
+4. Monitor a daily platelet count and support with transfusions according to institutional 
+parameters.  
+5. Maintain IV fluid hydration.   
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 5 of 13 
+ 
+6. Pyridium and/or Oxybutynin may be ordered for symptomatic relief.  
+7. Consult Urology if unresponsive to supportive measures and/or clots with threatened 
+obstruction, for placement of 3-way foley catheter for continuous bladder irrigation 
+(CBI).  
+J. Management of Viral Infections:   
+1. Prophylaxis:   
+a. All patients scheduled for allogeneic transplantation shall receive recommended 
+therapy starting on Day -5 and continue until 1 year post transplant:   
+i. Acyclovir 400-800 mg PO twice daily (B.I.D.) or Acyclovir 250mg/m2 IV 
+B.I.D. (if unable to tolerate by mouth medication) OR   
+ii. Valacyclovir 500 mg PO B.I.D  
+iii.  Letermovir 480 mg PO/IV starting at D+7 until D+100 for CMV [R+] only for 
+allogeneic transplant patients.  
+b. All patients scheduled for autologous transplantation shall receive recommended 
+therapy starting on day -3 and continue until 1 year post transplant:   
+i. Acyclovir 400-800 mg PO twice daily (B.I.D.) or Acyclovir 250mg/m2 IV 
+B.I.D. (if unable to tolerate by mouth medication) OR   
+ii. Valacyclovir 500 mg PO B.I.D   
+2. Treatment Varicella Zoster Virus (VSV):   
+a. Transplant recipients who are exposed to the VSV prior to or after the start of 
+conditioning chemotherapy should be assessed for treatment with the varicella 
+zoster immunoglobulin.  
+i. If the recipient develops VZV after beginning conditioning chemotherapy 
+begin acyclovir 500 mg/m2 IV every 8 hours and continue until 2 days after all 
+lesions have crusted.  
+ii. If single dermatome disease the physician may opt for valacyclovir 500 mg 
+PO BID or acyclovir 800 mg PO X 5 daily doses (close clinical observation 
+for disseminated lesion(s) is recommended). Dose adjustment should be used 
+with renal impaired recipients.  
+iii.  If acyclovir resistance occurs among patients, the physician should give 
+Foscarnet for preemptive treatment of disease.  
+iv. Consult Infectious Disease to guide additional workup and antiviral treatment.  
+3. Treatment of Herpes Simplex Virus (HSV)   
+a. Acyclovir 5-10 mg/kg IV every 8 hours (based off ideal body weight)   
+b. Consult Infectious Disease to guide additional workup and treatment. 
+K. Management of Cytomegalovirus (CMV):   
+1. Prophylaxis:   
+a. Seropositive [R+] allogeneic recipients and those high-risk for CMV such as 
+CMV negative recipient/positive donor, those receiving corticosteroids >2 weeks.  
+i. Consult Infectious Disease   
+ii.  Letermovir 480 mg PO/IV once daily starting at D+7 until D+100.  
+b. Patients who are not candidates for prophylaxis should undergo preemptive 
+therapy (prompt treatment of detectable CMV viremia above a specified 
+threshold)    
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 6 of 13 
+ 
+i. CMV quantitative PCR plasma will be checked weekly.  
+ii. If CMV viral load is detectable but below level of quantification, repeat 
+again at least 5-7 days after   
+iii. The threshold to initiate pre-emptive therapy will be CMV quantitative PCR 
+plasma result >500 IU/mL or a rising trend on successive measurements from 
+patient's baseline.  
+iv. Consult Transplant Infectious Disease and start Ganciclovir 5mg/kg IV q12h 
+or renally adjusted dose per physician orders for at least 2 weeks and until 
+viral suppression.  
+c. CMV negative allograft recipients shall receive CMV negative blood.  
+     products.  
+2. Treatment:   
+a. Consult Infectious Disease to guide additional workup and antiviral.  
+treatment for CMV infection or reactivation.  
+b. Acyclovir should be discontinued with the initiation of any other medications for 
+the treatment of CMV.   
+L. Management of Invasive Fungal Infection:   
+1. Prophylaxis:   
+a. Low risk: Fluconazole 400 mg PO/IV daily or Micafungin 50 mg IV daily if 
+unable to tolerate Fluconazole.   
+b. High risk: Posaconazole tabs 300 mg PO daily or Voriconazole 200 mg PO BID 
+or Voriconazole 4 mg/kg IV Q12H after completion of loading dose.   
+c. Micafungin 100 mg IV daily if unable to tolerate triazole antifungals or during 
+conditioning therapy prior to allogeneic stem cell transplant.  
+2. For patients with fever and prolonged neutropenia unresponsive to antibiotics for >3-5 
+days or with high clinical suspicion:   
+a. Non-contrasted CT of the chest and/or sinuses should be obtained to   
+evaluate for invasive fungal disease.  
+b. Fungal markers (e.g., beta-D-glucan, galactomannan) shall be ordered as needed 
+to support the diagnosis of fungal infection based on clinical suspicion.  
+d. Suspicious skin lesions should be evaluated for biopsy.  
+e. Empiric fungal therapy: AmBisome 5 mg/kg IV daily or Voriconazole 6 mg/kg 
+IV every 12 hours as loading doses on day 1, followed by 4 mg/kg IV every 12 
+hours thereafter.   
+f. Consult Infectious Disease to guide additional workup and antifungal treatment.  
+M. The Management of Pneumocystis Pneumonia:   
+1. Prophylaxis:   
+a. aerosolized inhaled Pentamidine 300 mg upon admission for transplant and then 
+once a month until hematopoietic recovery.  
+b. Stem cell transplant recipients will receive Trimethoprim Sulfamethoxazole DS 
+PO three times weekly for a period of six months following hematopoietic 
+recovery. (M-W-F)  
+c. Patients allergic or intolerant to sulfa medications will continue monthly 
+aerosolized inhaled Pentamidine or Atovaquone 1500 mg PO daily.   
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 7 of 13 
+ 
+ 
+ASSOCIATED POLICIES: 
+1.  N/A 
+ 
+ATTACHMENTS: 
+1.  Neutropenic Patient Guidelines 
+2.  Thrombocytopenic Guidelines 
+3.  Masking Guidelines 
+4.  Immunosuppressant Diet for Transplant 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+1. AABB "A Model Quality System for the Transfusion Service" 1997.  
+2. Abe Y, Choi I, Hara K, et al. "Case Report – Hemophagocytic syndrome: a rare 
+complication of allogeneic non myeloablative hematopoietic stem cell transplantation" 
+Bone Marrow Transplantation. 2002 Aug; 29:799-801   
+3. Baden LR, et al. Prevention and Treatment of Cancer-Related Infections, Version 2.2016, 
+NCCN   
+4. Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw. 2016; 14(7): 882-
+913.  
+5. Cooke, K. R., Richardson, P. G., and Krishnan, A. Y. (2015). Strategies for the 
+Management of Hepatic Veno-Occlusive Disease in Patients Undergoing Bone Marrow 
+Transplant. Clinical Advances in Hematology & Oncology, 13(12), 1-14.  
+6. Dalle, J. H. and Giralt, S. A., (2016). Hepatic veno-occlusive disease after hematopoietic 
+stem cell transplantation: risk factors and stratification, prophylaxis, and treatment. Biol. 
+Blood Marrow Transplant, 22, pp. 400-409.  
+7. FACT-JACIE International Standards for Hematopoietic Cellular Therapy Product 
+Collection, Processing, and Administration. Current edition.  
+8. Ferreira RA, Vastert SJ, Abinun M, et al. "Hemophagocytosis during fludarabine-based 
+SCT for systemic juvenile idiopathic arthritis" Bone Marrow Transplantation 
+2006;38:249-251   
+9. Freifeld AG, et al. Clinical Practice Guideline for the Use of Antimicrobial Agents in 
+Neutropenic Patients with Cancer: 2010 Update by the Infectious Diseases Society of 
+America. Clinical Infectious Diseases. 2011; 52(4): e56-e93.  
+10. Gabay C, Lamacchia C, Palmer G. "IL-1 pathways in inflammation and human diseases" 
+Nat Rev Rheumatol. 2010;6(4):232-241.  
+11. Hematopoietic Stem Cell Transplantation: A Manual for Nursing Practice. (Current 
+Edition)   
+12. Infectious Disease Society of America (ISDA) http://www.idsociety.org/ 
+Guidelines_Patient_Care/   
+13. Jordan MB, Allen CE, Weitzman S, et al. "How I treat hemophagocytic 
+lymphohistiocytosis” Blood 2011 (Oct);118(15):4041-4052.  
+14. La Rosee P. "Treatment of hemophagocytic lymphohistiocytosis in adults" American 
+Society of Hematology 2015;190-196.   
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 9 of 13 
+ 
+ATTACHMENT 1. Neutropenic Patient Guidelines 
+A. Implement “masking guidelines” (refer to ATTACHMENT 3). Strong consideration for 
+masking guidelines when construction efforts are underway at the facility.  
+B. Unless medically contraindicated, ( e.g., allergy, neutropenic patients,  and those with central 
+lines (including PICC lines)) midlines, or dialysis catheters and patients with accessed ports 
+require CHG treatments/bathing as part of their daily care. Patients will bathe/shower using 
+chlorhexidine gluconate (CHG) and change clothing daily1. 
+C. Patients, visitors, and caregivers will demonstrate good hand hygiene (refer to CDC “Hand 
+Hygiene in Healthcare Settings: Clean Hands Count for Patients”2). 
+D. Oral care protocol to be instituted upon admission for all transplant patients. Oral care is 
+encouraged QID and after meals. 
+E. All neutropenic patients will follow a diet as prescribed by a transplant provider (see 
+attachment #4) 
+F. All visitors will be screened for recent and current infections daily; anyone with suspected or 
+actual infection must not visit the unit (refer to institutional policies and/or procedures). 
+G. Each institution will set standards on the age and appropriateness of children to visit the unit 
+which houses Myelosuppressed patients (refer to institutional policies and/or procedures). 
+1. All visitors must be  able to comply with the isolation policy, and adhere to strict 
+guidelines, or they should not be allowed to visit the care area. 
+H. All staff will practice good hand hygiene (refer to CDC “Hand Hygiene in Healthcare Settings: 
+Clean Hands Count for Healthcare Providers”3) 
+1. All staff must wash hands with soap and water 4 or use waterless hand -wash if 
+appropriate:  
+a. Before eating. 
+b. Before and after having direct contact with a patient’s intact skin (taking a pulse 
+or blood pressure, performing physical examinations, lifting the patient in bed) 
+c. After contact with blood, body fluids or excretions, mucous membranes, non-
+intact skin, or wound dressings 
+d. After contact with inanimate objects (including medical equipment) near the 
+patient 
+ 
+1  HCA Clinical Services Group “FAQ: HAI Reduction Strategy Nursing Hygiene Care Program: Chlorhexidine 
+Gluconate (CHG) Bathing in the Non-ICU Setting”  
+https://connect.medcity.net/c/document_library/get_file?uuid=2a8aa5f7-939f-01c4-ad5b-
+9778b1b49b11&groupId=36137332 
+2 https://www.cdc.gov/handhygiene/patients/index.html 
+3 https://www.cdc.gov/handhygiene/providers/index.html 
+4 Wash with soap and water:  
+● When hands are visibly dirty 
+● When hands are visibly dirty 
+● After known or suspected exposure to Clostridium difficile  
+● After known or suspected exposure to patients with infectious diarrhea during norovirus outbreaks 
+● If exposure to Bacillus anthracis is suspected or proven 
+● Before eating 
+● After using a restroom  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 10 of 13 
+ 
+e. If hands will be moving from a contaminated-body site to a clean-body site during 
+patient care 
+f. After glove removal 
+g. After using a restroom 
+I. Patient linens will be changed daily and as needed. 
+J. Line care shall be performed per institutional policy and procedure (refer to institutional 
+policies and/or procedures). 
+K. When a recipient is discharged to the primary care or community health care professionals 
+before engraftment, the Clinical Program shall verify that the following elements are available: 
+1. A consult between the HSCT  Attending Physician and the receiving health care 
+professional(s) regarding.  
+a. Management of nausea, vomiting, pain, and other discomforts. 
+b. Monitoring of blood counts and transfusion of blood products. 
+c. Monitoring of infections and use of antimicrobials. 
+d. Monitoring of organ dysfunction or failure and institution of treatment. 
+e. Monitoring of graft failure and institution of treatment. 
+f. Regular assessment for evidence of acute graft -vs-host disease (GVHD) using an 
+established staging and grading system. 
+g. Regular assessment for evidence of chronic GVHD using an established staging and 
+grading system. 
+L. Facilities shall provide an appropriate location, adequate space, and protection from airborne 
+microbial contamination. 
+M. Facilities shall provide appropriate medications, blood products, and additional care as 
+required by the recipient. 
+N. Nursing will provide education to patients and their family members on neutropenic 
+precautions, fever, and interventions. Education will be documented in the patient’s medical 
+record. 
+O. The provider will activate the neutropenic order set when indicated.  
+P. Nursing will notify the physician of the first neutropenic fever event and thereafter per 
+institutional protocol. 
+1. Start empiric antibiotics5. For febrile episodes lasting 3-7 days, the physician may start 
+an antifungal medication. 
+2. Nursing will continue assessment of the patient for fever and neutropenia. Side effects 
+will be reported, and interventions documented in the patient’s medical record. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 The timely initiation of appropriate antimicrobial therapy is essential in the successful management of 
+immunocompromised patients. 
+  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 11 of 13 
+ 
+ATTACHMENT 2. Thrombocytopenic Guidelines 
+A. The following precautions should be implemented after the patient's platelets fall below 
+50,000: 
+1. Review standing orders for platelet transfusion parameters and transfuse accordingly. 
+ 
+2. Avoid invasive procedures such as enemas, rectal meds, IM injections, or finger sticks 
+unless ordered by an Oncology/Transplant attending physician.  
+ 
+3. Consult the Transplant Physician/Provider before administration of any anticoagulant 
+medications. 
+ 
+4. Avoid medications that slow blood clotting such as aspirin or ibuprofen. 
+ 
+5. Women who are menstruating should use sanitary pads instead of tampons.  
+a. Nursing shall monitor and report how many pads are used per hour; saturation of 
+more than one pad per hour should be reported immediately to the physician.  
+ 
+6. Prepare the patient for a possible platelet transfusion. 
+ 
+7. Implement fall guidelines and consider safety rounds for high-risk patients. 
+ 
+8. Monitor daily platelet count. 
+ 
+9. Hold pressure to venipuncture and arterial sites for at least 5 minutes and until bleeding 
+stops. 
+ 
+10. For critical bleeding, notify the physician immediately. Prepare patient to receive blood 
+products and fluids. Monitor vital signs frequently and hold pressure to bleeding areas 
+as appropriate. 
+ 
+11. Provide the patient and/or family with the following instructions. 
+a.  Avoid blowing the nose, picking the nose, or using decongestant nose sprays. 
+b. Avoid straining while having a bowel movement. Avoid vigorous wiping after a 
+bowel movement. 
+c.  Do not use enemas or rectal suppositories. Utilize stool softeners to keep stool soft. 
+d. Use a soft toothbrush or toothettes. Do not use dental floss or toothpicks. 
+e.  Do not use razors with blades to shave. Use electric clippers and electric razors, as 
+necessary. 
+f.  Avoid sharp objects such as scissors and nail clippers. 
+g. Wear non-slip footwear when out of bed to prevent falls. 
+ 
+12. Education will be documented in the patient’s medical record. 
+ 
+  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 12 of 13 
+ 
+ 
+ATTACHMENT 3. Masking Guidelines 
+ 
+1. All patients will wear a standard surgical mask when out of the HEPA-filtered care areas and 
+when being transported to/from unit for any reason.  
+ 
+2. For patients with an ANC less than or equal to 500 neutrophils per milliliter and/or if they are 
+on immunosuppressant therapy (including Cellcept, Tacrolimus, Cyclosporine, steroids, etc.), 
+even discharged and readmitted, will wear a facemask outside of the HEPA-filtered unit, or 
+until the attending physician releases the patient from needing to wear a mask. 
+ 
+3. Masks must cover the patient’s nose and mouth to offer effective protection. 
+ 
+4. All visitors are required to wear a facemask that covers their nose and mouth when in the 
+healthcare setting in keeping with institutional standards. The number of visitors to a patient 
+may be limited in accordance with hospital policies/protocols or based on the patient’s 
+condition.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-121 
+Page 13 of 13 
+ 
+ATTACHMENT #4 Immunosuppressant Diet 
+ 

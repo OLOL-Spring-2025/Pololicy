@@ -1,0 +1,622 @@
+ 
+ 
+ 
+Tracer Observation Form 
+ 
+03/09/2021 02:35 PM 
+ 
+  
+      
+ 
+HIM v.5 Chart Audit Tracer 
+ 
+  
+       
+Site: 8700 Our Lady of the Lake Regional Medical Center 
+ 
+ 
+       
+Program: Hospital  
+ 
+ 
+       
+    
+  
+Page: 1 of 6 
+ 
+ 
+ 
+© 2021 Joint Commission Resources 
+ 
+ 
+    
+  
+Observation Header 
+Tracer Instructions: No Instructions Provided 
+Observation Title:  
+Total Completed Observations:  
+Locations Name:  
+Services Name:  
+Department Name:  
+Survey Team:  
+Observation Date:  
+Medical Staff Involved:  
+Staff Interviewed:  
+Location:  
+Unique Identifier:  
+Equipment Observed:  
+Contracted Service:  
+Notes: 
+Questions (* = Required) 
+ 
+1 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+There is documentation that the hospital respects the patient's right to privacy and the option of 
+inclusion in the patient directory for this visit? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RI.01.01.01 EP 7 - The hospital respects the patient’s right to privacy. (See also IM.02.01.01, 
+EPs 1, 3, and 4) Note 1: This element of performance (EP) addresses a patient's personal 
+privacy. Note 2: For hospitals that use Joint Commission accreditation for deemed status 
+purposes and have swing beds: The resident’s right to privacy includes privacy and 
+confidentiality of his or her personal records and written communications, including the right to 
+send and receive mail promptly. 
+  
+ Notes: 
+  
+ 
+2 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Does the hospital inform the patient about his/her rights and responsibilities in accordance with 
+its policy? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+  
+ 
+ 
+Tracer Observation Form 
+ 
+03/09/2021 02:35 PM 
+ 
+  
+      
+ 
+HIM v.5 Chart Audit Tracer 
+ 
+  
+       
+Site: 8700 Our Lady of the Lake Regional Medical Center 
+ 
+ 
+       
+Program: Hospital  
+ 
+ 
+       
+    
+  
+Page: 2 of 6 
+ 
+ 
+ 
+© 2021 Joint Commission Resources 
+ 
+ 
+    
+ RI.02.01.01 EP 2 - The hospital informs the patient about his or her responsibilities in 
+accordance with its policy. Note: Information about patient responsibilities can be shared 
+verbally, in writing, or both. 
+  
+ Notes: 
+  
+ 
+3 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Was the history and physical completed within 24 hours of admission? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+  
+ Notes: 
+  
+ 
+4 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Does the medical record contain a concise H&P that includes the following: Chief complaint, 
+History of present illness, Past Medical History, Family History, Social History, Review of 
+Systems, Medication, Allergies, Physical Examination, Provisional Diagnosis or Clinical 
+Impression and Treatment Plan. 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+  
+ Notes: 
+  
+ 
+5 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Only authorized individuals make entries in the medical record? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RC.01.02.01 EP 1 - Only authorized individuals make entries in the medical record. 
+  
+ Notes: 
+  
+ 
+6 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Are all entries dated? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RC.01.01.01 EP 7 - All entries in the medical record are dated.  
+ 
+ 
+Tracer Observation Form 
+ 
+03/09/2021 02:35 PM 
+ 
+  
+      
+ 
+HIM v.5 Chart Audit Tracer 
+ 
+  
+       
+Site: 8700 Our Lady of the Lake Regional Medical Center 
+ 
+ 
+       
+Program: Hospital  
+ 
+ 
+       
+    
+  
+Page: 3 of 6 
+ 
+ 
+ 
+© 2021 Joint Commission Resources 
+ 
+ 
+    
+  
+ Notes: 
+  
+ 
+7 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Are all entries timed? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RC.01.01.01 EP 13 - For hospitals that use Joint Commission accreditation for deemed status 
+purposes: All entries in the medical record, including all orders, are timed. 
+  
+ Notes: 
+  
+ 
+8 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Co-Signature is present behind mid-levels? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ MS.01.01.01 EP 5 - The medical staff complies with the medical staff bylaws, rules and 
+regulations, and policies. 
+  
+ Notes: 
+  
+ 
+9 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Co-Signature is present behind residents? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+  
+ Notes: 
+  
+ 
+10 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Is informed consent obtained in accordance with the hospital's policy and processes and, except 
+in emergencies, prior to surgery and is it dated and timed? (See also RC.02.01.01, EP 4.) 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RI.01.03.01 EP 1 - The hospital follows a written policy on informed consent that describes the  
+ 
+ 
+Tracer Observation Form 
+ 
+03/09/2021 02:35 PM 
+ 
+  
+      
+ 
+HIM v.5 Chart Audit Tracer 
+ 
+  
+       
+Site: 8700 Our Lady of the Lake Regional Medical Center 
+ 
+ 
+       
+Program: Hospital  
+ 
+ 
+       
+    
+  
+Page: 4 of 6 
+ 
+ 
+ 
+© 2021 Joint Commission Resources 
+ 
+ 
+    
+following: - The specific care, treatment, and services that require informed consent - 
+Circumstances that would allow for exceptions to obtaining informed consent - The process 
+used to obtain informed consent - How informed consent is documented in the patient record 
+(See also PC.01.02.07, EP 5) Note: Documentation may be recorded in a form, in progress 
+notes, or elsewhere in the record. - When a surrogate decision-maker may give informed 
+consent (See also RI.01.02.01, EP 2) 
+  
+ Notes: 
+  
+ 
+11 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Is the Full Operative Report documented (dictated, written or electronically entered) immediately 
+following the surgery and before the patient is transferred to the next level of care OR If a Full 
+Operative Report is not documented immediately following the surgery and before the patient is 
+transferred to the next level of care, 
+does the medical record show a progress note (i.e. Brief Op Note) containing all of these 
+elements: Pre-Operative Diagnosis, Name(s) of the primary surgeon(s) and his assistant(s), 
+Procedure performed and description of each finding, Estimated blood loss, Specimen(s) 
+removed, and Post-operative diagnosis? 
+ 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RC.02.01.03 EP 7 - When a full operative or other high-risk procedure report cannot be entered 
+immediately into the patient’s medical record after the operation or procedure, a progress note is 
+entered in the medical record before the patient is transferred to the next level of care. This 
+progress note includes the name(s) of the primary surgeon(s) and his or her assistant(s), 
+procedure performed and a description of each procedure finding, estimated blood loss, 
+specimens removed, and postoperative diagnosis. 
+  
+ Notes: 
+  
+ 
+12 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+The Post Anesthesia Evaluation is complete? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ PC.03.01.07 EP 8 - For hospitals that use Joint Commission accreditation for deemed status 
+purposes: The postanesthesia evaluation for anesthesia recovery is completed in accordance 
+with law and regulation and policies and procedures that have been approved by the medical 
+staff. 
+  
+ Notes: 
+   
+ 
+ 
+Tracer Observation Form 
+ 
+03/09/2021 02:35 PM 
+ 
+  
+      
+ 
+HIM v.5 Chart Audit Tracer 
+ 
+  
+       
+Site: 8700 Our Lady of the Lake Regional Medical Center 
+ 
+ 
+       
+Program: Hospital  
+ 
+ 
+       
+    
+  
+Page: 5 of 6 
+ 
+ 
+ 
+© 2021 Joint Commission Resources 
+ 
+ 
+    
+ 
+13 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+If moderate sedation is planned, is the pre-sedation assessment completed and documented in 
+accordance with policy prior to administration of sedation? (pre-procedure diagnosis, physical 
+status, airway assessment, heart and lungs). 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ PC.03.01.03 EP 1 - Before operative or other high-risk procedures are initiated, or before 
+moderate or deep sedation or anesthesia is administered: The hospital conducts a presedation 
+or preanesthesia patient assessment. (See also RC.02.01.01, EP 2) 
+  
+ Notes: 
+  
+ 
+14 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+For Emergency Care patient, was there documentation of conclusions at the termination of 
+treatment, including final disposition, condition at discharge, and instructions for follow-up care? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RC.02.01.01 EP 18 - The medical record of a patient who receives urgent or immediate care, 
+treatment, and services contains all of the following: - The time and means of arrival - Indication 
+that the patient left against medical advice, when applicable - Conclusions reached at the 
+termination of care, treatment, and services, including the patient's final disposition, condition, 
+and instructions given for follow-up care, treatment, and services - A copy of any information 
+made available to the practitioner or medical organization providing follow-up care, treatment, or 
+services 
+  
+ Notes: 
+  
+ 
+15 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Does the medical record contain a concise discharge summary that includes the following: The 
+reason for hospitalization? The procedures performed? The care, treatment, and services 
+provided? The patient's condition and disposition at discharge? Information provided to the 
+patient and family? Provisions for follow-up care? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RC.02.04.01 EP 3 - In order to provide information to other caregivers and facilitate the patient’s 
+continuity of care, the medical record contains a concise discharge summary that includes the 
+following: - The reason for hospitalization - The procedures performed - The care, treatment, 
+and services provided - The patient’s condition and disposition at discharge - Information 
+provided to the patient and family - Provisions for follow-up care Note 1: A discharge summary is 
+not required when a patient is seen for minor problems or interventions, as defined by the 
+medical staff. In this instance, a final progress note may be substituted for the discharge 
+summary provided the note contains the outcome of hospitalization, disposition of the case, and 
+provisions for follow-up care. Note 2: When a patient is transferred to a different level of care 
+within the hospital, and caregivers change, a transfer summary may be substituted for the  
+ 
+ 
+Tracer Observation Form 
+ 
+03/09/2021 02:35 PM 
+ 
+  
+      
+ 
+HIM v.5 Chart Audit Tracer 
+ 
+  
+       
+Site: 8700 Our Lady of the Lake Regional Medical Center 
+ 
+ 
+       
+Program: Hospital  
+ 
+ 
+       
+    
+  
+Page: 6 of 6 
+ 
+ 
+ 
+© 2021 Joint Commission Resources 
+ 
+ 
+    
+discharge summary. If the caregivers do not change, a progress note may be used. Note 3: For 
+psychiatric hospitals that use Joint Commission accreditation for deemed status purposes: The 
+record of each patient discharged needs to include a discharge summary with the above 
+information. The exceptions in Notes 1 and 2 are not applicable. All patients discharged need to 
+have a discharge summary. 
+  
+ Notes: 
+  
+ 
+16 
+ 
+ 
+     
+ 
+ 
+  
+  
+N/A 
+ 
+     
+ 
+Was the discharge summary completed within 30 days after discharge? 
+ Compliant? 
+  Yes 
+  No Num: _____ Den: _____  
+ RC.02.04.01 EP 3 - In order to provide information to other caregivers and facilitate the patient’s 
+continuity of care, the medical record contains a concise discharge summary that includes the 
+following: - The reason for hospitalization - The procedures performed - The care, treatment, 
+and services provided - The patient’s condition and disposition at discharge - Information 
+provided to the patient and family - Provisions for follow-up care Note 1: A discharge summary is 
+not required when a patient is seen for minor problems or interventions, as defined by the 
+medical staff. In this instance, a final progress note may be substituted for the discharge 
+summary provided the note contains the outcome of hospitalization, disposition of the case, and 
+provisions for follow-up care. Note 2: When a patient is transferred to a different level of care 
+within the hospital, and caregivers change, a transfer summary may be substituted for the 
+discharge summary. If the caregivers do not change, a progress note may be used. Note 3: For 
+psychiatric hospitals that use Joint Commission accreditation for deemed status purposes: The 
+record of each patient discharged needs to include a discharge summary with the above 
+information. The exceptions in Notes 1 and 2 are not applicable. All patients discharged need to 
+have a discharge summary. 
+  
+ Notes: 
+  
+ __________________________________________________________________________________________________________________ 
+ 
+  
+ 

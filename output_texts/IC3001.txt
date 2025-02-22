@@ -1,0 +1,577 @@
+ 1 
+Policies and Procedures Manual Manual:  Infection Control 
+Our Lady of the Lake Regional Medical Center Chapter: III 
+Subject:  Isolation Precautions Section:  
+Date of Origination: May, 1996 Supersedes:  
+Date of Last Revision: May 8, 2024 Serial Code: IC3001 
+Date of Last Review: May 8, 2024 
+_______________________________________________________________________ 
+ 
+PURPOSE: 
+Isolation Precautions are designed to prevent the spread of microorganisms among patients, personnel, 
+physicians, visitors, and students. 
+ 
+RATIONALE: 
+Transmission of infectious agents within a healthcare setting requires three elements: a source of 
+infectious agents, a susceptible host, and a mode of transmission for the agent.  
+ 
+POLICY: 
+1. There are two tiers of HICPAC/CDC Isolation precautions used to prevent the spread of 
+infections. First, Standard Precautions are used for the care of all patients, including those 
+patients without known infection. Implementation of Standard Precautions is the primary 
+strategy for successful hospital-acquired infection control. 
+  
+Second, Transmission Based precautions are used in addition to Standard Precautions for 
+patients with known or suspected infections or colonization with certain infectious agents. The 
+facility utilizes transmission-based precautions to include Airborne, Droplet, Contact, Special 
+Contact/Contact-Plus, and Enhanced Precautions. 
+ 
+2. All personnel, physicians, and students are responsible for complying with Isolation Precautions. 
+ 
+3. Patients and visitors have a responsibility for complying with Isolation Precautions. The 
+appropriate measures will be explained to the patient and visitors by their physician and nurses. 
+ 
+4. The nurse in charge of the patient is responsible for ensuring that isolation precautions are 
+initiated and maintained according to hospital policy. The nurse in charge of the patient should 
+contact the Infection Prevention and Control Department regarding any questions or problems 
+concerning the isolation of a patient.  
+ 
+5. All patients placed on Transmission Based Precautions will be reviewed by the Infection 
+Prevention and Control Department. All patients diagnosed or suspected of having a disease or 
+condition that requires Transmission Based Precautions will be placed on the appropriate type of 
+isolation by the nurse in charge of the patient using the List of Type and Duration of Precautions 
+Recommended for Selected Infections and Conditions, IC3001 Table 1.  This is a nurse driven 
+protocol.   
+  2 
+6. Outpatients who are actively infectious should not mingle in public areas. The referring 
+physician should inform the patient to wear a surgical mask to the facility if the patient has 
+highly communicable diseases such as measles, chicken pox, or tuberculosis.  The referring 
+physician should make appropriate communication to Registration or to the area providing 
+service, so the departments can plan for the placement and care of the patient.  The patient will 
+be placed in a room with the door closed as soon as feasible to have blood drawn by an employee 
+with an appropriate N-95 respirator.  
+ 
+7. The same precautions are to be adhered to in post-mortem care and autopsy that were used prior 
+to death. Respirators/masks are not necessary during post-mortem care unless aerosols are 
+expected to be generated. (Special autopsy precautions are to be used for patients diagnosed or 
+suspected with Creutzfeldt-Jakob disease. See Laboratory Administration Manual LBA201). In 
+accordance with Louisiana Sanitary Code, the Funeral Home will be notified of the type of 
+Isolation Precautions. 
+ 
+8. The Infection Prevention and Control Department has approved the use of the Centers for 
+Disease Control and Prevention (CDC) and the Healthcare Infection Control Practices Advisory 
+Committee (HICPAC)’s revised “2007 Guideline for Isolation Precautions: Preventing 
+Transmission of Infectious Agents in Healthcare Settings.”  
+ 
+9. The hospital will reserve the right to isolate patients according to CDC Guidelines. The Infection 
+Prevention and Control Department or the Medical Director of Infectious Diseases will have the 
+ultimate authority to make decisions regarding Isolation Precautions when conflicts arise. 
+ 
+PROCEDURE 
+ 
+Routes of Transmission 
+Transmission of infections within a hospital setting requires three elements: (1) a source of infectious 
+agents, (2) a susceptible host, and (3) a mode of transmission for the agent.  
+ 
+1. Source 
+ The healthcare setting provides many sources of infectious microorganisms. Infectious agents 
+transmitted during healthcare derive primarily from human sources, but inanimate environmental 
+sources also are implicated in transmission. Human reservoirs include patients, visitors, and staff 
+who may have acute disease, who are in the incubation period of a disease, or who are colonized by 
+an infectious microorganism.  A person’s own endogenous flora may be a source.   
+ 
+2. Host 
+ Resistance among persons to pathogenic microorganisms varies greatly. Some persons may be 
+immune to infection or may be able to resist colonization by an infectious agent. Others exposed to 
+the same agent may establish a commensal relationship with the infecting microorganism and 
+become asymptomatic carriers. Still others may develop clinical disease. Host factors such as age, 
+underlying diseases, certain treatments with antimicrobials, corticosteroids, or other 
+immunosuppressive agents, irradiation, and breaks in the first line of defense mechanisms caused by 
+such factors as surgical operations, anesthesia, and indwelling catheters may render patients more 
+susceptible to infection. 
+  3 
+3. Transmission 
+ Microorganisms are transmitted in hospitals by several routes, and the same microorganisms may be 
+transmitted by more than one route. There are three main routes of transmission of hospital acquired 
+infection: Contact, Droplet, and Airborne transmission.  
+ 
+1. Contact transmission is the most frequent mode of transmission of Healthcare 
+Associated Infections (HAI). Contact transmission is divided into two subgroups: 
+direct-contact transmission and indirect-contact transmission. 
+a. Direct-contact transmission occurs when microorganisms are transferred 
+from one infected person to another person without a contaminated 
+intermediate object or person. This may occur when a person turns a 
+patient, gives a patient a bath, or performs other patient-care activities that 
+require direct personal contact. Direct-contact transmission also can occur 
+between two patients, with one serving as the source of the infectious 
+microorganisms and the other as a susceptible host. 
+b. Indirect-contact transmission involves contact of a susceptible host with a 
+contaminated intermediate object which is usually inanimate (example: 
+contaminated surfaces, instruments, needles, or dressings.) Wearing the 
+same pair of gloves for multiple patients or failing to wash contaminated 
+hands will spread microorganisms to multiples surfaces by indirect-contact 
+transmission. 
+ 
+2. Droplet transmission occurs when respiratory droplets carrying infectious agents 
+come into contact with susceptible mucosal surfaces of the recipient.  Droplets are 
+generated from the source person primarily during coughing, sneezing, or talking 
+and during the performance of certain procedures such as suctioning and 
+bronchoscopy. Transmission occurs when droplets containing microorganisms 
+generated from the infected person are propelled a short distance through the air 
+and deposited on the host's conjunctivae, nasal mucosa, or mouth. Because 
+droplets do not remain suspended in the air, special air handling and ventilation 
+are not required to prevent droplet transmission. Droplet transmission must not be 
+confused with airborne transmission. 
+ 
+3. Airborne Transmission occurs by dissemination of either airborne droplet nuclei 
+(small-particle residue [5 micron or smaller in size] of evaporated droplets 
+containing microorganisms that remain suspended in the air for long periods of 
+time) or dust particles containing the infectious agent. Microorganisms carried in 
+this manner can be dispersed widely by air currents and may become inhaled by a 
+susceptible host within the same room or over a longer distance from the source 
+patient. Special air handling is required to prevent airborne transmission. 
+Microorganisms transmitted by airborne transmission include the bacterium 
+Mycobacterium tuberculosis, and the viruses rubeola (measles), varicella (chicken 
+pox and shingles), and variola (smallpox). 
+   
+Isolation Precautions are designed to prevent transmission of microorganisms by these routes in 
+hospitals. Because agent and host factors are more difficult to control, interruption of transfer of 
+microorganisms is directed primarily at transmission. The recommendations presented in these policies 
+are based on this concept.  4 
+Types of Isolation 
+There are two tiers of Isolation precautions used to prevent the spread of infections. First is Standard 
+Precautions, which is used for the care of all patients, including those patients without known infection. 
+Implementation of Standard Precautions is the primary strategy for successful hospital-acquired 
+infection control. 
+Second, Transmission-based precautions are used in addition to Standard Precautions for patients with 
+known or suspected infections or colonization with certain infectious agents.  
+ 
+Standard Precautions merges the major features of Standard/Universal (Blood and Body Fluid) 
+Precautions (designed to reduce the risk of transmission of blood borne pathogens) and Body 
+Substance Isolation (designed to reduce the risk of transmission of pathogens from moist body 
+substances). Standard Precautions apply to (1) blood; (2) all body fluids, secretions, and 
+excretions except sweat, regardless of whether they contain visible blood; (3) non-intact skin; 
+and (4) mucous membranes. Standard Precautions are designed to reduce the risk of transmission 
+of microorganisms from both recognized and unrecognized sources of infection in hospitals. 
+Standard Precautions are to be practiced with all patients. 
+ 
+Transmission-Based Precautions are designed for patients documented or suspected to be 
+infected or colonized with highly transmissible or epidemiologically important pathogens for 
+which additional precautions beyond Standard Precautions are needed to interrupt transmission 
+in hospitals. The facility utilizes the following types of Transmission-Based Precautions: 
+Airborne Precautions, Droplet Precautions, and Contact Precautions, Special 
+Contact/Contact-Plus Precautions, and Enhanced Precautions. 
+ These precautions may be combined for diseases that have multiple routes of 
+transmission. When used either singularly or in combination, they are to be used in addition to 
+Standard Precautions.  
+ 
+I. Administrative Controls 
+ A. Education 
+ The Infection Prevention and Control department, Education department, and the Clinical 
+department will be responsible for providing education classes/learnings to all clinical 
+department employees about the use of precautions and their responsibility for adherence 
+to them. Patients and visitors are educated regarding the use of precautions and their 
+responsibility for adhering to them.  
+ B. Adherence to Precautions 
+Department Heads and Supervisors will be responsible for periodically evaluating 
+adherence to precautions and for directing improvement projects based on those findings.  
+ 
+II. Standard Precautions 
+ Use Standard Precautions for the care of all patients. 
+ Standard Precautions apply to (1) blood; (2) all body fluids, secretions, and excretions except sweat, 
+regardless of whether they contain visible blood; (3) non-intact skin; and (4) mucous membranes. 
+Standard Precautions are designed to reduce the risk of transmission of microorganisms from both 
+recognized and unrecognized sources of infection in the hospital. 
+ 
+A. Hand washing/Hand Hygiene 
+Refer to the Hand washing Policy, IC 2005. 
+  5 
+B. Gloves  
+1. Wear gloves (clean, non-sterile gloves are adequate) when touching blood, body fluids, 
+secretions, excretions, and contaminated items. Latex and vinyl gloves have equal barrier 
+protection. Put on clean gloves just before touching mucous membranes and non-intact skin. 
+2. Change gloves between tasks and procedures on the same patient after contact with material 
+that may contain a high concentration of microorganisms.  
+3. Remove gloves promptly after use, before touching non-contaminated items and 
+environmental surfaces, and before going to another patient, and wash hands immediately to 
+avoid transfer of microorganisms to other patients or environments. 
+ 
+C. Mask, Eye Protection, Face Shield and Gowns 
+1. Wear a mask and eye protection or a face shield to protect mucous membranes of the eyes, 
+nose, and mouth during procedures and patient-care activities that are likely to generate 
+splashes or sprays of blood, body fluids, secretions, and excretions. 
+2. Wear a gown (a clean, non-sterile gown is adequate) to protect skin and to prevent soiling of 
+clothes during procedures and patient-care activities that are likely to generate splashes or 
+sprays of blood, body fluids, secretions, or excretions.  
+ 
+D. Protective Environment for hematopoietic stem cell transplant (HSCT) patient.   
+A set of prevention measures termed Protective Environment has been added to the precautions 
+used to prevent HAIs. These measures, which have been defined in other guidelines, consist of 
+engineering (HEPA filter ventilation in each patient room) and design interventions that decrease 
+the risk of exposure to environmental fungi for severely immunocompromised allogeneic 
+hematopoietic stem cell transplant (HSCT) patients. 
+ 
+E. Patient Care Equipment  
+1. Handle used patient-care equipment soiled with blood, body fluids, secretions, and excretions 
+in a manner that prevents skin and mucous membrane exposures, contamination of clothing, 
+and transfer of microorganisms to other patients and environments.  
+2. Reusable equipment is not to be used for the care of another patient until it has been cleaned 
+and reprocessed appropriately.  Single-use items are to be discarded properly.  Any single-
+use items under consideration for third party reprocessing will be approved by the Infection 
+Prevention and Control Department. 
+3. Refer to General Cleaning and Disinfection Policy IC2012 for reusable equipment and 
+appropriate cleaning agents and wet times. 
+ 
+F. Environmental Control 
+1. Housekeeping will ensure that adequate procedures for the routine care, cleaning, and 
+disinfection of environmental surfaces, beds, bedrails, bedside equipment, and other 
+frequently touched surface are being followed. 
+2. The room and bedside equipment of patients on Transmission-Based Precautions will be 
+cleaned using the same procedures used for patients on Standard Precautions unless the 
+infecting microorganism(s) and the amount of environmental contamination indicate special 
+cleaning. Washing of walls, blinds, or curtains is indicated if they are visibly soiled. Cubicle 
+curtain should be changed if visibly soiled.   
+ 
+G. Dishes, Glasses, Cups, and Eating Utensils 
+No special precautions are needed for dishes, glasses, cups, or eating utensils.  6 
+H. Linen 
+Handle, transport, and process used linen soiled with blood, body fluids, secretions, and 
+excretions in a manner that prevents skin and mucous membrane exposures and contamination of 
+clothing and that avoids transfer of microorganisms to other patients and environments. All 
+patients’ linen will be handled the same using Standard Precautions. 
+1. Contaminated linen is to be bagged at the location where it is used and will not be rinsed in 
+the location of use. 
+2. Employees who have contact with contaminated linen will wear protective gloves and other 
+appropriate personal protective equipment. 
+3. The standard cloth bags will be used for most of the soiled linen. If contaminated linen is wet 
+and presents a reasonable likelihood of soak-through or of leakage from the bag, first place 
+the linen in a clear plastic bag, then place the plastic bag inside the cloth bag for transport to 
+prevent soak-through and/or leakage of fluids to the exterior.  
+4. Utilize the following Linen Bag Color Coded Identification System for appropriate linen 
+disinfection: 
+a. Yellow Bags: used for bed bugs or chemo linen 
+b. Purple Bags: used for C difficile linen 
+I. Handling of Trash 
+Standard Precautions will be used in handling all patient trash.  
+1. Patient trash/waste that must be placed in a biohazard bag include: 
+a. liquid or semi-liquid blood or other potentially infectious materials 
+b. contaminated items that would release blood or other potentially infectious materials in 
+a liquid or semi-liquid state if compressed 
+c. items that are caked with dried blood or other potentially infectious materials and are 
+capable of releasing these materials during handling 
+d. contaminated sharps (use puncture-resistant container)  
+e. pathological and microbiological waste containing blood or other potentially infectious 
+material 
+2. Trash/waste that meet the above definition from patient care areas include items such as 
+purulent dressings, wound dressings containing blood, bags (receptacles), and tubing/filters. 
+Contain this type of trash in a plastic bag in the patient room, then place into the biohazard 
+container in the soiled utility room. 
+ 
+J. Preventing Needle Sticks and Sharp Injuries 
+1. Take care to prevent injuries when using needles, scalpels, and other sharp instruments or 
+devices, when handling sharp instruments after procedures, when cleaning used instruments, 
+and when disposing of used needles. Puncture-resistant containers (needle boxes) are located 
+in patient rooms as well as in key areas in all clinical departments.   
+2. Never recap used needles or otherwise manipulate them using both hands. Never use any 
+other technique that involves directing the point of a needle toward any part of the body. 
+Instead use either a one-handed "scoop" technique or a mechanical device designed for 
+holding the needle sheath. 
+3. Do not remove used needles from disposable syringes by hand, and do not bend, break, or 
+otherwise manipulate used needles by hand. 
+4. Place used disposable syringes and needles, scalpel blades, and other sharp items in 
+appropriate puncture-resistant containers, which are located as close as practical to the area in 
+which the items were used. Place reusable syringes, needles, and instruments in a puncture-
+resistant container for transport to the reprocessing area.  7 
+K. Resuscitation Devices 
+Use mouthpieces, resuscitation bags, or other ventilation devices as an alternative to mouth-
+to-mouth resuscitation methods in areas where the need for resuscitation is predictable. One-
+way valves are located on each medication cart as well as on the crash carts on the nursing 
+units. 
+ 
+L. Patient Placement 
+1. Place a patient who contaminates the environment or who does not (or cannot be  
+expected to) assist in maintaining appropriate hygiene or environmental control in a private 
+room.  
+2. If a private room is not available, consult with the Infection Control staff regarding  
+patient placement or other alternatives. 
+ 
+M. Respiratory Hygiene/Cough Etiquette Stations 
+Alcohol hand sanitizer, tissues and masks are available in waiting rooms. This strategy is 
+targeted at patients, accompanying family members and friends with undiagnosed transmissible 
+respiratory infections. This applies to any person with signs of illness including cough, 
+congestion, rhinorrhea, or increased production of respiratory secretions when entering a 
+healthcare facility.  
+ 
+III. Transmission-Based Precautions are designed for patients documented or suspected to be 
+infected or colonized with highly transmissible or epidemiologically important pathogens for 
+which additional precautions beyond Standard Precautions are needed to interrupt transmission 
+in hospitals.  
+ 
+Central Supply is responsible for stocking isolation supplies appropriately.  The nursing unit is 
+responsible for ensuring the receipt of the isolation supplies from Central Supply.  The nursing 
+unit is also responsible for placing the appropriate isolation sign on the patient’s door. 
+ 
+ A. Airborne Precautions 
+Examples of Illnesses Requiring Airborne Precautions 
+  Measles 
+Tuberculosis (TB) 
+Varicella (Chicken Pox) requires Airborne and Contact. 
+Zoster (Shingles) that are disseminated OR in the immunocompromised host require 
+Airborne and Contact precautions. 
+  See IC 3001 Table 1. 
+ 
+1. Patient Placement 
+Place the patient in an Airborne Infection Isolation (AII) room, which is a single-patient 
+room that is equipped with special air handling and ventilation capacity that meet the 
+American Institute of Architects/Facility Guidelines Institute standards for AII room (i.e., 
+monitored negative pressure relative to the surrounding area, 12 air exchanges per hour for 
+new construction and renovation and 6 air exchanges per hour for existing facilities, air 
+exhausted directly to the outside or recirculated through HEPA filtration before return.)  AII 
+rooms must be monitored daily when a patient is admitted to an AII room for a suspected or 
+diagnosed airborne illness.   
+  8 
+2. Respiratory Protection 
+A NIOSH certified particulate respirator (N-95) that meets the CDC performance criteria for 
+a TB respirator is to be worn for Airborne Precautions with patients that have known or 
+suspected infectious TB. See TB Control Plan. 
+ 
+3. Patient Transport 
+Limit the movement and transport of the patient from the room for essential purposes only. If 
+transport or movement is necessary, minimize patient dispersal of droplet nuclei by placing a 
+surgical mask on the patient, if possible. 
+ 
+4. Additional Precautions for Preventing Transmission of Tuberculosis 
+Consult CDC’s "Guidelines for Preventing the Transmission of Mycobacterium tuberculosis 
+in Health-Care Settings, 2005" and see the Tuberculosis Control Plan (Policy IC 2011). 
+ 
+ B. Droplet Precautions 
+Droplet Precautions are designed to reduce the risk of pathogen transmission by respiratory 
+droplets (i.e., large-particle droplets >5µ in size) that are generated by a patient who is coughing, 
+sneezing, or talking. Wear a mask when performing direct patient care. 
+ 
+Examples of Illnesses Requiring Droplet Precautions 
+ Invasive Haemophilus influenzae type b disease, including meningitis, pneumonia, 
+epiglottitis, and sepsis 
+ Invasive Neisseria meningitidis disease, including meningitis, pneumonia, and sepsis  
+Diphtheria (pharyngeal) 
+Mycoplasma pneumonia 
+Pertussis 
+Pneumonic plague 
+Streptococcal pharyngitis, pneumonia, or scarlet fever in infants and young children 
+Adenovirus and Respiratory syncytial virus -requires Droplet and Contact Precautions 
+Influenza 
+Mumps 
+Parvovirus B19 
+Rubella 
+See IC 3001 Table 1 
+ 
+1. Patient Placement 
+Place the patient in a private room. When a private room is not available, place the patient in 
+a room with a patient(s) who has active infection with the same microorganism but with no 
+other infection (cohorting). When a private room is not available and cohorting is not 
+achievable, maintain spatial separation of at least 3 feet between the infected patient and 
+other patients and visitors. Special air handling and ventilation are not necessary, and the 
+door may remain open. 
+ 
+2. Mask 
+In addition to Standard Precautions, wear a surgical mask upon entering the patient’s room or 
+environment.  
+ 
+  9 
+3. Patient Transport 
+Limit the movement and transport of the patient from the room to essential purposes only. If 
+transport or movement is necessary, minimize patient dispersal of droplets by placing a 
+surgical mask on the patient, if possible. 
+ 
+ C. Contact Precautions 
+Contact Precautions are designed to reduce the risk of transmission of epidemiologically 
+important microorganisms by direct or indirect contact. Direct-contact transmission involves 
+skin-to-skin contact and physical transfer of microorganisms to a susceptible host from an 
+infected or colonized person, such as occurs when personnel turn patients, bathe patients, or 
+perform other patient-care activities that require physical contact. Direct-contact transmission 
+also can occur between two patients (e.g., by hand contact), with one serving as the source of 
+infectious microorganisms and the other as a susceptible host. Indirect-contact transmission 
+involves contact of a susceptible host with a contaminated intermediate object, usually 
+inanimate, in the patient's environment.  
+ 
+Examples of Illnesses Requiring Contact Precautions 
+a. Multidrug-Resistant Organisms (MDROs): 
+MDROs are defined as microorganisms, predominantly bacteria, that are resistant to 
+one or more classes of antimicrobial agents.  MDROs can be isolated from various 
+body sites including but not limited to gastrointestinal, respiratory, skin/wounds, and 
+genitourinary. 
+ 
+Patients infected or colonized with MDROs as judged by the Infection Control 
+program based on current state, regional, and/or national recommendations are to be 
+placed in contact precautions. 
+ 
+Patients who have tested positive for targeted MDROs in the 6 months prior to 
+admission to the facility are placed on contact precautions for the duration of their 
+hospitalization.  
+Special considerations: 
+• Patients who have ever tested positive for Carbapenem-resistant 
+Enterobacteriaceae (CRE) are placed on contact precautions every encounter.   
+ 
+b. Enteric infections with a low infectious dose or prolonged environmental survival, 
+including: 
+Rotavirus 
+Enterohemorrhagic Escherichia coli 0157:H7 or Shigella in diapered or 
+incontinent patients 
+ 
+c. Parainfluenza virus or enteroviral infections in infants and young children 
+ 
+ 
+d. Skin infections that are highly contagious or that may occur on dry skin, including: 
+  Diphtheria (cutaneous) 
+  Herpes simplex virus (neonatal or mucocutaneous) 
+  Impetigo  10 
+  Major (non-contained) abscesses, cellulitis, or decubiti 
+  Pediculosis 
+  Scabies 
+  Staphylococcal furunculosis in infants and young children 
+Varicella (Chicken Pox) requires Contact and Airborne precautions. 
+  Viral/hemorrhagic conjunctivitis 
+  See IC3001 Table 1. 
+ 
+ Contact-Plus Precautions 
+Contact-Plus Precautions is adopted by the facility to reduce the risk of transmission of 
+Clostridioides difficile, Hepatitis A, and Candida auris by direct or indirect contact. Contact-Plus 
+requires the same precautions as Contact with the addition of using bleach for disinfection and 
+soap and water for hand washing. Clean objects in the patients room daily with appropriate agent 
+to reduce transmission. Wear a gown and gloves during patient care. 
+ 
+Illnesses Requiring Contact-Plus Precautions 
+Hepatitis A 
+C. difficile 
+• Patients with a positive C. difficile PCR or toxin test should be placed on Contact-
+Plus precautions and remain in isolation for the duration of their hospital stay. 
+Candida auris 
+• Patients who have ever tested positive for Candida auris are placed on Contact-
+Plus precautions every encounter. 
+ 
+1. Patient Placement 
+Place the patient in a private room. When a private room is not available, place the patient in 
+a room with a patient who has an active infection with the same microorganism but no other 
+infection (cohorting). When a private room is not available and cohorting is not achievable, 
+consider the epidemiology of the microorganism and the patient population when 
+determining patient placement. Consultation with Infection Control staff is advised before 
+patient placement. 
+ 
+2. Gloves and Gown 
+Don a clean non-sterile gown each time you enter the patient’s room to keep your clothing 
+clean from contact with the patient, environmental surfaces, items in the patient's room, or 
+wound drainage not contained by a dressing.  Gloves should be donned last and should fit 
+snugly around the wrist and gown cuff. Remove the gown and gloves before leaving the 
+patient's environment. After gown removal, ensure that clothing does not contact potentially 
+contaminated environmental surfaces to avoid transfer of microorganisms to other patients or 
+environments. 
+ 
+ 
+ 
+3. Hand Washing 
+When providing care for a patient, change gloves after having contact with infective material 
+that may contain high concentrations of microorganisms (such as fecal material and wound 
+drainage). Remove gloves and gowns before leaving the patient's environment and wash  11 
+hands. Ensure soap and water is used for hand hygiene when caring for patients on Contact-
+Plus precautions. After hand washing, ensure that hands do no touch potentially 
+contaminated environmental surfaces or items in the patient's room as leaving. 
+ 
+Patients in Contact or Contact-Plus isolation who require therapy will be allowed to go to the 
+gym providing any open wounds, lesions, or tracheotomy sites can be well covered, and the 
+patient understands and practices good hygiene (i.e. hand washing).  If a patient has C. diff, 
+the patient must be continent. A patient who cannot reliably follow basic hygienic measures 
+will not be allowed in the gym. All mats and equipment used by the patient in the gym will 
+be disinfected with an appropriate hospital-approved disinfectant when the patient has 
+completed the therapy session. 
+ 
+4. Patient-Care Equipment and Personal Items 
+ When possible, dedicate the use of noncritical patient-care equipment to a single patient (or 
+cohort the patients infected or colonized with the pathogen requiring precautions) to avoid 
+sharing between patients. If use of common equipment or items is unavoidable, then 
+adequately clean and disinfect them before use on another patient. 
+  
+ Isolation carts/kits are equipped with individual disposable equipment such as 
+sphygmomanometer and stethoscopes that remain in the room for the duration of isolation. 
+After isolation is discontinued all reusable equipment must be cleaned and disinfected prior to 
+use on other patients. Refer to General Cleaning and Disinfection Policy IC2012 for reusable 
+equipment and appropriate agents and wet times. 
+  
+D. Enhanced Precautions 
+ Enhanced Precautions is adopted by the facility to reduce the risk of transmission of COVID-
+19, MPOX, or any novel pathogen. Enhanced Precautions requires a combination of Droplet 
+and Contact Precautions, with the use of a N95 respirator instead of a surgical mask.  Refer 
+to the Special Communicable Disease Management Plan, IC2013b 
+ 
+ E. Additional Considerations 
+1. Patient Transport 
+Limit the movement and transport of the patient from the room. If transport or movement is 
+necessary, place a clean gown on the patient.  Place a clean sheet over the patient prior to 
+transport.  
+  
+Notify the receiving areas and staff that the patient is on Isolation Precautions.  If patient is 
+transported via ambulance, notify external and receiving personnel that the patient is on 
+Isolation Precautions. 
+ 
+2. Ambulating a Patient 
+Patients in isolation may be ambulated in the hallway for physical therapy purposes.  If the 
+patient has a draining wound, it must be contained by a clean dressing and covered to prevent 
+any breakthrough.  Patients should be continent of urine and bowels.  If the patient has a 
+MDRO in the sputum, they are instructed to wear a surgical mask.  Patients are instructed to 
+perform hand hygiene before and after walking.  Patients in isolation are not allowed in 
+lounges or nourishment rooms, etc.  Staff that are assisting the patient with ambulation are to  12 
+wear a clean isolation gown and gloves and place the patient in a clean gown prior to 
+entering the hallway. 
+ 
+3. Discharge Center Considerations 
+A patient on contact/contact plus isolation during admission may be appropriate upon 
+hospital discharge to utilize the Discharge Center if: 
+a) The patient with any MDRO in the urine or stool is continent. 
+b) The patient with any MDRO in the wound or blood has been treated for the infection 
+and the wound does not require a dressing. 
+c) The patient with C. difficile does not have diarrhea and is continent. 
+ A patient on contact/contact plus isolation during admission will not meet Discharge Center 
+utilization criteria if: 
+a) The patient exhibits any open or actively draining wounds, or any wound that needs a 
+dressing.   
+b) Any MDRO in the urine or stool in a patient with incontinence. 
+ 
+4. Visitor Instructions 
+a) Do not visit if you have an active illness. 
+b) Wash hands with soap and water when entering and exiting a patient’s room with C. 
+difficile. Perform hand hygiene with alcohol-based cleanser prior to entering all other 
+rooms. 
+c) Do not use the restroom in the patient’s room. 
+d) Avoid placing personal items on the floor. 
+e) Avoid eating or drinking while in the patient’s room. 
+f) If visiting more than one patient, please visit the patient on Contact or Contact- Plus 
+Precautions last. 
+g) Limit items taken in and out of the patient’s room.  
+ 
+ 
+F. Sections in Appendix 
+1. Type and Duration of Precautions Recommended for Selected Infections and Conditions, IC 
+3001 table 1 
+2. Isolation Type and Duration 
+3. Clinical Syndromes or Conditions Pending Confirmation of Diagnosis Warranting Empiric 
+Transmission Based Precautions in Addition to Standard Precautions, IC 3001 table 2 
+4. Infection Control Considerations for High-Priority (CDC Category A) Diseases that May 
+Result from Bioterrorist Attacks or are Considered to be Bioterrorist Threats, IC3001 table 3 
+5. Recommendations for Application of Standard Precautions for the Care of All Patients in All 
+Healthcare Settings, IC 3001 table 4 
+6. Components of a Protective Environment, IC 3001 table 5 
+7. Example of Safe Donning and Removal of Personal Protective Equipment (PPE), IC 3001 
+table 5 
+ 
+REFERENCES: 
+CDC, 2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings; Isolation Precautions 
+Guideline | Infection Control | CDC; Page last reviewed: July 22, 2019.  13 
+CDC, Guidelines for Preventing the Transmission of Mycobacterium tuberculosis in Health-Care Settings, 2005; https://www.cdc.gov/tb-
+healthcare-settings/hcp/infection-control/?CDC_AAref_Val=https://www.cdc.gov/tb/publications/guidelines/infectioncontrol.htm; Page 
+last reviewed: October 23, 2020 
+OSHA, Occupational Exposure to Blood borne Pathogens, Final Rule 2001; Sanitary Code of the State of Louisiana. Online Publications of 
+the Louisiana Administrative Code; Title 51, Public Health- Sanitary Code. Last amended December 2022. 
+Policy IC2012 General Cleaning and Disinfection  
+Our Lady of the Lake Microbiology Antibiotic Reporting Procedure 
+ 
+ 
+ 

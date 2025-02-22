@@ -1,0 +1,94 @@
+ 1 
+Policies and Procedures Manual   Manual:  Infection Control 
+Our Lady of the Lake Regional Medical Center   Chapter: IV 
+Subject:  Healthcare-Associated Infection (HAI) Surveillance          Section:  
+Date of Origination:  January 1997   Supersedes:  
+Date of Last Revision:  March 31, 2023   Serial Code: IC4001 
+Date of Last Review: March 31, 2024    
+_______________________________________________________________________ 
+ 
+ 
+PURPOSE:  
+The primary purpose of the patient and employee surveillance phase of the Infection Prevention 
+and C ontrol program is the early detection of both community and healthcare-associated 
+infections (HAI) and the establishment of control measures as formulated by the Infection 
+Prevention and Control Department.  Surveillance focuses on the prevention and/or intervention 
+of infections to mitigate the risk of future occurrences. 
+Healthcare-associated infection (HAI) data is collected for the following purposes: 
+1. To monitor the effects of intervention and strategies on infection rates. 
+2. To provide feedback to physicians, nurses, and support staff about the healthcare-
+associated infection risk of their patients. 
+Providing healthcare workers with valid measures of the risk of infection in their patients often 
+allows them to take action to reduce those risks and decrease infection rates. 
+ 
+ 
+METHOD: 
+HAI surveillance data is collected prospectively and retrospectively by the Infection Prevention 
+and Control Department.  The identification of infection in patients is based on review of 
+laboratory and clinical sources of information about potentially infected patients.  The CDC 
+definitions for classification of healthcare-associated infections are used to identify healthcare-
+associated infections.  The following sources of information are considered for case -finding to 
+identify patients with possible HAIs: 
+1. Microbiology Culture Reports/Other Lab Results - Microbiology culture reports and 
+other lab test results provide the most useful information.  The Infection Preventionists 
+review positive culture reports.   Included in the reports are the type of specimen, the 
+organism isolated, and the antibiotic susceptibility pattern.  Attention is given to 
+emerging pathogens and any significant isolates. 
+2. Verbal and other reports by hospital personnel - Hospital personnel  such as Charge 
+Nurses, Clinical Nurse Specialists, Pharm D., ICU nurses, etc.  are helpful in identifying 
+patients with infections.  
+ 
+ 
+  2 
+Surveillance will include the following indicators: 
+1. Surgical Site Infections (SSI) - Surgical procedures complicated by a wound infection 
+during hospitalization or post -discharge are monitored. Selected individual procedures 
+will be monitored for procedure-specific infection rates. 
+a. In accordance with CMS IPPS Rule, all SSIs that occur after colon surgery  
+(COLO) and abdominal hysterectomy  (HYST) will be reported to CMS 
+through the CDC’s National Healthcare Safety Network (NHSN). 
+b. The reporting of SSIs related to the following surgeries are done voluntarily: 
+CARD, CBGB, CBGC, CRAN, FUSN (for Children’s Hospital location 
+only), HPRO, KPRO, NECK, REC, THOR, and VSHN (for Children’s 
+Hospital location only) 
+2. Central Line -Associated Bloodstream Infection  (CLABSI) – Housewide surveillance – 
+Inpatients will be mon itored for CLABSIs and primary bloodstream infections.  Unit 
+specific infection rates  will be used as a quality indicator.  Because oncology is a 
+specialty care unit, it will have  a CLABSI rate for both permanent central lines and 
+temporary central lines. 
+a.  In accordance with CMS IPPS Rule, all inpatient CLABSIs will be reported 
+to CMS through the CDC’s National Healthcare Safety Network (NHSN).   
+3. Catheter-Associated Urinary Tract Infection (CAUTI) – Housewide surveillance – 
+Inpatients will be monitored for CAUTIs.  Unit specific infection rates are used as a 
+quality indicator. 
+a. In accordance with CMS IPPS Rule, all inpatient CAUTIs will be reported to 
+CMS through the CDC’s National Healthcare Safety Network (NHSN). 
+4. Clostridioides difficile (C. diff) – Housewide surveillance is performed on all inpatient 
+units for healthcare facility -onset C. diff. infections.  Beginning January 1, 2013, 
+mandatory NHSN reporting of all C. diff lab ID events was implemented. 
+5. Multi-Drug Resistant Organisms (MDRO) – Housewide surveillance is performed on all 
+inpatient units for healthcare-associated MDROs. Beginning January 1, 2013, mandatory 
+NHSN reporting of all MRSA bacteremia lab ID events was implemented.   Voluntary 
+reporting of CRE lab ID events implemented in 2018. 
+6. Positive microbiology cultures will be monitored.  Problem -oriented surveillance will be 
+conducted when a problem is noted that exceeds the expected number of infections . 
+Previously established baseline data will be used for comparison. 
+7. Physicians will notify Infection Control of  patients that develop surgical site infections 
+(via letter): 
+a. After patient care procedures 
+b. During r eadmission or return to the Emergency Department due to the 
+development of infection 
+8. Problem-oriented response surveillance will be conducted when a problem is noted by the 
+case-finding methods, which exceed the expected number of infections (the previously 
+established hospital-wide surveillance baseline data will be used for comparison). 
+ 
+The rationales for selecting this specific surveillance approach are: 
+a. to identify infections that are high volume,  3 
+b. to identify surgical cases that have frequent infectious complications or high potential 
+for adverse patient outcomes, 
+c. to identify device-associated infections, 
+d. to identify infections deemed reportable by regulatory agencies. 
+ 
+These indicators will be used to monitor performance and to assist in the development of 
+performance-focused standards and for healthcare workers education.   Data is compared to the 
+CDC’s National Healthcare Safety Network (NHSN) benchmarking system. 

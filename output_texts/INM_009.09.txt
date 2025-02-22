@@ -1,0 +1,79 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Organizational 
+Our Lady of the Lake Regional Medical Center Chapter:  Imaging Services 
+Subject:  De-contamination - Radioactive Materials Section:  Nuclear Medicine 
+Date of Origination:   Supersedes:  
+Date Last: 
+  Revised 
+  Reviewed 
+ 
+January 16, 2019 
+02/2019, 1/21, 3/23, 2/24 
+Serial Code:  INM 009 
+    
+POLICY:   De-contamination - Radioactive Materials 
+PROCEDURE:    
+In the event an accident involving radioactive material occurs, emergency and decontamination procedures are 
+used to minimize radiation exposure to others and to prevent the spread of contamination. 
+Uncontrolled releases (spills) of radioactive material require immediate , emergency and decontamination 
+procedures. Each individual spill must be evaluated to determine the pote ntial hazard to personnel. When ever 
+necessary, personnel should be evacuated from the contaminated areas, THE CONTAMINATED AREAS 
+SHOULD BE ISOLATED, and the spill should be contained and cleaned up as soon as possible. If the initial 
+clean-up does not reduce the radiation levels below 2 x background, then the areas should be either segregated 
+or covered with absorbent material pending final cleanup. 
+ 
+A. GENERAL RULES: 
+ 
+1)   ISOLATE THE CONTAMINATED AREA AND SECURE IT. 
+2) Put on gloves to prevent contamination of hands, wash hands first if they are 
+contaminated as a result of the accident. Wear protective clothing. 
+3) Minimize the amount of radioactive material entering the body by ingestion, inhalation, 
+or through any wounds. 
+4) Prevent the spread of contamination from the area of the accident. Survey all personnel in 
+the area of the spill. 
+5) Remove radioactive contamination on personnel. 
+6) Start area decontamination procedures under qualified supervision. Inexperienced 
+personnel should not attempt unsupervised decontamination. 
+7) If radioactive contamination cannot be removed, cover with lead shielding and or isolate 
+the area 10 x the half life of the isotope. 
+ 
+B. MINOR SPILLS: 
+ 
+1) ISOLATE THE CONTAMINATED AREA AND SECURE IT. 
+2) Notify persons in the area that a spill has occurred. Survey all personnel in the area of the 
+spills for contamination.  2 
+3) Remove radioactive contamination on personnel. 
+4) Put on gloves to prevent contamination of hands. Wash hands first if they are 
+contaminated as a result of the accident. Wear protective clothing. 
+5) Drop absorbent paper or cloth on spill to limit spread of contamination. 
+6) Mark off contaminated area. Do not allow anyone to leave contaminated area without 
+being monitored. 
+7) Notify the Radiation Safety Officer (RSO) of the accident. 
+8) Start decontamination procedures as soon as possible. Normal cleaning agent should be 
+adequate. Keep cleaning supplies to the minimum needed to do the job and place in 
+sealed bags after use. Proceed from the outer-most edges of the contaminated area 
+inward, reducing systematically the contaminated area. 
+ 
+C. MAJOR SPILLS: 
+ 
+1) ISOLATE THE CONTAMINATED AREA AND SECURE IT. 
+2) Notify the Radiation Safety Officer of the accident and all persons in the area of the spill. 
+Decontamination of highly radioactive areas requires the supervision of the Radiation 
+Safety Officer. 
+3) Put on gloves to prevent contamination of hands. Wash hands if they are contaminated as 
+a result of the accident. Wear protective clothing. 
+4) Drop absorbent paper or cloth on spill to limit spread of contamination. 
+5) If possible, cut off the release of radioactive material from the source to the environment 
+but avoid breathing in high concentrations of radioactive material. Close windows. 
+6) Evacuate room and close doors. Remove contaminated shoes and laboratory coats at door 
+to avoid tracking radioactive material around. 
+7) If possible, the spill should be shielded, but only if it can be done without further 
+contamination or without significantly increasing your radiation exposure. 
+8) Lock or guard the doors and post the appropriate signs, warning against entry. 
+9) Assemble in nearby room with other personnel suspected of being contaminated. Wash 
+off possible exposed areas of the skin, if there is a delay in performing survey. Do not 
+leave the control area until you have been monitored for contamination. Personnel 
+decontamination measures should be instituted if significant contamination is found. 
+10) The RSO will issue specific instructions for decontamination of major spills, dependent 
+upon the type of spill (i.e., liquid, gaseous), potential airborne radioactive contaminants, 
+and dose rates.  

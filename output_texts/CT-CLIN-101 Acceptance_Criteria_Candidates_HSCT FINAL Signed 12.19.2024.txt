@@ -1,0 +1,665 @@
+ 
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 1 of 17 
+ 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+SOP Manual: Blood Cancer and Cellular 
+Therapy Program 
+Section: Clinical 
+Title: Acceptance Criteria for Candidates of Hematopoietic Stem Cell 
+Transplant 
+Date of Origination: 12/4/2024 SOP Reference #: CT-CLIN-101 
+Revision Date:  Effective Date: 12/19/2024 
+ 
+SCOPE:  
+This standard operating policy/procedure (SOP) applies to all patients undergoing Hematopoietic Stem 
+Cell Transplantation (HSCT) at Our Lady of the Lady Regional Medical Center (OLOL) Cellular Therapy 
+(CT). 
+PURPOSE:   
+ To outline a standard set of acceptance criteria for recipients who are candidates for autologous or 
+allogeneic hematopoietic cell transplantation. 
+GENERAL INFORMATION: 
+Once it is determined that a recipient is a candidate for transplant, a series of tests/procedures must be 
+performed to determine eligibility for HCT. Established criteria has been set forth to ensure the safety of 
+patients and to mitigate the risks associated with treatment. 
+Patients that do not progress to HCT will be monitored according to their disease and stages treatment. 
+The patient will follow up with their referring physician or transplant physician. Ongoing communication 
+between the referring physician, patient and transplant team should occur regularly. Clinical updates are 
+to be reviewed with the transplant team at the weekly intake meetings. 
+If a patient is enrolled on an IRB approved clinical trial for transplantation, the acceptance criteria for the 
+clinical trial, where applicable, supersedes the requirements listed below. 
+Disease Reassessment/Restaging timelines: 
+1. Allogeneic stem cell transplant: re-staging within 30 days from the initiation of induction 
+chemotherapy. 
+2. Autologous stem cell transplant: re-staging/reassessment within 30 days from the initiation of 
+induction chemotherapy, except for Multiple Myeloma candidates which can be reassessed/ 
+restaged within 60 days of induction chemotherapy. 
+All organ function testing should be current within 60 days of transplant unless patient has received 
+treatment in the interim, in which, the testing should be repeated. In addition, patient's overall health, 
+performance status, comorbidities, disease risk/status, and graft/donor source should be considered when 
+evaluating candidacy for HCT. 
+Patients that do not meet the acceptance criteria to proceed to transplant may continue with standard 
+therapy. 
+DEFINITIONS: N/A 
+SOP: 
+A. MANAGEMENT DURING PERIODS OF ENDEMIC INFECTION RISK  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 2 of 17 
+ 
+1.  The program should screen patients with fever, cough, or other symptoms by clinical and 
+laboratory testing for influenza or related viral illnesses, e.g. COVID-19. 
+2. The program may defer non-urgent autologous transplants and non-urgent allogeneic 
+transplants as needed to manage bed capacity and blood product availability issues. 
+3. The program shall consider deferring transplants until beyond the incubation period 
+recommended by local, regional, and/or federal health authorities for any HCT recipients, 
+including planned peripheral blood stem cell (PBSC) mobilization who have: 
+i. Had close contact with a case of viral infection (e.g. 2019 novel coronavirus [COVID-
+19]) within timeframes defined by health authorities; or 
+ii. Had frequent or close contact with recent travelers from areas of endemic infection 
+within timeframes defined by health authorities; or 
+iii. Have household members who returned from areas of endemic infection within 
+timeframes defined by health authorities. 
+iv. Refer to ID specialist for recent exposure to any emerging pathogens. 
+ 
+4. The program shall consider deferring any donors until beyond the incubation period 
+recommended by local, regional, and/or federal health authorities who have: 
+a. Traveled within areas of endemic infection within timeframes defined by health 
+authorities; or 
+b. Had close contact with a case of viral infection (e.g. COVID-19); or 
+c. Had frequent or close contact with recent travelers within areas of endemic infection 
+within timeframes defined by health authorities; or 
+5. For volunteer unrelated donors (URD) from other countries requested through a registry like 
+the National Marrow Donation Program (NMDP), especially from regions with high 
+incidence/prevalence of endemic infection or as defined by health authorities, e.g. COVID-
+19, the program shall:  
+a. Consider pre-harvest and cryopreserve the graft to ensure that the product is safely on-
+site before starting the preparative regimen, in case of unforeseen travel disruption or 
+donor illness. If this is not possible, ensure that an alternative stem cell source will be 
+available within a reasonable time frame for the recipient should the product fail to 
+arrive. This may include reserving cells for future use. 
+B. Disease Specific Criteria-Adult (refer to attachment 1) 
+C. General Acceptance Criteria for Transplant (for autologous evaluation criteria, refer to 
+OLOL SOP CT-CLIN-104 "Evaluation of Recipient for Autologous Donation and HPC 
+Transplant or Cellular Therapy”) 
+1. AGE 
+a. Autologous Transplant:  Less than or equal to 80 years of age 
+b. Allogeneic Transplant: Less than or equal to 75 years of age 
+ 
+2. PERFORMANCE STATUS (scale used to quantify the functional status of cancer 
+patients) 70% or greater – Karnofsky Performance Status scoring (KPS) system. 
+  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 3 of 17 
+ 
+3. SEROLOGIES 
+a. Autologous: HIV positive patients should have a formal infectious disease consult. 
+b. Allogeneic: HIV negative unless enrolled in a clinical trial or disease well controlled on 
+highly active antiretroviral therapy (HAART). 
+ 
+1. PULMONARY FUNCTION  
+a. O2 saturation >90%; no supplemental O2; FEV1/FVC/DLCO greater than 50% 
+autologous and allogeneic transplants. If a patient does not meet minimum criteria, 
+pulmonary consultation and clearance is recommended. 
+ 
+2. CARDIAC FUNCTION 
+a. ECHO/MUGA with LVEF greater than or equal to 50% for myeloablative transplant. 
+b. ECHO/MUGA greater than 40% for autologous or reduced intensity transplants. 
+c. If a patient does not meet minimum criteria and/or will receive cardio toxic agents, 
+cardiology consultation and clearance is recommended. Patient should have no New 
+York Heart Association (NYHA) class III or IV Congestive Heart Failure. 
+ 
+3. RENAL FUNCTION 
+a. Autologous Transplant: no restrictions –consider dose modification for patients with 
+elevated creatinine, poor creatinine clearance, or those who are on dialysis. 
+b. Allogeneic Transplant: creatinine less than 2.0mg/dL. If patient does not meet 
+minimum criteria, nephrology consultation and clearance is recommended. 
+ 
+4.  LIVER FUNCTION 
+a. Bilirubin less than 2.5mg/dL (exceptions: hemolysis or Gilberts) and transaminases 
+less than 3 times the upper limit of normal. 
+b. If patient does not meet minimum criteria, consider Hepatology consultation and 
+clearance.  
+ 
+5. INFECTION 
+a. Chest X-ray with no active disease. 
+b. If any active disease or recent previous infection, consider CT scan and/or infectious 
+disease consultation and clearance. 
+c. No active Hepatitis infection (refer to The American Society for Transplantation and 
+Cellular Therapy (ASTCT) Guidelines for Preventing Infectious Complications in 
+HCT Recipients). 
+ 
+6. PYSCHOSOCIAL EVALUATION  
+a. A pre-HSCT psychological evaluation is required to assess risk factors that may affect 
+a patient’s ability to tolerate or adhere to the transplant process and/or the compliance 
+of caregivers. 
+ 
+7. EVALUATION OF SOCIAL AND FINANCIAL ISSUES 
+a. Performed to determine the needs of the transplant patient. 
+b. Identify if there are adequate support resources (caregivers, ability to obtain and 
+afford necessary medications, transportation, housing) to permit safe and effective 
+transplant care.  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 4 of 17 
+ 
+c. To identify and assess that there will are dedicated caregiver(s) that shall be 
+available for the duration of the transplant recovery period: autologous transplant 
+patients to be determined by their attending transplant physician and 100 days for 
+allogeneic recipients. 
+ 
+8. DENTAL EVALUATION  
+a. To minimize the risk for systemic infection before, during and after transplant, 
+patients must have a complete oral dental exam with x-rays and submit a dental 
+clearance; however, under circumstances it may be necessary to move forward with 
+transplant without it.   
+ 
+D. CONTRAINDICATIONS 
+1. Systemic disease not correctable by stem cell transplantation – includes patients with active 
+central nervous system (CNS) metastases or uncontrolled leptomeningeal disease. 
+2. Consideration should be taken for patients with 'other malignancies' i.e. lung cancer, which 
+may limit the ability to be cured or may impact survival. 
+3. Active cardiac disease defined as myocardial infarction within 3 months of transplants or 
+uncontrolled angina, class III or IV CHF, or serious arrhythmia. 
+4. Systemic and/or uncontrolled infection. 
+5. Active untreated or untreatable malignancy or other significant uncorrectable life limiting 
+medical conditions that will not be cured with HPC transplantation. 
+6. Active alcohol and/or other substance abuse. 
+7. Inability to obtain informed consent. 
+8. History of psychiatric or social non-compliance that has not been successfully remediated. 
+9. Pregnancy. 
+ 
+E. Human Leukocyte Antigens (HLA) MATCHING/DONOR SELECTION 
+1. HLA typing Algorithm/Donor Preference (refer to ATTACHMENT 3 “Guidelines for 
+HLA Typing and Donor Selection”) 
+a. HLA Typing should be performed by an ASHI certified laboratory, at a minimum, for 
+high resolution HLA A, B, Cw, DRB1, and DQB1 
+b. HLA Matched Related Donors are preferred followed by 10/10 or 9/10 matched unrelated 
+donor (URD) or haploidentical donor cannot be identified, consider a referral to a center 
+that does cord blood transplants. 
+c. Confirmatory typing should be performed on all recipients and donors. 
+ 
+2. Donor Selection – HLA  
+a. In circumstances where there are antigen or allele mismatched, allele mismatched donors, 
+should be prioritized over antigen mismatched donors. 
+b. Consider Class I mismatches over Class II mismatches. 
+i. Consider mismatches at DQB1 followed by A, B, Cw (Cw mismatches 
+within the same P group are acceptable). 
+ii. DRB1 mismatches should be avoided, whenever possible. 
+c. When selecting donors, careful consideration should be made to evaluate graft rejection 
+and Graft Versus Host Disease (GVHD) vectors as well as HLA null results. 
+d. For all unrelated donor transplants or mismatched related donor transplants, Panel 
+Reactive Antibody (PRA) testing must be performed to ensure there are no Donor  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 5 of 17 
+ 
+Specific Antibody (DSA) anti-HLA antibodies present. In addition, for all unrelated 
+donors that are 10/10 matches, PRA should be performed to verify the level of Mean 
+Fluorescent Intensity (MFI) DSA anti-HLA antibodies. In the presence of DSA, Anti-
+HLA antibodies and no other alternative donor, consider desensitization strategies. 
+ 
+3. Donor Selection – Other Variables 
+a. When selecting unrelated donors, financial consideration should be considered when 
+selecting donors from international sites. All else being equal, domestic donors should be 
+considered over international donors, and if two or more equivalent international donors 
+are available, cost of the product should be reviewed. 
+b. All else being equal, male donors should be chosen over female donors to minimize the 
+risk of graft versus host disease. 
+c. All else being equal, consider younger adults rather than older adult donors. 
+d. CMV should be considered in allogenic donor selection; whenever possible, seronegative 
+recipients should have a seronegative donor. 
+e. ABO compatibility should be considered when selecting donors, avoiding major ABO 
+incompatible mismatches. 
+ 
+F. HEMATOPOIETIC PROGENITOR CELL COLLECTION, CELL DOSE AND 
+CYROPRESERVATION 
+1. Hematopoietic Progenitor Cells 
+a. Bone Marrow (HPC, Marrow) 
+i. Donor must be able to tolerate general or spinal anesthesia. 
+ii. Minimum cell dose: 1 X 108 TNC/kg recipient body weight 
+iii. Aplastic Anemia or Mismatched Unrelation Donors Bone marrow is preferred. 
+b. Peripheral Blood Stem Cells (HPC, Apheresis) – Additional information regarding cell 
+dose targets can be found in the Mobilization Pathway Algorithm (attachment #3) 
+i. Stem cells can be collected via growth factor alone or chemotherapy plus growth 
+factor. 
+ii. Minimum cell dose: 2.0 x 106 CD34/kg recipient body weight 
+             
+PROCEDURE: 
+N/A 
+ 
+ASSOCIATED SOPS: 
+1. OLOL CT-CLIN-104 "Evaluation of Recipient for Autologous Donation and HPC 
+Transplant or Cellular Therapy" 
+2. OLOL Mobilization Pathways 
+ 
+ACCEPTABLE END POINTS: 
+Decision to proceed with HCT or to proceed with other treatment. 
+ 
+STATUTORY/REGULATORY AUTHORITY: 
+ 
+1. American Society for Transplantation and Cellular Therapy (ASTCT). "ASTCT Response to 
+COVID-19". https://www.astct.org/connect/astct-response-to-covid-19  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 6 of 17 
+ 
+2. Barker JN, Byam C, Scaradavou A. How I treat: the selection and acquisition of unrelated 
+cord blood grafts. Blood. Feb 24, 2011;117(8):2332-2339. 
+3. NMDP "Be the Match Statement Regarding COVID-19" https://bethematch.org/news/ news-
+releases/be-the-match-statement-regarding-covid-19/ 
+4. Centers for Disease Control and Prevention (CDC) https://www.cdc.gov/coronavirus/ 2019-
+nCoV/summary.html 
+5. European Centre for Disease Prevention and Control (ECDC): 
+https://www.ecdc.europa.eu/en/ publications-data/risk-assessment-outbreak-acute-
+respiratory-syndrome-associated-novel-1 
+6. Food and Drug Administration. "Important Information for Human Cel, Tissue, or cellular or 
+Tissue-based Product (HCT/P) Establishments Regarding the 2019 Novel Coronavirus 
+Outbreak" https://www.fda.gov/vaccines-blood-biologics/safety-vailability-biologics/ 
+important-information-human-cell-tissue-or-cellular-or-tissue-based-product-hctp- 
+establishments 
+7. Hamadani M, Craig M, Awan FT, Devine SM. How we approach patient evaluation for 
+hematopoietic stem cell transplantation. Bone marrow transplantation. Aug 2010;45(8):1259-
+1268. 
+8. Koh, M. et al. "Coronavirus and Haematopietic Stem Cell Transplantation". Worldwide 
+Network for Blood and Marrow Transplantation (WBMT); 02/24/2020. 
+9. Majhail NS, Farnia SH, Carpenter PA, et al. Indications for Autologous and Allogeneic 
+Hematopoietic Cell Transplantation: Guidelines from the American Society for Blood and 
+Marrow Transplantation. Biology of blood and marrow transplantation: Journal of the 
+American Society for Blood and Marrow Transplantation. Nov 2015;21(11):1863-1869. 
+10. National Health Commission's Novel Coronavirus Pneumonia and Control Strategy (website 
+in Chinese) http://www.nhc.gov.cn/jkj/s3577/202002/ 
+573340613ab243b3a7f61df260551dd4.shtm 
+11. Rocha V, Broxmeyer HE. New approaches for improving engraftment after cord blood 
+transplantation. Biology of blood and marrow transplantation: Journal of the American 
+Society for Blood and Marrow Transplantation. Jan 2010;16(1 Suppl): S126-132.Sorror ML. 
+How I assess comorbidities before hematopoietic cell transplantation. Blood. Apr 11, 
+2013;121(15):2854-2863. 
+12. Tomblyn M, Chiller T, Einsele H, et al. Guidelines for preventing infectious complications 
+among hematopoietic cell transplant recipients: a global perspective. Preface. Bone Marrow 
+Transplantation. Oct 2009;44(8):453-455. 
+13. OLOL HSCT Pathways-   
+14. OLOL CT-CLIN-117 "Evaluation of Recipient for Autologous Donation and HPC 
+Transplant or Cellular Therapy" 
+15. Wadsworth K, Albrecht M, Fonstad R, Spellman S, Maiers M, Dehn J. Unrelated donor 
+search prognostic score to support early HLA consultation and clinical decisions. Bone 
+marrow transplantation. Jun 6, 2016. 
+16. World Health Organization (WHO): https://www.who.int/emergencies/diseases/novel- 
+coronavirus-2019 
+17. World Marrow Donor Association (WMDA): https://share.wmda.info/display/DMSR/ 
+Coronavirus+-+2019-nCoV#/  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 8 of 17 
+ 
+ATTACHMENT 1 Disease Specific Criteria: 
+1. Severe Aplastic Anemia: 
+a. Timing of Evaluation: at diagnosis or relapse 
+b. Type of transplant: Related Donor, Unrelated Donor 
+c. Indications 
+i. Less than 40 years of age with Related Donor may be 
+considered for transplant as initial therapy or failure of 
+immunosuppressive therapy 
+ii. Greater than 40 years of age with Related Donor, Unrelated 
+Donor after first failure of immunosuppressive therapy 
+2.    Myelodysplastic Syndromes: 
+a. Timing of evaluation: at diagnosis or after therapy 
+b. Type of transplant: Related Donor, Unrelated Donor 
+3.    Myeloproliferative disease (ET, PV, Primary MF) 
+a. Timing of evaluation: after failing primary therapy or progressing 
+fibrosis or development of leukemia 
+b.Type of transplant: Related donor, Unrelated donor 
+4.    Acute Myelogenous Leukemia: 
+a. Timing of evaluation: 
+i. Adult: at diagnosis, first relapse, first or subsequent remission, except 
+good risk cytogenetics 
+ii. Pediatric: at diagnosis, first relapse, first or subsequent remission 
+b. Type of transplant: 
+i. Autologous: First CR; Second CR with no allogeneic donor 
+ii. Allogeneic: Related Donor or Unrelated Donor 
+c. Indications: 
+i. First CR: all pediatric patients will Related Donor except for FAB M3 
+or M7 with Down’s; high risk for relapse- requirement of multiple 
+inductions to enter remission or high risk cytogenetics 
+ii. Second or subsequent remission 
+iii. Induction failure or relapse 
+iv. Persistent MRD (minimal residual disease) for pediatric patients 
+5.  Acute Lymphocytic Leukemia (ALL): 
+a. Timing of evaluation: 
+i. Adult: any patient after diagnosis 
+b. Type of transplant: Related Donor, Unrelated Donor 
+c. Indications: 
+i. First CR 
+1) Adult patients in 1st CR 
+2) Less than 1 year and MLL rearrangement 
+3) Greater than 6 weeks to enter remission 
+4) Normal or adverse cytogenetics;  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 9 of 17 
+ 
+5) In pediatrics: Ph+ or 11q23 
+6) Persistent MRD 
+ii. Second or subsequent remission 
+iii. Early CNS relapse (less than 18 months) 
+ 6.  Chronic Myelogenous Leukemia (CML): 
+a. Timing of evaluation: at diagnosis 
+b. Type of transplant: Related Donor, Unrelated Donor 
+c. Indications: 
+i. Chronic phase: 
+ii. Patients not in Hematologic remission after three months of tyrosine 
+kinase inhibitor therapy. 
+1) Lack of Complete cytogenetic remission after 12 months 
+(follow current) NCCN criteria 
+2) Cytogenetic progression on therapy 
+3) Intolerant to TKI 
+4) Pediatric patients 
+a) For all patients with Related Donor 
+b) Unrelated Donor if evidence of disease despite 6-
+12 months with imatinib or like agents 
+iii. Accelerated, blast phase, preferably after attempts to re-enter CP 
+ 7.  Chronic Lymphocytic Leukemia (CLL): 
+a. Timing of evaluation: progression or lack of response to fludarabine therapy 
+b. Type of transplant: Related Donor, Unrelated Donor 
+c. Indications: 
+i. Progression or lack of response to fludarabine therapy 
+ii. Poor risk cytogenetics in 1st CR 
+ 8.  Multiple Myeloma (MM): 
+a. Timing of evaluation: all patients greater than or equal to stage 1 
+b. Type of transplant: Autologous (single or tandem), Related Donor, 
+Unrelated Donor 
+c. Indications: 
+i. Autologous: no restrictions except for acceptance criteria 
+ii. Allogeneic: no restrictions except for acceptance criteria 
+ 9.  Hodgkin’s Disease (HD): 
+a. Timing of evaluation: first relapse or failure to enter first complete remission 
+b. Type of transplant: Autologous, Related Donor, Unrelated Donor 
+c. Indications: 
+i. Autologous: primary refractory, chemotherapy sensitive or resistant relapse 
+ii. Allogeneic: inability to harvest an acceptable hematopoietic stem cell 
+graft, refractory or progression after autologous transplant or persistent 
+marrow disease. 
+ 10.  Non-Hodgkin’s Lymphoma (follicular): 
+a. Timing of evaluation: first relapse or failure to enter first remission 
+b. Type of transplant: Autologous, Related Donor, Unrelated Donor  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 10 of 17 
+ 
+c. Indications: 
+i. Autologous: chemotherapy sensitive, acceptable hematopoietic stem 
+cell graft 
+ii. Allogeneic: with chemo-sensitive disease; inability to harvest an 
+engrafting dose of autologous hematopoietic progenitors; bone 
+marrow or peripheral blood involvement 
+ 11.  Non-Hodgkin’s Lymphoma (Intermediate and High grade): 
+a. Timing of evaluation: failure to enter first complete remission; first 
+relapse or second remission; first remission and high-risk features 
+b. Type of transplant: Autologous, Related Donor, Unrelated Donor 
+c. Indications for transplant: 
+i. Autologous: chemo-sensitive disease; acceptable hematopoietic stem 
+cell graft 
+ii. Allogeneic: chemo-sensitive disease and: Unacceptable autologous 
+hematopoietic stem cell graft or progression after autologous 
+transplant, inability to harvest an engrafting dose of autologous 
+hematopoietic progenitors; bone marrow or peripheral blood 
+involvement 
+iii. In pediatrics treat as Leukemia lymphoma syndrome (allogeneic 
+preferred); except anaplastic large cell lymphoma when autologous 
+stem cell transplant is still preferred. 
+12.  Testicular Cancer and other Germ-cell tumors: 
+a. Timing of evaluation: first relapse, second remission or failure to achieve first CR 
+b. Type of transplant: Autologous (single or tandem) 
+c. Indications for transplant: Relapse 
+ 
+ 13.  Autoimmune disorders: 
+a. Autologous or allogeneic transplant for refractory autoimmune hemolytic 
+anemia, or ITP 
+ 
+14.  Immunodeficiency Syndromes: 
+a. Timing of evaluation: at diagnosis 
+b. Type of transplant: Related Donor, Unrelated Donor 
+c. Indications for transplant: severe combined immunodeficiency syndrome or 
+other life-threatening inherited immunodeficiency syndromes, 
+lymphoproliferative and phagocytic disorders, hemophagocytic 
+lymphohistiocytosis. 
+  
+15.   Congenital Disorders of Hematopoiesis: 
+a. Timing of evaluation: at diagnosis or treatment failure 
+i. Except sickle cell anemia – with clinical evidence of high-risk 
+disease 
+b. Type of transplant: Related Donor, Unrelated Donor 
+c. Indication for transplant: 
+i. Diamond Blackfan Anemia  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 11 of 17 
+ 
+ii. Sickle cell disease: Related Donor with high-risk disease (CNS, 
+pulmonary, recurrent pain crisis). Unrelated Donor on clinical trial 
+only 
+iii. Fanconi’s anemia: at development of marrow failure, MDS, or 
+leukemia 
+iv. Paroxysmal nocturnal hemoglobinuria – with MDS or marrow failure 
+v. Transfusion-dependent thalassemia syndrome (covers 
+intermedia and other double heterozygous conditions) 
+vi. Congenital disorders of white cell and platelet production and 
+functions, severe: such as chronic granulomatous disease, 
+Glanzmann syndrome, etc.) 
+vii. Constitutional marrow failure syndromes: in addition to 
+Fanconi, also traditionally include Dyskeratosis Congenita, 
+Diamond Shwachmann syndrome, Diamond Blackfan 
+syndrome, Amegakaryocytic thrombocytopenia. 
+viii. Malignant Osteopetrosis 
+  
+16.  Amyloidosis: 
+a. Timing of evaluation: all patients 
+b. Type of transplant: Autologous (single or tandem) 
+c. Indications: 
+i. Autologous: no restrictions except for acceptance criteria 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 12 of 17 
+ 
+ASTCT Recommendations for Adult Disease Criteria and type of Transplant 
+Indication and Disease 
+Status Allogeneic HCT Autologous HCT 
+Acute myeloid leukemias  
+ CR1, low risk N N 
+ CR1, intermediate risk C N 
+ CR1, high risk S N 
+ CR2+ S N 
+ Not in remission S N 
+   Acute promyelocytic 
+leukemia, relapse R R 
+ALL 
+ CR1, standard risk N N 
+ CR1, high risk S N 
+ CR2 S N 
+ CR3+ C N 
+ Not in remission C* N 
+Chronic myeloid leukemia 
+ Chronic phase C N 
+ Accelerated phase C N 
+ Blast phase C N 
+Myelodysplastic syndromes 
+ Low risk C N 
+ High risk S N 
+ Therapy related S N 
+T cell non-Hodgkin lymphoma 
+ CR1, standard risk N R 
+ CR1, high risk R R 
+ CR2 S C 
+ CR3+ C C 
+ Not in remission C N 
+Burkitt lymphoma 
+ First remission N N  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 13 of 17 
+ 
+Indication and Disease 
+Status Allogeneic HCT Autologous HCT 
+ First or greater relapse, 
+sensitive C C 
+ First or greater relapse, 
+resistant C N 
+Hodgkin lymphoma 
+CR1 N N 
+   Primary refractory, 
+sensitive N C 
+   Primary refractory, 
+resistant C N 
+   First relapse, sensitive N S 
+   First relapse, resistant C N 
+   Second or greater relapse C C 
+Solid tumors 
+   Germ cell tumor, relapse D C 
+   Germ cell tumor, refractory D C 
+Nonmalignant diseases 
+   Severe aplastic anemia, 
+new diagnosis S N 
+   Severe aplastic anemia, 
+relapse/refractory S N 
+   Fanconi anemia R N 
+   Other bone marrow failure 
+syndrome‡ R N 
+ 
+Classification of Indication Definition 
+Standard of care (S) 
+This category includes indications that are well defined and are 
+generally supported by evidence in the form of high-quality clinical 
+trials and/or observational studies (e.g., through CIBMTR or 
+European Society for Blood and Marrow Transplantation). 
+Standard of care, clinical 
+evidence available (C) 
+This category includes indications for which large clinical trials and 
+observational studies are not available. However, HCT/IECT has 
+been shown to be an effective therapy with acceptable risk of 
+morbidity and mortality in sufficiently large single-center or 
+multicenter cohort studies. HCT/IECT can be considered as a 
+treatment option for individual patients after careful evaluation of 
+risks and benefits. As more evidence becomes available, some 
+indications may be reclassified as “Standard of care.”  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 14 of 17 
+ 
+Indication and Disease 
+Status Allogeneic HCT Autologous HCT 
+Standard of care, rare 
+indication (R) 
+Indications included in this category are rare diseases for which 
+clinical trials and observational studies with sufficient number of 
+patients are not currently feasible because of their very low 
+incidence. However, single-center or multicenter or registry studies 
+in relatively small cohorts of patients have shown HCT/IECT to be 
+effective treatment with acceptable risks of morbidity and mortality. 
+For patients with diseases in this category, HCT/IECT can be 
+considered as a treatment option for individual patients after careful 
+evaluation of risks and benefits. 
+Developmental (D) 
+Developmental indications include diseases where preclinical 
+and/or early-phase clinical studies show HCT/IECT to be a 
+promising treatment option. HCT/IECT is best pursued for these 
+indications as part of a clinical trial. As more evidence becomes 
+available, some indications may be reclassified as “Standard of care, 
+clinical evidence available” or “Standard of care.” 
+Not generally recommended 
+(N) 
+HCT/IECT is currently not recommended for these indications 
+where evidence do not support the routine use. However, this 
+recommendation does not preclude investigation of HCT/IECT as a 
+potential treatment and may be pursued for these indications within 
+the context of a clinical trial. 
+Kanate, A. S., Majhail, N. S., Savani, B. N., Bredeson, C., Champlin, R. E., Crawford, S., Giralt, S. A., LeMaistre, C. F., Marks, D. I., 
+Omel, J. L., Orchard, P. J., Palmer, J., Saber, W., Veys, P. A., Carpenter, P. A., & Hamadani, M. (2020). Indications for 
+Hematopoietic Cell Transplantation and Immune Effector Cell Therapy: Guidelines from the American Society for Transplantation 
+and Cellular Therapy. Biology of Blood and Marrow Transplantation, 26(7), 1247–1256. https://doi.org/10.1016/j.bbmt.2020.03.002 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 15 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+OUR LADY OF THE LAKE 
+ 
+CT-CLIN-101 
+Page 16 of 17 
+ 
+ATTACHMENT #3 Mobilization Algorithm 
+ 
+OUR LADY OF THE LAKE 
+CT-CL IN-101 
+Page 17 of 17 

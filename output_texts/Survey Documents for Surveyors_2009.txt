@@ -1,0 +1,48 @@
+Sheet: 2008
+A Map of the Organization | Ken Bower | nan | nan | nan | nan | As Needed | nan | nan | nan | Task | Time | Comments
+Core Measures Data | Farrar - PI Director | nan | nan | nan | PI Data book | Quarterly | nan | nan | nan | Code J Called | nan | nan
+EOC Data Including SOC | Ken Bower | nan | nan | nan | EOC data book | As Needed | nan | nan | nan | Admin Team Member Alert  | nan | nan
+EOC Management Plans and Annual Evaluations | Rick Boyer | nan | nan | nan | EOC data book | Annual | nan | nan | nan | Marketing Alert | nan | nan
+EOC Minutes (past 12 mths) | Rick Boyer | nan | nan | nan | EOC data book | Every 2 months | nan | nan | nan | Escorts Arrive | nan | nan
+Infection Control Plan, Risk Analysis and Annual Assessment | Kristian Smith | nan | nan | nan | IC Data book | Quarterly | nan | nan | nan | Periodic Paging Alerts | nan | nan
+Infection Control Surveillance Data (past 12 mths) | Kristian Smith | nan | nan | nan | IC Data book | Quarterly | nan | nan | nan | All Clear Announcement | nan | nan
+List of depts/units/areas/programs/services in the Organization | Kim McCon/Heather Runnels/Sonya Willis | nan | nan | nan | 2015 Scope of Service | As Needed | nan | nan | nan | nan | nan | nan
+MDS Quality Measures reports | nan | nan | nan | nan | MDS Coordinator | As Needed | nan | nan | nan | Tracer Notes/Comments | nan | nan
+Medical Record Delinquency Data | Rachelle Arabie Wells | nan | nan | nan | HIM Minutes | Monthly | nan | nan | nan | nan | nan | nan
+MOS identified in the plan of action for the PPR | Phyllis Simmons | 7795; cell 603-4971 | nan | nan | AMP | As Needed | nan | nan | nan | nan | nan | nan
+Key Contact Person to assist in planning tracer selection | Phyllis Simmons | 7795; cell 603-4971 | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Organ Donation & Procurement Conversion Rates | Farrar - PI Director | nan | nan | nan | LOPA report | Quarterly | nan | nan | nan | nan | nan | nan
+Organizational Chart | nan | nan | nan | nan | Lake Link | As Needed | nan | nan | nan | nan | nan | nan
+Performance Improvement Data (past 12 mths) | Farrar - PI Director | nan | nan | nan | PI Data book | Quarterly | nan | nan | nan | nan | nan | nan
+PFP Data (past 12 mths) | Phyllis Simmons | 7795; cell 603-4971 | nan | nan | JC Connect | Quarterly | nan | nan | nan | nan | nan | nan
+Current Patient Lists/Reports (identify individual tracers) | Access | nan | nan | nan | CIS report | nan | nan | nan | nan | nan | nan | nan
+Staffing Effectiveness Data | Farrar - PI Director | nan | Ann Bollone | nan | PI Data book | Semi-Annually | nan | nan | nan | nan | nan | nan
+Sheet: Action Plans_2006
+nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan | nan
+Information Needed | Contact Person | Contact Phone number | Backup Contact Person | Backup Contact Phone number | Data Source | Data aggregation frequency | Action Plan | Time Received | nan | Task | Time | Comments
+Performance improvement data from the last 12 months | Tandra Davison | 765-6818; cell 362-2970 | Michelle Dimattia  | 765-5287; cell 964-3604 | PI Data book | Quarterly | scheduled meeting to review 2/3/2006 | nan | nan | Code J Called | nan | nan
+Infection control surveillance data from the past 12 months | Blanche LeBlanc | 765-8269; pgr 234-5568 | Marcie Roddy | 765-7675 | IC Data book | Quarterly | scheduled meeting to review 2/3/2006 | nan | nan | Initial Admin Team Member Alert  | nan | nan
+EOC data including SOC | John Beard | 765-8294; cell 603-0527 | Larry Cunningham | 765-8058; cell 202-8035 | EOC data book | As Needed | scheduled meeting to review 2/3/2006 | nan | nan | Marketing Alert | nan | nan
+EOC Management plans and annual evaluations | Allyn Whaley | 765-8329; cell 202-2231 | Jessica Perret
+
+______________
+Geri Palermo | 765-8085; pager 237-9052; cell 247-2191                 
+765-8696;cell 938-4795 | EOC data book | Annual | scheduled meeting to review 2/3/2006 | nan | nan | Escorts Arrive | nan | nan
+EOC minutes for past 12 months | Allyn Whaley | 765-8329; cell 202-2231 | Jessica Perret
+
+_______________
+Geri Palermo | 765-8085; pager 237-9052; cell 247-2191                       
+765-8696;cell 938-4795 | EOC data book | Every 2 months | scheduled meeting to review 2/3/2006 | nan | nan | Periodic Paging Alerts | nan | nanOrganization Chart | Lisa Split-Log | 765-6898 | Lisa Loustalot | 765-8769 | Lake Link (last source) | As Needed | nan | nan | nan | All Clear Announcement | nan | nan
+A map of the organization | John Beard | 765-6818; cell 362-2970 | Larry Cunningham | 765-8058; cell 202-8035 | nan | As Needed | nan | nan | nan | nan | nan | nan
+List of depts/units/areas/programs/services w/in the organization | Tandra Davison | 765-6818; cell 362-2970 | Millie Pixley 765-8325 | 765-8325; cell 332-6295 | 2006 Plan for the Provision of Care | As Needed | Updates due 3/31/2006 | nan | nan | nan | nan | nan
+Staffing effectiveness data | Tandra Davison | 765-6818; cell 505-9816 | Lulu Ford | 765-7859/cell 931-9998 | PI Data book | Semi-Annually | scheduled meeting to review 2/3/2006 | nan | nan | nan | nan | nan
+Reports/lists of patients to identify individual tracers | Clay Horn | 765-7746 | nan | nan | CIS report | nan | nan | nan | nan | nan | nan | nan
+Name of key contact person to assist in planning tracer selection | Tandra Davison | 765-6818; cell 362-2970 | Millie Pixley | 765-8325; cell 332-6295 | nan | nan | nan | nan | nan | nan | nan | nan
+PFP data  | Tandra Davison | 765-6818; cell 362-2970 | Millie Pixley | 765-8325; cell 332-6295 | JC Connect | Quarterly | print off day of survey | nan | nan | nan | nan | nan
+MOS identified in the plan of action for the PPR | Tandra Davison | 765-6818; cell 362-2970 | Millie Pixley | 765-8325; cell 332-6295 | AMP | As Needed | Complete | nan | nan | nan | nan | nan
+Core measures data | Tandra Davison | 765-6818; cell 362-2970 | Storm Randall | 765-7851 | PI Data book | Quarterly | nan | nan | nan | nan | nan | nan
+Organ donation and procurement coversion rates | Tandra Davison | 765-6818; cell 362-2970 | Michelle Dimattia  | 765-5287; cell 964-3604 | LOPA report | Quarterly | nan | nan | nan | nan | nan | nan
+Medical record delinquency data | Jennifer Artigue | 765-8847 | Charmaine Mosby | 765-6450 | HIM Minutes | Monthly | nan | nan | nan | nan | nan | nan
+MDS Quality Measures reports | Lesley Tilley Pattie Jackson | 765-6746; cell 936-4267 | Kathy Delfino | 765-8060, 765-8836 | MDS Coordinator | As Needed | nan | nan | nan | nan | nan | nan
+LTC most recent CMS state certification report | Lesley Tilley Pattie Jackson | 765-6746; cell 936-4267 | Libby Gonzales Pattie Jackson | 754-8489, 765-8836 | Posted on unit | 2006 Results | none needed | nan | nan | nan | nan | nan
+Infection Control Plan, Risk Analysis and Annual Assessment | Blanche LeBlanc | nan | nan | nan | IC Data book | Quarterly | nan | nan | nan | nan | nan | nan

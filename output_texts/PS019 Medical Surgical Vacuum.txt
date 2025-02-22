@@ -1,0 +1,33 @@
+ 
+Plant Services 
+ 
+ PS019 
+Page 1 of 1 
+Title: Medical Surgical Vacuum 
+Revision Date: 02/08/2024 
+Review Date: 09/30/2021 
+Reference # PS019 Origin Date: August 1988 
+ 
+PURPOSE: 
+To provide a safe physical environment for patients, staff and visitors at all Our Lady of the Lake 
+Regional Medical Center (OLOL) network locations. 
+ 
+POLICY: 
+Medical vacuum systems are provided by OLOL to adequately service hospital needs. Systems provide 
+dual pumps for alternating cycles and stand-by isolation purposes. Four (4) separate systems are 
+available and can be tied together by a by-pass valve. 
+ 
+PROCEDURE: 
+1. Vacuum systems are maintained and inspected annually. 
+2. Alarm systems are installed in the Plant Services Control Room and PBX to alert staff of a vacuum 
+loss. 
+3. Cross-valving is provided and labeled to connect alternate vacuum systems. 
+4. Upon loss of vacuum, Plant Services will open the by-pass valve and connect the system, then shut 
+down the inoperative system. 
+ 
+REFERENCES: 
+Joint Commission (JC), Environment of Care (EC).02.05.01, Element of Performance (EP) 2 
+EC.02.05.03; EC.02.05.09, EP 7 and 10 
+National Fire Protection Association (NFPA) 99-2012, Chapter 4 
+NFPA 99-2012: 5.1.14.2, 5.1.15, 5.2.14, 5.3.13 
+ 

@@ -1,0 +1,141 @@
+ 
+1 
+ 
+RESPONSIBLE DEPARTMENT:   
+Compliance 
+SUBJECT:   
+Patient’s Right to Opt Out of Facility 
+Directory  
+NUMBER OF PAGES: 
+4 
+REPLACES POLICY (NUMBER/DATE): 
+ 
+EFFECTIVE 
+DATE: September 
+23, 2013 
+ 
+REVISION DATE: 
+July 25, 2016 
+POLICY NUMBER: 
+COR - 302 
+ 
+SCOPE:  
+  Applies to Our Lady of the Lake Regional Medical Center (OLOLRMC) and its wholly owned 
+Sponsored Organizations (collectively referred to herein as “Entity”) that use, disclose, create, 
+receive, maintain or transmit Protected Health Information, as defined below.    
+PURPOSE:   
+  To provide guidance for the proper acceptance and processing of a patient’s right to opt out of 
+an Entity Directory. 
+POLICY:   
+  Patient’s Protected Health Information may be used to maintain a directory of patients who are 
+admitted to an Entity (the “Entity Directory”) except when an objection is expressed by the 
+patient or the patient’s personal representative. 
+DEFINITIONS: 
+  “Covered Entity” means a health plan, health care clearinghouse, or a health care provider who 
+transmits any health information in connection with a transaction covered by HIPAA, such as 
+electronic claims submission. 
+  “Entity” means OLOLRMC and its wholly owned sponsored organizations 
+  “Entity Directory” means the list of patients who are admitted to any Entity. 
+  “Notice of Privacy Practices or NPP” means a Covered Entity’s notice required by regulations 
+implementing HIPAA’s privacy recommendations that describe the Covered Entity’s uses and 
+disclosures of a patient’s Protected Health Information, the Covered Entity’s legal duties 
+regarding a patient’s Protected Health Information, an individual’s rights regarding his or her 
+Protected Health Information and the types of uses and disclosures that require an individual’s 
+authorization. 
+  “Protected Health Information or PHI” means all information, including demographic data,  
+2 
+ 
+that relates to an individual’s past, present or future physical or mental health or condition, the 
+provision of health care to an individual, or the past, present, or future payment for the provision 
+of health care to an individual, and that identifies an individual or for which there is a reasonable 
+basis to believe it can be used to identify an individual.  Individually identifiable health 
+information includes many common identifiers (e.g., name, address, birth date, Social Security 
+Number).  Individually identifiable health information in employment records held by an Entity 
+in its role as an employer is not PHI (e.g., employment-related testing and employer health 
+assessments.) 
+“Sponsored Organization” means a legal entity either wholly-owned by OLORMC or a 
+subsidiary entity of an entity wholly-owned by OLOLRMC that is also a Covered Entity. 
+PROCEDURE: 
+Information Included in Entity Directory 
+   The following information may be used to maintain the Facility Directory: 
+A. Patient’s name; 
+B. Patient’s location; 
+C. Patient’s condition in general terms (e.g., good, fair, poor, critical or deceased); and 
+D. Patient’s religious affiliation.   
+Facility Directory Access 
+   The above information may be disclosed to community clergy.  Other persons who ask for the 
+patient by name may be told the patient’s location and condition only. 
+Right to Opt-Out of Directory 
+   Each patient or the patient’s personal representative shall be notified by means of the Notice of 
+Privacy Practices of his/her right to opt out of being listed in the Entity Directory.  A patient or 
+the patient’s personal representative may request to opt out of the Facility Directory by 
+completing a “Directory Disclosure – Status Change Request” (see Attachment A).  All opt out 
+requests shall be forwarded to the Patient Access/Admitting Supervisor or his/her designee to 
+ensure patient information is made confidential within the registration system.  A patient who 
+has elected to opt out of the facility directory may request to opt back in at any time by 
+completing the attached form. 
+Patient Inability to Opt Out 
+ If the opportunity to object to being included in the Entity Directory cannot be provided (e.g., 
+patient is incapacitated or in an emergency treatment circumstance), the patient may be included 
+in the Entity Directory unless the applicable medical provider determines, in his/her professional 
+judgment, that the patient should not be listed in the Entity Directory.  As soon as reasonably 
+practicable, the patient shall be informed and provided the opportunity to object (i.e., when the 
+patient is able to receive the Notice of Privacy Practices).  
+Emergency Circumstances.  
+ If the patient is incapacitated and cannot object to the release of information, the Entity may use or  
+3 
+ 
+disclose all of the protected health information for the facilities directory, if the disclosure is: 
+1. Consistent with a prior expressed preference of the individual, if any, that is known 
+2. In the individual’s best interest as determined by the Entity 
+ 
+ The Entity must inform and provide an opportunity to object to uses or disclosures for directory purposes 
+when it becomes practicable to do so. 
+ 
+ 
+REFERENCES: 
+• Health Information Portability and Accountability Act (HIPAA), Standards for Privacy of 
+Individually Identifiable Health Information - 45 CFR Part 164, Section: 164.510(a) 
+• Health Information Technology for Economic and Clinical Health Act, Title XIII of the 
+American Recovery and Reinvestment Act of 2009 
+ATTACHMENTS: 
+• Directory Disclosure – Status Change Request  
+4 
+ 
+ATTACHMENT A 
+Director Disclosure – Status Change Request 
+I hereby request that my name, general condition, religious affiliation, and location not 
+be included in the Hospital Directory.  By invoking this right, I understand that people 
+inquiring by phone and visitors shall be told “I have no information about this 
+patient.”  No deliveries, including cards or flowers, will be forwarded to me.   
+ 
+Print Name: ______________________    Date: ___________ 
+ 
+Signature : ________________________ Time: ___________ 
+ 
+Witness printed Name/Title: ___________________________ 
+ 
+Witness signature: ___________________________________ 
+____________________________________ 
+ 
+I hereby request that my name, general condition, religious affiliation, and location 
+be placed in the Hospital Directory.  I no longer wish to “opt out,” as previously 
+indicated. 
+ 
+Print Name: ______________________    Date: ___________ 
+ 
+Signature : ________________________ Time: ___________ 
+ 
+Witness printed Name/Title: __________________________ 
+ 
+Witness signature: ___________________________________ 
+ 
+Facility Use Only: 
+Form to be forwarded to Patient Access Supervisor (or designee). 
+ 
+Status change request processed by: _______________________________ 
+  
+5 
+ 
+Received by Facility Privacy Official (or designee) ____________________ 
+To be filed in permanent medical record. 

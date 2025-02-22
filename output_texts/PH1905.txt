@@ -1,0 +1,59 @@
+ Policy 1905 
+Page 1 of 2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy Section: Billing and 
+Finance 
+Title: Outpatient Infusion Auditing Policy Reference #: PH1905 
+Supersedes #:  
+Date of Origination: 1/15/2016 Last Date Reviewed:  05/15/2024 
+Last Date Revised: 8/23/22 
+ 
+POLICY: 
+Charges for outpatient infusions will be reviewed using various technologies to ensure that the dose 
+administered to the patient is accurate, the dose is broken down to the correct billable unit and the charge 
+contains the correct national drug code (NDC) as well as the vials used in the preparation of the admixture.   
+STATEMENT OF PURPOSE: 
+To ensure that there is a process in place for outpatient infusions such that they are billed accurately with 
+regard to all of the requirements of any third-party payors.  Additionally, should the hospital choose to 
+use the JW modifier to minimize loss from drug, this policy will outline the correct procedure. 
+DEFINITIONS: 
+NDC:  The National Drug Code is a unique 10 -digit, 3 -segment numeric identifier assigned to each 
+medication listed under Section 510 of the US Federal Food, Drug, and Cosmetic Act. The segments 
+identify the labeler or vendor, product (within the scope of the labeler), and trade package (of this product). 
+Billable Unit:  Billable Unit is the J -Code increment of NDC units to be entered on the claim. Each J -
+code is priced in the billable unit to correspond to the CMS established definition for each medication.   
+J Code:  Related to Permanent billing HCPCS codes used to report injectable drugs that ordinarily cannot 
+be self-administered; chemotherapy, immunosuppressive drugs and inhalation solutions as well as some 
+orally administered drugs. 
+HCPCS:  The Healthcare Common Procedure Coding System is a set of health care procedure codes based 
+on the American Medical Association's Current Procedural Terminology (CPT) used for billing. 
+JW Modifier:  The JW Modifier is a billing code, similar to a J-Code, in which CMS will pay for both the 
+administered and discarded drug and biological if specific criteria are met.  A HCPCS JW modifier can 
+be billed if an unused portion of the drug/biological is approp riately discarded.  CMS acknowledges that 
+there are circumstances where unused drugs or biologicals must be discarded.  HCPCS modifier JW, billed 
+on a separate line, will provide payment for the amount of discarded drug or biological. 
+DoseEdge:  The DoseEdge Pharmacy Workflow Manager is a solution that interfaces with Pharmacy 
+Information System (PIS) to automate the process of routing, preparing, inspecting, tracking and reporting 
+on IV and oral liquid doses.  Displays key preparation details, in cluding dose calculations, preparer, 
+products used, lot numbers, NDC’s, and expiration dates. 
+Epic:  OLOL software system used to electronically document a patient’s medical record.   EPIC is the 
+electronic medical record, containing pertinent patient information such as  a patient account number  Policy 1905 
+Page 2 of 2 
+(CSN), Order ID (Rx #) and NDC.  EPIC also has a Charge Detail File, used to compare information from 
+DoseEdge.  
+ 
+PROCEDURE: 
+1. The transaction file from Dose Edge for the date in question is queried through Dose Edge.  The 
+Dose Edge file has the NDC, Order ID, and CSN.   
+2.  A Charge Detail file from Epic is obtained and utilizes the same 3 fields above from DoseEdge to 
+match needed information.  The charge detail also contains billable unit and JCode information. 
+3. The file is then analyzed and compared for NDC discrepancies between the Charge Detail file to 
+Dose Edge File.  The file is then manually researched for each line item with discrepancies. 
+4. The correct NDC’s from the DoseEdge file are noted on the Charge Detail spreadsheet, as well as 
+any billable unit corrections, if applicable. 
+5. The final spreadsheet is then sent to OLOL billing for corrections. 
+6. After corrections are completed, Pharmacy visually confirms that the UB04 has been changed. 
+7. Routinely, the NDC mismatches will be analyzed for patterns.  If an NDC has been a permanent 
+mismatch for the item in question, a ticket will be entered for the Epic Willow team to address.   
+ 
+ 

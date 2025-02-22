@@ -1,0 +1,59 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Blood Gas Lab 
+Subject:  Blood Gas Machine Maintenance POC Section: Blood Gas Lab 
+Date of Origination: April 1, 2012 Signature:  
+Date of Last Revision:January 31, 2024 Serial Code: RC9-08A 
+                   Reviewed: January 31, 2024 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+To ensure that the required maintenance for the analyzer is completed and thus provide 
+proper operation of the analyzer.  
+ 
+PROCEDURE: 
+A. Daily, weekly, monthly and semiannual maintenance will be performed in 
+accordance with Policy RC9 -08. External Quality Controls  will be performed 
+monthly in accordance with RC9-22A. 
+ 
+B. All Monthly, Weekly, Semiannual and Yearly maintenance will be recorded in the 
+analyzer’s log sheets and in the Blood Gas Lab’s Maintenance binder.  A record of 
+date when placed in service and serial numbers for all cartridges are maintained and 
+tracked in the RALS.  All repairs and routine service procedures are maintained for 
+each instrument in the Blood Gas Lab’s Maintenance binder.  
+ 
+C. "As Required Procedures" 
+1. Temperature corrections.  
+If refrigerator or ambient temperature is outside the acceptable range as 
+defined by manufacturer for temperature dependent equipment and 
+environments, the following steps must be taken. Acceptable ranges are 
+specified on all logs.  
+a. Adjust the thermostat to correct the temperature problem. While 
+waiting for the temperature to come in range, perform step “b”. 
+b. For refrigerator, transfer cartridges to a refrigerator that is functioning 
+properly. For room temperature, the analyzer will be placed “out of 
+use” and all other controls or cartridges will be transferred to a lab 
+that is in compliance with manufacturer temperature 
+recommendations.  
+c. Notify Plant Services for inspection and/or repair of faulty unit if 
+reset of the thermostat does not correct the problem. 
+d. Note and initial occurrence and corrective measure taken in the 
+temperature log. 2. Before each sample is analyzed, a new test card will be inserted and an 
+electronic QC and calibration is done.  
+3. For instrument set up, refer to the operator’s manual.  If the instrument 
+requires a shut down refer to operators manual. The operator’s manual is 
+readily available at each instrument. 
+4. Record the "as required" maintenance in the Maintenance Checklist. 
+ 
+D.  Service and repair of instruments 
+ Performance of instruments is verified after repair to ensure they run according to 
+ expectations. This will be validated by running and passing three levels of quality 
+ control material. This will be documented in the electronic management system. 
+ 
+E. Laboratory Records will be retained for a minimum of two years.  Should the lab  
+ cease operation all records will be maintained for a minimum of two years. 
+ 

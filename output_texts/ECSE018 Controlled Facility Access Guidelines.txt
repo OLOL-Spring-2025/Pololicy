@@ -1,0 +1,55 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Environment of Care 
+Our Lady of the Lake Regional Medical Center Chapter:  Security Management 
+Subject:  Controlled Facility Access Guidelines Section:   
+Date of Origination:  12/20/2007 Supersedes:       
+Date Last Revised or 
+Reviewed: 
+11/15/2022   Serial Code:  ECSE018 
+ PURPOSE: 
+Controlled Access of our facility is critical to our safety plan and operational environment. This policy is designed 
+to provide guidance and justification for adding access control to additional areas. Its purpose is also to ensure we 
+allow appropriate access to patient care areas.  
+CRITERIA FOR REQUESTING ACCESS READERS: 
+1. A Vulnerability/Risk Assessment must be completed by the Director/Manager of Security or Designee 
+that outlines the Risk/Threat Level. This will be completed within 30 days of the device request. 
+a. The request must be justified by the risk assessment as a moderate to high risk. 
+b. The request may be considered for HIPPA, Joint Commission, Emergency Management, or other 
+regulatory requirements/recommendations. 
+c. The device must not be used as a quality improvement tool; instead, root cause analysis should occur 
+first. 
+d. The device should not alter the flow of traffic as to inconvenience customers or patients. 
+e. The Access Control device must be supplied by ESG and contain the following items: 
+i. Magnetic Locks (1200 lbs.) or door strikes. 
+ii. Proximity Card Reader (unless a specific request for a different application choice is approved). 
+iii. Control Panel. 
+iv. Motion Sensor 
+v. Emergency Exit Button. 
+2. A quote for the Access Control device must be made through the Director/Manager of Security (or 
+designee) so that the Risk Assessment can be completed. 
+3. There must be a proper structure in which to mount the door hardware and reader. 
+4. The device must be reviewed by the Environment of Care Committee. 
+5. All Access Control devices are submitted to the Fire Marshal for final approval. 
+ 
+Risk Assessment for Adding Access Control Devices 
+The following departments are to be notified when an added/ supplementary device is requested. This  2 
+ensures all additional devices are properly gauged before applying access controls and compromising 
+patient, staff or guest flow.  
+ 
+ Security Services 
+ Facilities Management 
+ EOC 
+ HIPPA, Joint Commission,  
+ Emergency Management 
+ Device Manufactory/ Contract Services  
+ Other Regulatory requirements/recommendations. 
+ Use of device  
+ Device structure 
+ Traffic Flow conducive to patient care and customers or patients routing/transport 
+ Impeding device detection 
+ 
+ 
+ 
+Assessment Completed by:       ______________________________ 
+Date:  ______________________________ 
+ 

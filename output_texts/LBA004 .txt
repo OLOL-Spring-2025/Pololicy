@@ -1,0 +1,479 @@
+  1 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 1 of 10  
+LBA004 
+LABORATORY ADMINISTRATION MANUAL 
+LBA004 
+SOP FOR POLICY AND PROCEDURE MANUALS 
+        Date Issue  Date Effective Date 
+ Prepared/Revised By D Leger 10/23/17   
+Blood Donor Service Director Review   Origination Date 
+Core Lab Director Review   10/23/17 
+Outreach Director Review    
+Medical Director Review    
+                    
+ 
+ 
+I. PRINCIPLE 
+       The purpose of a Standard Operating Procedure (SOP) for policy and procedure manuals  
+ is to provide guidance and consistency in the process of writing, maintaining and  
+ disseminating policies and procedures for use in the clinical laboratory. Policy and  
+ Procedure manuals are a key element in quality control within the laboratory  
+ and ultimately in assuring quality health care. All policies, procedures, forms, and job  
+aids used in the laboratory are subject to proper document control.  All policies, 
+procedures, forms, and job aids created and maintained by Lake Lab Services (LLS) 
+Laboratories will adhere to the Document Control 
+ 
+II. DEFINITIONS 
+  
+ Policy – A guiding principle used to set direction in an organization. 
+ 
+Procedure – A series of steps to be followed as a consistent and repetitive approach to 
+accomplish an end result.  May also be referred to as Standard Operating Procedure 
+(SOP). 
+ 
+Variance – Any deviation from established standard operating procedure or 
+specifications. 
+ 
+III. MATERIALS/EQUIPMENT 
+A. Laboratory Policy Manuals 
+B. Laboratory Procedure Manuals         
+B. Laboratory Job Aids 
+C. Laboratory Forms 
+D. Microsoft Word 
+E. Microsoft Excel 
+F. Electronic File containing archived policies and procedures.   2 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 2 of 10  
+LBA004 
+G. Physical File containing archived policies and procedures. 
+H. Policy / Procedure Template (LBA004-A) 
+I. New/Revised SOP Notification Form Template (LBA004-B) 
+J. Approval for SOP Variance (LBA004-C) 
+K. Biennial Review Template (LBA004-D) – [for CAP labs] 
+L. Table of Contents Template (LBA004-E) 
+M. Master List of Laboratory Policies and Procedures (LBA004-F) 
+N. Annual Review Template (LBA004-G) – [for COLA labs] 
+ 
+IV. PROCEDURE 
+  
+A. TABLE OF CONTENTS 
+The policies or procedures are listed in the order of appearance in each manual.  Each 
+SOP or policy has a title and unique document identifier.  Each SOP or policy has the 
+most current version date listed. 
+ 
+B. HEADER 
+The facility name, department name, city, state and zip code of the facility must            
+appear at the top left corner of each procedure page. 
+ 
+C. SOP or POLICY RECORD BOX (Template LBA004-A) 
+ A detailed record of the history of a policy or procedure must include: 
+1. Manual Name 
+2. Policy or SOP Name 
+3. Document Identifier (Index #) – Each policy or procedure is assigned a 
+prefix and unique number. The prefix designates the policy or procedure 
+manual associated with the policy or procedure. The unique number is the 
+number of the procedure as it appears in the Table of Contents.  [E.g. this 
+SOP’s Document Identifier is LBA004]. 
+4. Origination Date - The date of implementation of the original procedure. 
+This shall remain permanently on the procedure. 
+5. Prepared/Revised by/Date – Initials and Date procedure written or 
+revised. 
+6. Validated by/Date (optional) - Initials and Date procedure reviewed by 
+Testing Personnel and revisions found acceptable for use by that 
+individual.  This step is useful in ensuring that the SOP written or revised 
+by supervisory staff can easily be used by Testing Personnel prior to 
+implementing new or changed SOP. 
+7. Reviewed by/Date - Initials and Date procedure approved by the 
+Supervisor or designee, the Departmental Medical Director (may not be 
+applicable to every lab), and the Laboratory Medical Director.        
+8. Issue Date – Date procedure issued for training and/or review by affected 
+employees. 
+9. Effective Date - Date of implementation of the new or revised procedure. 
+ 
+   3 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 3 of 10  
+LBA004 
+D. FOOTER 
+The footer section of each procedure consists of two parts: the Document 
+Identifier and the page number.  
+1. Document Identifier is noted at the bottom center of each page.   
+2. Page numbers are assigned using the Page X of Y format and are noted at 
+the bottom right of each page of the procedure. 
+ 
+E. FORMAT 
+All laboratory policies and procedures should be structured so that the user can 
+quickly focus on the aspect of policy or procedure relevant to their decision/task 
+at hand.  Policies and procedures will be typed using the Microsoft Word 
+Document Program.  Type Font should ideally be 10 or 12 point (less than 8 point 
+not recommended) so that policies and procedures are easily legible.  Font style 
+should be reasonable and standard throughout a single document employing 
+generous use of white space. Times New Roman font style is preferred. Calibri, 
+Cambria, and Arial are also acceptable.  
+ 
+F. PROCEDURE OUTLINE  
+Some Elements may be not applicable to the procedure being written.  Conversely 
+additional elements may be necessary in order to write a comprehensive 
+procedure.   
+Manufacturer’s instructions should be the primary resource for test procedures.   
+Manufacturers often provide procedure templates for use in creating appropriate 
+procedures with all applicable elements.  These may be used as long as they are 
+formatted using the standardized LLS Laboratory format described in this 
+procedure. 
+ 
+1. Title 
+The title should be concise and descriptive.  Consideration should be given 
+to using logical wording that facilitates indexing and locating any given 
+procedure.  The word order should be based on usual laboratory inquiry. 
+ 
+2. Principle 
+The principle of a procedure defines the objective of the procedure and the  
+general process or method used.   
+ 
+3. Specimen 
+Includes the type of blood specimen required along with the following 
+criteria: 
+a. Conditions for patient preparation, if applicable 
+b. Type of blood specimen, i.e., EDTA or clot 
+c. Amount of specimen 
+d. Anticoagulant of choice, alternative anti-coagulants, and 
+unacceptable choices 
+e. Storage and stability requirements   4 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 4 of 10  
+LBA004 
+f. Conditions that can interfere with test results, i.e., hemolysis and 
+lipemia 
+ 
+4. Materials/Equipment/Materials/Forms 
+The reagents, supplies, and equipment needed and any forms as 
+applicable. Storage requirements should also be listed.   
+ 
+5.  Calibration 
+The process of configuring an instrument to provide a result for a sample 
+within an acceptable range. 
+ 
+6. Quality Control 
+Includes identification of control material, frequency with which controls 
+should be run, acceptable and unacceptable results for the controls, and 
+corrective action to be taken when QC results are unacceptable. 
+ 
+7. Procedure  
+a. Write clear, step-by-step procedure to be followed.  Include all 
+critical steps of process in sufficient detail for trained and 
+competent individual to follow. 
+b. Begin each step with an action verb. 
+c. Define abbreviations in document prior to use. 
+ 
+8. Interpretation of Results 
+The preparer should define acceptable end-points and the range of 
+expected results where applicable.  The preparer should also identify 
+procedures used in reporting abnormal results to the physician.  The 
+appropriate explanation for those procedures that require interpretive 
+reporting should also be included. 
+ 
+9.  Limitations 
+Defines elements that may cause false or erroneous results. 
+ 
+10. References 
+These are specific citations that substantially support the procedure and its 
+objective. Sources of reference may be manufacturer's operating manuals, 
+direction inserts, technical manuals, Regulatory standards, and textbooks. 
+ 
+11. Revisions 
+The procedure revision date is recorded at the end of the procedure.  
+Previous revision dates are retained to provide a historical sequence of 
+revisions for the procedure.     
+ 
+ 
+ 
+   5 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 5 of 10  
+LBA004 
+G.  POLICY OUTLINE 
+ 
+1.  Title 
+The title should be concise and descriptive.  Consideration should be given 
+to using logical wording that facilitates indexing and locating any given 
+procedure.  The word order should be based on usual laboratory inquiry. 
+ 
+2.  Scope 
+The scope of a policy defines the extent to which the policy is relevant.  It  
+provides a consistent, logical framework for action.  The scope should  
+consist of a concise summary statement of the rationale for the policy,  
+including if appropriate, reference to external regulations. 
+ 
+3.  Definitions 
+Definitions of terms (as needed).  Acronyms and abbreviations should be 
+defined before use. 
+ 
+4.   Policy 
+Detailed policy statement.  The policy should include related policies and 
+references for more information.  Ensure that documents cited are readily 
+available.  If needed, provide additional background discussion here. 
+Reference the detailed procedures that are recommended in order to carry 
+out the intent of the policy. 
+ 
+5.   References 
+These are specific citations that substantially support the policy and its  
+Objective. Sources of reference may be manufacturer's operating manuals,  
+direction inserts, technical manuals, Regulatory standards, Over-arching  
+Organizational policies, and textbooks. 
+ 
+6.   Revisions 
+The policy revision date is recorded at the end of the procedure.   
+Previous revision dates are retained to provide a historical sequence of  
+revisions for the policy. 
+ 
+H. CONTROLLED ACCESS 
+1. Each policy and procedure manual is maintained in an individual file folder 
+on the T drive within the Microsoft software program. 
+2. Access to the Tdrive is provisioned to Laboratory Supervisory Staff that has 
+been delegated to revise, create, and manage Laboratory policies and 
+procedures. 
+3. Departmental Supervisors and Senior Technologists are the folder owners 
+for their specific file folder. 
+4. Lab Supervisory staff that has been authorized to access the T drive will not 
+modify or access a Departmental Folder not their own without permission 
+of the Folder Owner. See LBA020 – Delegation of Responsibility for   6 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 6 of 10  
+LBA004 
+defined Laboratory Roles. 
+5. A hard copy of each policy and procedure manual is kept in the applicable 
+department for use by Laboratory Staff. 
+6. Laboratory Policies and Procedures may be shared online through the 
+SharePoint Document system as long as the following criteria are met: 
+a. Policies and Procedures will be shared in PDF format to prevent 
+intentional or unintentional modification of documents. 
+b. Policies and Procedures shared electronically will be immediately 
+updated to the most current version in-use as revisions occur. 
+c. Policies and Procedures must also be available in hard copy form 
+in the event of a computer downtime. 
+ 
+I. CREATING AND REVISING ELECTRONICALLY 
+1. Each Department or Lab has their own individual Folder on the T drive.   
+2. Within each Main Departmental/Lab folder, current versions of in-use 
+documents, documents being revised or created, and documents that have 
+been retired are kept separate from each other. 
+3. Revisions are never made directly to an existing document. 
+a.  Perform “save as” on the existing document to create a copy that 
+can be revised without interfering with the integrity of the current 
+version. 
+b. Add “rev” to the title of the copied document to indicate that this 
+is a working version which is not yet in effect.  
+c. Save the copy in a designated working folder separate from 
+current documents.   
+d. New documents should also be created in a working folder.  Add 
+“new” to the title of the new working document. 
+4. Multiple authorized users may work on a single document within the tdrive 
+using the “Track Changes” functionality of Microsoft Word.  Users can 
+see proposed changes and approve or reject them.  This function reduces 
+the risk of revisions being lost due to having multiple copies being revised 
+independently. 
+ 
+J. REVIEW AND APPROVAL OF NEW/REVISED DOCUMENTS  
+1. The Departmental Supervisor or designee, the Departmental Medical 
+Director, and the Laboratory Medical Director review and approve each 
+applicable new or revised policy or procedure before it is implemented.   
+2. Each policy, procedure, job aid, or form is submitted for approval prior to 
+use in the following manner: 
+a. Optional validation step - Procedure is given to a lead individual 
+to read and perform steps of procedure as written to check for 
+clerical errors, that steps of procedure can be followed as written, 
+and to make suggestions for improvement of procedure.  If there 
+are no corrections proceed to step c.  If corrections are needed 
+continue to next step. 
+b. Corrections are made to procedure and the lead individual will   7 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 7 of 10  
+LBA004 
+then repeat step a. 
+c. Each policy, procedure and/or job aid must be reviewed with 
+accompanying forms and approved/signed by the Departmental 
+Supervisor or designee, the Departmental Medical Director (where 
+applicable), and the Laboratory Medical Director. If there are no 
+corrections proceed to step 3.  If corrections are needed continue to 
+next step. 
+d.  Corrections are made to procedure and step c will be repeated. 
+3. Each policy or procedure must be posted for review by the personnel 
+responsible for carrying out the policy or procedure prior to 
+implementation using the New/Revised Notification Form Template 
+(LBA004-B).  Any training required will be indicated on this form. The 
+review and documentation of review must be performed prior to 
+implementation, or any modification thereof. 
+4. Submit approved procedure to staff for documentation of review of the 
+new/revised policy/procedure before it is implemented in the following 
+manner:   
+a. Issue date – the date a policy or procedure is submitted to relevant 
+staff for review and acknowledgement of changes prior to being 
+put into effect.  The time between Issue Date and Effective Date 
+should be sufficient to allow all relevant staff to be made aware of 
+the pending change.  Two weeks for review and implementation is 
+usually sufficient. 
+b. Personnel on vacation, extended leave, or PRN are required to 
+review new policies and undergo necessary training prior to 
+performing tasks.   
+c. Personnel review may be manually documented using 
+New/Revised SOP Notification Form Template (LBA004-B) or it 
+may be performed electronically.  Both methods will be monitored 
+by supervisory staff for compliance prior to putting policies and 
+procedures into effect. 
+d. Effective date – the date a policy or procedure is put into effect.   
+e. Policies and procedures may be put into effect prior to obtaining 
+all employee signatures; however, a reason for delay must be 
+documented on the New/Revised SOP Notification Form Template 
+(LBA004-B).  Employees will perform Review and necessary 
+training prior to performing tasks. 
+f. Level of training needed for changes are decided by Supervisors in 
+conjunction with Manager and Compliance Officer and are subject 
+to Medical Director Supervision.  Procedures changed to improve 
+format or to implement needed clerical changes may need only a 
+review and require no additional training. 
+5. Some forms may be changed at need, independent of a procedure.  When 
+this occurs, date of revision is documented in footer section of form.  
+ 
+   8 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 8 of 10  
+LBA004 
+ 
+K. REVIEW OF POLICY AND PROCEDURE MANUALS 
+   Policies and procedures will be reviewed and revised as needed to remain current.  
+   In addition, all Laboratory policies and procedures will be periodically reviewed  
+   to ensure that all content is current in regards to Regulatory Standards,  
+   Manufacturer’s Package Inserts, associated Organizational Policies, and any local,  
+   state, or federal guidelines. 
+1. Each policy and procedure manual is reviewed biennially by the 
+Departmental Medical Director or designee (CAP accredited labs). 
+Documentation of this review is maintained on the Biennial Review Form 
+(LBA004-D) located at the beginning of each manual.   
+2. COLA accredited lab reviews are performed annually by the Lab Medical 
+Director.  They are not delegated.  Documentation of this review is 
+maintained on the Annual Review Form (LBA004-G) located at the 
+beginning of each manual.   
+ 
+L. ARCHIVE RETIRED/REVISED DOCUMENTS 
+1. When a policy or procedure is discontinued or a revised version has been 
+approved, the retirement date is documented on the original hard copy.  
+This copy is filed and maintained for at least two years (AABB 
+accreditation standards require 5 year retention).  The file shall be placed 
+in a location that ensures Laboratory Staff are unable to access 
+unintentionally. 
+2. Copies of Retired/Revised Forms must all be removed from use upon 
+implementation of New/Revised Forms.  It is the responsibility of the 
+Supervisory Staff implementing New/Revised Forms to locate and remove 
+copies of outdated Forms from use. 
+3. Retired/Revised electronic version shall be moved to an archive folder on 
+the Tdrive. 
+ 
+M. FORMS 
+Applies to Forms associated with both Policies and Procedures 
+ 
+1. Forms will be given a Document Identifier and will be included on a Master 
+Forms List.   
+NOTE – The Template Forms listed in this procedure may be assigned a 
+new Document Identifier as needed for implementation within individual 
+Departments or other LLS Laboratories. 
+2. Each form related to procedure will be linked to that procedure in the 
+following manner: 
+a. The form will be assigned a Document Identifier that links it to the 
+procedure which describes its use followed by an alpha link to that 
+policy. [E.g. the first form associated with this procedure is 
+(LBA004-A).] 
+b. The title of the form will include the Document Identifier. 
+c. The form is filed with that procedure as part of the procedure.   9 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 9 of 10  
+LBA004 
+d. A master list of forms in use will be kept in the Department and 
+will include the Form name, Document Identifier, and Current 
+Version. Master Form List may be included on the end of or 
+integrated into the Table of Contents. 
+3. All forms must have the Current Version date in “Footer” section of 
+document. 
+4. All forms must have the Document Identifier in the “Footer” section of the 
+document. Forms are identified in the “Footer” in one of the following 
+ways: 
+a. By filename and pathway (Filepath) – Filepath allows all 
+supervisory staff who have been granted access to the tdrive to 
+easily identify exactly where forms are stored on the tdrive in the 
+event that the last original printed copy gets used.  This is 
+especially useful when forms are shared and used throughout the 
+lab.  Filepath includes the Title of the form which will also include 
+the Document Identifier.  Filepath is assigned in the following 
+manner: 
+i. From Insert Tab, click Quick Parts,  
+ii. From dropdown box choose Field 
+iii. Choose Field Name of “File Name” 
+iv. Check off “add path to filename” under Field Options 
+b. Document Identifier – it is acceptable to simply list the Document 
+Identifier in the “Footer”. 
+5. Every effort should be made to limit forms to one page.  In the event that a 
+single form requires multiple pages, the pages will be listed in the 
+“Footer” section in X of Y format on the right hand side. 
+ 
+N. JOB AIDS 
+Applies to Job aids associated with both policies and procedures 
+  
+1. Job aids include Quick Reference guides, flowcharts, and any other 
+abbreviated document that helps Laboratory Staff perform their job duties 
+quickly and accurately without the need to access the full policy or 
+procedure. 
+2. Job aids shall be treated in the same manner as Forms.  Follow all 
+instructions listed in Forms section K steps 1-5.  
+ 
+O. SOP VARIANCE APPROVAL 
+Situations may arise that justify variance from SOP.  When these situations are 
+encountered appropriate approval must be secured prior to varying from SOP.   
+1. Complete an “Approval for SOP Variance” form (LBA004-C). Bring it to 
+the Supervisor or Senior Technologists for review.  Submit to 
+Departmental Medical Director or Clinical Pathologist for review.  If 
+Supervisor is unavailable, obtain Pathologist approval.  
+2. Completed forms are kept in the applicable Department. 
+3. In some clinical situations there might not be enough time to pursue   10 
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+LABORATORY  
+BATON ROUGE, LA 70808 
+  
+Page 10 of 10  
+LBA004 
+approval.  In this case complete a form and submit it for review as soon as 
+the time or situation permits.   
+  
+V. REFERENCES 
+A. CAP standard GEN.20375 
+B. AABB Standards for Blood Banks and Transfusion Services, Current Edition. 
+ 
+VI. REVISIONS 
+ 10/23/17 (created)
+  

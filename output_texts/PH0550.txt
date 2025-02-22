@@ -1,0 +1,301 @@
+OUR LADY OF THE LAKE REGIONAL MEDICAL CENTER 
+Policy Manual: Pharmacy  Section: Sterile Products 
+Title: Personal Protective Equipment for 
+Hazardous Drugs 
+Policy Reference #: PH0550 
+Supersedes #:  
+Date of Origination: 11/1/2023 Last Date Reviewed: 11/4/2024 
+Last Date Revised:  
+             
+  
+*FMOLHS Baton Rouge Market Pharmacies include: OLOL Inpatient Pharmacy, OLOL Cancer Institute Infusion Pharmacy, OLOL Non-Oncology 
+Infusion, North Baton Rouge Outpatient Infusion Pharmacy, OLOL at Ascension Inpatient Pharmacy, OLOL Children’s Hospital Inpatient 
+Pharmacy, and OLOL Children’s Hospital St. Jude Affiliate Pharmacy 
+ 
+1. Overview and Scope 
+1.1. This policy describes the procedures related to Personal Protective Equipment (PPE) where 
+Hazardous Drugs (HDs) are handled within FMOLHS Baton Rouge Market Pharmacies.  
+1.2. Harm to healthcare personnel from occupational exposure to HDs can occur throughout the 
+medication-use process including receipt, storage, transport, compounding, administration, 
+disposal and spill control. Types of occupational exposure to HDs include der mal absorption, 
+mucosal absorption, inhalation, injection, and ingestion. 
+1.3. Damage to healthcare workers from HDs can include but are not limited to chromosomal 
+aberrations, reproductive toxicities, and organ toxicities.  
+1.4. Healthcare workers can experience either an acute exposure and/or long-term exposure over an 
+entire career. Proper use of PPE is one of the mechanisms to limit occupational exposure to HDs 
+and to limit contamination to the healthcare environment. 
+1.5. FMOLHS Baton Rouge Market Pharmacies may exempt some dosage forms of HDs from full USP 
+<800> containment strategies and work practices as long as they are not Active Pharmaceutical 
+Ingredients (API) or antineoplastic drugs requiring manipulation beyond counting or repackaging 
+and if an Assessment of Risk (AoR) is performed, documented, and reviewed at least annually.  
+1.6. This SOP refers to all HD API, antineoplastic HDs requiring manipulation (beyond counting or 
+repackaging), and other non-antineoplastic and reproductive risk only HD dosage forms for which 
+an AoR has not been performed. 
+1.7. This SOP does not refer to PPE worn when handling a HD spill, refer to HD spill policy for 
+procedures. 
+2. Policy  
+2.1 All policies and procedures pertaining to compounding sterile and nonsterile preparations are 
+followed including hand hygiene and garbing, in addition to all procedures in this PPE policy for 
+HDs. 
+2.2 Appropriate HD PPE is required when handling HDs during: 
+• Receipt • Storage 
+• Transport 
+• Compounding (sterile and nonsterile) 
+• Administration 
+• Deactivation/decontamination, cleaning, and disinfecting  
+• Spill control  
+• Waste disposal  
+2.3 Gloves worn when handling HD always meet ASTM Standard Practice for Assessment of 
+Resistance of Medical Gloves to Permeation by Chemotherapy Drugs (D6978) or its successor. 
+Gloves are either sterile or non-sterile depending on use. 
+2.4 Personnel who handle any form of HD during normal job duties are trained and have 
+documented competency on proper handling of HDs per the HD Training Policy.  
+2.5 In addition to required garb for sterile and nonsterile compounding activities, personnel handling 
+HDs must don additional required PPE including: 
+• Chemotherapy Gown is donned over non-HD gowns and frocks  
+• Head and hair cover (including facial hair) 
+• Shoe covers 
+• Chemotherapy gloves 
+2.6 PPE is stored in a manner that minimizes contamination (e.g., away from sinks to avoid 
+splashing). 
+2.7 Donning and doffing of HD PPE is performed in appropriate locations immediately adjacent to 
+HD storage and/or compounding areas per HD Facilities and Engineering Control policy.   
+3. Roles & Responsibilities 
+3.1 Designated Person (DP): 
+• Ensures all personnel have education and training in the foundational knowledge and skills on 
+the proper use of PPE utilized when handling HDs as required by activities performed.   
+• Partners with Pharmacy Leadership to review PPE requirements based on an assessment of 
+risk (AoR) and the occupational safety plan for FMOLHS Baton Rouge Market Pharmacies. 
+• Ensures all PPE is appropriate for HD compounding. 
+• Provides immediate access to the SOPs, USP <800> and supporting Chapters and supporting 
+regulations, and other expert documentation to perform job duties successfully and safely. 
+3.2 Compounding Personnel: 
+• Remain current and in good standing on all required education, trainings, evaluations, and 
+assessments pertaining to handling HDs. 
+• Follow all policies pertaining to HDs and use proper PPE to decrease hazardous drug 
+contamination in the healthcare environment.  
+4. Procedures 
+Activity  Required PPE* 
+Receiving and storage • Single pair of chemotherapy glove  Activity  Required PPE* 
+o Two pairs of chemotherapy gloves required when leaking 
+shipping container, spills occur, or integrity of shipping 
+container is in question 
+• Chemotherapy gown 
+• Respiratory protection – when leaking shipping container, spills, 
+integrity of shipping container is in question 
+• Eye and face protections – when leaking shipping container, spills, 
+integrity of shipping container is in question  
+Transport • Single pair of chemotherapy gloves 
+Compounding 
+• Two pairs of chemotherapy gloves 
+• Chemotherapy gown 
+• Two pairs of shoe covers 
+• Head, hair covers 
+• Respiratory protection (if not performed in containment device)  
+•  
+Administration: 
+  Intact tablet or capsule 
+• Single pair of chemotherapy gloves  
+• Eye and face protection (when risk of spills or splashes) 
+Administration: 
+  Antineoplastic HDs 
+  Liquid drug 
+  Topical 
+  Irrigation 
+  Injection (SC, IM, IV, amp) 
+• Two pairs of chemotherapy gloves 
+• Chemotherapy gown  
+• Eye and face protection (when administration occurs at or above eye 
+level or when a risk of spills or splashes) 
+Administration: 
+  Inhalation 
+ 
+• Two pairs of chemotherapy gloves 
+• Chemotherapy gown  
+• Respiratory protection (if inhalation potential) 
+• Eye and face protection (when risk of spills or splashes) 
+Waste Disposal • Single pair of chemotherapy gloves 
+Cleaning 
+• Two pairs of chemotherapy gloves 
+• Chemotherapy gown 
+• Two pairs of shoe covers 
+• Eye and face protection 
+• Respiratory protection 
+Spill Control 
+• Two pairs of chemotherapy gloves 
+• Chemotherapy gown 
+• Two pairs of shoe covers 
+• Eye and face protection 
+• Respiratory protection 
+*Required PPE: unless differs in AoR  
+ 
+Gloves: 
+4.1 Chemotherapy gloves meet the standard ASTM D6978 or its successor. Gloves are either sterile 
+or non-sterile depending on use. Inspect gloves for physical defects before use, do not use gloves 
+with pin holes or weak spots.  
+4.2 Both pairs of chemotherapy gloves worn during HD CSP compounding are sterile. 
+4.3 Remove chemotherapy gloves by: 
+• Remove outer gloves one at a time:  o Touching the outer surface of the glove only, remove first glove turning glove inside out. 
+o Using the clean inside glove, remove second outer glove by placing fingers underneath 
+the wrist of the second outer glove and roll the glove down without touching outer 
+surface of glove with ungloved hand or fingers, turning carefully inside out to avoid 
+touching the outside of the glove and to not contaminate inner glove. 
+• Remove inner gloves one at a time following the same procedures above. Taking care not to 
+contaminate bare hands. 
+4.4 Wash hands with soap and water after doffing chemotherapy gloves. 
+Gowns: 
+4.5 Chemotherapy gowns are disposable polyethylene-coated polypropylene (or a similar laminate) 
+to resist permeation by HDs, seamless, close in the back, has long sleeves, and has cuffs made of 
+elastic or a knit material. 
+• Cloth laboratory coats, surgical scrubs, isolation gowns, or other absorbent materials are not 
+allowed to be worn when a gown is required for handling HDs and as the permeation of the 
+material can hold spilled drugs against the skin, increasing exposure.  
+• Chemotherapy gowns are intended to be worn over nonhazardous gowns and frocks to 
+provide two layers of protection to personnel. 
+• Change chemotherapy gowns per manufacturer's information or every two to three hours or 
+immediately after a spill or splash.  
+• Do not save or reuse gown for the remainder of a shift when removed. 
+Shoe Covers: 
+4.6 Don a second pair of shoe covers before entering Containment Secondary Engineering Control 
+(C-SEC) and doff when crossing the line of demarcation or perimeter line of the C-SEC.  
+• Shoe covers worn in HD handling areas are not worn in other areas to avoid spreading HD 
+contamination and exposing other healthcare workers to HDs.  
+• Shoe covers are low -linting, made from water -resistant or waterproof materials, and are 
+seamless. 
+Eye and Face Protection: 
+4.7 Don eye and face protection when there is risk for HD spills or splashes or a risk from HD waste 
+materials when working outside of a Containment Primary Engineering Control (C-PEC) (e.g., spill 
+cleanup, cleaning C-SEC, administration in the surgical suite, working at or above eye level) 
+• A full-facepiece respirator provides eye and face protection. 
+• Don goggles when eye protection is needed (eyeglasses and safety glasses alone are not 
+enough eye protection). 
+• Face shield in combination with goggles provides a full range of protection against splashes 
+to the face and eyes. 
+Respiratory Protection: 
+4.8 Respiratory protection for HD handling is required when there is known or suspected airborne 
+exposure to particles or vapors, such as: 
+• Personnel unpacking HDs that are not contained in plastic until the integrity of the package 
+can be confirmed 
+• Working outside of a C-PEC (e.g., spill cleanup, cleaning C-SEC, administration in the surgical 
+suite, working at or above eye level) 
+• Cleaning under the work surface of a C-PEC • Cleaning up a spill 
+4.9 Respiratory protection for HD handling: 
+• Surgical masks do not provide respiratory protection from drug exposure and are not used 
+alone when respiratory protection from HD exposure is required. 
+• A fit -tested NIOSH -certified N95 (or more protective) respirator protects against airborne 
+particles from HD exposure. 
+o N95 respirators do not protect against HD gases and vapors and provide little protection 
+against direct liquid splashes. 
+• A chemical cartridge-type respirator or powered air-purifying respirator (PAPR) is worn when 
+there is a risk of respiratory exposure to HDs, including: 
+o Attending to HD spills larger than what can be contained with a spill kit 
+o Deactivating, decontaminating, and cleaning underneath the work surface of a C-PEC 
+o When there is a known or suspected airborne exposure to powders or vapors 
+4.10 Head, hair, facial hair, shoe covers, and sleeve covers are disposable and provide 
+protection from contact with HD residue.  
+4.11 Reusable PPE is decontaminated, cleaned and disinfected after use and is disinfected prior to use 
+in controlled environments per policy.  
+4.12 Follow PPE doffing procedures: 
+• Chemotherapy Gloves: Remove gloves by slowly removing the first contaminated glove and 
+place into the other gloved hand. Slide index finger under the remaining glove, and slowly pull 
+the glove off inside out without touching glove surface to ungloved hand or fingers making a 
+packet of the two gloves, and discard into trace HD waste receptacle. Wash hands with soap 
+and water. 
+• Chemotherapy Gowns: Remove gown by releasing the fastener, then grasp the gown at the 
+hip area and pull gown down and away from body.  Once the gown is off the shoulders, pull 
+one arm at a time from the sleeves so the gown arms are bunched at the wrist.  Then roll the 
+exposed side of the gown inward until it is a tight ball.  Dispose of down in trace HD wast e 
+receptacle 
+4.13 All individuals entering the containment compounding area follow all procedures outlined in the 
+Hand Hygiene and Garbing policy USP <797> or USP <795> prior to donning PPE for HD handling 
+and compounding.  
+4.14 Donning and doffing HD PPE in a cleanroom suite for HD compounding of CSPs and/or CNSPs: 
+Donning PPE: 
+• Outside the ante room: 
+o Tie long hair back 
+o Clean eyeglasses 
+• Enter the ante room: 
+o Don head cover and facial hair cover if applicable, ensuring all hair is covered 
+o Don mask 
+o Don two pairs of shoe covers while stepping over the line of demarcation 
+o Perform hand hygiene 
+o Don gown followed by chemo gown 
+o Sanitize hands/wrists with alcohol-based hand sanitizer o Don two pair of sterile chemotherapy gloves – one glove is under the cuff of the 
+chemotherapy gown, and one is over the cuff of the chemotherapy gown 
+Doffing PPE after compounding a HD preparation: 
+• Deactivate and decontaminate outer pair of chemotherapy gloves prior to handling the 
+container (e.g., chemotherapy transport bag) the preparation will be placed into. 
+• Just prior to leaving the negative pressure buffer room, remove outer pair of chemotherapy 
+gloves, chemotherapy gown and outer pair of shoe covers. Dispose into the trace HD waste 
+receptacle. 
+• Remove all garb upon leaving the ante room 
+• Wash hands with soap and water 
+4.15 Donning and doffing HD PPE for nonsterile HD compounding in nonsterile compounding area: 
+Donning PPE: 
+• Don two pair of shoe covers, hair cover, facial hair cover, and mask. 
+• Cross over the perimeter line of the nonsterile compounding area 
+• Wash hands and forearms up to the elbows with soap and water for at least 30 seconds. Dry 
+hands and forearms to the elbows completely with disposable towels or wipers. Allow hands 
+and forearms to dry thoroughly before donning gloves. 
+• Don chemotherapy gown 
+• Inspect nonsterile chemotherapy gloves for holes, punctures, or tears and discard if defects 
+are detected. 
+• Don nonsterile chemotherapy gloves and prepare for compounding; first pair is worn under 
+the cuff of the chemotherapy gown and second pair is worn over the cuff of the chemotherapy 
+gown 
+Doffing PPE: 
+• Deactivate and decontaminate outer pair of nonsterile chemotherapy gloves prior to handling 
+transport container (e.g., chemotherapy transport bag) the preparation will be placed into.  
+• Remove chemotherapy gown and outer pair of shoe covers. Dispose into the trace HD waste 
+receptacle. 
+• Cross over the perimeter line of the nonsterile compounding area 
+• Remove all additional PPE worn and dispose into the trace HD waste receptacle. 
+4.16 Garbing for non-compounding staff or visitors: 
+• When it is necessary for non -compounding staff or visitors to enter the containment 
+compounding area to perform maintenance, cleaning procedures, inspections; the persons 
+entering the area perform all proper hand hygiene and garbing per policy and follow all steps 
+of PPE donning and doffing per this policy with one exception: the second pair of 
+chemotherapy gloves is not required to be donned.  
+4.17 Treat all PPE worn when compounding HDs, handling HDs, or worn while working in the 
+containment compounding areas as trace HD waste and dispose all PPE in the trace HD waste 
+receptacle.  
+5. Definitions 
+5.1 Assessment of Risk (AoR): Evaluation of risk to determine alternative containment strategies 
+and/or work practices.  5.2 Chemotherapy glove: A powder -free medical glove that meets the ASTM Standard Practice for 
+Assessment of Resistance of Medical Gloves to Permeation by Chemotherapy Drugs (D6978) or 
+its successor. Gloves are either sterile or non-sterile depending on use.  
+5.3 Chemotherapy gown : Gown used for handling HDs that is disposable, polyethylene -coated 
+polypropylene (or a similar laminate) to resist permeation by HDs, seamless, closes in the back, 
+has long sleeves, and has cuffs made of elastic or a knit material.    
+5.4 Containment Primary Engineering Control (C-PEC): A ventilated device designed and operated to 
+minimize worker and environmental exposures to HDs by controlling emissions of airborne 
+contaminants. 
+5.5 Containment Segregated Compounding Area (C -SCA): Type of segregated compounding area 
+with nominal requirements for airflow and room pressurization as they pertain to HD 
+compounding.  
+5.6 Containment Secondary Engineering Control (C-SEC): The room with fixed walls in which the C -
+PEC is place. It incorporates specific design and operational parameters required to the contain 
+the potential hazard within the compounding room.  
+5.7 NIOSH: National Institute for Occupational Safety & Health 
+5.8 NIOSH List: List that identifies drugs approved by the FDA Center for Drug Evaluation and Research 
+(CDER) that have intrinsic properties that meet the NIOSH definition of a hazardous drugs.  
+ 
+6. Related Policies, Documents, References 
+6.1 United States Pharmacopeial Convention, Inc. <797> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.2 United States Pharmacopeial Convention, Inc. <795> Pharmaceutical Compounding - Sterile 
+Preparations. 2022 version. 
+6.3 United States Pharmacopeial Convention, Inc.  <800> Handling Hazardous Drugs in Health care 
+Settings.  2019 version.  
+6.4 Kienle P. The Chapter <800> Answer Book. Bethesda, MD: ASHP; 2017. 
+6.5 American Society of Health-System Pharmacists. ASHP Guidelines on Handling Hazardous Drugs. 
+Am J Health-Sys Pharm. 2018; 75:1996-2031. Retrieved 12/20/22.  
+7. Approval and Review Summary 
+ 
+Approved by/date: Pharmacy Management, 11/2023 
+Next review: 11/2025 
+7.1 Initial version published by Wolters Kluwer 2023.  
+7.2 Revised 11/2023 for use at all FMOLHS Baton Rouge Market Pharmacies.  
+7.3 Reviewed with no changes 11/2024. 
+ 
+ 

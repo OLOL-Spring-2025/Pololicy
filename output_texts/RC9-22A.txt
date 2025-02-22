@@ -1,0 +1,48 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center Chapter: Volume 4 
+Subject:  Quality Control for EPOC Analyzer Section: Blood Gas Lab 
+Date of Origination: April 1, 2012 Signature: 
+Date of Last Revision:January 31, 2024 Serial Code: RC9-22A 
+                 Reviewed: January 31, 2024 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to assure reliable performance of blood gas instruments by 
+application of defined QC Limits. 
+       
+EQUIPMENT: 
+A. epoc Reader and epoc Host 
+B. Epoc Test Cards 
+ C. Manual record logs  
+ D. RALS 
+ 
+POLICY:    
+A. The epoc Reader comes equipped with automated internal quality control procedures 
+which are performed electronically during the initialization of the epoc Reader when 
+connecting with an epoc Host and immediately before testing process each time a Test is 
+run.  Such tests are automated, so no User procedures are required.  
+B. External quality controls, of three levels, will be run once monthly. These control 
+specimens will be tested in the same manner and by the same personnel as patient 
+samples are tested. 
+C. QC Limits 
+1. QC ranges are established by the manufacturer. Target ranges for external QC will be 
+retrieved from the Siemen’s website at https://www.siemens-healthineers.com and the 
+user will verify that all QC results were within the target range.  
+2. Prior to a new analyzer being placed in service and in accordance with our 
+IQCP plan, three levels of QC will be ran for 31 consecutive days. QC will be 
+reviewed and analyzed to determine precision of the instrument. 
+3. If a QC fails, the same QC will be reran with a new Test Card.  In the event that the 
+QC fails a second time, then the supervisor will contact the Siemens Technical 
+Support. The EPOC analyzer will be removed from service until the problem has 
+been corrected.  The Epoc RALS System automatically records the controls, and the 
+Blood Gas Lab Supervisor will document on each QC that it passed or failed the QC. 
+If more maintenance is needed it will be documented in the service report Section of 
+the CAP binder or in the Epoc RALS System in the Comments Section of the failed 
+samples. 4. The departmental Quality Committee periodically assesses the above procedure for 
+appropriateness.  
+   

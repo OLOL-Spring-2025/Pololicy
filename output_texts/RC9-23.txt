@@ -1,0 +1,46 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center  
+Subject:  Quality Control Program Definition and 
+Evaluation Section: Blood Gas Lab 
+Date of Origination: April 1995 Signature:  
+Date of Last Revision: March 20, 2024 Serial Code: RC9-23 
+       Reviewed:  March 20, 2024 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+The purpose of this policy is to define the Blood Gas Laboratory Quality Control 
+Program, and to plan for its periodic evaluation. 
+ 
+POLICY: 
+A. The Quality Control Program has the following components: 
+1. Per-shift Quality Control procedures, as defined in the policy and procedure 
+manual RC9-22.  
+2. External Quality control procedures, performed monthly, per policy and 
+procedure manual RC9-22. 
+3. CAP Proficiency Testing program, performed three times annually in accord 
+with CLIA requirements, per policy and procedure manual RC9-21. 
+4. Manufacturer's CVM (Calibration Verification Materials) program to assure 
+linearity of performance performed at least every six-months, per the policy 
+and procedure manual RC9-10. 
+B. Data from the above components are reviewed monthly and recorded electronically in the 
+Aqure System by the Director of Respiratory Care or the designee or by the Laboratory 
+Director. 
+C. All policies are reviewed biennially, including the components of the QC program 
+described above. 
+D. All indicators will be monitored as directed by regulatory management in accordance 
+with the Joint Commission, CLIA, and CAP requirements. 
+E.   The department will develop and adjust its own indicators in addition to the above as 
+deemed necessary by the Blood Gas Lab Supervisor and approved by the Director of 
+Respiratory Care.   
+F. In blood gas sampling, pre-analytical stability of patient specimens is a limiting 
+factor.  CVM has the same response as fresh human samples for the 
+instruments/methods involved and is therefore used for comparability studies.  
+Comparability of instruments is performed by use of quality controls performed 
+on the same instrument platform with control materials of same manufacturer and lot number.  Comparability studies determine all analyzer results are within 
+comparable range. 

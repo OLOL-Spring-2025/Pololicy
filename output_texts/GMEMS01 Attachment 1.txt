@@ -1,0 +1,323 @@
+Guidelines for Teaching
+Physicians, Interns, and ResidentsPayment for Physician Services in Teaching Settings
+2
+Guidelines for Teaching Physicians, Interns, and Residents
+Services furnished in teach-
+ing settings are paid under
+the Medicare Physician Fee
+Schedule (MPFS) if the
+services are:
+■ Personally furnished 
+by a physician who is
+not a resident;
+■ Furnished by a resident when a teaching physician 
+is physically present during the critical or key portions
+of the service; or
+■ Furnished by residents under a primary care 
+exception within an approved Graduate Medical
+Education (GME) Program.
+The services of residents are payable either through direct
+GME payment or reasonable cost payments.
+Services Furnished by an Intern or Resident 
+Within the Scope of an Approved Training Program
+Medical and surgical services furnished by an intern or
+resident within the scope of his or her training program are
+covered as provider services. This includes services that are
+furnished in a setting that is not part of the provider where
+(among other things) the provider has agreed to incur all or
+substantially all the costs of training in the nonprovider
+facility. When a resident who is a licensed physician
+performs the services but the provider incurs little or none
+of the training costs, the services are paid under the MPFS.
+Services Furnished by an Intern or Resident 
+Outside the Scope of an Approved Training 
+Program (Moonlighting)
+Medical and surgical services furnished by an intern or
+resident that are not related to his or her training program
+and are furnished outside the facility where he or she has
+the training program are covered as physician services
+when the requirements in the first two bullets listed below
+are met. Medical and surgical services furnished by an
+intern or resident that are not related to his or her training
+program and are furnished in an outpatient department or
+emergency room of the hospital where he or she has the
+training program are covered as physician services when
+the requirements in all three bullets listed below are met.
+When these criteria are met, the services are considered to
+have been furnished by the individuals in their capacity as a
+physician, not in their capacity as an intern or resident.
+■ The services are identifiable physician services, the
+nature of which require performance by a physician in
+person and contribute to the diagnosis or treatment of
+the patient’s condition.
+■ The intern or resident is fully licensed to practice medi-
+cine, osteopathy, dentistry, or podiatry by the State in
+which the services are performed.
+■ The services furnished can be separately identified from
+those services that are required as part of the training
+program.
+General Documentation Guidelines
+Both residents and teaching physicians may document
+physician services in the patient’s medical record. The
+documentation must be dated and contain a legible
+signature or identity and may be
+■ Dictated and transcribed; 
+■ Typed; 
+■ Hand-written; or
+■ Computer-generated. 
+A macro is a command in a computer or dictation
+application in an electronic medical record that automati-
+cally generates predetermined text that is not edited by the
+user. The teaching physician may use a macro as the
+required personal documentation if he or she personally
+adds it in a secured or password protected system. In
+addition to the teaching physician’s macro, either the
+resident or the teaching physician must provide
+customized information that is sufficient to support a
+medical necessity determination. The note in the electronic
+medical record must sufficiently describe the specific
+services furnished to the specific patient on the specific
+date. If both the resident and the teaching physician use
+macros only, this is considered insufficient documentation.
+:
+Evaluation and Management Documentation
+Guidelines
+For a given encounter, the selection of the appropriate level
+of evaluation and management (E/M) services is deter-
+mined according to the code of definitions in the American
+Medical Association’s Current Procedural Terminology
+(CPT)book and any applicable documentation guidelines.
+When teaching physicians bill E/M services, they must
+personally document at least the following:
+■ That they performed the service or were physically pres-
+ent during the key or critical portions of the service fur-
+nished by the resident; and
+■ His or her participation in the management of the
+patient.
+On medical review, the combined entries into the medical
+record by the teaching physician and resident constitute the
+documentation for the service and together must support
+the medical necessity of the service. Documentation by the
+resident of the presence and participation of the teaching
+physician is not sufficient to establish the presence and
+participation of the teaching physician.
+Evaluation and Management Documentation
+Provided by Students
+Any contribution and participation of a student to the
+performance of a billable service must be performed in the
+physical presence of a teaching physician or resident in a
+service that meets teaching physician billing requirements
+(other than the review of systems [ROS] and/or past,
+family, and/or social history [PFSH], which are taken as
+part of an E/M service and are not separately billable).
+Students may document services in the medical record;
+however, the teaching physician may only refer to the
+student’s documentation of an E/M service that is related
+to the ROS and/or PFSH. The teaching physician may not
+refer to a student’s documentation of physical examination
+findings or medical decision making in his or her personal
+note. If the student documents E/M services, the teaching
+physician must verify and redocument the history of
+present illness and perform and redocument the physical
+examination and medical decision making activities of 
+the service.
+Exception for Evaluation and Management 
+Services Furnished in Certain Primary Care Centers 
+Medicare may grant a primary care exception within an
+approved GME Program in which the teaching physician is
+paid for certain E/M services the resident performs when
+the teaching physician is not present. The primary care
+exception applies to the following lower and mid-level E/M
+services and the initial preventive physical examination
+(also known as the “Welcome to Medicare Physical”): 
+New Patient Established Patient
+CPT Code 99201® CPT Code 99211
+CPT Code 99202 CPT Code 99212
+CPT Code 99203 CPT Code 99213
+3
+Guidelines for Teaching Physicians, Interns, and Residents
+CPT only copyright 2006 American Medical Association. All rights reserved.
+Effective January 1, 2005, the
+following code is included under
+the primary exception:
+■ Healthcare Common
+Procedure Coding System
+code G3044: Initial
+Preventive Physical
+Examination: face-to-face
+visit, services limited to new
+beneficiary during the first
+six months of Medicare enrollment.
+A center must attest in writing that all of the following
+conditions are met for a particular residency program for
+the exception to apply:
+■ The services must be furnished in a center located in
+the outpatient department of a hospital or another
+ambulatory care entity in which the time spent by resi-
+dents in patient care activities is included in determin-
+ing direct GME payments to a teaching hospital. This
+requirement is not met when the resident is assigned to
+a physician’s office away from the center or makes
+home visits. The nonhospital entity should verify with
+the Fiscal Intermediary or A/B Medicare Administrative
+Contractor that it meets the requirements of a written
+agreement between the hospital and the entity.
+■ Residents who furnish billable patient care without the
+physical presence of a teaching physician must have
+completed more than six months of an approved resi-
+dency program. 
+■ Teaching physicians who submit claims under the
+exception must not supervise more than four
+residents at any given time and must direct the care
+from such proximity as to constitute immediate avail-
+ability. The teaching physician must:
+• Have no other responsibilities, including
+the supervision of other personnel, at the time the
+service was furnished by the resident.
+• Have primary medical responsibility for patients
+cared for by residents.
+• Ensure that the care furnished is reasonable and
+necessary.
+• Review the care furnished by residents during or
+immediately after each visit. This must include a
+review of the patient’s medical history and diagno-
+sis, the resident’s findings on physical examina-
+tion, and treatment plan (e.g., record of tests and
+therapies).
+4
+Guidelines for Teaching Physicians, Interns, and Residents
+E
+ 
+• Document the extent of his or her participa-
+tion in the review and direction of the services 
+furnished to each patient.
+■ Patients should consider the center to be their primary
+location for health care services. Residents must be
+expected to generally furnish care to the same group of
+established patients during their residency training. The
+types of services furnished by residents under the
+exception include the following:
+• Acute care for undifferentiated problems or chron-
+ic care for ongoing conditions including chronic
+mental illness.
+• Coordination of care furnished by other physicians
+and providers.
+• Comprehensive care not limited by organ system
+or diagnosis.
+Residency programs most
+likely to qualify for the
+exception are:
+■ Family practice;
+■ General internal
+medicine;
+■ Geriatric medicine;
+■ Pediatrics; and 
+■ Obstetrics/gynecology. 
+Certain GME programs in psychiatry may qualify in
+special situations, such as when the program furnishes
+comprehensive care for chronically mentally ill patients.
+The range of services residents are trained to furnish, and
+actually furnish, at these centers include comprehensive
+medical as well as psychiatric care.
+GLOSSARY
+Critical or Key Portion
+The part or parts of a service that the
+teaching physician determines are a critical
+or key portion.
+Direct Medical and Surgical Services
+Services to individual beneficiaries that are
+personally furnished by a physician or a
+resident under supervision in a teaching
+hospital. Election is made to receive pay-
+ments for physician services furnished in
+teaching hospitals on a reasonable cost basis. 
+Intern or Resident
+An individual who participates in an approved
+Graduate Medical Education (GME) program
+or a physician who is not in an approved GM
+program but who is authorized to practice
+only in a hospital setting (e.g., has a tempo-
+rary or restricted license or is an unlicensed
+graduate of a foreign medical school). Also
+included in this definition are interns and
+fellows in GME programs recognized as
+approved for purposes of direct GME
+payments made by Fiscal Intermediaries or
+A/B Medicare Administrative Contractors.
+Receiving a staff or faculty appointment,
+participating in a fellowship, or whether a
+hospital includes the physician in its full-time
+equivalency count of residents does not by
+itself alter the status of “resident.” 
+Medicare Physician Fee Schedule
+The basis for which Medicare Part B pays for
+physician services. Lists the more than 7,000
+covered services and their payment rates.
+Physically Present
+When the teaching physician is located in the
+same room as the patient (or a room that is
+subdivided with partitioned or curtained areas
+to accommodate multiple patients) and/or
+performs a face-to-face service.
+Student
+An individual who participates in an accredit-
+ed educational program (e.g., medical school)
+that is not an approved Graduate Medical
+Education program and is not considered an
+intern or resident. Medicare does not pay for
+any services furnished by a student.
+Teaching Hospital
+A hospital in an approved Graduate Medical
+Education residency program in medicine,
+osteopathy, dentistry, or podiatry.
+Teaching Physician
+A physician, other than an intern or
+resident, who involves residents in the care
+of his or her patients. Generally, the teach-
+ing physician must be present during all
+critical or key portions of the procedure and
+immediately available to furnish services
+during the entire service in order for the
+service to be payable under the Medical
+Physician Fee Schedule.
+Teaching Setting
+Any provider, hospital-based provider, or
+nonprovider setting in which Medicare pay-
+ment for the services of residents is made by
+the Fiscal Intermediary or A/B Medicare
+Administrative Contractor under the direct
+Graduate Medical Education payment
+methodology or on a reasonable cost basis
+to freestanding Skilled Nursing Facilities or
+Home Health Agencies.
+Helpful Websites
+Direct Graduate Medical Education
+http://www.cms.hhs.gov/AcuteInpatientPPS/06_dgme.asp 
+Documentation Guidelines for E/M Services
+http://www.cms.hhs.gov/MLNEdWebGuide/25_EMDOC.asp
+Internet-Only Manuals
+http://www.cms.hhs.gov/Manuals/IOM/list.asp 
+Medicare Learning Network
+http://www.cms.hhs.gov/MLNGenInfo
+This fact sheet was prepared as a service to the public and is not intended to grant rights or impose obligations. This booklet may
+contain references or links to statutes, regulations, or other policy materials. The information provided is only intended to be a
+general summary. It is not intended to take the place of either the written law or regulations. We encourage readers to review the
+specific statutes, regulations and other interpretive materials for a full and accurate statement of their contents.
+The Medicare Learning Network (MLN) is the brand name for official CMS educational products and information for Medicare
+fee-for-service providers. For additional information visit the Medicare Learning Network’s web page at
+http://www.cms.hhs.gov/MLNGenInfoon the CMS website.
+CPT only copyright 2006 American Medical Association. All rights reserved. CPT is a registered trademark of the American
+Medical Association. Applicable FARS/DFARS Restrictions Apply to Government Use. Fee schedules, relative value units, conversion
+factors and/or related components are not assigned by the AMA, are not part of CPT, and the AMA is not recommending their use.
+The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data con-
+tained or not contained herein. 
+Section 911 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (MMA) Congress mandated that
+the Secretary of the Department of Health and Human Services replace the current contracting authority under Title XVIII of the
+Social Security Act with the new Medicare Administrative Contractor (MAC) authority. This mandate is referred to as Medicare
+Contracting Reform. Medicare Contracting Reform is intended to improve Medicare’s administrative services to beneficiaries and
+health care providers. Currently, there are four Durable Medical Equipment (DME) MACs that handle the processing of DME
+claims and three A/B MACs (Jurisdiction 3, Jurisdiction 4 and Jurisdiction 5) to handle the processing of both Part A and Part B
+claims for those beneficiaries located within the states included in Jurisdiction 3, Jurisdiction 4 and Jurisdiction 5. All Medicare
+work performed by Fiscal Intermediaries and Carriers will be replaced by the new A/B MACs by 2011. Providers may access the
+most current MCR information to determine the impact of these changes at http://www.cms.hhs.gov/MedicareContractingReform/.
+` July 2007  ICN: 006347

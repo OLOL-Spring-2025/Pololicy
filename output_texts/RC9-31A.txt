@@ -1,0 +1,97 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center  
+Subject: Test methods and performance of EPOC BGEM Blood Gas Analyzers    
+Date of Origination: April 1, 2012 Section: Blood Gas Lab 
+Date of Last Revision: February 18, 2021 Signature: 
+Date of Last Review: January 31, 2024 
+ Serial Code: RC9-31A 
+         
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+PURPOSE: 
+To define the methodologies and performance specifications of the epoc BGEM Blood 
+Gas Analyzers and how the communications of changes in these methodologies are 
+provided to physicians. 
+ 
+Operating Principles 
+The epoc Reader is a simple to use raw-signal acquisition peripheral.  The Reader and 
+Host mobile computer together compose all of the subsystems generally found in a 
+traditional blood analyzer that operates on single use sensors and reagents.  
+The Reader has a card slot for accepting a Test Card, and an Electro-Mechanical 
+Actuation Assembly for engaging the Test Card after it is inserted into the Card Slot.  
+When the Internal Motor Drive is activated , a Push Pin in the Reader breaks the Valve in 
+the Test Card and drives Plungers causing the Calibration Fluid to flow across the Sensor 
+Module.  The reader includes circuits for amplifying, digitizing and converting the raw 
+sensor signals to a wireless transmittable Bluetooth format.   
+ 
+There are three (3) types of sensor measurements used in epoc Test Card – potentiometric, 
+amperometric and conductometric.  
+In potentiometry, (for sodium, potassium, ionized calcium, pH and pCO2) the open circuit 
+potential of a membrane coated sensor electrode (which is responsive to the concentration 
+of the analyte) is measured versus a reference electrode (which is approximately non -
+responsive). The measurement is performed by a high input i mpedance operational 
+amplifier in the epoc Reader connected to each of the electrode pairs comprising sensor 
+electrode and reference electrode.  
+The potential difference, V, between the electrode pair follows the modified Nernst 
+equation (Nicolsky equation) which is) where C is the concentration of the analyte being 
+measured and s, the slope of the electrode response, is about 60mV per decade 
+concentration change for a univalent analyte (pH, K, Na, pCO2) and about 30mV per 
+decade for divalent (iCa). V0 is a constant. The term 
+  = 
+ KiCi models the combined effects of interferents of type i at concentration Ci, with Ki being the interference 
+coefficient. When the measurement includes a calibration, the electrodes first being 
+immersed in a calibration fluid with concentration, Ccal, then in the sample fluid with 
+unknown concentration, Csmpl, t he calibrated sensor signal is the potential difference in 
+sample and the calibrator given by the equation reference in 11.5.1 of the epoc System 
+Manual. 
+In amperometry (for pO2 and Glucose) the current, i, flowing through a membrane-coated 
+amperometric indicator electrode to the ground electrode is measured, when the indicator 
+electrode is poised at a fixed potential versus the reference electrode. In the amperometric 
+measurement of dissolved oxygen, the electrode selectively reduces the analyte species that 
+diffuses through the membrane covering the electrode. In the amperometric measurement 
+of glucose, the analyte diffuses through the top membrane and is enzymatically 
+transformed into hydrogen peroxide, that is further reduced at a small negative potential 
+using a red-ox mediated horseradish peroxidase, HRP, catalyzed reaction. 
+The design of each sensor is optimized for measurement of the substance of interest, as 
+described in the following table: 
+ 
+Sensor  
+pH The pH sensor is comprised of a plasticized PVC membrane ion selective 
+electrode containing the pH selective ionophore tridodecylamine.  
+pCO2 
+The pCO2 sensor is a modified Severighaus electrode comprising a gold 
+electrode surface coated with an internal layer containing quinhydrone, 
+sodium bicarbonate and carbonic anhydrase catalyst, and an outer, 
+heterogeneous carbon dioxide permeable membrane.  
+pO2 The pO2 sensor is a modified Clarke electrode comprising a gold cathode 
+surface coated with a heterogeneous oxygen permeable membrane.  
+Glucose 
+The Glucose sensor is a hydrogen peroxide electrode comprising a gold 
+cathode surface coated with an internal layer containing glucose oxidase, 
+peroxidase (HRP) and a redox mediator (diammonium salt) and an outer, 
+heterogeneous oxygen permeable membrane.  
+Reference 
+The reference electrode is a salt bridge type structure with a redox 
+couple at the electrode surface coated by a heterogeneous water vapor 
+permeable salt bridge electrolyte containing membrane. 
+Na+ 
+The sodium sensor is comprised of a plasticized PVC membrane ion 
+selective electrode containing the sodium selective salt sodium 
+methylmonensin.  
+K+ 
+The potassium sensor is comprised of a plasticized PVC membrane ion 
+selective electrode containing the potassium selective ionophore 
+valinomycin.  
+Ca++ 
+The ionized calcium sensor is comprised of a plasticized PVC membrane 
+ion selective electrode containing the ionized calcium selective salt 
+calcium tetra methyl butyl phenyl phosphate.   
+          
+For additional information regarding operating principles refer to the epoc System 
+Manual 11-1 

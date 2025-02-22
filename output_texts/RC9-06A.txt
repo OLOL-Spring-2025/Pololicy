@@ -1,0 +1,128 @@
+ 
+Policies and Procedures Manual Manual: Respiratory Care 
+Our Lady of the Lake Regional Medical Center  
+Subject:  Blood Gas Lab Computer Access/Security Section: Blood Gas Lab 
+Date of Origination: April 1, 2012 Signature: 
+Date of Last Revision:January 31, 2024 Serial Code: RC9-06A 
+         Reviewed:January 31, 2024 
+ 
+FORMULATED BY: 
+Respiratory Care 
+ 
+DISTRIBUTED BY: 
+Respiratory Care 
+ 
+Policy: 
+Access to the RALS/Epoc BMEG Blood Gas Computer System shall be designed to allow 
+only appropriate access of staff personnel, and to restrict the ability of unauthorized 
+individuals to modify, remove or access programs or patient data. Overall security 
+measures are the responsibility of the Information Security Officer. 
+All relevant security issues can be obtained by reviewing this person’s records that are 
+kept in the Management Information Department. 
+ 
+As with all patient information, HIPPA mandates that only those personnel with a need to 
+know patient information in order to carry out the care of the patient shall access such data. 
+All patient information will be maintained in accordance with corporate compliance policy 
+COR-203. 
+ 
+Passwords and I.D. codes are removed or deactivated when the associated employee leaves 
+or transfers to a position of lesser-authorized access. 
+ 
+ 
+Summary of Authorized Activities 
+ 
+ 
+ACTIVITY 
+ 
+  
+AUTHORIZED 
+PERSONNEL 
+ 
+INDIVIDUAL 
+I.D. 
+REQUIRED? 
+ 
+PASSWORD 
+REQUIRED? 
+ 
+Enter Patient or 
+Control Data 
+ 
+• Pediatric Transport Team Members 
+• Authorized personnel 
+ 
+ YES 
+ 
+ YES 
+ 
+Edit Patient Data 
+ 
+• Transport Team members  
+• Director, Respiratory Care 
+• Manager, Respiratory Care 
+• Blood Gas Lab Supervisor, Respiratory Care 
+ 
+ YES 
+ 
+ YES 
+ 
+Delete Patient 
+Record 
+• Blood Gas Lab Supervisor, Respiratory Care 
+• Director, Respiratory Care 
+• Manager, Respiratory Care 
+ 
+ YES 
+ 
+ YES 
+     
+ACTIVITY 
+ 
+  
+AUTHORIZED 
+PERSONNEL 
+ 
+INDIVIDUAL 
+I.D. 
+REQUIRED? 
+ 
+PASSWORD 
+REQUIRED? 
+Modify Control 
+Files 
+• Blood Gas Lab Supervisor, Respiratory Care 
+• Director, Respiratory Care  
+• Manager, Respiratory Care 
+ YES  YES 
+ 
+Change Billing 
+ 
+• Respiratory Care Supervisor 
+• Blood Gas Lab Supervisor, Respiratory Care 
+• Director, Respiratory Care 
+• Manager, Respiratory Care 
+           YES 
+ 
+  
+YES 
+ 
+Alter Programs • Director, Respiratory Care 
+• Cerner Technicians 
+• CIS Analysts 
+ 
+ YES 
+ 
+ YES 
+ 
+Set EpicPasswords 
+ 
+ 
+• IS Security Officer initially 
+ 
+ YES 
+ 
+ YES 
+ 
+ As with any computer system, absolute security from alteration or damage to programs 
+cannot be achieved.  Therefore, backups of data and programs are maintained.   
+ 

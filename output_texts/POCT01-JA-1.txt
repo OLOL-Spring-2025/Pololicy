@@ -1,0 +1,99 @@
+OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+Page 1 of 2 
+ 
+Version: 7/20/23 POCT01-JA-1 StatStrip Wireless Downtime Protocol 
+ 
+Nova StatStrip Wireless Downtime Protocol 
+ 
+The StatStrip meter transmits results automatically to the patient’s electronic medical record via 
+a WIFI or when a meter is docked on a designated hard wired docking station labeled 
+DOWNLOADER.  
+ 
+In the event the WIFI network is down, periodically the meters will need to be docked on a 
+DOWNLOADER to allow communication from meter to HIS to continue until the wireless 
+network is back online. Throughout the hospitals there are several DOWNLOADER docking 
+stations available to use.  
+ 
+ 
+DOWNLOADER LOCATIONS are listed in the tables below, please go to the unit nearest you.  
+   
+ 
+Livingston ER - Downloader located in Nurses 
+Station Closer to the CSR’s desk. 
+  
+                                                                  NBR-ER – All Docks are Downloaders 
+ 
+Assumption Community Hospital- Tau Center-LSU Clinics-Pace of Baton Rouge and OLOL Wound 
+and Hyperbaric Clinic all have  Downloaders. 
+ 
+***See Children’s Hospital and Ascension Hospital locations on page 2*** 
+OLOLRMC - MAIN 
+Unit Floor Location 
+Main Lab  1 Main Central Proc. 
+POC Office  1 Tower  1st Floor POC 
+office 
+Psych/Geri  1 North CSR Desk 
+EDOU 1 Tower Front Nurses 
+Station 
+SMA 2 Tower Back Cubby 
+Tower PACU 2 Tower Nurses Station 
+ECU  2 Tower All Docks 
+ECU Trauma Bay 2 Tower Corner of N.S. 
+PCU 3 South Nurses Station 
+Rehab     3 North Nurses Station 
+Nephro 3 East Nurses Station 
+SUR2 4 South Nurses Station 
+Med 1 4 North Nurses Station 
+Neuro     5 South Nurse Station 
+Ortho 6 East Med Room 
+STU 6 South Nurse Station 
+OLOLRMC - HVI 
+Unit Floor Location 
+HVAU 2 Nurses Station  
+HVPU 2 Med Room 
+CVL 2 Nurses Station 
+HVCU3 3 A Cubby btw rooms 4 & 5 
+HVCU3 3 B B Side Nurses Station     
+SICA 5 A Cubby btw rooms 4 & 5 
+TNCC 5 B Cubby btw rooms 18 &19 
+MICA 6 A Cubby btw rooms 4 & 5 
+MICB 6 B Cubby btw rooms 18 &19 
+HV7A 7 A Cubby btw rooms 4 & 5 
+HV7B 7 B Cubby btw rooms 18 &19 
+HV8A 8 A Cubby btw rooms 4 & 5 
+HV8B 8 B Cubby btw rooms 18 &19 
+NCCU 9 A Cubby btw rooms 4 & 5 
+NCCU  9 B B Side Nurses Station OUR LADY OF THE LAKE RMC 
+POINT OF CARE TESTING 
+BATON ROUGE, LA 70808 
+Page 2 of 2 
+ 
+Version: 7/20/23 POCT01-JA-1 StatStrip Wireless Downtime Protocol 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHILDREN’s 
+Unit Floor Location 
+Main Lab  1  Core Lab Back counter  
+ECU  1 Nurses Station C by Entrance 
+PACU  2 Nurses Station near Room7 
+PEDS 3  3 Medicine Room 
+NICU 4 Nurses Station 
+PICU  4 Nurses Station B  
+PEDS 1  5 Nurses Station C 
+ASCENSION 
+Unit Floor Location 
+Main Lab  1  Lab 
+Cath Lab 2 Cath Lab 

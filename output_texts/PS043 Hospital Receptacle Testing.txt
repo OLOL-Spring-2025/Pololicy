@@ -1,0 +1,38 @@
+ 
+ 
+Plant Services 
+ 
+ PS043 
+Page 1 of 1 
+Title: Hospital Receptacle Testing   
+Revision Date: 01/15/2022 
+Review Date: 03/19/2024 
+Reference # PS043 Origin Date: February 2019 
+ 
+PURPOSE: 
+To maintain a safe electrical receptacle system to promote a safe, controlled, utility supported 
+environment of care for staff, occupants and visitors at all Our Lady of the Lake Regional Medical 
+Center (OLOL) network locations. 
+ 
+PROCEDURE: 
+ 
+Inspection of each new receptacle includes: 
+1. Hospital-grade receptacles must be tested after initial installation, replacement or servicing of the 
+device. 
+2. A visual inspection of the physical integrity. 
+3. Verification of the continuity the grounding circuit impedance levels. 
+4. Voltage levels. 
+5. Confirmation of the correct polarity of the hot and neutral connection. 
+6. If GFCI, Trip times & trip values. 
+7. Verification the retention force of the grounding blade (except locking-type receptacles) shall not 
+be less than 115 g (4 oz) 
+8. GFCI outlets are to be inspected and tested monthly in accordance with manufacturer’s 
+recommendations. 
+ 
+Each receptacle doesn’t require annual testing.  Compliance is demonstrated through random testing of a 
+10% mixture of both normal and emergency receptacles.  
+ 
+REFERENCES: 
+National Fire Protection Association (NFPA) 99-2012, Health Care Facilities Code Handbook, Chapter 
+6 - Electrical Systems 
+NFPA 99-2012 6.3.4.1.1, 6.3.4.1.2, and 6.3.3.2 

@@ -1,0 +1,191 @@
+ 1 
+POLICIES AND PROCEDURES MANUAL Manual:  Environment of Care 
+Our Lady of the Lake Regional Medical Center Chapter:  Emergency Management 
+Subject:  Chemical Contamination Plan -Code 
+ORANGE 
+Section:  A 
+Date of Origination:  November 2001 Supersedes:  
+Date Last Revised:  4/30/2019 Serial Code:  ECEP010 
+Date Last Reviewed: 05/06/2024 
+ 
+Purpose: 
+ 
+To describe the procedures used by Our Lady of the Lake Hospital, Children's Hospital, OLOL Ascension, Lake 
+Livingston and North ED to safely decontaminate contaminated patients exposed in an accidental or intentional chemical, 
+radiation, or mass casualty terrorists event or release.  
+ 
+Authorization to Activate: 
+ 
+The Administrator on Call (AOC) will assume the role of Incident Commander and determine and activate 
+appropriate Hospital Incident Command System (HICS) positions to respond to the incident. 
+ 
+Notification: 
+ 
+1. The Emergency Department Charge Nurse or designee, when given advance notice of receiving chemically 
+contaminated persons, will call the PBX page operator and notify them to: 
+ 
+a. Activate the Decontamination Team. 
+ 
+b. Call and/or page the AOC to notify them of the event. 
+ 
+2. The AOC/Incident Commander will notify the PBX page operator to clearly announce three times “Code Orange” 
+to notify staff of the emergency event. 
+ 
+3. The PBX page operator will contact the Regulatory Safety Officer to notify that the Decon team is being 
+activated. 
+ 
+4. All decontamination team members on campus will immediately report to the decontamination area to begin area 
+set up (See diagram.). 
+ 
+5. The On Call decontamination team leader will begin team call out procedures to notify team members to report to 
+the decontamination area for decon suit up, as soon as possible. 
+ 
+Response: 
+• All emergency events will be managed by following the Emergency Operations Plan (ECEP-001). See also 
+Department Specific Response Chemical Contamination and Responsibility Matrix (below). 
+• See also Mass Casualty Incident (ECEP-016). 
+ 
+ OLOL Ascension: 
+If the Emergency Department has advance notice of receiving chemically contaminated patients then the House 
+Manager should be notified so Plant Operations can be called to set up the decontamination station and perform 
+patient decontamination. When there is little or no advance notice then the Emergency Department personnel 
+should perform a hasty decontamination so that treatment will not be delayed while waiting for the station to be  2 
+set-up. The personnel performing the decontamination are to use personal Protective Equipment. 
+ADVANCED NOTICE OF CONTAMINATED PATIENTS ARRIVING 
+ Set-Up of Decontamination Area 
+1. The decontamination supplies and personal protective equipment (PPE) will be transported to the designated area 
+(outside the ER area by helipad).  The placement of the area is dependence on the wind direction as evidence by 
+the windsock outside the ED.  The area should be placed upwind so no hazardous fumes can blow in the direction 
+of the decontamination team.  PPE will consist of: 
+• Level B protective suits 
+• Full face respirators with chemical cartridges 
+• Chemical over boots 
+• Rubber gloves 
+• Nitrile gloves 
+• Tape for seams 
+2. The decontamination team consists of at least one ED trained RN, and at least 5 support personnel.  
+3. All contaminated water will be contained within pools and then disposed of later in 55-gallon drums.  
+4. The team members will don the PPE and maintain on until the hazard is deemed clear. 
+5. Patients will enter and be undressed through either an “ambulatory area” or “stretcher” area.  The RN will 
+perform a quick triage to assess for life threatening conditions.  If present, then the patient must be managed 
+quickly.  All clothes will be bagged and labeled with the patient’s identifying information. 
+6. The patient will be passed to a “wash” area where they will be washed with soap and water. 
+7. They will then be passed through to a “rinse” area to rinse off the soap. 
+8. They will then be passed to a control area where they will be dried and redressed with facility paper suits. 
+9. Once decontaminated, the patient is considered safe and can be treated through the system as a normal patient. 
+ 
+A. Decontamination 
+1. If it is known that a person is chemically contaminated, he or she should not be allowed to enter the building 
+until the contamination is removed or has been determined not to be a threat to health and safety. 
+ 
+2. If a chemically contaminated person enters the hospital and the contamination presents an immediate health 
+hazard: 
+• Move the contaminated person to the outside of the building. 
+• Contact Plant Services and request immediate shut down of the Emergency Care Unit (ECU) 
+ventilation system.  
+• Perform a hasty decontamination of the person (see below.) 
+• If the area of contamination involves the entire department, evacuation may be required.  
+• See also the Evacuation Plan (ECEP-003). 
+ 
+B. Hasty Decontamination 
+1. Don a respirator, coveralls and gloves from the decontamination cart.  
+ 
+2. Remove the patient's clothing and place in a sealed plastic bag that is labeled with the patient's name or 
+admission number. Do not discard the clothing. Secure patient belongings for disposal or evidence. 
+ 
+3. Apply soap and large volumes of water to the patient concentrating on any area visibly contaminated and 
+rinse for 5 to 10 minutes depending upon the amount of contamination. 
+ 
+C. Treatment  
+1. Following decontamination, staff should attempt to discover what type of chemical contamination is on the 
+patient as quickly as possible by:  3 
+• Asking the patient what the chemical is. 
+• If the patient is unable to communicate, try to determine if the patient is a chemical plant employee by 
+looking at their uniform or ID badge. Contact the chemical plant to find out what type of chemical is 
+in question. 
+• If the patient does not know, or is unconscious, contact the Emergency Medical Services (EMS) 
+Hazmat team for information about their response to the spill site and have determined what type of 
+chemical is involved. 
+ 
+2. If the type of chemical involved cannot be determined, the caregiver should proceed with signs and 
+symptoms-based treatment. If the type of chemical becomes known, then consult the poison control database 
+or local manufacturer of the chemical for treatment guidelines.  
+ 
+3. Suggested References: 
+• SDS (Safety Data Sheets) - Located in ECU, other areas of the hospital and on Team Link. 
+• Poison Control Database - Located in ECU 
+• Chemical Plant Emergency Plans Library - Located in ECU 
+• U.S. Army Medical Management of Chemical Casualties Handbook - Located in ECU 
+ 
+Recovery: 
+ 
+ 1.   Facilities will contact vendor for removal of Wastewater or clean-out of retention bladder. 
+ 
+ 2    Patient belongings will be handed over to appropriate authorities for disposal or evidence retrieval 
+ 
+ 3.   Debrief with team to identify strengths and/or opportunities for improvement for future drills/events. 
+ 
+ 4.   Notify Risk Management and Employee Health of any team member exposures with event entered into  
+       RLDatix. 
+ 
+ 5.   See Emergency Operations Plans for further information. 
+ 
+Responsibility Matrix 
+ 
+Department/ 
+Personnel Job Function/ Responsibility 
+Emergency 
+Department 
+Charge Nurse, or 
+designee 
+ When given advance notice of receiving chemically contaminated persons, call 
+the PBX page operator and notify them to: 
+o Activate the Decontamination Team  
+o Call and/or page the AOC to notify them of the event 
+Administrator on 
+Call (AOC)/ 
+Incident 
+Commander 
+ Assume the role as Incident Commander  
+ Activate appropriate HICS positions to respond to the event. 
+ Notify the PBX page operator to call a “Code Orange”  
+ Notify the PBX page operator to page the On-Call Decontamination Team  
+ Provide general guidance on all response activities 
+ Obtain additional resources as necessary 
+PBX/ Page 
+Operator 
+ Clearly announce three times “Code Orange” once instructed to do so by the 
+AOC/ Incident Commander. 
+ Page the On-Call Decontamination Team to activate the decon team. 
+ Clearly announce three times “All Clear Code Orange” once instructed to do so 
+by the AOC/Incident Commander. 
+Regulatory Safety 
+Officer 
+ Instruct all “on call” team members to report to the decontamination area as 
+soon as possible  
+ Provide guidance and assistance with donning & doffing PPE for decon team 
+members. 
+ Safely decontaminate any persons who are contaminated  
+ After the event, ensure all decon equipment is checked, cleaned, re-charged, and  4 
+placed back in the proper storage area. 
+Decontamination 
+Team members 
+ Upon notification of the “Code Orange” immediately report to the 
+decontamination area to begin area set- up. 
+ Assist “On Call” team members with donning & doffing PPE 
+ Prepare to don PPE for team rotation 
+ Safely decontaminate any persons who are contaminated  
+ After the event, assist with clean up procedures of all decontamination 
+equipment. 
+Security  Send one (1) to three (3) personnel to decontamination area to implement 
+access, traffic, and crowd control policies, plans, and procedures. 
+ Assess and determine the need to don proper PPE (seek guidance from Safety 
+Officer and/or Incident Commander if needed) 
+ Manage and direct access, crowd and traffic control to assist with contaminated 
+patient throughput.   
+ Respond to any security events. 
+ After the event, assist with area clean up procedures (cones, caution tape, 
+barricades) 
+ 
+ 
+ 

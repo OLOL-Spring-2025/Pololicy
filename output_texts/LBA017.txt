@@ -1,0 +1,416 @@
+OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 1 of 10 
+LBA017 
+ 
+LABORATORY ADMINISTRATION MANUAL 
+LBA017 
+LABORATORY VALIDATIONS 
+        Date Issue  Date Effective Date 
+ Prepared/Revised By D Leger 12/6/18 1/9/2019 1/9/2019 
+Blood Donor Service Director Review J Teague 12/20/2018 Origination Date 
+Core Lab Director Review J Teague 12/20/2018 2/2012 
+Outreach Director Review E Landry 1/8/2019  
+Medical Director Review A Harton 12/23/2018  
+ 
+ 
+ 
+PURPOSE 
+Validating a process ensures that the output is what it is intended to be.  Validation also 
+provides objective evidence that process variables were considered and control systems 
+evaluated before the process is used in the live environment. 
+Sound laboratory practice requires full characterization of an assay before its use for 
+patient testing, irrespective of federally-designated test complexity and without regard to 
+when it was first introduced by a given laboratory.  The laboratory verification/validation 
+data will include each test's analytical performance specifications. Such data may 
+originate from manufacturer’s information, published reports, and/or the laboratory's own 
+studies.   In addition, the laboratory will enroll in a valid proficiency survey or acceptable 
+substitute prior to the implementation of the method. 
+• For unmodified FDA-cleared or approved tests, the laboratory may use data from 
+manufacturers' information or published literature, but the laboratory must verify 
+such outside information on accuracy, precision, reportable range, and reference 
+intervals.  
+• For modified FDA-cleared or approved tests and laboratory-developed tests 
+(LDTs), the laboratory must validate by establishing accuracy, precision, analytic 
+sensitivity, interferences (analytic specificity), reportable range, and reference 
+intervals, as applicable; data on interferences may be obtained from 
+manufacturers or published literature, as applicable. 
+ 
+DEFINITIONS 
+• FDA-Approved – A test that has gone through premarket approval (PMA) with 
+no predicate test.  This is the most stringent type of application.  Manufacturer 
+demonstrates sufficient valid scientific evidence that provides reasonable 
+assurance that the test is effective for intended use. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 2 of 10 
+LBA017 
+• FDA-Cleared – A test that has gone through the 510(k) process and a predicate 
+test exists.  Manufacturer demonstrates substantial equivalence to a test that is not 
+subject to PMA. 
+• CLIA – regulates laboratories that perform testing on patient specimens to ensure 
+accurate and reliable test results. 
+• FDA – regulates manufacturers and devices to ensure that devices are reasonably 
+safe and effective. 
+• Analytical Verification - the process by which a laboratory determines that an 
+unmodified FDA-cleared/approved test performs according to the specifications 
+set forth by the manufacturer when used as directed.  
+• Analytical Validation - the process used to confirm with objective evidence that 
+a laboratory-developed or -modified FDA-cleared/approved test method or 
+instrument system delivers reliable results for the intended application.  
+ 
+POLICY 
+For each test performed on whole blood, serum, plasma, CSF, urine, stool, or other 
+approved body fluid the laboratory must have appropriate data to support the validity of 
+the test system in use. Final review and approval of Method Performance Validation will 
+be performed by the Laboratory Medical Director and will not be delegated. 
+ 
+ 
+Upon installation of equipment, new test on existing equipment, or new specimen type 
+added to existing test system, Verification Studies will be performed.  Instrument 
+Manufacturer may perform Verification studies that meet some of the requirements of the 
+Method Validation outlined in this policy. This data may be incorporated into the lab’s 
+Method Validation; however, the laboratory must participate in the verification 
+studies and must ensure that all necessary parameters have been verified. 
+ 
+A. Non-Waived Testing - Perform the following activities and submit data along with 
+the Validation Form: 
+1. Accuracy is established by comparing results from assayed specimens or 
+reference materials to a definitive or reference method, or may be verified by 
+comparing these results to an established comparative method. Use of 
+reference materials or other materials with known concentrations or activities 
+is suggested in establishing or verifying accuracy.    
+a. A Correlation Study or Method comparison can be used to establish 
+accuracy.  A correlation study is performed by running a pre-
+determined number of patient samples in all ranges using both 
+methods (old and new).  Results are then listed side by side with a 
+third column to show the differences.   
+b. A minimum of 20 samples should be used.   If the laboratory medical 
+director determines that fewer samples are sufficient to meet the needs 
+of the validation study, the criteria used to determine the 
+appropriateness of the sample size must be recorded. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 3 of 10 
+LBA017 
+c. Analyte concentrations should be distributed across the analytical 
+measurement range. 
+2. Precision is established by repeat measurement of samples at varying 
+concentrations or activities within-run and between-run over a period of time 
+and incorporates operator variance.  
+a. Sample Selection - Patient samples, reference materials, proficiency 
+testing samples, or control materials may be used as the test samples, 
+provided there is sufficient sample material for testing each sample as 
+needed to complete the study. 
+b. Within Run – consecutive replicates consisting of all levels in a single 
+run.   
+c. Between Run - running QC for multiple runs incorporating Operator 
+Variance.   
+d. Data analysis - The mean, SD and CV will be calculated for all data 
+and compared with monthly QC statistics as applicable. 
+3. Reportable Ranges are established/verified for each analyte before 
+implementation.  Verification of reportable ranges in qualitative or semi-
+quantitative tests may simply consist of the ability to produce both 
+positive/reactive and negative/non-reactive results.  The reportable range 
+includes results that may be reliably reported and embraces two types of 
+ranges: 
+a. Analytical Measurement Range (AMR) is the range of analyte 
+values that a method can directly measure on the specimen without 
+any dilution, concentration, or other pretreatment not part of the usual 
+assay process. 
+b. Clinically Reportable Range (CRR) is the range of analyte values 
+that a method can measure, allowing for specimen dilution, 
+concentration, or other pretreatment used to extend the direct 
+analytical measurement range. 
+The limits of the reportable range are based on meeting accuracy and 
+precision requirements such as the minimal limit of quantification or 
+sensitivity, when applicable.  In some cases, clinically relevant limits may be 
+narrower than the potential analytical range, and the clinically relevant limit 
+would be used as the limit of the reportable range.  This is further detailed on 
+the current CAP Chemistry Checklist, Calibration and Standards section. 
+4. Reference Interval – Reference Intervals are important to allow a clinician to 
+assess patient results against an appropriate population. It is at the discretion 
+of the Lab Medical Director to use a previously established Reference Interval 
+or to create a new one.   
+a. To create a new Reference Interval, 120 “normal” patient samples 
+should be tested to achieve a 90% confidence limit.   OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 4 of 10 
+LBA017 
+b. The transfer of a Reference Interval is acceptable if the test subject 
+population and methodology are the same or comparable, but must be 
+verified by testing at least 20 “normal” patient samples with < 2 falling 
+outside of limits.   
+c. “Normal” patients are established by listing interferences or sources of 
+biological variability.  Selection criteria for individuals is documented.  
+Documentation is maintained with the method validation data. 
+d. If a formal reference interval study is not possible or practical, then the 
+laboratory should carefully evaluate the use of published data for its 
+own reference intervals, and retain records of this evaluation.  For 
+many analytes, literature references or a manufacturer’s package insert 
+information may be appropriate.  This should be documented and kept 
+with the Method Validation data. 
+ 
+B. Waived Testing Methods:  Certain requirements are different for waived versus 
+non-waived tests.  
+1. For waived tests, follow manufacturer instructions for: 
+a. Test procedure and method validation 
+b. Reagent storage, handling and validation 
+c. QC performance 
+d. Calibration, cal verification, analytical measurement range validation, 
+and clinically reportable range. 
+2. For waived tests, the following are not required (unless required by the test 
+manufacturer): 
+a. Lot-to-lot reagent validation 
+b. Correlations between waived instruments and between waived 
+instrument and main lab instruments. 
+c. Initial AMR validation and six-month interval validation. 
+C. The laboratory must retain records, including raw data, of method performance 
+verifications while the method is in use and for at least two years after 
+discontinuation of a method. 
+D. When to perform validation/verifications:   
+1. New Equipment  
+2. New Test Method 
+3. New specimen type  
+4. Changes in reagents, test kits, etc., based on suggestions from manufacturers 
+or lab management 
+5. Relocation of equipment  OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 5 of 10 
+LBA017 
+6. After repairs or replacement of critical components of instrument or 
+equipment 
+7. Intermittent testing requirements. 
+8. If original validations are lost or incomplete. 
+E. Multiple instruments:  The laboratory must follow manufacturer's instructions for 
+instrument set up, maintenance, and system verification. Each instrument is 
+considered a separate test system, including instruments of the same make and model. 
+The laboratory must verify the performance specifications of each instrument. 
+Instruments considered to be part of an established method test system such as Point 
+of Care Activated Clotting Time (ACT) instruments, will have relevant performance 
+specifications verified.  Reference Ranges do not need to be re-established.  This 
+should be documented in the Method Performance Validation Form. 
+F. Re-Validation, Abbreviated Validation, or Additional Validation studies – Not 
+all scenarios listed in part D will require a full validation; however, all validation 
+studies will be appropriate to ensure the quality of the test or instrument being 
+validated.  The extent of the Validation Plan is at the discretion of the Laboratory 
+Medical Director.  Refer to manufacturer’s instruction for guidance.  Examples of this 
+scenario include but are not limited to: relocation of equipment, repairs to equipment, 
+and intermittent testing requirements. 
+After an Initial validation study has been performed and implemented, it may be 
+determined that an additional validation study is needed (for example, if original 
+validations are incomplete).  Addendum to Method Validation Protocol Form 
+(LBA017-B) may be used when the testing performed is to be used in addition to the 
+original studies performed.  
+G. Additional Requirements: 
+1. Policies/procedures/forms are written/modified and must conform to lab 
+document control guidelines.  See policy LBA004-SOP for Policy and 
+Procedure Manuals.  
+2. Reference ranges, reportable ranges, etc. listed in policies/procedures/forms 
+should agree with above studies.  
+3. Proficiency Testing, CAP notification:   
+a. Test name is added or updated (e.g. waived to non-waived) if 
+necessary in CAP Test Menu.  
+b. A valid proficiency test survey or alternative proficiency test is 
+established and ordered, if applicable.  
+NOTE:  If a PT challenge is not offered during the validation period prior 
+to beginning patient testing, the laboratory may perform an alternative 
+assessment of the test. In such a case, the laboratory must participate in 
+the next scheduled PT event. OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 6 of 10 
+LBA017 
+4. LIS modifications are outlined and submitted for review, if applicable.  
+Modifications are completed and tested prior to being implemented in the live 
+environment. 
+5. Training and competency:  Initial Training checklists and Ongoing 
+Competency Assessment Checklists are updated.  Initial Training of lab 
+testing personnel is completed and documented prior to the method being 
+implemented.   
+6. Notification of clients:  If the lab changes its analytic methodology so that test 
+results or their interpretation may be SIGNIFICANTLY different, the change is 
+explained to clients.  This may be done through direct mailings, lab or hospital 
+newsletters, or part of the test report itself  
+7. Change to On-line Test catalog submitted to appropriate personnel 
+ 
+ 
+FORMS 
+A. Method Performance Validation Protocol Form (LBA017-A) 
+B. Addendum to Method Validation Protocol Form (LBA017-B) 
+C. New Instrument/Test Checklist Form (LBA017-C) 
+ 
+PROCEDURE FOR COMPLETING METHOD PERFORMANCE VALIDATION 
+FORM 
+A. Perform the required testing and complete the Method Performance Validation 
+Protocol form, either LBA017-A or LBA017-B as applicable, as outlined below. 
+1. Process Title – State the name of the process or system that is being 
+validated. 
+2. Purpose  
+a. State whether the validation is prospective or retrospective. 
+b. State process parameters and product outcomes that the validation study 
+will attempt to prove. 
+3. System Description  
+a. Obtain or develop a comprehensive system/process description before 
+writing the validation protocol 
+b. When equipment is part of the process to be validated, the system/process 
+description should include information about: 
+i. manufacturer make 
+ii. type of equipment or instrument 
+4. Responsibilities- List the individuals responsible for the following activities. 
+The individual that develops the plan or performs the testing may not be the 
+same individual that reviews/approves of the plan or the testing.  If there are OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 7 of 10 
+LBA017 
+any questions about assigning responsibilities, consult the Compliance 
+Officer: 
+a. Developing the validation protocol 
+b. Reviewing/Approving the protocol 
+c. Performing the validation 
+d. Reviewing the validation 
+e. Performing the Installation Qualification 
+f. Reviewing the Installation Qualification 
+g. Calibration and maintenance support 
+h. Support Services 
+i. Training and Competency  
+5. Determine a Validation Study Procedure for each of the following validation 
+phases: 
+a. Installation Qualification (IQ) – This step is typically managed by the 
+BioMedical Department. 
+i. Identify all steps required to verify that the equipment operates in the 
+manner that meets all of the installation requirements. 
+ii. Provisions for sign off that the installation qualification has been passed 
+prior to continuing performance qualification. 
+b. Operational Qualification (OQ) 
+i. Identify all steps required to verify that the equipment operates in the 
+manner intended by the manufacturer. 
+ii. Provisions for sign-off that the operational qualification has been passed 
+prior to performance qualification. 
+c. Performance Qualification (PQ) 
+i. Identify all steps required to verify that the equipment and processes 
+operate in the manner that meets requirements for safe and reliable 
+patient testing. 
+ii. Provisions for sign-off that the performance qualification has been 
+passed prior to putting the equipment/instrument into service. 
+6. Validation Study Procedure - For each validation phase (installation, 
+operational and product performance) describe: 
+a. SOPs needed to perform the study and support activities 
+b. Personnel and qualifications of personnel to execute the protocol    
+c. Equipment required to complete the study 
+d. Materials required to complete the study OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 8 of 10 
+LBA017 
+e. Testing samples required to complete the study 
+f. Testing Conditions required to complete the study 
+g. Data/Information to be collected - Determine the step-by-step procedure 
+for conducting the validation study and documenting the study data. 
+h. Acceptance Criteria/Acceptable Failure Rate - Determine acceptance 
+criteria and acceptable failure rate before performing the validation study.  
+Describe how the results will be evaluated to determine if the study was 
+successful. Include any applications of statistical analysis. Define the 
+acceptable criteria for data collected in each study phase (IQ, OQ, PQ). 
+Specify allowable run-to-run variations.  
+i. Corrective Action for failures.  Describe the corrective actions that will 
+be taken if any of the testing does not meet the acceptance criteria defined.  
+Specify any conditions that will allow one trial or the entire validation 
+study to be repeated. 
+7. Study Conclusions 
+a. Address the following when deriving conclusions from the study data. 
+b. explanation of deviations from the expected results 
+c. actions taken to correct the deviations 
+d. assessment of the impact of deviations on the study 
+e. explanation and justification of any revisions to the acceptance criteria 
+f. a record of the discussion and evaluation of the data 
+g. Conclusion as to whether or not the process can be considered validated 
+and description of any limitations on the process. 
+B. A thorough review of manufacturer’s guidelines must be conducted to ensure 
+adherence to all aspects of testing: pre-analytic, analytic and post-analytic 
+procedures.  Any deviations from the manufacturer’s package insert/guidelines must 
+have appropriate validation studies performed to specifically validate performance 
+characteristics related to the deviation.  Study results must be reviewed and approved 
+by the laboratory Medical Director.  Deviations include, but are not limited to the 
+following: 
+1. Specimen source 
+2. Collection containers 
+3. Specimen stability  
+4. Transportation conditions 
+5. Storage instructions 
+6. Centrifugation requirements – RCF, time 
+C. Quality Control – Quality Control ranges (mean and standard deviation) for 
+quantitative assays must be verified/established prior to implementation of the OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 9 of 10 
+LBA017 
+procedure.  Upon initial method validation the following guidelines may assist in 
+establishment of QC ranges: 
+1. Assayed controls - verification of manufacturer’s range, assuming the range is 
+established for the methodology and instrumentation being validated. 
+2. Un-assayed controls require establishment of ranges over time through 
+concurrent testing of control materials with previously determined statistical 
+parameters.  In lieu of concurrent testing for initial implementation where no 
+QC material with previously determined statistical parameters are available, 
+comparison to published peer data for the control lot and specific 
+methodology/instrumentation may assist with initial range establishment. 
+D. Limits of Data Acceptability.  During the course of these implementation studies, all 
+results will be compared to the limits defined by the material manufacturer.  In those 
+instances where patient samples are utilized, acceptable limits will be analyte-
+dependent and determined by the manufacturer’s guidelines, limits defined in the 
+federal register, or by the medical director or designee.   
+E. Data Compilation and Analysis.  Data is compiled using the completed Method 
+Performance Validation Protocol form.  Include studies created by the manufacturer or 
+by the laboratory.  Each study is clearly marked as to what the information is 
+validating.  Where applicable, ranges and acceptability criteria will be marked on each 
+study.  Dept. supervisor reviews and signs each study.  All discrepancies will be 
+addressed and corrected, with the director’s approval, prior to the method being 
+implemented. 
+F. Release of Test Method/Instrument for live patient testing – All validation data is 
+submitted with the completed Method Performance Validation Protocol form.  The 
+Department Supervisor, the Department Medical Director, and the Laboratory Medical 
+Director must review and approve the documentation before patient testing may begin. 
+A statement of approval or disapproval of the acceptability of performance of the 
+Validation Study is required.  See Method Performance Validation Protocol form 
+(LBA017-A) for standard statement.  NOTE: This statement comment is applicable 
+only to tests implemented after June 15, 2009. 
+  
+ADDITIONAL INFORMATION 
+Availability of Validations/Verifications.  The lab’s current test methods, including the 
+validation results are available to clients of the lab and to Inspection teams upon request 
+(CAP COM.40700). 
+Intermittent Testing.  When a test is put back into production, the following requirements 
+must be met: 
+A. PT or alternative assessment performed within 30 days prior to restarting patient 
+testing. 
+NOTE:  For tests for which PT is required by CAP, if a PT challenge is not offered 
+during the 30-day period prior to restarting patient testing, the laboratory may OUR LADY OF THE LAKE RMC 
+LABORATORY ADMINISTRATION 
+BATON ROUGE, LA     70808 
+  Page 10 of 10 
+LBA017 
+perform an alternative assessment of the test. In such a case, the laboratory must 
+participate in the next scheduled PT event. 
+B. Method performance specifications verified, as applicable, within 30 days prior to 
+restarting patient testing. 
+C. Competency assessed for analysts within 12 months prior to restarting patient testing. 
+ 
+REFERENCES 
+A. Quality Systems in the Blood Bank Environment, Abbott Quality Institute and AABB, 
+2nd ed., 1998. 
+B. Clinical and Laboratory Standards Institute. Analysis of Body Fluids in Clinical 
+Chemistry; Approved Guideline. CLSI document C49 -A (ISBN1 -56238-638-7). 
+Clinical and Labo ratory Standards Institute, 940 West Valley Road, Suite 1400, 
+Wayne, Pennsylvania 19087-1898 USA, 2007.) 
+C. College of American Pathologists All Common Checklist.  COM.30980, COM.40000, 
+COM.40100, COM.40200, COM.40250, COM.40300, COM.40310, COM.40350, 
+COM.40400, COM.40450, COM.40500, COM.40600, COM.40610, COM.40620, 
+COM.40630, COM.40640, COM.40700, COM.40800, COM.50000, COM.50100. 
+ 
+REVISIONS 
+2/2012(created), 3/15/15, 4/4/18, 5/30/18, 12/6/18 
