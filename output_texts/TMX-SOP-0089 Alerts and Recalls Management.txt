@@ -1,0 +1,472 @@
+1.
+
+N | Approved
+(/ T R | M E DX » Standard Operating Procedure
+
+: Document #: . TMX-SOP-0089 Revision: S 12
+. Document Type: | TMX | Effective Date: Jul 18, 2023
+. Department: . CE Operations Origination Date:
+
+Title: Alerts and Recalls Management
+
+PURPOSE -- SCOPE
+
+TRIMEDX will comply with TRIMEDX and the Facility's policies and procedures when
+managing hazard alerts and equipment recalls for TRIMEDX covered equipment.
+
+3.2
+
+3.3.
+
+3.4.
+
+3.5.
+
+REFERENCE DOCUMENTS
+
+DEFINITIONS
+3.1
+
+Affected? Yes: Condition/issue addressed in the alert pertains to the equipment and
+can be rectified by the TRIMEDX Technician, Site Manager, or OEM.
+
+Affected? No: Condition/issue addressed in the alert does not pertain to the
+equipment or equipment is not affected.
+
+Affected? Investigating: Technician is assessing the device to determine if it is affected
+by the alert.
+
+Alert Review Committee: The Alert Review Committee will be comprised of the Senior
+QRC Medical Device Safety Specialist, Directors, Quality & Regulatory, the Vice
+President, Quality, member(s) of TRIMEDX Operations Senior Leadership and
+representatives from the following departments: Supply Chain, Supplier Quality.
+Additionally, the Vice President of Supply Chain and the Chief Operating Officer will be
+invited to join.
+
+Alert Types:
+
+3.5.1. Standard Alert — ALTOOXXXX — Each device must be investigated. A WOT is opened
+
+for each potentially affected device and each device must be investigated.
+
+3.5.2. Recall — RCLOOOXXX — The device is recalled by the MFR. A WOT is opened for each
+
+potentially affected device and each device is investigated and removed from
+service if affected.
+
+3.5.3. Generic Alert — ALTOOXXXXG — Remediation from the MFR is not yet available.
+
+One WO/WOT is opened per site possessing the potentially affected models.
+Information is reviewed and any “end user” instructions should be passed on.
+
+3.5.4. Informational Alert — ALTOOXXXXI — Notification that is informational ONLY and
+
+will NOT require remediation at the device level. Information is reviewed and any
+“end user” instructions should be passed on.
+
+3.5.5. Alert Update — ALTOOXXXXU — An update to a previously released alert that
+
+requires a change in the initial remediation instructions. The same ALT# prefix will
+be used as the originally released alert and a “U” will be added to the end.
+
+3.5.6. Multifaceted Alert - ALTOOXXXXMX— Multiple remediations that will be released
+
+for the same device correction. The same ALT# prefix will be used for each facet.
+
+3.5.7.  FYI—An Urgent Medical Device Correction has not yet been issued by the MFR -
+
+no current action required. The FYI story is posted on Conxion page.
+
+3.6. Anticipated Service Provider — In House: Condition/issue addressed in the alert
+
+pertains to the equipment and can be resolved by the technician or manager in house.
+
+This is an uncontrolled document unless viewed online.
+
+Before using this document, the user must verify that the current version is being used.
+
+Copyright TRIMEDX All information contained herein is confidential and proprietary to
+
+TRIMEDX and should not be shared outside of TRIMEDX
+
+Page 1 of 7
+
+
+N | Approved
+(/ T R | M E DX » Standard Operating Procedure
+
+: Document #: . TMX-SOP-0089 Revision: S 12
+. Document Type: | TMX | Effective Date: Jul 18, 2023
+. Department: . CE Operations Origination Date:
+
+Title: Alerts and Recalls Management
+
+3.7.
+
+Anticipated Service Provider — Manufacturer: Condition/issue addressed in the alert
+pertains to the equipment but needs to be resolved by the Manufacturer (waiting on
+parts, documents, or service).
+
+4. ABBREVIATIONS
+
+4.1.
+4.2.
+4.3.
+4.4.
+4.5.
+4.6.
+4.7.
+4.8.
+4.9.
+4.10.
+4.11.
+4.12.
+
+CNL - Could Not Locate; equipment could not be found
+CMMS — Computerized Maintenance Management System
+CO - Corporate Office
+
+FDA — Food and Drug Administration
+
+FSR — Field Service Report
+
+OEM - Original Equipment Manufacturer
+
+PM - Preventive Maintenance
+
+QRC - Quality & Regulatory Compliance Department
+RTP — Request to Purchase
+
+SM - Site Manager
+
+WO - Work Order
+
+WOT — Work Order Task
+
+5. RESPONSIBILITIES
+
+5.1
+5.
+
+5.
+
+5.
+
+5.
+5.
+
+5.2.
+
+TRIMEDX Managers
+
+1.1. Communicate and provide Alert/Recall notice and relevant documentation to
+hospital and QRC Department. Documentation is maintained within the CMMS.
+
+1.2. Ensure that appropriate investigation is conducted based on the Alert WO/WOT
+opened prior to approval.
+
+1.3. Review all Alert WO/WOTs to ensure appropriate intervention and documentation
+prior to approval.
+
+1.4. Submit Bulk Update Alerts Requests to QRC Department if applicable.
+
+1.5. If applicable, ensure Business Reply Form attached to the alert (or provided by
+manufacturer) is accurately filled out and is returned to manufacturer.
+
+TRIMEDX Managed Technicians
+
+5.2.1. Locate the device addressed in the Alert/Recall WOT.
+5.2.2. Verify that the problem identified in the Alert/Recall applies to the device.
+
+5.2.2.1 If a Recall, communicate to the customer immediately that the device is being
+removed from service. If device is determined affected, remove from clinical
+use within 48 hours and indicate on the WOT that the device has been removed
+from clinical use.
+
+5.2.3. Accurately fill out Alert/Recall WOT with the required information.
+5.2.4. Leave all Alert/Recall WOTs open until they are remediated.
+
+This is an uncontrolled document unless viewed online.
+
+Before using this document, the user must verify that the current version is being used.
+
+Copyright TRIMEDX All information contained herein is confidential and proprietary to
+
+TRIMEDX and should not be shared outside of TRIMEDX
+Page 2 of 7
+
+
+N | Approved
+(/ T R | M E DX » Standard Operating Procedure
+
+: Document #: . TMX-SOP-0089 Revision: S 12
+. Document Type: | TMX | Effective Date: Jul 18, 2023
+. Department: . CE Operations Origination Date:
+
+Title: Alerts and Recalls Management
+
+5.2.5. Address Alert/Recall WOTs within 30 days of receipt of the notice which includes
+completing the “Affected?” question and adding work notes.
+
+5.2.6. ldentify and monitor Alert/Recall WOTSs that require Manufacturer Service or will
+remain open past 90 days. Continuing contacting OEM every 30 days until you
+receive a remediation date.
+
+5.3. QRC Department
+
+5.3.1. Perform an inventory search of the CMMS to identify devices potentially affected
+by the hazard alert or equipment recall received from the Recall Management
+Database, TRIMEDX Managers, or from the FDA.
+
+5.3.2. Open Alert/Recall WO/WOTs for all equipment potentially affected by the alert for
+equipment less than 1,000 in quantity.
+
+5.3.3. Escalate Alert/Recall to Vice President, Quality & Regulatory and Directors, QRC
+Department if the equipment count is 1,000+ and/or the remediation work will
+need to be completed In House. The Alert Review Committee will be initiated in
+these scenarios to determine next steps and provide visibility to TRIMEDX Senior
+Leadership.
+
+5.3.4. Provide a copy of the hazard alert or equipment recall to the affected sites.
+
+5.3.5. Complete Bulk Update Alerts Requests.
+
+5.3.6. Monitor open Alert/Recall WO/WOTs and provide Compliance Reports to TRIMEDX
+Leadership as requested.
+
+5.3.7. Review closed Alert/Recall WO/WOTs periodically to ensure appropriate actions
+and documentation.
+
+6. PROCEDURE
+6.1. QRC receives Alert/Recall notice from Recall Management Database, TRIMEDX
+Manager, or FDA.
+
+6.2. QRC determines if the impact of the alert work orders will exceed 1,000 in quantity
+and/or the remediation work will need to be completed In House. If so, the alert is
+escalated to the Vice President, Quality & Regulatory and Directors, Quality &
+Regulatory prior to any actions being taken. The Vice President and Directors will
+initiate a meeting with the Alert Review Committee to determine the next steps in the
+process. This meeting should occur within 5 business days following TRIMEDX's receipt
+of the alert/recall.
+
+6.3. QRC investigates Alert/Recall notice, creates notification of Alert/Recall, and opens
+Alert/Recall WO/WOT if devices are found to be in inventory.
+
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being used.
+
+Copyright TRIMEDX All information contained herein is confidential and proprietary to
+TRIMEDX and should not be shared outside of TRIMEDX
+
+Page 3 of 7
+
+
+N | Approved
+(/ T R | M E DX » Standard Operating Procedure
+
+: Document #: . TMX-SOP-0089 Revision: S 12
+. Document Type: | TMX | Effective Date: Jul 18, 2023
+. Department: . CE Operations Origination Date:
+
+Title: Alerts and Recalls Management
+
+6.4. SM ensures that an appropriate investigation is conducted based on the Alert WO
+opened by QRC.
+
+6.5. Technician locates the device addressed in the Alert/Recall WOT.
+6.6. Technician verifies that the problem identified in the Alert/Recall applies to the device.
+
+6.7. Technician accurately fills out Alert WOT.
+6.7.1. In the Affected? Field, select Yes, No, or Investigating from the drop-down list and
+add work notes as applicable.
+
+6.8. Technician selects Start Work when ready to service the equipment.
+
+6.9. If Manufacturer service is required (likely to remain open past 90 days)
+6.9.1. Inthe Close Fields tab — select Manufacturer Remediation next to Who performed
+the remediation?
+6.9.2. Select what actions were taken to remediate the alert.
+6.9.3. Select what actions were taken to ensure the device was ready for patient use.
+6.9.4. Attach an FSR from the Manufacturer to the WOT.
+
+6.10. If In House service is an option
+
+6.10.1. Determine whether parts need to be ordered. Note: Parts should typically be
+ordered from the OEM ONLY and not sourced.
+
+6.10.2. SM approves part order if cost exceeds tech permission level. Typically, parts
+orders related to an alert or recall should be $0 if ordered correctly.
+
+6.10.3. Receive ordered parts in the CMMS; if replaced part is eligible for Core exchange,
+notify return of exchange in the CMMS and ship part.
+
+6.10.4. Complete alert actions based on Manufacturer notice.
+
+6.10.5. In the Close Fields tab — select In House next to Who performed the remediation?
+
+6.10.6. Select what actions were taken to remediate the alert.
+
+6.10.7. Select what actions were taken to ensure the device was ready for patient use.
+
+6.11. If Repair or PM pertaining to the Alert is needed;
+6.11.1. Address the Alert WOT as described above.
+6.11.2. If Repair is needed — open a Repair WOT and follow the steps in the Equipment
+Repairs Policy (TMX-SOP-0087).
+6.11.3. If PM is needed — Open a Manual PM and follow the steps in the Preventive
+Maintenance (PM) Policy (TMX-SOP-0088).
+
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being used.
+
+Copyright TRIMEDX All information contained herein is confidential and proprietary to
+TRIMEDX and should not be shared outside of TRIMEDX
+Page 4 of 7
+
+
+N | Approved
+(/ T R | M E DX » Standard Operating Procedure
+
+: Document #: . TMX-SOP-0089 Revision: S 12
+. Document Type: | TMX | Effective Date: Jul 18, 2023
+. Department: . CE Operations Origination Date:
+
+Title: Alerts and Recalls Management
+
+6.12. Within 30 days, all alerts should be, at a minimum, addressed with the Affected? field
+completed, and work notes documented.
+
+6.13. If applicable, completed Business Reply forms in the alert should be returned to the
+manufacturer or provided to Hospital Alert Management representative.
+
+6.14. Not Affected alerts should be closed.
+
+6.15. Affected alerts that required Manufacturer service:
+6.15.1. SM schedules service directly with the manufacturer.
+6.15.2. Open past 90 days should be monitored (contact Manufacturer/vendor on status)
+and notes entered every 30 days until you receive a remediation date.
+
+6.16. Affected alerts that can be serviced by in-house staff:
+6.16.1. Should be closed as soon as possible.
+6.16.2. Open past 90 days should be monitored, and notes entered every 30 days until
+resolved.
+
+6.17. Affected alerts that will not be remediated due to device dispositioned/returned to
+OEM OR customer has decided NOT to move forward with remediation/upgrade:
+6.17.1. Selected “Yes” to “Has remediation been completed?” and selected “Device
+Disposition” or “Customer Declined” to “What was done to remediate?” Attach
+documentation of the customer declination to the WOT.
+
+6.18. Delayed Work Order Status
+6.18.1. If the work order task cannot be completed due to a delay; you may select the
+‘Delayed’ check box on the WOT.
+6.18.2. Once checked, you are required to answer, ‘What is Delayed?’:
+6.18.2.1. Parts
+6.18.2.2. Vendor Service
+6.18.2.3. Site (Customer)
+6.18.3. If there is an additional reason that they are delayed, then the option for ‘Delay
+Reason’ is available.
+6.18.4. Delayed Work Order Status is not used for any metrics or standardized reporting.
+This is only to help provide reasoning behind the work order task not being
+completed.
+
+6.19. SM/Technician can request a bulk update of Alert WO/WOT Notes, Affected?, Close
+Fields, and labor lines by submitting the following to QRC in a Bulk Update Alerts
+request in the CMMS. Note: Bulk Update Alerts requests DO NOT close the WOT.
+
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being used.
+
+Copyright TRIMEDX All information contained herein is confidential and proprietary to
+TRIMEDX and should not be shared outside of TRIMEDX
+Page 5 of 7
+
+
+N | Approved
+(/ T R | M E DX » Standard Operating Procedure
+
+: Document #: . TMX-SOP-0089 Revision: S 12
+. Document Type: | TMX | Effective Date: Jul 18, 2023
+. Department: . CE Operations Origination Date:
+
+Title: Alerts and Recalls Management
+
+6.19.1. Filter your WOT list to Alert WOTs to be updated, filtering to one reference number
+atatime.
+6.19.2. Once satisfied with the filtered list, go to the Related Links at the bottom and click
+Bulk Update Alerts.
+6.19.3. Complete the Bulk Update of Alert Work Order Tasks form:
+6.19.3.1. Answer the question of Affected?
+6.19.3.2. Answer the Close Fields questions
+6.19.3.3. Enter Work Notes and Service Notes
+6.19.3.4. If applicable, enter labor information. Ensure that the correct labor type is
+selected (i.e. labor, courtesy, etc). This will create a labor expense line for the
+“On behalf of” user.
+6.19.4. Add attachments if applicable
+6.19.5. Press Submit in the lower right corner of the form
+6.19.6. QRC will review the request. If the request is denied you will receive a notification
+and someone from QRC will reach out to you.
+
+6.20. Rental Equipment Process on Alerts
+
+6.20.1. Technicians should notify department of use or equipment owner of the rental
+relationship of the need for remediation.
+
+6.20.2. If rental company has stated they will not remediate the alert, then CE
+management team should inform customer champion that TRIMEDX can no longer
+support the device due to patient risk.
+
+6.20.2.1. Disposition device — follow steps in the Disposition of Equipment policy
+(TMX-SOP-0091).
+6.20.2.2. If customer will not sign disposition form, escalate through TRIMEDX site
+operation leadership.
+6.20.2.3. Incomplete the Alert WOT through the Disposition of Equipment process. If
+Alert WOT is not Incompleted through the disposition process, it must be
+Incompleted manually through the Alert WOT.
+6.20.3. If rental company will complete remediation:
+6.20.3.1. If Device is removed from site for remediation:
+6.20.3.1.1. Disposition device —follow steps in the Disposition of Equipment policy
+(TMX-SOP-0091).
+6.20.3.1.2. Incomplete the Alert WOT through the Disposition of Equipment
+process. If Alert WOT is not Incompleted through the disposition
+process, it must be Incompleted manually through the Alert WOT.
+6.20.3.2. If Device will remain on site for remediation:
+6.20.3.2.1. Work with hospital/rental company to collect documentation of
+remediation and document against the WOT.
+
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being used.
+
+Copyright TRIMEDX All information contained herein is confidential and proprietary to
+TRIMEDX and should not be shared outside of TRIMEDX
+Page 6 of 7
+
+
+N I Approved |
+(JTRIMEDX Standard Operating Procedure
+
+Document | TMX-50P-0089 12
+
+i Alerts and Recalls Management
+
+7. QUALITY RECORDS
+8. PROCESS FLOWCHART
+
+Revision Revision history
+11 Addition of section 6.21 Rental Equipment process. General clarification throughout
+responsibility sections.
+12 Major changes to process throughout document. Addition of alert type definitions and
+
+changes to required documentation frequency. For training purposes, consider entire
+document updated.
+
+END OF DOCUMENT
+
+This is an uncontrolled document unless viewed online.
+Before using this document, the user must verify that the current version is being used.
+
+Copyright TRIMEDX All information contained herein is confidential and proprietary to
+TRIMEDX and should not be shared outside of TRIMEDX
+
+Page 7 of 7
+
+

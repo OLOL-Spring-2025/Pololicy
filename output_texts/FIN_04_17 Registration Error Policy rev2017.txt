@@ -1,0 +1,129 @@
+\
+
+FRANCISCAN MISSIONARIES OF OUR LADY
+
+HEALTH SYSTEM
+RESPONSIBLE DEPARTMENT: SUBJECT:
+Patient Access Registration Error Policy
+PAGES: 3 REPLACES POLICY DATED:
+Registration Error Policy dated 11/15
+EFFECTIVE DATE: October 3, 2017 SYSTEM POLICY NUMBER:
+REVISED: 4/13/15, 6/1/15; 10/3/17 FIN.04.17
+APPROVED BY: iﬁa DATE: /0~ 4._
+(0} B - é]/v ATE: /0-4_/7
+SCOPE:
+Applies to all staff reporting to Patient Access leaders in FMOLHS.
+PURPOSE:
+
+The purpose of this policy is to ensure the quality of the patient account at the time of registration, to
+ensure patient safety, to meet regulatory requirements, and to ensure that proper billing can occur.
+
+POLICY:
+
+Patient Access Reps will provide accurate and complete registrations meeting all Federal, State, and
+JCAHO requirements. Access Reps will obtain accurate and complete demographic, clinical,
+insurance, and financial information from patients in an efficient and courteous manner during the
+registration process. Patient Access Reps will use (3) identifiers to ensure the correct patient is
+selected and given the correct armband before services are rendered. The patient’s driver’s license
+and insurance card will be obtained and scanned at the time of registration. Benefits verification that
+can be processed through Passport, Medicaid website or various insurance providers websites, will be
+done and documented at or before the time of registration (for all patient types). Errors will be
+tracked and appropriate disciplinary measures taken.
+
+
+DEFINITIONS:
+
+Crucial Errors (can result in patient harm and are subject to strict disciplinary measures)
+e Failure to select correct MRN
+e Failure to use (3) ID process
+e Failure to place correct armband on patient
+e An error that may cause a Sentinel Event
+° Any EMTALA (Emergency Medical Treatment Active Labor Act) violations
+¢ Changing Trauma patient information before prior notification (see hospital-specific
+rules on trauma patient identification)
+
+Loss-of-Revenue Errors
+e Failure to obtain a precertification / authorization for services
+e Failure to verify and update insurance information based on eligibility response
+e Failure to notify an insurance company timely of an inpatient admission
+e Failure to follow policy related to point-of-service collections
+
+Privacy (HIPAA) Violations
+
+¢ Failure to update and verify demographic information, resulting in possible HIPAA
+violation
+¢ Inappropriate disclosure of information which may lead to a HIPAA breach
+
+General Registration Quality Errors
+
+® Failure to update and verify demographic information
+
+Failure to ask for and document patient out-of-pocket responsibility
+
+Failure to scan and document required information to account
+
+Failure to complete Registration in a timely manner
+
+Failure to follow proper process/policy for Admission type (e.g. trauma, emergency,
+observation, inpatient, ambulatory)
+
+*  Demographic and other errors identified in EPIC workqueues
+
+PROCEDURE:
+
+e Errors may be detected in a number of ways: via EPIC edits and placement in Registration
+Workqueues; via data received from Case Management, Business Office, and other
+departments; and via internal quality audits performed by Patient Access management staff.
+
+o will provide registration staff with real-time demographic and insurance error
+alerts, as well as alerts in EPIC Registration Workqueues. Supervisors and managers will
+track the volume of alerts. When trends appear for individual registrars, those accounts
+will be included that person’s quality audits for the month and will affect the overall
+quality score. (See next paragraph.)
+
+©  Supervisors and managers will maintain a tracking log of g identified by other
+departments and from internal quality fTRRE. A KB ESIE will be calculated by
+dividing the number of correct data points by the total number of data points reviewed,
+Example: 94 data points correct out of 100 data points reviewed = 94/100 = 94%.
+
+[§8]
+
+
+o Crucial errors and loss-of-revenue errors will result in stricter disciplinary measures than general
+registration quality errors.
+
+e Privacy violations will be subject to System policy PRI.08.014 — HIPAA Privacy and
+Security Breach Disciplinary Sanctions and Mitigation. Patient Access leaders will
+consult with Human Resources and the facility Privacy Officer when such matters oceur.
+
+®  Supervisors will review the registration process daily and coach Access Reps on correct
+procedure.
+
+e Disciplinary actions will be taken as described below.
+
+o Verbal Warning
+*  The I* occurrence of a loss-of-revenue error.
+® The I* month the employee’s quality score falls below 85%. (As defined above, the
+quality score is derived from account audits and errors identified by other
+departments.)
+
+o Written Warning
+= The Ist occurrence of a erucial error.
+= The 2" occurrence of a loss-of-revenue error.
+*  The 2" month the employee’s quality score falls below 85%.
+
+©  Probation or Suspension with Performance Improvement Plan (consult HR)
+* The 2nd occurrence of a erucial error.
+*  The 3rd occurrence of a loss-of-revenue.
+*  The 3" month the employee’s quality score falls below §5%.
+
+© Administrative Review (Termination) (consult HR)
+= The 3rd occurrence of a crucial error
+®  The 4th occurrence of a loss-of-revenue error.
+= The 4" month the employee’s quality score falls below 85%, with no improvement
+shown. If scores remain below 85% but improvement is noted, the Performance
+Improvement Plan may be extended for 30-60 days; HR will be consulted in this case.
+
+NOTE: This policy does not apply 1o new hires within their I 90 days of employment.
+
+

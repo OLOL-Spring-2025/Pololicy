@@ -1,0 +1,584 @@
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+g
+| seprmen et oo evew | 77 3 0 yiplparg| | msam ]
+
+cscavirroiee | Quiotdis Uiy [3120123
+
+¢
+
+PURPOSE:
+
+The TEG 6s Hemostasis Analyzer is intended for in vitro diagnostic use to monitor and analyze
+the coagulation state of a blood sample. The TEG 6s analyzer records the kinetic changes in a
+sample of anticoagulated whole blood as the sample clots, retracts and/or lyses in real time. The
+system output consists of a table of numerical values derived from a graphical representation of
+the hemostasis curve, which depicts clot firmness over time. These values determine clot
+formation, kinetics, strength and stability. The indication for TEG 6s Hemostasis
+
+System use is with adult patients (18 years and older) where an evaluation of their blood
+hemostasis properties is desired. Hemostasis evaluation with the TEG 6s Hemostasis System
+using the Global Hemostasis with Lysis - Citrated: K, RT, FF Assay Cartridge is used to assess
+clinical conditions in a trauma setting to assess hemorrhage or thrombosis conditions.
+
+PRINCIPLE:
+
+The TEG 6s System and the Citrated: K, RT, FF cartridge are used to test the
+
+hemostasis properties of citrated blood samples using three different assays/reagents
+simultaneously, one in each of the three cartridge channels. For the CK assay, Kaolinactivated
+test methods are used to reduce variability and to reduce the running time of a
+
+native whole blood sample. The CRT assay maximally accelerates the clotting process
+
+by simultaneously activating the intrinsic and extrinsic coagulation pathways, allowing for
+the maximum clot strength to be reached more quickly. The CFF assay inhibits platelet
+aggregation, excluding its contribution to clot strength, and thereby measures fibrinogen
+contribution to clot strength.
+
+MATERIALS/EQUIPMENT:
+e TEG 6s Analyzer- the instrument should be located on a flat surface with adequate
+
+airflow through a cooling fan at the rear of the device. Ensure that the fan is not
+obstructed by proximity to a wall or other equipment. The analyzer must be operated at
+room temperature (10-32°C), 20%-80% RH (non-condensing) humidity, and 0-2000m
+above sea level. Voltage rating is 100V-240V AC.
+
+Page 1 of 10
+POCTI12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+o Citrated: K, RT. FF cartridge (10 provided in each cartridge box). Stored refrigerated
+
+between 2-8°C in sealed foil packages when not in use. When stored between 2-8°C, the
+product has a shelf life up to the date labeled on the box. Use before expiration date listed
+on the box. Cartridges must be used within 2 hours after removal from the pouch and
+exposure to ambient room temperature. Cartridges are for single use only and must be
+discarded after use.
+
+e Transfer Pipettes (12 provided in each cartridge box)
+
+e (Cartridge Reagent QC- Level 1 (12 QC vials and diluent water vials in each box).
+TEG 6s System QC materials are for single use only and should be stored refrigerated at
+2°C to 8°C prior to use. When stored between 2-8 °C, vials are stable until expiration
+date on box. Reconstituted vials are stable for 2hrs.
+
+e Cartridge Reagent QC- Level 2 (12 QC vials and diluent water vials in each box).
+TEG 6s System QC materials are for single use only and should be stored refrigerated at
+2°C to 8°C prior to use. When stored between 2-8 °C, vials are stable until expiration
+date on box. Reconstituted vials are stable for 2 hrs.
+
+SPECIMEN COLLECTION, HANDLING AND PRECAUTIONS:
+
+Specimen:
+3.2% sodium citrate Vacutainer tube, properly labeled with patient chart label
+
+Specimen Collection & Handling:
+
+Phlebotomy: Follow standard phlebotomy practices. Inspect both arms to ensure the best
+possible vein is selected. Use a 21-gauge needle. Under no circumstances should a smaller gauge
+needle be used. The use of a butterfly needle with tubing is specifically recommended if
+available, as it puts less pressure on the vein. Drawing a discard tube (with no additive) or
+discard syringe of 3-5 mL prior to collecting blood for TEG® analysis is required to ensure
+accurate results. This clears the needle and tubing of any tissue thromboplastin that is released
+during the process of accessing the vein and ensures that a free-flowing sample is collected. If a
+no additive tube is not available, a second blue top marked “discard” may be used.
+
+Line Draw: When drawing from a line be sure to use plastic syringes that are NOT heparinized.
+Using 2 syringes discard 3x’s the dead space, typically 10 ml. If the line is extremely long, or
+extremely wide, you may wish to draw a larger discard. Switch to a new syringe and draw the
+needed amount of blood. Pull back GENTLY on the syringe. Pulling hard on the syringe causes
+shear forces that can affect the TEG results. Be sure to clear the line when you are done. Using a
+safe transfer device (or a standard needle no smaller than 21 g) allow the blood collection tube to
+fill completely by vacuum. Invert 5-7x’s to mix, write the draw time on the tube, then place
+horizontally at room temperature for at least 10 minutes. /n an urgent or emergent situation
+citrated samples may be run immediately.
+
+Page 2 of 10
+POCT12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+Specimen Precautions:
+
+Use only 3.2% sodium citrate Vacutainer® tubes that have been filled completely (until
+vacuum is exhausted). All tubes must be completely filled by vacuum.
+
+A short draw is not an acceptable sample. No additives or preservatives are necessary to
+maintain the integrity of the sample.
+
+Never check for clots in a TEG tube using wooden sticks. Check for clots visually; if
+they are present, you will get an alert from the TEG 6s software.
+
+Samples must be used within 2 hours of draw.
+
+Do not collect blood samples into heparin tubes or any other tubes not specifically
+recommended.
+
+QUALITY CONTROLS:
+Internal /Electronic Quality Control
+The TEG 6s analyzer is designed with the following internal, built-in Quality Control (QC)
+features that verify that all electromechanical and pneumatic functions of the analyzer-cartridge
+combination are operating satisfactorily:
+
+Power On Self-Test (POST) is required at least monthly.
+
+When the power switch is moved to the “ON” position, the analyzer initiates the POST
+sequence. This performs QC tests on all analyzer functions prior to cartridge insertion. 4
+failure of any component will report an error on the display screen and prevent further
+operation.
+
+Pre-Test QC and In-Use QC are performed each time a test cartridge is used.
+
+Pre-Test: When a cartridge is inserted into the slot, the analyzer performs a Pre-Test QC
+to verify the bar code reader’s ability to identify the cartridge and the integrity of the
+cartridge-analyzer interface. 4 failure of any component will report an error on the
+display screen and prevent further operation.
+
+In-Use: When the user adds the sample and starts the test, the analyzer’s internal QC
+functions monitor critical operational parameters throughout the duration of the test. A¢
+every step, if any critical operational parameter is found to be out of range it will be
+reported, and the test will be invalidated.
+
+External Quality Control
+
+Cartridge Reagent QC Level 1 and Level 2 is required with each new shipment/new lot
+number of test cartridges received, and monthly to verify stability and performance of test
+cartridges.
+
+The quality control procedures are to be performed by, and rotated among, all testing
+personnel who perform patient testing.
+
+Quality Control results (internal and external), the manufacturer lot numbers, and
+expiration dates of reagents are automatically stored in the instrument database and
+transmitted to TEG Manager.
+
+Quality control results should fall within the manufacturers® QC reference ranges as listed
+in the package inserts.
+
+The TEG 6s analyzers are configured to require QC monthly. If QC is overdue the
+instrument will prevent patient testing until successful completion of QC has been
+performed.
+
+Page 3 of 10
+POCT12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+All Citrated: K, RT, FF cartridge boxes must be labeled with green sticker “This Lot
+Ready for Use” indicating QC has been performed and cartridges are acceptable prior to
+being used for patient testing.
+
+Do Not Use cartridges for patient testing if green sticker is not present on box.
+
+EXTERNAL QC PROCEDURE: (POCT12-J4-1)
+First, run Cartridge Reagent QC — Level I:
+
+Remove the Citrated: K, RT, FF Cartridge pouch from refrigerated storage.
+Prepare the Level 1 sample:
+
+1. Allow one control vial and one diluent water vial to sit for ~10 min. to equilibrate
+to room temp.
+
+2. Make sure the lyophilized material is on the bottom of the control vial. You may
+need to tap the vial a few times.
+
+3. Remove the seal and stopper of the control vial, taking care to avoid sharp metal
+edges
+
+4. Using a transfer pipette from the Cartridge Box, transfer entire contents of diluent
+water vial into the control vial. Failure to do so may result in inaccurate results.
+
+Note: Keep transfer pipette to use again when dosing the control to the cartridge.
+
+. Re-insert the stopper into the control vial.
+
+. Vigorously shake control vial for 15 sec., until fully reconstituted.
+
+. Let control stand for 5 min at room temp.
+
+. Shake the control vial vigorously again for 15 sec. and let stand 5 more minutes.
+
+. Ensure that there is no undissolved material remaining in the vial. Repeat the step
+if needed.
+
+Note: Reconstituted QC must be used within 2 hours.
+
+Login to TEG 6s:
+
+1. Enter Username — Scan Employee Name Badge (123...Lawson#)
+
+2. Enter Password — Scan Password barcode on TEG analyzer or enter password
+manually
+
+3. Touch Login
+
+Running QC:
+
+1. Touch New QC
+
+2. When LED light flashes on Cartridge Slot, insert cartridge into the slot with the
+bar code on the left side.
+
+3. Confirmation Alert Msg: Patient Cartridge QC will appear on display-
+“Attempting to run a QC test using a patient test cartridge” — Touch
+Acknowledge
+
+4. On the QC Level screen, touch L1- Normal and then touch Next.
+
+5. On the Test Information screen, scan QC Level 1 Barcode on TEG analyzer
+
+6. Using same transfer pipette from earlier, pipette the prepared QC sample into the
+cartridge sample port. Fill port up to or above the line marked on the cartridge.
+
+7. Touch Start Test
+
+NelN- NN B NV,
+
+Page 4 of 10
+POCTI12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+8.
+
+1
+1
+
+When test is complete, QC result buttons display at the bottom of the results
+screen. Do the following:
+a. Compare the results against the Reference Range Card on the analyzer
+b. If all results fall within the ranges, touch Pass. If any result falls outside
+the ranges, touch Fail.
+c. In the confirmation message, touch Acknowledge.
+When the analyzer displays the “Remove Cartridge” prompt, remove the used
+cartridge, and dispose of in biohazard waste.
+0. Touch Done to return to Home screen.
+1. QC Results are stored in TEG Manager.
+
+Next, run Cartridge Reagent QC - Level 2:
+e Remove the Citrated: K, RT, FF Cartridge pouch from refrigerated storage.
+
+e Prepare the Level 2 sample:
+
+1.
+
+Note
+
+5
+6
+T
+8
+9
+
+Note:
+
+Allow one control vial and one diluent water vial to sit for ~10 min. to equilibrate
+to room temp.
+
+Make sure the lyophilized material is on the bottom of the control vial. You may
+need to tap the vial a few times.
+
+Remove the seal and stopper of the control vial, taking care to avoid sharp metal
+edges
+
+Using a transfer pipette from the Cartridge Box, transfer entire contents of diluent
+water vial into the control vial. Failure to do so may result in inaccurate results.
+
+: Keep transfer pipette to use again when dosing the control to the cartridge.
+
+. Re-insert the stopper into the control vial.
+
+. Vigorously shake control vial for 15 sec., until fully reconstituted.
+
+Let control stand for 5 min at room temp.
+
+Shake the control vial vigorously again and let stand 5 more minutes.
+
+. Ensure that there is no undissolved material remaining in the vial. Repeat the step
+if needed.
+
+Reconstituted QC must be used within 2 hours.
+
+e Login to TEG 6s:
+
+1.
+
+Enter Username — Scan Employee Name Badge (123...Lawson#)
+
+2. Enter Password — Scan Password barcode on TEG analyzer or enter password
+manually
+3. Touch Login
+e Running QC:
+1. Touch New QC
+2. When LED light flashes on Cartridge Slot, insert cartridge into the slot with the
+
+bar code on the left side.
+
+Confirmation Alert Msg: Patient Cartridge QC will appear on display-
+“Attempting to run a QC test using a patient test cartridge” — Touch
+Acknowledge
+
+On the QC Level screen, touch L2- Abnormal and then touch Next.
+
+Page 5 of 10
+POCT12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+5. On the Test Information screen, scan QC Level 2 Barcode on TEG analyzer
+6. Using same transfer pipette from earlier, pipette the prepared QC sample into the
+cartridge sample port. Fill port up to or above the line marked on the cartridge.
+7. Touch Start Test
+8. When test is complete, QC result buttons display at the bottom of the results
+screen. Do the following:
+a. Compare the results against the Reference Range Card on the analyzer
+b. Ifall results fall within the ranges, touch Pass. If any result falls outside
+the ranges, touch Fail.
+c. In the confirmation message, touch Acknowledge.
+9. When the analyzer displays the “Remove Cartridge” prompt, remove the used
+cartridge and dispose of in an appropriate biohazard waste.
+10. Touch Done to return to Home screen.
+11. QC Results are stored in TEG Manager.
+
+Quality Control Acceptability:
+All parameters for Cartridge Reagent QC Level 1 and Level 2 must fall within their
+reported reference ranges indicated in their package inserts, indicating that QC has
+Passed.
+e [fany of the parameters fall outside their reported reference ranges,
+repeat the test with a second cartridge from the same lot/shipment.
+e Reagent performance is verified if all parameters in the repeated test
+fall within the reference ranges.
+e Results outside of the reference ranges listed in the package insert may be caused
+by improperly prepared control material or product deterioration. It
+is recommended that any failed QC control test should be repeated.
+e Repeated failures should be reported to the POCT Department in the lab and
+discontinue use of the instrument.
+e Do not report any patient results until the control parameters are within
+their reference ranges.
+
+PATIENT TEST PROCEDURE:
+
+Only trained testing personnel are authorized to perform patient testing. Verify patient identity
+by using two patient identifiers. Gloves are to be worn when performing patient testing.
+
+After patient
+
+Test Procedure:
+
+1. Remove one cartridge pouch from refrigerated storage.
+
+2. Login to TEG 6s:
+e Enter Username — Scan Employee Name Badge (123...Lawson#)
+o Enter Password — Scan Password barcode on TEG analyzer or enter password manually
+e Touch Login
+
+3. From the Home screen on the TEG analyzer, touch New Test.
+
+4. On the Select Patient screen touch the Add Patient button +
+
+Page 6 of 10
+POCTI12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+5. Scan the CSN from the patient chart labeled tube, and then touch Confirm.
+5. Touch Next.
+6. On the Confirm Patient Data screen, do one of the following:
+* Touch Confirm if the patient information is correct.
+* Touch Reject if the patient information is incorrect.
+In the confirmation message that appears, touch Yes if you wish to continue the test
+with rejected patient data, or touch No to return to the Select Patient screen.
+8. Tear open the pouch, remove the cartridge, and discard the pouch and desiccant pack
+9. Insert the cartridge into the slot, as indicated on the screen, with the barcode on the left side.
+9. After the cartridge pretest has completed, touch Next.
+10. On the Test Information screen, enter information for the test, if desired, and then touch
+Next.
+11. Using a transfer pipette, pipette blood into the cartridge sample port, filling up to or above
+the line marked on the cartridge.
+12. Touch Start Test. The TEG analyzer starts the test, and the results are displayed as they
+become available.
+13. When the analyzer displays the “Remove Cartridge” prompt, remove the used
+cartridge from the slot and dispose of in an appropriate biohazard waste.
+14. Touch Done to return to the Home screen.
+
+RESULTS:
+
+Expected values for a normal patient would be test results that fall within the Reference Range
+Tables below:
+
+CK Reference Ranges
+
+Citrated Blood Parameter
+
+CRT Reference Ranges
+
+Citrated Blood Parameter
+
+MA (mm)
+
+CFF Reference Ranges
+Citrated Blood Parameter
+
+Page 7 of 10
+
+POCT12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+RESULT INTERPRETATION:
+
+Results to be interpreted by Clinician.
+
+TEG 6s analyzer results should always be considered within the clinical context of the
+individual patient’s case. In the event of inconsistencies with the patient’s clinical status,
+samples should be repeated or supplemented with additional clinical information.
+
+The measurement interpretation guidance table below is not intended to be comprehensive
+of all variables that could influence test results, but addresses key variables based
+
+on literature review and clinical experience. As with any hemostasis test, TEG 6s test
+results should not be the sole basis for a patient diagnosis, but should be evaluated
+together with the patient’s medical history, the clinical picture and, if necessary, further
+hemostasis tests.
+
+TEG 6s Measurement Interpretation Guidance (from manufacturer package insert)
+
+Ref  |Parameter Hemostatic Interpretation of
+Range |Readout i Parameter Readout
+{RR) ivi for Consideration
+
+R(min) [46-9.1 |CK-R>RR Hypocoagulable || Coagulation
+factor activity and/or
+presence of heparin
+at sufficiently high
+
+CK-R<RR Hypercoagulable
+
+LY30 (%) CK-LY30>RR [Hypocoaguiable [Hyperfibrinolysis
+
+CRT [MA({mm) [52-70 ,F:bnnogen or
+| platelet
+contribution™
+contribution™
+G WK (15
+[CFF WA= RR_[ipecoaguiabe
+
+Note: These findings were supported by in vitro studies.
+
+* Detection thresholds were 0.1 IU/mL for unfractionated heparin and 0.3 IU/mL for low molecular weight
+heparin, respectively, in in vitro experiments. Actual threshold values in patients may differ. Heparinization can be
+exogenous or endogenous
+
+** Other factors, such as the coagulation cascade and FXIIl. may contribute to clot stiffness.
+
+REPORTING RESULTS:
+
+TEG 6s results should be reported immediately to the clinician for interpretation. TEG 6s
+analyzers connect to a data port for transmission of patient test results to a data management
+system, which is interfaced with the hospital information system. Patient test results which
+include date, time, instrument serial#, reference ranges, and name/ID of instrument operator, are
+then recorded in the patient’s electronic medical record. These results can be found under
+Laboratory Testing.
+
+Page 8 of 10
+POCTI12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+CLEANING/DISINFECTION
+Clean the analyzer
+o The surfaces of the TEG analyzer must be cleaned and disinfected weekly.
+between each individual patient, and when visibly soiled.
+e The TEG analyzer must also be cleaned and disinfected prior to return
+shipment if servicing is necessary.
+e Use hospital approved disinfection material or products containing 70-95% isopropyl
+alcohol solution to wipe the instrument.
+To clean and disinfect the surfaces of the analyzer:
+1. Turn off the analyzer and unplug it from the wall.
+2. Put on disposable gloves.
+3. Using hospital approved wipes or gauze pads soaked in isopropyl alcohol, thoroughly
+clean all external surfaces of the TEG analyzer, including the touch screen.
+Attention: Avoid getting liquid into the cartridge slot at the front of the
+analyzer or into connectors on the rear panel.
+4. Record on TEG 6s Maintenance Log (POCT12-4)
+Clean the filter
+e The TEG analyzer has a filter assembly mounted at the rear of the unit to filter
+air as it is drawn into the unit by the fan.
+o This filter should be cleaned or replaced during each scheduled preventive maintenance
+(PM) procedure.
+e [Ifatemperature error occurs before a scheduled PM, clean the filter using the
+following instructions.
+To clean the filter:
+1. Grasp the edges of the filter cover and pull to remove it.
+2. Remove the filter from the cover.
+3. Rinse the filter under warm running water until it is clean. Do not use soap or any
+cleaning solution.
+. Squeeze out any excess water, place on a clean cloth, and allow to dry completely.
+. Ensure the filter is 100% dry, and then reinsert the filter into the filter cover.
+. Press the filter cover back onto the analyzer.
+. Record on TEG 6s Maintenance Log (POCT12-4)
+
+NOo
+
+TROUBLESHOOTING:
+
+For all error messages, the analyzer emits an audible tone at the same time as
+
+the message is displayed on the touchscreen. Follow the instructions on the error message to
+prevent further errors.
+
+If any problem persists after performing the recommended correction, contact TEG System
+Technical Support 1-800-GETATEG (438-2834). Provide the Error Code# that accompanied the
+error message and description of the problem. If unable to resolve, contact POCT Department in
+the Lab 765-8811, option 9 and TriMedx for further assistance.
+
+Records of major instrument repair, part replacement, preventative maintenance or other
+manufacturer provided service are to be recorded on the TEG 6s Repair Log.
+(POCTI12-B)
+
+Page 9 of 10
+POCTI12 TEG 6s
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+CALIBRATION:
+The TEG 6s analyzer does not require routine calibration.
+
+INTERFERING SUBSTANCES:
+Hemolysis and Hemodilution above 30% will interfere with the CRT Assay.
+Hemodilution above 40% will interfere with the CFF Assay.
+
+REFERENCES:
+
+TEG 6s Hemostasis User Manual, current.
+
+TEG 6s Hemostasis System Citrated: K, RT, FF package insert, current.
+
+TEG 6s Hemostasis System Cartridge Reagent QC — Level 1 package insert, current.
+TEG 6s Hemostasis System Cartridge Reagent QC — Level 2 package insert, current.
+
+Page 10 of 10
+POCTI12 TEG 6s
+

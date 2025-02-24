@@ -1,0 +1,467 @@
+OUR LADY OF THE LAKE
+
+MED AL CENTER
+
+/
+
+R
+
+2021 Medical Equipment Management Plan
+
+ Facility Representative TRIMEDX ] _,\_m:.m»
+(Signature Approval or EOC Minutes Approval Required)
+
+APPROVAL DATE: MINHUI Gl
+
+A. PURPOSE
+
+The purpose of the Medical Equipment Management Plan (“MEMP”) is to support a safe patient care and treatment environment by managing
+risks associated with the use of medical equipment. The specific medical equipment risks of the environment are identified by conducting and
+maintaining a proactive risk assessment plan based on various risk criteria, including risks identified by the Joint Commissi on®and other
+accreditation agencies.
+
+B. SCOPE
+
+The MEMP describes the risk and routine management activities and identifies the policies and procedures implemented to mitig ate the potential
+for adverse impact on the safety and health of patients, associates, and other people, entering the organization’s facilities, and assure compliance
+with applicable standards.
+
+The program is applied to the Our Lady of the Lake Regional Medical Center, including Assumption Community Hospital, Our Lady of the Lake
+Ascension, Our Lady of the Lake Livingston, LSU Health, Our Lady of the Lake Physicians Group, and FMOL Our Lady of the Lake Children’s Hospital
+
+TMX-F-0012
+
+REV. 2 Prgecl
+
+in accordance with the TRIMEDX contract for Medical Equipment Management for the organization.
+
+C. PRINCIPLES
+
+Selection of appropriate:equipment is an essential part of providing safe, effective care and treatment,
+Orientation, education, and training of operators of medical equipment are essential parts of the program.
+
+Assessment of needs for continuing techinical support of medical equipment and design of appropriate calibration, inspection, maintenance,
+and repair services is:an essential part of assuring that medical equipment is safe and reliable.
+
+D. OBJECTIVES
+
+Use established criteria and relevant historical information to identify potential medical equipment risks. ldentified risks are mitigated
+through development of appropriate processes for equipment management to enstreé that equipment is appropriate for intended use and
+that associates members are properly trained. It also ensures:that equipment is maintained appropriately by qualified individuals.
+
+Identify and respond appropriately to equipment hazard and recali notices in a timely manner.
+
+Record, report, and analyze medical equipment problems, failures, and use errors. Implement processes designed to further reduce the
+risks associated with medical equipment throughout the facility, to improve the overall environment of care.
+
+E. PROGRAM MANAGEMENT STRUCTURE
+
+The authority over the plan and responsibility for the plan development, performance measures, appropriate regulatory compliance, and
+achievement of the goals has been delegated tothe EOC Committee in coliaboration with the Safety Officer and Clinical Engineering staff.
+The Management Plan is approved by the EOC Committee.
+
+The manager of the medical equipment management program administers the'plan through the services of the Clinical Engineering
+departmentin conjunction with the applicable clinical care areas.
+
+PR et e e 0t R Pt A8 P 1»“0 2 A 3 N A 1 158 Pt L
+
+o The Clinical Engineering associates manage the timely completion of scheduled maintenance activities required for safe, reliable
+performance of medical equipment. In-addition, technicians facilitate necessary repairs, hazard alerts/recalls, and other unscheduled
+service activities as requested.
+
+F. DEFINITIONS
+
+High-Risk Equipment (Life Suppoit & Critical Equipment) - Equipment that is critical to patient health and safety. At a minimum, such critical
+equipment includes, but is not limited to, life-support devices, key resuscitation devices, critical monitoring devices, and other devices whose
+failure may result.in serious injury to or death of patients or associates.
+
+Medical Equipment — Fixed and portable equipment used for the diagnosis, treatment, monitoring, and direct care of individuals.
+
+Temporary Equipment — Equipment brought into the facility and intended for short-term use. Typically, the length of time the equipment resides
+in the facility is not to exceed the duration of one Default PM cycle or one year. Temporary equipment can be classified as loaner, rental; trial,
+patient-owned, or physician-owned.
+
+Computerized Maintenance Management System {CMMS) - TRIMEDX proprietary system for maintaining medical equipment inventory and
+service records.
+
+EC.01.01.01 The hospital plans activities to minimize risksin the environment of care. Note 1: One or more persons can be assigned to manage risks
+associated with the management plans described in this standard. Note 2: For hospitals that use Joint Commission accreditation for deemed status purposes:
+The hospital complies with the 2012 edition of NFPA 99: Health Care Facilities Code. Chapters 7, 8, 12, and 13 of the Health Care Facilities.Code do not apply.
+Note 3: For further information on waiver and equivalency requests, see https://www.jointcommission.org/resources/patient-safety-topics/the-physical-
+environment/life-safety-code-information-and-resources/ and NFPA 99-2012: 1.4,
+
+- EC.01.01.01 EP 3 The hospital has a library of information regarding inspection, testing, and maintenance of its equipment and systems. Note: This
+library includes manuals, procedures provided by manufacturers; technical bulletins, and other information. TRIMEDX Note: Each Clinical Engineering
+manager is charged with maintaining @ local library of service manuals, pracedures, technical bulletins, and other infotmation on-site refated to the
+actual service of the device. in addition, the Clinical Engineering Team has-access to additional service manuals, procedures, technical bulletins, and
+otherinformation within the TRIMEDX CMMS, should there be any missing information on-site, TRIMEDX Policy and Procedure: Secure Documentation
+
+TMX-F-0012
+
+e e e e e e e PR APt e i i A b e W»N& 3 e A ARl e A e P
+
+REV. 2
+
+
+Technology and Contrals; TRIMEDX Database, Local Site Repository. Hospital Policy and Procedure: ECLS013, ECLS014, ECUS001, ECUS003,
+ECUS004, ECUiS005, ECUS007, ECUSG08, ECSU009. ECSU013, ECSUO16, ECSUI020, ECSU(22, ECSU023
+
+EC.01.01.01 EP 8 The hospital has a written plan for managing medical equipment. TRIMEDX Policy and Procedure: Medical Equipment Management Plan
+
+EC.02.01.01 EP 11 The hospital responds to product notices and recalls. (See also MM.05.01.17, Eps 1-4). TRIMEDX Note: Documentation of medical
+alert/recalls is managed in the TRIMEDX Computerized Maintenance Management System-and through Manage Recalls. TRIMEDX Policy and Procedure:
+Alerts and Recalls Management, CE CYBER Patch Vulnerability-Threat Management. Hospital Policy and Procedure: FMOLHS- M207 Recall Product Alert.
+
+EC:02.04.01 The hospital manages medical equipment risks.
+
+EC.02.04.01 EP 2 The hospital maintains either a written inventory of all medical equipment or a written.inventory of selected equipment categorized by physical
+risk associated with use {including all life-support equipment) and equipment incident history. The hospital evaluates.new types of equipment before initial use
+to determine whether they shouid be included in the inventory. TRIMEDX Note: Clinical Engineering establishes and maintains a current inventory of medical
+equipment. In accordance with applicable policies and pracedures, the manager of the MEMP will keep the inventory up-to-date as medical equipment is
+acquired or retired. The hospital evaluates new types of equipment before initial use to determine whether they should be included in the inventory based on
+contractual or scope of service terms. TRIMEDX Policy and Procedures: Temporary Equipment, Performance Verification, Retirement of Equipment. Hospital
+Palicy and Procedure: MIVL.O2.002 Supplier Selection Process.
+
+EC.02.04.01 EP 3 The hospital identifies high-risk medical equipment on the inventory for which there'is a risk of serious injury or death to a patient or staff
+member should the-equipmentfail. Note: High-risk equipment includes life-support equipment. TRIMEDX Note: Medical equipment listed in the invenitory
+receives a ‘Model Class’ categorizing the type of device as ‘Life Support,” ‘High-Risk,” or-‘Non-High-Risk.’ The device’s item class is determined by the Equipment
+Management (EM) Score; which considers the device’s function and consequence of failure:  TRIMEDX Policy and Procedure: Electrical Safety Testing,
+Alternative Equipment Management (AEM)-and Default Maintenance Program Review, Request for Equipment Management (EM) Score, AEM Schedule or
+Default Program Evaluation, PM Schedule Assignment (at Device Level), Request for PM Schedule Change
+
+EC.02.04.01 EP 4 The hospital identifies the activities and associated frequencies, in writing, for maintaining; inspecting, and testing all medical equipment on the
+inventory. These activities and associated frequencies are inaccordance with manufacturers’ recommendations or with strategies of an alternative equipment
+maintenance (“AEM”) program. Note 1: Thestrategies of an AEM program must not reduce the safety of equipment and must be based on accepted standards
+of practice, such as the American National Standards Institute/Association for the Advancement of Medical Instrumentation handbook ANSI/AAMI EQ56:2013,
+Recommended Practice for g Medical Equipment Management Program. Note 2: Medical equipment with activities and associated frequencies in accordance
+with manufocturers’ recommendations must have a 100% completion rate. Note 3: Scheduled maintendnce activities for high-risk medical equipment in an-AEM
+program inventory must have a 100% completion rate. Scheduled maintenance activities for non-high-risk medical equipment in-an AEM program inventoty ore
+
+TMX-F-0012
+
+e s e A LA A A A A S k8 A0St et o et e et et et ey P g PP | PP PR .Tn_.mm & e A AR A 8 e e e A A Rt A e e e e et g R 50
+
+"REV.2
+
+to-be completed at 100%. AEM frequency is determined by the-hospital’s AEM progrom. TRIMEDX Policy and Procedure: Preventative Maintenance (PM), AEM
+and Default Maintenance Program Assignmenit, PM Schedule Assigiment (at Device Level), Request for PM Schedule Change.
+
+’
+
+EC.02.04.01 EP 5 The hospital’s acti s and frequencies for inspecting, testing, and maintaining the following items must be in accordance with manufacturers
+recommendations: Equipment subject to federal or state law or Medicare Conditions of Participation. in which inspecting, testing, and maintaining be in
+accordarice with the manufacturers’ recommendations, or otherwise establishes more stringent maintenance requirements. Medical Laser Devices Imaging and
+Radiologic-equipment {whether used for diagnastic or therapeutic purposes.) New Medical equipment with insufficient maintenance history to support the use
+of alternative maintenance strategies. Note: Muaintenance history includes any of the following documented evidence: Records provided by the hospital’s
+contractors, Information made public by nationally recognized sources, Records of the hospital’s experience over time. TRIMEDX Note: If the manufacturers’
+recommendations are not available, recammendations from like-and-kind equipiment are utilized or genetit procedures are created hy qualified personnel.
+TRIMEDX Policy and Procedure: Preventative Maintenance (PM), AEM and Defauit Mainteénance Program Assignment; PM Schedule Assignment (at Device
+Level), Request for PM Schedule Change.
+
+EC.02.04.01 EP 6 A gualified individual(s) uses written criteria to support the determination whether it is safe to permit medical equipment to -be maintained in
+an.aiternate manner that includes the following: How equipment is-used, including the seriousness and prevalence of harm during normal use, Likely
+conseguences of equipment failure or malfunction, including sericusness-of and prevalence of harm, Availability of alternative or back-up-equipment in the
+eventthe equipment fails. or malfunctions, Incident history of identical or sitnilar equipment, Maintenance requirements of the equipment. (For more
+information on defining staff qualifications; refer to Standard HR.01.02:01} TRIMEDX Note: TRIMEDX utilizes a reliability centered maintenance program
+whereby qualified personne! are involved at both the corporate and local level in reviewing AEM eligible equipment. Local field experience is used to determine
+maintenance strategies while considering safety, equipment availability, and service life. The strategies rely on the involvement of the equipment users and any
+reported patient safety issues pertaining to medical equipment. TRIMEDX Policy and Procedure: Preventative Maintenance (PM), AEM and Defauit
+Maintenance Program Assignment, PM Schedule Assignment (at Device Level), Reguest far PM Schedule Change.
+
+EC.02.04.01 EP 7 The hospital identifies medical equipment on its inventory that is included in an alternative equipment maintenance program. TRIMEDX Policy
+and Procedure: Preventative Maintenance (PM), AEM and Default.Maintenance Program Assignment, PM Schedule Assignment {at Device Level), Reguest for
+PM Schedule Change.
+
+£C.02.04.01.EP 9 The hospital has written procedures to follow when medical equipment faits; including using emergency clinical interventions and backup
+equipment. TRIMEDX Note: Clinical staff develop processes to manage the response te medical equipment failure or disruption. The processes include actions
+to take in the event of equipment disruption or failure, availability of alternate equipment, and emergency clinical procedures and conditions for when they are
+implemented. Clinical engineering may provide technical documentation as needed. Hospital Policy and Procedure: OrgOps/GNO19 Safety Event {Incident or
+Variance Reporting).
+
+e it er st 1 o A 8 B e o e b e o S .—wNNw 5 e e e e ettt 1 ettt
+
+EC.02.04.01 EP 10 The hospital identifies quality control and maintenance activities to maintain the quality of the diagnostic computed tomography (CT),
+positron emission tomography (PET), magnetic resonance imaging {MRI), and nuclear medicine {(NM) images produced. The hospital identifies how often these
+activities should be conducted. Hospital Policy and Procedure: RS 014 Radiation Safety ALARA.
+
+EC.02.04.03 The hospital inspects, tests, and maintains medical equipment.
+
+EC.02.04.03 EP 1 Before initial use and after repairs or upgrades of medical equipment on the medical equipment inventory, the hospital performs safety,
+operational, and functional checks; TRIMEDX Note: The hospital works collaboratively with the CE manager to ensure Clinical engineering is notified when new
+equipment enters the site. Upon receiving that information, CE will add the device to the CMMS database and verify the device is ready for patient use.
+TRIMEDX Policies and Procedure: Electrical Safety Testing, Performance Verification regardless of ownership {(hospital, foaner, rental, and patient owned)
+
+EC.02.04.03.EP 2 The hospital inspects, tests, and maintains all high-risk equipment, These activities are' documented. (See also PC.02.01:11, EP 2). Note 1: High-
+Risk equipment includes medical equipment for which there is a risk of serious injury or even death to o patient or staff member shouid it fail, which includes life-
+support equipment. Note 2: Required activities and associated frequencies for maintaining, inspecting, and testing of medical equipment completed in
+accordance with manufacturers” recommendations must have a 100% completion rate. Note 3+ Scheduled maintenance activities for high-risk medical equipment
+in.an AEM program inventory must have a 100% completion rate. AEM frequency is determined by the hospital’s AEM program. TRIMEDX Note: The manager of
+the MEMP assures scheduled maintenance.of high-risk equipment is performed. Reports of managed rate of schedule inspections and maintenance are
+regularly presented to the EC/Safety Commiittee for review.
+
+If the rate of Managed (Managed = Timely PM + Could Not Locate (CNL) + In Patient Use + Out to Vendor) PM completion falls below 100%, the CE manager will
+demonstrate through documentation that the equipment is being actively managed and will make recommendations for addressing the situation to the EC
+Committee as determined by policy and procedure.
+
+TRIMEDX Policies-and Procedure: Medical Equipment Management Plan, AEM-and Default Maintenance Program Assignment, PM Schedule Assignment (at
+Device Level), Request for PM Schedule Change, Equipment Could Not Locate (CNL) and Equipment “In Use on Patient”, TRIMEDX CMMS Database (RSQ}
+
+EC.02.04.03 EP-3 The hospital inspects, tests; and maintains non-high-risk equipment on the medical equipment inventory. These activities are documented.
+Note: Scheduled maintenance activities for non-high-risk medical equipment in-an AEM program inventory are to be completed at 100%. AEM fréquency is
+determined by the hospital’s AEM program. TRIMEDX Note: The manager of the MEMP assures that scheduled maintenance of non-high-risk-equipment is
+performed. Reports of managed rate of schedule inspections and maintenance are regularly presented to the EC/Safety Committee for review.
+
+TMX-F-0012
+
+REV. 2
+
+R m«Nmn 6 T T T T T
+
+if the rate of Managed (Managed = Timely PM + Could Not Locate (CNL} + {n Patient Use + OQut to Vendor) PM completion falls below 100%, the CE manager will
+document that the-equipment is-being actively managed and will make recommendations for addressing the situation to the EC Committee as determined by
+policy and procedure:
+
+TRIMEDX Policy and Procedure: Medical Equipment Management Plan, AEM and Default Maintenance Program Assignment, PM Schedule Assignment (at
+Device Level), Request for PM Schedule Change, Equipment Could Not Locate (CNL) and Equipment “In Use on Patient”, TRIMEDX CMMS Database (RSQ)
+
+£C.02.04.03 EP 4 The hospital conducts performance testing of and maintains all sterifizers. These activities-are documented. (See also1€.0202.01, EP 2).
+TRIMEDX Note: The SPD.staff are responsible for biological culture testing and performance verification of sterilizers. Records of load testing are retained and
+any improper results-are documented and reported to the Infection Control Department for evaluation and action. TRIMEDX and Steris Corp is/are responsible
+for preventative maintenance of all sterilizers. Hospita! Policy and Procedure: SPS041 Steam Biological Challenge test.
+
+EP.02.04.03 EP 5 The hospital performs equipment maintenance and chemical and biological testing of water used in hemodialysis. These activities are
+documented. Hospital Policy and Procedure: ECME013 Management of Hemodialysis System.
+
+E£P.02.04.03 EP 8 Equipment listed for use in oxygen-enriched atmiospheres are clearly and permanently {abeled (withstands cleaning/disinfecting) as follaws:
+Oxygen-metering equipment, pressure-reducing regulators, humidifiers, and nebulizers are labeled with the name of manufacturer or supplier. .Oxygen-
+metering equipment and pressure reducing regulators are labeled “OXYGEN-USE NO OiL.” Labels on flowmeters, pressure-reducing regulators, and oxygen-
+dispensing apparatuses designate the gases for which they are intended. Cylinders-and containers are labeled in accordance with Compressed Gas Association
+{CGA} C-7.
+
+Note: Color coding is not utilized.as the primary method of determining cylinder or container contents. TRIMEDX Policy and Procedure: Performance
+Verification, Preventative Mainténance (PM). Hospital Policy and Procedure: N/A.
+
+EC.02.04.03 EP 10 All occupancies containing hyperbaric facilities comply with construction, equipment, administration, -and maintenance requirements of NFPA
+99-2012: Chapter 14, TRIMEDX Policy-and Procedures: Preventative-Maintenance (PM), PM Schedule Assignment (at Device Level), AEM and Default
+Maintenance Program Review.. Hospital Policy and.Procedure: N/A.
+
+£C.02.04.03 EP 16 Qualified hospital staff inspect, test, and calibrate nuclear medicine equipment annually. The results-and completion dates are documented.
+TRIMEDX Note: The hospital’s Radiation Safety Officer oversees the process to ensure that inspections; testing and calibration comply with applicable rules for
+the nuclear medicine equipment. The manager of the MEMP assures that scheduled and preventative mainténance inspections are performed. The Nuclear
+Medicine department staff perform daily quality assurance. Hospital Policy and Procedure: (RS 014 Radiation Safety.
+
+£C.02.04.03 EP 18 The hospital maintains the quality of the diagnostic cormputed tomography (CT), positron emissiontomography (PET), magnetic resonance
+imaging {MRI),:and nuclear medicine (NM) images produced. Hospital Policy and Procedure: IRS 014 Radiation Safety.
+
+TMX-F-0012
+
+ettt e e e e A 1 A P ﬁumo 7
+
+REV. 2
+
+
+E£C.02.04.03 EP 20 For diagnostic computed tomography (CT) sérvices: At least annually, a diagnostic medical physicist does the following: Measures the
+radiation dose (in the form of volume computed torography: dose index [CTDIvol]) produced by each diagnostic CT imaging system for the following four CT
+protocols: adult brain, adult abdomen, pediatric brain, and pediatric abdomen. If one of these protocols.is not used by the hospital other commonly used CT
+protocols may be substituted.
+
+Verifies that the radiation dose {in the form of CTDIvol} produced-and measured for each protocol tested is within 20 percentof the CTDIvol displayed on the CT
+console. The dates; results, and verification of these measurements are docufmented. Note 1: This element of performance is only applicable for systems
+capable of calculating and displaying radiation.doses. Note 2: This efement of performance does not apply to dental.cone bedm CT radiographic imaging studies
+performed for diagnosis of conditions affecting the maxillofacial region or to obtain guidance for the treatment of such conditions.
+
+Note 3: Medical physicists are accountable for these activities. They may be assisted with the testing and evaluation of equipment performance by individuals
+who have the required training and skills, as determined by the physicist. (See HR:01.02.01 EP1; HR.01.02.05, EP20; HR.01.02.07 £Ps 1 and 2; HR.01.06.01 EP1;
+and LD.03,06.01 EP4). Hospital Policy-and Procedure: 1RS-014 Radiation Safety ALARA.
+
+£C.02.04.03 EP 21 For diagnostic computed tomography (CT) services: At least annually, a diagriostic medical physicist conducts a performance evaluation of all
+CT imaging equipment. The evaluation results; along with recommendations for correcting any problems identified, are documented. The evaluation includes
+the use of phantoms to assess the following imaging metrics: Image uniformity, Scout prescription accuracy, Aligniient light accuracy, Table travel accuracy,
+Radiation beam width, High-contrast resolution, Low-contrast detectability, Geometric or distance accuracy, CT number accuracy and uniformity
+
+Artifact evaluation, Note 1: This element of performance does not apply to dentaf cone beam CT radiographic imaging studies performed for diagnosis of
+conditions affecting the maxillofacial region or to obtain guidance for the treatment of such conditions.
+
+Note 2: Medical physicists are accountable for these activities. They may be assisted with the.testing and evaluation of equipment performance by individuals
+who have the required training and skills, as deterrnined by the physicist. (See HR.01.02.01 EP1; HR.01.02.05, EP20; HR.01.02.07 EPs 1 and 2; HR.01.06.01 EP1;
+and LD.03.06.01 EP4). ‘Hospital Policy and Procedure: IRS 014 Radiation Safety ALARA.
+
+EC.02.94.03 EP 22 At least annual, a diagnostic medical physicist or magnetic resonance imaging (MRI) scientist conducts a performance evaluation of alf MRI
+imaging equipment. The evaluation results, along with recommendations for correcting any problems identified, are documented. The evaluation includes the
+use-of phantoms to assess the following imaging metrics; Image uniformity for all radiofrequency (RF) coils-used clinically, Signai-to-noise ratio {SNIR) forall coils
+used clinically, Slice thickness-accuracy, Slice position accuracy, Alignment light accuracy, High-contrast resolution, Low-contrast resolution (of contrast-to-noise
+ratio}, Geometric or distance accuracy, Magnetic field homogeneity, Artifact evaluation. Note: Medical physicists.or MRI scientists are accountable for these
+activities. They may be ossisted with the testing and evaluation of equipment performance by individuals who have the required training and skills, os
+determined by the medical physicist or MRI scientist. (See HR.01.02.01, EP1; HR.01.02.05, £P20;-HR.01.02.07, EPs 1 and 2; HR.01.06.01, EP1; and LD.03.06.01,
+£P4).
+
+Hospital Policy and Procedure: IRS 014 Radiation Safety,
+
+TMX-F-0012 - S e Pues
+REV. 2 age
+
+
+EC.02.04.03 EP 23 At ieast annually, a diagnostic medical physicist or nuclear medicine physicist conducts a performance evaluation of all nuclear medicine
+imaging equipment. The evaluation results, along with recommendations for correcting any problems identified, are documented. The evaluations are
+conducted for all of the image types produced clinically by each NM scanner (for example, .planar and/or tomographic) and include the use of phantoms to
+assess the following imaging metrics: Image uniformity/system-uniformity; High-contrast resolution/system spatial resclutions; Sensitivity, Energy resolution,
+Count-rate performance, Artifact evaluation. Note 1: The folfowing test.is recommended; but not required: Low-contrast resoiution or detectability for non-
+planar acquisitions. Note 2: The medical physicist or nuclear medicine physicist is accountable for these activities. He or she may be assisted with the testing and
+evaluation of equipment performance by individuals who have the required training and skills, as determined by the medical physicist or nuclear medicine
+physicist. {See HR.01.02.01 EP1; HR.01.02.05, EP20; HR.01.02,07 EPs 1-and 2; HR.01.06,01 EP1, and LD.03.06.01 £P4). Hospital Policy and Procedure: IRS 014
+Radiation Safety.
+
+EC.02.04.03 EP 24 At least annually, a diagnostic medical physicist conducts a performance evaluation of all positron emission tomography {PET) imaging
+equipment. The evaluation resuits, along with recommendations for correcting any problems identified, are documented. The evaluations are conducted for all
+of the image types produced clinically by each PET scanner (for example, planar and/or tomographic} and include the use of phantoms to assess the following
+imaging metrics: Image uniformity/system uniformity, High-contrast resolution/system spatial resolutions, Low-contrast resolution or detectability {rot
+applicable for planar acquisitions}, Aitifact evaluation. Note 1: The following test is recommended, but not required, for PET scanner testing: sensitivity, energy
+resolution, and count-rate performance. Note 2: Medical physicists are accountable for these activities. They may be assisted with the testing and evaluation of
+equipment perforimance by individuals who have the required training and skills, as determined by the physicist. (See HR.01.02.01 EP1; HR.01.02.05, EP20;
+HR.01.02.07 EPs 1 and 2; HR.01.06.01 EP1; and LD.03,06.01 EP4). Hospital Policy and Procedure: IRS 014 Radiation Safety ALARA.
+
+EC.02.04.03 EP 25 For computed tomography {CT), positren.emission tomography (PET), nuclear medicine (NM) or magnetic resonance imaging (MRI) services:
+The annual performance evaluation conducted by the diaghostic medical physicist er MRI scientist (for MRI only) includes testing of image acquisition display
+monitors formaximum: and minimum luminance, luminance uniformity, resolution, and spatial accuracy.. Note.1: This element of performance does not apply
+to dental cone-beam CT radiographic imaging studies performed for didgnosis of conditions dffecting the maxiliofacial region or to obtain guidance for the
+treatment of such conditions. Note 2: Medical physicists or MRI scientists are gccountable for these activities. They may be assisted with the testing and
+evaluation of equipment performance by individuals who have the required training and skills, as determined by the physicist or MR scientist. {See HR.01.02,01
+EP1; HR.01.02.05, EP20; HR.01.02.07 EPs 1 and 2; HR.01.06.01 EP1; and.LD.03.06.01 EP4).
+
+Hospital Policy and Procedure: 'IRS 014 Radiation Safety.
+
+- EC.02.04.03 EP 26 The hospital performs equipment mainfenance on anesthesia apparatus. The apparatus are tested at the final path to
+patient after any adjustment, modification, or repair. Before the apparatus is returned to service, each connection is checked to verify proper
+gas flow.and an oxygen analyzer is used to verify oxygen concentration, Areas designated for servicing of oxygen equipment are clean and free
+of oil, grease, or other flammables. {For full text refer to NFPA 99-2012: 11.4.1.3; 11.5.1.3; 11.6.2.5; and 11.6.2.6). TRIMEDX Policy and
+Procedures:; Preventative Maintenance {PM), PM Schedule Assignment (at Device Level), AEM and Default Maintenance Program Review.
+Hospital Policy and Procedure: ECHMO007, SAA007, SAA0L6
+
+TMX-F-0012
+
+REV.2
+
+e ‘m.\ﬂﬂﬁ G U ——
+
+EC.02:04.03 EP 27 The hospital meets all other HealthCare Facilities Code Requirements; facilities code for eléctrical equipment in the patient care vicinity as
+related to NFPA 99-2012: Chapter 10. Note: For hospitals that use Jeint Commission accreditation for deemed status purposes: the hospital meets the applicable
+provisions of the HealthCare Facilities Code Tentative:interim Amendment (TIA) 12-5. TRIMEDX Policy and Procedures: Electrical Safety Testing.
+
+Hospital Policy and Procedure: ECSFQ13.
+
+EC.02.04.03 EP- 34 For hospitals that provide fluoroscopic services: at least annually, a diagnostic medical physicist conducts a performance evaluation of
+fluoroscopic imaging equipment. The evaluation results, along with recommendations for correcting any problems identified, are documented. The evaluation
+includes and assessment of the following:  Beam alignment and collimation, Tube potential/kilovolt peak (kV/kVp) accuracy, Beam fiftration (haif-value layer),
+High-contrast resoution, Low-contrast detectability, Maximum exposure rate in fluoroscopic mode, Displayed air-kefrma rate and. cumuiative-air kerma accuracy
+(when applicable). Note 1: Medical physicists conducting performance evaluations may be assisted with the testing and evaluation of equipment performance
+by individuals whao have the required training and skills, as determined by the physicist. Note 2: This element of performance does not-apply to fluoroscopy
+equipment used for therapeutic radiation treatment planning or delivery. Hospital Policy and Procedure: IRS-014 Radiation Safety ALARA.
+
+EC.02.06.01 The hospital establishes and maintains a safe, functional environment. Note: The environment is constructed, arranged, and mointained to foster
+patient-safety, provide facilities for diagnosis and treatment; and provide for special services appropriate to the fhieeds of the commuinity.
+
+EC.02.06.01 EP 26 The hospital keeps furnishings and equipment safe and in good repair. TRIMEDX Policy'and Procédures: Preventative Maintenance (PM)
+EC.03.01.01 Staff-and licensed independent practitioners are familiar with their roles and responsibilities relative to the environment of care.
+
+EC.03.01.01 EP1 Staff responsible for the maintenance, inspection, testing, and use of medical équipment, utility systems and equipment, fire systems and
+equipment, and safe handling of hazardous materials are competent and receive continuing education and training. TRIMEDX Note: TRIMEDX will provide
+
+continuing education and training for TRIMEDX associates responsible for the maintenance, inspections; and testing of medical equipment. TRIMEDX Policy and
+Procedures: Safe Use of Equipment, Safety Guidelines, Preventative Maintenance (PM). Hospital Policy-and Procedure: ECUS021.
+
+EC.04.01.01 The hospital collects information to monitor conditions in the environment.
+
+EC.04.01.01 EP 1 The hospital establishes a process for continually monitoring; internally reparting, and investigating: Medical or laboratory equipment
+management problems, failures, and use errors. Note 1: Al the incidents and issues listed above may be reported to staffin quality assessment, improvement, or
+other functions. A summary of such incidents may aiso be shared with the person designated to coordingte safety management activities:
+
+Note 2: Review of incident reports often require that legel processes be followed to preserve confidentiality. Opportunities to improve care, treatment, or
+services, or to prevent similar incidents, are not lost as a result of following the legal process. TRIMEDX Note: TRIMEDX staff will work with the hospital staff to
+investigate medical/laboratory equipment management problems, failures, and use errars. The TRIMEDX manager will work with the-Quality and
+
+TMX-F-0012
+
+REV.2
+
+_.uu.wm 10 e APt e P R 5 A e
+
+Regulatory Compliance Department at TRIMEDX when responding to a medical/laboratory equipment management problem, failure, and use efror. TRIMEDX
+Policies and -Procedures: Equipment Repairs, AEM and Default Maintenance Program Assignmerit, PM Schedule Assignment (at Device Level), Request for PM
+Schedule Change.. Hospital Policy and Procedure: LBA 200 General Laboratory.
+
+EC.04.01.01 EP 10 Based on its process{es), the hospital reports and investigates the following: Medical/laboratory equipment management prablems, failures,
+and use errors. TRIMEDX Note: TRIMEDX staff will work with the hospitat staff to investigate medical/laboratory equipment management problems, failures,
+and use errors. The TRIMEDX manager will work with the Quality and Regulatory Department at TRIMEDX when responding to a medical/laboratory equipment
+managemerit problem, failure, and use error. TRIMEDX Policies and Procedures: Equipment Repairs, AEM and Default Maintenance Pragram Assignment, PM
+Schedule Assignment {at Device Level), Request for PM Schedule Change. Hospital Policy and Praocedure: LBA200 General taboratory.
+
+EC.04.01.01 EP 15 Every 12 months, the hospital evaluates each environment of care management plan, including a review of the plan’s objectives, scope,
+performances, and-effectiveness. TRIMEDX Note: The manager of the MEMP is responsible for evaluating the-equipment management plan effectiveness and
+providing an annual program summary tothe EC/Safety Committee. TRIMEDX Policy and Procedures: Medical Equipment Management Plan
+
+EC.04.01.03 The hospital analyzes identified environment of care issues.
+
+EC.04.01.03 EP 2 The hospital uses the results of data analysis-to identify opportunities to.resolve environmental safety issues. TRIMEDX Note: The manager of
+the MEMP will perform an annual assessmerit of the TRIMEDX program and a trending analysis of ali equipment. Any issues or areas of imprévement will be
+identified and shared with the hospital staff. TRIMEDX Policy and Procedures: Request for PM Schedule Change, Medical Equipment management Plan.
+Hospital Policy and Procedure: ECSF003, ECSF004.
+
+EC.02.01.05 The hospital improves its environment of care.
+
+EC.04.01.05 EP 1 The hospital takes action on the identified opportunities to resolve environmental safety issues. TRIMEDX Note: TRIMEDX staff will work with
+the hospital staff to investigate medical/laboratory equipment management prablems, failures, and use errors. The TRIMEDX manager will work with the Quality
+and Regutatory Compliance Department at TRIMEDX when responding to a medical/laboratory equipment management problem, failure, and use
+
+error, TRIMEDX Policy and Procedures: Request for PM Schedule Change, Medical Equipmient management Plan.
+
+Hospital Policy and Procedure: ECSF(04, ECSF008.
+
+1C.02.02.01 The hospital reduces the risk of infections associated with medical equipment, devices, and supplies:
+IC.02.02.01 EP 1, EP 2, EP 3, EP 4 The hospital implements infection prevention and control activities when doing the following: Cleaning and performing low-
+
+level disinfection of medical equipment, devices, and supplies, Performing intermediate and high-level disinfection ard sterilization of medical equipment,
+devices and supplies, Disposing of medical equipmient, devices, and supplies, Storing-medical equipment, devices, and supplies. Note: Sterilization is used for
+
+TMX-F-0012
+
+om—— 1&“» 11 s
+
+
+items such as implants and surgical instruments. High-level disinfection may also be used if sterilization is not possible, as is the case with flexible endoscopes.
+TRIMEDX Note: Scope Maintenance Equipment users are responsible for storage, high-level disinfection and reprocessing of flexible and rigid endoscopes.
+TRIMEDX is responsible for the maintenance and documentation of endoscopes. Sterilization and reprocessing are reviewed and maintained by the Surgical
+Services department. Out of range results are documented and reported to the Infection Control for evaluation and action. A copy of the inventory is
+maintained by Clinical Engineering. Hospital Policy and Procedure: SYE001 Disinfection, High Level.
+
+NPSG.06.01.01 Goal 6: Reduce the harm associated with clinical alarm systems. Improve the safety of clinical alarms.
+
+NPSG.06.01.01 EP 2 Identify the most important alarm signals to manage based on the following: Input from the medical staff and clinical departments, Risk to
+patients if the alarm signal is not attended to or if it malfunctions, Whether specific alarm signals are needed or unnecessarily contribute to alarm noise and
+alarm fatigue, Potential for patient harm based on internal incident history, Published best practices and guidelines. TRIMEDX Policy and Procedures: TRIMEDX
+CMMS Database (RSQ). Hospital Policy and Procedure: NPC150 Cli ical Alarm Management.
+
+H. EVALUATION OF PLAN (EC.04.01.03, EP 2)
+
+On an annual basis, the Clinical Engineering Manager evaluates the objectives, scope, effectiveness, and performance of the Medical Equipment
+Management Plan. Any changes in objectives will be addressed in the Annual Assessment and incorporated into the updated MEMP plan.
+
+The EC Committee receives regular reports of the program activities on a quarterly basis. The program manager collaborates with the EC
+Committee and other appropriate associates to convey and address medical equipment issues and concerns. [ r
+
+is Tuire
+
+The Annual Assessment objectives are developed through interactions with the EC Committee and hospital administration. These objectives will
+address the primary operational initiatives for mi ing the risk associated with the use of medical equipment.
+
+The Annual Assessment is a 12 Month summary compiled by the Clinical Engineering Manager and presented to the EC Committee and Safety
+Officer annually for approval.
+
+I. PERFORMANCE INDICATORS (EC.04.01.05, EP 1)
+(Hospital EC Committee reports
+
+ires measure of
+
+\\\\\\\ —— wNNm 12 & = . ——
+
+T —.VN“@ Hw U ES—— R VS PR e
+

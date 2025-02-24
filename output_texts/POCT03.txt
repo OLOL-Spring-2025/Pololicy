@@ -1,0 +1,567 @@
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+POINT OF CARE TESTING PROCEDURE MANUAL
+
+POCTO03
+
+I LOW RANGE ACTIVATED CLOTTING TIME (ACT-LR)
+
+Prepared/Revised By K. Vetter
+
+Reviewed By
+
+Medical Director Review
+Aok Medioal Directar Reviges
+oLoL Asceusiowm
+
+PRINCIPLE: AL
+
+The Low Range Activated Clotting Time (ACT-LR) measures time taken for the formation of a
+fibrin clot. Fresh whole blood is added to an activator (the ACT-LR test uses a mixture of Celite,
+potato dextrin, stabilizers and buffers), which is contained in a disposable single-use cuvette.
+
+The type of activator used will affect the degree of prolongation of the ACT to a given heparin
+dose.
+
+The Hemochron Signature Elite is a battery-operated hand-held instrument that performs
+individual point of care coagulation test on fresh or citrated whole blood. Once sample is added
+and test has started, the instrument measures the required volume of blood and automatically
+moves it into the cuvette test channel, where it is mixed with reagents. The remainder of the
+blood sample, not needed for testing, is automatically drawn out of the sample well and into the
+enclosed waste channel of the cuvette. After mixing with the reagent, the sample is moved back
+and forth within the test channel and monitored for clot formation. The test channel is maintained
+at 37°C £ 1.0°C during the test. When the blood clots, the flow of the blood sample within the
+test channel is impeded, reducing its rate of flow between the LED optical detectors. The
+instrument recognizes that the clot endpoint has been achieved when the movement decreases
+below a predetermined rate. ~ An internal timer measures the elapsed time between the start of
+
+the test and the clot formation. The Celite equivalent ACT value in seconds, is reported as the
+Activated Clotting Time.
+
+This test demonstrates linear correlation to the anticoagulation effects of heparin concentrations
+up to 2.5 units/ml of blood. The ACT-LR test cartridge should not be used for patient testing
+during procedures requiring heparinization at levels greater than 2.5 units/ml.
+
+Page 1 of 8
+POCTO03 ACT-LR
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+PURPOSE:
+
+The ACT-LR is used to monitor the clinical effect of low — moderate heparin doses frequently
+associated with patients undergoing cardiac catheterization, hemodialysis, extracorporeal
+membrane oxygenation, and other special procedures. It is also used by the lab, to monitor
+patients who are no longer receiving heparin and have completed mentioned procedures. Close
+monitoring and control of anticoagulation is desirable to ensure clot free blood flow while
+minimizing bleeding complications following the procedure. Activated Clotting Time testing at
+the point of care site is intended to provide rapid assessment of the magnitude of the
+anticoagulant effect of heparin.
+
+Refer to Job Aide (POCT03-J4-1) for quick reference of policy and procedure.
+
+SPECIMEN COLLECTION, HANDLING AND REJECTION CRITERIA:
+SPECIMEN COLLECTION:
+
+Before collecting specimen, verify patient identity by using two patient identifiers.
+Approximately 0.2 ml of fresh whole blood is necessary for a single ACT test. Testing should
+proceed immediately following sample collection. Improperly handled samples can yield
+erroneous test results.
+L. Extracorporeal circulation (patients on pump): Using manifold, withdraw patient
+blood into the syringe and flush several times then draw the sample. Proceed with
+testing.
+
+2. Anti-coagulated lines: Flush the line thoroughly. Clear the lines of heparin by
+withdrawing 10-15cc of blood from the line being used to obtain the sample. This
+sample contains residual heparin and is to be discarded. Collect the patient test
+sample with a second syringe. Proceed with testing.
+
+3. Indwelling catheters: Using sheath, aspirate 10-15ccs of blood into the syringe and
+discard, then draw sample from the sampling port into a second syringe. Proceed
+with testing.
+
+SPECIMEN REJECTION:
+
+1. Samples drawn from an indwelling line contaminated with line fluids due to inadequate
+flushing before sampling.
+
+Samples drawn in a syringe containing heparin
+
+Samples drawn from heparin line
+
+Samples drawn in a glass syringe
+
+. Samples drawn but not tested immediately
+
+v
+
+MATERIALS/EQUIPMENT:
+1
+
+Hemochron Signature Elite Coagulation Instrument - containing a single test chamber which
+warms a test cuvette to the required temperature, prior to the addition of sample. The
+instrument is portable and can be operated from an AC power source.
+
+Hemochron Jr. Low-Range Activated Clotting Time Cuvettes (ACT-LR). Stored
+refrigerated 2-8°C. Use before expiration date listed on the cuvette box. Do not freeze.
+Test cuvettes must be at room temperature before being used in patient testing. Cuvettes are
+stable for 12 weeks at Room Temperature. Must be re-dated with new expiration.
+
+Direct Check ACT-LR Normal (Level 1) Control. Stored refrigerated 2-8°C, vials are stable
+until expiration date on outer box. Allow controls to come to room temperature before
+
+Page 2 of 8
+POCT03 ACT-LR
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+testing. Reconstituted vials should be used immediately. Controls are stable for 4 weeks at
+room temperature (15-30 °C). Must be re-dated with new expiration date.
+
+4. Direct Check ACT-LR Abnormal (Level 2) Control. Stored refrigerated 2-8 °C, vials are
+stable until expiration date listed on the reagent box. Allow controls to come to room
+temperature before testing. Reconstituted vials should be used immediately. Controls are
+stable for 4 weeks at room temperature (15-30 °C). Must be re-dated with new expiration
+date.
+
+5. Plastic syringe with needle.
+
+QUALITY CONTROLS:
+
+SELF-CHECK:
+The Hemochron Elite instrument performs a “self-check” every time it is activated, and a
+test is performed. When a test is initiated by inserting a cuvette, system checks are
+automatically performed and include:
+
+a. Verification of adequate battery power to complete a full test.
+
+b. Verification of the test type on the screen display to ensure that the LEDs used for
+identifying the test are functioning properly.
+
+¢. Verification that the cuvette temperature is warmed to 37°C £ 1.0°C. If this
+temperature is not achieved or is exceeded, an appropriate error message will be
+displayed, and testing is prohibited. Contact POCT Department for assistance.
+
+d. Verification that the sample is present and is of sufficient quantity to run test. If
+not, the test is terminated, and an error message displayed.
+
+e. Verification that the internal timers function correctly for each test. If the system
+timer and assay timer disagree, a real-time clock error message is displayed and
+the test result is not reported.
+
+Verification of Instrument T emperature:
+Instrument temperature is automatically checked whenever EQC is carried out. The
+Instrument temperature check verifies that a temperature of 37°C =+ 1.0°C is maintained
+during testing.
+
+Quality Control Performance:
+1. The quality control procedures are to be performed by, and rotated among, all testing
+personnel who perform patient testing.
+2. Quality Control procedures monitor instrument function, test cuvette condition, as well as
+operator technique.
+3. Based upon the IQCP performed for ACT-LR, manufacturer’s package insert was found
+acceptable to follow for QC performance.
+¢ Daily QC of the instrument: Electronic Quality Control provides a two-level check of the
+instrument and is required once every 8 hours of instrument operation.
+* QC of Hemochron Test Cuvettes: Each lot of cuvettes should be validated for
+performance at two levels of Liquid Quality Control (Level 1 and Level 2)
+e When a new shipment is received.
+®  Once per 30 days, thereafter.
+4. Quality Control results (electronic and liquid), the manufacturer lot numbers, and
+expiration dates of reagents are automatically stored in the instrument database and
+transmitted to a data management system.
+
+Page 3 of 8
+POCT03 ACT-LR
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+5. Quality control testing should be within acceptable QC ranges established by the
+institution, before the instrument is used in patient testing. The instrument utilizes QC
+Lockout feature to prohibit patient testing, should EQC or LQC fail multiple times.
+
+6. All ACT-LR cuvette boxes must be labeled with green sticker “This Lot Ready for Use”
+indicating QC has been performed and cuvettes are acceptable for patient testing.
+
+7. Do Not Use cuvettes for patient testing if green sticker is not present on box.
+
+QUALITY CONTROL PROCEDURES:
+ELECTRONIC QUALITY CONTROLS (EQC)
+Hemochron Signature Elite Automatic Internal EQC
+
+L Press and hold the START button to turn the instrument ON. The instrument has
+been programmed to run two levels of EQC every 8 hours, and if it’s due, will
+automatically begin running the EQC when instrument is turned on.
+
+2 If EQC doesn’t automatically start, then Display the QC Status Menu by pressing
+QC key. This will show you the remaining time (hours: minutes) before EQCis
+due. If you choose to run EQC at that time, press 1. The test chamber warms to
+desired temperature and the EQC test begins. It takes ~5 minutes EQC to
+
+complete.
+
+3 When the test is completed, the results are displayed on the screen and recorded in
+the QC database.
+
+4. If EQC is unacceptable, the instrument will prohibit further testing. EQC must be
+repeated for acceptable results,
+
+8. If EQC is acceptable, patient testing may proceed.
+
+Note: If the operator aborts the EQC test, EQC will automatically be required the
+next time the instrument is in operation.
+
+Note: In an emergency, EQC can be aborted twice. The meter will then be locked out,
+the POCT coordinator must unlock the meter, and EQC must pass, before any testing can
+be performed.
+
+LIQUID QUALITY CONTROLS (LQC)
+Direct Check ACT-LR Normal and Abnormal Reagents
+Gloves are to be worn when performing LQC.
+s Remove the required number of Direct Check ACT-LR Normal (Level 1) and
+Abnormal (Level 2) dropper vials from refrigeration and allow them to come to
+room temperature (may require up to 60 minutes).
+
+2; Visually inspect the vials to ensure that the glass ampule is intact.
+
+3. Insert the cuvette (room temperature) into the cuvette test slot on the side of
+instrument. During pre-warm stage, observe display for fault/warning messages.
+
+4. Select or scan cuvette lot number
+
+S Manually enter or scan your Operator ID.
+
+6. Press QC key. Select QC Normal (Level 1) or QC Abnormal (Level 2), for
+whichever level you are running.
+T Select QC lot number for corresponding QC vial
+**#%*Note: LQC results will be stored in the patient database if QC Normal or QC
+Abnormal is not selected for the test, *#**
+
+Page 4 of 8
+POCTO03 ACT-LR
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+8.
+
+9
+
+10.
+
+The instrument will signal ready with an audible tone; the display will read “Add
+
+Sample...Press Start.”
+
+At this point, the instrument is set to time out after 5 minutes of inactivity. If this
+
+happens, discard the cuvette and retest using a new cuvette.
+
+Reconstitute the dropper vial contents as follows:
+
+a. Remove the label from the vial.
+
+b. Insert vial into protective sleeve (optional). Holding vial upright, tap the vial
+
+on a flat surface to settle glass ampule to the bottom of the vial.
+
+Crush the inner glass ampule by bending the vial over the edge of a table top.
+
+d. Immediately repeat the crushing action one to two additional times to ensure
+complete breakage of the glass ampule.
+
+e. Quickly invert the dropper vial end to end 10 times. Shake vigorously to
+ensure complete mixing.
+
+While inverting the vial (dropper tip down), use a downward snapping motion of
+
+the wrist to ensure the control material flows to dropper tip. Remove and retain
+
+the vial cap.
+
+Squeeze vial to discard the first drop of control material into vial cap.
+
+Immediately dispense 1 hanging drop of control material to fill the cuvette
+
+sample well flush to the top.
+
+Should a large dome of blood extend over the top of the center well, push it over
+
+into the outer sample well.
+
+Press the START key.
+
+Do not move the instrument during testing. Keep on a level surface.
+
+Discard the control vial in the appropriate biohazard container.
+
+Wait for the single beep signaling end of the test.
+
+Read the ACT result. It will be recorded and stored in the QC database.
+
+Repeat the procedure for the abnormal control.
+
+o
+
+QUALITY CONTROL ACCEPTABILITY
+
+1:
+
+If a quality control test result falls within the acceptable control range proceed with
+patient testing.
+
+2. Ifaquality control result falls outside of the acceptable control range:
+
+Repeat the level of control that is unacceptable.
+e Verify that control and cuvette expiration dates have not been
+exceeded and that reagent storage requirements are correct
+*  Verify that internal EQC was acceptable, including instrument
+temperature.
+Verify control reconstitution technique.
+Inspect the control vial for visible clot formation. If clots are present in
+the control vial, the performance of the control may be affected.
+® Review operator technique.
+If the new test result is within acceptable control range, proceed with
+patient testing. If the new test result falls outside of the acceptable
+control range, recheck corrective actions.
+If problems persist, notify the POCT Department in the lab, and
+discontinue use of the instrument.
+
+Page 5 of 8
+POCT03 ACT-LR
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+d.
+
+If necessary, contact Instrument Laboratories technical support at 1-800-
+579-2255
+
+PATIENT TEST PROCEDURE:
+
+Only authorized personnel who are trained and certified in the use of the Hemochron Signature
+Elite instrument are to perform patient testing. If a qualified person is not available to do patient
+testing, ACT Request for Testing is to be ordered for the laboratory to perform.
+
+TEST PROCEDURE:
+Verify patient identity by using two patient identifiers.
+Gloves are to be worn when performing patient testing.
+
+L
+
+o
+
+i
+
+10.
+11.
+12.
+
+13.
+14.
+
+15.
+
+To turn instrument On, Press and hold down the START key on the instrument or
+insert a cuvette (room temperature). Insert the cuvette with the label facing up.
+** The test name for the inserted cuvette is displayed in the upper corner of the
+screen. ** Select or scan cuvette lot number
+
+The instrument will perform self-check, then warms the cuvette to 37.0 + 1.0 °C
+(30 seconds). **Check the display screen for fault messages while the cuvette is
+warming**
+
+Manually enter or scan the OID (operator ID), and the PID (Patient D).
+
+When the cuvette reaches temperature, the instrument beeps and alternately
+displays “Add Sample...Press Start.” ***DO NOT COLLECT THE SPECIMEN
+UNTIL THIS POINT TO PREVENT PREMATURE CLOTTING. ***
+
+Obtain specimen, following Specimen Collection Section of procedure
+
+Add approximately 0.2 ml of fresh whole blood to the sample well of the test
+cuvette. Add enough blood so that the lower wall of the center sample well is
+filled. If the blood sample extends above the wall, push the excess blood into the
+overflow area. (“Sample too small, sample too large, or sample not seen” is
+displayed if an incorrect amount of sample was added,) ***IF THIS HAPPENS,
+YOU MUST RETEST USING A NEW CUVETTE AND NEW PATIENT
+SAMPLE***
+
+***The instrument is set to time out after 5 minutes of inactivity*** [f this
+happens, you must discard the cuvette and start over using a new cuvette.
+
+*** Immediately after adding sample, press Start key to start the test, ***
+Sample measurement, sample/reagent mixing, test initiation, and clot detection
+will then proceed automatically.
+
+The elapsed time (in seconds) is displayed until the sample clots.
+
+When a clot is detected, the instrument beeps once.
+
+The result is displayed as Celite equivalent ACT value in seconds.
+
+If the result was in error — attach “Procedure Error” comment to result prior to
+removing cuvette from instrument. This result will not upload to patient’s chart.
+a. Press Note button, Press 1-Procedure Error, Press Cancel button
+The result is recorded in the patient database.
+
+Dispose of the used cuvette, syringe, and needle in a biohazardous container
+and/or sharps container.
+
+Clean/Disinfect instrument. See Cleaning/Disinfection section below.
+
+Page 6 of 8
+POCT03 ACT-LR
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+16. Connect meter to data cable and press Print/Scan button, then select #6 —
+“Transferring Data” will appear on display. Results are then downloaded to a
+data management system and sent to patient’s EMR.
+
+Note: If instrument is connected to data cable during testing, once cuvette is
+removed data transfer will automatically occur.
+
+RECALLING PATIENT/QC RESULTS from instrument:
+
+Press Database button, then select 4-Display QC or 5-Display Pat. Follow prompts displayed on
+the screen, to view detailed information about the results.
+
+REPORTING RESULTS:
+
+ACT-LR results should be reported to the attending nurse and/or physician. Hemochron
+Signature Elite connects to a data port for transmission of patient test result to the hospital
+information system. Patient ACT test results which include the ACT result (in seconds), date,
+time, instrument serial#, reference range and name/ID of instrument operator, are then recorded
+in the patient’s electronic medical record. These results can be found under Laboratory Testing.
+
+REFERENCE RANGE
+The Low Range Activated Clotting Time (ACT-LR) for normal patients is 122-170
+seconds. The presence of heparin prolongs the clotting time.
+
+REPORTABLE RANGE
+The Low Range Activated Clotting Time (ACT-LR) reportable range is
+100-400 seconds.
+
+ABNORMAL RESULTS
+
+ACT+ test results >400 seconds will be reported as >400 seconds in the patients’ medical
+record. ACT+ results <100 seconds will be reported as <100 seconds in the patients’
+medical record.
+
+Note: Values outside the manufacturer range will display as follows: “Out of Range-HI”
+if the value is >400 sec. and “Out of Range-Lo” if the value is <65 sec. These tests
+should be repeated due to potential error in testing.
+
+THERAPEUTIC RANGES
+
+Consensus Statement Guidelines for ACT therapeutic ranges are followed by clinicians
+dependent upon the patients clinical presentation during the procedure. Variation among
+patient and procedure determines what ACT value is therapeutic, regardless of said
+guidelines. As new medications are introduced guidelines are updated to include them.
+See references below.
+
+BATTERY USAGE
+1. Plug the AC/DC Power Module into an electrical outlet and connect the AC/DC Power
+cord to the power connector on side of the instrument. The charge indicator on the
+instrument keypad will illuminate. Allow the battery to fully charge for at least 8 hours
+prior to use. The AC/DC Power Module can remain connected all the time but may be
+unplugged during testing. )
+2. CHARGE BATTERY warning is displayed when the remaining battery power is
+
+Page 7 of 9
+POCTO03 ACT-LR
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+insufficient to ensure test completion.
+3. BATTERY FAULT is displayed when the battery is completely discharged and cannot
+be used to run additional tests.
+
+4. A battery charge LED on the front panel is illuminated whenever the battery is being
+charged.
+
+CLEANING/DISINFECTION
+Wear Gloves when cleaning/disinfecting instrument.
+® The instrument is to be cleaned between each individual patient and when visibly
+contaminated with blood.
+® Inspect and clean the cuvette opening with water-moistened cotton swabs as needed.
+*  Use hospital approved disinfection material or 10% bleach to wipe the instrument, taking
+care not to get any liquid in the electronic openings
+* Do Not Use solvents or strong cleaning solutions
+
+TROUBLESHOOTING DISPLAY ERROR MESSAGES:
+
+If an Error message appears on the instrument display during instrument self-check or test
+performance, the message must be cleared before patient testing can resume. Notify the POCT
+Department in the 1ab765-3479 or 765-6345, for assistance or refer to the “Troubleshooting”
+section of the Operator’s Manual. IL Technical Support 1-800-579-2255 may also be contacted.
+
+CALIBRATION:
+
+The Signature Elite instrument is calibrated by the manufacturer. It is also self-calibrating, as all
+instrument functions are continuously monitored and verified by the instrument software when a
+test is performed. The instrument does not require additional calibration by the user.
+
+LIMITATIONS OF THE PROCEDURE AND INTERFERING SUBSTANCES:
+
+The accuracy and precision of the Hemochron Signature ACT-LR test results are dependent
+upon the quality of the blood specimen and test system. Factors such as improper specimen
+collection technique, transfer of blood to the cuvette, specimen contamination, improper cuvette
+temperature, inadequate sample volume, will adversely affect the test results.
+
+Samples from patients treated with aprotinin, a protease inhibitor, should not be used for ACT-
+LR testing. Aprotinin interferes with the Celite activator causing an artificial prolongation of
+ACT-LR result.
+
+Samples with a hematocrit less than 20% or greater than 55% are not recommended due to an
+optical density outside the level of detection of the instrument
+
+The ACT may be affected by hemolysis of the sample, clotted or partially clotted blood,
+unsuspected anticoagulation and Lupus anticoagulant.
+
+Test results exhibiting inconsistency with the patient’s clinical status should be repeated or
+supplemented with additional test procedures.
+
+Page 8 of 9
+POCT03 ACT-LR
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+REFERENCES:
+Hemochron Signature Elite Operator’s Manual; Accriva Diagnostics, Inc. San Diego, CA;
+Current.
+
+Hemochron Jr. ACT-LR Cuvettes Package Insert; Accriva Diagnostics, Inc. San Diego, CA;
+Current.
+
+Direct Check Controls Package Insert; Accriva Diagnostics, Inc. San Diego, CA; Current.
+
+SCAI Expert Consensus Statement: 2016 Best Practices in Cardiac Catherization Laboratory.
+2016
+
+HRS/EHRA/ECAS Consensus Statement on Catheter and Surgical Ablations of AFib:
+Recommendations for Personnel, Policy, Procedures and Follow-Up. 2007
+
+Antithrombotic therapy for elective percutaneous coronary intervention: General use, 2018
+
+Page 9 of 9
+POCTO03 ACT-LR
+

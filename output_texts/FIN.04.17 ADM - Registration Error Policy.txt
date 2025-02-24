@@ -1,0 +1,126 @@
+FRANCISCAN MISSIONARIES OF OUR LADY
+
+HEALTH SYSTEM
+
+RESPONSIBLE DEPARTMENT: SUBJECT:
+Patient Access
+
+Registration Error Policy
+
+PAGES: 2
+
+REPLACES POLICY DATED:
+Registration Error Policy dated 11/15
+
+EFFECTIVE DATE: October 3, 2017 I—;_YSTEM POLICY NUMBER:
+REVISED: 4/13/15; 6/1/15; 10/3/17; 1/25/19 FIN.04.17
+
+APPROVED BY: ,{Zm pra. *'7\5;6 DATE: /- 95— /%
+SCOPE: Applies to all staff reporting to Patient Access leaders in FMOLHS.
+
+PURPOSE:
+| The purpose of this policy is to ensure the quality of the patient account at the time of registration, to
+| ensure patient safety, to meet regulatory requirements, and to ensure that proper billing can occur.
+
+.
+
+DEFINITIONS:
+
+Crucial Errors (can result in patient harm and are subject to strict disciplinary measures)
+
+Failure to select correct MRN
+
+Failure to use (3) ID process
+
+Failure to place correct armband on patient
+
+An error that may cause a Sentinel Event
+
+Any EMTALA (Emergency Medical Treatment Active Labor Act) violations
+
+Changing Trauma patient information before prior notification (see hospital-specific rules on
+trauma patient identification)
+
+Loss-of-Revenue Errors
+
+Failure to obtain a precertification / authorization for services
+
+Failure to verify and update insurance information based on eligibility response
+Failure to notify an insurance company timely of an inpatient admission
+Failure to follow policy related to point-of-service collections
+
+Privacy (HIPAA) Violations
+
+Failure to update and verify demographic information, resulting in possible HIPAA violation
+Inappropriate disclosure of information which may lead to a HIPAA breach
+
+General Registration Quality Errors
+
+Failure to update and verify demographic information
+
+Failure to ask for and document patient out-of-pocket responsibility
+
+Failure to scan and document required information to account
+
+Failure to complete Registration in a timely manner
+
+Failure to follow proper process/policy for Admission type (e.g. trauma, emergency,
+observation, inpatient, ambulatory)
+
+Demographic and other errors identified in EPIC workqueues
+
+
+POLICY:
+
+Patient Access Reps will provide accurate and complete registrations meeting all Federal, State, and
+JCAHO requirements. Access Reps will obtain accurate and complete demographic, clinical,
+insurance, and financial information from patients in an efficient and courteous manner during the
+registration process. Patient Access Reps will use (3) identifiers to ensure the correct patient is
+selected and given the correct armband before services are rendered. The patient’s driver’s license
+and insurance card will be obtained and scanned at the time of registration. Benefits verification that
+can be processed through Passport, Medicaid website or various insurance providers websites, will be
+done and documented at or before the time of registration (for all patient types). Errors will be
+tracked and appropriate disciplinary measures taken.
+
+* Crucial errors and loss-of-revenue errors will result in stricter disciplinary measures than general
+registration quality errors.
+
+¢ Privacy violations will be subject to System policy PRI.08.014 —~ HIPAA Privacy and Security
+Breach Disciplinary Sanctions and Mitigation. Patient Access leaders will consult with Human
+Resources and the facility Privacy Officer when such matters occur.
+
+¢ Supervisors and managers will perform monthly quality audits, through which a quality score will
+be derived. Accounts selected for audit will include: randomly-selected accounts that the registrar
+worked, accounts identified by other departments as having potential errors, and accounts listed in
+EPIC ADT/Registration WQ’s. A quality score will be calculated by dividing the number of
+correct data points by the total number of data points reviewed. Example: 94 data points correct
+out of 100 data points reviewed = 94/100 = 94%.
+
+¢ Disciplinary actions will be taken as described below.
+
+o Verbal Warning
+®  The 1* occurrence of a loss-of-revenue error.
+*  The 1* month the employee’s quality score falls below 85%.
+
+o Written Warning
+*  The 2™ occurrence of a loss-of-revenue error.
+»  The 2" month the employee’s quality score falls below 85%.
+
+o Final Written Warning with Performance Improvement Plan (consult HR)
+= The 1st occurrence of a crucial error.
+® The 3rd occurrence of a loss-of-revenue.
+*  The 3" month the employee’s quality score falls below 85%.
+
+o Administrative Review (Termination) (consult HR)
+= The 2nd occurrence of a crucial error
+*  The 4th occurrence of a loss-of-revenue error.
+* The 4™ month the employee’s quality score falls below 85%, with no improvement
+shown. If scores remain below 85% but improvement is noted, the Performance
+Improvement Plan may be extended for 30-60 days; HR will be consulted in this case.
+
+NOTE: With the exception of crucial errors, this policy does not apply to new hires within their I
+20 days of employment.
+
+| S—
+
+

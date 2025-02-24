@@ -1,0 +1,118 @@
+POLICIES AND PROCEDURES MANUAL
+
+Our Lady of the Lake Regional Medical Center Manual: Business Office
+Chapter:
+
+Subject: Identifying & Refunding Medicare Credit Balances
+Section:
+
+Date of Origination: December 2004 Supersedes:
+
+Approved: _
+
+PURPOSE:
+
+Date of Last Revision: June 10, 2016 Serial Code: BO-C24
+
+Establish steps to identify Medicare Credits and refund any over payments to the Fiscal
+Intermediary, third party payer or patient timely.
+
+POLICY:
+
+OLOL will report to our Fiscal Intermediary all refunds due to the Medicare program each quarter.
+OLOL will report the Medicare overpayments in the format and timelines outlined in Section 484
+of the Hospital Manual.
+
+PROCEDURE:
+
+a,
+
+Run the Nomad Report, (BUS017-PACRBAL), which reports all credit balance
+accounts. Review accounts that have Medicare as a payer, but have not already
+been identified as a patient credit (PC), insurance credit (CB), Medicare credit
+(CR), Medicaid Credit (WC), or blood credit (BC).
+
+Benefits may be verified by using Medicare’s secondaty payor questionnaire. The
+patient or responsible party may be contacted, but if not available or deceased, we
+may verify Medicare benefits using information in Medicare’s Common Working
+File and/or the other Insurance or Payor may be contacted. All EOB’s and
+remittances will be reviewed.
+
+Ifit has been determined, that Medicare should not have paid on this claim or should
+have paid as secondary payer, the account shall be identified as a Medicare Credit
+(CR) and the amount shall be returned to Medicare.
+
+If possible, the claim adjustment or void should be completed electronically.
+
+If it is not possible to do a claim adjustment or void the claim, a memo should be
+placed on the account using the canned message “QF” reporting on the CMS 838.
+Change the account’s collections status to the assigned HCFA 838 status.
+
+At the end of the quarter, list all Credit Balances identified by the HCFA 838 status
+on the Medicare Credit Balance Report, by payer type. Complete each column and
+attach all documentation needed.
+
+Once the 838 is completed by the Refund Supervisor, the attached cover memo will
+be attached to the 838 and forwarded to the PFS Manager and PFS Director for
+review. After the review is completed the PFS Manager and PF'S Director will sign
+
+
+the cover memo indicating their review and forward the cover memo and the 838
+to the CFO or other approved Administrator for signature.
+
+The Refund Supervisor shall make copies of all documentation and will maintain a
+copy in the quarterly credit balance folder.
+
+The CMS 838 report is to be faxed or sent via FedEx prior to the Medicare’s due
+date.
+
+. The credit report worked and the CMS 838 submitted to Medicare is to be saved on
+the T drive under Data/Business office reports/Medicare credit balance reports.
+Save the report name by quarter and year.
+
+If the adjustment was completed electronically, the account should be reviewed
+within 21 days to make sure the adjustment was completed successfully. If the
+adjustment had to be mailed in hardcopy, the account should be reviewed 30 to 45
+days from mail date, to verify that the adjustment was completed successfully.
+
+. Credit amounts unresolved 60 days from the date submitted to Medicare should be
+reported to the Business Office Manager for review.
+
+
+Supervisor/Manager
+Medicare Credit Balance Report Cover Memo
+
+INTERNAL MEDICARE CREDIT BALANCE COVER MEMO
+The Medicare Credit Balance Report is required under the authority of Sections 1815(a), 1833(e),
+1886(a)(1)(C) and related provisions of the Social Security Act. Failure to submit this report may result in a
+suspension of payments under the Medicare program and may affect your eligibility to participate in the Medicare
+program.
+CERTIFICATION BY SUPERVISOR AND MANAGER OF PROVIDER (S)
+I HEREBY CERTIFY that I have read the above statements and that I have examined the accompanying credit
+balance report prepared for
+
+Provider Name Provider 6-Digit Number
+
+for the calendar quarter ended and that it is a true, correct, and complete statement prepared from the
+books and records of the provider in accordance with applicable Federal laws, regulations and instructions.
+
+(Sign)
+
+Supervisor
+(Print)
+
+Name and Title
+(Print)
+
+Date
+(Sign)
+
+Manager
+(Print)
+
+Name and Title
+(Print)
+
+Date
+
+

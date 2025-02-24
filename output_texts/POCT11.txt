@@ -1,0 +1,163 @@
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+S ——————
+POINT OF CARE TESTING QUALITY PLAN MANUAL
+— o COUALITYPLANMANUAL |
+
+POCT11
+Hydrion pH Paper
+
+sue D
+Prepared/Revised By L/ b
+
+Reviewed By
+
+***Department Medical Director Review
+
+Medical Director Review
+
+Affiliate Medical Director Review Clivince h_\\ £
+
+Affiliate Medical Director Review (Q\D
+
+*** Signed above
+
+PURPOSE:
+
+pH is a numerical scale used to express a solution’s acidity or alkalinity. The use of Hydrion pH
+paper provides a simple, fast, and economical method of PpH measurement.
+
+This testing method will be used for the screening of the presence of amniotic fluid following
+premature rupture of the membranes and for the determination of the need and success of eye
+irrigation after caustic exposure. It is performed only by Physicians, Advanced Practice Providers
+and Residents in the Emergency Departments.
+
+Shared procedure applicable for multiple hospital institutions list below:
+1. Our Lady of the Lake Regional Medical Center (Emergency Dept.)
+2. Our Lady of the Lake Livingston (Emergency Dept.)
+3. Our Lady of the Lake Children’s Hospital (Emergency Dept.)
+
+PRINCIPLE:
+
+A body fluid’s pH measurement may be of use as an evaluation aid to assist with assessment,
+diagnosis, and treatment of a patient. Testing pH level in vaginal secretions can detect presence
+of amniotic fluid following Premature Rupture of the Membrane (PROM). It can also be
+measured in eye secretions to monitor effects of chemical splashes to the eye. Hydrion paper
+color changes coincide with a numeric pH interpretation. Red/orange to yellow/green (pH 1 — 6)
+indicates an acidic sample. Green (pH 7) indicates a neutral sample.
+
+Dark green/blue (pH 8 — 11) indicates an alkaline sample.
+
+SPECIMEN:
+Vaginal secretions or amniotic fluid
+Eye secretions or eye washings
+
+Page 1 0of 3
+POCT11 Hydrion pH Paper
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+MATERIALS:
+
+Hydrion pH Paper
+
+Gloves
+
+Sterile Container or Cotton Swab for Specimen Collection
+
+QUALITY CONTROL:
+
+Hydrion pH paper are to be stored in a dry location at room temperature (15-30°C)
+protected from sunlight. Hydrion pH paper is stable until the manufacturer’s expiration
+date printed on the container.
+Quality control will be performed by POCC or Lab designee monthly and upon receiving a new
+lot/shipment of Hydrion pH paper. To ensure accuracy of pH paper, QC Hyrdion paper with
+buffer standards of various pH values. Buffer standards may be used until manufactures
+expiration and stored at Room Temperature.
+Any unacceptable QC should be repeated. If QC is still unacceptable after repeating, then paper
+will be removed.
+
+QC Procedure:
+
+1. Use a 3-inch strip of pH paper for each solution and use the:
+Type A pH paper with the buffer standard 4.0
+Type B pH paper with the buffer standard 7.0
+2. Compare each paper to color chart to verify appropriate color change for the
+corresponding pH value.
+3. Record QC results on QC log. (POCTI1 1-A)
+
+PROCEDURE:
+Only physicians, mid-level practitioners and laboratory personnel are to perform procedure.
+
+Verify that the Hydrion pH paper has not expired.
+
+Put on gloves.
+
+Tear off a 3-inch strip of pH paper
+
+Sample Application
+
+A. Use at least 2 unique patient identifiers to verify a patient’s identity before collecting
+sample
+
+B. If using a cotton swab for sample collection, smear fluid from the swab onto pH paper
+
+C. If using fluid container for sample collection, dip the strip into the sample fluid and
+shake off any excess fluid
+
+5. Compare the strip to the color chart on the Hydrion dispenser immediately
+
+6. Dispose of strip into biohazard container after results have been recorded
+
+L BRI
+
+REFERENCE RANGES:
+Normal Vaginal pH: 3.8 —4.5
+Amniotic Fluid pH: 7.0 - 7.5
+Normal Eye pH: 7.0 - 7.3
+
+RESULT RECORDING: '
+Test results are documented in patient EMR under ER Provider Notes (POCT11-JA-1)
+
+Page 2 of 3
+POCT11 Hydrion pH Paper
+
+OUR LADY OF THE LAKE RMC
+POINT OF CARE TESTING
+BATON ROUGE, LA 70808
+
+LIMITATIONS:
+
+1. Hydrion paper is to be used in vitro only and is not to be used internally.
+
+2. Hydrion pH paper can read up to pH 11. Samples higher than pH 11 will show the color
+indicated on the chart for pH 11.
+
+3. Color change should be read immediately after strip inoculation.
+
+4. Contamination with blood or lubricating gel may interfere with the test.
+
+5. Falsely elevated pH results may occur with blood, semen, bacterial vaginosis, or
+Trichomonas vaginalis infections.
+
+6. Falsely decreased pH results may occur if insufficient specimen is placed on the strip.
+
+7. Hydrion pH paper cannot distinguish amniotic fluid from urine.
+
+REFERENCES:
+
+Duke Raleigh Hospital pH Testing Using pHydrion Paper Laboratory Procedure Statement.
+hitp://poct.duhs.duke.edu/wysiwyg/downloads/DRaH §-
+
+2011_ph_testing using_pHydrion_paper.pdf
+
+MCLNO-pH testing in Amniotic Fluid Laboratory Procedure Statement
+http://www.mc]no.org/webresources/Waived/pH%20Testing.pdf
+
+Page 3 of 3
+POCT11 Hydrion pH Paper
+

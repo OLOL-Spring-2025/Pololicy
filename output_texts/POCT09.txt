@@ -1,0 +1,195 @@
+POINT OF CARE TESTING PROCEDURE MANUAL
+
+POCTO09 _‘
+
+URINE PREGNANCY TEST — hCG Combo Rapid Test
+
+s/i9 | stag
+7%
+
+Prepared/Revised By K. Vetter
+
+Reviewed By
+
+***Department Medical Director Review
+
+Medical Director Review
+
+L:{_fﬁha/ed Medical Director Review
+
+PRINCIPLE:
+
+The hCG Combo Serum/Urine test is a rapid chromatographic immunoassay (CIA) for the
+qualitative determination of human chorionic gonadotropin (hCG) in serum or urine to aid in the
+early detection of pregnancy. The test utilizes a combination of mouse monoclonal anti-hCG
+antibodies and goat polyclonal anti-hCG antibodies to selectively detect elevated levels of hCG in
+serum or urine. This test has the sensitivity of 10 mIU/ml in serum and 20 mIU/ml in urine. Once
+the specimen is added to the specimen well of the test cassette, the specimen migrates via capillary
+action along the membrane to react with the colored conjugate. Positive specimens react with the
+specific colored antibody conjugates and form a colored line at the test line region of the
+membrane. Absence of the colored line suggests a negative result. To serve as a procedural
+control, a colored line will always appear at the control line region if the test has been performed
+properly.
+
+**% CLIA Complexity: Urine - Waived Test (only method allowed in OLOLRMC ED)
+
+Serum- Moderately Complex
+
+Shared procedure applicable for multiple hospital institutions listed below:
+1. Our Lady of the Lake Regional Medical Center (Emergency Dept.)
+2. Our Lady of the Lake Children’s Hospital (Emergency Dept.)
+
+SPECIMEN COLLECTION:
+
+A urine specimen must be collected in a clean and dry container which is labeled with 2 PID. A
+first morning urine specimen is preferred since it generally contains the highest concentration of
+hCG; however, urine specimens collected at any time of the day may be used. Urine specimens
+exhibiting visible precipitates (turbidity) should be centrifuged. filtered, or allowed to settle to
+obtain a clear specimen for testing. These turbid specimens can be sent to the Core Laboratory
+for testing, if necessary.
+
+Page 1 of 4
+POCT09 UPT
+
+Handling Conditions:
+1. Wear gloves while handling urine specimens.
+
+2. Urine specimens may be stored at 2° - 8°C (36° - 46°F) for up to 48 hours prior to
+testing.
+
+3. For prolonged storage, specimens may be frozen and stored below -20°C (-4°F).
+Frozen specimens should be thawed and mixed before testing.
+
+EQUIPMENT AND MATERIALS:
+
+1. hCG Combo Rapid Test Kit: Thirty (30) individually packaged test cassettes each
+containing one disposable specimen dropper. Stored Room Temperature 15° - 30°C.
+Stable until manufacturer expiration date printed on outside of test kit.
+
+2. Urine Dropper Quality Controls (Level 1 & 2)- Stored Refrigerated 2°- 8°C. Stable
+until manufacturer expiration date on bottles.
+
+3. Urine specimen collection container
+
+4. Timer
+
+QUALITY CONTROL:
+
+External Quality Control testing should be performed:
+1 Each Lot Number of test kits per shipment
+2% Monthly, on Each Lot Number of test kits for Storage Conditions
+
+3 When training new testing personnel.
+External Quality Control performance:
+1, Bring Urine Dropper QC to room temperature before use.
+2. Mix vial contents, remove cap and invert. Squeeze the bottle to express required
+volume (3 drops) of control reagent.
+3. Test as described in the procedure below.
+4. Document QC results on appropriate QC Log: New Shipment (POCT-4) vs
+Monthly (POCT-B).
+Acceptable QC Results:
+I Positive control — Two distinct RED lines appear. A RED colored control band
+(C). and a RED colored band in the patient test region (T).
+2; Negative control — One Red line appears in control region (C). NO apparent
+
+band on the patient test region (T).
+
+Internal Control must be present for QC results to be acceptable.
+Internal procedural controls are included in the test. A red line appearing in the control
+region (C) is the internal procedural control. It confirms sufficient specimen volume and
+correct procedural technique. A clear background is an internal negative background
+control. If the test is working properly, the background in the result area should be white
+to light pink and not interfere with the ability to read the test result.
+
+Page 2 of 4
+POCTO09 UPT
+
+PROCEDURE:
+
+1. Follow OLOL 2 Step ID for patient identification prior to specimen collection.
+
+2. See specimen collection section for acceptable specimens.
+
+3. Use only test cassettes from UPT Kits with Green Stickers “This Lot Ready for Use.”
+
+4. Remove the test cassette from the sealed pouch, label with Patient ID and use it as soon
+as possible.
+
+5. Place the test cassette on a clean and level surface. Hold the dropper vertically and
+transfer 3 full drops of urine to the specimen well (S) of the test cassette, and then start
+the timer. (Avoid trapping the air bubbles in the specimen well (S).
+
+6. Wait for the red line(s) to appear. Read the result at 3 minutes when testing urine. It
+is important that the background is clear before the result is read. Do not interpret results
+after 4 minutes.
+
+7. Dispose used pipette, test cassette and urine specimen in biohazard waste container once
+testing is completed.
+
+REPORTING RESULTS:
+
+Manually document patient test results in hospital information system. The patient test result
+should include: UPT result, internal control, Lot # of test cassette, testing personnel, date and
+time.
+
+POSITIVE:
+
+Two distinct RED lines appear. One line should be in the control region (C) and another line
+should be in the test region (T).
+
+NEGATIVE:
+
+One RED line appears in the control region (C). NO apparent red or pink line appears in the
+test region (T).
+
+INVALID:
+Control line fails to appear. Insufficient specimen volume or incorrect procedural techniques
+
+are the most likely reasons for control line failure. Review the procedure and repeat the test with
+anew cassette.
+
+LIMITATIONS OF THE PROCEDURE:
+
+1. Very dilute urine specimens, as indicated by a low specific gravity, may not contain
+representative levels of hCG. If pregnancy is still suspected, a first morning urine
+specimen should be collected 48 hours later and tested.
+
+2. False negative results may occur when the levels of hCG are below the sensitivity level of
+test. When pregnancy is still suspected, a first morning urine specimen should
+be collected 48 hours later and tested.
+
+3. Very low levels of hCG (less than 50 mIU/ml) are present in urine specimens
+shortly after implantation. However, because a significant number of first trimester
+pregnancies terminate for natural reasons, a test result that is weakly positive should be
+confirmed by retesting with a first morning urine specimen collected 48 hours later.
+
+Page 3 of 4
+POCT09 UPT
+
+The test reliably detects intact hCG up to 500,000 mIU/mL. It doee not reliably detect hCG
+degradation products, including free-beta hCG and Beta core fragments. Quantitative
+
+assays used to detect hCG may detect hCG degradation products and therefore may disagree
+with the results of this rapid test.
+
+A number of conditions other than pregnancy, including trophoblastic disease and certain
+non-trophoblastic neoplasms including testicular tumors, prostate cancer, breast cancer,
+and lung cancer, cause elevated levels of hCG. Therefore, the presence of hCG in a urine
+specimen should not be used to diagnose pregnancy unless these conditions have been ruled
+out.
+
+As with any assay employing mouse antibodies, the possibility exists for interference by
+human anti-mouse antibodies (HAMA) in the specimen. Specimens from patients who
+have received preparations of monoclonal antibodies for diagnosis or therapy may contain
+HAMA. Such specimens may cause false positive or false negative results.
+
+Ths test provides a presumptive diagnosis for pregnancy. A confirmed pregnancy diagnosis
+should only be made by a physician after all clinical and laboratory findings have been
+evaluated.
+
+REFERENCES:
+hCG Combo Rapid Test Package Insert; Cardinal Health, Current.
+
+Page 4 of 4
+POCT09 UPT
+
