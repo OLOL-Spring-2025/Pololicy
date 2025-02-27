@@ -175,3 +175,7 @@ OneDrive Feb 12 2025/
 converted_pdfs1/
 output_texts2/
 converted_pdfs/
+
+#database stuff
+paradedb_data/
+
