@@ -3,9 +3,6 @@ import psycopg2
 from dotenv import load_dotenv
 import os
 import json
-from azure.ai.inference import ChatCompletionsClient
-from azure.core.credentials import AzureKeyCredential
-from azure.ai.inference.models import SystemMessage, UserMessage
 from database.database import get_db_connection, init_db
 # Database connection details
 load_dotenv('../../.env')
@@ -14,6 +11,7 @@ openai.api_key =os.getenv("OPENAI_API_KEY")
 init_db()
 
 #embedding function to get the embedding of the text
+# SEE HOW TO USE LAB MACHINE TO EMBEDD WITH THAT EMBEDDING STUFF
 def get_openai_embedding(text):
     response = openai.Embedding.create(
         model="text-embedding-ada-002",
@@ -28,7 +26,7 @@ def insert_document(content):
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    sql = "INSERT INTO documents (content, embedding) VALUES (%s, %s::vector)"
+    sql = "INSERT INTO embeddings (content, embedding) VALUES (%s, %s::vector)"
     cursor.execute(sql, (content, json.dumps(embedding)))
 
     conn.commit()
