@@ -1,0 +1,21 @@
+Run this to save the current state of the DB:
+    docker exec paradedb pg_dump -U myuser -d mydatabase > db/paradedb_backup.sql
+    
+    This should over write the existing file if you update it again for whatever reason
+    You should only run this if you have a new copy of the DB that needs updating
+
+When you pull the DB, run this to ensure everything is properly configured and restored automatically:
+    docker-compose --env-file .env up -d
+
+=======================================================================================================================================================
+
+If for what ever reason the above cmd does not work run this to manually restore:
+    docker exec -i paradedb psql -U $(grep POSTGRES_USER .env | cut -d '=' -f2) -d $(grep POSTGRES_DB .env | cut -d '=' -f2) < db/paradedb_backup.sql
+Verify that above cmd worked:
+    docker exec -it paradedb psql -U $(grep POSTGRES_USER .env | cut -d '=' -f2) -d $(grep POSTGRES_DB .env | cut -d '=' -f2) -c "\dt"
+
+
+
+
+NOTE: If you just have docker installed at all this should just make a new container for you with out you having
+    to run any code at all just the restore cmd

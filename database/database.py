@@ -73,4 +73,4 @@ def search_similar_documents(query_embedding, top_k=5):
 search_similar_documents([0.1, 0.2, 0.] + [0.0] * 1533)
 
 
-#we need to store the meta data of the document in the database as well as another column
+#we need to store the meta data of the document in the database as well as another column and probably json format
