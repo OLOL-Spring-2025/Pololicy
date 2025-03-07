@@ -12,6 +12,15 @@ services:
       - "5432:5432"
     volumes:
       - paradedb_data:/var/lib/postgresql/data
-
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+  openwebui:
+    image: ghcr.io/open-webui/open-webui:main
+    ports:
+      - "3000:8080"
+    environment:
+      - DATABASE_URL=postgresql://${DB_USER}:${DB_PASSWORD}@paradedb:5432/${DB_NAME}
+    volumes:
+      - open-webui:/app/backend/data
 volumes:
   paradedb_data:
+  open-webui:
